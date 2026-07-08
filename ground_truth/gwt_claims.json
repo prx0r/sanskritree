@@ -1,0 +1,24 @@
+{
+  "tradition": "GWT",
+  "description": "Global Workspace Theory core claims. Tier 3 axioms.",
+  "claims": [
+    {
+      "id": "GWT_Competition",
+      "statement": "Representations compete for access to the global workspace",
+      "plain": "Only the winner gets broadcast",
+      "primitive_hint": "Broadcast"
+    },
+    {
+      "id": "GWT_Workspace",
+      "statement": "A representation is conscious iff it wins competition and gets broadcast to all specialist modules",
+      "plain": "Conscious = globally available",
+      "primitive_hint": "Broadcast"
+    },
+    {
+      "id": "GWT_Broadcast",
+      "statement": "Broadcast makes the representation readable by all specialist modules that previously had no access",
+      "plain": "Information access defines consciousness",
+      "primitive_hint": "Broadcast"
+    }
+  ]
+}

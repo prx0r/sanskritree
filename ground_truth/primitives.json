@@ -1,0 +1,100 @@
+{
+  "description": "Primitive vocabulary for consciousness theory mapping. Shared building blocks. Everything gets placed relative to these.",
+  "primitives": [
+    {
+      "id": "CausalPower",
+      "definition": "A system has causal power on itself or others",
+      "lean_hint": "CausalPower : Type → Prop or (s : Substrate) → Prop",
+      "source": "IIT Existence, Dharmakīrti arthakriyā",
+      "mathlib_ref": null,
+      "status": "to_formalize"
+    },
+    {
+      "id": "Irreducible",
+      "definition": "System cannot be partitioned without information loss",
+      "lean_hint": "Irreducible : Type → Prop. Connects to Set.Partition.",
+      "source": "IIT Integration",
+      "mathlib_ref": "Mathlib.Data.Set.Partition (verify)",
+      "status": "to_formalize"
+    },
+    {
+      "id": "Broadcast",
+      "definition": "Representation is available to multiple specialist modules",
+      "lean_hint": "Broadcasts : GlobalWorkspace → SpecialistModule → Prop",
+      "source": "GWT",
+      "mathlib_ref": null,
+      "status": "to_formalize"
+    },
+    {
+      "id": "GlobalWorkspace",
+      "definition": "Shared resource that wins competition for access",
+      "lean_hint": "GlobalWorkspace : Type",
+      "source": "GWT",
+      "mathlib_ref": null,
+      "status": "to_formalize"
+    },
+    {
+      "id": "Representation",
+      "definition": "Content that can be broadcast or integrated",
+      "lean_hint": "Representation : Type",
+      "source": "GWT, IIT",
+      "mathlib_ref": null,
+      "status": "to_formalize"
+    },
+    {
+      "id": "Substrate",
+      "definition": "Physical or functional system that instantiates consciousness",
+      "lean_hint": "Substrate : Type",
+      "source": "IIT, PhysLean",
+      "mathlib_ref": null,
+      "status": "to_formalize"
+    },
+    {
+      "id": "ForallImp",
+      "definition": "Universal implication: ∀ x, P x → Q x",
+      "lean_hint": "Standard Lean. forall x, P x → Q x",
+      "source": "Mathlib",
+      "mathlib_ref": "Mathlib.Logic.Basic",
+      "status": "proved"
+    },
+    {
+      "id": "Perceives",
+      "definition": "Cognition perceives a particular",
+      "lean_hint": "Perceives : Cognition → Svalaksana → Prop",
+      "source": "Sanskrit.lean (Dharmakīrti)",
+      "mathlib_ref": null,
+      "status": "axiom"
+    },
+    {
+      "id": "Kalpana",
+      "definition": "Conceptual construction",
+      "lean_hint": "Kalpana : Cognition → Prop",
+      "source": "Sanskrit.lean (Dharmakīrti)",
+      "mathlib_ref": null,
+      "status": "axiom"
+    },
+    {
+      "id": "Cognition",
+      "definition": "Cognitive system or moment",
+      "lean_hint": "Cognition : Type",
+      "source": "Sanskrit.lean",
+      "mathlib_ref": null,
+      "status": "axiom"
+    },
+    {
+      "id": "Svalaksana",
+      "definition": "The particular, ineffable object of perception",
+      "lean_hint": "Svalaksana : Type",
+      "source": "Sanskrit.lean (Dharmakīrti)",
+      "mathlib_ref": null,
+      "status": "axiom"
+    }
+  ],
+  "relation_types": [
+    "structural_analogy",
+    "derives_from",
+    "contradicts",
+    "bridges",
+    "partial_overlap"
+  ]
+}

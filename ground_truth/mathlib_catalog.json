@@ -1,0 +1,84 @@
+{
+  "source": "Mathlib4",
+  "description": "Specific theorems that get referenced when formalizing consciousness claims. Consciousness claims bottom out in these.",
+  "url": "https://leanprover-community.github.io/mathlib4_docs/",
+  "loogle": "https://loogle.lean-lang.org/",
+  "fixed_points": {
+    "module": "Mathlib.Logic.Basic",
+    "items": [
+      {"name": "Exists", "signature": "∃ x, P x"},
+      {"name": "And", "signature": "P ∧ Q"},
+      {"name": "Iff", "signature": "P ↔ Q"},
+      {"name": "Not", "signature": "¬P"}
+    ]
+  },
+  "functions": {
+    "module": "Mathlib.Data.Function.Basic",
+    "items": [
+      {"name": "Function.Injective", "signature": "∀ a b, f a = f b → a = b"},
+      {"name": "Function.Surjective", "signature": "∀ b, ∃ a, f a = b"},
+      {"name": "Function.Bijective", "signature": "injective and surjective"}
+    ]
+  },
+  "relations": {
+    "module": "Mathlib.Relation",
+    "items": [
+      {"name": "Relation.Transitive", "signature": "∀ a b c, R a b → R b c → R a c"},
+      {"name": "Relation.Reflexive", "signature": "∀ a, R a a"},
+      {"name": "Equivalence", "signature": "reflexive, symmetric, transitive"}
+    ]
+  },
+  "finset": {
+    "module": "Mathlib.Data.Finset.Basic",
+    "items": [
+      {"name": "Finset.sum", "signature": "∑ x in s, f x"},
+      {"name": "Finset.card", "signature": "|s|"},
+      {"name": "Finset.partition", "signature": "disjoint union covering the whole set"}
+    ]
+  },
+  "topology": {
+    "module": "Mathlib.Topology.Basic",
+    "items": [
+      {"name": "IsOpen", "signature": "open set in a topological space"},
+      {"name": "IsClosed", "signature": "complement of open"},
+      {"name": "IsConnected", "signature": "cannot be split into two disjoint open sets"}
+    ]
+  },
+  "logic": {
+    "module": "Mathlib.Logic.Basic",
+    "items": [
+      {"name": "modus_ponens", "signature": "P → (P → Q) → Q"},
+      {"name": "contrapositive", "signature": "(P → Q) → ¬Q → ¬P"},
+      {"name": "not_and_or", "signature": "¬(P ∧ Q) ↔ ¬P ∨ ¬Q"}
+    ]
+  },
+  "sets": {
+    "module": "Mathlib.Data.Set.Basic",
+    "items": [
+      {"name": "Set.partition", "signature": "∀ s, Disjoint s.parts ∧ ⋃ s.parts = univ"},
+      {"name": "Set.subset_iff", "signature": "s ⊆ t ↔ ∀ x, x ∈ s → x ∈ t"}
+    ]
+  },
+  "measure_theory": {
+    "module": "Mathlib.MeasureTheory.Measure.ProbabilityMeasure",
+    "items": [
+      {"name": "ProbabilityMeasure", "signature": "μ univ = 1"},
+      {"name": "conditional_probability", "signature": "P(A|B) = P(A ∩ B) / P(B)"},
+      {"name": "mutual_information", "signature": "I(X;Y) = H(X) + H(Y) - H(X,Y)"}
+    ]
+  },
+  "order": {
+    "module": "Mathlib.Order.Basic",
+    "items": [
+      {"name": "PartialOrder", "signature": "reflexive, antisymmetric, transitive"},
+      {"name": "Lattice", "signature": "has meet and join for all pairs"}
+    ]
+  },
+  "graph_theory": {
+    "module": "Mathlib.Combinatorics.SimpleGraph.Basic",
+    "items": [
+      {"name": "SimpleGraph.connected", "signature": "∀ u v, Reachable u v"},
+      {"name": "SimpleGraph.partition", "signature": "V = V1 ∪ V2, V1 ∩ V2 = ∅"}
+    ]
+  }
+}

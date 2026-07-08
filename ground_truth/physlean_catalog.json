@@ -1,0 +1,34 @@
+{
+  "source": "PhysLean",
+  "description": "Specific items: causal structure, information, quantum. IIT partition-based φ is a graph operation. GWT broadcast is graph reachability.",
+  "url": "https://physlean.com",
+  "loogle": "https://loogle.physlean.com",
+  "causal_structure": {
+    "items": [
+      {"name": "CausalOrder", "signature": "irreflexive, transitive strict order on events"},
+      {"name": "CausalCone", "signature": "set of events reachable from e via causal paths"},
+      {"name": "Intervention", "signature": "do(X=x) — Pearl-style causal intervention"}
+    ]
+  },
+  "information": {
+    "items": [
+      {"name": "ShannonEntropy", "signature": "H(X) = -∑ p(x) log p(x)"},
+      {"name": "KLDivergence", "signature": "D_KL(P||Q) = ∑ P(x) log(P(x)/Q(x))"},
+      {"name": "MutualInformation", "signature": "I(X;Y) = H(X) - H(X|Y)"}
+    ]
+  },
+  "quantum": {
+    "items": [
+      {"name": "DensityMatrix", "signature": "ρ : HermitianMatrix, Tr(ρ) = 1"},
+      {"name": "VonNeumannEntropy", "signature": "S(ρ) = -Tr(ρ log ρ)"},
+      {"name": "Entanglement", "signature": "ρ_AB ≠ ρ_A ⊗ ρ_B"}
+    ]
+  },
+  "pearl_causality": {
+    "items": [
+      {"name": "do_operator", "signature": "do(X=x) — Pearl-style causal intervention"},
+      {"name": "CausalEffect", "signature": "P(Y|do(X)) vs P(Y|X)"},
+      {"name": "BackDoorCriterion", "signature": "adjustment set for causal identification"}
+    ]
+  }
+}

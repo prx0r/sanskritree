@@ -1,0 +1,28 @@
+{
+  "tradition": "dharmakirti",
+  "description": "Dharmakīrti (PV III). Tier 3 — Sanskrit.lean axioms.",
+  "claims": [
+    {
+      "id": "arthakriya",
+      "statement": "x exists iff x has causal efficacy",
+      "plain": "To be is to have arthakriyā",
+      "primitive_hint": "CausalPower",
+      "sanskrit": "arthakriyā"
+    },
+    {
+      "id": "svalaksana",
+      "statement": "The particular is the ineffable object of perception",
+      "plain": "Svalakṣaṇa is the direct object, pre-conceptual",
+      "primitive_hint": null,
+      "sanskrit": "svalakṣaṇa"
+    },
+    {
+      "id": "pratyaksa",
+      "statement": "Perception of particulars is free from conceptual construction",
+      "plain": "Pratyakṣa is kalpanāpoḍha",
+      "primitive_hint": null,
+      "sanskrit": "pratyakṣa",
+      "lean_type": "∀ (c : Cognition) (x : Svalaksana), Perceives c x → ¬ Kalpana c"
+    }
+  ]
+}

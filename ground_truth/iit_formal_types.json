@@ -1,0 +1,47 @@
+{
+  "source": "Kleiner & Tull 2020, arXiv:2002.07655",
+  "description": "Formal types from 'The Mathematical Structure of IIT'. Use these as Lean targets for IIT claims.",
+  "system_class": {
+    "items": [
+      {"name": "St", "signature": "St(S) : Set — states of system S", "def": "Def 1"},
+      {"name": "Subs", "signature": "Subs(S) ⊂ Sys — subsystems with induced state s|M", "def": "Def 1"},
+      {"name": "DS", "signature": "DS — decompositions, trivial 1 ∈ DS", "def": "Def 1"},
+      {"name": "Cut", "signature": "S^z, s^z — cut system and cut state for z ∈ DS", "def": "Def 1"}
+    ]
+  },
+  "experience_space": {
+    "items": [
+      {"name": "Intensity", "signature": "||·|| : E → ℝ⁺", "def": "Def 2"},
+      {"name": "Distance", "signature": "d : E × E → ℝ⁺", "def": "Def 2"},
+      {"name": "ScalarMult", "signature": "ℝ⁺ × E → E, ||r·e|| = r·||e||", "def": "Def 2"},
+      {"name": "Product", "signature": "d((e,f),(e',f')) = d(e,e') + d(f,f')", "def": "Def 4"}
+    ]
+  },
+  "repertoire": {
+    "items": [
+      {"name": "PE", "signature": "PE(S) — proto-experience space", "def": "Def 6"},
+      {"name": "caus", "signature": "caus_s(M,P) ∈ PE(S) with decomposition over D_M,P", "def": "Def 6"},
+      {"name": "eff", "signature": "eff_s(M,P) ∈ PE(S) with decomposition over D_M,P", "def": "Def 6"}
+    ]
+  },
+  "integration": {
+    "items": [
+      {"name": "phi", "signature": "φ(e) = min_{z≠1} d(e, ē(z)) — integration level", "def": "Def 8"},
+      {"name": "iota", "signature": "ι(e) = φ(e)·ê — integration scaling", "def": "Def 8"},
+      {"name": "Core", "signature": "C ∈ Subs(S) where φ(e_C) maximal", "def": "Def 9"},
+      {"name": "Concept", "signature": "CS,s(M) = core integration scaling of (caus(M), eff(M))", "def": "§6"},
+      {"name": "Q_shape", "signature": "Qs(S) = (CS,s(M))_{M ∈ Subs(S)}", "def": "§7"},
+      {"name": "ActualExperience", "signature": "E(S,s) = core integration scaling of Q(S,s)", "def": "Def 10"},
+      {"name": "Phi", "signature": "Φ(S,s) = ||E(S,s)|| — quantity of experience", "def": "Def 11"}
+    ]
+  },
+  "classical_iit": {
+    "items": [
+      {"name": "TPM", "signature": "T : P(S) → P(S) — transition probability", "def": "§9.1"},
+      {"name": "ConditionalIndependence", "signature": "T(p) = ∏ᵢ Tᵢ(p)", "def": "§9.1"},
+      {"name": "EffectRepertoire", "signature": "eff'_s(M,P) = ⟨P⊥|T|ω_M⊥⟩(s_M)", "def": "§9.5 (25)"},
+      {"name": "CauseRepertoire", "signature": "caus'_s(M,P) via (27),(28)", "def": "§9.5"},
+      {"name": "Cut", "signature": "T^(M,M⊥) replaces M⊥→M edges with uniform noise", "def": "§9.3"}
+    ]
+  }
+}

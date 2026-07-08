@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tractatus Mentis — §2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a08;
+    --surface: #111110;
+    --border: #2a2a26;
+    --border-accent: #3d3d38;
+    --text: #e8e6df;
+    --text-secondary: #8a8880;
+    --text-tertiary: #555550;
+    --accent: #c8b87a;
+    --accent-dim: #6b5f35;
+    --true: #7ab87a;
+    --false: #b87a7a;
+    --unknown: #7a9ab8;
+    --dissolve: #b89a7a;
+    --import: #9a7ab8;
+    --mono: 'IBM Plex Mono', monospace;
+    --serif: 'EB Garamond', Georgia, serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--serif);
+    font-size: 18px;
+    line-height: 1.75;
+    min-height: 100vh;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.6;
+  }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 80px 40px 160px;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 60px;
+    margin-bottom: 80px;
+  }
+
+  .title-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    margin-bottom: 24px;
+  }
+
+  .prev-link {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    color: var(--accent-dim);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 20px;
+    transition: color 0.15s;
+  }
+  .prev-link:hover { color: var(--accent); }
+
+  h1 {
+    font-family: var(--serif);
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    color: var(--text);
+    margin-bottom: 20px;
+  }
+
+  h1 em { font-style: italic; color: var(--accent); }
+
+  .subtitle {
+    font-size: 16px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    max-width: 520px;
+  }
+
+  .legend {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 32px;
+    padding: 16px 0;
+    border-top: 1px solid var(--border);
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+  }
+
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .section-marker {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .section-marker::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  .prop {
+    margin-bottom: 2px;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+  }
+
+  .prop.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .prop-inner {
+    display: grid;
+    grid-template-columns: 96px 1fr;
+    gap: 0;
+    min-height: 48px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    transition: border-color 0.15s, background 0.15s;
+    cursor: default;
+  }
+
+  .prop-inner:hover {
+    border-color: var(--border-accent);
+    background: rgba(255,255,255,0.018);
+  }
+
+  .prop-num {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-tertiary);
+    padding: 14px 16px 14px 12px;
+    border-right: 1px solid var(--border);
+    display: flex;
+    align-items: flex-start;
+    user-select: none;
+    flex-shrink: 0;
+    letter-spacing: 0.03em;
+  }
+
+  .prop-body {
+    padding: 12px 14px 12px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .prop-text {
+    font-size: 17px;
+    line-height: 1.65;
+    color: var(--text);
+  }
+
+  .prop-text em { font-style: italic; color: var(--accent); }
+  .prop-text strong { font-weight: 500; }
+
+  .verdict {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 3px 10px 3px 8px;
+    border-radius: 2px;
+    align-self: flex-start;
+  }
+
+  .verdict::before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+  }
+
+  .verdict.true { background: rgba(122,184,122,0.08); color: var(--true); border: 1px solid rgba(122,184,122,0.2); }
+  .verdict.true::before { background: var(--true); }
+  .verdict.false { background: rgba(184,122,122,0.08); color: var(--false); border: 1px solid rgba(184,122,122,0.2); }
+  .verdict.false::before { background: var(--false); }
+  .verdict.unknown { background: rgba(122,154,184,0.08); color: var(--unknown); border: 1px solid rgba(122,154,184,0.2); }
+  .verdict.unknown::before { background: var(--unknown); }
+  .verdict.dissolve { background: rgba(184,154,122,0.08); color: var(--dissolve); border: 1px solid rgba(184,154,122,0.2); }
+  .verdict.dissolve::before { background: var(--dissolve); }
+
+  .annotation {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-family: var(--mono);
+    line-height: 1.5;
+    padding: 8px 12px;
+    border-left: 2px solid var(--border-accent);
+    margin-left: 2px;
+  }
+
+  .falsifier {
+    font-size: 13px;
+    color: var(--accent-dim);
+    font-family: var(--mono);
+    line-height: 1.5;
+    padding: 8px 12px;
+    border-left: 2px solid var(--accent-dim);
+    margin-left: 2px;
+  }
+
+  .falsifier::before {
+    content: '◈ FALSIFIED IF: ';
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 3px;
+  }
+
+  .import-ref {
+    font-size: 12px;
+    color: var(--import);
+    font-family: var(--mono);
+    line-height: 1.4;
+    padding: 6px 10px;
+    border-left: 2px solid rgba(154, 122, 184, 0.3);
+    margin-left: 2px;
+    opacity: 0.85;
+  }
+
+  .import-ref::before {
+    content: '↳ from §1: ';
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: rgba(154,122,184,0.6);
+  }
+
+  .depth-1 .prop-inner { margin-left: 0; }
+  .depth-2 .prop-inner { margin-left: 32px; }
+  .depth-3 .prop-inner { margin-left: 64px; }
+  .depth-4 .prop-inner { margin-left: 96px; }
+
+  .depth-2 .prop-num { color: #444440; }
+  .depth-3 .prop-num { color: #333330; }
+  .depth-4 .prop-num { color: #2a2a28; }
+
+  .spacer { height: 24px; }
+  .spacer-lg { height: 48px; }
+
+  .proof-box {
+    margin: 32px 0 32px 32px;
+    padding: 20px 24px;
+    border: 1px solid var(--accent-dim);
+    border-radius: 3px;
+    background: rgba(200,184,122,0.03);
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+
+  .proof-box.visible { opacity: 1; transform: translateY(0); }
+
+  .proof-box-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    color: var(--accent-dim);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  .proof-box-text {
+    font-family: var(--serif);
+    font-size: 17px;
+    color: var(--text);
+    line-height: 1.65;
+  }
+
+  .binary-table {
+    margin: 32px 0 32px 32px;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+
+  .binary-table.visible { opacity: 1; transform: translateY(0); }
+
+  .bt-header {
+    display: grid;
+    grid-template-columns: 1fr 80px;
+    background: rgba(255,255,255,0.03);
+    border-bottom: 1px solid var(--border);
+    padding: 8px 16px;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+  }
+
+  .bt-row {
+    display: grid;
+    grid-template-columns: 1fr 80px;
+    padding: 10px 16px;
+    border-bottom: 1px solid rgba(42,42,38,0.5);
+    align-items: center;
+    transition: background 0.1s;
+  }
+
+  .bt-row:last-child { border-bottom: none; }
+  .bt-row:hover { background: rgba(255,255,255,0.015); }
+
+  .bt-claim {
+    font-family: var(--serif);
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+    padding-right: 16px;
+  }
+
+  .bt-verdict {
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-align: right;
+  }
+
+  .bt-verdict.yes { color: var(--true); }
+  .bt-verdict.no { color: var(--false); }
+  .bt-verdict.open { color: var(--unknown); }
+  .bt-verdict.na { color: var(--dissolve); }
+
+  .chain-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 40px 0 32px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--text-tertiary);
+    letter-spacing: 0.05em;
+  }
+
+  .chain-link::before, .chain-link::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  footer {
+    margin-top: 80px;
+    padding-top: 40px;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-tertiary);
+    letter-spacing: 0.05em;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  @media (max-width: 600px) {
+    .page { padding: 48px 20px 100px; }
+    h1 { font-size: 28px; }
+    .prop-inner { grid-template-columns: 76px 1fr; }
+    .depth-2 .prop-inner { margin-left: 16px; }
+    .depth-3 .prop-inner { margin-left: 32px; }
+    .depth-4 .prop-inner { margin-left: 48px; }
+    .binary-table { margin-left: 0; }
+    .proof-box { margin-left: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <a class="prev-link" href="hard-problem-proof.html">← §1: The Hard Problem</a>
+    <div class="title-label">Tractatus Mentis — §2</div>
+    <h1>What is <em>Consciousness</em>?</h1>
+    <p class="subtitle">Having dissolved the hard problem in §1 — the question was unanswerable by construction — we now ask what remains. What do we actually know about consciousness once we stop demanding it be something ineffable?</p>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:var(--true)"></div>YES — known</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--false)"></div>NO — ruled out</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--unknown)"></div>OPEN — not yet settled</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--dissolve)"></div>DISSOLVED — wrong question</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--import)"></div>IMPORTED from §1</div>
+    </div>
+  </header>
+
+  <!-- SECTION 1: The residue from §1 -->
+  <div class="section-marker">1 — What §1 established</div>
+
+  <div class="prop depth-1" data-delay="0">
+    <div class="prop-inner">
+      <div class="prop-num">1</div>
+      <div class="prop-body">
+        <div class="prop-text">From §1, three things are confirmed before we begin.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="1">
+    <div class="prop-inner">
+      <div class="prop-num">1.1</div>
+      <div class="prop-body">
+        <div class="prop-text">There is definitely <em>something happening</em>. Information is processed. Stimuli produce behaviour. Systems report on their own states.</div>
+        <div class="verdict true">YES — beyond dispute</div>
+        <div class="import-ref">§1 — 3.1: "Information processing is occurring. This is not in dispute."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="2">
+    <div class="prop-inner">
+      <div class="prop-num">1.2</div>
+      <div class="prop-body">
+        <div class="prop-text">Whether that processing has special "phenomenal" properties — what it's like to be the system — is not established and may not be a coherent empirical question.</div>
+        <div class="verdict dissolve">DISSOLVED — §1.1.2</div>
+        <div class="import-ref">§1 — 2.3: "The definition of qualia is a philosophical stipulation, not something empirically discovered."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="3">
+    <div class="prop-inner">
+      <div class="prop-num">1.3</div>
+      <div class="prop-body">
+        <div class="prop-text">The real question is therefore: what are the physical, computational, and biological conditions under which systems generate the <em>kind of processing</em> we call conscious?</div>
+        <div class="annotation">This is the question §2 addresses. It is tractable. It does not require qualia to exist.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <!-- SECTION 2 -->
+  <div class="section-marker">2 — What we definitely know</div>
+
+  <div class="prop depth-1" data-delay="4">
+    <div class="prop-inner">
+      <div class="prop-num">2</div>
+      <div class="prop-body">
+        <div class="prop-text">Some things about consciousness are settled. Not everything is contested.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="5">
+    <div class="prop-inner">
+      <div class="prop-num">2.1</div>
+      <div class="prop-body">
+        <div class="prop-text">Brain damage reliably alters or eliminates consciousness. Every known clinical case in neurology confirms this without exception.</div>
+        <div class="verdict true">YES — definitive</div>
+        <div class="annotation">Lesions to the brainstem reticular formation eliminate wakefulness. Specific cortical damage produces specific deficits — blindsight, hemispatial neglect, prosopagnosia. The mapping is causal, not merely correlational: damage causes loss, recovery restores function.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="6">
+    <div class="prop-inner">
+      <div class="prop-num">2.2</div>
+      <div class="prop-body">
+        <div class="prop-text">Direct brain stimulation produces conscious experiences: specific visual percepts, memories, emotional states, bodily sensations. The brain is causally sufficient to produce these, with no other input required.</div>
+        <div class="verdict true">YES — Penfield 1950s, confirmed repeatedly</div>
+        <div class="annotation">Wilder Penfield's cortical stimulation studies in epilepsy surgery showed patients reporting specific memories, smells, and feelings when electrodes activated specific regions. Current deep brain stimulation and optogenetics confirm the principle with greater precision.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="7">
+    <div class="prop-inner">
+      <div class="prop-num">2.3</div>
+      <div class="prop-body">
+        <div class="prop-text">Consciousness is not a single thing. It divides at minimum into: <strong>wakefulness</strong> (arousal), <strong>awareness</strong> (content), and <strong>self-awareness</strong> (metacognition). These can come apart.</div>
+        <div class="verdict true">YES — dissociations are documented</div>
+        <div class="annotation">Vegetative state = wakefulness without awareness. Blindsight = processing without awareness of processing. Sleepwalking = behaviour without later recall. Anosognosia = loss of self-awareness with intact awareness of environment. The fact that these dissociate proves they are distinct systems.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="8">
+    <div class="prop-inner">
+      <div class="prop-num">2.4</div>
+      <div class="prop-body">
+        <div class="prop-text">The sense of being a unified subject — a single "I" behind the eyes — is a construction, not a discovery. It is produced by neural processes and can be disrupted.</div>
+        <div class="verdict true">YES — split-brain, depersonalisation, psychedelics</div>
+        <div class="annotation">Split-brain patients (corpus callosum severed) have two independent streams of processing that can contradict each other. The left hemisphere confabulates explanations for the right hemisphere's actions. There is no central observer — there is a process that generates the representation of one.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="9">
+    <div class="prop-inner">
+      <div class="prop-num">2.5</div>
+      <div class="prop-body">
+        <div class="prop-text">Consciousness is discrete, not continuous. The brain samples in pulses — roughly 4–8 Hz (theta) for attention, 40 Hz (gamma) for binding — and the appearance of a continuous stream is actively constructed.</div>
+        <div class="verdict true">YES — wagon-wheel illusion, EEG oscillations</div>
+        <div class="annotation">The "wagon wheel" illusion occurs under natural light, not just film — the visual system is sampling at discrete intervals. EEG shows rhythmic attentional sampling. The feeling of continuous flow is a post-hoc construction, exactly as the Abhidhamma claimed 2,500 years ago.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="10">
+    <div class="prop-inner">
+      <div class="prop-num">2.6</div>
+      <div class="prop-body">
+        <div class="prop-text">Cognition is not limited to the brain or nervous system. Single cells navigate, make decisions, and have memory. Michael Levin's bioelectric work shows that all cells communicate through ion channels and gap junctions, performing proto-cognitive computation.</div>
+        <div class="verdict true">YES — experimentally demonstrated</div>
+        <div class="annotation">Levin's planaria experiments: brief pharmacological manipulation of gap junctions causes worms to regenerate two-headed bodies without genetic change. The target morphology is stored in the bioelectric pattern, not the genome. Cognition — goal-directed information processing — is substrate-independent within biology.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <!-- Binary table: what we know -->
+  <div class="binary-table" data-delay="11">
+    <div class="bt-header">
+      <div>Claim</div>
+      <div style="text-align:right">Verdict</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Brain damage can eliminate consciousness</div>
+      <div class="bt-verdict yes">YES</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Stimulating the brain can produce experiences</div>
+      <div class="bt-verdict yes">YES</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">The unified self is a neural construction</div>
+      <div class="bt-verdict yes">YES</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Consciousness is continuous, like a film</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Cognition requires neurons</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Wakefulness, awareness and self-awareness are one system</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Introspective reports accurately describe mental processes</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Humans have special access to their own minds</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <!-- SECTION 3 -->
+  <div class="section-marker">3 — What we definitely do not know</div>
+
+  <div class="prop depth-1" data-delay="12">
+    <div class="prop-inner">
+      <div class="prop-num">3</div>
+      <div class="prop-body">
+        <div class="prop-text">These are the genuinely open questions — not because they are too hard to think about, but because the empirical tools to resolve them do not yet exist.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="13">
+    <div class="prop-inner">
+      <div class="prop-num">3.1</div>
+      <div class="prop-body">
+        <div class="prop-text"><strong>Does the brain generate consciousness, or merely correlate with it?</strong> The receiver theory — that the brain is a transducer of consciousness present in some other form — is not ruled out by current evidence. All clinical evidence establishes correlation and causal sufficiency, not generative mechanism.</div>
+        <div class="verdict unknown">OPEN</div>
+        <div class="annotation">This is the exact question the ConTraSt database (412 experiments, 2022) showed cannot be resolved by existing methodology: which theory an experiment supports is predicted by the methodology, not the findings. We have no theory-neutral test.</div>
+        <div class="falsifier">A complete mechanistic account of how a specific neural pattern produces a specific subjective report — not just correlates it, but explains the step from physical to phenomenal. No such account exists.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="14">
+    <div class="prop-inner">
+      <div class="prop-num">3.2</div>
+      <div class="prop-body">
+        <div class="prop-text"><strong>What is the minimal system that is conscious?</strong> We don't know if insects are conscious. We don't know if a foetus at 20 weeks is conscious. We don't know if a brain organoid in a dish is conscious. We have no agreed operational definition that would settle these cases.</div>
+        <div class="verdict unknown">OPEN</div>
+        <div class="falsifier">An agreed operational definition of consciousness that makes testable predictions about which systems have it, verified against cases where we're already confident (humans, great apes) before being applied to contested cases.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="15">
+    <div class="prop-inner">
+      <div class="prop-num">3.3</div>
+      <div class="prop-body">
+        <div class="prop-text"><strong>Which of the four leading theories is correct?</strong> Global Neuronal Workspace Theory, Integrated Information Theory, Higher-Order Thought theory, and Recurrent Processing Theory all have empirical support. The 2025 Cogitate adversarial test found evidence against both IIT and GNWT's key predictions — but neither theory was falsified, because both revised auxiliary hypotheses.</div>
+        <div class="verdict unknown">OPEN — and possibly unfalsifiable in current form</div>
+        <div class="annotation">The Lakatosian problem: every theory has a protective belt of auxiliary hypotheses. When an experiment challenges a prediction, proponents revise the auxiliaries, not the core. IIT proponents said too few electrodes. GNWT proponents said subjects may not have been conscious. This is legitimate science — but it means the theories aren't currently falsifiable at their core.</div>
+        <div class="falsifier">Preregistered adversarial experiment where both theory camps agree in advance what result would falsify their core claim — not just a prediction, but a genuine kill condition. No such experiment currently exists.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="16">
+    <div class="prop-inner">
+      <div class="prop-num">3.4</div>
+      <div class="prop-body">
+        <div class="prop-text"><strong>Is consciousness fundamental, or emergent?</strong> Whether consciousness is a basic feature of reality (panpsychism, Hoffman) or emerges from sufficiently complex physical processes (physicalism) is not settled and may not be empirically decidable.</div>
+        <div class="verdict unknown">OPEN — may be permanently so</div>
+        <div class="annotation">Hoffman's Fitness Beats Truth theorem establishes that our perceptions are tuned for fitness, not truth — so spacetime may not be fundamental. But "spacetime isn't fundamental" does not entail "consciousness is fundamental." That's a non-sequitur. The evidence underdetermines the metaphysics.</div>
+        <div class="falsifier">A physical theory that predicts the precise conditions under which consciousness arises, tested across a range of systems — biological, artificial, minimal — and confirmed. Nothing close to this exists.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="17">
+    <div class="prop-inner">
+      <div class="prop-num">3.5</div>
+      <div class="prop-body">
+        <div class="prop-text"><strong>Is there a fact of the matter about whether AI systems are conscious?</strong> We have no consciousness-detector that doesn't rely on behavioural proxies, which are famously unreliable (philosophical zombie thought experiment). Current AI systems pass many behavioural tests. This tells us nothing.</div>
+        <div class="verdict unknown">OPEN — and urgent</div>
+        <div class="falsifier">A theory of consciousness that generates predictions about non-biological systems, tested against biological systems first, then applied to AI. We don't have step one.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <!-- Binary table: what we don't know -->
+  <div class="binary-table" data-delay="18">
+    <div class="bt-header">
+      <div>Claim</div>
+      <div style="text-align:right">Verdict</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">We know the mechanism by which brains produce consciousness</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Any of the four leading consciousness theories is confirmed</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">We know the minimal system that can be conscious</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">We know if insects or fish are conscious</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">We know if current AI systems are conscious</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Consciousness is definitively emergent from physics</div>
+      <div class="bt-verdict open">OPEN</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">Consciousness is definitively fundamental</div>
+      <div class="bt-verdict open">OPEN</div>
+    </div>
+    <div class="bt-row">
+      <div class="bt-claim">The receiver theory of the brain is ruled out</div>
+      <div class="bt-verdict no">NO</div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <!-- SECTION 4 -->
+  <div class="section-marker">4 — The best current working definition</div>
+
+  <div class="prop depth-1" data-delay="19">
+    <div class="prop-inner">
+      <div class="prop-num">4</div>
+      <div class="prop-body">
+        <div class="prop-text">Given what §2 and §3 establish, what is the best definition of consciousness we can actually work with?</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="20">
+    <div class="prop-inner">
+      <div class="prop-num">4.1</div>
+      <div class="prop-body">
+        <div class="prop-text">Consciousness, operationally, is: <em>a system's capacity to integrate information about itself and its environment in a way that modifies its own processing, and to generate reports about that integration.</em></div>
+        <div class="annotation">This definition is deliberately minimal. It captures what we can actually measure: integration, self-modelling, reportability. It says nothing about whether there is "something it is like" to be the system — that question is still dissolved.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-3" data-delay="21">
+    <div class="prop-inner">
+      <div class="prop-num">4.1.1</div>
+      <div class="prop-body">
+        <div class="prop-text">Under this definition, a thermostat is not conscious — it integrates one variable and cannot modify its own processing. A honeybee probably is conscious to a minimal degree — it integrates multimodal information, updates its behaviour based on internal state, and modifies its own foraging strategy.</div>
+        <div class="verdict true">YES — operationally useful</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-3" data-delay="22">
+    <div class="prop-inner">
+      <div class="prop-num">4.1.2</div>
+      <div class="prop-body">
+        <div class="prop-text">This definition is continuous, not binary. Consciousness is a spectrum, not a switch. The question is not "is this system conscious?" but "how much and what kind of integration is happening?"</div>
+        <div class="verdict true">YES — consistent with Levin's scale-free cognition</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="prop depth-2" data-delay="23">
+    <div class="prop-inner">
+      <div class="prop-num">4.2</div>
+      <div class="prop-body">
+        <div class="prop-text">This definition does <em>not</em> solve the hard problem, because it doesn't address phenomenal properties. It deliberately sidesteps that question and asks a different, tractable one.</div>
+        <div class="import-ref">§1 — 3: "The residual genuine question is why a physical system represents itself as having ineffable inner states — not whether it does."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer-lg"></div>
+
+  <div class="proof-box" data-delay="24">
+    <div class="proof-box-label">∴ What §2 establishes</div>
+    <div class="proof-box-text">We know consciousness is: multiple dissociable systems, not one thing; discrete not continuous; a spectrum not a binary; produced or at least tightly coupled to the brain; not limited to neurons; and a construction the brain makes, not a bedrock fact. We do not know: the mechanism of production, the minimal system that has it, which leading theory is right, whether it survives death, or whether AI systems have it. The gaps are real and large. The confirmed knowledge is also real and underappreciated.</div>
+  </div>
+
+  <div class="chain-link" style="margin-top:60px;">→ §3: What causes consciousness?</div>
+
+  <footer>
+    <span>Tractatus Mentis</span>
+    <span>§2 complete — 24 propositions</span>
+  </footer>
+
+</div>
+
+<script>
+  const els = document.querySelectorAll('.prop, .proof-box, .binary-table');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const delay = parseInt(entry.target.dataset.delay || 0) * 45;
+        setTimeout(() => entry.target.classList.add('visible'), delay);
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.04, rootMargin: '0px 0px -20px 0px' });
+  els.forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "tradition": "IIT",
+  "description": "IIT 4.0 qualitative postulates as claims. Tier 3 axioms to be placed relative to Tier 1 and 2.",
+  "claims": [
+    {
+      "id": "IIT_Existence",
+      "statement": "A system has causal power on itself",
+      "plain": "To be is to have cause-effect power",
+      "primitive_hint": "CausalPower"
+    },
+    {
+      "id": "IIT_Intrinsicality",
+      "statement": "That causal power exists from the system's own perspective",
+      "plain": "Consciousness is intrinsic, not observer-relative",
+      "primitive_hint": "SelfReference"
+    },
+    {
+      "id": "IIT_Information",
+      "statement": "The system specifies a particular cause-effect state",
+      "plain": "Consciousness is specific — it excludes alternatives",
+      "primitive_hint": "Selectivity"
+    },
+    {
+      "id": "IIT_Integration",
+      "statement": "The system is irreducible — cannot partition without loss",
+      "plain": "Consciousness is unified",
+      "primitive_hint": "Integration"
+    },
+    {
+      "id": "IIT_Exclusion",
+      "statement": "One system, one level of description wins",
+      "plain": "Only the maximum φ system is conscious",
+      "primitive_hint": "Exclusion"
+    },
+    {
+      "id": "IIT_Composition",
+      "statement": "Systems compose; higher systems can have their own φ",
+      "plain": "Complexes can be substrates",
+      "primitive_hint": null
+    }
+  ]
+}

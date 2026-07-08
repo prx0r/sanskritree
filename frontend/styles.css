@@ -1,0 +1,116 @@
+/* Sanskrit Proof Engine — Black, Gold, Silver */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0a0a0a;
+  color: #c0c0c0;
+  font-family: 'Noto Sans', system-ui, sans-serif;
+  overflow: hidden;
+  cursor: grab;
+  user-select: none;
+}
+
+body:active {
+  cursor: grabbing;
+}
+
+#canvas {
+  position: fixed;
+  inset: 0;
+  transform-origin: 0 0;
+  will-change: transform;
+}
+
+/* Node card */
+.node {
+  position: absolute;
+  min-width: 200px;
+  max-width: 360px;
+  padding: 12px 16px;
+  background: rgba(20, 20, 20, 0.95);
+  border: 1px solid #2a2a2a;
+  border-radius: 4px;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.node:hover {
+  border-color: #3a3a3a;
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.1);
+}
+
+.node.selected {
+  border-color: #d4af37;
+  box-shadow: 0 0 24px rgba(212, 175, 55, 0.2);
+}
+
+/* Sanskrit — gold, thin */
+.sanskrit {
+  color: #d4af37;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+
+/* Lean — silver, monospace */
+.lean {
+  color: #c0c0c0;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 11px;
+  line-height: 1.4;
+  opacity: 0.9;
+}
+
+/* Status badge */
+.status {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 2px 6px;
+  border-radius: 2px;
+}
+
+.status.PROVED { background: rgba(34, 139, 34, 0.3); color: #7cfc00; }
+.status.HOLLOW { background: rgba(255, 165, 0, 0.2); color: #ffa500; }
+.status.PARTIAL { background: rgba(100, 149, 237, 0.2); color: #6495ed; }
+.status.UNPROVED { background: rgba(128, 128, 128, 0.3); color: #a0a0a0; }
+.status.OUTSIDE_FORMAL { background: rgba(147, 112, 219, 0.2); color: #9370db; }
+.status.REFUTED { background: rgba(220, 20, 60, 0.2); color: #dc143c; }
+
+/* Tradition label */
+.tradition {
+  font-size: 10px;
+  color: #555;
+  margin-bottom: 4px;
+}
+
+/* Edge (SVG line) */
+.edge {
+  stroke: #2a2a2a;
+  stroke-width: 1;
+  fill: none;
+}
+
+.edge.bridge {
+  stroke: #d4af37;
+  stroke-opacity: 0.4;
+  stroke-dasharray: 4 4;
+}
+
+/* Zoom level hints — smaller text when zoomed out */
+.zoom-far .sanskrit { font-size: 10px; }
+.zoom-far .lean { display: none; }
+.zoom-mid .lean { font-size: 9px; max-height: 2em; overflow: hidden; }
+.zoom-close .lean { max-height: none; }

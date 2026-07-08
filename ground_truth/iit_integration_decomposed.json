@@ -1,0 +1,39 @@
+{
+  "description": "Fully decomposed worked example. Template for the decomposition loop. IIT Integration.",
+  "id": "iit_integration_001",
+  "statement": "A conscious system cannot be partitioned into independent parts without loss of causal power",
+  "tradition": "IIT",
+  "status": "AXIOM",
+  "components": [
+    {
+      "text": "the system has parts",
+      "primitive_candidate": "Composition",
+      "maps_cleanly": true
+    },
+    {
+      "text": "a partition exists over those parts",
+      "primitive_candidate": "Finset.partition",
+      "maps_cleanly": true,
+      "mathlib_anchor": "Finset.partition"
+    },
+    {
+      "text": "partitioning causes information loss",
+      "primitive_candidate": "Integration",
+      "maps_cleanly": false,
+      "residue": "what 'information loss across a partition' means formally — needs MutualInformation + Partition combined"
+    },
+    {
+      "text": "the system is irreducible",
+      "primitive_candidate": "Irreversibility",
+      "maps_cleanly": false,
+      "residue": "irreducibility is not irreversibility — need new primitive or IIT-specific axiom. Candidate: PhiIrreducibility — distinct from logical irreducibility, distinct from topological connectedness, IIT-specific."
+    }
+  ],
+  "primitive_candidates_from_residue": [
+    {
+      "id": "PhiIrreducibility",
+      "definition": "IIT-specific: system's cause-effect structure cannot be captured by any partition",
+      "notes": "Distinct from Integration (information loss), distinct from topological IsConnected. Log as candidate."
+    }
+  ]
+}

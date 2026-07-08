@@ -1,0 +1,390 @@
+From Vibration to Inference
+A unified ground-up curriculum — from the structure of physical reality to the origin of life
+
+
+
+This document merges two curricula into one coherent ascent. It begins at the most foundational questions in physics — what is a field, what is light, what is spacetime — and climbs through quantum mechanics, information theory, the Free Energy Principle, and the holographic principle, arriving at a single claim: the dynamics of living systems are the classical shadow of quantum unitarity, and inference is what physics looks like from the inside of a persistent subsystem.
+
+Every section names the core equation, gives its physical meaning, and connects it explicitly to what came before and what comes next. Reading order is the document order. No section requires the next.
+
+
+
+LAYER I  The Structure of Physical Reality
+
+Before information, before inference, before biology — there is the question of what reality is made of and how it is structured. These four steps establish the physical substrate everything else runs on.
+
+I.1  What is a field?
+A field is a number — or a vector, or a more complex mathematical object — assigned to every point in space and time. It is not a wave in a medium. It is not made of particles. It is the fundamental physical object, and particles are its excitations.
+The electromagnetic field assigns two vectors (E and B) to every point in spacetime. Their values are zero far from any charge. When a charge moves, the field values at nearby points change, and those changes propagate outward at c as a self-sustaining oscillation.
+Analogy  A still lake is the EM field. A duck landing is a charge accelerating. The ripples are electromagnetic radiation. The ripples propagate through the water — except there is no water. The field is the ripple and the medium simultaneously.
+
+
+F = q(E + v×B)
+Lorentz force. The field’s value at a point acts directly on charge at that point. No medium, no contact, no mechanism below this.
+
+
+Key insight  The field at ‘zero’ is not nothing. In classical physics it is a state of minimum potential. In quantum mechanics it is never truly zero — the uncertainty principle forbids it. The vacuum seethes with irreducible fluctuations.
+
+
+I.2  Light and the EM spectrum
+Light is a quantised excitation of the electromagnetic field — a photon. All photons are the same kind of thing. Radio waves, X-rays, and gamma rays are photons differing only in frequency. The narrow band we call visible light is the slice our eyes evolved to detect.
+
+E = hf
+Photon energy = Planck’s constant × frequency. This single equation killed classical physics: it says energy is not continuous but comes in discrete packets. High frequency = high energy per photon.
+c = fλ
+Speed of light = frequency × wavelength. c is invariant, so f and λ are locked inversely. Faster oscillation = shorter waves. Cannot have high frequency AND long wavelength at fixed c.
+E² = (pc)² + (mc²)²
+Relativistic energy-momentum. For photon: m=0, so E = pc. Massless, yet carries energy and momentum. This is possible because c is a structural feature of spacetime, not a speed limit imposed on things.
+
+
+Analogy  A snake moving at fixed speed through grass: if it wiggles fast (high f) the waves bunch up (short λ). If it wiggles slowly, waves spread out (long λ). The snake’s forward speed is c. The wiggle frequency determines the energy of each photon.
+
+
+I.3  Maxwell’s equations and self-sustaining oscillation
+Maxwell’s four equations are the complete classical theory of the electromagnetic field. The key two for understanding light:
+
+∇×E = -∂B/∂t
+A changing magnetic field creates a curling electric field (Faraday’s law).
+∇×B = μ₀ε₀(∂E/∂t)
+A changing electric field creates a curling magnetic field (Ampère-Maxwell law).
+
+
+These two equations create a mutual bootstrap. E creates B, B creates E, the disturbance leapfrogs through space without needing any medium. Maxwell derived the propagation speed from the field constants alone:
+
+c = 1/√(μ₀ε₀)
+The speed of light, derived from purely electrical and magnetic constants. When Maxwell calculated this in 1865 and matched the measured speed of light, he immediately understood: light is electromagnetic radiation.
+
+
+Key insight  c is not the ‘speed limit of the universe’ as a rule imposed from outside. It is the speed at which changes in the EM field propagate, determined by the field’s own constants. Special relativity shows that c is a structural feature of spacetime geometry.
+
+
+I.4  Special and General Relativity
+Special relativity (1905): the invariance of c forces space and time to be aspects of a single four-dimensional structure. Different observers disagree about spatial distances and time intervals but agree on the spacetime interval.
+
+ds² = -c²dt² + dx² + dy² + dz²
+Minkowski metric. The minus sign on dt² is what distinguishes spacetime from ordinary 4D space. The interval ds is invariant — same for all observers regardless of relative motion.
+
+
+Analogy  North-South and East-West on a map. Rotating the map mixes them. Boosting to a new velocity mixes space and time. The ‘distance’ (interval) is unchanged. What you call ‘time’ and what you call ‘space’ depend on how fast you’re moving.
+
+
+General relativity (1915): spacetime is not fixed but dynamic. Mass and energy curve spacetime. Curved spacetime tells matter how to move. What we call gravity is geometry.
+
+Gμν + Λgμν = (8πG/c⁴)Tμν
+Einstein field equations. Left side: spacetime curvature. Right side: energy-momentum content. They determine each other — spacetime and matter are coupled.
+
+
+Key insight  In GR, spacetime has no prior geometry. There is no background fixed stage. The geometry IS the physics. This is why GR and QM are structurally incompatible: QM assumes a fixed background spacetime; GR says spacetime is dynamic. Quantum gravity must resolve this.
+
+
+
+LAYER II  Quantum Mechanics and Its Interpretation
+
+Layer II introduces the quantum framework: the wavefunction, the measurement problem, and the interpretations that determine what QM says about physical reality. This layer ends at the deepest open question in physics.
+
+II.1  The wavefunction and configuration space
+The wavefunction Ψ is a function that assigns a complex number (amplitude) to every possible configuration of all particles simultaneously. For one particle in 3D, it lives in 3D space. For two particles, it lives in 6D space. For N particles, in 3N dimensions. This configuration space is not a metaphor — it is the physical arena the wavefunction inhabits.
+
+Ψ(x₁, x₂, ..., x_N, t)
+The universal wavefunction. For the entire universe, this is a function on roughly 3×10⁸⁰-dimensional configuration space.
+P(x) = |Ψ(x)|²
+Born rule. The probability of finding the system in configuration x equals the squared magnitude of the amplitude.
+iħ(∂Ψ/∂t) = HΨ
+Schrödinger equation. Wavefunction evolves deterministically, linearly, and unitarily. No randomness, no collapse — until measurement appears to break this.
+
+
+Analogy  The wavefunction is not like a sound wave in air or a ripple on water. It is more like a map of all possible positions the particle could occupy, with each position assigned a probability weight. When the particle is measured it is found at one location — but before measurement, it is not ‘at’ any location. The amplitude distribution is the physical state.
+
+
+II.2  Non-commutativity and the uncertainty principle
+The most important structural fact about quantum mechanics: position and momentum do not commute. This is not about measurement disturbance. It is a fact about the algebra of physical quantities.
+
+[x, p] = xp - px = iħ
+Canonical commutation relation. x and p are operators, not numbers. Their product depends on order. This single equation generates all of quantum kinematics.
+Δx · Δp ≥ ħ/2
+Heisenberg uncertainty principle. Not a limit on measurement precision — a limit on how well-defined both quantities can simultaneously be. The vacuum cannot be zero because zero field + zero rate of change would violate this.
+
+
+Key insight  Non-commutativity is why the quantum vacuum fluctuates. A field configuration of exactly zero with exactly zero rate of change would specify both the field value and its conjugate momentum simultaneously to infinite precision — forbidden. The vacuum seethes because it must.
+
+
+II.3  QFT: particles as field excitations
+Quantum Field Theory extends quantum mechanics to be consistent with special relativity. Fields are quantised — their excitations are particles. Every fundamental particle is a mode of vibration of a corresponding fundamental field that permeates all of spacetime.
+
+L = Ψ̅(iγµDµ - m)Ψ - (1/4)FμνFμν
+QED Lagrangian. The first term describes the electron field Ψ. The second describes the EM field Fμν. Their coupling is what produces all of electromagnetism and electron behaviour.
+
+
+The photon is the massless spin-1 excitation of the EM field. The electron is the spin-1/2 excitation of the Dirac field. Virtual particles are NOT real particles — they are mathematical terms in a perturbative expansion (Feynman diagrams). The amplituhedron programme computes scattering amplitudes without them.
+
+II.4  The measurement problem and interpretations
+The measurement problem: the Schrödinger equation evolves superpositions of outcomes. We always observe one definite outcome. How? Standard QM inserts a collapse rule with no derivation. Three serious alternatives:
+
+Deutsch / Everett — Many Worlds
+The wavefunction never collapses. It branches into all outcomes simultaneously. All branches are physically real. Our observable 3D space is one thin slice through the high-dimensional wavefunction. The universal wavefunction IS the physical substrate. Quantum computing provides indirect evidence: computational power requires the parallel branches.
+
+Rovelli — Relational QM
+Properties only exist relative to other physical systems during interactions. Between interactions, there are no definite values — not unknown, genuinely undefined. Reality is a sparse network of interaction-events. The observer is a physical system; measurements are two-party interactions. [Connects directly to Markov blankets in Layer III.]
+
+Barandes — Indivisible Stochastic QM
+Γ(t←t₀) ≠ Γ(t←t′)Γ(t′←t₀)
+Indivisibility: the stochastic transition law cannot be factored through intermediate times. The law applies to the whole interval. Asking ‘what happened in the middle’ is asking for a law that does not exist.
+
+No wavefunction as fundamental object. Particles have definite positions. The Hilbert space formalism is mathematical scaffolding — like the luminiferous aether — useful for calculation but not the physical reality.
+
+
+LAYER III  Information Theory — The Bridge
+
+Layer III introduces the mathematical framework that will be shown, in Layer IV, to be not a metaphor for physics but a consequence of it. Every equation here has a direct correspondent in the physics of Layers I and II.
+
+III.1  Entropy = missing information
+Boltzmann’s entropy counts microstates consistent with a macrostate. Shannon’s entropy measures missing information. They are the same equation:
+
+S = k₂ log W
+Boltzmann. Entropy = (Boltzmann constant) × log(number of microstates). k₂ converts between bits and joules/kelvin.
+H = -Σ pᵢ log pᵢ
+Shannon / Gibbs. Entropy = negative expected log-probability. When all microstates are equally likely (pᵢ = 1/W), this reduces to Boltzmann exactly.
+
+
+Key insight  Entropy measures your ignorance of the microstate given the macrostate. High entropy = more microstates consistent with what you observe = more missing information = more that could, in principle, be known. Thermodynamics is Bayesian inference over physical microstates.
+
+
+Connection to QFT vacuum: the vacuum has a minimum entropy consistent with the uncertainty principle. It cannot be zero entropy (perfectly specified microstate) because that would require simultaneously knowing field value and field momentum exactly. The zero-point energy IS entropy-floor energy.
+
+III.2  Surprisal and Bayesian inference
+An agent with a probability model assigns P(x) to each possible outcome x. When x occurs, the surprisal is how wrong the model was:
+
+ℑ(x) = -log P(x)
+Surprisal. Low-probability events have high surprisal. The expected surprisal over all possible events equals the entropy H. A good model minimises expected surprisal.
+P(H|D) ∝ P(D|H) · P(H)
+Bayes’ theorem. Posterior ∝ likelihood × prior. Rational belief update when new data D arrives. This is the only coherent way to update beliefs under uncertainty (Cox, 1946).
+
+
+Analogy  You have a model of the weather. If you predict 90% chance of sun and it rains, your surprisal is high: -log(0.1) = 3.3 bits. Your model was wrong by 3.3 bits. Updating your model to reduce future expected surprisal is learning.
+
+
+Connection to QM measurements: every quantum measurement is a surprisal event. The Born rule gives P(x) = |Ψ(x)|². The measurement outcome is a sample from this distribution. The wavefunction is a prior over possible configurations; measurement is Bayesian update in the physical system.
+
+III.3  Markov blankets — statistical boundaries
+A Markov blanket is the minimal set of states that shields internal states from external states. Once you know the blanket states, internal and external states are conditionally independent:
+
+P(μ | b, η) = P(μ | b)
+μ = internal states, b = blanket states, η = external states. Knowing b makes μ independent of η. The blanket is the only channel of causal influence.
+
+
+This is not a metaphor for ‘boundary’. It is a precise probabilistic statement: your neurons do not directly interact with distant stars. Everything external arrives via your sensory surface (part of your Markov blanket). Everything internal is shielded by that surface.
+Analogy  The cell membrane is a Markov blanket. Cytoplasm (internal states) is conditionally independent of the extracellular environment (external states) given the membrane (blanket states). The membrane does not merely separate — it is the only channel through which internal and external become correlated.
+
+
+Key insight  Connection to holography (Layer IV): a holographic screen is a Markov blanket at the level of quantum gravity. The screen bounds information content (Bekenstein bound) AND bounds information flow (Markov blanket condition). Same mathematical structure, different physical scales.
+
+
+III.4  Bekenstein bound and the holographic principle
+The maximum information that can be stored in any physical region is not proportional to its volume but to its surface area:
+
+S_BH = A / 4ℓ²_P
+Bekenstein-Hawking entropy. Black hole entropy proportional to horizon area A. One bit per Planck area (~10⁻⁷⁰ m²). The interior of a black hole cannot contain more information than its surface can encode.
+S ≤ 2πER / ħc
+Bekenstein bound. Maximum entropy of any system with energy E in radius R. Not just for black holes — applies to any bounded region. Fundamental limit on information density.
+
+
+The holographic principle (Susskind, ’t Hooft, 1993-1995): the complete physical description of any region of space is encoded on its boundary, not in its bulk. The bulk degrees of freedom are redundant — they are reconstructable from boundary data. AdS/CFT (Maldacena, 1997) makes this precise: a quantum gravity theory in (D+1)-dimensional bulk is exactly equivalent to a quantum field theory on the D-dimensional boundary.
+
+Key insight  Holographic screen = Markov blanket at cosmological scale. The boundary completely determines the bulk (holography) exactly as blanket states completely determine the independence structure of internal and external states (Markov blanket). The mathematics is the same.
+
+
+III.5  Quantum reference frames
+A quantum reference frame (QRF) is a physical system used to define coordinates for measurements. Measurement outcomes are only defined relative to a QRF. There is no frame-independent measurement. The observer is a physical system, not a classical background.
+
+Every measurement is a two-party interaction — measured system S and reference frame R — mediated by their shared boundary (Markov blanket / holographic screen). The QRF formalises Rovelli’s relational QM mathematically: properties are relative to systems, not absolute.
+
+Hierarchies of QRFs: R₁ measures S; R₂ measures R₁; etc. This is the structure of a nervous system — neurons measuring neurons measuring the world. It is also the structure of Wolfram’s quantum observation frames: an observer is defined by a particular thread through the multiway branching graph.
+
+
+LAYER IV  The Free Energy Principle — Physics from the Inside
+
+Layer IV is where information theory and physics converge. The Free Energy Principle (Friston, 2010) is not a hypothesis about brains. It is a theorem about what any physical system with a Markov blanket does when it interacts with an environment. It follows from unitarity.
+
+IV.1  Variational free energy
+A system cannot directly minimise its surprisal — it cannot compute the true posterior over hidden causes. But it can minimise an upper bound on surprisal that is tractable. This upper bound is the variational free energy F:
+
+F = ᵔ_q[log q(z) - log P(x,z)]
+Variational free energy. q(z) = system’s approximate distribution over hidden causes z. P(x,z) = true joint distribution of observations x and causes z.
+
+
+This decomposes two ways:
+F = Complexity - Accuracy
+Complexity = how much q differs from prior. Accuracy = how well q predicts x. Minimising F balances these: don’t overcomplicate the model, but make it fit the data.
+F = KL[q(z) ∥ P(z|x)] - log P(x) ≥ ℑ(x)
+F is always ≥ surprisal. The KL divergence is always ≥ 0. So minimising F minimises an upper bound on surprise — without needing to compute the true posterior.
+
+
+Key insight  Why is this revolutionary? Not because ‘minimise surprise’ is new. Because: (1) it unifies perception and action under one objective, (2) it applies to any system with a Markov blanket — it is a physics claim, not a neuroscience claim, (3) it follows from first principles: a system that persists must resist entropic dissolution, which requires bounding its entropy, which requires minimising surprise.
+
+
+IV.2  Perceptual inference and active inference
+The same equation F has two ways to be minimised:
+
+Perceptual inference
+Update the internal model q(z) so that F decreases — make the model better calibrated to current observations. The world is fixed; the model changes. This is learning and perception.
+
+Active inference
+Change the observations x through action so that F decreases — make the world match the model’s predictions. The model is fixed; the world changes. This is action and behaviour.
+
+G(π) = ᵔ_q[log q(z|π) - log P(z,x|π)]
+Expected free energy for action policy π. Trades off: risk (how far expected outcomes deviate from preferred outcomes) and ambiguity (how uncertain outcomes are given causes). Minimising G produces both goal-seeking AND curiosity from one equation.
+
+
+Analogy  A thermostat minimises F by action (changes room temperature to match its set-point). A scientist minimises F by perception (updates beliefs to match data). An animal does both: acts to create preferred observations AND updates its model when surprised. The FEP is both of them in one equation.
+
+
+IV.3  FEP as classical limit of unitarity
+The deepest result: the FEP is not an additional assumption. It is a theorem. (Fields, Friston, Glazebrook & Levin, 2022)
+
+⟨ψ|ψ⟩ = 1 always
+Unitarity. Quantum evolution preserves total probability — information is never destroyed. This is the foundational symmetry of QM.
+
+
+From the perspective of subsystem S interacting with environment E via boundary B:
+
+Unitarity of whole ⇒ S minimises H(S,E) via B
+Unitarity of the global system translates to: subsystem S must minimise the entropy of its joint state with E, using its boundary B as the only channel. This is free energy minimisation.
+
+
+Key insight  Conclusion: any physical system interacting unitarily with an environment — which is every physical system — implements the FEP at its boundary. The FEP is what unitarity looks like from inside one subsystem. It is a theorem, not a hypothesis.
+
+
+This closes the loop from Layer II: Deutsch says the wavefunction is real and everything follows from unitary Schrödinger evolution. Fields et al. show that unitary Schrödinger evolution, seen from inside a bounded subsystem, IS the FEP. The high-dimensional wavefunction and the free energy landscape are the same dynamics described at different levels of abstraction.
+
+
+LAYER V  Life, Cognition, and the Origin of Inference
+
+Layer V applies the full framework to biology. If every physical system with a Markov blanket minimises free energy (Layer IV), and the FEP is a consequence of unitarity (Layer IV), then the question is not whether biological systems implement inference — they must — but how complex that inference has to become before we call it life.
+
+V.1  Morphogenesis as active inference
+A developing embryo navigates from a single cell to a complex organism. Michael Levin’s work on bioelectricity shows that cells maintain and communicate target morphology states via bioelectric fields — voltage gradients across tissues. Disrupting these fields produces predictable morphological errors that are not explicable by gene expression alone.
+
+The FEP framing: morphogenesis is active inference in morphospace. The preferred observations are target morphological states. The internal model is implemented in the bioelectric field. Development is the process of minimising the free energy gap between current morphology and preferred morphology.
+
+Analogy  A GPS navigator has a target (destination) and a current state (position). It computes the gap and generates actions (turn left) to close it. A developing embryo has a target (adult body plan) and a current state (cell configuration). The bioelectric field computes the gap and generates actions (cell division, migration, apoptosis) to close it. The equations are the same.
+
+
+Key insight  Cancer, in this framing, is a failure of the bioelectric Markov blanket. Tumour cells have lost access to the tissue-level morphogenetic field. They revert to a more primitive free energy minimum — proliferate indefinitely — because the higher-level preferred observations are no longer accessible to them. Restoring the bioelectric context (as Levin’s lab has done experimentally) can reverse tumour behaviour.
+
+
+V.2  The origin of life as the origin of inference
+The standard framing: life begins when chemistry produces self-replication. This is unsatisfying because self-replication is not sufficient for evolution (you need heritable variation) and the transition from non-replicating chemistry to self-replicating chemistry has no clear mechanism.
+
+The FEP framing: life begins when inference becomes sufficiently complex to constitute what we call a living system. All physical systems implement rudimentary free energy minimisation (Markov blanket + unitarity). Life is not a different kind of thing — it is inference at higher complexity, with richer priors, longer time horizons, and more degrees of freedom.
+
+The Conway-Kochen theorem (Fields & Levin, 2025) sharpens this: every measurable physical system has a non-deterministic response — it is not a passive mirror of prior causes. Even particles are minimally agentic in this technical sense. Life is not the introduction of agency into a passive universe. It is the amplification of an agency that was always present.
+
+Key insight  There is no bright line between chemistry and life, non-agent and agent, non-cognitive and cognitive. There is a continuous spectrum of inference complexity. The FEP gives a quantitative measure: complexity of the internal model, length of the time horizon, richness of the prior. Life is a region on this spectrum, not a category.
+
+
+
+LAYER VI  Convergence — One Diagram of Everything
+
+The five layers are not separate subjects. They are different descriptions of the same underlying dynamics, seen from different vantage points. Here is the complete map of how they connect:
+
+Concept
+Physics description
+Information / FEP description
+Fundamental object
+The field (EM, Dirac, etc.) — a number at every spacetime point
+A probability distribution over configurations — a number for each possible state
+Ground state / vacuum
+Zero-point energy — irreducible vacuum fluctuation forbidden from being exactly zero by uncertainty principle
+Minimum entropy state — irreducible uncertainty floor below which no system can be specified
+Measurement
+Interaction between two quantum systems mediated by their shared boundary (QRF)
+Bayesian update — surprisal event that reduces free energy by updating internal model
+Boundary / interface
+Markov blanket (statistical) = holographic screen (gravitational) = Markov blanket (biological)
+The only channel through which internal and external states become correlated
+Deterministic evolution
+Schrödinger equation — unitary, linear, no collapse
+Minimising variational free energy — tractable upper bound on surprisal
+Many observations
+Everettian branching of the wavefunction — all outcomes real
+All possible trajectories through the free energy landscape — organism selects one via active inference
+Action / behaviour
+Active inference — changing sensory observations to match model predictions
+Changing the world to reduce free energy gap between predicted and preferred observations
+Cognition / life
+A subsystem with a rich Markov blanket structure, long-range correlations, hierarchical QRFs
+A system implementing multi-level, hierarchical free energy minimisation across nested timescales
+Origin of life
+When did chemistry produce stable self-replication? (unsatisfying — no sharp line)
+When did inference complexity cross a threshold we call life? (continuous — no sharp line needed)
+Open gap
+How does Everettian branching give rise to a classical free energy landscape?
+The unification paper connecting Deutsch’s wavefunction to Friston’s FEP does not yet exist
+
+
+
+Canonical Reading Order
+Each entry is a standalone paper. Read in order — each one builds on the previous. Estimated total: ~200 pages of high-density primary source.
+
+Step
+Paper / Source
+What you get
+Layer I
+Maxwell (1865) Treatise on EM (selections)
+Fields are real; c derived from constants
+Layer I
+Einstein (1905) On the electrodynamics of moving bodies
+Special relativity from first principles
+Layer I
+Einstein (1916) Foundation of general relativity
+Spacetime as dynamic geometry
+Layer II
+Feynman Lectures Vol III, ch. 1–3
+QM from first principles, no jargon
+Layer II
+Everett (1957) Relative state formulation
+Many Worlds without the hype
+Layer II
+Bell (1964) On the EPR paradox
+Non-locality is real; hidden variables constrained
+Layer III
+Shannon (1948) Mathematical theory of communication
+Entropy = missing information. 30 pages.
+Layer III
+Jaynes (1957) Information theory and statistical mechanics
+Thermodynamics IS Bayesian inference
+Layer III
+Cox (1946) Probability, frequency and reasonable expectation
+Bayesian inference as the only coherent belief update
+Layer IV
+Friston (2010) Free-energy principle, Nature Reviews Neuroscience
+The key FEP paper. 10 pages.
+Layer IV
+Friston (2013) Life as we know it, J.R.Soc. Interface
+FEP extended to biology. 10 pages.
+Layer III+IV
+Fields, Glazebrook & Marcianò (2022) Physical meaning of holographic principle
+Holography = Markov blanket at Planck scale
+Layer IV
+Fields, Friston, Glazebrook & Levin (2022) FEP for generic quantum systems
+FEP as theorem about unitarity. The unification.
+Layer V
+Friston (2019) A free energy principle for a particular physics
+Particles, cells, organisms — same framework
+Layer V
+Fields & Levin (2025) Life, its origin, and its distribution
+Conway-Kochen + FEP; origin of life reframed
+Bonus
+Lancaster & Blundell QFT for the Gifted Amateur
+QFT machinery without PhD prerequisites
+Bonus
+Deutsch, The Fabric of Reality (1997)
+Most accessible case for Everettian wavefunction realism
+
+
+
+
+
+
+The open question threading through every layer: how does unitary quantum evolution — Deutsch’s high-dimensional wavefunction — give rise to the classical free energy landscapes that biological systems navigate? The answer would connect the most fundamental layer of physics (Layer II) to the most complex expression of it (Layer V) through a single mathematical argument. That argument does not yet exist. It is the paper worth writing.
+

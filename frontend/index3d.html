@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sanskrit Proof Engine — 3D</title>
+  <style>
+    * { margin: 0; padding: 0; }
+    body { background: #050508; overflow: hidden; }
+    #canvas { display: block; }
+    #label {
+      position: fixed; bottom: 16px; left: 16px;
+      color: rgba(212, 175, 100, 0.7); font-size: 11px;
+      font-family: system-ui, sans-serif;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="canvas"></div>
+  <div id="label">Orbit: drag · Zoom: scroll · Each proof = unique sculpture · <a href="index.html" style="color:inherit">← 2D</a></div>
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+    }
+  }
+  </script>
+  <script type="module" src="scene3d.js"></script>
+</body>
+</html>

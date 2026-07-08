@@ -1,0 +1,71 @@
+{
+  "description": "Known non-bridges. Cross-tradition and within-tradition. If the system produces these as bridges, it's broken.",
+  "pairs": [
+    {
+      "a": "iit_integration_001",
+      "b": "iit_IIT_Exclusion",
+      "reason": "Integration is about irreducibility of parts. Exclusion is about uniqueness of the winning level. Same tradition, different primitives, should NOT bridge.",
+      "failure_type": "within_tradition_confusion"
+    },
+    {
+      "a": "gwt_GWT_Broadcast",
+      "b": "gwt_GWT_Competition",
+      "reason": "Broadcast is the effect. Competition is the selection mechanism. These are sequential, not equivalent.",
+      "failure_type": "within_tradition_confusion"
+    },
+    {
+      "a": "dharmakirti_arthakriya",
+      "b": "dharmakirti_svalaksana",
+      "reason": "Causal efficacy is the existence criterion. Particularity is the epistemic criterion. Related but not equivalent.",
+      "failure_type": "within_tradition_confusion"
+    },
+    {
+      "a": "ethics_as_prerequisite",
+      "b": "curriculum_learning_as_loss_smoothing",
+      "reason": "Lamrim: ethics-as-prerequisite does not bridge to curriculum-learning-as-loss-smoothing. Structural analogy only.",
+      "source": "syntheses/22 tsongkhapa ai training"
+    },
+    {
+      "a": "spanda",
+      "b": "broadcast",
+      "reason": "Spanda (constitutive dynamism) does not bridge to GWT broadcast. Different mechanisms.",
+      "source": "Kashmir Shaivism vs GWT"
+    },
+    {
+      "a": "phowa_transfer",
+      "b": "mind_uploading",
+      "reason": "Phowa (ritual-phenomenological) does not bridge to information-preserving upload. Incommensurable ontologies.",
+      "source": "syntheses/43 phowa uploading"
+    },
+    {
+      "a": "rule30_automaton",
+      "b": "chaos_magic_sigils",
+      "reason": "Rule 30 (formal CA) does not bridge to sigil practice. Metaphor only, not mechanism.",
+      "source": "syntheses/45 wolfram cellular automata"
+    },
+    {
+      "a": "pure_land",
+      "b": "server",
+      "reason": "Buddha field vs computing substrate. Category error.",
+      "source": "syntheses/43 phowa uploading"
+    },
+    {
+      "a": "karmic_mindstream",
+      "b": "pattern_identity",
+      "reason": "Karmic continuity vs information-pattern identity. Logical exclusion.",
+      "source": "syntheses/43 phowa uploading"
+    },
+    {
+      "a": "svaprakasa",
+      "b": "shannon_mutual_information",
+      "reason": "Self-luminosity has no phenomenal character in Shannon. Noema paper's failed bridge.",
+      "source": "Vedānta vs information theory"
+    },
+    {
+      "a": "citi_sakti_identity",
+      "b": "gamma_oscillation",
+      "reason": "Consciousness-power identity (Shiva Sūtra) vs neural oscillation. Structural rhyme only.",
+      "source": "Kashmir Shaivism vs Crick-Koch"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tradition": "nyaya",
+  "description": "Nyāya-Sūtras. Tier 3 axioms.",
+  "claims": [
+    {
+      "id": "pramana",
+      "statement": "Valid cognition produces true belief about its object",
+      "plain": "Pramāṇa is factive",
+      "primitive_hint": null,
+      "sanskrit": "pramāṇa"
+    },
+    {
+      "id": "vyapti",
+      "statement": "Wherever hetu exists, sādhya exists",
+      "plain": "Universal concomitance",
+      "primitive_hint": "ForallImplication",
+      "sanskrit": "vyāpti",
+      "lean_type": "∀ x, Hetu x → Sadhya x"
+    },
+    {
+      "id": "anumana",
+      "statement": "Inference via five-membered syllogism",
+      "plain": "Pratijñā, hetu, udāharaṇa, upanaya, nigamana",
+      "primitive_hint": null,
+      "sanskrit": "anumāna"
+    }
+  ]
+}

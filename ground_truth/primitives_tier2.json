@@ -1,0 +1,97 @@
+{
+  "description": "Tier 2: Functional primitives. Cross-tradition, defined by yes/no conditions. Aligned with Kleiner & Tull, PyPhi, Dharmakīrti. See FORMALISATION_SCHEMA.md.",
+  "tier": 2,
+  "primitives": [
+    {
+      "id": "CausalPower",
+      "definition": "x affects y's probability distribution",
+      "yes_no_condition": "Does changing x change the distribution over y?",
+      "lean_hint": "CausalPower : Substrate → Substrate → Prop",
+      "source_ref": "Kleiner & Tull: caus, eff repertoires. Dharmakīrti: arthakriyā. IIT 4.0: cause-effect."
+    },
+    {
+      "id": "Integration",
+      "definition": "System cannot be partitioned without information loss. φ(e) = min_{z≠1} d(e, ē(z)).",
+      "yes_no_condition": "Is there a partition that preserves all cause-effect structure?",
+      "lean_hint": "Integration : Substrate → Prop. Connects to Set.Partition. Kleiner & Tull Def 8.",
+      "source_ref": "Kleiner & Tull Def 8. PyPhi: phi(). IIT 4.0 postulate 2."
+    },
+    {
+      "id": "Broadcast",
+      "definition": "State becomes readable by all recipient modules",
+      "yes_no_condition": "Can every specialist module access this state?",
+      "lean_hint": "Broadcast : GlobalWorkspace → SpecialistModule → Prop",
+      "source_ref": "Dehaene et al. GWT. Graph reachability from winner."
+    },
+    {
+      "id": "Selectivity",
+      "definition": "System responds differentially to distinct inputs",
+      "yes_no_condition": "Do different inputs produce different outputs?",
+      "lean_hint": "Selectivity : Substrate → Prop"
+    },
+    {
+      "id": "SelfReference",
+      "definition": "System's output is input to itself",
+      "yes_no_condition": "Does the system take its own state as input?",
+      "lean_hint": "SelfReference : Substrate → Prop"
+    },
+    {
+      "id": "Threshold",
+      "definition": "Process activates only above some value",
+      "yes_no_condition": "Is there a cutoff below which nothing happens?",
+      "lean_hint": "Threshold : (Substrate → ℝ) → ℝ → Prop"
+    },
+    {
+      "id": "Exclusion",
+      "definition": "Only one description level applies at a time",
+      "yes_no_condition": "Do overlapping candidate systems exclude each other?",
+      "lean_hint": "Exclusion : Substrate → Prop. Max over overlapping systems.",
+      "source_ref": "Kleiner & Tull: Core, major complex. IIT 4.0: exclusion postulate."
+    },
+    {
+      "id": "Composition",
+      "definition": "System is made of parts in specific relations",
+      "yes_no_condition": "Does the system have distinguishable parts?",
+      "lean_hint": "Composition : Substrate → Prop. IIT 6th postulate, mereology.",
+      "source_ref": "Kleiner & Tull Def 1: Subs(S). IIT 4.0: composition postulate."
+    },
+    {
+      "id": "Accessibility",
+      "definition": "State S is readable by process P",
+      "yes_no_condition": "Can process P read state S?",
+      "lean_hint": "Accessibility : State → Process → Prop. GWT needs this; distinct from Broadcast."
+    },
+    {
+      "id": "Particularity",
+      "definition": "This token, not this type",
+      "yes_no_condition": "Is it a specific instance rather than a general kind?",
+      "lean_hint": "Particularity : Substrate → Prop. Dharmakīrti svalakṣaṇa, IIT intrinsicality.",
+      "source_ref": "Dharmakīrti: svalakṣaṇa (particular, ineffable). IIT 4.0: intrinsicality."
+    },
+    {
+      "id": "Irreversibility",
+      "definition": "Process cannot be undone",
+      "yes_no_condition": "Is the process one-way?",
+      "lean_hint": "Irreversibility : Process → Prop. Causal structure."
+    },
+    {
+      "id": "Normativity",
+      "definition": "There is a correct vs incorrect response",
+      "yes_no_condition": "Does the system have a right/wrong distinction?",
+      "lean_hint": "Normativity : Substrate → Prop. Nyāya pramāṇa, GWT specialist modules.",
+      "source_ref": "Dharmakīrti: pramāṇa (avisaṃvādin = reliable cognition)."
+    },
+    {
+      "id": "Substrate",
+      "definition": "The physical/material base of a process",
+      "yes_no_condition": "What instantiates this?",
+      "lean_hint": "Substrate : Type. IIT existence, Dharmakīrti, everything."
+    },
+    {
+      "id": "Hierarchy",
+      "definition": "Levels of organization with different descriptions",
+      "yes_no_condition": "Are there nested levels of description?",
+      "lean_hint": "Hierarchy : Substrate → Prop. IIT exclusion, predictive processing, lamrim."
+    }
+  ]
+}

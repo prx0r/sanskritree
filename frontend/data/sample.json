@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "parent_id": null,
+      "x": 4800,
+      "y": 4800,
+      "sanskrit": "vyāptiḥ hetau sādhye ca sāhacaryam",
+      "statement": "Pervasion is co-presence of hetu and sādhya",
+      "lean_type": "∀ x, H x → S x",
+      "status": "PROVED",
+      "tradition": "nyaya"
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "x": 3600,
+      "y": 3600,
+      "sanskrit": "yatra yatra dhūmas tatra tatra vahniḥ",
+      "statement": "Wherever smoke, there fire",
+      "lean_type": "∀ x, Smoke x → Fire x",
+      "status": "PROVED",
+      "tradition": "nyaya"
+    },
+    {
+      "id": 3,
+      "parent_id": 1,
+      "x": 6000,
+      "y": 3600,
+      "sanskrit": "sāmānyato dṛṣṭam anumānam",
+      "statement": "Inference from the generally observed",
+      "lean_type": "∀ x, H x → S x",
+      "status": "PROVED",
+      "tradition": "buddhist"
+    }
+  ],
+  "edges": [
+    { "from": 2, "to": 1 },
+    { "from": 3, "to": 1 }
+  ],
+  "bridges": [{ "node_a": 2, "node_b": 3 }]
+}

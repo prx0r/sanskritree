@@ -1,0 +1,1171 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "parent_id": null,
+      "statement": "Ny\u0101ya-S\u016btras 1.1 \u2014 sixteen pad\u0101rthas: formal validation",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 120,
+      "y": 0
+    },
+    {
+      "id": 3,
+      "parent_id": 1,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 240,
+      "y": 0
+    },
+    {
+      "id": 4,
+      "parent_id": 1,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 360,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "parent_id": 1,
+      "statement": "Anum\u0101na: inference via five-membered syllogism (pratij\u00f1\u0101, hetu, ud\u0101hara\u1e47a, upanaya, nigamana)",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "InferenceRule",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "id": 6,
+      "parent_id": 1,
+      "statement": "Nigrahasth\u0101na: grounds for defeat in debate \u2014 formal fallacy catalogue",
+      "sanskrit": "nigrahasth\u0101na",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "id": 7,
+      "parent_id": null,
+      "statement": "Ny\u0101ya-S\u016btras 1.1 \u2014 sixteen pad\u0101rthas: formal validation",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 720,
+      "y": 0
+    },
+    {
+      "id": 8,
+      "parent_id": 7,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 840,
+      "y": 0
+    },
+    {
+      "id": 9,
+      "parent_id": 7,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "id": 10,
+      "parent_id": 7,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 1080,
+      "y": 0
+    },
+    {
+      "id": 11,
+      "parent_id": 7,
+      "statement": "Anum\u0101na: inference via five-membered syllogism (pratij\u00f1\u0101, hetu, ud\u0101hara\u1e47a, upanaya, nigamana)",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "InferenceRule",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 0,
+      "y": 200
+    },
+    {
+      "id": 12,
+      "parent_id": 7,
+      "statement": "Nigrahasth\u0101na: grounds for defeat in debate \u2014 formal fallacy catalogue",
+      "sanskrit": "nigrahasth\u0101na",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 120,
+      "y": 200
+    },
+    {
+      "id": 13,
+      "parent_id": null,
+      "statement": "Ny\u0101ya-S\u016btras 1.1 \u2014 sixteen pad\u0101rthas: formal validation",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 240,
+      "y": 200
+    },
+    {
+      "id": 14,
+      "parent_id": 13,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 360,
+      "y": 200
+    },
+    {
+      "id": 15,
+      "parent_id": 13,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 480,
+      "y": 200
+    },
+    {
+      "id": 16,
+      "parent_id": 13,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 600,
+      "y": 200
+    },
+    {
+      "id": 17,
+      "parent_id": 13,
+      "statement": "Anum\u0101na: inference via five-membered syllogism (pratij\u00f1\u0101, hetu, ud\u0101hara\u1e47a, upanaya, nigamana)",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "InferenceRule",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 720,
+      "y": 200
+    },
+    {
+      "id": 18,
+      "parent_id": 13,
+      "statement": "Nigrahasth\u0101na: grounds for defeat in debate \u2014 formal fallacy catalogue",
+      "sanskrit": "nigrahasth\u0101na",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 840,
+      "y": 200
+    },
+    {
+      "id": 19,
+      "parent_id": null,
+      "statement": "By true knowledge of the sixteen categories, supreme good (ni\u1e25\u015breyasa) is attained",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 960,
+      "y": 200
+    },
+    {
+      "id": 20,
+      "parent_id": 19,
+      "statement": "True knowledge leads to liberation (ni\u1e25\u015breyasa)",
+      "sanskrit": "tattvaj\u00f1\u0101n\u0101n ni\u1e25\u015breyas\u0101dhigama\u1e25",
+      "lean_type": null,
+      "status": "OUTSIDE_FORMAL",
+      "source_module": null,
+      "tradition": null,
+      "x": 1080,
+      "y": 200
+    },
+    {
+      "id": 21,
+      "parent_id": 19,
+      "statement": "The sixteen pad\u0101rthas form a complete system for valid cognition",
+      "sanskrit": "\u1e63o\u1e0da\u015ba-pad\u0101rtha-s\u0101kalyam",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 0,
+      "y": 400
+    },
+    {
+      "id": 22,
+      "parent_id": 21,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 120,
+      "y": 400
+    },
+    {
+      "id": 23,
+      "parent_id": 21,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 240,
+      "y": 400
+    },
+    {
+      "id": 24,
+      "parent_id": 21,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 360,
+      "y": 400
+    },
+    {
+      "id": 25,
+      "parent_id": null,
+      "statement": "Ny\u0101ya-S\u016btras 1.1 \u2014 sixteen pad\u0101rthas: formal validation",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 480,
+      "y": 400
+    },
+    {
+      "id": 26,
+      "parent_id": 25,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 600,
+      "y": 400
+    },
+    {
+      "id": 27,
+      "parent_id": 25,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 720,
+      "y": 400
+    },
+    {
+      "id": 28,
+      "parent_id": 25,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 840,
+      "y": 400
+    },
+    {
+      "id": 29,
+      "parent_id": 25,
+      "statement": "Anum\u0101na: inference via five-membered syllogism (pratij\u00f1\u0101, hetu, ud\u0101hara\u1e47a, upanaya, nigamana)",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "InferenceRule",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 960,
+      "y": 400
+    },
+    {
+      "id": 30,
+      "parent_id": 25,
+      "statement": "Nigrahasth\u0101na: grounds for defeat in debate \u2014 formal fallacy catalogue",
+      "sanskrit": "nigrahasth\u0101na",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 1080,
+      "y": 400
+    },
+    {
+      "id": 31,
+      "parent_id": null,
+      "statement": "Ny\u0101ya-S\u016btras 1.1 \u2014 sixteen pad\u0101rthas: formal validation",
+      "sanskrit": "pram\u0101\u1e47a-prameya-sa\u1e43\u015baya-...",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "id": 32,
+      "parent_id": 31,
+      "statement": "Pram\u0101\u1e47a: valid means of cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "\u2200 (source : Type) (belief : Prop), ValidCognition source belief \u2192 belief",
+      "status": "PLACEHOLDER",
+      "source_module": null,
+      "tradition": null,
+      "x": 120,
+      "y": 600
+    },
+    {
+      "id": 33,
+      "parent_id": 31,
+      "statement": "Sa\u1e43\u015baya: doubt arises when cognition fails to uniquely determine its object",
+      "sanskrit": "sa\u1e43\u015baya",
+      "lean_type": "\u2200 (obj : \u03b1), Doubt obj \u2194 \u00ac(\u2203! (c : Cognition), Determines c obj)",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 240,
+      "y": 600
+    },
+    {
+      "id": 34,
+      "parent_id": 31,
+      "statement": "Vy\u0101pti: wherever hetu exists, s\u0101dhya exists \u2014 universal concomitance",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 (\u03b1 : Type*) (Hetu Sadhya : \u03b1 \u2192 Prop), (\u2200 x, Hetu x \u2192 Sadhya x)",
+      "status": "PROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 360,
+      "y": 600
+    },
+    {
+      "id": 35,
+      "parent_id": 31,
+      "statement": "Anum\u0101na: inference via five-membered syllogism (pratij\u00f1\u0101, hetu, ud\u0101hara\u1e47a, upanaya, nigamana)",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "InferenceRule",
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 480,
+      "y": 600
+    },
+    {
+      "id": 36,
+      "parent_id": 31,
+      "statement": "Nigrahasth\u0101na: grounds for defeat in debate \u2014 formal fallacy catalogue",
+      "sanskrit": "nigrahasth\u0101na",
+      "lean_type": null,
+      "status": "UNPROVED",
+      "source_module": null,
+      "tradition": null,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "id": 37,
+      "parent_id": null,
+      "statement": "Consciousness theory map \u2014 ground truth",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "ground_truth",
+      "tradition": "ground_truth",
+      "x": 720,
+      "y": 600
+    },
+    {
+      "id": 38,
+      "parent_id": 37,
+      "statement": "Tier1: Mathlib theorems (logic, sets, measure, order, graph)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "mathlib",
+      "tradition": "mathlib",
+      "x": 840,
+      "y": 600
+    },
+    {
+      "id": 39,
+      "parent_id": 37,
+      "statement": "Tier1: PhysLean (causal, information, quantum)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "physlean",
+      "tradition": "physlean",
+      "x": 960,
+      "y": 600
+    },
+    {
+      "id": 40,
+      "parent_id": 37,
+      "statement": "Tier2: Functional primitives (cross-tradition, yes/no definitions)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "primitives_tier2",
+      "tradition": "primitives_tier2",
+      "x": 1080,
+      "y": 600
+    },
+    {
+      "id": 41,
+      "parent_id": 37,
+      "statement": "Tier3/Sanskrit: Cognition, Svalaksana, Perceives, Kalpana",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "proof_engine_lean/Sanskrit.lean",
+      "tradition": "proof_engine_lean/Sanskrit.lean",
+      "x": 0,
+      "y": 800
+    },
+    {
+      "id": 42,
+      "parent_id": 37,
+      "statement": "Negative controls: known non-bridges for testing",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "negative_controls",
+      "tradition": "negative_controls",
+      "x": 120,
+      "y": 800
+    },
+    {
+      "id": 43,
+      "parent_id": null,
+      "statement": "Consciousness theory map \u2014 ground truth",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "ground_truth",
+      "tradition": "ground_truth",
+      "x": 240,
+      "y": 800
+    },
+    {
+      "id": 44,
+      "parent_id": 43,
+      "statement": "Tier1: Mathlib theorems (logic, sets, measure, order, graph)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "mathlib",
+      "tradition": "mathlib",
+      "x": 360,
+      "y": 800
+    },
+    {
+      "id": 45,
+      "parent_id": 43,
+      "statement": "Tier1: PhysLean (causal, information, quantum)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "physlean",
+      "tradition": "physlean",
+      "x": 480,
+      "y": 800
+    },
+    {
+      "id": 46,
+      "parent_id": 43,
+      "statement": "Tier2: Functional primitives (cross-tradition, yes/no definitions)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "primitives_tier2",
+      "tradition": "primitives_tier2",
+      "x": 600,
+      "y": 800
+    },
+    {
+      "id": 47,
+      "parent_id": 43,
+      "statement": "Tier3/Sanskrit: Cognition, Svalaksana, Perceives, Kalpana",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "proof_engine_lean/Sanskrit.lean",
+      "tradition": "proof_engine_lean/Sanskrit.lean",
+      "x": 720,
+      "y": 800
+    },
+    {
+      "id": 48,
+      "parent_id": 43,
+      "statement": "Negative controls: known non-bridges for testing",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "negative_controls",
+      "tradition": "negative_controls",
+      "x": 840,
+      "y": 800
+    },
+    {
+      "id": 49,
+      "parent_id": null,
+      "statement": "Consciousness theory map \u2014 ground truth",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "ground_truth",
+      "tradition": "ground_truth",
+      "x": 960,
+      "y": 800
+    },
+    {
+      "id": 50,
+      "parent_id": 49,
+      "statement": "Tier1: Mathlib theorems (logic, sets, measure, order, graph)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "mathlib",
+      "tradition": "mathlib",
+      "x": 1080,
+      "y": 800
+    },
+    {
+      "id": 51,
+      "parent_id": 49,
+      "statement": "Tier1: PhysLean (causal, information, quantum)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "physlean",
+      "tradition": "physlean",
+      "x": 0,
+      "y": 1000
+    },
+    {
+      "id": 52,
+      "parent_id": 49,
+      "statement": "Tier2: Functional primitives (cross-tradition, yes/no definitions)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "primitives_tier2",
+      "tradition": "primitives_tier2",
+      "x": 120,
+      "y": 1000
+    },
+    {
+      "id": 53,
+      "parent_id": 49,
+      "statement": "Tier3/Sanskrit: Cognition, Svalaksana, Perceives, Kalpana",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "proof_engine_lean/Sanskrit.lean",
+      "tradition": "proof_engine_lean/Sanskrit.lean",
+      "x": 240,
+      "y": 1000
+    },
+    {
+      "id": 54,
+      "parent_id": 49,
+      "statement": "Negative controls: known non-bridges for testing",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "negative_controls",
+      "tradition": "negative_controls",
+      "x": 360,
+      "y": 1000
+    },
+    {
+      "id": 55,
+      "parent_id": null,
+      "statement": "Consciousness theory map \u2014 ground truth",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "ground_truth",
+      "tradition": "ground_truth",
+      "x": 480,
+      "y": 1000
+    },
+    {
+      "id": 56,
+      "parent_id": 55,
+      "statement": "Tier1: Mathlib theorems (logic, sets, measure, order, graph)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "mathlib",
+      "tradition": "mathlib",
+      "x": 600,
+      "y": 1000
+    },
+    {
+      "id": 57,
+      "parent_id": 55,
+      "statement": "Tier1: PhysLean (causal, information, quantum)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "physlean",
+      "tradition": "physlean",
+      "x": 720,
+      "y": 1000
+    },
+    {
+      "id": 58,
+      "parent_id": 55,
+      "statement": "Tier2: Functional primitives (cross-tradition, yes/no definitions)",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "primitives_tier2",
+      "tradition": "primitives_tier2",
+      "x": 840,
+      "y": 1000
+    },
+    {
+      "id": 59,
+      "parent_id": 55,
+      "statement": "Tier3/Sanskrit: Cognition, Svalaksana, Perceives, Kalpana",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "proof_engine_lean/Sanskrit.lean",
+      "tradition": "proof_engine_lean/Sanskrit.lean",
+      "x": 960,
+      "y": 1000
+    },
+    {
+      "id": 60,
+      "parent_id": 55,
+      "statement": "Negative controls: known non-bridges for testing",
+      "sanskrit": null,
+      "lean_type": null,
+      "status": "PROVED",
+      "source_module": "negative_controls",
+      "tradition": "negative_controls",
+      "x": 1080,
+      "y": 1000
+    },
+    {
+      "id": 1000,
+      "parent_id": null,
+      "statement": "A conscious system cannot be partitioned into independent parts without loss of ",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "IIT",
+      "claim_id": "iit_integration_001",
+      "x": 400,
+      "y": 600
+    },
+    {
+      "id": 1001,
+      "parent_id": null,
+      "statement": "x exists iff x has causal efficacy",
+      "sanskrit": "arthakriy\u0101",
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "dharmakirti",
+      "claim_id": "dharmakirti_arthakriya",
+      "x": 580,
+      "y": 600
+    },
+    {
+      "id": 1002,
+      "parent_id": null,
+      "statement": "Perception of particulars is free from conceptual construction",
+      "sanskrit": "pratyak\u1e63a",
+      "lean_type": "\u2200 (c : Cognition) (x : Svalaksana), Perceives c x \u2192 \u00ac Kalpana c",
+      "status": "PENDING",
+      "tradition": "dharmakirti",
+      "claim_id": "dharmakirti_pratyaksa",
+      "x": 760,
+      "y": 600
+    },
+    {
+      "id": 1003,
+      "parent_id": null,
+      "statement": "The particular is the ineffable object of perception",
+      "sanskrit": "svalak\u1e63a\u1e47a",
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "dharmakirti",
+      "claim_id": "dharmakirti_svalaksana",
+      "x": 940,
+      "y": 600
+    },
+    {
+      "id": 1004,
+      "parent_id": null,
+      "statement": "Broadcast makes the representation readable by all specialist modules that previ",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "gwt",
+      "claim_id": "gwt_GWT_Broadcast",
+      "x": 1120,
+      "y": 600
+    },
+    {
+      "id": 1005,
+      "parent_id": null,
+      "statement": "Representations compete for access to the global workspace",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "gwt",
+      "claim_id": "gwt_GWT_Competition",
+      "x": 1300,
+      "y": 600
+    },
+    {
+      "id": 1006,
+      "parent_id": null,
+      "statement": "A representation is conscious iff it wins competition and gets broadcast to all ",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "gwt",
+      "claim_id": "gwt_GWT_Workspace",
+      "x": 1480,
+      "y": 600
+    },
+    {
+      "id": 1007,
+      "parent_id": null,
+      "statement": "Systems compose; higher systems can have their own \u03c6",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Composition",
+      "x": 1660,
+      "y": 600
+    },
+    {
+      "id": 1008,
+      "parent_id": null,
+      "statement": "One system, one level of description wins",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Exclusion",
+      "x": 400,
+      "y": 820
+    },
+    {
+      "id": 1009,
+      "parent_id": null,
+      "statement": "A system has causal power on itself",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Existence",
+      "x": 580,
+      "y": 820
+    },
+    {
+      "id": 1010,
+      "parent_id": null,
+      "statement": "The system specifies a particular cause-effect state",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Information",
+      "x": 760,
+      "y": 820
+    },
+    {
+      "id": 1011,
+      "parent_id": null,
+      "statement": "The system is irreducible \u2014 cannot partition without loss",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Integration",
+      "x": 940,
+      "y": 820
+    },
+    {
+      "id": 1012,
+      "parent_id": null,
+      "statement": "That causal power exists from the system's own perspective",
+      "sanskrit": null,
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "iit",
+      "claim_id": "iit_IIT_Intrinsicality",
+      "x": 1120,
+      "y": 820
+    },
+    {
+      "id": 1013,
+      "parent_id": null,
+      "statement": "Inference via five-membered syllogism",
+      "sanskrit": "anum\u0101na",
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "nyaya",
+      "claim_id": "nyaya_anumana",
+      "x": 1300,
+      "y": 820
+    },
+    {
+      "id": 1014,
+      "parent_id": null,
+      "statement": "Valid cognition produces true belief about its object",
+      "sanskrit": "pram\u0101\u1e47a",
+      "lean_type": "",
+      "status": "PENDING",
+      "tradition": "nyaya",
+      "claim_id": "nyaya_pramana",
+      "x": 1480,
+      "y": 820
+    },
+    {
+      "id": 1015,
+      "parent_id": null,
+      "statement": "Wherever hetu exists, s\u0101dhya exists",
+      "sanskrit": "vy\u0101pti",
+      "lean_type": "\u2200 x, Hetu x \u2192 Sadhya x",
+      "status": "PENDING",
+      "tradition": "nyaya",
+      "claim_id": "nyaya_vyapti",
+      "x": 1660,
+      "y": 820
+    },
+    {
+      "id": 2000,
+      "parent_id": 1000,
+      "statement": "a partition exists over those parts -> candidate",
+      "status": "PLACEHOLDER",
+      "tradition": "IIT",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2001,
+      "parent_id": 1000,
+      "statement": "partitioning causes information loss -> Integration",
+      "status": "PROVED",
+      "tradition": "IIT",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2002,
+      "parent_id": 1000,
+      "statement": "the system is irreducible -> Irreversibility",
+      "status": "PROVED",
+      "tradition": "IIT",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2003,
+      "parent_id": 1000,
+      "statement": "the system has parts -> Composition",
+      "status": "PROVED",
+      "tradition": "IIT",
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "edges": [
+    {
+      "from": 2,
+      "to": 1
+    },
+    {
+      "from": 3,
+      "to": 1
+    },
+    {
+      "from": 4,
+      "to": 1
+    },
+    {
+      "from": 5,
+      "to": 1
+    },
+    {
+      "from": 6,
+      "to": 1
+    },
+    {
+      "from": 8,
+      "to": 7
+    },
+    {
+      "from": 9,
+      "to": 7
+    },
+    {
+      "from": 10,
+      "to": 7
+    },
+    {
+      "from": 11,
+      "to": 7
+    },
+    {
+      "from": 12,
+      "to": 7
+    },
+    {
+      "from": 14,
+      "to": 13
+    },
+    {
+      "from": 15,
+      "to": 13
+    },
+    {
+      "from": 16,
+      "to": 13
+    },
+    {
+      "from": 17,
+      "to": 13
+    },
+    {
+      "from": 18,
+      "to": 13
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 19
+    },
+    {
+      "from": 22,
+      "to": 21
+    },
+    {
+      "from": 23,
+      "to": 21
+    },
+    {
+      "from": 24,
+      "to": 21
+    },
+    {
+      "from": 26,
+      "to": 25
+    },
+    {
+      "from": 27,
+      "to": 25
+    },
+    {
+      "from": 28,
+      "to": 25
+    },
+    {
+      "from": 29,
+      "to": 25
+    },
+    {
+      "from": 30,
+      "to": 25
+    },
+    {
+      "from": 32,
+      "to": 31
+    },
+    {
+      "from": 33,
+      "to": 31
+    },
+    {
+      "from": 34,
+      "to": 31
+    },
+    {
+      "from": 35,
+      "to": 31
+    },
+    {
+      "from": 36,
+      "to": 31
+    },
+    {
+      "from": 38,
+      "to": 37
+    },
+    {
+      "from": 39,
+      "to": 37
+    },
+    {
+      "from": 40,
+      "to": 37
+    },
+    {
+      "from": 41,
+      "to": 37
+    },
+    {
+      "from": 42,
+      "to": 37
+    },
+    {
+      "from": 44,
+      "to": 43
+    },
+    {
+      "from": 45,
+      "to": 43
+    },
+    {
+      "from": 46,
+      "to": 43
+    },
+    {
+      "from": 47,
+      "to": 43
+    },
+    {
+      "from": 48,
+      "to": 43
+    },
+    {
+      "from": 50,
+      "to": 49
+    },
+    {
+      "from": 51,
+      "to": 49
+    },
+    {
+      "from": 52,
+      "to": 49
+    },
+    {
+      "from": 53,
+      "to": 49
+    },
+    {
+      "from": 54,
+      "to": 49
+    },
+    {
+      "from": 56,
+      "to": 55
+    },
+    {
+      "from": 57,
+      "to": 55
+    },
+    {
+      "from": 58,
+      "to": 55
+    },
+    {
+      "from": 59,
+      "to": 55
+    },
+    {
+      "from": 60,
+      "to": 55
+    },
+    {
+      "from": 2000,
+      "to": 1000
+    },
+    {
+      "from": 2001,
+      "to": 1000
+    },
+    {
+      "from": 2002,
+      "to": 1000
+    },
+    {
+      "from": 2003,
+      "to": 1000
+    }
+  ],
+  "bridges": []
+}

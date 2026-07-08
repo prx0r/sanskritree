@@ -1,0 +1,10 @@
+name = "proof_engine_lean"
+version = "0.1.0"
+
+[[lean_lib]]
+name = "ProofEngineLean"
+roots = ["Foundation", "IIT", "Sanskrit"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
