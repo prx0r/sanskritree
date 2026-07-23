@@ -1,0 +1,3 @@
+# Reproducible V2 Python environment.  Hash locking is deferred until external
+# corpus/model choices and their licences have been accepted.
+PyYAML==6.0.2

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69,<70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sanskritree"
+version = "2.0.0a1"
+description = "Provenance-aware Sanskrit translation, semantic mapping, and Lean verification"
+requires-python = ">=3.11,<3.12"
+dependencies = ["PyYAML==6.0.2"]
+
+[project.scripts]
+sanskritree = "sanskritree.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

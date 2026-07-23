@@ -1,0 +1,23 @@
+work:
+  id: mbt.kumarika
+  title: Manthanabhairavatantra, Kumarikakhanda (pilot)
+  title_iast: Manthanabhairavatantra, Kumarikakhanda
+  tradition: kubjika
+  genre: tantra
+edition:
+  id: local.pilot
+  editor: Unverified local fixture
+  licence: not-for-distribution
+  critical_method: fixture only; replace after bibliographic audit
+passages:
+  - id: mbt.kum.pilot.001
+    chapter: pilot
+    verse: '1'
+    sanskrit: 'kubjikā śaktiḥ'
+    source_page: fixture
+    translations:
+      - id: mbt.kum.pilot.001.en.fixture
+        translator_id: fixture.translator
+        translator: Fixture translator
+        type: published_translation
+        text: 'Kubjika is power.'
