@@ -37,3 +37,43 @@ Permitted next paths, in order:
 3. ingest the translation, notes, and page-level provenance as a calibration-only record while leaving `reading_id` absent—never pretending it aligns to a reconstructed Sanskrit text.
 
 This protects V2 invariants: raw source remains immutable, every translation ultimately references an exact reading, and uncertainty is visible.
+# Pilot-source decision update — 2026-07-23
+
+The supplied *Manthanabhairavatantra, Kumārikākhaṇḍa* archive remains a
+valuable calibration source for its English translation, notes, and commentary.
+It is **not** selected for the first Sanskrit-reading vertical slice. In the
+available PDF, the Sanskrit is encoded in an unembedded legacy glyph font:
+
+* text extraction yields a non-Unicode glyph stream;
+* PDF rasterisation produces a blank Sanskrit page, so Tesseract has no
+  recoverable image to read;
+* a generic Kruti-style converter can recover part of a title but fails known
+  controls, so it cannot establish an auditable Sanskrit reading.
+
+The source reading is consequently retained as `unrecoverable_legacy_encoding`,
+not silently guessed or normalised. A font-specific mapping may be added later
+only after it passes a documented controls corpus.
+
+## Replacement first vertical-slice source
+
+Use the supplied Dyczkowski volume *The Stanzas on Vibration: the
+Spandakārikā with Four Commentaries* as the first fully auditable local pilot.
+Its Appendix 3 contains extractable Roman transliteration. The opening stanza
+is present as:
+
+```text
+Yasyonmesanimesabhyam jagatah pralayodayau /
+Tam Sakticakravibhavaprabhavam Sankaram stumah // 1
+```
+
+The same volume supplies an explicit English rendering in its discussion of
+Stanza One, as well as distinguishable brief and extended commentarial
+material. The import must record the appendix transliteration as an
+edition-derived source reading, retain the page number, and mark the
+commercial PDF as locally supplied / not for redistribution. The two text
+forms must never be conflated with the garbled Devanagari-like OCR on other
+pages of that scan.
+
+This is a calibration pilot, not a substitute for the planned
+Manthānabhairava/Kubjikā pilot. It exercises the complete V2 evidence path
+without falsely claiming recovery of the MBT Sanskrit.
