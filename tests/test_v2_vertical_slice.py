@@ -13,6 +13,8 @@ from sanskritree.philology.analysis_lattice import persist_lattice, whitespace_l
 from sanskritree.semantics.extraction import persist_frame
 from sanskritree.semantics.schema import Entity, SemanticFrame
 from sanskritree.translation.candidates import record_candidate, reveal_reference, start_blind_run
+from sanskritree.philology.adapters import analyze
+from sanskritree.formal.comparison import classify
 
 
 ROOT = Path(__file__).parents[1]
@@ -69,6 +71,12 @@ class VerticalSliceTests(unittest.TestCase):
             self.assertNotIn("sorry", source)
             self.assertNotIn("admit", source)
             self.assertNotIn("unsafe", source)
+
+    def test_unavailable_engines_are_visible_gaps_and_comparison_is_conservative(self):
+        lattice = analyze("kubjikā śaktiḥ", ["heritage", "dcs", "vidyut"])
+        self.assertEqual(len(lattice[0][3]), 4)  # fallback plus three named gaps
+        self.assertEqual(classify("P x", "P x")[0], "equivalent")
+        self.assertEqual(classify("P x", "Q x")[0], "underdetermined")
 
 
 if __name__ == "__main__":

@@ -24,8 +24,7 @@ No copyrighted edition, large Hugging Face corpus, or model is imported by this 
 
 ## Next implementation increments
 
-1. install the pinned Lean toolchain and make `lean/Sanskritree` compile;
-2. add adapters for Heritage, DCS, Vidyut, and process-sanskrit behind a shared lattice protocol;
-3. add importer-specific licence/provenance adapters after source-card audits;
-4. turn remaining CLI scaffold commands into reviewed-workflow operations;
-5. add entailment/equivalence probes that preserve bridge assumptions.
+1. add source-audited, executable adapters for Heritage, DCS, Vidyut, and process-sanskrit behind the shared lattice protocol; unavailable engines are now visible gaps rather than fabricated analysis;
+2. add importer-specific licence/provenance adapters after source-card audits;
+3. turn remaining CLI scaffold commands into reviewed-workflow operations;
+4. replace conservative non-identical comparison results with Lean entailment/equivalence probes that preserve bridge assumptions.
