@@ -56,7 +56,7 @@ def chat(messages: list[dict], *, max_tokens: int = 1024, temperature: float = 0
 
 def process_claim(claim: str, sanskrit: Optional[str] = None, provenance: Optional[dict] = None) -> dict:
     """
-    One Qwen3.5 call. Returns {sayable, lean_type, children}.
+    One Qwen3.5 call. Returns {sayable, children}; models cannot author Lean.
     """
     ctx = f"Claim: {claim[:400]}\n"
     if sanskrit:
@@ -65,9 +65,9 @@ def process_claim(claim: str, sanskrit: Optional[str] = None, provenance: Option
         ctx += f"Provenance: {json.dumps(provenance)}\n"
 
     prompt = f"""For this Sanskrit philosophy claim, reply with exactly this JSON (no other text):
-{{"sayable": true/false, "lean_type": "∀ x, P x → Q x" or null, "children": [{{"statement": "...", "node_type": "FORMAL"}}]}}
+{{"sayable": true/false, "children": [{{"statement": "...", "node_type": "FORMAL"}}]}}
 
-Rules: sayable=false if unfalsifiable. lean_type: Lean4 type with ∀ → ¬ or null. children: sub-claims if decomposable, else []. node_type: FORMAL|EMPIRICAL|DEFINITION|UNSAYABLE.
+Rules: sayable=false if unfalsifiable. Do not write Lean. children: sub-claims if decomposable, else []. node_type: FORMAL|EMPIRICAL|DEFINITION|UNSAYABLE.
 
 {ctx}"""
 
@@ -81,7 +81,6 @@ Rules: sayable=false if unfalsifiable. lean_type: Lean4 type with ∀ → ¬ or 
             d = json.loads(resp[start:end])
             return {
                 "sayable": d.get("sayable", True),
-                "lean_type": d.get("lean_type") or None,
                 "children": d.get("children") or [],
             }
     except json.JSONDecodeError:
