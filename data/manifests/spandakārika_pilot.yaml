@@ -21,7 +21,7 @@ passages:
     chapter: 1
     verse: '1'
     type: verse
-    transliteration: IAST
+    transliteration: Roman ASCII transliteration
     critical_status: edition_derived_transliteration_unreviewed
     source_page: PDF 327; printed p. 309, Appendix 3
     sanskrit: 'Yasyonmesanimesabhyam jagatah pralayodayau / Tam Sakticakravibhavaprabhavam Sankaram stumah // 1'
@@ -33,3 +33,75 @@ passages:
         language: en
         source_page: PDF 93; printed p. 74, Stanza One
         text: 'We praise that Sankara who is the source of the power of the Wheel of Energies by whose expansion and contraction the universe is absorbed and comes into being.'
+  - id: spk.002
+    chapter: 1
+    verse: '2'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: "Yatra sthitam idam sarvam karyam yasmacca nirgatam / Tasyanavrtarupatvan na nirodho' sti kutracit // 2"
+  - id: spk.003
+    chapter: 1
+    verse: '3'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: "Jagradadivibhede'pi tadabhinne prasarpati / Nivartate nijannaiva svabhavadupalabdhrtah // 3"
+  - id: spk.004
+    chapter: 1
+    verse: '4'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: "Aham sukhi ca duhkhi ca raktasca ityadisamvidah / sukhadyavasthanusyute vartante 'nyatra tah sphutam // 4"
+  - id: spk.005
+    chapter: 1
+    verse: '5'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: "Na duhkham na sukham yatra na grahyam grahakam na ca / Na casti mudhabhavo' pi tadasti paramarthatah // 5"
+  - id: spk.006
+    chapter: 1
+    verse: '6'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: "Yatah karana-vargo 'yam vimudho 'mudhavat svayam / Sahantarena cakrena pravrtti-sthiti-samhrtih // 6"
+  - id: spk.007
+    chapter: 1
+    verse: '7'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: 'Labhate tatprayatnena pariksyam tattvam adarat / Yatah svatantrata tasya sarvatreyam akrtrima // 7'
+  - id: spk.008
+    chapter: 1
+    verse: '8'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: 'Na hicchanodanasyayam prerakatvena vartate / Api tvatmabalasparsat purusastatsamo bhavet // 8'
+  - id: spk.009
+    chapter: 1
+    verse: '9'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: 'Nijasuddhyasamarthasya kartavyesv abhilasinah / Yada ksobhah praliyeta tada syat paramam padam // 9'
+  - id: spk.010
+    chapter: 1
+    verse: '10'
+    type: verse
+    transliteration: Roman ASCII transliteration
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: 'Tadasyakrtrimo dharmo jnatvakartrtvalaksanah / Yatas tadepsitam sarvam janati ca karoti ca // 10'
