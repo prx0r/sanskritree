@@ -1,5 +1,7 @@
 # Sanskrit Proof Engine
 
+> **V2 status:** the legacy engine remains intact. New provenance-aware work lives in `src/sanskritree/`; its activation gates are in `docs/PIPELINE_ACTIVATION.md`.
+
 Truth compressor: decomposes Sanskrit philosophical claims into Lean4 proofs or honest boundary findings. Per `proofenginge.md` and `instruction.md`.
 
 ## What It Does
