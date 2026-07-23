@@ -22,3 +22,9 @@ The precise link inventory and implementation mapping belongs in `docs/V2_RESEAR
 - Mitrasamgraha (arXiv 2601.07314) reports 391,548 Sanskrit–English pairs and explicitly retains compounds, philosophical concepts, and multilayered metaphor as difficult cases. It is a calibration candidate, not a source of target-text ground truth.
 - `CodeIsAbstract/sanskrit-morpho-sequences` is available as an approximately 82 MB Parquet resource with 710,785 sentence rows and a declared CC BY-SA 4.0 combined licence. It can fit on this volume, but its SLP1 representation and its upstream attribution/share-alike obligations require a dedicated importer and provenance record before download.
 - Pantograph’s repository confirms its Lean 4 REPL/environment-inspection role and Apache-2.0 licence. The existing checkout is retained; toolchain installation must match its checked-in `lean-toolchain` before activation.
+
+## Sanskrit Library and SARIT checks — 2026-07-23
+
+- Sanskrit Library publicly lists transcoding, nominal and verbal generation, two morphology tools, and metrical analysis. The alternative morphology page specifies SLP1 inflected-form input; no documented machine API was found, so the integration uses a configured transport rather than brittle web scraping.
+- Its documented workflow sends a sentence to Sanskrit Heritage, lets a scholar select/edit or manually tag analyses, and saves results in XML. V2 therefore imports XML/TEI-derived records as evidence and retains human review events.
+- SARIT’s project page states that its Sanskrit/Prakrit text data is hosted on GitHub and follows TEI guidelines including textual variation guidance. The SARIT corpus repository exposes TEI/XML texts and schemas; V2 now has a lossless raw-hash TEI reader, but no SARIT text is redistributed or imported yet.

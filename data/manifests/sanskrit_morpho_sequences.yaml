@@ -1,0 +1,22 @@
+source_id: codeisabstract.sanskrit-morpho-sequences
+source_url: https://huggingface.co/datasets/CodeIsAbstract/sanskrit-morpho-sequences
+revision: 5ec125edf915b1c7edfebd7c048e27a17f2260c3
+retrieved_at: '2026-07-23'
+format: parquet
+download_size_bytes: 82377323
+dataset_size_bytes: 501686774
+licences:
+  - CC-BY-4.0
+  - CC-BY-SA-4.0
+upstreams:
+  - Digital Corpus of Sanskrit (DCS)
+  - UD Sanskrit Vedic
+  - UD Sanskrit UFAL
+normalization: SLP1
+role: morphology_candidate_generator
+redistribution_decision: internal_audit_only_pending_attribution_bundle
+raw_path: data/raw/sanskrit-morpho-sequences/
+artefacts:
+  dataset-api.json: 37aa815d95dce5810a2d4bce1e497e2f4a25af2c1db3d4e3e1d6cd63865fd1f9
+  train-00000-of-00002.parquet: 90a113747be7871f24e8fcacf3c58d5936e65a9966cb793903dd6ecb2ea59af7
+  train-00001-of-00002.parquet: 8597b3bed9be135079973cc9f9fa132be797b4ded3b224dbac41681c20d5a4ad
