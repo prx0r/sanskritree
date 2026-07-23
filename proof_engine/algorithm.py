@@ -80,13 +80,9 @@ def process_claim(
                       provenance=provenance, node_type="FORMAL", status="UNPROVED",
                       inherited_from=inherited_from, delta_terms=delta_terms, kanda=2)
 
-    # STEP 2: FORMALIZE (TRS normalization)
+    # STEP 2: FORMALIZE. LLM output is deliberately not an accepted Lean source.
     lean_type = None
-    if llm_result and llm_result.get("lean_type"):
-        lt = llm_result["lean_type"]
-        if lt and ("∀" in lt or "→" in lt or "forall" in lt.lower()):
-            lean_type = lt
-    if not lean_type and is_sanskrit and sanskrit:
+    if is_sanskrit and sanskrit:
         lean_type = fol_lean_bridge.NYAYA_LEAN_TYPES.get(sanskrit.strip().lower())
     if not lean_type and formalize_fn:
         lean_type = formalize_fn(claim, sanskrit, provenance)
@@ -126,7 +122,7 @@ def process_claim(
         if retry_count >= MAX_RETRIES:
             conn.execute("UPDATE nodes SET human_review=1 WHERE id=?", (nid,))
             conn.commit()
-        break
+            break
 
     # STEP 4: DECOMPOSE
     children_specs = []
@@ -158,8 +154,9 @@ def process_claim(
             db.add_edge(conn, nid, cid, "decomposition")
         elif nt == "DEFINITION":
             cid = db.add_node(conn, nid, stmt, sanskrit=sk, devanagari=dv, provenance=prov,
-                              node_type="DEFINITION", status="PROVED", lean_proof="-- axiomatic",
-                              notes=c.get("notes"), kanda=1)
+                              node_type="DEFINITION", status="UNPROVED", lean_proof=None,
+                              notes=c.get("notes"), kanda=1, formal_role="textual_axiom",
+                              lean_status="uncompiled")
             db.add_edge(conn, nid, cid, "decomposition")
         else:
             cid = process_claim(conn, stmt, parent_id=nid, sanskrit=sk, devanagari=dv,
@@ -198,9 +195,9 @@ def propagate(conn, node_id: int) -> str:
         return "REFUTED"
     if "HOLLOW" in statuses:
         return "HOLLOW"
-    if all(s in ("PROVED", "DEFINITION") for s in statuses):
+    if all(s == "PROVED" for s in statuses):
         return "PROVED"
-    if any(s in ("PROVED", "DEFINITION") for s in statuses) and any(s == "OUTSIDE_FORMAL" for s in statuses):
+    if any(s == "PROVED" for s in statuses) and any(s == "OUTSIDE_FORMAL" for s in statuses):
         return "PARTIAL"
     if "UNPROVED" in statuses:
         return "UNPROVED"
@@ -218,5 +215,4 @@ def _default_decompose(claim: str, sanskrit: Optional[str]) -> list[dict]:
         return [{"statement": claim, "node_type": "EMPIRICAL", "status": "OUTSIDE_FORMAL",
                   "notes": "BOUNDARY: tradition's ultimate claim exceeds formalization"}]
     return []
-
 

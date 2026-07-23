@@ -39,6 +39,13 @@ def _migrate(conn: sqlite3.Connection):
         conn.execute("ALTER TABLE nodes ADD COLUMN source_module TEXT")
     if "primitive_ids" not in cols:
         conn.execute("ALTER TABLE nodes ADD COLUMN primitive_ids TEXT")
+    for name, default in {
+        "textual_status": "unreviewed", "semantic_status": "unreviewed",
+        "formal_role": "conjecture", "lean_status": "uncompiled",
+        "evidence_status": "unreviewed",
+    }.items():
+        if name not in cols:
+            conn.execute(f"ALTER TABLE nodes ADD COLUMN {name} TEXT DEFAULT '{default}'")
     conn.commit()
 
     conn.execute("""
@@ -285,11 +292,17 @@ def add_node(
     decomp_source: Optional[str] = None,
     source_module: Optional[str] = None,
     primitive_ids: Optional[list] = None,
+    textual_status: str = "unreviewed",
+    semantic_status: str = "unreviewed",
+    formal_role: str = "conjecture",
+    lean_status: str = "uncompiled",
+    evidence_status: str = "unreviewed",
 ) -> int:
     cols = ["parent_id", "statement", "sanskrit", "devanagari", "provenance", "node_type", "status",
             "lean_type", "lean_proof", "mathlib_deps", "reuse_count", "notes", "created_at",
             "kanda", "inherited_from", "delta_terms", "logic_foundation", "decomp_source",
-            "source_module", "primitive_ids"]
+            "source_module", "primitive_ids", "textual_status", "semantic_status",
+            "formal_role", "lean_status", "evidence_status"]
     vals = [
         parent_id, statement, sanskrit, devanagari,
         json.dumps(provenance) if provenance else None,
@@ -299,6 +312,7 @@ def add_node(
         kanda, inherited_from, json.dumps(delta_terms) if delta_terms else None,
         logic_foundation, decomp_source,
         source_module, json.dumps(primitive_ids) if primitive_ids else None,
+        textual_status, semantic_status, formal_role, lean_status, evidence_status,
     ]
     ph = ",".join("?" * len(cols))
     conn.execute(f"INSERT INTO nodes ({','.join(cols)}) VALUES ({ph})", vals)
@@ -411,6 +425,8 @@ def update_status(
     mathlib_deps: Optional[list] = None,
     lean_type: Optional[str] = None,
     human_review: Optional[bool] = None,
+    formal_role: Optional[str] = None,
+    lean_status: Optional[str] = None,
 ):
     conn.execute("""
         UPDATE nodes SET status=?, lean_proof=?, mathlib_deps=? WHERE id=?
@@ -419,6 +435,10 @@ def update_status(
         conn.execute("UPDATE nodes SET lean_type=? WHERE id=?", (lean_type, nid))
     if human_review is not None:
         conn.execute("UPDATE nodes SET human_review=? WHERE id=?", (1 if human_review else 0, nid))
+    if formal_role is not None:
+        conn.execute("UPDATE nodes SET formal_role=? WHERE id=?", (formal_role, nid))
+    if lean_status is not None:
+        conn.execute("UPDATE nodes SET lean_status=? WHERE id=?", (lean_status, nid))
     conn.commit()
 
 

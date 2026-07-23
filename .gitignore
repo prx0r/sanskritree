@@ -31,3 +31,4 @@ data/*.db
 data/raw/
 data/processed/
 data/exports/
+lean/.lake/

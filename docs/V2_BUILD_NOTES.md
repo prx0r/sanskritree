@@ -16,7 +16,7 @@ The first pilot ingests one fixture verse, preserves raw and NFC-normalised read
 
 ## Toolchain status
 
-Python 3.11.2 is available. The repository pins Lean `v4.29.0-rc4`, but `lean` and `lake` were not on `PATH` during the audit. The V2 compiler therefore has deterministic generation/safety tests now; full Lean checking is a pipeline activation prerequisite, not silently simulated success.
+Python 3.11.2 and pinned Lean `v4.29.0-rc4` are installed. `lean/Sanskritree` builds successfully, and the vertical slice now type-checks its deterministically generated declaration with `lake env lean`. This establishes type validity only; a textual assertion remains a textual axiom, not a proved historical claim.
 
 ## Corpus policy
 

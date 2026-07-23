@@ -14,7 +14,8 @@ from . import fol_lean_bridge
 def process_sanskrit(raw: str) -> dict:
     """
     Full pipeline for Sanskrit-sourced claims.
-    Returns: {sanskrit, devanagari, parsed, lean_type_candidate, provenance_hint}
+    Returns analysis candidates only. Formalisation is deferred to reviewed V2
+    Semantic IR; this legacy adapter never emits Lean authority.
     """
     # 1. SanskritShala (faster) or Heritage Engine for sandhi + morphology
     parsed = _sanskritshala_or_heritage(raw)
@@ -24,18 +25,11 @@ def process_sanskrit(raw: str) -> dict:
     # 2. Extract Navya-Nyāya structure (LLM-assisted in full system)
     nn_expr = _extract_nn_structure(parsed)
 
-    # 3. FOL → Lean4 via bridge
-    lean_type = None
-    if nn_expr:
-        lean_type = fol_lean_bridge.nn_to_lean(nn_expr)
-    if not lean_type:
-        lean_type = fol_lean_bridge.NYAYA_LEAN_TYPES.get(raw.strip().lower())
-
     return {
         "sanskrit": raw,
         "devanagari": _iast_to_devanagari(raw),
         "parsed": parsed,
-        "lean_type_candidate": lean_type,
+        "lean_type_candidate": None,
         "nn_expr": nn_expr,
     }
 
@@ -58,10 +52,7 @@ def _sanskritshala_or_heritage(text: str) -> Optional[dict]:
 
 def _extract_nn_structure(parsed: dict) -> Optional[fol_lean_bridge.NNExpr]:
     """Extract abheda, vyāpti, sambandha from parse."""
-    words = parsed.get("words", [])
-    if len(words) == 2:
-        # Two nominals → possible abheda (identity)
-        return fol_lean_bridge.NNExpr("abheda", [words[0], words[1]])
+    # Token count alone is never evidence of identity.
     if "vyāpti" in str(parsed).lower() or "vyapti" in str(parsed).lower():
         return fol_lean_bridge.NNExpr("vyapti", ["Hetu", "Sadhya"])
     return None

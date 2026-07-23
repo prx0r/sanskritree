@@ -11,7 +11,7 @@ from . import registry
 
 
 # PV III.3: pratyakṣaṃ kalpanāpoḍham — perception is free from conceptual construction
-# DEFINITION terms = axiom, PROVED by stipulation (schema §0.8). No PLACEHOLDER.
+# Definitions are textual axioms, not Lean-proved theorems.
 PHASE1_TERMS = [
     {
         "sanskrit": "pratyakṣa",
@@ -133,16 +133,14 @@ def run_phase1(conn, terms: list[dict] | None = None, *, fast_mode: bool = True,
     term_results = []
     for t in terms:
         if t.get("definition"):
-            # DEFINITION = axiom, PROVED by stipulation. Kāṇḍa 1.
+            # Definition = textual axiom. Kāṇḍa 1; never label it PROVED.
             lean_type = fol_lean_bridge.DHARMAKIRTI_LEAN_TYPES.get((t.get("sanskrit") or "").strip().lower())
             nid = db.add_node(conn, root, t["statement"],
                 sanskrit=t.get("sanskrit"), devanagari=t.get("devanagari"),
-                provenance=t.get("provenance"), node_type="DEFINITION", status="PROVED",
-                lean_type=lean_type, lean_proof="-- axiomatic", notes="Dharmakīrti definition",
-                kanda=1)
+                provenance=t.get("provenance"), node_type="DEFINITION", status="UNPROVED",
+                lean_type=lean_type, lean_proof=None, notes="Dharmakīrti textual axiom",
+                kanda=1, formal_role="textual_axiom", lean_status="uncompiled")
             db.add_edge(conn, root, nid, "decomposition")
-            if lean_type:
-                db.add_to_bridge_index(conn, nid, lean_type, "dharmakirti")
         else:
             nid = algorithm.process_claim(
                 conn, t["statement"],

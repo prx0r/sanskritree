@@ -8,6 +8,7 @@ from sanskritree.alignment.spans import add_alignment
 from sanskritree.corpus.ingestion import ingest_manifest, load_manifest
 from sanskritree.database import connect, migrate
 from sanskritree.formal.compiler import compile_frame, persist_formalization
+from sanskritree.formal.checker import check_persisted
 from sanskritree.philology.analysis_lattice import persist_lattice, whitespace_lattice
 from sanskritree.semantics.extraction import persist_frame
 from sanskritree.semantics.schema import Entity, SemanticFrame
@@ -51,6 +52,9 @@ class VerticalSliceTests(unittest.TestCase):
         formalization = persist_formalization(self.conn, frame)
         stored = self.conn.execute("SELECT formal_role, lean_status FROM formalizations WHERE formalization_id=?", (formalization,)).fetchone()
         self.assertEqual(tuple(stored), ("textual_axiom", "uncompiled"))
+        ok, output = check_persisted(self.conn, formalization, ROOT / "lean")
+        self.assertTrue(ok, output)
+        self.assertEqual(self.conn.execute("SELECT lean_status FROM formalizations WHERE formalization_id=?", (formalization,)).fetchone()[0], "typechecked")
         self.assertEqual(self.conn.execute("SELECT immutable FROM translation_candidates WHERE candidate_id=?", (candidate,)).fetchone()[0], 1)
 
     def test_invalid_ir_and_unsupported_alignment_fail(self):

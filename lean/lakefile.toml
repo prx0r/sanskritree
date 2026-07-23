@@ -3,3 +3,4 @@ version = "2.0.0"
 
 [[lean_lib]]
 name = "Sanskritree"
+roots = ["Sanskritree"]
