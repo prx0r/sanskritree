@@ -1,0 +1,35 @@
+work:
+  id: spandakārika
+  title: The Stanzas on Vibration (Spandakārikā)
+  title_iast: Spandakārikā
+  tradition: trika
+  genre: kārikā
+  metadata:
+    pilot_role: calibration_vertical_slice
+    source_file_sha256: 76ff19609792c4113852e34afee083761a6b70e5f9334779bc633517364981d1
+    source_access: locally_supplied_not_for_redistribution
+edition:
+  id: dyczkowski.1992.local
+  editor: Mark S. G. Dyczkowski
+  publication: State University of New York Press, Albany
+  year: 1992
+  licence: locally supplied commercial scan; not for redistribution
+  critical_method: Roman transliteration from Appendix 3; unreviewed import
+passages:
+  - id: spk.001
+    reading_id: spk.001.reading.dyczkowski.1992.local
+    chapter: 1
+    verse: '1'
+    type: verse
+    transliteration: IAST
+    critical_status: edition_derived_transliteration_unreviewed
+    source_page: PDF 327; printed p. 309, Appendix 3
+    sanskrit: 'Yasyonmesanimesabhyam jagatah pralayodayau / Tam Sakticakravibhavaprabhavam Sankaram stumah // 1'
+    translations:
+      - id: spk.001.en.dyczkowski.1992
+        translator_id: dyczkowski.mark
+        translator: Mark S. G. Dyczkowski
+        type: published_translation
+        language: en
+        source_page: PDF 93; printed p. 74, Stanza One
+        text: 'We praise that Sankara who is the source of the power of the Wheel of Energies by whose expansion and contraction the universe is absorbed and comes into being.'
