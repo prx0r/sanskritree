@@ -15,6 +15,17 @@ The smallest coherent calibration unit begins with **Kumārikākhaṇḍa, Chapt
 
 The English layer extracts cleanly. The Sanskrit PDF text layer is encoded through a legacy embedded font and extracts as glyph-code text rather than IAST or Unicode Devanāgarī. The available renderer produced a blank Sanskrit page, and installed OCR has no Sanskrit language model. Therefore V2 must not ingest the extracted glyph stream as a Sanskrit reading.
 
+## Follow-up font diagnosis
+
+The Chapter 1 Sanskrit page declares `TimesNewRomanPSMT`, with neither an embedded font program nor a Unicode map. Its extracted ASCII-like stream is consistent with a legacy Devanāgarī-font workflow, but it cannot safely be identified as standard Kruti Dev from this PDF alone. A generic Kruti Dev converter is therefore only a hypothesis and must not be applied corpus-wide without calibration against a known source reading.
+
+The reliable recovery workflow is:
+
+1. acquire the original font or authoring source from the editor/publisher and create a font-specific Unicode mapping;
+2. validate that mapping on the printed Chapter 1 heading and a manually checked set of at least 50 grapheme clusters/verse lines;
+3. retain raw glyph codes and page coordinates beside every transcoded reading;
+4. route low-confidence lines to human review, never directly to morphology or alignment.
+
 Permitted next paths, in order:
 
 1. obtain the editor's Unicode/IAST electronic source or a source-authorized plain-text edition with the same reading;
