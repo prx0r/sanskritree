@@ -3,7 +3,8 @@ import argparse
 from pathlib import Path
 from .database import connect, migrate
 from .corpus.ingestion import ingest_manifest, load_manifest
-from .philology.analysis_lattice import persist_lattice, whitespace_lattice
+from .philology.adapters import analyze
+from .philology.analysis_lattice import persist_lattice
 
 
 def _db(args):
@@ -37,7 +38,8 @@ def main(argv=None):
         if not args.reading: parser.error("analyze requires --reading in the foundation slice")
         raw = conn.execute("SELECT sanskrit_normalized FROM passage_readings WHERE reading_id=?", (args.reading,)).fetchone()
         if raw is None: parser.error("unknown reading")
-        print(f"persisted {persist_lattice(conn, args.reading, whitespace_lattice(raw[0]))} analysis candidates")
+        engines = (args.engines or "fallback").split(",")
+        print(f"persisted {persist_lattice(conn, args.reading, analyze(raw[0], engines))} analysis candidates")
     else:
         print(f"{args.command}: scaffolded; requires reviewed records from the preceding stage")
 
