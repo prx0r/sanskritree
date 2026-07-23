@@ -26,6 +26,10 @@ The reliable recovery workflow is:
 3. retain raw glyph codes and page coordinates beside every transcoded reading;
 4. route low-confidence lines to human review, never directly to morphology or alignment.
 
+## Empirical decoder control
+
+An offline standard Kruti Dev decoder was tested only on the heading stream. It produced `मन्थानभैतवतन्त्रे कुमारिकाखण्डे`; replacing one context-specific glyph interpretation produces the expected `मन्थानभैरवतन्त्रे कुमारिकाखण्डे`. A second heading control still fails under the generic decoder. Result: the stream is Kruti-like but the extracted PDF mapping is not standard Kruti Dev. The V2 legacy-font adapter now records this as a **blocked** decoder candidate until a control suite passes.
+
 Permitted next paths, in order:
 
 1. obtain the editor's Unicode/IAST electronic source or a source-authorized plain-text edition with the same reading;
