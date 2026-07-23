@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sanskritree V2 Alignment Workbench</title>
+<style>
+body{font:16px system-ui;margin:2rem;max-width:1100px;color:#17201b} .grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}.panel{border:1px solid #bdc8bd;border-radius:.5rem;padding:1rem}textarea{width:100%;min-height:12rem;font:inherit}label{display:block;margin:.5rem 0}button,select{font:inherit;padding:.35rem}.records{white-space:pre-wrap;background:#f5f7f4;padding:1rem;min-height:8rem}.note{color:#526056}
+</style>
+<h1>Sanskritree V2 alignment workbench</h1>
+<p class="note">Select source and target spans, classify their relation, attach evidence, and export the review records. Commentary stays separate from translation.</p>
+<div class="grid">
+  <section class="panel"><h2>Sanskrit reading</h2><textarea id="source" lang="sa-Latn">kubjikā śaktiḥ</textarea><p id="sourceSelection">No selection</p></section>
+  <section class="panel"><h2>Translation</h2><textarea id="target">Kubjika is power.</textarea><p id="targetSelection">No selection</p></section>
+</div>
+<section class="panel"><h2>Review record</h2>
+  <label>Relation <select id="relation"><option>one_to_one</option><option>one_to_many</option><option>many_to_one</option><option>many_to_many</option><option>implicit</option><option>expanded</option><option>omitted</option><option>commentarial</option><option>uncertain</option></select></label>
+  <label>Confidence <input id="confidence" type="number" min="0" max="1" step=".01" value="0.5"></label>
+  <label>Evidence <input id="evidence" size="55" placeholder="edition page, lexical note, reviewer rationale"></label>
+  <button id="add">Add alignment</button> <button id="export">Export JSON</button>
+  <h3>Commentary (not alignment evidence)</h3><textarea id="commentary" placeholder="Separate note/commentary; never silently treated as root-text meaning."></textarea>
+  <h3>Records</h3><div class="records" id="records">[]</div>
+</section>
+<script>
+const records=[]; const selection=(id,out)=>{const e=document.getElementById(id);const show=()=>document.getElementById(out).textContent=`${e.selectionStart}:${e.selectionEnd} — ${e.value.slice(e.selectionStart,e.selectionEnd)||'No selection'}`;e.addEventListener('select',show);e.addEventListener('keyup',show);return()=>[e.selectionStart,e.selectionEnd]};
+const source=selection('source','sourceSelection'), target=selection('target','targetSelection');
+const render=()=>document.getElementById('records').textContent=JSON.stringify(records,null,2);
+document.getElementById('add').onclick=()=>{const [ss,se]=source(),[ts,te]=target();if(ss===se||ts===te)return alert('Select both spans.');records.push({source_span_start:ss,source_span_end:se,target_span_start:ts,target_span_end:te,relation_type:relation.value,confidence:Number(confidence.value),evidence:{note:evidence.value},review_status:'unreviewed'});render()};
+document.getElementById('export').onclick=()=>{const blob=new Blob([JSON.stringify({alignments:records,commentary:commentary.value},null,2)],{type:'application/json'});const a=Object.assign(document.createElement('a'),{href:URL.createObjectURL(blob),download:'sanskritree-alignment.json'});a.click();URL.revokeObjectURL(a.href)};
+</script>
+</html>
