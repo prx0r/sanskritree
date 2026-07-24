@@ -72,26 +72,47 @@ This record is immutable. If we improve the pipeline and re-run, the old record 
 
 For each verse, for each pair (Sanskritree vs Reference):
 
+References are **evaluation signals**, not automatic ground truth. A disagreement may mean Sanskritree is wrong, the reference is interpretive, the translators follow different readings, or both renderings are defensible.
+
+Classify each disagreement as:
+
+```text
+SANSKRITREE_ERROR          — a clear grammatical or factual error
+REFERENCE_DEPENDENT        — reference follows a different reading/edition
+REFERENCE_INTERPRETIVE     — reference adds interpretive expansion
+BOTH_DEFENSIBLE            — both renderings are valid
+TEXTUAL_VARIANT            — different Sanskrit source text
+UNRESOLVED                 — cannot determine confidently
+```
+
 ```json
 {
   "verse": "1.1",
   "sanskritree": "...",
-  "reference_a": "...",
-  "reference_b": "...",
+  "reference_dyczkowski": "...",
+  "reference_singh": "...",
   "agreements": ["verb choice", "subject identification"],
   "disagreements": [
     {
       "type": "LEXICAL_SENSE",
       "span": "śakti",
       "sanskritree": "power",
-      "reference_a": "Energy",
-      "reference_b": "Energy",
-      "probable_cause": "trika_lexicon_not_loaded"
+      "reference": "Energy",
+      "classification": "BOTH_DEFENSIBLE",
+      "probable_cause": "trika_lexicon_choice"
     }
-  ],
-  "errors": []
+  ]
 }
 ```
+
+### Development/Holdout Split
+
+```text
+Development: ~35 verses  — inspect, diagnose, fix
+Frozen holdout: ~18 verses — never inspected until final evaluation
+```
+
+This prevents benchmark overfitting. Do not inspect holdout-reference comparisons until the end of each iteration.
 
 ## Step 4: Error Taxonomy
 
@@ -110,24 +131,30 @@ AMBIGUITY     — genuinely ambiguous, both defensible
 
 ## Step 5: Learning Loop
 
-Every disagreement is a potential training example:
-
-- **Lexical disagreements** → improve sense ranking
-- **Compound disagreements** → improve compound parsing
-- **Grammatical disagreements** → improve factor graph features
-- **Style differences** → improve rendering
-
-## Step 6: ML Integration
-
-Build a disagreement database:
+Every disagreement is a training example. Store:
 
 ```
-disagreement_id | verse | system | reference | error_type | pipeline_stage | feature_vector | resolved?
+source + Sanskritree output + references + disagreement class + severity
++ pipeline component implicated + adjudicated preferred reading
 ```
 
-When we have enough (500+), train:
-- Ranker: given features, which candidate does the reference prefer?
-- Renderer: given semantic plan, which English phrasing matches scholarly style?
+When we have 500+, train:
+- **Ranker**: given features, which candidate does the reference prefer?
+- **Renderer**: given semantic plan, which phrasing matches scholarly style?
+
+## Step 6: Success Metrics
+
+```
+critical grammatical errors
+unsupported doctrinal additions
+accepted semantic-node coverage
+post-edit effort
+defensible disagreement rate
+holdout improvement
+Lean audit pass/rejection rate
+```
+
+Note: Keep copyrighted translations as private evaluation data. Publish only short compliant excerpts, derived annotations, metrics, and Sanskritree's own translation.
 
 ## Implementation Order
 
