@@ -1,0 +1,88 @@
+work:
+  id: abhinavagupta_bhairavastava
+  title: Bhairavastava
+  title_iast: Bhairavastava
+  author: Abhinavagupta
+  tradition: trika
+  genre: stotra
+  metadata:
+    source: GRETIL
+edition:
+  id: bhairavastava.gretil
+  editor: Marino Faliero
+  publication: GRETIL
+  licence: CC-BY-NC-SA 4.0
+  critical_method: GRETIL IAST e-text
+passages:
+- id: bhairavastava.1
+  chapter: '1'
+  verse: '1'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '1'
+  sanskrit: bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1
+- id: bhairavastava.2
+  chapter: '1'
+  verse: '2'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '2'
+  sanskrit: tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam || AgBhaist_2
+- id: bhairavastava.3
+  chapter: '1'
+  verse: '3'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '3'
+  sanskrit: satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu || AgBhaist_3
+- id: bhairavastava.4
+  chapter: '1'
+  verse: '4'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '4'
+  sanskrit: śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4
+- id: bhairavastava.5
+  chapter: '1'
+  verse: '5'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '5'
+  sanskrit: mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi || AgBhaist_5
+- id: bhairavastava.6
+  chapter: '1'
+  verse: '6'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '6'
+  sanskrit: bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6
+- id: bhairavastava.7
+  chapter: '1'
+  verse: '7'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '7'
+  sanskrit: nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti || AgBhaist_7
+- id: bhairavastava.8
+  chapter: '1'
+  verse: '8'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '8'
+  sanskrit: tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām || AgBhaist_8
+- id: bhairavastava.9
+  chapter: '1'
+  verse: '9'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  source_page: '9'
+  sanskrit: tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9

@@ -1,0 +1,170 @@
+{
+  "results": [
+    {
+      "passage_id": "bhairavastava.1",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "bhairavastava.4",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "bhairavastava.6",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.1.1",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.1.5",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.2.6",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "bhagavad_gita.x.47.41e7",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "bhagavad_gita.x.45.c4b1",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.28",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.55",
+      "status": "REJECT",
+      "violations": [
+        {
+          "rule": "INSUFFICIENT_COVERAGE",
+          "detail": "Only 0 lemmas for 50 chars of source",
+          "severity": "ERROR"
+        }
+      ]
+    },
+    {
+      "passage_id": "mbt.v1.34.9bf9",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "mbt.v3.50.2ae8",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "mbt.v1.6.d902",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "mbt.v1.14.6f6f",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.79",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.102",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.132",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.3.19",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.3.19",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "bhairavastava.9",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "mbt.v1.10.0d90",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "mbt.v3.67.34bc",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.11",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.1.2",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.61",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.1.2",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.36",
+      "status": "REJECT",
+      "violations": [
+        {
+          "rule": "INSUFFICIENT_COVERAGE",
+          "detail": "Only 0 lemmas for 49 chars of source",
+          "severity": "ERROR"
+        }
+      ]
+    },
+    {
+      "passage_id": "bhairavastava.1",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "spk.1.2",
+      "status": "PASS",
+      "violations": []
+    },
+    {
+      "passage_id": "vb.79",
+      "status": "PASS",
+      "violations": []
+    }
+  ],
+  "summary": {
+    "PASS": 28,
+    "REJECT": 2
+  }
+}

@@ -5,6 +5,7 @@ from .database import connect, migrate
 from .corpus.ingestion import ingest_manifest, load_manifest
 from .philology.adapters import analyze
 from .philology.analysis_lattice import persist_lattice
+from .review.importer import apply_annotations
 
 
 def _db(args):
@@ -17,9 +18,10 @@ def main(argv=None):
     parser = argparse.ArgumentParser(prog="sanskritree")
     parser.add_argument("--database", default="data/sanskritree-v2.db")
     sub = parser.add_subparsers(dest="command", required=True)
-    for name in ("ingest", "analyze", "align", "build-lexical-graph", "blind-translate", "reveal-reference", "extract-semantics", "formalize", "compare-translations"):
+    for name in ("ingest", "apply-annotations", "analyze", "align", "build-lexical-graph", "blind-translate", "reveal-reference", "extract-semantics", "formalize", "compare-translations"):
         cmd = sub.add_parser(name)
         cmd.add_argument("--manifest")
+        cmd.add_argument("--annotations")
         cmd.add_argument("--reading")
         cmd.add_argument("--work")
         cmd.add_argument("--passage")
@@ -34,6 +36,10 @@ def main(argv=None):
         if not args.manifest: parser.error("ingest requires --manifest")
         results = ingest_manifest(conn, load_manifest(args.manifest), Path(args.manifest).parent)
         print(f"ingested {len(results)} passages")
+    elif args.command == "apply-annotations":
+        if not args.annotations: parser.error("apply-annotations requires --annotations")
+        counts = apply_annotations(conn, load_manifest(args.annotations))
+        print("applied " + ", ".join(f"{value} {key}" for key, value in counts.items()))
     elif args.command == "analyze":
         if not args.reading: parser.error("analyze requires --reading in the foundation slice")
         raw = conn.execute("SELECT sanskrit_normalized FROM passage_readings WHERE reading_id=?", (args.reading,)).fetchone()

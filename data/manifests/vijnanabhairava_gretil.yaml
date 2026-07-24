@@ -1,0 +1,989 @@
+work:
+  id: vijnanabhairava
+  title: Vijñānabhairava Tantra
+  title_iast: Vijñānabhairava
+  author: Unknown (attributed to Bhairava-Śiva)
+  tradition: trika
+  genre: tantra
+  metadata:
+    source: GRETIL
+    verses: 162
+edition:
+  id: vijnanabhairava.gretil
+  editor: Marino Faliero
+  publication: GRETIL
+  licence: CC-BY-NC-SA 4.0
+  critical_method: GRETIL IAST e-text
+passages:
+- id: vb.1
+  verse: '1'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: trikabhedam aśeṣeṇa sārāt sāravibhāgaśaḥ
+- id: vb.2
+  verse: '2'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kiṃ rūpaṃ tattvato deva śabdarāśikalāmayam
+- id: vb.3
+  verse: '3'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: triśirobhedabhinnaṃ vā kiṃ vā śaktitrayātmakam
+- id: vb.4
+  verse: '4'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: cakrārūḍham anackaṃ vā kiṃ vā śaktisvarūpakam
+- id: vb.5
+  verse: '5'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: parāyā yadi tadvat syāt paratvaṃ tad virudhyate
+- id: vb.6
+  verse: '6'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: paratvaṃ niṣkalatvena sakalatve na tad bhavet
+- id: vb.7
+  verse: '7'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sādhu sādhu tvayā pṛṣṭaṃ tantrasāram idam priye
+- id: vb.8
+  verse: '8'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yatkiṃcit sakalaṃ rūpaṃ bhairavasya prakīrtitam
+- id: vb.9
+  verse: '9'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: māyāsvapnopamaṃ caiva gandharvanagarabhramam
+- id: vb.10
+  verse: '10'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kevalaṃ varṇitam puṃsāṃ vikalpanihatātmanām
+- id: vb.11
+  verse: '11'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na cāsau triśirā devo na ca śaktitrayātmakaḥ
+- id: vb.12
+  verse: '12'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na cakrakramasambhinno na ca śaktisvarūpakaḥ
+- id: vb.13
+  verse: '13'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: mātṛmodakavat sarvaṃ pravṛttyarthaṃ udāhṛtam
+- id: vb.14
+  verse: '14'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: vyapadeṣṭum aśakyāsāv akathyā paramārthataḥ
+- id: vb.15
+  verse: '15'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yāvasthā bharitākārā bhairavī bhairavātmanaḥ
+- id: vb.16
+  verse: '16'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: evaṃvidhe pare tattve kaḥ pūjyaḥ kaś ca tṛpyati
+- id: vb.17
+  verse: '17'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sā parā pararūpeṇa parā devī prakīrtitā
+- id: vb.18
+  verse: '18'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: atas taddharmadharmitvāt parā śaktiḥ parātmanaḥ
+- id: vb.19
+  verse: '19'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kevalaṃ jñānasattāyām prārambho 'yam praveśane
+- id: vb.20
+  verse: '20'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tadāsau śivarūpī syāt śaivī mukham ihocyate
+- id: vb.21
+  verse: '21'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: jñāyate digvibhāgādi tadvac chaktyā śivaḥ priye
+- id: vb.22
+  verse: '22'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: digdeśakālaśūnyā ca vyapadeśavivarjitā
+- id: vb.23
+  verse: '23'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yathā samyag ahaṃ vedmi tathā me brūhi bhairava
+- id: vb.24
+  verse: '24'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: utpattidvitayasthāne bharaṇād bharitā sthitiḥ
+- id: vb.25
+  verse: '25'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bhairavyā bhairavasyettham bhairavi vyajyate vapuḥ
+- id: vb.26
+  verse: '26'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpatayā madhye tayā bhairavarūpatā
+- id: vb.27
+  verse: '27'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tadante śāntanāmāsau śaktyā śāntaḥ prakāśate
+- id: vb.28
+  verse: '28'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ
+- id: vb.29
+  verse: '29'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ūrdhvaṃ muṣṭitrayaṃ yāvat tāvad ante mahodayaḥ
+- id: vb.30
+  verse: '30'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sthūlasūkṣmaparasthityā muktvā muktvāntataḥ śivaḥ
+- id: vb.31
+  verse: '31'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpaṃ manaḥ kṛtvā sarvordhve sarvagodgamaḥ
+- id: vb.32
+  verse: '32'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dhyāyato 'nuttare śūnye praveśo hṛdaye bhavet
+- id: vb.33
+  verse: '33'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śūnye kuḍye pare pātre svayaṃ līnā varapradā
+- id: vb.34
+  verse: '34'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: krameṇa manaso dārḍhyāt lakṣayet laṣyam uttamam
+- id: vb.35
+  verse: '35'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dhyātāntarvyomayā devyā tayā devaḥ prakāśate
+- id: vb.36
+  verse: '36'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ
+- id: vb.37
+  verse: '37'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: binduṃ śikhānte hṛdaye layānte dhyāyato layaḥ
+- id: vb.38
+  verse: '38'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śabdabrahmaṇi niṣṇātaḥ param brahmādhigacchati
+- id: vb.39
+  verse: '39'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śūnyayā parayā śaktyā śūnyatām eti bhairavi
+- id: vb.40
+  verse: '40'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śūnyayā śūnyabhūto 'sau śūnyākāraḥ pumān bhavet
+- id: vb.41
+  verse: '41'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ananyacetāḥ pratyante paravyomavapur bhavet
+- id: vb.42
+  verse: '42'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ardhendubindunādāntaḥ śūnyoccārād bhavec chivaḥ
+- id: vb.43
+  verse: '43'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpamanās tasya viyat sarvam pravartate
+- id: vb.44
+  verse: '44'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śarīranirapekṣiṇyā śaktyā śūnyamanā bhavet
+- id: vb.45
+  verse: '45'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yugapan nirvikalpatvān nirvikalpodayas tataḥ
+- id: vb.46
+  verse: '46'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpaṃ nirvikalpo nirvikalpasvarūpabhāk
+- id: vb.47
+  verse: '47'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: vibhāvayet tatas tasya bhāvanā sā sthirā bhavet
+- id: vb.48
+  verse: '48'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na kiṃcid antare tasya dhyāyann adhyeyabhāg bhavet
+- id: vb.49
+  verse: '49'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ananyacetāḥ subhage paraṃ saubhāgyam āpnuyāt
+- id: vb.50
+  verse: '50'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dṛḍhabuddher dṛḍhībhūtaṃ tattvalakṣyam pravartate
+- id: vb.51
+  verse: '51'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: pratikṣaṇaṃ kṣīṇavṛtter vailakṣaṇyaṃ dinair bhavet
+- id: vb.52
+  verse: '52'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: pluṣṭam vicintayed ante śāntābhāsas tadā bhavet
+- id: vb.53
+  verse: '53'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ananyacetasaḥ puṃsaḥ pumbhāvaḥ paramo bhavet
+- id: vb.54
+  verse: '54'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tattvāni yāni nilayaṃ dhyātvānte vyajyate parā
+- id: vb.55
+  verse: '55'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt
+- id: vb.56
+  verse: '56'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sthūlasūkṣmaparasthityā yāvad ante manolayaḥ
+- id: vb.57
+  verse: '57'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: adhvaprakriyayā tattvaṃ śaivaṃ dhyatvā mahodayaḥ
+- id: vb.58
+  verse: '58'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tatraiva ca mano līnaṃ tatas tallayabhājanam
+- id: vb.59
+  verse: '59'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tallayaṃ tatkṣaṇād gatvā tallayāt tanmayo bhavet
+- id: vb.60
+  verse: '60'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: vilīne mānase bhāve vṛttikṣiṇaḥ prajāyate
+- id: vb.61
+  verse: '61'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate
+- id: vb.62
+  verse: '62'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tadā tanmadhyabhāvena vikasatyati bhāvanā
+- id: vb.63
+  verse: '63'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yugapan nirvikalpena manasā paramodayaḥ
+- id: vb.64
+  verse: '64'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yogī samatvavijñānasamudgamanabhājanam
+- id: vb.65
+  verse: '65'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yugapat svāmṛtenaiva parānandamayo bhavet
+- id: vb.66
+  verse: '66'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: samudeti mahānando yena tattvaṃ prakāśate
+- id: vb.67
+  verse: '67'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: pipīlasparśavelāyām prathate paramaṃ sukham
+- id: vb.68
+  verse: '68'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kevalaṃ vāyupūrṇaṃ vā smarānandena yujyate
+- id: vb.69
+  verse: '69'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yat sukham brahmatattvasya tat sukhaṃ svākyam ucyate
+- id: vb.70
+  verse: '70'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śaktyabhāve 'pi deveśi bhaved ānandasamplavaḥ
+- id: vb.71
+  verse: '71'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ānandam udgataṃ dhyātvā tallayas tanmanā bhavet
+- id: vb.72
+  verse: '72'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bhāvayed bharitāvasthāṃ mahānandas tato bhavet
+- id: vb.73
+  verse: '73'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yoginas tanmayatvena manorūḍhes tadātmatā
+- id: vb.74
+  verse: '74'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tatra tatra parānandasvārūpaṃ sampravartate
+- id: vb.75
+  verse: '75'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sāvasthā manasā gamyā parā devī prakāśate
+- id: vb.76
+  verse: '76'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dṛṣṭir niveśyā tatraiva svātmarūpam prakāśate
+- id: vb.77
+  verse: '77'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: khecaryā dṛṣṭikāle ca parāvāptiḥ prakāśate
+- id: vb.78
+  verse: '78'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nidhāya tatprasaṅgena parā pūrṇā matir bhavet
+- id: vb.79
+  verse: '79'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kakṣavyomni manaḥ kurvan śamam āyāti tallayāt
+- id: vb.80
+  verse: '80'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: acireṇa nirādhāraṃ manaḥ kṛtvā śivaṃ vrajet
+- id: vb.81
+  verse: '81'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: hoccāraṃ manasā kurvaṃs tataḥ śānte pralīyate
+- id: vb.82
+  verse: '82'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: svadehaṃ manasi kṣiṇe kṣaṇāt kṣīṇāśayo bhavet
+- id: vb.83
+  verse: '83'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: praśānte mānase bhāve devi divyaugham āpnuyāt
+- id: vb.84
+  verse: '84'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: stabdhātmā tatkṣaṇād devi bhairavaṃ vapur āpnuyāt
+- id: vb.85
+  verse: '85'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tat sarvam bhairavākāratejastattvaṃ samāviśet
+- id: vb.86
+  verse: '86'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: viśvādi bhairavaṃ rūpaṃ jñātvānantaprakāśabhṛt
+- id: vb.87
+  verse: '87'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: taimiram bhāvayan rūpam bhairavaṃ rūpam eṣyati
+- id: vb.88
+  verse: '88'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: prasārya bhairavaṃ rūpam bhāvayaṃs tanmayo bhavet
+- id: vb.89
+  verse: '89'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: praviṣṭasyādvaye śūnye tatraivātmā prakāśate
+- id: vb.90
+  verse: '90'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: udeti devi sahasā jñānaughaḥ parameśvaraḥ
+- id: vb.91
+  verse: '91'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirādhāreṇa cittena spṛśed brahma sanātanam
+- id: vb.92
+  verse: '92'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirāśrayā citiḥ śaktiḥ svarūpaṃ darśayet tadā
+- id: vb.93
+  verse: '93'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tatraiva cetanāṃ yuktvā bhairave nirmalā gatiḥ
+- id: vb.94
+  verse: '94'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: vikalpānām abhāvena vikalpair ujjhito bhavet
+- id: vb.95
+  verse: '95'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ityādidharmaṃ tattvānāṃ kalayan na pṛthag bhavet
+- id: vb.96
+  verse: '96'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yata eva samudbhūtā tatas tatraiva līyate
+- id: vb.97
+  verse: '97'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tattvato =b9haṃ tathābhūtas tallīnas tanmanā bhavet
+- id: vb.98
+  verse: '98'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ātmabuddhyānanyacetās tatas tattvārthadarśanam
+- id: vb.99
+  verse: '99'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tattvataḥ kasyacin naitad evambhāvī śivaḥ priye
+- id: vb.100
+  verse: '100'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ataś ca tanmayaṃ sarvam bhāvayan bhavajij janaḥ
+- id: vb.101
+  verse: '101'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: buddhiṃ nistimitāṃ kṛtvā tat tattvam avaśiṣyate
+- id: vb.102
+  verse: '102'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ
+- id: vb.103
+  verse: '103'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bhairavi jñāyatāṃ madhye kiṃ tattvam avaśiṣyate
+- id: vb.104
+  verse: '104'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dṛḍhena manasā dṛṣṭyā nānyekṣiṇyā sukhī bhavet
+- id: vb.105
+  verse: '105'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: naiva sarvagataṃ jātam bhāvayan iti sarvagaḥ
+- id: vb.106
+  verse: '106'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yogināṃ tu viśeṣo =b9sti sambandhe sāvadhānatā
+- id: vb.107
+  verse: '107'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: apekṣāṃ svaśarīrasya tyaktvā vyāpī dinair bhavet
+- id: vb.108
+  verse: '108'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tadātmaparamātmatve bhairavo mṛgalocane
+- id: vb.109
+  verse: '109'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sa evāhaṃ śaivadharmā iti dārḍhyāc chivo bhavet
+- id: vb.110
+  verse: '110'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: mamaiva bhairavasyaitā viśvabhaṅgyo vibheditāḥ
+- id: vb.111
+  verse: '111'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kṣobhaśaktivirāmeṇa parā saṃjāyate daśā
+- id: vb.112
+  verse: '112'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: jātaśaktisamāveśakṣobhānte bhairavaṃ vapuḥ
+- id: vb.113
+  verse: '113'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kaivalyaṃ jāyate sadyo netrayoḥ stabdhamātrayoḥ
+- id: vb.114
+  verse: '114'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: anackam ahalaṃ dhyāyan viśed brahma sanātanam
+- id: vb.115
+  verse: '115'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: avikalpamateḥ samyak sadyas cittalayaḥ sphuṭam
+- id: vb.116
+  verse: '116'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tatra tatra śivāvāsthā vyāpakatvāt kva yāsyati
+- id: vb.117
+  verse: '117'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tasya tanmātradharmitvāc cillayād bharitātmatā
+- id: vb.118
+  verse: '118'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kutūhalekṣudhādyante brahmasattāmayī daśā
+- id: vb.119
+  verse: '119'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: svaśarīraṃ nirādhāraṃ kṛtvā prasarati prabhuḥ
+- id: vb.120
+  verse: '120'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: taj jñānaṃ cittasahitaṃ devi śūnyālāyo bhavet
+- id: vb.121
+  verse: '121'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: sā śaktiḥ śāṅkarī nityam bhavayet tāṃ tataḥ śivaḥ
+- id: vb.122
+  verse: '122'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tām eva manasā dhyātvā vidito 'pi praśāmyati
+- id: vb.123
+  verse: '123'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na śucir hy aśucis tasmān nirvikalpaḥ sukhī bhavet
+- id: vb.124
+  verse: '124'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na ca tadvyatirekteṇa paro 'stīty advayā gatiḥ
+- id: vb.125
+  verse: '125'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: brahmaṇaḥ paripūrṇatvāt iti jñātvā sukhī bhavet
+- id: vb.126
+  verse: '126'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: rāgadveṣavinirmuktau madhye brahma prasarpati
+- id: vb.127
+  verse: '127'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tat sarvam bhairavam bhāvyaṃ tadante bodhasambhavaḥ
+- id: vb.128
+  verse: '128'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bāhyākāśe manaḥ kṛtvā nirākāśaṃ samāviśet
+- id: vb.129
+  verse: '129'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: parityajyānavasthityā nistaraṅgas tato bhavet
+- id: vb.130
+  verse: '130'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: iti bhairavaśabdasya santatoccāraṇāc chivaḥ
+- id: vb.131
+  verse: '131'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirādhāre mano yāti taddhyānapreraṇāc chamī
+- id: vb.132
+  verse: '132'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ
+- id: vb.133
+  verse: '133'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kiṃ tattvam indrajālasya iti dārḍhyāc chamaṃ vrajet
+- id: vb.134
+  verse: '134'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: jñānāyattā bahirbhāvā ataḥ śūnyam idaṃ jagat
+- id: vb.135
+  verse: '135'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: pratibimbam idam buddher jaleṣv iva vivasvataḥ
+- id: vb.136
+  verse: '136'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: itīndriyāṇi saṃtyajya svasthaḥ svātmani vartate
+- id: vb.137
+  verse: '137'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ekam ekasvabhāvatvāt jñānaṃ jñeyaṃ vibhāvyate
+- id: vb.138
+  verse: '138'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yadā priye parikṣīṇaṃ tadā tad bhairavaṃ vapuḥ
+- id: vb.139
+  verse: '139'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dvādaśābhyadhikaṃ devi yaj jñātvā jñānavij janaḥ
+- id: vb.140
+  verse: '140'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: vācā karoti karmāṇi śāpānugrahakārakaḥ
+- id: vb.141
+  verse: '141'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yoginīnām priyo devi sarvamelāpakādhipaḥ
+- id: vb.142
+  verse: '142'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: idaṃ yadi vapur deva parāyāś ca maheśvara
+- id: vb.143
+  verse: '143'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dhyāyate ko mahānātha pūjyate kaś ca tṛpyati
+- id: vb.144
+  verse: '144'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: eṣātra prakriyā bāhyā sthūleṣv eva mṛgekṣaṇe
+- id: vb.145
+  verse: '145'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: japaḥ so 'tra svayaṃ nādo mantrātmā japya īdṛśaḥ
+- id: vb.146
+  verse: '146'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: na tu dhyānaṃ śarīrākṣimukhahastādikalpanā
+- id: vb.147
+  verse: '147'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpe mahāvyomni sā pūjā hy ādarāl layaḥ
+- id: vb.148
+  verse: '148'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: bharitākāratā sātra tṛptir atyantapūrṇatā
+- id: vb.149
+  verse: '149'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: hūyate manasā sārdhaṃ sa homaś cetanāsrucā
+- id: vb.150
+  verse: '150'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: kṣapaṇāt sarvapāpānāṃ trāṇāt sarvasya pārvati
+- id: vb.151
+  verse: '151'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: anyathā tasya tattvasya kā pūjā kāś ca tṛpyati
+- id: vb.152
+  verse: '152'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: āveśanaṃ tatsvarūpe svātmanaḥ snānam īritam
+- id: vb.153
+  verse: '153'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: yaś caiva pūjakaḥ sarvaḥ sa evaikaḥ kva pūjanam
+- id: vb.154
+  verse: '154'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: dīrghātmā sā mahādevī parakṣetram parāparā
+- id: vb.155
+  verse: '155'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: tayā devyā samāviṣṭaḥ param bhairavam āpnuyāt
+- id: vb.156
+  verse: '156'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: japo devyāḥ samuddiṣṭaḥ sulabho durlabho jaḍaiḥ
+- id: vb.157
+  verse: '157'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: etac ca naiva kasyāpi prakāśyaṃ tu kadācana
+- id: vb.158
+  verse: '158'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: nirvikalpamatīnāṃ tu vīrāṇām unnatātmanām
+- id: vb.159
+  verse: '159'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: grāmo rājyam puraṃ deśaḥ putradārakuṭumbakam
+- id: vb.160
+  verse: '160'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: prāṇā api pradātavyā na deyaṃ paramāmṛtam
+- id: vb.161
+  verse: '161'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: rudrayāmalatantrasya sāram adyāvadhāritam
+- id: vb.162
+  verse: '162'
+  type: verse
+  transliteration: IAST
+  critical_status: gretil_import
+  sanskrit: ity uktvānanditā devi ka.ṅthe lagnā śivasya tu

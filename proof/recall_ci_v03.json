@@ -1,0 +1,1719 @@
+{
+  "meta": {
+    "benchmark": "30-passage translation pilot",
+    "total_passages": 120,
+    "low_coverage_count": 14
+  },
+  "results": [
+    {
+      "passage_id": "bhairavastava.1",
+      "track": "a_known",
+      "n_tokens": 7,
+      "covered_tokens": 7,
+      "lemma_count": 4,
+      "total_hyps": 21,
+      "engine_counts": {
+        "heritage": 11,
+        "heritage_compound": 2,
+        "manual_compound": 6,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.2",
+      "track": "a_known",
+      "n_tokens": 11,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 18,
+      "engine_counts": {
+        "heritage": 7,
+        "vidyut": 11
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.3",
+      "track": "a_known",
+      "n_tokens": 6,
+      "covered_tokens": 6,
+      "lemma_count": 5,
+      "total_hyps": 11,
+      "engine_counts": {
+        "heritage": 8,
+        "heritage_compound": 2,
+        "vidyut": 1
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.4",
+      "track": "a_known",
+      "n_tokens": 5,
+      "covered_tokens": 5,
+      "lemma_count": 5,
+      "total_hyps": 10,
+      "engine_counts": {
+        "heritage": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.5",
+      "track": "a_known",
+      "n_tokens": 9,
+      "covered_tokens": 9,
+      "lemma_count": 8,
+      "total_hyps": 16,
+      "engine_counts": {
+        "heritage": 9,
+        "manual_compound": 1,
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.6",
+      "track": "a_known",
+      "n_tokens": 8,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 15,
+      "engine_counts": {
+        "heritage": 9,
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.7",
+      "track": "a_known",
+      "n_tokens": 7,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 8,
+      "engine_counts": {
+        "heritage": 3,
+        "vidyut": 5
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.8",
+      "track": "a_known",
+      "n_tokens": 6,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 14,
+      "engine_counts": {
+        "heritage": 8,
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.9",
+      "track": "a_known",
+      "n_tokens": 10,
+      "covered_tokens": 9,
+      "lemma_count": 9,
+      "total_hyps": 25,
+      "engine_counts": {
+        "heritage": 15,
+        "manual_compound": 2,
+        "vidyut": 8
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "a_known",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.47.41e7",
+      "track": "a_known",
+      "n_tokens": 18,
+      "covered_tokens": 11,
+      "lemma_count": 11,
+      "total_hyps": 17,
+      "engine_counts": {
+        "vidyut": 17
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.20.d848",
+      "track": "a_known",
+      "n_tokens": 14,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 12,
+      "engine_counts": {
+        "vidyut": 12
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.7.acf9",
+      "track": "a_known",
+      "n_tokens": 305,
+      "covered_tokens": 189,
+      "lemma_count": 189,
+      "total_hyps": 290,
+      "engine_counts": {
+        "vidyut": 290
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.22.0f21",
+      "track": "a_known",
+      "n_tokens": 14,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 13,
+      "engine_counts": {
+        "vidyut": 13
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.8.8474",
+      "track": "a_known",
+      "n_tokens": 17,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 11,
+      "engine_counts": {
+        "vidyut": 11
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.45.c4b1",
+      "track": "a_known",
+      "n_tokens": 16,
+      "covered_tokens": 10,
+      "lemma_count": 10,
+      "total_hyps": 14,
+      "engine_counts": {
+        "vidyut": 14
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.6.bdcd",
+      "track": "a_known",
+      "n_tokens": 14,
+      "covered_tokens": 9,
+      "lemma_count": 9,
+      "total_hyps": 15,
+      "engine_counts": {
+        "vidyut": 15
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.14.7ba4",
+      "track": "a_known",
+      "n_tokens": 17,
+      "covered_tokens": 12,
+      "lemma_count": 12,
+      "total_hyps": 18,
+      "engine_counts": {
+        "vidyut": 18
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.8.8474",
+      "track": "a_known",
+      "n_tokens": 17,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 11,
+      "engine_counts": {
+        "vidyut": 11
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.5.5488",
+      "track": "a_known",
+      "n_tokens": 13,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 6,
+      "engine_counts": {
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "track": "a_known",
+      "n_tokens": 249,
+      "covered_tokens": 82,
+      "lemma_count": 82,
+      "total_hyps": 158,
+      "engine_counts": {
+        "vidyut": 158
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.28",
+      "track": "a_known",
+      "n_tokens": 5,
+      "covered_tokens": 4,
+      "lemma_count": 1,
+      "total_hyps": 10,
+      "engine_counts": {
+        "byt5": 1,
+        "heritage": 4,
+        "vidyut": 5
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.55",
+      "track": "a_known",
+      "n_tokens": 6,
+      "covered_tokens": 5,
+      "lemma_count": 0,
+      "total_hyps": 13,
+      "engine_counts": {
+        "byt5": 3,
+        "heritage": 3,
+        "vidyut": 7
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "mbt.v1.1.0d62",
+      "track": "b_untranslated",
+      "n_tokens": 35,
+      "covered_tokens": 15,
+      "lemma_count": 15,
+      "total_hyps": 23,
+      "engine_counts": {
+        "vidyut": 23
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.3.3c48",
+      "track": "b_untranslated",
+      "n_tokens": 23,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "vidyut": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.5.a559",
+      "track": "b_untranslated",
+      "n_tokens": 26,
+      "covered_tokens": 10,
+      "lemma_count": 10,
+      "total_hyps": 19,
+      "engine_counts": {
+        "vidyut": 19
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.7.5385",
+      "track": "b_untranslated",
+      "n_tokens": 17,
+      "covered_tokens": 7,
+      "lemma_count": 7,
+      "total_hyps": 12,
+      "engine_counts": {
+        "vidyut": 12
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.9.9580",
+      "track": "b_untranslated",
+      "n_tokens": 16,
+      "covered_tokens": 7,
+      "lemma_count": 7,
+      "total_hyps": 10,
+      "engine_counts": {
+        "vidyut": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.11.e64a",
+      "track": "b_untranslated",
+      "n_tokens": 16,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 8,
+      "engine_counts": {
+        "vidyut": 8
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.13.5376",
+      "track": "b_untranslated",
+      "n_tokens": 20,
+      "covered_tokens": 10,
+      "lemma_count": 10,
+      "total_hyps": 13,
+      "engine_counts": {
+        "vidyut": 13
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.15.4dd6",
+      "track": "b_untranslated",
+      "n_tokens": 13,
+      "covered_tokens": 2,
+      "lemma_count": 2,
+      "total_hyps": 2,
+      "engine_counts": {
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.17.274a",
+      "track": "b_untranslated",
+      "n_tokens": 20,
+      "covered_tokens": 11,
+      "lemma_count": 11,
+      "total_hyps": 14,
+      "engine_counts": {
+        "vidyut": 14
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.19.281e",
+      "track": "b_untranslated",
+      "n_tokens": 21,
+      "covered_tokens": 14,
+      "lemma_count": 14,
+      "total_hyps": 19,
+      "engine_counts": {
+        "vidyut": 19
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.21.56b0",
+      "track": "b_untranslated",
+      "n_tokens": 13,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 11,
+      "engine_counts": {
+        "vidyut": 11
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.23.9d2f",
+      "track": "b_untranslated",
+      "n_tokens": 3,
+      "covered_tokens": 0,
+      "lemma_count": 0,
+      "total_hyps": 0,
+      "engine_counts": {},
+      "low_coverage": true
+    },
+    {
+      "passage_id": "mbt.v1.25.463f",
+      "track": "b_untranslated",
+      "n_tokens": 19,
+      "covered_tokens": 9,
+      "lemma_count": 9,
+      "total_hyps": 10,
+      "engine_counts": {
+        "vidyut": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.27.d542",
+      "track": "b_untranslated",
+      "n_tokens": 14,
+      "covered_tokens": 7,
+      "lemma_count": 7,
+      "total_hyps": 10,
+      "engine_counts": {
+        "vidyut": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.29.fdd8",
+      "track": "b_untranslated",
+      "n_tokens": 11,
+      "covered_tokens": 4,
+      "lemma_count": 4,
+      "total_hyps": 6,
+      "engine_counts": {
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.31.3955",
+      "track": "b_untranslated",
+      "n_tokens": 8,
+      "covered_tokens": 1,
+      "lemma_count": 1,
+      "total_hyps": 4,
+      "engine_counts": {
+        "vidyut": 4
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "mbt.v1.33.1760",
+      "track": "b_untranslated",
+      "n_tokens": 8,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 6,
+      "engine_counts": {
+        "vidyut": 6
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.35.349b",
+      "track": "b_untranslated",
+      "n_tokens": 13,
+      "covered_tokens": 5,
+      "lemma_count": 5,
+      "total_hyps": 5,
+      "engine_counts": {
+        "vidyut": 5
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.37.d2a2",
+      "track": "b_untranslated",
+      "n_tokens": 11,
+      "covered_tokens": 5,
+      "lemma_count": 5,
+      "total_hyps": 8,
+      "engine_counts": {
+        "vidyut": 8
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.39.0ce0",
+      "track": "b_untranslated",
+      "n_tokens": 13,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 8,
+      "engine_counts": {
+        "vidyut": 8
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.79",
+      "track": "b_untranslated",
+      "n_tokens": 6,
+      "covered_tokens": 4,
+      "lemma_count": 2,
+      "total_hyps": 6,
+      "engine_counts": {
+        "heritage": 4,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.102",
+      "track": "b_untranslated",
+      "n_tokens": 7,
+      "covered_tokens": 2,
+      "lemma_count": 2,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 1
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.114",
+      "track": "b_untranslated",
+      "n_tokens": 6,
+      "covered_tokens": 2,
+      "lemma_count": 2,
+      "total_hyps": 4,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.122",
+      "track": "b_untranslated",
+      "n_tokens": 7,
+      "covered_tokens": 2,
+      "lemma_count": 0,
+      "total_hyps": 6,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 4
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.132",
+      "track": "b_untranslated",
+      "n_tokens": 5,
+      "covered_tokens": 4,
+      "lemma_count": 3,
+      "total_hyps": 5,
+      "engine_counts": {
+        "byt5": 3,
+        "heritage": 1,
+        "vidyut": 1
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "b_untranslated",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "b_untranslated",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "b_untranslated",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "b_untranslated",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.3.19",
+      "track": "b_untranslated",
+      "n_tokens": 6,
+      "covered_tokens": 1,
+      "lemma_count": 1,
+      "total_hyps": 1,
+      "engine_counts": {
+        "heritage": 1
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "spk.3.19",
+      "track": "b_untranslated",
+      "n_tokens": 6,
+      "covered_tokens": 1,
+      "lemma_count": 1,
+      "total_hyps": 1,
+      "engine_counts": {
+        "heritage": 1
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "mbt.v3.46.769e",
+      "track": "c_adversarial",
+      "n_tokens": 17,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 10,
+      "engine_counts": {
+        "vidyut": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v3.50.2ae8",
+      "track": "c_adversarial",
+      "n_tokens": 12,
+      "covered_tokens": 4,
+      "lemma_count": 4,
+      "total_hyps": 7,
+      "engine_counts": {
+        "vidyut": 7
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v3.54.8a2a",
+      "track": "c_adversarial",
+      "n_tokens": 13,
+      "covered_tokens": 6,
+      "lemma_count": 6,
+      "total_hyps": 10,
+      "engine_counts": {
+        "vidyut": 10
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v3.58.7a38",
+      "track": "c_adversarial",
+      "n_tokens": 16,
+      "covered_tokens": 9,
+      "lemma_count": 9,
+      "total_hyps": 13,
+      "engine_counts": {
+        "vidyut": 13
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v3.62.7286",
+      "track": "c_adversarial",
+      "n_tokens": 12,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 5,
+      "engine_counts": {
+        "vidyut": 5
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v3.67.34bc",
+      "track": "c_adversarial",
+      "n_tokens": 31,
+      "covered_tokens": 15,
+      "lemma_count": 15,
+      "total_hyps": 25,
+      "engine_counts": {
+        "vidyut": 25
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.1.0d62",
+      "track": "c_adversarial",
+      "n_tokens": 35,
+      "covered_tokens": 15,
+      "lemma_count": 15,
+      "total_hyps": 23,
+      "engine_counts": {
+        "vidyut": 23
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.3.3c48",
+      "track": "c_adversarial",
+      "n_tokens": 23,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "vidyut": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.5.a559",
+      "track": "c_adversarial",
+      "n_tokens": 26,
+      "covered_tokens": 10,
+      "lemma_count": 10,
+      "total_hyps": 19,
+      "engine_counts": {
+        "vidyut": 19
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "mbt.v1.7.5385",
+      "track": "c_adversarial",
+      "n_tokens": 17,
+      "covered_tokens": 7,
+      "lemma_count": 7,
+      "total_hyps": 12,
+      "engine_counts": {
+        "vidyut": 12
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.11",
+      "track": "c_adversarial",
+      "n_tokens": 7,
+      "covered_tokens": 3,
+      "lemma_count": 2,
+      "total_hyps": 10,
+      "engine_counts": {
+        "byt5": 1,
+        "heritage": 2,
+        "heritage_compound_fix": 2,
+        "vidyut": 5
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.16",
+      "track": "c_adversarial",
+      "n_tokens": 8,
+      "covered_tokens": 2,
+      "lemma_count": 1,
+      "total_hyps": 10,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 8
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.21",
+      "track": "c_adversarial",
+      "n_tokens": 6,
+      "covered_tokens": 0,
+      "lemma_count": 0,
+      "total_hyps": 6,
+      "engine_counts": {
+        "vidyut": 6
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.24",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 4,
+      "lemma_count": 2,
+      "total_hyps": 6,
+      "engine_counts": {
+        "heritage": 4,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.31",
+      "track": "c_adversarial",
+      "n_tokens": 5,
+      "covered_tokens": 2,
+      "lemma_count": 1,
+      "total_hyps": 6,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 4
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.38",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 2,
+      "total_hyps": 5,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.44",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 2,
+      "lemma_count": 1,
+      "total_hyps": 4,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 2
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.36",
+      "track": "c_adversarial",
+      "n_tokens": 7,
+      "covered_tokens": 3,
+      "lemma_count": 0,
+      "total_hyps": 10,
+      "engine_counts": {
+        "byt5": 2,
+        "heritage": 2,
+        "vidyut": 6
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.42",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.48",
+      "track": "c_adversarial",
+      "n_tokens": 7,
+      "covered_tokens": 2,
+      "lemma_count": 2,
+      "total_hyps": 5,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.61",
+      "track": "c_adversarial",
+      "n_tokens": 7,
+      "covered_tokens": 3,
+      "lemma_count": 1,
+      "total_hyps": 7,
+      "engine_counts": {
+        "byt5": 1,
+        "heritage": 3,
+        "vidyut": 3
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "vb.79",
+      "track": "c_adversarial",
+      "n_tokens": 6,
+      "covered_tokens": 4,
+      "lemma_count": 2,
+      "total_hyps": 6,
+      "engine_counts": {
+        "heritage": 4,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.83",
+      "track": "c_adversarial",
+      "n_tokens": 6,
+      "covered_tokens": 3,
+      "lemma_count": 2,
+      "total_hyps": 7,
+      "engine_counts": {
+        "heritage": 3,
+        "vidyut": 4
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "vb.88",
+      "track": "c_adversarial",
+      "n_tokens": 6,
+      "covered_tokens": 2,
+      "lemma_count": 1,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 1
+      },
+      "low_coverage": true
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.1.2",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 3,
+      "engine_counts": {
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "spk.2.6",
+      "track": "c_adversarial",
+      "n_tokens": 4,
+      "covered_tokens": 3,
+      "lemma_count": 3,
+      "total_hyps": 4,
+      "engine_counts": {
+        "compound_splitter_v2": 1,
+        "heritage": 3
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.20.d848",
+      "track": "c_adversarial",
+      "n_tokens": 14,
+      "covered_tokens": 8,
+      "lemma_count": 8,
+      "total_hyps": 12,
+      "engine_counts": {
+        "vidyut": 12
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.47.41e7",
+      "track": "c_adversarial",
+      "n_tokens": 18,
+      "covered_tokens": 11,
+      "lemma_count": 11,
+      "total_hyps": 17,
+      "engine_counts": {
+        "vidyut": 17
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhagavad_gita.x.30.1227",
+      "track": "c_adversarial",
+      "n_tokens": 112,
+      "covered_tokens": 66,
+      "lemma_count": 66,
+      "total_hyps": 90,
+      "engine_counts": {
+        "vidyut": 90
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.1",
+      "track": "c_adversarial",
+      "n_tokens": 7,
+      "covered_tokens": 7,
+      "lemma_count": 4,
+      "total_hyps": 21,
+      "engine_counts": {
+        "heritage": 11,
+        "heritage_compound": 2,
+        "manual_compound": 6,
+        "vidyut": 2
+      },
+      "low_coverage": false
+    },
+    {
+      "passage_id": "bhairavastava.4",
+      "track": "c_adversarial",
+      "n_tokens": 5,
+      "covered_tokens": 5,
+      "lemma_count": 5,
+      "total_hyps": 10,
+      "engine_counts": {
+        "heritage": 10
+      },
+      "low_coverage": false
+    }
+  ],
+  "low_coverage_verses": [
+    {
+      "passage": "vb.28",
+      "lemma_count": 1,
+      "total_hyps": 10,
+      "tokens": 5,
+      "covered": 4,
+      "engine_counts": {
+        "byt5": 1,
+        "heritage": 4,
+        "vidyut": 5
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.55",
+      "lemma_count": 0,
+      "total_hyps": 13,
+      "tokens": 6,
+      "covered": 5,
+      "engine_counts": {
+        "byt5": 3,
+        "heritage": 3,
+        "vidyut": 7
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "mbt.v1.23.9d2f",
+      "lemma_count": 0,
+      "total_hyps": 0,
+      "tokens": 3,
+      "covered": 0,
+      "engine_counts": {},
+      "failure_reason": "ALL_ENGINES_MISS"
+    },
+    {
+      "passage": "mbt.v1.31.3955",
+      "lemma_count": 1,
+      "total_hyps": 4,
+      "tokens": 8,
+      "covered": 1,
+      "engine_counts": {
+        "vidyut": 4
+      },
+      "failure_reason": "COMPOUND_SPLIT(2 long tokens)"
+    },
+    {
+      "passage": "vb.122",
+      "lemma_count": 0,
+      "total_hyps": 6,
+      "tokens": 7,
+      "covered": 2,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 4
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "spk.3.19",
+      "lemma_count": 1,
+      "total_hyps": 1,
+      "tokens": 6,
+      "covered": 1,
+      "engine_counts": {
+        "heritage": 1
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "spk.3.19",
+      "lemma_count": 1,
+      "total_hyps": 1,
+      "tokens": 6,
+      "covered": 1,
+      "engine_counts": {
+        "heritage": 1
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.16",
+      "lemma_count": 1,
+      "total_hyps": 10,
+      "tokens": 8,
+      "covered": 2,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 8
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.21",
+      "lemma_count": 0,
+      "total_hyps": 6,
+      "tokens": 6,
+      "covered": 0,
+      "engine_counts": {
+        "vidyut": 6
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.31",
+      "lemma_count": 1,
+      "total_hyps": 6,
+      "tokens": 5,
+      "covered": 2,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 4
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.44",
+      "lemma_count": 1,
+      "total_hyps": 4,
+      "tokens": 4,
+      "covered": 2,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 2
+      },
+      "failure_reason": "COMPOUND_SPLIT(1 long tokens)"
+    },
+    {
+      "passage": "vb.36",
+      "lemma_count": 0,
+      "total_hyps": 10,
+      "tokens": 7,
+      "covered": 3,
+      "engine_counts": {
+        "byt5": 2,
+        "heritage": 2,
+        "vidyut": 6
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.61",
+      "lemma_count": 1,
+      "total_hyps": 7,
+      "tokens": 7,
+      "covered": 3,
+      "engine_counts": {
+        "byt5": 1,
+        "heritage": 3,
+        "vidyut": 3
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    },
+    {
+      "passage": "vb.88",
+      "lemma_count": 1,
+      "total_hyps": 3,
+      "tokens": 6,
+      "covered": 2,
+      "engine_counts": {
+        "heritage": 2,
+        "vidyut": 1
+      },
+      "failure_reason": "PARTIAL_COVERAGE"
+    }
+  ],
+  "engine_summary": {
+    "heritage": {
+      "hyps": 253,
+      "passages": 66
+    },
+    "heritage_compound": {
+      "hyps": 6,
+      "passages": 3
+    },
+    "manual_compound": {
+      "hyps": 15,
+      "passages": 4
+    },
+    "vidyut": {
+      "hyps": 2542,
+      "passages": 81
+    },
+    "total": {
+      "hyps": 0,
+      "passages": 120
+    },
+    "byt5": {
+      "hyps": 11,
+      "passages": 6
+    },
+    "compound_splitter_v2": {
+      "hyps": 6,
+      "passages": 6
+    },
+    "heritage_compound_fix": {
+      "hyps": 2,
+      "passages": 1
+    }
+  },
+  "recall_by_track": {
+    "a_known": {
+      "passages": 54,
+      "low_coverage": 2,
+      "avg_lemmas": 22.5,
+      "avg_hypotheses": 41.1,
+      "avg_covered_tokens": 22.8
+    },
+    "b_untranslated": {
+      "passages": 31,
+      "low_coverage": 5,
+      "avg_lemmas": 5.0,
+      "avg_hypotheses": 7.5,
+      "avg_covered_tokens": 5.1
+    },
+    "c_adversarial": {
+      "passages": 35,
+      "low_coverage": 7,
+      "avg_lemmas": 6.1,
+      "avg_hypotheses": 11.0,
+      "avg_covered_tokens": 6.6
+    }
+  }
+}

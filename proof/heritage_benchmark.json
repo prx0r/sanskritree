@@ -1,0 +1,220 @@
+{
+  "results": [
+    {
+      "label": "MBT compound",
+      "category": "mbt",
+      "text": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛ",
+      "success": true,
+      "latency": 12.88,
+      "n_words": 10,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Spanda compound",
+      "category": "spanda",
+      "text": "taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+      "success": true,
+      "latency": 0.67,
+      "n_words": 7,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "MBT long compound",
+      "category": "mbt",
+      "text": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jāt",
+      "success": true,
+      "latency": 1.71,
+      "n_words": 11,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB dense compound",
+      "category": "vb",
+      "text": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+      "success": true,
+      "latency": 1.08,
+      "n_words": 9,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Previous timeout",
+      "category": "vb",
+      "text": "jñāyate digvibhāgādi tadvac chaktyā śivaḥ priye",
+      "success": false,
+      "latency": 34.73,
+      "n_words": 0,
+      "has_morph": false,
+      "is_timeout": false,
+      "is_oov": true
+    },
+    {
+      "label": "Long VB verse",
+      "category": "vb",
+      "text": "na cāsau triśirā devo na ca śaktitrayātmakaḥ na ca",
+      "success": true,
+      "latency": 9.48,
+      "n_words": 20,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "BhG long",
+      "category": "bhg",
+      "text": "adṛṣṭa pūrvam hṛṣitaḥ asmi dṛṣṭvā bhayena ca pravy",
+      "success": true,
+      "latency": 5.28,
+      "n_words": 21,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "OOV test",
+      "category": "vb",
+      "text": "aca caṇḍāla iva sadā vācyaḥ paramārthataḥ",
+      "success": true,
+      "latency": 0.68,
+      "n_words": 6,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Rare form",
+      "category": "spanda",
+      "text": "pipīlasparśavelāyām prathate paramaṃ sukham",
+      "success": true,
+      "latency": 0.66,
+      "n_words": 6,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB practice",
+      "category": "vb",
+      "text": "dhyāyato 'nuttare śūnye praveśo hṛdaye bhavet",
+      "success": true,
+      "latency": 1.05,
+      "n_words": 6,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB instruction",
+      "category": "vb",
+      "text": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+      "success": true,
+      "latency": 3.66,
+      "n_words": 8,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB bindu",
+      "category": "vb",
+      "text": "binduṃ śikhānte hṛdaye layānte dhyāyato layaḥ",
+      "success": true,
+      "latency": 3.76,
+      "n_words": 9,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB contradict",
+      "category": "vb",
+      "text": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+      "success": true,
+      "latency": 0.88,
+      "n_words": 7,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "BV praise",
+      "category": "bv",
+      "text": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛ",
+      "success": true,
+      "latency": 12.82,
+      "n_words": 10,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "BV death",
+      "category": "bv",
+      "text": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jāt",
+      "success": true,
+      "latency": 1.7,
+      "n_words": 11,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Gita general",
+      "category": "bhg",
+      "text": "karmaṇy evādhikāras te mā phaleṣu kadācana",
+      "success": true,
+      "latency": 1.42,
+      "n_words": 7,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Gita dense",
+      "category": "bhg",
+      "text": "śrī bhagavān uvāca mayā prasannena tava arjuna ida",
+      "success": true,
+      "latency": 7.5,
+      "n_words": 14,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "Spanda rare",
+      "category": "spanda",
+      "text": "unmeṣaḥ sa tu vijñeyaḥ svayaṃ tam upalakṣayet",
+      "success": true,
+      "latency": 0.7,
+      "n_words": 7,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    },
+    {
+      "label": "VB void",
+      "category": "vb",
+      "text": "nirādhāre mano yāti taddhyānapreraṇāc chamī",
+      "success": true,
+      "latency": 2.03,
+      "n_words": 7,
+      "has_morph": true,
+      "is_timeout": false,
+      "is_oov": false
+    }
+  ],
+  "summary": {
+    "success": 18,
+    "timeout": 0,
+    "oov": 1,
+    "other_fail": 0,
+    "avg_latency": 5.134500000000001
+  }
+}
