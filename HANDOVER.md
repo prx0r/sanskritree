@@ -89,10 +89,38 @@ cd lean && lake build Sanskritree && cd ..            # Lean verification
 | `docs/sprint_v04.md` | v0.4 experiment plan |
 | `docs/next_steps.md` | Milestone tracking |
 
-## What to do next
+## Checkpoint 1: Spandakārikā Translation Pipeline
 
-1. **Coverage push on Spandakārikā** — run Heritage batch on remaining unanalyzed verses, seed rare vocabulary via ByT5
-2. **Consecutive translation** — translate all 53 verses, tracking which verses expose new failure modes
-3. **Commentary integration** — link Kṣemarāja glosses at span level for verses where commentary disambiguates
-4. **Human review loop** — present translations for correction, record error origins
-5. **Freeze Checkpoint 1** — publish Spandakārikā v1.0 with complete audit trail
+The system improves by being wrong in measurable ways. Every translation disagreement with a reference is a training signal.
+
+### Pipeline
+```
+INGEST Sanskrit + multiple English translations
+  → BLIND TRANSLATE (no references seen)
+    → COMPARE verse-by-verse against each reference
+      → CLASSIFY every disagreement (error taxonomy)
+        → FIX top systematic errors
+          → RE-RUN blind → measure improvement
+```
+
+### Implementation order
+1. Ingest Spandakārikā text and all available English translations (Dyczkowski, Singh, etc.)
+2. Ensure verse-level alignment across all sources
+3. Build blind translation runner (script exists: `t1_translation_pilot.py`)
+4. Build comparison script: Sanskritree vs Reference A vs Reference B vs Reference C
+5. Classify disagreements using the error taxonomy
+6. Fix top 3 systematic error classes
+7. Re-run blind translation → measure improvement
+8. Repeat until convergence
+
+### Reference-first design
+The comparisons are what produce learning signals. Without references, every translation is equally (un)verifiable. This is why Spandakārikā is the right first target — multiple translations exist, giving us ground truth for evaluation.
+
+### Key files
+- `docs/pipeline_checkpoint1.md` — full pipeline specification
+- `docs/immediatevision.md` — strategic rationale
+- `scripts/t1_translation_pilot.py` — benchmark generation (adapt for Spanda 53 verses)
+- `scripts/recall_ci.py` — candidate-recall CI (adapt for Spanda coverage tracking)
+
+### Reusable design
+The same pipeline works for any Sanskrit text with verse-aligned English translations: ingest → blind translate → compare → classify → fix → re-run. After proving on Spandakārikā, apply to Vijñānabhairava, Kiraṇatantra, etc.
