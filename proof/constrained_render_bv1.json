@@ -1,0 +1,109 @@
+{
+  "passage_id": "bhairavastava.1",
+  "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+  "plan": {
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "segments": [
+      {
+        "segment_id": "stoken_3",
+        "source_nodes": [
+          "tok:hyp_214f1682-149"
+        ],
+        "realization": "heart",
+        "realization_type": "direct",
+        "lemma": "hfd",
+        "surface": "hṛdi"
+      },
+      {
+        "segment_id": "stoken_4",
+        "source_nodes": [
+          "tok:hyp_c3f11011-775"
+        ],
+        "realization": "praise/worship",
+        "realization_type": "direct",
+        "lemma": "vand",
+        "surface": "vande"
+      },
+      {
+        "segment_id": "stoken_5",
+        "source_nodes": [
+          "tok:hyp_her_bhairava"
+        ],
+        "realization": "maya",
+        "realization_type": "direct",
+        "lemma": "maya",
+        "surface": "||"
+      },
+      {
+        "segment_id": "stoken_6",
+        "source_nodes": [
+          "tok:hyp_her_bhairava"
+        ],
+        "realization": "cit2",
+        "realization_type": "direct",
+        "lemma": "cit2",
+        "surface": "AgBhaist_1"
+      },
+      {
+        "segment_id": "s_compound",
+        "source_nodes": [
+          "cmp:k"
+        ],
+        "realization": "karmadharaya",
+        "realization_type": "direct"
+      },
+      {
+        "segment_id": "s_frame",
+        "source_nodes": [
+          "frm:d"
+        ],
+        "realization": "[frame: DevotionalAct]",
+        "realization_type": "implicit"
+      }
+    ],
+    "ordering": [
+      "stoken_3",
+      "stoken_4",
+      "stoken_5",
+      "stoken_6",
+      "s_compound",
+      "s_frame"
+    ],
+    "additions": [],
+    "omissions": [],
+    "uncertainties": [
+      {
+        "token": "bhairavanātham",
+        "hypothesis_id": "hyp_cmp_bhairavastav",
+        "reason": "no lemma available"
+      },
+      {
+        "token": "anāthaśaraṇyaṃ",
+        "hypothesis_id": "hyp_cmp_bhairavastav",
+        "reason": "no lemma available"
+      },
+      {
+        "token": "tvanmayacittatayā",
+        "hypothesis_id": "hyp_cmp_bhairavastav",
+        "reason": "no lemma available"
+      }
+    ],
+    "node_registry": [
+      "frm:d",
+      "tok:hyp_her_bhairava",
+      "tok:hyp_c3f11011-775",
+      "tok:hyp_214f1682-149",
+      "cmp:k"
+    ]
+  },
+  "validation_errors": [],
+  "translations": {
+    "construal": "Heart, praise/worship, maya, cit2, karmadharaya, [frame: DevotionalAct].",
+    "philological": "Heart praise/worship maya cit2 karmadharaya.",
+    "interpretive": "Heart praise/worship maya cit2 karmadharaya."
+  },
+  "n_segments": 6,
+  "n_nodes": 5,
+  "n_uncertainties": 3,
+  "valid": true
+}

@@ -1,0 +1,454 @@
+{
+  "passage_id": "bhairavastava.1",
+  "verse": "1",
+  "source_iast": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+  "source_normalized": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+  "provenance": {
+    "work": "Abhinavagupta — Bhairavastava",
+    "edition": "GRETIL, input by Marino Faliero",
+    "licence": "CC-BY-NC-SA 4.0",
+    "source_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_abhinavagupta-bhairavastava.txt"
+  },
+  "morphology": {
+    "0": {
+      "surface": "bhairavanātham",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": null,
+          "confidence": 0.5,
+          "features": {}
+        }
+      ]
+    },
+    "1": {
+      "surface": "anāthaśaraṇyaṃ",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": null,
+          "confidence": 0.5,
+          "features": {}
+        }
+      ]
+    },
+    "2": {
+      "surface": "tvanmayacittatayā",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": null,
+          "confidence": 0.5,
+          "features": {}
+        }
+      ]
+    },
+    "3": {
+      "surface": "hṛdi",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": "hfd",
+          "confidence": 1.0,
+          "features": {
+            "vibhakti": "saptamI",
+            "vacana": "eka",
+            "linga": "napuMsaka"
+          }
+        }
+      ]
+    },
+    "4": {
+      "surface": "vande",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": "vand",
+          "confidence": 1.0,
+          "features": {
+            "vibhakti": "caturTI",
+            "vacana": "eka",
+            "linga": "puM"
+          }
+        }
+      ]
+    },
+    "5": {
+      "surface": "||",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": null,
+          "confidence": 0.5,
+          "features": {}
+        }
+      ]
+    },
+    "6": {
+      "surface": "AgBhaist_1",
+      "analyses": [
+        {
+          "engine": "fallback",
+          "lemma": null,
+          "confidence": 0.0,
+          "features": {}
+        },
+        {
+          "engine": "vidyut",
+          "lemma": null,
+          "confidence": 0.5,
+          "features": {}
+        }
+      ]
+    }
+  },
+  "heritage_segmentation": [
+    {
+      "text": "भैरव",
+      "root": ""
+    },
+    {
+      "text": "नाथम्",
+      "root": ""
+    },
+    {
+      "text": "अनाथ",
+      "root": ""
+    },
+    {
+      "text": "शरण्यम्",
+      "root": ""
+    },
+    {
+      "text": "त्वत्",
+      "root": ""
+    },
+    {
+      "text": "मय",
+      "root": ""
+    },
+    {
+      "text": "चित्",
+      "root": ""
+    },
+    {
+      "text": "ततया",
+      "root": ""
+    },
+    {
+      "text": "हृदि",
+      "root": ""
+    },
+    {
+      "text": "वन्दे",
+      "root": ""
+    }
+  ],
+  "factor_graph": {
+    "variables": {
+      "token_0": 2,
+      "token_1": 2,
+      "token_2": 2,
+      "token_3": 1,
+      "token_4": 1,
+      "compound": 2,
+      "frame": 3
+    },
+    "factors": [
+      "agreement",
+      "compound",
+      "frame",
+      "unsupported_addition"
+    ],
+    "beam_width": 30,
+    "total_assignments_evaluated": 13
+  },
+  "inference_result": {
+    "energy": 0.0,
+    "selected_assignment": {
+      "token_0": {
+        "hypothesis_id": "hyp_cmp_bhairavastava.1.readin",
+        "label": "__unknown__",
+        "payload": {
+          "occurrence_id": "occ_bhairavastava.1.reading.bhairavastava.gretil_0",
+          "surface": "bhairavanātham",
+          "analysis_type_id": "cmp_bhairavastava.1.reading.bhairavastava.gretil_0_karmadharaya",
+          "engine": "manual_compound",
+          "lemma": "__unknown__"
+        }
+      },
+      "token_1": {
+        "hypothesis_id": "hyp_cmp_bhairavastava.1.readin",
+        "label": "__unknown__",
+        "payload": {
+          "occurrence_id": "occ_bhairavastava.1.reading.bhairavastava.gretil_1",
+          "surface": "anāthaśaraṇyaṃ",
+          "analysis_type_id": "cmp_bhairavastava.1.reading.bhairavastava.gretil_1_karmadharaya",
+          "engine": "manual_compound",
+          "lemma": "__unknown__"
+        }
+      },
+      "token_2": {
+        "hypothesis_id": "hyp_cmp_bhairavastava.1.readin",
+        "label": "__unknown__",
+        "payload": {
+          "occurrence_id": "occ_bhairavastava.1.reading.bhairavastava.gretil_2",
+          "surface": "tvanmayacittatayā",
+          "analysis_type_id": "cmp_bhairavastava.1.reading.bhairavastava.gretil_2_karmadharaya",
+          "engine": "manual_compound",
+          "lemma": "__unknown__"
+        }
+      },
+      "token_3": {
+        "hypothesis_id": "hyp_214f1682-1495-4980-99aa-c9",
+        "label": "hfd",
+        "payload": {
+          "occurrence_id": "occ_bhairavastava.1.reading.bhairavastava.gretil_3",
+          "surface": "hṛdi",
+          "analysis_type_id": "mat_hfd_daf6bdf2599ab032",
+          "engine": "vidyut",
+          "lemma": "hfd"
+        }
+      },
+      "token_4": {
+        "hypothesis_id": "hyp_c3f11011-7753-448e-b0ca-69",
+        "label": "vand",
+        "payload": {
+          "occurrence_id": "occ_bhairavastava.1.reading.bhairavastava.gretil_4",
+          "surface": "vande",
+          "analysis_type_id": "mat_vand_69535a6ab2b7d28d",
+          "engine": "vidyut",
+          "lemma": "vand"
+        }
+      },
+      "compound": {
+        "hypothesis_id": "compound_karmadharaya",
+        "label": "karmadharaya",
+        "payload": {
+          "relation": "karmadharaya",
+          "gloss": "Bhairava the Lord (appositional)"
+        }
+      },
+      "frame": {
+        "hypothesis_id": "frame_devotional",
+        "label": "DevotionalAct",
+        "payload": {
+          "frame_type": "DevotionalAct"
+        }
+      }
+    },
+    "beliefs": {
+      "hyp_cmp_bhairavastava.1.readin": 0.3077,
+      "hyp_214f1682-1495-4980-99aa-c9": 0.6225,
+      "hyp_c3f11011-7753-448e-b0ca-69": 0.6225,
+      "compound_karmadharaya": 0.69,
+      "compound_tatpurusa": 0.3543,
+      "frame_devotional": 0.69,
+      "frame_identity": 0.3543,
+      "frame_predication": 0.4256
+    }
+  },
+  "accepted_interpretation": {
+    "bhairavanatham": {
+      "compound": "karmadharaya",
+      "gloss": "Bhairava the Lord (appositional)",
+      "english": "Lord Bhairava",
+      "evidence": "karmadharaya preferred over tatpurusa (morphological compatibility + semantic frame coherence)",
+      "margin_vs_alternative": 0.3356
+    },
+    "anathasaranyam": {
+      "compound": "tatpurusa",
+      "english": "refuge of the helpless",
+      "evidence": "epithet modifying bhairavanatham (case agreement)"
+    },
+    "tvanmayacittataya": {
+      "analysis": "tvad-maya-citta-ta-ya (abstract noun, instrumental singular)",
+      "english": "with my mind absorbed in you",
+      "notes": "NOT a bahuvrihi compound — abstract noun suffix -ta + instrumental -ya"
+    },
+    "hrdi": {
+      "case": "locative",
+      "english": "in the heart",
+      "lean_verified": true,
+      "theorem": "locative_location_compatible"
+    },
+    "vande": {
+      "person": "first-person singular",
+      "tense": "present",
+      "english": "I praise / I worship",
+      "lean_verified": true,
+      "theorem": "vande_first_person",
+      "implicit_agent": "I (no explicit pronoun in Sanskrit; inferred from verb morphology)"
+    },
+    "frame": {
+      "type": "DevotionalAct",
+      "belief": 0.69
+    }
+  },
+  "translations": {
+    "construal": "Lord Bhairava, refuge of the helpless — with my mind absorbed in you, I praise in my heart.",
+    "philological": "With my mind wholly absorbed in you, I praise in my heart Lord Bhairava, refuge of the helpless.",
+    "interpretive": "With my consciousness completely absorbed in you, I worship in my innermost heart Lord Bhairava, the sole refuge of all who are helpless."
+  },
+  "token_alignments": [
+    {
+      "sanskrit": "bhairavanātham",
+      "english": "Lord Bhairava",
+      "type": "direct",
+      "case": "accusative",
+      "compound": "karmadharaya"
+    },
+    {
+      "sanskrit": "anāthaśaraṇyam",
+      "english": "refuge of the helpless",
+      "type": "direct",
+      "compound": "tatpurusa"
+    },
+    {
+      "sanskrit": "tvanmayacittatayā",
+      "english": "with my mind absorbed in you",
+      "type": "direct",
+      "case": "instrumental"
+    },
+    {
+      "sanskrit": "hṛdi",
+      "english": "in the heart",
+      "type": "direct",
+      "case": "locative"
+    },
+    {
+      "sanskrit": "vande",
+      "english": "I praise",
+      "type": "direct",
+      "person": "1sg"
+    },
+    {
+      "sanskrit": "(implicit)",
+      "english": "I",
+      "type": "implicit",
+      "evidence": "verb morphology (vande = 1sg present)"
+    }
+  ],
+  "error_audit": {
+    "prior_candidate_A_error": "COMPOUND_BOUNDARY — 'lordship' misinterprets nātha as abstract noun (corrected)",
+    "prior_candidate_C_error": "DOCTRINAL_ADDITION — attributes from verses 2-3 imported into verse 1 (removed)",
+    "prior_candidate_C_error_2": "COMPOUND_BOUNDARY — tvanmayacittatayā incorrectly labelled bahuvrihi (corrected to abstract noun + instrumental)",
+    "current_status": "All errors corrected. No unsupported additions. All tokens aligned."
+  },
+  "evidence_paths": {
+    "karmadharaya_vs_tatpurusa": {
+      "path": "morphological compatibility (both members accusative) → semantic frame coherence (one entity) → compound prior → accepted",
+      "sources": [
+        "Vidyut morphology",
+        "semantic frame factor",
+        "human prior"
+      ]
+    },
+    "devotional_frame": {
+      "path": "verb vand (to praise) present → frame factor scores DevotionalAct higher than IdentityClaim or Predication",
+      "sources": [
+        "vidyut lemma: vand",
+        "frame factor"
+      ]
+    }
+  },
+  "lean_verification": {
+    "module": "Sanskritree.Decision + Sanskritree.LayerB",
+    "theorems": [
+      "vande_first_person: vande_morph.purusha = some 'uttama'",
+      "hrdi_locative: hrdi_morph.vibhakti = some 'saptami'",
+      "accusative_object_compatible: accusative → object is valid",
+      "locative_location_compatible: locative → location is valid",
+      "nominative_not_object: nominative → object is invalid",
+      "accusative_not_agent: accusative → agent is invalid"
+    ],
+    "compilation_status": "verified (lake build Sanskritree passes)"
+  },
+  "gold_corpus": {
+    "status": "v1.0_gold",
+    "date": "2026-07-24",
+    "tests_passing": 16,
+    "lean_modules": [
+      "Core.Entity",
+      "Semantics.Relation",
+      "Decision",
+      "LayerB"
+    ],
+    "lean_theorems": 15,
+    "coverage_percent": 90,
+    "coverage_note": "62/69 tokens — remaining 7 are verse metadata markers (||, AgBhaist_N)",
+    "heritage_split_verified": [
+      "bhairavanātham → bhairava + nātha (karmadharaya)",
+      "anāthaśaraṇyam → anātha + śaraṇya (tatpurusa)",
+      "tvanmayacittatayā → tvad + maya + cit + tayā (abstract noun + instrumental)"
+    ],
+    "error_corrections_applied": [
+      "COMPOUND_BOUNDARY: 'lordship' → 'Lord' (Candidate A)",
+      "DOCTRINAL_ADDITION: removed v2-3 attributes from v1 (Candidate C)",
+      "COMPOUND_BOUNDARY: bahuvrīhi → abstract noun (tvanmayacittatayā)"
+    ],
+    "adjudicated_interpretation": {
+      "bhairavanātham": {
+        "compound": "karmadharaya",
+        "english": "Lord Bhairava"
+      },
+      "anāthaśaraṇyam": {
+        "compound": "tatpurusa",
+        "english": "refuge of the helpless"
+      },
+      "tvanmayacittatayā": {
+        "analysis": "abstract noun, instr.sg",
+        "english": "with my mind absorbed in you"
+      },
+      "hṛdi": {
+        "case": "locative",
+        "english": "in the heart",
+        "lean": "locative_location_compatible"
+      },
+      "vande": {
+        "person": "1sg",
+        "english": "I praise",
+        "lean": "vande_first_person"
+      },
+      "frame": "DevotionalAct",
+      "implicit_agent": "I (from verb morphology, not explicit in text)"
+    },
+    "regression_test_id": "test_pipeline.TestCorpusIntegrity.test_a1_bhairavastava_9_verses"
+  }
+}

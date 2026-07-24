@@ -1,0 +1,135 @@
+[
+  {
+    "verse": 28,
+    "source": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "tokens": 5,
+    "covered": 4,
+    "coverage_pct": 80.0,
+    "hypotheses": 12,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO"
+    ]
+  },
+  {
+    "verse": 36,
+    "source": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "tokens": 7,
+    "covered": 2,
+    "coverage_pct": 28.6,
+    "hypotheses": 11,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ENTER_INTERVAL"
+    ]
+  },
+  {
+    "verse": 47,
+    "source": "vibhāvayet tatas tasya bhāvanā sā sthirā bhavet",
+    "tokens": 7,
+    "covered": 3,
+    "coverage_pct": 42.9,
+    "hypotheses": 11,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO",
+      "VISUALIZE"
+    ]
+  },
+  {
+    "verse": 55,
+    "source": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "tokens": 6,
+    "covered": 3,
+    "coverage_pct": 50.0,
+    "hypotheses": 13,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO"
+    ]
+  },
+  {
+    "verse": 61,
+    "source": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "tokens": 7,
+    "covered": 3,
+    "coverage_pct": 42.9,
+    "hypotheses": 9,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ENTER_INTERVAL"
+    ]
+  },
+  {
+    "verse": 71,
+    "source": "ānandam udgataṃ dhyātvā tallayas tanmanā bhavet",
+    "tokens": 6,
+    "covered": 1,
+    "coverage_pct": 16.7,
+    "hypotheses": 6,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO",
+      "DISSOLVE"
+    ]
+  },
+  {
+    "verse": 79,
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "tokens": 6,
+    "covered": 4,
+    "coverage_pct": 66.7,
+    "hypotheses": 9,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": []
+  },
+  {
+    "verse": 87,
+    "source": "taimiram bhāvayan rūpam bhairavaṃ rūpam eṣyati",
+    "tokens": 6,
+    "covered": 3,
+    "coverage_pct": 50.0,
+    "hypotheses": 13,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO",
+      "VISUALIZE",
+      "RECOGNIZE_IDENTITY"
+    ]
+  },
+  {
+    "verse": 102,
+    "source": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "tokens": 7,
+    "covered": 2,
+    "coverage_pct": 28.6,
+    "hypotheses": 6,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO"
+    ]
+  },
+  {
+    "verse": 132,
+    "source": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "tokens": 5,
+    "covered": 1,
+    "coverage_pct": 20.0,
+    "hypotheses": 5,
+    "energy": 0.0,
+    "frame_selected": "DevotionalAct",
+    "detected_actions": [
+      "ATTEND_TO",
+      "VISUALIZE"
+    ]
+  }
+]

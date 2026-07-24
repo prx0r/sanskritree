@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "description": "Remove all lemmas",
+      "expected_reject": true,
+      "actual_status": "REJECT",
+      "detected": true,
+      "violations": [
+        {
+          "rule": "INSUFFICIENT_COVERAGE",
+          "detail": "Only 0 lemmas for 16 chars of source",
+          "severity": "ERROR"
+        }
+      ]
+    },
+    {
+      "description": "Unknown lemma used",
+      "expected_reject": true,
+      "actual_status": "REJECT",
+      "detected": true,
+      "violations": [
+        {
+          "rule": "REJECTED_HYPOTHESIS_USED",
+          "detail": "Output references unresolved/unknown lemma",
+          "severity": "ERROR"
+        }
+      ]
+    },
+    {
+      "description": "Empty source",
+      "expected_reject": true,
+      "actual_status": "REJECT",
+      "detected": true,
+      "violations": [
+        {
+          "rule": "INVALID_SOURCE",
+          "detail": "Source text is empty or too short",
+          "severity": "ERROR"
+        }
+      ]
+    },
+    {
+      "description": "Valid passage unchanged",
+      "expected_reject": false,
+      "actual_status": "PASS",
+      "detected": true,
+      "violations": []
+    },
+    {
+      "description": "Blank source",
+      "expected_reject": true,
+      "actual_status": "REJECT",
+      "detected": true,
+      "violations": [
+        {
+          "rule": "INVALID_SOURCE",
+          "detail": "Source text is empty or too short",
+          "severity": "ERROR"
+        }
+      ]
+    }
+  ],
+  "detection_rate": 100.0
+}

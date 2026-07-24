@@ -1,0 +1,379 @@
+{
+  "pipeline": "M6 — Spandakārikā full processing",
+  "verses": 53,
+  "avg_tokens": 0.3584905660377358,
+  "avg_hypotheses": 3.4150943396226414,
+  "results": [
+    {
+      "verse": "1",
+      "source": "taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "2",
+      "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "3",
+      "source": "nivartate nijān naiva svabhāvādupalabdhṛtaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "4",
+      "source": "sukhādyavasthānusyūte vartante 'nyatra tāḥ sphuṭam",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "5",
+      "source": "na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "6",
+      "source": "sahāntareṇa cakreṇa pravṛttisthitisaṃhṛtīḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "7",
+      "source": "yataḥ svatantratā tasya sarvatreyam akṛtrimā",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "8",
+      "source": "api tv ātmabalasparśāt puruṣas tatsamo bhavet",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "9",
+      "source": "yadā kṣobhaḥ pralīyeta tadā syātparamaṃ padam",
+      "tokens": 2,
+      "hypotheses": 6,
+      "energy": 0.0
+    },
+    {
+      "verse": "10",
+      "source": "yatas tadepsitaṃ sarvaṃ jānāti ca karoti ca",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "11",
+      "source": "smayamāna ivāste yas tasyeyaṃ kusṛtiḥ kutaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "12",
+      "source": "yato 'bhiyogasaṃsparśāt tadāsīd iti niścayaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "13",
+      "source": "na tv evaṃ smaryamāṇatvaṃ tat tattvaṃ pratipadyate",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "14",
+      "source": "kāryatā kṣayiṇī tatra kartṛtvaṃ punarakṣayam",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "15",
+      "source": "tasmiṃl lupte vilupto 'smītyabudhaḥ pratipadyate",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "16",
+      "source": "tasya lopaḥ kadācitsyād anyasyānupalambhanāt",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "17",
+      "source": "nityaṃ syātsuprabuddhasya tadādyante parasya tu",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "18",
+      "source": "padadvaye vibhurbhāti tadanyatra tu cinmayaḥ",
+      "tokens": 1,
+      "hypotheses": 5,
+      "energy": 0.0
+    },
+    {
+      "verse": "19",
+      "source": "labdhātmalābhāḥ satataṃ syur jñasyāparipanthinaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "20",
+      "source": "pātayanti duruttāre ghore saṃsāravartmani",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "21",
+      "source": "jāgradeva nijaṃ bhāvam acireṇādhigacchati",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "22",
+      "source": "dhāvanvā yatpadaṃ gacchet tatra spandaḥ pratiṣṭhitaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "23",
+      "source": "tadavaśyaṃ kariṣye 'hamiti saṃkalpya tiṣṭhati",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "24",
+      "source": "sauṣumne'dhvany astamito hitvā brahmāṇḍagocaram",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "25",
+      "source": "sauṣuptapadavan mūḍhaḥ prabuddhaḥ syād anāvṛtaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "1",
+      "source": "pravartante'dhikārāya karaṇānīva dehinām",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "2",
+      "source": "sahārādhakacittena tenaite śivadharmiṇaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "3",
+      "source": "tatsaṃvedanarūpeṇa tādātmyapratipattitaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "4",
+      "source": "bhoktaiva bhogyabhāvena sadā sarvatra saṃsthitaḥ",
+      "tokens": 2,
+      "hypotheses": 6,
+      "energy": 0.0
+    },
+    {
+      "verse": "5",
+      "source": "sa paśyansatataṃ yukto jīvanmukto na saṃśayaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "6",
+      "source": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "7",
+      "source": "iyaṃ nirvāṇadīkṣā ca śivasadbhāvadāyinī",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "1",
+      "source": "somasūryodayaṃ kṛtvā sampādayati dehinaḥ",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "2",
+      "source": "nityaṃ sphuṭataraṃ madhye sthito'vaśyaṃ prakāśayet",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "3",
+      "source": "satataṃ laukikasyeva jāgratsvapnapadadvaye",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "4",
+      "source": "bhūyaḥ sphuṭataro bhāti svabalodyogabhāvitaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "5",
+      "source": "tattathā balamākramya na cirāt sampravartate",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "6",
+      "source": "ācchādayedbubhukṣāṃ ca tathā yo 'tibubhukṣitaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "7",
+      "source": "tathā svātmanyadhiṣṭhānāt sarvatraivaṃ bhaviṣyati",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "8",
+      "source": "tadunmeṣaviluptaṃ cet kutaḥ sā syādahetukā",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "9",
+      "source": "unmeṣaḥ sa tu vijñeyaḥ svayaṃ tamupalakṣayet",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "10",
+      "source": "pravartante 'cireṇaiva kṣobhakatvena dehinaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "11",
+      "source": "tadā kiṃ bahunoktena svayam evāvabhotsyate",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "12",
+      "source": "ekatrāropayetsarvaṃ tato 'nyena na pīḍyate",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "13",
+      "source": "kalāviluptavibhavo gataḥ sansa paśuḥ smṛtaḥ",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "14",
+      "source": "tenāsvatantratāmeti sa ca tanmātragocaraḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "15",
+      "source": "yataḥ śabdānuvedhena na vinā pratyayodbhavaḥ",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "16",
+      "source": "bandhayitrī svamārgasthā jñātā siddhyupapādikā",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "17",
+      "source": "puryaṣṭakena saṃruddhas tadutthaṃ pratyayodbhavam",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "18",
+      "source": "saṃsṛtipralayasyāsya kāraṇaṃ sampracakṣmahe",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "19",
+      "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+      "tokens": 0,
+      "hypotheses": 3,
+      "energy": 0.0
+    },
+    {
+      "verse": "1",
+      "source": "vande vicitrārthapadāṃ citrāṃ tāṃ gurubhāratīm",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    },
+    {
+      "verse": "2",
+      "source": "vasuguptavacchivāya hi bhavati sadā sarvalokasya",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "pipeline": "M3 — Bhairavastava adjudication",
+  "date": "2026-07-24",
+  "verses_total": 9,
+  "verses_ok": 9,
+  "verses_error": 0,
+  "results": [
+    {
+      "passage_id": "bhairavastava.1",
+      "verse": "1",
+      "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+      "tokens": 5,
+      "hypotheses": 12,
+      "energy": 0.0,
+      "interpretation": {
+        "token_0": "__unknown__(0.5688)",
+        "token_1": "__unknown__(0.5358)",
+        "token_2": "__unknown__(0.5358)",
+        "token_3": "hfd(0.6225)",
+        "token_4": "vand(0.6225)",
+        "compound": "bahuvrihi(0.6457)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_cmp_bhairavastava.1.readin": 0.3077,
+        "hyp_214f1682-1495-4980-99aa-c9": 0.6225,
+        "hyp_c3f11011-7753-448e-b0ca-69": 0.6225,
+        "compound_b3": 0.6457,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.2",
+      "verse": "2",
+      "source": "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam || AgBhaist_2",
+      "tokens": 7,
+      "hypotheses": 14,
+      "energy": 0.0,
+      "interpretation": {
+        "token_1": "ca(0.6225)",
+        "token_2": "mah(0.6225)",
+        "token_3": "dEva(0.6225)",
+        "token_4": "a(0.6225)",
+        "token_6": "mA(0.6225)",
+        "token_7": "tena(0.6225)",
+        "token_8": "samas(0.6225)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_374d18b0-88d9-48c9-87b7-4d": 0.6225,
+        "hyp_7d13b5fd-a476-459b-825e-99": 0.6225,
+        "hyp_7d39f0a5-2654-476b-b0f4-17": 0.4256,
+        "hyp_45907684-94dc-4b4c-b41b-e0": 0.6225,
+        "hyp_9b529e04-23a7-46b4-88ed-89": 0.4256,
+        "hyp_209649e0-a900-450c-9f5b-70": 0.6225,
+        "hyp_4bac2198-2e7d-478d-8d4f-a8": 0.4256,
+        "hyp_d7304d27-a596-4b1f-b2cb-d9": 0.4256,
+        "hyp_f61123f2-52b9-4883-9b74-06": 0.6225,
+        "hyp_bf783abc-dc81-4bc6-8648-53": 0.6225,
+        "hyp_59d72153-b8ea-4d65-9564-72": 0.6225,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.3",
+      "verse": "3",
+      "source": "satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu || AgBhaist_3",
+      "tokens": 1,
+      "hypotheses": 4,
+      "energy": 0.0,
+      "interpretation": {
+        "token_1": "api(0.6225)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_1e2bff69-e9c9-478f-80c9-bd": 0.6225,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.4",
+      "verse": "4",
+      "source": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+      "tokens": 0,
+      "hypotheses": 4,
+      "energy": 0.0,
+      "interpretation": {
+        "compound": "karmadharaya(0.69)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "compound_k4b": 0.69,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.5",
+      "verse": "5",
+      "source": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi || AgBhaist_5",
+      "tokens": 6,
+      "hypotheses": 11,
+      "energy": 0.0,
+      "interpretation": {
+        "token_0": "__unknown__(0.5358)",
+        "token_1": "nATa(0.6225)",
+        "token_2": "na(0.6225)",
+        "token_4": "na(0.6225)",
+        "token_5": "jAtu(0.6225)",
+        "token_6": "BI(0.6225)",
+        "compound": "tatpurusa(0.6682)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_cmp_bhairavastava.5.readin": 0.5358,
+        "hyp_149e2358-1374-4d20-8a94-ab": 0.6225,
+        "hyp_d6257ecb-8ea9-4200-82c8-9d": 0.6225,
+        "hyp_e6a15b81-82ad-4361-a0cb-ed": 0.4256,
+        "hyp_be01ea44-5a82-4733-99fc-1b": 0.6225,
+        "hyp_c20638a9-6e22-49e0-ba06-a3": 0.6225,
+        "hyp_31db9933-6646-4975-b6c9-ab": 0.6225,
+        "compound_t5": 0.6682,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.6",
+      "verse": "6",
+      "source": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+      "tokens": 4,
+      "hypotheses": 10,
+      "energy": 0.0,
+      "interpretation": {
+        "token_2": "aha(0.6225)",
+        "token_3": "a(0.6225)",
+        "token_4": "nirvf(0.6225)",
+        "token_5": "i(0.6225)",
+        "compound": "karmadharaya(0.69)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_31ae9ed0-53a2-4968-8e6c-0e": 0.6225,
+        "hyp_dfaeb63f-6323-43e5-829b-6d": 0.6225,
+        "hyp_f397c042-f00c-4684-a399-d3": 0.4256,
+        "hyp_fc7d2218-8271-4d05-8f30-d7": 0.4256,
+        "hyp_45ff7096-cd35-4b2f-9123-8d": 0.6225,
+        "hyp_0b082c81-0a7d-40dc-930e-e9": 0.6225,
+        "compound_k6": 0.69,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.7",
+      "verse": "7",
+      "source": "nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti || AgBhaist_7",
+      "tokens": 4,
+      "hypotheses": 9,
+      "energy": 0.0,
+      "interpretation": {
+        "token_0": "nATa(0.6225)",
+        "token_1": "eva(0.6225)",
+        "token_2": "mA(0.6225)",
+        "token_4": "udi(0.6225)",
+        "compound": "karmadharaya(0.69)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_2f1cbfb0-cbed-4ab5-93df-1e": 0.6225,
+        "hyp_5b15c496-12e6-4ec7-b741-11": 0.6225,
+        "hyp_8286d4ce-1574-4e65-9e79-a6": 0.4256,
+        "hyp_72b2adfb-fa95-46cc-aa51-f8": 0.6225,
+        "hyp_0fef72d0-d2a0-4747-8452-e9": 0.6225,
+        "compound_k7": 0.69,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.8",
+      "verse": "8",
+      "source": "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām || AgBhaist_8",
+      "tokens": 3,
+      "hypotheses": 10,
+      "energy": 0.0,
+      "interpretation": {
+        "token_1": "syand(0.6225)",
+        "token_2": "cit(0.6225)",
+        "token_3": "f(0.6225)",
+        "compound": "karmadharaya(0.69)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_026728e3-8e61-43d9-b280-fe": 0.6225,
+        "hyp_51c0457a-7e33-4091-984f-b3": 0.4256,
+        "hyp_d11aec60-035c-47ac-8aad-0b": 0.6225,
+        "hyp_3aa790da-ae93-419e-9a9e-8a": 0.6225,
+        "hyp_5943ef6c-4b96-4c90-9850-2b": 0.4256,
+        "hyp_a533ae19-1a22-466f-a460-6d": 0.4256,
+        "compound_k8b": 0.69,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    },
+    {
+      "passage_id": "bhairavastava.9",
+      "verse": "9",
+      "source": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+      "tokens": 6,
+      "hypotheses": 14,
+      "energy": 0.0,
+      "interpretation": {
+        "token_1": "prI(0.6225)",
+        "token_2": "Ap(0.6225)",
+        "token_3": "sudarSana(0.6225)",
+        "token_5": "dus(0.6225)",
+        "token_6": "aYji(0.6225)",
+        "token_7": "samayajYa(0.6225)",
+        "compound": "tatpurusa(0.69)",
+        "frame": "DevotionalAct(0.69)"
+      },
+      "beliefs": {
+        "hyp_2fae91b8-91e5-44f8-839c-43": 0.6225,
+        "hyp_738d15c3-e07e-4a65-adfe-4f": 0.6225,
+        "hyp_1df2cd33-81db-4da2-8d03-c6": 0.6225,
+        "hyp_cmp_bhairavastava.9.readin": 0.3415,
+        "hyp_498d85a8-2f39-416c-9862-2c": 0.6225,
+        "hyp_531f736d-68c9-476d-babd-d0": 0.4256,
+        "hyp_babb650b-7c10-425f-a339-af": 0.6225,
+        "hyp_d9e564e3-defb-49df-8ff4-f0": 0.4256,
+        "hyp_c0d24b7d-9c16-4137-92e7-15": 0.6225,
+        "compound_t9": 0.69,
+        "fr_dev": 0.69,
+        "fr_id": 0.3543,
+        "fr_pred": 0.4256
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1474 @@
+[
+  {
+    "passage_id": "bhairavastava.1",
+    "short_id": "bv.1",
+    "track": "a_known",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhairavanātham] [anāthaśaraṇyaṃ] [tvanmayacittatayā] [hṛdi] [vande] [AgBhaist_1]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] heart praise maya cit2",
+      "evidence": {
+        "lemmas": [
+          "hfd",
+          "vand",
+          "maya",
+          "cit2"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] hfd vand maya cit2",
+      "evidence": {
+        "lemmas": [
+          "hfd",
+          "vand",
+          "maya",
+          "cit2"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] hfd vand maya cit2",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "bhairavastava.4",
+    "short_id": "bv.4",
+    "track": "a_known",
+    "source": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[śaṅkarasevanacintanadhīro] [bhīṣaṇabhairavaśaktimayo] [smi] [AgBhaist_4]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] SaNkara sevana1 cintana DI2 iras",
+      "evidence": {
+        "lemmas": [
+          "SaNkara",
+          "sevana1",
+          "cintana",
+          "DI2",
+          "iras"
+        ],
+        "count": 5,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] SaNkara sevana1 cintana DI2 iras",
+      "evidence": {
+        "lemmas": [
+          "SaNkara",
+          "sevana1",
+          "cintana",
+          "DI2",
+          "iras"
+        ],
+        "count": 5,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] SaNkara sevana1 cintana DI2 iras",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "bhairavastava.6",
+    "short_id": "bv.6",
+    "track": "a_known",
+    "source": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhāvaparāmṛtanirbharapūrṇe] [tvayy] I [ātmani] [nirvṛtim] [emi] [AgBhaist_6]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[IdentityClaim] BAva parA aha a nirvf i",
+      "evidence": {
+        "lemmas": [
+          "BAva",
+          "parA",
+          "aha",
+          "a",
+          "nirvf",
+          "i"
+        ],
+        "count": 6,
+        "frame": "IdentityClaim"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[IdentityClaim] BAva parA aha a nirvf i",
+      "evidence": {
+        "lemmas": [
+          "BAva",
+          "parA",
+          "aha",
+          "a",
+          "nirvf",
+          "i"
+        ],
+        "count": 6,
+        "frame": "IdentityClaim"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[IdentityClaim] BAva parA aha a nirvf i",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.1.1",
+    "short_id": "sp.1.1",
+    "track": "a_known",
+    "source": "taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[taṃ] [śakticakravibhavaprabhavaṃ] [śaṃkaraṃ] [stumaḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] that power wheel-center viBava",
+      "evidence": {
+        "lemmas": [
+          "tad",
+          "Sakti",
+          "cakra",
+          "viBava"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] tad Sakti cakra viBava",
+      "evidence": {
+        "lemmas": [
+          "tad",
+          "Sakti",
+          "cakra",
+          "viBava"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] tad Sakti cakra viBava",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.1.5",
+    "short_id": "sp.1.5",
+    "track": "a_known",
+    "source": "na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "not [cāsti] [mūḍhabhāvopi] [tadasti] [paramārthataḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] mUDa that",
+      "evidence": {
+        "lemmas": [
+          "mUDa",
+          "tad"
+        ],
+        "count": 2,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] mUDa tad",
+      "evidence": {
+        "lemmas": [
+          "mUDa",
+          "tad"
+        ],
+        "count": 2,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] mUDa tad",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.2.6",
+    "short_id": "sp.2.1",
+    "track": "a_known",
+    "source": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[tadātmatāsamāpattir] [icchataḥ] [sādhakasya] [yā]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] tadAtmatAsamApattiH iz1 sADaka",
+      "evidence": {
+        "lemmas": [
+          "tadAtmatAsamApattiH",
+          "iz1",
+          "sADaka"
+        ],
+        "count": 3,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] tadAtmatAsamApattiH iz1 sADaka",
+      "evidence": {
+        "lemmas": [
+          "tadAtmatAsamApattiH",
+          "iz1",
+          "sADaka"
+        ],
+        "count": 3,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] tadAtmatAsamApattiH iz1 sADaka",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "bhagavad_gita.x.47.41e7",
+    "short_id": "bg.2.47",
+    "track": "a_known",
+    "source": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhg] [247] [karmaṇy] [evādhikāras] [te] [mā] [phaleṣu] [kadācana] [mā] [karmaphalahetur]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] aDikf tA mA Pal katT mA Pal become mA tA akarman",
+      "evidence": {
+        "lemmas": [
+          "aDikf",
+          "tA",
+          "mA",
+          "Pal",
+          "katT",
+          "mA",
+          "Pal",
+          "BU",
+          "mA",
+          "tA",
+          "akarman"
+        ],
+        "count": 11,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] aDikf tA mA Pal katT mA Pal BU mA tA akarman",
+      "evidence": {
+        "lemmas": [
+          "aDikf",
+          "tA",
+          "mA",
+          "Pal",
+          "katT",
+          "mA",
+          "Pal",
+          "BU",
+          "mA",
+          "tA",
+          "akarman"
+        ],
+        "count": 11,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] aDikf tA mA Pal katT mA Pal BU mA tA akarman",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "bhagavad_gita.x.45.c4b1",
+    "short_id": "bg.11.45",
+    "track": "a_known",
+    "source": "bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhg] [145] [yadi] [mām] [apratīkāram] [aśastraṃ] [śastrapāṇayaḥ] [dhārtarāṣṭrā] [raṇe] [hanyus]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] yadi mA aprati Sastra aS raRvi han tan mA become",
+      "evidence": {
+        "lemmas": [
+          "yadi",
+          "mA",
+          "aprati",
+          "Sastra",
+          "aS",
+          "raRvi",
+          "han",
+          "tan",
+          "mA",
+          "BU"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] yadi mA aprati Sastra aS raRvi han tan mA BU",
+      "evidence": {
+        "lemmas": [
+          "yadi",
+          "mA",
+          "aprati",
+          "Sastra",
+          "aS",
+          "raRvi",
+          "han",
+          "tan",
+          "mA",
+          "BU"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] yadi mA aprati Sastra aS raRvi han tan mA BU",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.28",
+    "short_id": "vb.28",
+    "track": "a_known",
+    "source": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[cintayet] [tāṃ] [dviṣaṭkānte] [śyāmyantīm] [bhairavodayaḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] dvi",
+      "evidence": {
+        "lemmas": [
+          "dvi"
+        ],
+        "count": 1,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] dvi",
+      "evidence": {
+        "lemmas": [
+          "dvi"
+        ],
+        "count": 1,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] dvi",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.55",
+    "short_id": "vb.55",
+    "track": "a_known",
+    "source": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[praviśya] [hṛdaye] [dhyāyan] [muktaḥ] [svātantryam] [āpnuyāt]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] [no recognized vocabulary]",
+      "evidence": {
+        "lemmas": [],
+        "count": 0,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] [no lemmas]",
+      "evidence": {
+        "lemmas": [],
+        "count": 0,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "REJECT",
+      "translation": null,
+      "violations": [
+        {
+          "rule": "INSUFFICIENT_COVERAGE",
+          "detail": "Only 0 lemmas for 50 chars of source",
+          "severity": "ERROR"
+        }
+      ]
+    }
+  },
+  {
+    "passage_id": "mbt.v1.34.9bf9",
+    "short_id": "mbt.1.34",
+    "track": "b_untranslated",
+    "source": "१५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[१५३] [सनततपरसरघ] [सयननरननद] [च] [स] [कल] [ससर] [५४] [वरतत] [तसमत]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] be and she kal saMsf vft tasmAt taraMgiRI parA kal",
+      "evidence": {
+        "lemmas": [
+          "as",
+          "ca",
+          "sA",
+          "kal",
+          "saMsf",
+          "vft",
+          "tasmAt",
+          "taraMgiRI",
+          "parA",
+          "kal"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] as ca sA kal saMsf vft tasmAt taraMgiRI parA kal",
+      "evidence": {
+        "lemmas": [
+          "as",
+          "ca",
+          "sA",
+          "kal",
+          "saMsf",
+          "vft",
+          "tasmAt",
+          "taraMgiRI",
+          "parA",
+          "kal"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] as ca sA kal saMsf vft tasmAt taraMgiRI parA kal",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "mbt.v3.50.2ae8",
+    "short_id": "mbt.1.50",
+    "track": "b_untranslated",
+    "source": "तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[तनमधय] [चधकर६] [त] [मनथनसय] [महतपर] [मनथनभरव] [शकतरभदन] [कलकलन] [५०]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] tan but not mah",
+      "evidence": {
+        "lemmas": [
+          "tan",
+          "tu",
+          "na",
+          "mah"
+        ],
+        "count": 4,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] tan tu na mah",
+      "evidence": {
+        "lemmas": [
+          "tan",
+          "tu",
+          "na",
+          "mah"
+        ],
+        "count": 4,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] tan tu na mah",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "mbt.v1.6.d902",
+    "short_id": "mbt.2.6",
+    "track": "b_untranslated",
+    "source": "श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमानन्दशक्तिस्तु ँ सा श",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[शरनथ] [उवच] [मणडलनत] [त] [क] [कत] [मणडल] [त] [कथ] [भवत]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] glorious-lord speak mandala but kas kati but become she kaTam",
+      "evidence": {
+        "lemmas": [
+          "SrInATa",
+          "vac",
+          "maRqala",
+          "tu",
+          "kas",
+          "kati",
+          "tu",
+          "BU",
+          "sA",
+          "kaTam"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] SrInATa vac maRqala tu kas kati tu BU sA kaTam",
+      "evidence": {
+        "lemmas": [
+          "SrInATa",
+          "vac",
+          "maRqala",
+          "tu",
+          "kas",
+          "kati",
+          "tu",
+          "BU",
+          "sA",
+          "kaTam"
+        ],
+        "count": 10,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] SrInATa vac maRqala tu kas kati tu BU sA kaTam",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "mbt.v1.14.6f6f",
+    "short_id": "mbt.2.14",
+    "track": "b_untranslated",
+    "source": "एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” कथं ज्ञास्यन्ति पुत्",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[एतत] [सरव] [समसन] [पजयसदभवनरणयम] [तसयषटदशभदन] [कथ] [जञसयनत] [पतरक] [१४]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] etad samas know putraka",
+      "evidence": {
+        "lemmas": [
+          "etad",
+          "samas",
+          "jYA",
+          "putraka"
+        ],
+        "count": 4,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] etad samas jYA putraka",
+      "evidence": {
+        "lemmas": [
+          "etad",
+          "samas",
+          "jYA",
+          "putraka"
+        ],
+        "count": 4,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] etad samas jYA putraka",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.79",
+    "short_id": "vb.79",
+    "track": "b_untranslated",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[kakṣavyomni] [manaḥ] [kurvan] [śamam] [āyāti] [tallayāt]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] kakza kurvat",
+      "evidence": {
+        "lemmas": [
+          "kakza",
+          "kurvat"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] kakza kurvat",
+      "evidence": {
+        "lemmas": [
+          "kakza",
+          "kurvat"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] kakza kurvat",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.102",
+    "short_id": "vb.102",
+    "track": "b_untranslated",
+    "source": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhramad] [vā] [dhyāyataḥ] [sarvam] [paśyataś] and [sukhodgamaḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] Bramat paS",
+      "evidence": {
+        "lemmas": [
+          "Bramat",
+          "paS"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] Bramat paS",
+      "evidence": {
+        "lemmas": [
+          "Bramat",
+          "paS"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] Bramat paS",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.132",
+    "short_id": "vb.132",
+    "track": "b_untranslated",
+    "source": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[śabdān] [pratikṣaṇaṃ] [dhyāyan] [kṛtārtho] [rthānurūpataḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] pratikṣaṇa kṛta kfta",
+      "evidence": {
+        "lemmas": [
+          "pratikṣaṇa",
+          "kṛta",
+          "kfta"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] pratikṣaṇa kṛta kfta",
+      "evidence": {
+        "lemmas": [
+          "pratikṣaṇa",
+          "kṛta",
+          "kfta"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] pratikṣaṇa kṛta kfta",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.3.19",
+    "short_id": "sp.3.4",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[niyacchan] [bhoktṛtām] [eti] [tataś] [cakreśvaro] [bhavet]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "evidence": {
+        "lemmas": [
+          "ni-yacCat"
+        ],
+        "count": 1,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "evidence": {
+        "lemmas": [
+          "ni-yacCat"
+        ],
+        "count": 1,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.3.19",
+    "short_id": "sp.3.9",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[niyacchan] [bhoktṛtām] [eti] [tataś] [cakreśvaro] [bhavet]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "evidence": {
+        "lemmas": [
+          "ni-yacCat"
+        ],
+        "count": 1,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "evidence": {
+        "lemmas": [
+          "ni-yacCat"
+        ],
+        "count": 1,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] ni-yacCat",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "bhairavastava.9",
+    "short_id": "bv.9",
+    "track": "b_untranslated",
+    "source": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[tvāṃ] [priyam] [āpya] [sudarśanam] [ekaṃ] [durlabham] [anyajanaiḥ] [samayajñam] [AgBhaist_9]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] prI Ap sudarSana eka dus aYji samayajYa samaya jYa",
+      "evidence": {
+        "lemmas": [
+          "prI",
+          "Ap",
+          "sudarSana",
+          "eka",
+          "dus",
+          "aYji",
+          "samayajYa",
+          "samaya",
+          "jYa"
+        ],
+        "count": 9,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] prI Ap sudarSana eka dus aYji samayajYa samaya jYa",
+      "evidence": {
+        "lemmas": [
+          "prI",
+          "Ap",
+          "sudarSana",
+          "eka",
+          "dus",
+          "aYji",
+          "samayajYa",
+          "samaya",
+          "jYa"
+        ],
+        "count": 9,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] prI Ap sudarSana eka dus aYji samayajYa samaya jYa",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "mbt.v1.10.0d90",
+    "short_id": "mbt.1.10",
+    "track": "c_adversarial",
+    "source": "मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमारं तथा वृद्धक्रमं कथम",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[मरतमधय] [कथ] [तचच] [मदर] [ततरव] [कदश] [बलकरम] [च] [कमर] [तथ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] that gesture f kIdfS and taTA kaTam",
+      "evidence": {
+        "lemmas": [
+          "tad",
+          "mudra",
+          "f",
+          "kIdfS",
+          "ca",
+          "taTA",
+          "kaTam"
+        ],
+        "count": 7,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] tad mudra f kIdfS ca taTA kaTam",
+      "evidence": {
+        "lemmas": [
+          "tad",
+          "mudra",
+          "f",
+          "kIdfS",
+          "ca",
+          "taTA",
+          "kaTam"
+        ],
+        "count": 7,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] tad mudra f kIdfS ca taTA kaTam",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "mbt.v3.67.34bc",
+    "short_id": "mbt.1.67",
+    "track": "c_adversarial",
+    "source": "ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[ईशवर] [पञचवकतरसतव] [जञनरथ] [रदरसजञक] [तरलकय] [२८२] [तव] [गर] [२८३] [करत]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] IS know speak teacher do hati and punar punar vA pArTiva family that jagannATa tva",
+      "evidence": {
+        "lemmas": [
+          "IS",
+          "jYA",
+          "vac",
+          "guru",
+          "kf",
+          "hati",
+          "ca",
+          "punar",
+          "punar",
+          "vA",
+          "pArTiva",
+          "kula",
+          "tad",
+          "jagannATa",
+          "tva"
+        ],
+        "count": 15,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] IS jYA vac guru kf hati ca punar punar vA pArTiva kula tad jagannATa tva",
+      "evidence": {
+        "lemmas": [
+          "IS",
+          "jYA",
+          "vac",
+          "guru",
+          "kf",
+          "hati",
+          "ca",
+          "punar",
+          "punar",
+          "vA",
+          "pArTiva",
+          "kula",
+          "tad",
+          "jagannATa",
+          "tva"
+        ],
+        "count": 15,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] IS jYA vac guru kf hati ca punar punar vA pArTiva kula tad jagannATa tva",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.11",
+    "short_id": "vb.11",
+    "track": "c_adversarial",
+    "source": "na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "not [cāsau] [triśirā] [devo] not and [śaktitrayātmakaḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[DevotionalAct] triSirA śakti",
+      "evidence": {
+        "lemmas": [
+          "triSirA",
+          "śakti"
+        ],
+        "count": 2,
+        "frame": "DevotionalAct"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[DevotionalAct] triSirA śakti",
+      "evidence": {
+        "lemmas": [
+          "triSirA",
+          "śakti"
+        ],
+        "count": 2,
+        "frame": "DevotionalAct"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[DevotionalAct] triSirA śakti",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "short_id": "sp.1.13",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[tasyānāvṛtarūpatvān] not [nirodhosti] [kutracit]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.61",
+    "short_id": "vb.61",
+    "track": "c_adversarial",
+    "source": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[yugapac] and [dvayaṃ] [tyaktvā] [madhye] [tattvam] [prakāśate]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] yugapad",
+      "evidence": {
+        "lemmas": [
+          "yugapad"
+        ],
+        "count": 1,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] yugapad",
+      "evidence": {
+        "lemmas": [
+          "yugapad"
+        ],
+        "count": 1,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] yugapad",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "short_id": "sp.1.15",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[tasyānāvṛtarūpatvān] not [nirodhosti] [kutracit]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.36",
+    "short_id": "vb.36",
+    "track": "c_adversarial",
+    "source": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[dṛṣṭe] [bindau] [kramāl] [līne] [tanmadhye] [paramā] [sthitiḥ]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] [no recognized vocabulary]",
+      "evidence": {
+        "lemmas": [],
+        "count": 0,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] [no lemmas]",
+      "evidence": {
+        "lemmas": [],
+        "count": 0,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "REJECT",
+      "translation": null,
+      "violations": [
+        {
+          "rule": "INSUFFICIENT_COVERAGE",
+          "detail": "Only 0 lemmas for 49 chars of source",
+          "severity": "ERROR"
+        }
+      ]
+    }
+  },
+  {
+    "passage_id": "bhairavastava.1",
+    "short_id": "bv.1",
+    "track": "c_adversarial",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[bhairavanātham] [anāthaśaraṇyaṃ] [tvanmayacittatayā] [hṛdi] [vande] [AgBhaist_1]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] heart praise maya cit2",
+      "evidence": {
+        "lemmas": [
+          "hfd",
+          "vand",
+          "maya",
+          "cit2"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] hfd vand maya cit2",
+      "evidence": {
+        "lemmas": [
+          "hfd",
+          "vand",
+          "maya",
+          "cit2"
+        ],
+        "count": 4,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] hfd vand maya cit2",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "short_id": "sp.1.1",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[tasyānāvṛtarūpatvān] not [nirodhosti] [kutracit]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "evidence": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "count": 3,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] anAvfta rUpatva anna",
+      "violations": []
+    }
+  },
+  {
+    "passage_id": "vb.79",
+    "short_id": "vb.79",
+    "track": "c_adversarial",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "A2_literal": {
+      "system": "A2_literal",
+      "translation": "[kakṣavyomni] [manaḥ] [kurvan] [śamam] [āyāti] [tallayāt]",
+      "evidence": {
+        "type": "dictionary_only",
+        "source": "builtin_gloss"
+      }
+    },
+    "B2_retrieval": {
+      "system": "B2_retrieval",
+      "translation": "[Instruction] kakza kurvat",
+      "evidence": {
+        "lemmas": [
+          "kakza",
+          "kurvat"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "C_sanskritree": {
+      "system": "C_sanskritree",
+      "translation": "[Instruction] kakza kurvat",
+      "evidence": {
+        "lemmas": [
+          "kakza",
+          "kurvat"
+        ],
+        "count": 2,
+        "frame": "Instruction"
+      }
+    },
+    "D_publication_gate": {
+      "system": "D_publication_gate",
+      "status": "PASS",
+      "translation": "[Instruction] kakza kurvat",
+      "violations": []
+    }
+  }
+]
