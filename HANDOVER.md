@@ -143,3 +143,111 @@ The comparisons are what produce learning signals. Without references, every tra
 
 ### Reusable design
 The same pipeline works for any Sanskrit text with verse-aligned English translations: ingest → blind translate → compare → classify → fix → re-run. After proving on Spandakārikā, apply to Vijñānabhairava, Kiraṇatantra, etc.
+
+---
+
+## 🧠 What the next agent needs to know (informal notes to myself)
+
+### First-day checklist
+
+1. **Check disk space** — `df -h /`. If <3GB free, clean with `rm -rf /tmp/hf && pip cache purge`. The HF cache fills up fast.
+2. **Run the tests** — `cd /root/projects/sanskritree && PYTHONPATH=src python3 -m unittest tests.test_pipeline -v`. Expect 16/16 pass. If less, something is broken.
+3. **Check Lean builds** — `cd lean && lake build Sanskritree`. Should succeed silently. If it fails, check `lean-toolchain` matches installed Lean version.
+4. **Run recall CI** — `PYTHONPATH=src python3 scripts/recall_ci.py`. See the coverage numbers. If many verses are missing, the benchmark needs regeneration.
+5. **Check Spandakārikā coverage** — Use the command from `docs/ingestion_checkpoint1.md`.
+
+### Database: what's in there
+
+The main DB is at `data/sanskritree-v2.db` (368 MB). Everything lives there. If you nuke it, you lose all hypotheses, adjudications, evaluations — everything except the raw source files.
+
+**Key tables when you're debugging:**
+- `token_analysis_hypothesis` — every candidate analysis from every engine (136K rows)
+- `adjudication_decisions` — human decisions about which analysis is correct (511 rows)
+- `translation_evaluations` — A/B comparison results (28 rows)
+- `translation_errors` — error annotations from evaluation (24 rows)
+- `lexeme` — all known word lemmas (6K)
+- `passage_relation` — commentary-to-verse links (370 for Spanda)
+- `compound_tree_hypothesis` — nested compound parses (6 trees)
+
+### Common things that break
+
+**1. ImportError when running scripts**
+```python
+# WRONG — scripts/ isn't a package
+from scripts.recall_ci import evaluate_candidate_recall  # ImportError
+
+# RIGHT — use PYTHONPATH=src and import from the module
+# or just inline the code
+```
+Always use `PYTHONPATH=src python3 scripts/<name>.py`. Never try to `import scripts`.
+
+**2. morph_analysis_type FK errors**
+This is the most common DB error. The `morph_analysis_type` table has a foreign key to `lexeme`. If a lexeme doesn't exist when you insert an analysis type, you get a silent failure (with `INSERT OR IGNORE`) or a crash (with `INSERT`).
+
+**The fix pattern:**
+```python
+# Always look up the lexeme first
+existing = conn.execute("SELECT lexeme_id FROM lexeme WHERE lemma_slp1=?", (lemma,)).fetchone()
+if existing:
+    lid = existing[0]
+else:
+    lid = f"lex_mynew_{lemma}"
+    conn.execute("INSERT INTO lexeme (lexeme_id, lemma_slp1, ...) VALUES (?,?,...)", (lid, lemma, ...))
+```
+
+**3. Heritage web API timeouts**
+The remote API at INRIA can be slow or drop connections. The wrapper retries 3 times with 10s timeout. If a verse shows `HERITAGE_TIMEOUT`, just re-run it — it might work the second time.
+
+**4. Passage IDs don't match between benchmark and DB**
+The pilot uses short IDs like `bv.1` but the DB uses full IDs like `bhairavastava.1`. The fix was applied in v0.3 — the recall CI now uses canonical DB IDs. If you regenerate the pilot, it uses DB IDs.
+
+### Spandakārikā: current state
+
+- 53 verses in DB
+- 67% token coverage (163/246 tokens)
+- 41 commentary blocks linked via 370 passage_relation links
+- 3 ALL_ENGINES_MISS verses fixed via staged fallback
+- Remaining low-coverage: 8 verses with ≤1 lemma (mostly VB rare vocabulary)
+
+**The 3 ALL_ENGINES_MISS verses that were fixed:**
+- `sp.1.5` (na cāsti mūḍhabhāvo'pi) — now has `seeded` hypotheses
+- `sp.3.4` (niyacchan bhoktṛtām eti) — now has `seeded` hypotheses  
+- `sp.3.9` (same as 3.4 — duplicate in pilot)
+
+**To push coverage higher:** Run Heritage retry on the 8 low-coverage verses. The web API is flaky but usually works on retry. Each verse takes ~2-5s.
+
+### What NOT to do
+
+1. **Don't train a neural model** yet. We have 511 adjudications, not 5,000. Learned ranking will mostly learn noise at this size.
+2. **Don't migrate to STAM/nanopublications.** The vision2.md/visionothers.md debate settled this: standards through adapters, not migration.
+3. **Don't build local Heritage** — the web API benchmark showed 90% success on hard cases. Local install would take 4-8h and solve at most 2-3 timeout verses.
+4. **Don't expand to Vijñānabhairava** until Spandakārikā is through Checkpoint 1.
+5. **Don't optimize toward agreement with Dyczkowski.** References are diagnostic signals, not ground truth. The defensible-reading rate is the real metric.
+
+### How to find things
+
+| What you need | Where to look |
+|---------------|---------------|
+| Factor graph code | `src/sanskritree/inference/factor_graph.py` |
+| The 5 factors | `src/sanskritree/inference/factors.py` |
+| Propagation algorithm | `src/sanskritree/inference/propagation.py` |
+| Score decomposition | `src/sanskritree/inference/scoring.py` |
+| Action detection keywords | `src/sanskritree/semantics/ritual_frames.py` |
+| Evaluation tables | `scripts/t2_ab_evaluation.py` |
+| Candidate CI | `scripts/recall_ci.py` |
+| B2 vs C experiment | `scripts/v04_experiment.py` |
+| Lean modules | `lean/Sanskritree/Decision.lean`, `LayerB.lean` |
+| All reference docs | `ref/README.md` (there's a decision tree) |
+| Checkpoint 1 plan | `docs/guidenow.md` |
+
+### The actual execution for this week
+
+If I were picking this up right now, I would:
+
+1. **Day 1:** Run `recall_ci.py` to get baseline coverage. Run `v04_experiment.py --report` to see the B2 vs C comparison. Read `docs/guidenow.md` carefully.
+2. **Day 2:** Ingest reference translations for Spandakārikā. Dyczkowski and Singh are the two main ones. Add them to the DB with verse-level alignment.
+3. **Day 3:** Run blind translation on all 53 verses. Save everything. Don't look at references yet.
+4. **Day 4:** Compare against references. Classify disagreements. Find the top 3 systematic error classes.
+5. **Day 5:** Fix the #1 error class. Re-run blind translation. Measure improvement.
+
+The most important rule: **blind translate first, compare after.** If you peek at the references before generating, the whole evaluation is contaminated.
