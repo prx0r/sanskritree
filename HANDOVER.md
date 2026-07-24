@@ -89,6 +89,25 @@ cd lean && lake build Sanskritree && cd ..            # Lean verification
 | `docs/sprint_v04.md` | v0.4 experiment plan |
 | `docs/next_steps.md` | Milestone tracking |
 
+## Logical Texts Roadmap (after Checkpoint 1)
+
+The texts in `ref/targetslogic.md` have **explicit argument structure** — premises, inferences, objections, replies — that maps directly to our factor graph. Each argument step is a node, inference relations are edges, contradictions are constraints.
+
+### Translation order
+
+| Priority | Text | Verses | Why this order |
+|----------|------|--------|---------------|
+| 1 | **Tarkasaṃgraha** (Annaṃbhaṭṭa) | ~80 | Shortest, simplest. Nyāya-Vaiśeṣika categories primer. Multiple translations exist for comparison. |
+| 2 | **Nyāyasūtra** (Gautama) | ~200 | Foundational logic. Aphoristic. Every sūtra is a logical atom. Well-studied. |
+| 3 | **Nyāyabindu** (Dharmakīrti) | ~100 | Buddhist epistemology. Clear inference structure. Tests cross-school logic. |
+| 4 | **Vākyapadīya** (Bhartṛhari) | ~1,000 | Language philosophy. Sphoṭa theory maps to our semantic frames. Modular sections. |
+| 5 | **Kiraṇatantra 1-6** | 174 | Śaiva ontology arguing against rival systems. Commentary adds depth. |
+| 6 | **Ratnatrayaparīkṣā** (Śrīkaṇṭha) | 324 | Genuinely untranslated — final test after pipeline proven on translated texts. |
+
+The "logical geometry" is most tractable for Tarkasaṃgraha and Nyāyasūtra — they're taxonomies of inference patterns, exactly what a factor graph models. Mīmāṃsā texts (Śābarabhāṣya, Ślokavārttika) are the hardest — long, dense, deeply commentarial.
+
+**But first:** Spandakārikā (53 verses, 67% coverage, multiple translations for comparison). Prove the pipeline. Then these.
+
 ## Checkpoint 1: Spandakārikā Translation Pipeline
 
 The system improves by being wrong in measurable ways. Every translation disagreement with a reference is a training signal.
