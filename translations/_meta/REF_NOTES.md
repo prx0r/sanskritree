@@ -15,11 +15,12 @@
 
 1. **The period-cluster first** — read the other texts of the same period in the corpus before translating a new one. The 10th-c. Kaula lexicon (the glossary's terms) is the entry ticket.
 2. **The glossary** — check every technical term's attested senses (range, not default). If a term is unregistered, register it with its first attestation.
-3. **The anchors** — the published translations, quoted, not paraphrased. The Dyczkowski stack is the master; the round-2 sources (Sanderson's Śaiva Age, the Rājataraṅgiṇī) are the period-context.
-4. **The TĀ as the doctrinal oracle** — every doctrine in the corpus has a TĀ-treatment; check it (the mātṛkā in TĀ 3–4, the pañcāmṛta in TĀ 29, the four-speech in TĀ 15). The oracle is on disk.
-5. **The colophons and the geography** — the Candra-dvīpa, Kāmarūpa, Vārāṇasī of the colophons are the transmission's self-location; the pīṭha-lists map it.
-6. **The biographies** — the author's lineage, dates, teachers (the Rājānaka Rāma biography in Dyczkowski's Stanzas is the model; the Matsyendranāth biography — the Kaivarta-origin — explains the fish-myth).
-7. **The prints** — the last resort and the only resolution of the [X]-flags. The e-texts are the base; the prints decide.
+3. **The reference map** (`corpus/targets/canonical_reference_map.md`) — the scholarly dossiers: for any lemma (kula, krama, khecarī, śakti, visarga...), it gives the tradition-by-tradition sense-trajectory with primary loci (Sanderson, KMT, TĀ). Consult it BEFORE choosing a sense; the translation cites both our corpus's attestations (the glossary) and scholarship's (the map). Its "sequence... only when sectarian identity is demonstrable" style warnings govern capitalization and school-inference.
+4. **The anchors** — the published translations, quoted, not paraphrased. The Dyczkowski stack is the master; the round-2 sources (Sanderson's Śaiva Age, the Rājataraṅgiṇī) are the period-context.
+5. **The TĀ as the doctrinal oracle** — every doctrine in the corpus has a TĀ-treatment; check it (the mātṛkā in TĀ 3–4, the pañcāmṛta in TĀ 29, the four-speech in TĀ 15). The oracle is on disk.
+6. **The colophons and the geography** — the Candra-dvīpa, Kāmarūpa, Vārāṇasī of the colophons are the transmission's self-location; the pīṭha-lists map it.
+7. **The biographies** — the author's lineage, dates, teachers (the Rājānaka Rāma biography in Dyczkowski's Stanzas is the model; the Matsyendranāth biography — the Kaivarta-origin — explains the fish-myth).
+8. **The prints** — the last resort and the only resolution of the [X]-flags. The e-texts are the base; the prints decide.
 
 **The gem:** the cross-text check is the highest-yield context-move. The gamāgame-correction (the KJN 14/136 parallel settling the Akulavīra's misreading) cost nothing and caught a real error. Always ask: does this collocation appear elsewhere in the corpus?
 

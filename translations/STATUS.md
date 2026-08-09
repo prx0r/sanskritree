@@ -55,7 +55,18 @@
 - 189 verses adjudicated and interpreted (the crux-set)
 - ~1,600–1,800 verses in T1 across 15 works (+ ~340 legacy) + **the Hop-1 kula-batch openings (2026-08-09): Jñānakārikā 2–3 complete, Kaularahasya 1–3, Kulapradīpa 1.1–72, Kulālaśāstra 1–2, Kaulārcanadīpikā opening, Kuladīpikā 1–2 opening, Nityākaulatantra readable-complete**
 
-## ERROR-MEASUREMENT (2026-08-09 — see `_meta/ERROR_MEASUREMENT.md`)
+## The reference stack (consult before each batch)
+
+| Doc | Role | Where |
+|-----|------|-------|
+| the leapfrog map | the route (the 10 hops, the batch order) | `corpus/targets/leapfrog_map.md` |
+| the leapfrog guide | the engine-design (the dialect-genealogy, the corpus ladder) | `corpus/targets/leapfrog_guide.md` |
+| the canonical reference map | the historical spine + the glossary dossiers (period/tradition/loci) | `corpus/targets/canonical_reference_map.md` |
+| markguidance | the Hop 3–4 translation-orders (the Recognition Enquiry) | `corpus/targets/markguidance.md` |
+| the Craft | the per-pass attitudes + the context-stack (the reference map is item 3) | `translations/_meta/REF_NOTES.md` |
+| the endgame spec | the site's supply-chain (what each output must leave behind) | `corpus/learning/ENDGAME_SITE_SPEC.md` |
+
+## The error-measurement (2026-08-09 — see `_meta/ERROR_MEASUREMENT.md`)
 
 | Text | Sample | agree | lexical | doctrinal | error |
 |------|--------|-------|---------|-----------|-------|
