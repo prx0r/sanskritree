@@ -10,7 +10,7 @@
 
 **The immediate batch order (given what is now on disk):**
 1. **Hop 1 finish** — the Jñānakārikā + Kaulopaniṣad + Kaularahasya (the bundle's last texts), THEN the kula-manuals — with the **Bagchi collation** resolving the [X]-backlog as we go, and the Chandrikā (post-OCR) anchoring the Kulānanda's R2.
-2. **Hop 10's entry** — the **Tarkasaṃgraha full translation** (anchors in: the 1872 English + Athalye): the Navya hop's on-ramp, doable now.
+2. **Hop 10's entry** — the **Tarkasaṃgraha full translation** — **T1 started** (`01_t1_working/tarkasamgraha_t1.md`, the opening AnTs 1–56 sample): the anchors are in (the 1872 English + Athalye — the reading-layer OCR-pending).
 3. **Hop 3 (the Krama)** — the Mahānayaprakāśa, the crown: start while Hop 1's collation runs.
 
 **The route at a glance**

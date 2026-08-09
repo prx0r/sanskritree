@@ -21,6 +21,7 @@
 | Kaulāvalīnirṇaya | partial (opening) | done | done | done | partial | done | none |
 | Nityākaulatantra | partial (opening) | done | done | done | partial | done | none |
 | Spanda Vivṛti (Rājānaka Rāma) | partial (opening) | done | done | done | partial | done | Dyczkowski ✓ |
+| **Tarkasaṃgraha** (Annaṃbhaṭṭa — Hop 10 entry) | partial (the opening, AnTs 1–56 sample) | pending | pending | pending | pending | pending | the 1872-English + Athalye (reading-layer pending) |
 
 ## The pre-pipeline works (in-place, 00_legacy)
 
