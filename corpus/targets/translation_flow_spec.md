@@ -139,3 +139,14 @@ T1 (working translation) → R1 (review of T1)
 3. **Then the unanchored complete texts** (Kubjikā, KJN) — T2 with the S1/S2 strategies; the anchors' absence raises the OPEN-rate expected (a finding, recorded).
 4. **The openings** (the 10-text batch) — T2 for the openings only; T3 deferred until the texts are completed.
 5. **The anchors keep coming** — every book downloaded upgrades the R2-adjudications; the flow is designed so that anchors enter where they exist and the honesty-markers cover where they don't.
+
+---
+
+## 8. The C1 phase (the commentary pass — the next horizon)
+
+After T3-FINAL: **C1** — the commentary pass that "looks at all of this and does its own research on interpretation."
+
+- **Input:** the full stack (T1 + R1 + T2 + R2 + T3 per text).
+- **C1's work per text:** (1) take the T3-adjudicated verses and the R2-commentary-chains; (2) do its OWN research — the anchors re-read (the Dyczkowski-stack, the Śaiva Age, the Rājataraṅgiṇī, the prints), the Wikipedia/period-context checks, the cross-text quotations (the TĀ's treatment of each doctrine: the pañcāmṛta in TĀ 29, the mātṛkā in TĀ 3-4, the four-speech in TĀ 15); (3) grow each commentary-note into a full entry: the doctrine, the parallels, the period-context, the OPEN-forks re-examined with fresh evidence; (4) produce the per-text commentary doc (`c1_{text}.md`).
+- **C1's independence-rule:** it must NOT merely repeat the R2-chains — it re-derives from the evidence, and it may overturn the T3-readings (a commentary that never challenges its own stack is decoration).
+- **The C1-verification flags:** the [X]-items marked in the R2s ("the trivikrama-resonance", "the Anurādhā-nakṣatra", the dating-claims) are C1's first assignments.
