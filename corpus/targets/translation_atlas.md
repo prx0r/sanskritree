@@ -502,3 +502,18 @@ Full spec: `corpus/targets/translation_flow_spec.md`. **T1 → R1 → T2 → R2 
 - **T3** = the final synthesis — the only artifact allowed the word "complete"
 
 Per-text status lines: `T1-done → R1-done → T2-done → R2-done → T3-FINAL`. The flow IS the error-measurement (hard-core/OPEN rates published per text); the anti-cheat structure counters the self-review bias; the anchors are the referee in R2.
+
+---
+
+# P3/T2 COMPLETE (2026-08-09) — the alternative-reading pass over everything
+
+| P3 doc | Text | Live forks found |
+|--------|------|------------------|
+| `truth/p3_sivasutra_t2.md` | Śivasūtra (14 crux-verses) | 1.1 one's-own · 1.7 the savoring · 1.10 the apposition · 1.13 C1 · 3.19 the binding-mothers · 3.40 the drivable · 3.44 the dismissal |
+| `truth/p3_akulavira_t2.md` | Akulavīra 19–155 (13) | **v.65 akula-vīra name-split — a T1 mis-split caught** · 19 paired rituals · 39 emendation · 78 verbal-negation · 152 state-of-difference |
+| `truth/p3_kubjika_t2.md` | Kubjikā (12) | **1.14 bhāva = the state (the paṭala-7 connection)** · 2.1 artha = goal · 6.67 the Womb-Seal · 10.1 the medical register |
+| `truth/p3_kjn_t2.md` | KJN (12) | **2/8 the Lord's two steps** · 5/15 the triple · 6/4 the name-capital · 16/27 the epithets |
+| `truth/p3_kulananda_unmatta_t2.md` | Kulānanda + Unmattabhairava (11) | **Kulānanda 10 the entered-possession (the KJN-parallel)** · 55 through-the-union · Unmattabhairava K4 the obstructing-one |
+| `truth/p3_ten_batch_and_vivrtti_t2.md` | the 10-text batch + Vivṛti (10) | the names-vs-rendered layer (Kākacaṇḍeśvarīmata, Nityākaulatantra, the Vivṛti's "the Pulse") |
+
+**The P3-finds:** every text's T2 caught at least one genuine interpretive fork; the best: Akulavīra 65 (the title-word mis-split as a pair in T1), Kubjikā 1.14 (bhāva = the state — the paṭala-7 connection), KJN 2/8 (the Lord's two steps as the cosmogony), Kulānanda 10 (āveśa as the entered-state). **The next phase: R2 per text (the T1-vs-T2 adjudications) → T3-FINAL per text.**
