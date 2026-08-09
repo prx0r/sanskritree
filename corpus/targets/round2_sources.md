@@ -50,3 +50,36 @@
 
 - The archive.org items were fetched via the metadata-API + direct download (djvu.txt = the text layer). Same pattern for any future item: `archive.org/metadata/{id}` → the djvu.txt/PDF → `sources/round2/`.
 - The 🟢 items can be downloaded on request; the 📚 items need the user's purchase (or the OCR-route for the Lakshmanjoo scan).
+
+---
+
+# DOWNLOAD RUN 2026-08-09 (the acquisition sweep)
+
+## GRETIL (sources/gretil2/ — 6 texts)
+nyayasutra · nyayasutra_bhasya (Vātsyāyana) · nyayasutra_tika · **tattvacintamani** (Gaṅgeśa!) · nyayabindu · pramanavarttika. (The 4 URL-404s — Tarkasaṃgraha, Vaiśeṣikasūtra, Padārthadharmasaṃgraha, Vākyapadīya — are already held in the earlier `sources/gretil_*.txt` set; the targetslogic URLs are stale.)
+
+## Archive.org — Bagchi 1934 (the collation crown)
+`sources/round2/bagchi_kjn_1934.txt` (14,368 lines) — the full KJN-bundle print (KJN + Akulavīra + Kulānanda + Jñānakārikā): the corrupt-pāda collation item, secured.
+
+## Archive.org — the Jīvānanda Vidyāsāgara collection (sources/round2/jivananda/)
+The 19th-c. Bengali scholar-editions — the Navya-Nyāya crown in its original prints:
+| Item | For |
+|------|-----|
+| `tarkasamgraha_english_1872.pdf` | **an 1872 English translation of the Tarkasaṃgraha** — the Hop-10 anchor, predates Athalye! |
+| `tattvacintamani_upamanakhanda_1872.pdf` | the Tattvacintāmaṇi's Upamāna-khaṇḍa (Jīvānanda's edition) |
+| `anumanachintamani_didhiti_1872.pdf` | the Anumāna-khaṇḍa **with Raghunātha's Dīdhiti** — the Navya crown's core |
+| `anumanachintamani_parisishta_1875.pdf` | the Anumāna parisiṣṭa |
+| `kevalanvayi_tika_1897.pdf` | the Kevalānvayi with ṭīkā |
+| `bhasapariccheda_1902.pdf` | Viśvanātha's Bhāṣāpariccheda (the Muktāvalī's root) |
+| `nyayadarsana_bhasya_1874.pdf` | the Nyāyadarśana with the Bhāṣya (collation) |
+| `kularnava_tantra_1898.pdf` | the Kulārṇava's Bengali print (Hop 1 collation) |
+| `kulayananda_chandrika_1877.pdf` | **the Kulānanda with the Chandrikā commentary** — our text's own commentary! |
+- All image-scans (no text layers) — OCR via Google Vision when used for collation.
+
+## Archive.org — Athalye (dli.ministry.27265)
+`sources/round2/athalye_tarkasamgraha.txt` — the Tarkasaṃgraha edition with the English introduction/translation (the standard anchor).
+
+## What the sweep resolved
+- **The KJN's corrupt pādas now have their collation source** (the Bagchi print).
+- **The Kulānanda's own commentary exists** (the Chandrikā — 1877).
+- **The Navya-Nyāya hop's anchors are in** (the 1872 English Tarkasaṃgraha, the Dīdhiti, Athalye).
