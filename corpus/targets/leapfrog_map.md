@@ -4,6 +4,10 @@
 
 ---
 
+## The guidance layer (the research that steers the hops)
+
+- **`corpus/targets/markguidance.md`** (from the R2 bucket — the Recognition Enquiry report, 2026-07-28): the philosophy-phase's research on the exact texts of Hops 3–4 and the Nyāya-hops — the ĪPK passage-lists (1.4.4–8, 1.5.11–14, 1.6.3–8, 1.7.3–6, 2.4.14–19), the APS 9–17/22–26 cruxes, the Mahānayaprakāśa/Śivadṛṣṭi/Udayana passage-work it names, and the [T]/[R]/[E]/[C]/[H]/[X] status-tags. Its "next best moves are passage-first translation" is the pipeline's own principle — the report is the Hop 3–4 translation-orders' guide.
+
 ## The batch-translation guide (the map as the steering document)
 
 **How the map is used:** each batch picks ONE hop, works its texts through the full stack (T1 → R1 → T2 → R2 → T3 → C1) in groups, updates STATUS, and moves on. The hop's anchors are the verification layer; the glossary gains are the next hop's entry-ticket. The acquisitions are marked in the hop-tables (🔓 = anchor newly secured).
