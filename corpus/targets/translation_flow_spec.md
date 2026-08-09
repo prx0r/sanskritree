@@ -34,9 +34,12 @@ T1 (working translation) → R1 (review of T1)
 
 ### Phase 3 — T2 (the fresh translation)
 **What:** a **genuinely different** translation of the same text, composed **without re-reading T1's sentences**. Only the IAST, the R1 analysis, and the evidence (anchors, glossary, cross-text parallels) are consulted.
-**The difference rule ("no repeating passages, words ok"):**
-- **Passages** (sentences/clauses): must be re-composed — no copied sentence-structures, no re-used phrasing. T2 is a fresh composition, not a tweak.
-- **Words** (single lexical items): reuse is allowed — a word that genuinely has one best sense (e.g., nirañjana → the Stainless) legitimately recurs; the glossary's range-not-default rule governs this.
+**The difference rule ("no repeating passages, words ok") — AMENDED 2026-08-09:**
+- **The core requirement: T2 explores alternative INTERPRETATIONS.** Re-composition is not enough — engineered agreement is a failure mode (the first Akulavīra-T2 agreed 14/18; the corrected one found 2 real T1-errors by asking "what else can this mean?"). Each verse is re-derived from the IAST with the alternative-question: the passive vs the active of the compound (pāpabandhavit), the cross-text sense over the clever local one (gamāgame — the KJN 14/136 parallel), the no-emendation construal over the repair (mataṃ = "held as"), the direct address over the generic, the adjective over the noun, the ritual-register over the epistemic.
+- **Where a live alternative exists, T2 TAKES it** and marks the fork. Where the text is fixed, T2 composes fresh — and the agreement is the honest hard core.
+- **Passages** (sentences/clauses): must be re-composed — no copied sentence-structures.
+- **Words** (single lexical items): reuse is allowed — a word that genuinely has one best sense legitimately recurs; the glossary's range-not-default rule governs this.
+- **The check:** R2 must be able to OVERTURN T1. A flow that never corrects T1 is a flow not being run.
 - **Strategy** (the guarantee of genuine difference): T2 must adopt a **different reading-strategy** from T1. Options:
   - **S1 — the commentary-informed strategy**: T2 renders through the commentary-tradition's voice (Bhāskara's glosses, the Vṛtti/Vivṛti's interpretations) — the doctrine-shaped reading.
   - **S2 — the argument-priority strategy**: T2 renders for the argument's flow — the connective tissue made explicit, the doctrinal terms kept technical.
