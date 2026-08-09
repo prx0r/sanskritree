@@ -46,3 +46,12 @@
 - 60 pipeline docs (18 T1 + 7 R1 + 7 T2 + 7 R2 + 7 T3 + 6 C1 + 4 _meta + the README/STATUS)
 - 189 verses adjudicated and interpreted (the crux-set)
 - ~1,600–1,800 verses in T1 across 15 works (+ ~340 legacy)
+
+## ERROR-MEASUREMENT (2026-08-09 — see `_meta/ERROR_MEASUREMENT.md`)
+
+| Text | Sample | agree | lexical | doctrinal | error |
+|------|--------|-------|---------|-----------|-------|
+| Śivasūtra vs Dyczkowski | 19 sūtras | 42% | 32% | 26% | **0%** |
+| Akulavīra vs archive | 6 regions | 100% | 0% | 0% | 0% |
+
+**Collation resolved (the Bagchi print):** Akulavīra v. 14 (svabhāvamati-mataṃ confirmed — the no-emendation construal) · v. 23 (viṃśātmakaḥ confirmed — "the twenty-formed") · v. 39 (unresolved — OCR-noisey, page-image check pending). Recorded in `04_r2_adjudication/r2_akulavira.md`.

@@ -52,3 +52,15 @@
 
 ---
 ## R2 verdict (Akulavīra 19–155): 8 forks, full chains; the mis-split corrected (v. 65), two emendations carried (39, 106), the verbal-negation adopted (78), the orders-reading (55). **T3-Akulavīra (vv. 19–155) applies these** — the full final follows the same chain-length for every verse.
+
+---
+
+## COLLATION RESOLUTIONS (2026-08-09 — the Bagchi 1934 print, `sources/round2/bagchi_kjn_1934.txt`)
+
+| Verse | The [X] | The print's reading | Resolution |
+|-------|---------|---------------------|------------|
+| v. 14 | svabhāvamatimataṃ (the compound) | line 3919: **स्वभावमतिमतं शान्तं मनो यस्य मनोमयम्** — svabhāvamati-mataṃ | **the print confirms the no-emendation construal** (the T2/T3 "held as the own-nature-thought") — the R1's emendation (svabhāvam upagataṃ) is formally retired; the [X] upgrades to print-confirmed |
+| v. 23 | viṃśātmaka ("the twenty-formed"? [X]) | line 10095: **यश्च विंशार्मको a पुद्गल नास्ति** — viṃśātmakaḥ + pudgala nāsti (the OCR's ārmaka = ātmaka) | **the print confirms T1's "the twenty-formed"** and the "the person is not" — the ordinal-reading (the twentieth-count) is demoted; the [X] upgrades to print-confirmed |
+| v. 39 | malakṣaṇam vs nirlakṣaṇam | no clean hit (the OCR region is noisy) | **unresolved — pending a page-image check** (the same archive item's PDFs) |
+
+*The collation-workflow: grep the Devanagari token → read the line in the print's context → record the resolution here. The Bagchi text is OCR-noisey — confirm the significant readings against the page-images before final adoption.*
