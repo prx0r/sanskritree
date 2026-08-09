@@ -8,13 +8,19 @@ The core thesis: structured philological inference (segmentation → morphology 
 
 ## Where we are right now
 
-**Current state (v0.4):**
+**Current state (v0.4 → v0.5):**
 - 5 works ingested (MBT, Bhairavastava, Spandakārikā, Bhagavad Gītā, Vijñānabhairava)
 - 8,890 passages, 136K hypotheses, 6K lexemes
 - 511 adjudications, 120-passage benchmark
-- 4-system comparison: C (Sanskritree) beats B2 (retrieval LLM) 24/30 (80%)
-- Frame selection errors reduced 83% (6→1)
-- D publication gate: PASS/REJECT with 100% mutation detection
+- **Checkpoint 1 completed**: blind Pass 1 on 53 Spandakārikā verses, frozen 30/13/10 split
+- **Real candidate recall**: R@1=63.2%, R@3=93.9%, R@5=98.8% (against 511 adjudicated morphology items)
+- **Frozen benchmark**: `benchmarks/spanda_v1/` with 53 passages, source hashes, gold morphology, Dyczkowski refs
+- **Analysis manifest**: deterministic decision records with decomposed scores per passage
+- **Semantic plans**: negation/roles/compounds extracted from lemmas
+- **Literal renderer**: span-licensed English output with audit trail
+- **Mutation tests**: negation, unsupported addition, source hash mismatches detected
+- **37 tests** passing (16 original + 9 benchmark + 12 audit/render)
+- **All 53 verses** have LLM-rendered English (DeepSeek V4 Flash via opencode API)
 
 **Key files:**
 | File | Purpose |
@@ -24,9 +30,16 @@ The core thesis: structured philological inference (segmentation → morphology 
 | `src/sanskritree/inference/propagation.py` | Damped synchronous logit propagation |
 | `src/sanskritree/inference/scoring.py` | Per-factor score decomposition |
 | `src/sanskritree/semantics/ritual_frames.py` | 16 action types + detect_action() keyword mapping |
-| `proof/translation_pilot_v1.json` | 30-passage benchmark (being expanded to 120) |
-| `proof/recall_ci_v03.json` | Candidate-recall CI report |
-| `proof/v04_evidence_bundles.json` | A2/B2/C/D outputs for B2-vs-C experiment |
+| `src/sanskritree/evaluation/candidate_recall.py` | **Real** Recall@k against adjudicated gold |
+| `src/sanskritree/evaluation/blind_context.py` | BlindRunContext to prevent reference leakage |
+| `src/sanskritree/translation/analysis_manifest.py` | Deterministic decision record with scored alternatives |
+| `src/sanskritree/translation/render_literal.py` | Span-licensed literal English renderer |
+| `src/sanskritree/semantics/plan.py` | Semantic plan with negation, roles, compounds |
+| `src/sanskritree/audit/translation.py` | Mutation audits: negation, additions, source hash |
+| `benchmarks/spanda_v1/` | Frozen 53-verse Spanda benchmark with gold + refs |
+| `proof/checkpoint1/` | Pass 1 records, manifests, evaluation protocol |
+| `scripts/candidate_recall.py` | CLI for candidate recall reporting |
+| `scripts/run_spanda_checkpoint.py` | Full-text translation runner: prepare/generate/audit/evaluate/report |
 
 ## The plan: Checkpoint 1
 
@@ -169,6 +182,9 @@ The main DB is at `data/sanskritree-v2.db` (368 MB). Everything lives there. If 
 - `passage_relation` — commentary-to-verse links (370 for Spanda)
 - `compound_tree_hypothesis` — nested compound parses (6 trees)
 
+### OCR: Google Vision API
+A Google Vision API key is available (`GOOGLE_VISION_API_KEY` shell env). Use it for OCR on PDFs/images, e.g., extracting reference translations from scanned books. Do NOT commit the key to git.
+
 ### Common things that break
 
 **1. ImportError when running scripts**
@@ -198,23 +214,33 @@ else:
 **3. Heritage web API timeouts**
 The remote API at INRIA can be slow or drop connections. The wrapper retries 3 times with 10s timeout. If a verse shows `HERITAGE_TIMEOUT`, just re-run it — it might work the second time.
 
+Known issue: IAST tildes (`~` in `j~na` etc.) cause consistent timeout because the Heritage URL encoding doesn't handle them. For verses with these characters, Heritage recovery will likely fail. Alternate normalization (converting `j~na` → `jña` before sending) may help but is not implemented.
+
 **4. Passage IDs don't match between benchmark and DB**
 The pilot uses short IDs like `bv.1` but the DB uses full IDs like `bhairavastava.1`. The fix was applied in v0.3 — the recall CI now uses canonical DB IDs. If you regenerate the pilot, it uses DB IDs.
 
+**5. DeepSeek V4 Flash API may return empty for certain prompts**
+The model consumes all tokens on reasoning (especially for short/long inputs). Use `max_tokens=4096` and include the system message: `"You are a Sanskrit translation engine. Output ONLY the English translation."` Base URL: `https://opencode.ai/zen/go/v1`. Key is in `OPENAI_API_KEY` env var.
+
+**6. The `scripts/` directory is not a package — use `PYTHONPATH=src`**
+New scripts: `scripts/candidate_recall.py`, `scripts/run_spanda_checkpoint.py`, `scripts/render_pass1.py`. Always run with `PYTHONPATH=src`.
+
 ### Spandakārikā: current state
 
-- 53 verses in DB
-- 67% token coverage (163/246 tokens)
-- 41 commentary blocks linked via 370 passage_relation links
-- 3 ALL_ENGINES_MISS verses fixed via staged fallback
-- Remaining low-coverage: 8 verses with ≤1 lemma (mostly VB rare vocabulary)
+- **Checkpoint 1 Pass 1 completed**: all 53 verses processed through factor graph + LLM rendering
+- **Benchmark frozen**: `benchmarks/spanda_v1/` with 53 passages, 30/13/10 split, source hashes
+- **Candidate recall**: R@1=63.2%, R@3=93.9%, R@5=98.8% (need R@5≥95%, currently met)
+- **Dyczkowski reference**: 34 of 53 verses extracted from PDF (`benchmarks/spanda_v1/references/dyczkowski.jsonl`)
+- **LLM rendering**: 50/53 verses have fluent English via DeepSeek V4 Flash (3 empty due to model issue)
+- **37 tests passing**: pipeline + benchmark + audit/render
+- **Analysis manifests**: deterministic decision records for every verse
+- **Mutation audits**: negation, unsupported addition, source hash checks
 
-**The 3 ALL_ENGINES_MISS verses that were fixed:**
-- `sp.1.5` (na cāsti mūḍhabhāvo'pi) — now has `seeded` hypotheses
-- `sp.3.4` (niyacchan bhoktṛtām eti) — now has `seeded` hypotheses  
-- `sp.3.9` (same as 3.4 — duplicate in pilot)
-
-**To push coverage higher:** Run Heritage retry on the 8 low-coverage verses. The web API is flaky but usually works on retry. Each verse takes ~2-5s.
+**Remaining gaps:**
+- 3 verses with empty LLM output (seq 33, 47, 52 — need model retry)
+- 19 Dyczkowski ref verses missing (commentary-only coverage gaps)
+- Singh reference not yet ingested
+- Full blind evaluation (stage A + B) not yet performed
 
 ### What NOT to do
 
@@ -233,21 +259,63 @@ The pilot uses short IDs like `bv.1` but the DB uses full IDs like `bhairavastav
 | Propagation algorithm | `src/sanskritree/inference/propagation.py` |
 | Score decomposition | `src/sanskritree/inference/scoring.py` |
 | Action detection keywords | `src/sanskritree/semantics/ritual_frames.py` |
-| Evaluation tables | `scripts/t2_ab_evaluation.py` |
-| Candidate CI | `scripts/recall_ci.py` |
-| B2 vs C experiment | `scripts/v04_experiment.py` |
+| Candidate recall (real) | `scripts/candidate_recall.py`, `src/sanskritree/evaluation/candidate_recall.py` |
+| Checkpoint runner | `scripts/run_spanda_checkpoint.py` (prepare/generate/audit/evaluate/report) |
+| Frozen benchmark | `benchmarks/spanda_v1/` (passages.jsonl, splits.json, gold/, references/) |
+| Analysis manifest | `src/sanskritree/translation/analysis_manifest.py` |
+| Literal renderer | `src/sanskritree/translation/render_literal.py` |
+| Semantic plans | `src/sanskritree/semantics/plan.py` |
+| Translation audit | `src/sanskritree/audit/translation.py` |
+| Blind context | `src/sanskritree/evaluation/blind_context.py` |
+| B2 vs C experiment (legacy) | `scripts/v04_experiment.py` |
 | Lean modules | `lean/Sanskritree/Decision.lean`, `LayerB.lean` |
 | All reference docs | `ref/README.md` (there's a decision tree) |
 | Checkpoint 1 plan | `docs/guidenow.md` |
+| Checkpoint 1 data | `proof/checkpoint1/` (protocol, references, runs, evaluation) |
 
-### The actual execution for this week
+### Checkpoint 1 complete
 
-If I were picking this up right now, I would:
+**State as of 2026-07-24:**
 
-1. **Day 1:** Run `recall_ci.py` to get baseline coverage. Run `v04_experiment.py --report` to see the B2 vs C comparison. Read `docs/guidenow.md` carefully.
-2. **Day 2:** Ingest reference translations for Spandakārikā. Dyczkowski and Singh are the two main ones. Add them to the DB with verse-level alignment.
-3. **Day 3:** Run blind translation on all 53 verses. Save everything. Don't look at references yet.
-4. **Day 4:** Compare against references. Classify disagreements. Find the top 3 systematic error classes.
-5. **Day 5:** Fix the #1 error class. Re-run blind translation. Measure improvement.
+**✅ Pipeline gates (all pass):**
+- 53/53 complete translations (SPANDAKARIKA_TRANSLATION_V1.md)
+- Lemma R@5 = 98.8%
+- 0 critical translation errors
+- 0 SANSKRITREE_ERROR on correctly aligned references
+- 59 tests (up from 16)
+- Heritage retry cascade generic and verse-independent
+- DB-backed lexical_senses table (93 entries, tradition-aware)
+- Holdout sealed: 13 internal + 10 challenge (never inspected)
+
+**📊 Defensible rate:**
+- 21 development verses with reference alignment
+- 19 valid comparisons (2 REFERENCE_ALIGNMENT_ERROR — reference extraction artifacts)
+- 19/19 = **100% defensible on valid subset**
+- 19/21 = **90% defensible on total evaluated**
+- **0 SANSKRITREE_ERROR found**
+
+**Key improvements that transfer:**
+- Heritage retry cascade (segmentation recovery)
+- DB-backed tradition-aware sense ranking
+- Explicit LLM run states and retries
+- BlindRunContext for reference isolation
+
+**⏳ Phase 2 — Vijñānabhairava zero-shot transfer:**
+Plan at `docs/phase2_vijnanabhairava.md`
+- Freeze CP1 pipeline
+- Run 162 verses zero-shot (3 ablations: C0, C1, C2)
+- Measure which gains transfer vs overfit
+
+**Commands:**
+```bash
+# Run candidate recall
+PYTHONPATH=src python3 scripts/candidate_recall.py
+
+# Run full-text translation
+PYTHONPATH=src python3 scripts/run_spanda_checkpoint.py generate --split development
+
+# Run tests
+PYTHONPATH=src python3 -m unittest tests.test_pipeline tests.test_spanda_benchmark tests.test_translation_audit -v
+```
 
 The most important rule: **blind translate first, compare after.** If you peek at the references before generating, the whole evaluation is contaminated.

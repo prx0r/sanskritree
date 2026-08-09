@@ -1,0 +1,1156 @@
+edition:
+  editor: Motoi Ono
+  id: nyayabindu.gretil
+  licence: CC-BY-SA
+  publication: GRETIL
+passages:
+- chapter: '1'
+  id: nb.1.1
+  sanskrit: samyag-jñāna-pūrvikā sarva-puruṣa-artha-siddhir iti tad vyutpādyate.
+  type: sutra
+  verse: '1'
+- chapter: '1'
+  id: nb.1.2
+  sanskrit: dvividhaṃ samyag-jñānam.
+  type: sutra
+  verse: '2'
+- chapter: '1'
+  id: nb.1.3
+  sanskrit: pratyakṣam anumānaṃ ca iti.
+  type: sutra
+  verse: '3'
+- chapter: '1'
+  id: nb.1.4
+  sanskrit: tatra pratyakṣaṃ kalpanā apoḍham abhrāntam.
+  type: sutra
+  verse: '4'
+- chapter: '1'
+  id: nb.1.5
+  sanskrit: abhilāpa-saṃsarga-yogya-pratibhāsā pratītiḥ kalpanā.
+  type: sutra
+  verse: '5'
+- chapter: '1'
+  id: nb.1.6
+  sanskrit: tayā rahitaṃ timira-āśubhramaṇa-nauyāna-saṃkṣobha-ādy-anāhita-vibhramaṃ
+    jñānaṃ pratyakṣam.
+  type: sutra
+  verse: '6'
+- chapter: '1'
+  id: nb.1.7
+  sanskrit: tat caturvidham.
+  type: sutra
+  verse: '7'
+- chapter: '1'
+  id: nb.1.8
+  sanskrit: indriya-jñānam.
+  type: sutra
+  verse: '8'
+- chapter: '1'
+  id: nb.1.9
+  sanskrit: sva-viṣaya-anantara-viṣaya-sahakāriṇā indriya-jñānena samanantarapratyayena
+    janitaṃ tan manovijñānam.
+  type: sutra
+  verse: '9'
+- chapter: '1'
+  id: nb.1.10
+  sanskrit: sarva-citta-caittānām ātma-saṃvedanam.
+  type: sutra
+  verse: '10'
+- chapter: '1'
+  id: nb.1.11
+  sanskrit: bhūta-artha-bhāvanā-prakarṣa-paryantajaṃ yogijñānaṃ ca iti.
+  type: sutra
+  verse: '11'
+- chapter: '1'
+  id: nb.1.12
+  sanskrit: tasya viṣayaḥ svalakṣaṇam.
+  type: sutra
+  verse: '12'
+- chapter: '1'
+  id: nb.1.13
+  sanskrit: yasya arthasya saṃnidhāna-asaṃnidhānābhyāṃ jñāna-pratibhāsa-bhedas tat
+    svalakṣaṇam.
+  type: sutra
+  verse: '13'
+- chapter: '1'
+  id: nb.1.14
+  sanskrit: tad eva paramārthasat.
+  type: sutra
+  verse: '14'
+- chapter: '1'
+  id: nb.1.15
+  sanskrit: arthakriyāsāmarthya-lakṣaṇatvād vastunaḥ.
+  type: sutra
+  verse: '15'
+- chapter: '1'
+  id: nb.1.16
+  sanskrit: anyat sāmānyalakṣaṇam.
+  type: sutra
+  verse: '16'
+- chapter: '1'
+  id: nb.1.17
+  sanskrit: so anumānasya viṣayaḥ.
+  type: sutra
+  verse: '17'
+- chapter: '1'
+  id: nb.1.18
+  sanskrit: tad eva ca pratyakṣaṃ jñānaṃ pramāṇa-phalam.
+  type: sutra
+  verse: '18'
+- chapter: '1'
+  id: nb.1.19
+  sanskrit: artha-pratīti-rūpatvāt.
+  type: sutra
+  verse: '19'
+- chapter: '1'
+  id: nb.1.20
+  sanskrit: artha-sārūpyam asya pramāṇam.
+  type: sutra
+  verse: '20'
+- chapter: '1'
+  id: nb.1.21
+  sanskrit: tad-vaśād artha-pratīti-siddher iti.
+  type: sutra
+  verse: '21'
+- chapter: '2'
+  id: nb.2.1
+  sanskrit: anumānaṃ dvividhā.
+  type: sutra
+  verse: '1'
+- chapter: '2'
+  id: nb.2.2
+  sanskrit: svārthaṃ parārthaṃ ca.
+  type: sutra
+  verse: '2'
+- chapter: '2'
+  id: nb.2.3
+  sanskrit: tatra svārthaṃ trirūpāl liṅgād yad anumeye jñānaṃ tad anumānam.
+  type: sutra
+  verse: '3'
+- chapter: '2'
+  id: nb.2.4
+  sanskrit: pramāṇa-phala-vyavasthā atra api pratyakṣa-vat.
+  type: sutra
+  verse: '4'
+- chapter: '2'
+  id: nb.2.5
+  sanskrit: trairūpyaṃ punar liṅgasya anumeye sattvam eva, sapakṣa eva sattvam, asapakṣe
+    ca asattvam eva niścitam.
+  type: sutra
+  verse: '5'
+- chapter: '2'
+  id: nb.2.6
+  sanskrit: anumeyo atra jijñāṣita-viśeṣo dharmī.
+  type: sutra
+  verse: '6'
+- chapter: '2'
+  id: nb.2.7
+  sanskrit: sādhya-dharma-sāmānyena samāno arthaḥ sapakṣaḥ.
+  type: sutra
+  verse: '7'
+- chapter: '2'
+  id: nb.2.8
+  sanskrit: na sapakṣo asapakṣaḥ.
+  type: sutra
+  verse: '8'
+- chapter: '2'
+  id: nb.2.9
+  sanskrit: tato anyas tad-viruddhas tad-abhāvaś ca iti.
+  type: sutra
+  verse: '9'
+- chapter: '2'
+  id: nb.2.10
+  sanskrit: trirūpāṇi ca trīṇy eva liṅgāni.
+  type: sutra
+  verse: '10'
+- chapter: '2'
+  id: nb.2.11
+  sanskrit: anupalabdhiḥ svabhāvaḥ kāryaṃ ca iti.
+  type: sutra
+  verse: '11'
+- chapter: '2'
+  id: nb.2.12
+  sanskrit: tatra anupalabdhir yathā, na pradeśa-viśeṣe kvacid ghaṭaḥ, upalabdhi-lakṣaṇa-prāptasya
+    anupalabdher iti
+  type: sutra
+  verse: '12'
+- chapter: '2'
+  id: nb.2.13
+  sanskrit: upalabdhi-lakṣaṇa-prāptir upalambha-pratyaya-antara-sākalyaṃ svabhāva-viśeṣaś
+    ca.
+  type: sutra
+  verse: '13'
+- chapter: '2'
+  id: nb.2.14
+  sanskrit: yaḥ svabhāvaḥ satsv anyeṣu upalambha-pratyayeṣu san pratyakṣa eva bhavati
+    sa svabhāva-viśeṣaḥ.
+  type: sutra
+  verse: '14'
+- chapter: '2'
+  id: nb.2.15
+  sanskrit: svabhāvaḥ sva-sattā-mātra-bhāvini sādhya-dharme hetuḥ.
+  type: sutra
+  verse: '15'
+- chapter: '2'
+  id: nb.2.16
+  sanskrit: yathā vṛkṣo ayaṃ śiṃśapātvād iti.
+  type: sutra
+  verse: '16'
+- chapter: '2'
+  id: nb.2.17
+  sanskrit: kāryaṃ yathā vahnir atra dhūmād iti.
+  type: sutra
+  verse: '17'
+- chapter: '2'
+  id: nb.2.18
+  sanskrit: atra dvau vastu-sādhanau. ekaḥ pratiṣedha-hetuḥ
+  type: sutra
+  verse: '18'
+- chapter: '2'
+  id: nb.2.19
+  sanskrit: svabhāvapratibandhe hi saty artho arthaṃ gamayet.
+  type: sutra
+  verse: '19'
+- chapter: '2'
+  id: nb.2.20
+  sanskrit: tad-apratibaddhasya tad-avyabhicāra-niyama-abhāvāt.
+  type: sutra
+  verse: '20'
+- chapter: '2'
+  id: nb.2.21
+  sanskrit: sa ca pratibandhaḥ sādhye arthe liṅgasya.
+  type: sutra
+  verse: '21'
+- chapter: '2'
+  id: nb.2.22
+  sanskrit: vastutas tādātmyāt tadutpatteś ca.
+  type: sutra
+  verse: '22'
+- chapter: '2'
+  id: nb.2.23
+  sanskrit: atad-svabhāvasya atadutpatteś ca tatra apratibaddha-svabhāvatvāt.
+  type: sutra
+  verse: '23'
+- chapter: '2'
+  id: nb.2.24
+  sanskrit: te ca tādātmya-tadupattī svabhāva-kāryayor eva iti tābhyām eva vastu-siddhiḥ.
+  type: sutra
+  verse: '24'
+- chapter: '2'
+  id: nb.2.25
+  sanskrit: pratiṣedha-siddhir api yathoktāyā eva anupalabdheḥ.
+  type: sutra
+  verse: '25'
+- chapter: '2'
+  id: nb.2.26
+  sanskrit: sati vastuni tasyā asambhavāt.
+  type: sutra
+  verse: '26'
+- chapter: '2'
+  id: nb.2.27
+  sanskrit: anyathā ca anupalabdhi-lakṣaṇa-prāpteṣu deśa-kāla-svabhāva-viprakṛṣṭeṣv
+    artheṣv ātma-pratyakṣa-nivṛtter abhāva-niścaya-abhāvāt.
+  type: sutra
+  verse: '27'
+- chapter: '2'
+  id: nb.2.28
+  sanskrit: amūḍha-smṛti-saṃskārasya atītasya vartamānasya ca pratipattṛ-pratyakṣasya
+    nivṛttir abhāva-vyavahāra-pravartanī.
+  type: sutra
+  verse: '28'
+- chapter: '2'
+  id: nb.2.29
+  sanskrit: tasyā eva abhāva-niścayāt.
+  type: sutra
+  verse: '29'
+- chapter: '2'
+  id: nb.2.30
+  sanskrit: sā ca prayoga-bhedād ekadaśa-prakārā.
+  type: sutra
+  verse: '30'
+- chapter: '2'
+  id: nb.2.31
+  sanskrit: svabhāva-anupalabdhir yathā, na atra dhūma upalabdhi-lakṣaṇa-prāptasya
+    anupalabdhir iti.
+  type: sutra
+  verse: '31'
+- chapter: '2'
+  id: nb.2.32
+  sanskrit: kārya-anupalabdhir yathā, na iha apratibaddha-sāmarthyāni dhūma-kāraṇāni
+    santi dhūma-abhāvād iti.
+  type: sutra
+  verse: '32'
+- chapter: '2'
+  id: nb.2.33
+  sanskrit: vyāpaka-anupalabdhir yathā, na atra śiṃśapā, vṛkṣa-abhāvād iti.
+  type: sutra
+  verse: '33'
+- chapter: '2'
+  id: nb.2.34
+  sanskrit: svabhāva-viruddha-upalabdhir yathā, na atra śīta-sparśo vahner iti.
+  type: sutra
+  verse: '34'
+- chapter: '2'
+  id: nb.2.35
+  sanskrit: viruddha-kārya-upalabdhir yathā, na atra śīta-sparśo dhūmād iti.
+  type: sutra
+  verse: '35'
+- chapter: '2'
+  id: nb.2.36
+  sanskrit: viruddha-vyāpta-upalabdhir yathā, na dhūma-bhāvī bhūtasya api bhāvasya
+    vināśaḥ, hetv-antara-apekṣaṇād iti.
+  type: sutra
+  verse: '36'
+- chapter: '2'
+  id: nb.2.37
+  sanskrit: kārya-viruddha-upalabdhir yathā, na iha apratibaddha-sāmarthyāni śīta-kāraṇāni
+    santi, vahner iti.
+  type: sutra
+  verse: '37'
+- chapter: '2'
+  id: nb.2.38
+  sanskrit: vyāpaka-viruddha-upalabdhir yathā, na atra tuṣāra-sparśo vahner iti.
+  type: sutra
+  verse: '38'
+- chapter: '2'
+  id: nb.2.39
+  sanskrit: kāraṇa-anupalabdhir yathā, na atra dhūmo vahny-abhāvād iti.
+  type: sutra
+  verse: '39'
+- chapter: '2'
+  id: nb.2.40
+  sanskrit: kāraṇa-viruddha-upalabdhir yathā, na asya roma-harṣa-ādi-viśeṣāḥ, saṃnihita-dahana-viśeṣatvād
+    iti.
+  type: sutra
+  verse: '40'
+- chapter: '2'
+  id: nb.2.41
+  sanskrit: kāraṇa-viruddha-kārya-upalabdhir yathā, na roma-harṣa-ādi-viśeṣa-yukta-puruṣavān
+    ayaṃ pradeśaḥ, dhūmād iti.
+  type: sutra
+  verse: '41'
+- chapter: '2'
+  id: nb.2.42
+  sanskrit: ime sarve kārya-anupalabdhy-ādayo daśa-anupalabdhi-prayogāḥ svabhāva-anupalabdhau
+    saṃgraham upayānti.
+  type: sutra
+  verse: '42'
+- chapter: '2'
+  id: nb.2.43
+  sanskrit: pāraṃparyeṇa arthāntara-vidhi-pratiṣedhāyāṃ prayoga-bhede api.
+  type: sutra
+  verse: '43'
+- chapter: '2'
+  id: nb.2.44
+  sanskrit: prayoga-darśana-abhyāsāt svayam apy evaṃ vyavaccheda-pratītir bhavati
+    iti svārthe apy anumāne asyāḥ prayoga-nirdeśaḥ.
+  type: sutra
+  verse: '44'
+- chapter: '2'
+  id: nb.2.45
+  sanskrit: sarvatra ca asyām abhāva-vyavahāra-sādhanyām anupalabdhau yeṣāṃ svabhāva-viruddha-ādīnām
+    upalabdhyā kāraṇa-ādīnām anupalabdhyā ca pratiṣedha uktas teṣām upalabdhi-lakṣaṇa-prāptānām.
+  type: sutra
+  verse: '45'
+- chapter: '2'
+  id: nb.2.45
+  sanskrit: eva upalabdhir anupalabdhiś ca veditavyā.
+  type: sutra
+  verse: '45'
+- chapter: '2'
+  id: nb.2.46
+  sanskrit: anyeṣāṃ virodha-kāryakāraṇabhāva-siddheḥ.
+  type: sutra
+  verse: '46'
+- chapter: '2'
+  id: nb.2.47
+  sanskrit: pramāṇa-nivṛttav apy artha-abhāva-asiddher iti.
+  type: sutra
+  verse: '47'
+- chapter: '3'
+  id: nb.3.1
+  sanskrit: trirūpa-liṅga-ākhyānaṃ parārtham anumānam.
+  type: sutra
+  verse: '1'
+- chapter: '3'
+  id: nb.3.2
+  sanskrit: kāraṇe kārya-upacārāt.
+  type: sutra
+  verse: '2'
+- chapter: '3'
+  id: nb.3.3
+  sanskrit: tad dvividham.
+  type: sutra
+  verse: '3'
+- chapter: '3'
+  id: nb.3.4
+  sanskrit: prayoga-bhedāt.
+  type: sutra
+  verse: '4'
+- chapter: '3'
+  id: nb.3.5
+  sanskrit: sādharmya-vaidharmya-vacana iti.
+  type: sutra
+  verse: '5'
+- chapter: '3'
+  id: nb.3.6
+  sanskrit: na anayor arthataḥ kaścid bhedaḥ.
+  type: sutra
+  verse: '6'
+- chapter: '3'
+  id: nb.3.7
+  sanskrit: anyatra prayoga-bhedāt.
+  type: sutra
+  verse: '7'
+- chapter: '3'
+  id: nb.3.8
+  sanskrit: 'tatra sādharmyavat prayogaḥ: yad upalabdhi-lakṣaṇa-prāptaṃ sann na upalabhyate
+    so asad-vyavahāra-viṣayaḥ siddhaḥ, yathā anyaḥ kaścid dṛṣṭaḥ śaśa-viṣāṇa-ādiḥ.
+    na upalabhyate ca kaścit pradeśa-viśeṣa upalabdhi-lakṣaṇa-prāpto ghaṭa ity anupalabdhi-prayogaḥ.'
+  type: sutra
+  verse: '8'
+- chapter: '3'
+  id: nb.3.9
+  sanskrit: 'tathā svabhāvahetoḥ prayogaḥ: yat sat tat sarvam anityam, yathā ghaṭa-ādir
+    iti śuddhasya svabhāvahetoḥ prayogaḥ.'
+  type: sutra
+  verse: '9'
+- chapter: '3'
+  id: nb.3.10
+  sanskrit: yad utpattimat tad anityam iti svabhāvabhūta-dharma-bhedena svabhāvasya
+    prayogaḥ.
+  type: sutra
+  verse: '10'
+- chapter: '3'
+  id: nb.3.11
+  sanskrit: yat kṛtakaṃ tad anityam ity upādhi-bhedena.
+  type: sutra
+  verse: '11'
+- chapter: '3'
+  id: nb.3.12
+  sanskrit: apekṣita-para-vyāpāro hi bhāvaḥ svabhāva-niṣpattau kṛtaka iti.
+  type: sutra
+  verse: '12'
+- chapter: '3'
+  id: nb.3.13
+  sanskrit: evaṃ pratyaya-bhedabheditva-ādayo api draṣṭavyāḥ.
+  type: sutra
+  verse: '13'
+- chapter: '3'
+  id: nb.3.14
+  sanskrit: sann utpattimān kṛtako vā śabda iti pakṣa-dharma-upadarśanam.
+  type: sutra
+  verse: '14'
+- chapter: '3'
+  id: nb.3.15
+  sanskrit: sarva ete sādhana-dharmā yathāsvaṃ pramāṇaiḥ. siddha-sādhana-dharma-mātra-anubandha
+    eva sādhya-dharmo avagantavyāḥ.
+  type: sutra
+  verse: '15'
+- chapter: '3'
+  id: nb.3.16
+  sanskrit: tasya eva tat.
+  type: sutra
+  verse: '16'
+- chapter: '3'
+  id: nb.3.17
+  sanskrit: svabhāvasya ca hetutvāt.
+  type: sutra
+  verse: '17'
+- chapter: '3'
+  id: nb.3.18
+  sanskrit: vastutas tayos tādātmyam.
+  type: sutra
+  verse: '18'
+- chapter: '3'
+  id: nb.3.19
+  sanskrit: tan-niṣpattāv aniṣpannasya tat-svabhāvatva-abhāvāt.
+  type: sutra
+  verse: '19'
+- chapter: '3'
+  id: nb.3.20
+  sanskrit: vyabhicāra-sambhavāc ca.
+  type: sutra
+  verse: '20'
+- chapter: '3'
+  id: nb.3.21
+  sanskrit: 'kāryahetoḥ prayogaḥ: yatra dhūmas tatra agniḥ, yathā mahānasa-ādau. asti
+    ca iha dhūma iti.'
+  type: sutra
+  verse: '21'
+- chapter: '3'
+  id: nb.3.22
+  sanskrit: iha api siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryahetur vaktavyaḥ.
+  type: sutra
+  verse: '22'
+- chapter: '3'
+  id: nb.3.23
+  sanskrit: 'vaidharmyavataḥ prayogaḥ: yat sad upalabdhi-lakṣaṇa-prāptaṃ tad upalabhyata
+    eva, yathā nīla-ādi-viśeṣaḥ. na ca evam iha upalabdhi-lakṣaṇa-prāptasya sata upalabdhir
+    ghaṭasya ity anupalabdhi-prayogaḥ.'
+  type: sutra
+  verse: '23'
+- chapter: '3'
+  id: nb.3.24
+  sanskrit: asaty anityatve na asty eva sattvam utpattimattvaṃ kṛtakatvaṃ vā. saṃś
+    ca śabda utpattimān kṛtako vā iti svabhāvahetoḥ prayogaḥ.
+  type: sutra
+  verse: '24'
+- chapter: '3'
+  id: nb.3.25
+  sanskrit: asaty agnau na bhavaty eva dhūmaḥ. atra ca asti dhūma iti kāryahetoḥ prayogaḥ.
+  type: sutra
+  verse: '25'
+- chapter: '3'
+  id: nb.3.26
+  sanskrit: sādharmyeṇa api hi prayoge arthād vaidharmya-gatir iti.
+  type: sutra
+  verse: '26'
+- chapter: '3'
+  id: nb.3.27
+  sanskrit: asati tasmin sādhyena hetor anvaya-abhāvāt.
+  type: sutra
+  verse: '27'
+- chapter: '3'
+  id: nb.3.28
+  sanskrit: tathā vaidharmyeṇa apy anvaya-gatiḥ.
+  type: sutra
+  verse: '28'
+- chapter: '3'
+  id: nb.3.29
+  sanskrit: asati tasmin sādhya-abhāve hetv-abhāvasya asiddheḥ.
+  type: sutra
+  verse: '29'
+- chapter: '3'
+  id: nb.3.30
+  sanskrit: na hi svabhāvapratibandhe asaty ekasya nivṛttav aparasya niyamena nivṛttiḥ.
+  type: sutra
+  verse: '30'
+- chapter: '3'
+  id: nb.3.31
+  sanskrit: sa ca dviprakāraḥ sarvasya. tādātmya-lakṣaṇas tadutpatti-lakṣaṇaś ca ity
+    uktam.
+  type: sutra
+  verse: '31'
+- chapter: '3'
+  id: nb.3.32
+  sanskrit: tena hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ. tasmāt nivṛtti-vacanam
+    ākṣipta-pratibandha-upadarśanam eva bhavati. yac ca pratibandha-upadarśanaṃ tad
+    eva anvaya-vacanam ity ekena api vākyena anvaya-mukhena vyatireka-mukhena vā prayuktena
+    sapakṣa-asapakṣayor liṅgasya sadasattva-khyāpanaṃ kṛtaṃ bhavati iti na avaśyaṃ
+    vākya-dvaya-prayogaḥ.
+  type: sutra
+  verse: '32'
+- chapter: '3'
+  id: nb.3.33
+  sanskrit: 'anupalabdhāv api: yat sad upalabdhi-lakṣaṇa-prāptaṃ tad upalabhyata eva
+    ity ukte, anupalabhyamānaṃ tādṛśam asad iti pratīter anvaya-siddheḥ.'
+  type: sutra
+  verse: '33'
+- chapter: '3'
+  id: nb.3.34
+  sanskrit: dvayor apy anayoḥ prayogayor na avaśyaṃ pakṣa-nirdeśaḥ.
+  type: sutra
+  verse: '34'
+- chapter: '3'
+  id: nb.3.35
+  sanskrit: yasmāt sādharmyavat-prayoge api yad upalabdhi-lakṣaṇa-prāptaṃ san na upalabhyate
+    so asad-vyavahāra-viṣayaḥ. na upalabhyate ca atra upalabdhi-lakṣaṇa-prāpto ghaṭa
+    ity ukte sāmarthyād eva na iha ghaṭa iti bhavati.
+  type: sutra
+  verse: '35'
+- chapter: '3'
+  id: nb.3.36
+  sanskrit: 'tathā vaidharmyavat-prayoge api: yaḥ sad-vyavahāra-viṣaya upalabdhi-lakṣaṇa-prāptaḥ,
+    sa upalabhyata eva. na tathā atra tādṛśo ghaṭa upalabhyata ity ukte sāmarthyād
+    eva na iha sad-vyavahāra-viṣaya iti bhavati.'
+  type: sutra
+  verse: '36'
+- chapter: '3'
+  id: nb.3.37
+  sanskrit: kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ.
+  type: sutra
+  verse: '37'
+- chapter: '3'
+  id: nb.3.38
+  sanskrit: svarūpeṇa eva svayam iṣṭo anirākṛtaḥ pakṣa iti.
+  type: sutra
+  verse: '38'
+- chapter: '3'
+  id: nb.3.39
+  sanskrit: svarūpeṇa iti sādhyatvena iṣṭaḥ.
+  type: sutra
+  verse: '39'
+- chapter: '3'
+  id: nb.3.40
+  sanskrit: svarūpeṇa eva iti sādhyatvena eva iṣṭo na sādhanatvena api.
+  type: sutra
+  verse: '40'
+- chapter: '3'
+  id: nb.3.41
+  sanskrit: yathā śabdasya anityatve sādhye cākṣuṣatvaṃ hetuḥ, śabde asiddhatvāt sādhyam.
+    na punas tad iha sādhyatvena eva iṣṭam, sādhanatvena abhidhānāt.
+  type: sutra
+  verse: '41'
+- chapter: '3'
+  id: nb.3.42
+  sanskrit: svayam iti vādinā.
+  type: sutra
+  verse: '42'
+- chapter: '3'
+  id: nb.3.43
+  sanskrit: yas tadā sādhanam āha.
+  type: sutra
+  verse: '43'
+- chapter: '3'
+  id: nb.3.44
+  sanskrit: 'etena yady api kvacic śāstre sthitaḥ sādhanam āha: tac śāstrakāreṇa tasmin
+    dharmiṇy aneka-dharma-abhyupagame api yas tadā tena vādinā dharmaḥ svayaṃ sādhayitum
+    iṣṭaḥ, sa eva sādhyo na itara ity uktaṃ bhavati.'
+  type: sutra
+  verse: '44'
+- chapter: '3'
+  id: nb.3.45
+  sanskrit: iṣṭa iti yatra arthe vivādena sādhanam upanyastaṃ tasya siddhim icchatā
+    so anukto api vacanena sādhyaḥ.
+  type: sutra
+  verse: '45'
+- chapter: '3'
+  id: nb.3.46
+  sanskrit: tad adhikaraṇatvād vivādasya.
+  type: sutra
+  verse: '46'
+- chapter: '3'
+  id: nb.3.47
+  sanskrit: yathā parārthaś cakṣur-ādayaḥ saṃghātatvāc śayana-āsana-ādy-aṅga-vad iti.
+    atra ātma-arthā ity anuktāv apy ātma-arthatā sādhyā. tena na ukta-mātram eva sādhyam
+    ity uktaṃ bhavati.
+  type: sutra
+  verse: '47'
+- chapter: '3'
+  id: nb.3.48
+  sanskrit: anirākṛta iti, etal-lakṣaṇa-yoge api yaḥ sādhayitum iṣṭo apy arthaḥ pratyakṣa-anumāna-pratīti-sva-vacanair
+    nirākriyate, na sa pakṣa iti pradarśana-artham.
+  type: sutra
+  verse: '48'
+- chapter: '3'
+  id: nb.3.49
+  sanskrit: tatra pratyakṣa-nirākṛto yathā, aśrāvaṇaḥ śabda iti.
+  type: sutra
+  verse: '49'
+- chapter: '3'
+  id: nb.3.50
+  sanskrit: anumāna-nirākṛto yathā, nityaḥ śabda iti.
+  type: sutra
+  verse: '50'
+- chapter: '3'
+  id: nb.3.51
+  sanskrit: pratīti-nirākṛto yathā, acandraḥ śaśī iti.
+  type: sutra
+  verse: '51'
+- chapter: '3'
+  id: nb.3.52
+  sanskrit: sva-vacana-nirākṛto yathā, na anumānaṃ pramāṇam.
+  type: sutra
+  verse: '52'
+- chapter: '3'
+  id: nb.3.53
+  sanskrit: iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti.
+  type: sutra
+  verse: '53'
+- chapter: '3'
+  id: nb.3.54
+  sanskrit: evaṃ siddhasya, asiddhasya api sādhanatvena abhimatasya, svayaṃ vādinā
+    tadā sādhayitum aniṣṭasya, ukta-mātrasya ca viparyayeṇa sādhyaḥ. tena eva svarūpeṇa
+    abhimato vādina iṣṭo anirākṛtaḥ pakṣa iti pakṣa-lakṣaṇam anavadyaṃ darśitaṃ bhavati.
+  type: sutra
+  verse: '54'
+- chapter: '3'
+  id: nb.3.55
+  sanskrit: trirūpaliṅga-ākhyānaṃ parārtha-anumānam ity uktam. tatra trayāṇāṃ rūpāṇām
+    ekasya api rūpasya anuktau sādhanābhāsaḥ.
+  type: sutra
+  verse: '55'
+- chapter: '3'
+  id: nb.3.56
+  sanskrit: uktāv apy asiddhau sandehe vā pratipādya-pratipādakayoḥ.
+  type: sutra
+  verse: '56'
+- chapter: '3'
+  id: nb.3.57
+  sanskrit: ekasya rūpasya dharmi-sambandhasya asiddhau sandehe vā asiddho hetvābhāsāḥ.
+  type: sutra
+  verse: '57'
+- chapter: '3'
+  id: nb.3.58
+  sanskrit: yathā, anityaḥ śabda iti sādhye cākṣuṣatvam ubhaya-asiddham.
+  type: sutra
+  verse: '58'
+- chapter: '3'
+  id: nb.3.59
+  sanskrit: cetanās tarava iti sādhye sarva-tvag-apaharaṇe maraṇaṃ prativādy-asiddham,
+    vijñāna-indriya-āyur nirodha-lakṣaṇasya maraṇasya anena abhyupagamāt, tasya ca
+    taruṣv asambhavāt.
+  type: sutra
+  verse: '59'
+- chapter: '3'
+  id: nb.3.60
+  sanskrit: acetanāḥ sukha-ādaya iti sādhye utpattimatvaṃ vā sāṃkhyasya svayaṃ vādino
+    asiddham.
+  type: sutra
+  verse: '60'
+- chapter: '3'
+  id: nb.3.61
+  sanskrit: tathā svayaṃ tad-āśrayaṇasya vā sandehe asiddhaḥ.
+  type: sutra
+  verse: '61'
+- chapter: '3'
+  id: nb.3.62
+  sanskrit: yathā bāṣpa-ādi-bhāvena sandihyamāno bhūta-saṃghāto agni-siddhāv upadiśyamānaḥ
+    sandigdha-asiddhaḥ.
+  type: sutra
+  verse: '62'
+- chapter: '3'
+  id: nb.3.63
+  sanskrit: yathā iha nikuñje mayūraḥ kekāyitād iti.
+  type: sutra
+  verse: '63'
+- chapter: '3'
+  id: nb.3.64
+  sanskrit: tad-āpāta-deśa-vibhrame.
+  type: sutra
+  verse: '64'
+- chapter: '3'
+  id: nb.3.65
+  sanskrit: dharmy-asiddhāv apy asiddhaḥ, yathā sarvagata ātmā iti sādhye sarvatra
+    upalambhamāna-guṇatvam.
+  type: sutra
+  verse: '65'
+- chapter: '3'
+  id: nb.3.66
+  sanskrit: tathā ekasya rūpasya asapakṣe asattvasya asiddhāv anaikāntiko hetvābhāsaḥ.
+  type: sutra
+  verse: '66'
+- chapter: '3'
+  id: nb.3.67
+  sanskrit: yathā śabdasya anityatva-ādike dharme sādhye prameyatva-ādiko dharmaḥ
+    sapakṣa-vipakṣayoḥ sarvatra ekadeśe vā vartamānaḥ.
+  type: sutra
+  verse: '67'
+- chapter: '3'
+  id: nb.3.68
+  sanskrit: tathā, asya eva rūpasya sandehe apy anaikāntika eva.
+  type: sutra
+  verse: '68'
+- chapter: '3'
+  id: nb.3.69
+  sanskrit: yathā asarvajñaḥ kaścid vivakṣitaḥ puruṣo rāga-ādimān vā sādhye vaktṛtva-ādiko
+    dharmaḥ sandigdha-vipakṣa-vyāvṛttikaḥ.
+  type: sutra
+  verse: '69'
+- chapter: '3'
+  id: nb.3.70
+  sanskrit: sarvajño vaktā na upalabhyate ity evaṃprakārasya anupalambhasya adṛśya-ātma-viṣayatvena
+    sandeha-hetutvāt. tato asarvajña-viparyayād vaktṛtva-āder vyāvṛttiḥ sandigdhā.
+  type: sutra
+  verse: '70'
+- chapter: '3'
+  id: nb.3.71
+  sanskrit: vaktṛtva-sarvajñatvayor virodha-abhāvāc ca yaḥ sarvajñaḥ sa vaktā na bhavati
+    ity adarśane api vyatireko na sidhyati sandehāt.
+  type: sutra
+  verse: '71'
+- chapter: '3'
+  id: nb.3.72
+  sanskrit: dvividho hi padārthānāṃ virodhaḥ.
+  type: sutra
+  verse: '72'
+- chapter: '3'
+  id: nb.3.73
+  sanskrit: avikala-kāraṇasya bhavato anyabhāve abhāvād virodha-gatiḥ.
+  type: sutra
+  verse: '73'
+- chapter: '3'
+  id: nb.3.74
+  sanskrit: śīta-uṣṇa-sparśa-vat.
+  type: sutra
+  verse: '74'
+- chapter: '3'
+  id: nb.3.75
+  sanskrit: paraspara-parihāra-sthita-lakṣaṇatayā vā bhāva-abhāva-vat.
+  type: sutra
+  verse: '75'
+- chapter: '3'
+  id: nb.3.76
+  sanskrit: sa ca dvividho api virodho vaktṛtva-sarvajñatvayor na sambhavati.
+  type: sutra
+  verse: '76'
+- chapter: '3'
+  id: nb.3.77
+  sanskrit: na ca aviruddha-vidher anupalabdhāv apy abhāva-gatiḥ.
+  type: sutra
+  verse: '77'
+- chapter: '3'
+  id: nb.3.78
+  sanskrit: rāga-ādīnāṃ vacana-ādeś ca kāryakāraṇabhāva-asiddheḥ.
+  type: sutra
+  verse: '78'
+- chapter: '3'
+  id: nb.3.79
+  sanskrit: arthāntarasya ca akāraṇasya nivṛttau na vacana-āder nivṛttiḥ.
+  type: sutra
+  verse: '79'
+- chapter: '3'
+  id: nb.3.80
+  sanskrit: iti sandigdha-vyatireko anaikāntiko vacana-ādiḥ.
+  type: sutra
+  verse: '80'
+- chapter: '3'
+  id: nb.3.81
+  sanskrit: dvayo rūpayor viparyaya-siddhau viruddhaḥ.
+  type: sutra
+  verse: '81'
+- chapter: '3'
+  id: nb.3.82
+  sanskrit: kayor dvayoḥ.
+  type: sutra
+  verse: '82'
+- chapter: '3'
+  id: nb.3.83
+  sanskrit: sapakṣe sattvasya, asapakṣe ca asattvasya, yathā kṛtakatvaṃ prayatnānantarīyakatvaṃ
+    ca nityatve sādhye viruddho hetvābhāsaḥ.
+  type: sutra
+  verse: '83'
+- chapter: '3'
+  id: nb.3.84
+  sanskrit: anayoḥ sapakṣe asattvam, asapakṣe ca sattvam iti viparyaya-siddhiḥ.
+  type: sutra
+  verse: '84'
+- chapter: '3'
+  id: nb.3.85
+  sanskrit: etau ca sādhya-viparyaya-sādhanād viruddhau.
+  type: sutra
+  verse: '85'
+- chapter: '3'
+  id: nb.3.86
+  sanskrit: nanu ca tṛtīyo api iṣṭa-vighāta-kṛd viruddhaḥ.
+  type: sutra
+  verse: '86'
+- chapter: '3'
+  id: nb.3.87
+  sanskrit: yathā parārthāś cakṣur-ādayaḥ saṃghātatvāc śayana-āsana-ādy-aṅga-vad iti.
+  type: sutra
+  verse: '87'
+- chapter: '3'
+  id: nb.3.88
+  sanskrit: tad iṣṭa-saṃhata-pārārthya-viparyaya-sādhanād viruddhaḥ.
+  type: sutra
+  verse: '88'
+- chapter: '3'
+  id: nb.3.89
+  sanskrit: sa iha kasmān na uktaḥ.
+  type: sutra
+  verse: '89'
+- chapter: '3'
+  id: nb.3.90
+  sanskrit: anayor antarbhāvāt.
+  type: sutra
+  verse: '90'
+- chapter: '3'
+  id: nb.3.91
+  sanskrit: na hy ayam ābhyāṃ sādhya-viparyaya-sādhanatvena bhidyate.
+  type: sutra
+  verse: '91'
+- chapter: '3'
+  id: nb.3.92
+  sanskrit: na hi iṣṭa-uktayoḥ sādhyatvena kaścid viśeṣa iti.
+  type: sutra
+  verse: '92'
+- chapter: '3'
+  id: nb.3.93
+  sanskrit: dvayo rūpayor ekasya asiddhāv aparasya ca sandehe anaikāntikaḥ.
+  type: sutra
+  verse: '93'
+- chapter: '3'
+  id: nb.3.94
+  sanskrit: yathā vīta-rāgaḥ kaścit sarvajño vā, vaktṛtvād iti. vyatireko atra asiddhaḥ,
+    sandigdho anvayaḥ.
+  type: sutra
+  verse: '94'
+- chapter: '3'
+  id: nb.3.95
+  sanskrit: sarvajña-vīta-rāgayor viprakarṣād vacana-ādes tatra sattvam asattvaṃ vā
+    sandigdham.
+  type: sutra
+  verse: '95'
+- chapter: '3'
+  id: nb.3.96
+  sanskrit: anayor eva dvayo rūpayoḥ sandehe anaikāntikaḥ.
+  type: sutra
+  verse: '96'
+- chapter: '3'
+  id: nb.3.97
+  sanskrit: yathā sātmakaṃ jīvaccharīraṃ prāṇa-ādimattvād iti.
+  type: sutra
+  verse: '97'
+- chapter: '3'
+  id: nb.3.98
+  sanskrit: na hi sātmaka-nirātmakābhyām anyo rāśir asti yatra ayaṃ prāṇa-ādir vartate.
+  type: sutra
+  verse: '98'
+- chapter: '3'
+  id: nb.3.99
+  sanskrit: ātmano vṛtti-vyavacchedābhyāṃ sarva-saṃgrahād.
+  type: sutra
+  verse: '99'
+- chapter: '3'
+  id: nb.3.100
+  sanskrit: na apy anayor ekatra vṛtti-niścayaḥ.
+  type: sutra
+  verse: '100'
+- chapter: '3'
+  id: nb.3.101
+  sanskrit: sātmakatvena anātmakatvena vā prasiddhe prāṇa-āder asiddheḥ.
+  type: sutra
+  verse: '101'
+- chapter: '3'
+  id: nb.3.102
+  sanskrit: tasmāj jīvaccharīra-sambandhī prāṇa-ādiḥ sātmakād anātmakāc ca sarvasmād
+    vyāvṛttatvena asiddhes tābhyāṃ na vyatiricyate.
+  type: sutra
+  verse: '102'
+- chapter: '3'
+  id: nb.3.103
+  sanskrit: na tatra anveti.
+  type: sutra
+  verse: '103'
+- chapter: '3'
+  id: nb.3.104
+  sanskrit: ekātmany apy asiddheḥ.
+  type: sutra
+  verse: '104'
+- chapter: '3'
+  id: nb.3.105
+  sanskrit: na api sātmakād anātmakāc ca tasya anvaya-vyatirekayor abhāva-niścayaḥ.
+  type: sutra
+  verse: '105'
+- chapter: '3'
+  id: nb.3.106
+  sanskrit: eka-abhāva-niścayasya apara-bhāva-niścaya-nāntarīyakatvāt.
+  type: sutra
+  verse: '106'
+- chapter: '3'
+  id: nb.3.107
+  sanskrit: anvaya-vyatirekayor anyonya-vyavaccheda-rūpatvāt. tata eva anvaya-vyatirekayoḥ
+    sandehād anaikāntikāḥ.
+  type: sutra
+  verse: '107'
+- chapter: '3'
+  id: nb.3.108
+  sanskrit: sādhya-itarayor ato niścaya-abhāvāt.
+  type: sutra
+  verse: '108'
+- chapter: '3'
+  id: nb.3.109
+  sanskrit: evam eṣāṃ trayāṇāṃ rūpāṇām ekaikasya dvayor dvayor vā rūpayor asiddhau
+    sandehe vā yathāyogam asiddha-viruddha-anaikāntikās trayo hetvābhāsāḥ.
+  type: sutra
+  verse: '109'
+- chapter: '3'
+  id: nb.3.110
+  sanskrit: viruddhāvyabhicāry api saṃśaya-hetur uktaḥ. sa iha kasmān na uktaḥ.
+  type: sutra
+  verse: '110'
+- chapter: '3'
+  id: nb.3.111
+  sanskrit: anumāna-viṣaye asambhavāt.
+  type: sutra
+  verse: '111'
+- chapter: '3'
+  id: nb.3.112
+  sanskrit: na hi sambhavo asti kārya-svabhāvayor ukta-lakṣaṇayor anupalambhasya ca
+    viruddhatāyāḥ.
+  type: sutra
+  verse: '112'
+- chapter: '3'
+  id: nb.3.113
+  sanskrit: na ca anyo avyabhicārī.
+  type: sutra
+  verse: '113'
+- chapter: '3'
+  id: nb.3.114
+  sanskrit: tasmād avastu-darśana-bala-pravṛttam āgama-āśrayam anumānam āśritya tad-artha-vicāreṣu
+    viruddhāvyabhicārī sādhana-doṣa uktaḥ.
+  type: sutra
+  verse: '114'
+- chapter: '3'
+  id: nb.3.115
+  sanskrit: śāstrakārāṇām artheṣu bhrāntyā viparīta-svabhāva-upasaṃhāra-sambhavāt.
+  type: sutra
+  verse: '115'
+- chapter: '3'
+  id: nb.3.116
+  sanskrit: na hy asya sambhavo yathāvasthita-vastu-sthitiṣv ātma-kārya-anupalambheṣu.
+  type: sutra
+  verse: '116'
+- chapter: '3'
+  id: nb.3.117
+  sanskrit: 'tatra udāharaṇam: yat sarva-deśa-avasthitaiḥ sva-sambandhibhir yugapad
+    abhisambadhyate tat sarvagatam, yathā ākāśam. abhisambadhyate ca sarva-deśa-avasthitaiḥ
+    sva-sambandhibhir yugapat sāmānyam iti.'
+  type: sutra
+  verse: '117'
+- chapter: '3'
+  id: nb.3.118
+  sanskrit: tat-sambandhi-svabhāva-mātra-anubandhinī tad-deśa-saṃnihita-svabhāvatā.
+  type: sutra
+  verse: '118'
+- chapter: '3'
+  id: nb.3.119
+  sanskrit: na hi yo yatra na asti tad-deśam ātmanā vyāpnoti iti svabhāvahetu-prayogaḥ.
+  type: sutra
+  verse: '119'
+- chapter: '3'
+  id: nb.3.120
+  sanskrit: 'dvitīyo api prayogaḥ: yad upalabdhi-lakṣaṇa-prāptaṃ san na upalabhyate
+    na tat tatra asti. tad yathā, kvacid avidyamāno ghaṭaḥ. na upalabhyate ca upalabdhi-lakṣaṇa-prāptaṃ
+    sāmānyaṃ vyakty-antarāleṣv iti. ayam anupalambhaḥ svabhāvaś ca paraspara-viruddha-artha-sādhanād
+    ekatra saṃśayaṃ janayataḥ.'
+  type: sutra
+  verse: '120'
+- chapter: '3'
+  id: nb.3.121
+  sanskrit: trirūpo hetur uktaḥ. tāvatā ca artha-pratītir iti na pṛthag dṛṣṭānto nāma
+    sādhana-avayavaḥ kaścid. tena na asya lakṣaṇaṃ pṛthag ucyate gata-arthatvāt.
+  type: sutra
+  verse: '121'
+- chapter: '3'
+  id: nb.3.122
+  sanskrit: hetoḥ sapakṣa eva sattvam asapakṣāc ca sarvato vyāvṛttī rūpam uktam abhedena.
+    punar viśeṣeṇa kārya-svabhāvayor ukta-lakṣaṇayor janma-tan-mātra-anubandhau darśanīya-avaktau.
+    tac ca darśayatā, yatra dhūmas tatra agniḥ, asaty agnau na kvacid dhūmo yathā
+    mahānasa-itarayoḥ, yatra kṛtakatvaṃ tatra anityatvam, anityatva-abhāvo kṛtakatva-asambhavo
+    yathā ghaṭa-ākāśayoḥ, iti darśanīyam. na hy anyathā sapakṣa-vipakṣayoḥ sadasattve
+    yathokta-prakāre śakye darśayitum. tat kāryatā-niyamaḥ kārya-liṅgasya svabhāva-liṅgasya
+    ca svabhāvena vyāptiḥ. asmiṃś ca arthe darśite darśita eva dṛṣṭānto bhavati. etāvān
+    mātra-rūpatvāt tasya iti.
+  type: sutra
+  verse: '122'
+- chapter: '3'
+  id: nb.3.123
+  sanskrit: etena eva dṛṣṭānta-doṣā api nirastā bhavanti.
+  type: sutra
+  verse: '123'
+- chapter: '3'
+  id: nb.3.124
+  sanskrit: yathā nityaḥ śabdo amūrtatvāt. karma-vat paramāṇu-vad ghaṭa-vad iti. ete
+    dṛṣṭāntābhāsāḥ sādhya-sādhana-dharma-ubhaya-vikalāḥ.
+  type: sutra
+  verse: '124'
+- chapter: '3'
+  id: nb.3.125
+  sanskrit: tathā sandigdha-sādhya-dharma-ādayaś ca, yathā rāga-ādimān ayaṃ vacanād
+    rathyā-puruṣa-vat. maraṇa-dharmo ayaṃ puruṣo rāga-ādimattvād rathyā-puruṣa-vat.
+    asarvajño ayaṃ rāga-ādimatvād rathyā-puruṣa-vad iti.
+  type: sutra
+  verse: '125'
+- chapter: '3'
+  id: nb.3.126
+  sanskrit: tathā ananvayo apradarśita-anvayaś ca, yathā yo uktā sa rāga-ādimān, iṣṭa-puruṣa-vat.
+    anityaḥ śabdaḥ kṛtakatvād ghaṭa-vad iti.
+  type: sutra
+  verse: '126'
+- chapter: '3'
+  id: nb.3.127
+  sanskrit: tathā viparīta-anvayaḥ, yad anityaṃ tat kṛtakam iti.
+  type: sutra
+  verse: '127'
+- chapter: '3'
+  id: nb.3.128
+  sanskrit: sādharmyeṇa dṛṣṭānta-doṣāḥ.
+  type: sutra
+  verse: '128'
+- chapter: '3'
+  id: nb.3.129
+  sanskrit: vaidharmyeṇa api, paramāṇu-vat karma-vat ākāśa-vad iti sādhya-ādy-avyatirekiṇaḥ.
+  type: sutra
+  verse: '129'
+- chapter: '3'
+  id: nb.3.130
+  sanskrit: tathā sandigdha-sādhya-vyatireka-ādayaḥ, yathā asarvajñāḥ kapila-ādayo
+    anāptā vā avidyamāna-sarvajñatā-āptatā-liṅgabhūta-pramāṇa-atiśaya-śāsanatvād iti.
+    atra vaidharmya-udāharaṇam, yaḥ sarvajña āpto vā sa jyotir-jñāna-ādikam upadiṣṭavān,
+    yathā ṛṣabha-vardhamāna-ādir iti. tatra asarvajñatā anāptayoḥ sādhya-dharmayoḥ
+    sandigdho vyatirekaḥ.
+  type: sutra
+  verse: '130'
+- chapter: '3'
+  id: nb.3.131
+  sanskrit: sandigdha-sādhana-vyatireko yathā, na trayīvidā brāhmaṇena grāhya-vacanaḥ
+    kaścid vivakṣitaḥ puruṣo rāga-ādimattvād iti. atra vaidharmya-udāharaṇam, ye grāhya-vacanā
+    na te rāga-ādimantaḥ. tad yathā gautama-ādayo dharma-śāstrāṇāṃ praṇetāra iti.
+    gautama-ādibhyo rāga-ādimattvasya sādhana-dharmasya vyāvṛttiḥ sandigdhā.
+  type: sutra
+  verse: '131'
+- chapter: '3'
+  id: nb.3.132
+  sanskrit: sandigdha-ubhaya-vyatireko yathā, avīta-rāgāḥ kapila-ādayaḥ, parigraha-āgraha-yogād
+    iti. atra vaidharmyeṇa udāharaṇam, yo vīta-rāgo na tasya parigraha-āgrahaḥ, yathā
+    ṛṣabha-āder iti. ṛṣabha-āder avīta-rāgatva-parigraha-āgraha-yogayoḥ sādhya-sādhana-dharmayoḥ
+    sandigdho vyatirekaḥ.
+  type: sutra
+  verse: '132'
+- chapter: '3'
+  id: nb.3.133
+  sanskrit: avyatireko yathā, avīta-rāgo ayaṃ vaktṛtvāt. vaidharmyeṇa udāharaṇam,
+    yatra avīta-rāgatvaṃ na asti na sa vaktā, yathā upala-khaṇḍa iti. yady apy upala-khaṇḍād
+    ubhayaṃ vyāvṛttaṃ tathā api sarvo vīta-rāgo na vaktā iti vyāptyā vyatireka-asiddher
+    avyatirekaḥ.
+  type: sutra
+  verse: '133'
+- chapter: '3'
+  id: nb.3.134
+  sanskrit: apradarśita-vyatireko yathā, anityaḥ śabdaḥ, kṛtakatvād ākāśa-vad iti
+    vaidharmyeṇa.
+  type: sutra
+  verse: '134'
+- chapter: '3'
+  id: nb.3.135
+  sanskrit: viparīta-vyatireko yathā, yad akṛtakaṃ tan nityaṃ bhavati iti.
+  type: sutra
+  verse: '135'
+- chapter: '3'
+  id: nb.3.136
+  sanskrit: na hy ebhir dṛṣṭāntābhāsāir hetoḥ sāmānyalakṣaṇaṃ sapakṣa eva sattvaṃ
+    vipakṣe ca sarvatra asattvam eva niścayena śakyaṃ darśayituṃ viśeṣa-lakṣaṇaṃ vā.
+    tad arthāpattyā eṣāṃ nirāso draṣṭavyaḥ.
+  type: sutra
+  verse: '136'
+- chapter: '3'
+  id: nb.3.137
+  sanskrit: dūṣaṇā nyūnatā-ādy-uktiḥ.
+  type: sutra
+  verse: '137'
+- chapter: '3'
+  id: nb.3.138
+  sanskrit: ye pūrvaṃ nyūnatā-ādayaḥ sādhana-doṣā uktās teṣām udbhāvanaṃ dūṣaṇam.
+    tena para-iṣṭa-artha-siddhi-pratibandhāt.
+  type: sutra
+  verse: '138'
+- chapter: '3'
+  id: nb.3.139
+  sanskrit: dūṣaṇābhāsās tu jātayaḥ.
+  type: sutra
+  verse: '139'
+- chapter: '3'
+  id: nb.3.140
+  sanskrit: abhūta-doṣa-udbhāvanāni jāty-uttarāṇi iti.
+  type: sutra
+  verse: '140'
+work:
+  genre: sastra
+  id: nyayabindu
+  metadata:
+    source: GRETIL
+  title: Nyāyabindu (Dharmakīrti)
+  tradition: buddhist

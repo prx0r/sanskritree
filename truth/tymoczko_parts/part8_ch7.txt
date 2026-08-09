@@ -1,0 +1,2088 @@
+chapter 7
+
+Functional Harmony
+This chapter reconsiders four basic topics in tonal theory: chord progressions,
+sequences, key distances, and the Schenkerian critique of Roman numeral analysis.
+My aim here is not to provide a detailed restatement of tonal theory, a project that
+would require a book in itself, but rather to indicate some points of intersection with
+our theoretical work. In particular, I’ll show how we can use the ideas of Part I to
+model the elementary harmonic and modulatory procedures of classical music.
+
+7.1
+
+the thirds-based grammar of
+elementary tonal harmony
+
+In many broadly tonal styles, chord progressions are relatively unconstrained: in
+Renaissance music, contemporary popular music, and many folk styles, virtually
+any diatonic triad can progress to any other. From this point of view, Western classical music is exceptional—here, a root position V chord is overwhelmingly likely to
+progress to a root position I chord, whereas it moves to root position IV only rarely.
+Chords thus seem to obey speciﬁcally harmonic laws, with some progressions being
+common while others are rare. This is one of the features of Western music that is
+most suggestively language-like. For just as in English, the subject normally precedes
+the verb, which in turn precedes the object, so too does Western music seem to have
+a harmonic “grammar” according to which subdominant chords precede dominants
+that in turn precede tonics.1
+Figure 7.1.1 models the major-mode version of this harmonic grammar.2 Here,
+the diatonic chords other than iii are arranged as a chain of descending thirds, with
+the mediant being omitted because it is rare. Chords can move rightward by any
+number of steps along this chain from tonic to dominant; however, they can move
+leftward only along one of the labeled arrows. (I will say that a sequence of rightward
+
+1 Note that I am not claiming that music is a language, only that it involves recurring patterns somewhat
+analogous to linguistic syntax. See Patel 2008 for more discussion. Gjerdingen 2007 offers a nice counterweight to the syntactical point of view, emphasizing idioms and schemas rather than abstract rules.
+2 Here I am ignoring inversion; in actual music, vii° is almost always in ﬁrst inversion, and vi is almost
+always in root position. The resulting model resembles that in Kostka and Payne 2003. The thirds-based
+arrangement of diatonic triads also plays a role in Agmon 1995, Meeus 2000, Tymoczko 2003b, and Quinn
+2005.
+
+Functional Harmony
+Figure 7.1.1 A simple model of the
+allowable chord progressions in major-mode
+functional harmony. Chords can move
+rightward by any amount, but can move left
+only along the arrows. “S” and “D” stand for
+“subdominant” and “dominant,” respectively.
+
+motions from the tonic, followed by a leftward return, constitutes a harmonic cycle.)
+Each Roman numeral can represent either a pure triad or a seventh chord, with the
+sevenths on ii and V being particularly common. The V chord can be preceded by I@,
+and any chord other than vii° can be preceded by its own “applied dominant.”3
+This model privileges certain chords by assigning them distinctive roles, with tonics typically beginning harmonic cycles, dominants (vii° and V) ending them by progressing back to I, and subdominants (ii and IV) preceding dominants.4 In addition,
+the model privileges certain kinds of motion: descending thirds and ﬁfths are more
+often permissible than ascending thirds and ﬁfths, while ascending steps are more
+often permissible than descending steps. This asymmetry arises as a consequence of
+the graph’s spatial layout. Since rightward motion is always permitted, every chord
+except V can progress by descending third, every chord except vii° can progress by
+descending ﬁfth, and every chord except ii can progress by ascending step. By contrast, only two chords (I and IV) can progress by ascending ﬁfth, only two (I and
+vi) can progress by descending step, and only one can progress by ascending third.
+Descending thirds, descending ﬁfths, and ascending steps are often called “strong”
+progressions, with the remaining progressions said to be “weak.”5 Our model predicts
+that chords closer to the dominant side of the spectrum should be more likely to
+move “strongly”—a claim that is borne out by actual music (Figure 7.1.2).
+For the most part, functionally tonal music cycles through the graph in a few stereotypical ways: classical pieces consist largely of progressions such as I–V–I, I–ii–V–I,
+I–vii°–I, and I–IV–I. Occasionally, however, composers will employ more extended
+
+3 Some theorists consider vii° to be a V7 with a missing root. However, this view cannot account for
+the regular root motions in sequences such as C–G–a–e°–F- . . ., where diminished triads are on par with
+major and minor triads (cf. Haydn’s Piano Sonata No. 49 in Ef major, I, 50, and Beethoven Piano Sonata
+in D major, Op. 28, IV, 130ff). Other pedagogues disallow the progression vii°–V. However, in Mozart’s
+piano sonatas, vii° is about nine times more likely to move to V than V is to move to vii°. Readers who
+would prefer to disallow vii°–V can imagine placing the two chords on top of each other, so that neither
+can progress rightward to the other.
+4 Note that these functional labels (“subdominant,” “dominant”) provide only an approximate description of harmonic behavior, and do not explain why the progressions IV–ii and IV–I are more common
+than ii–IV and ii–I. For more, see Tymoczko 2003b.
+5 See Rameau 1722/1971, Schoenberg 1969, Sadai 1980, and Meeus 2000.
+
+227
+
+228
+
+history and analysis
+Figure 7.1.2 The relative tendency of major-mode triads to progress “strongly” (by
+descending third or ﬁfth, or ascending step) in a sample of 70 Bach chorales (top line) and in
+Mozart’s piano sonatas (bottom line). The asymmetry increases as one moves from tonic to
+dominant by descending third.
+
+I (53%) → vi (53%) → IV (76%) → ii (100%) → vii° (96%) → V (95%) (Bach)
+I (32%) → vi (67%) → IV (66%) → ii (97%) → vii° (99%) → V (97%) (Mozart)
+
+segments of the descending thirds cycle, as in Figure 7.1.3. The idea behind our model
+is to portray these falling thirds progressions as the fundamental path from tonic to
+dominant. Falling ﬁfths are “composite” progressions insofar as they can typically be
+“factored” into a pair of falling thirds: I–IV can become I–vi–IV, vi–ii can become
+vi–IV–ii, and so on. By contrast, thirds cannot generally be factored into ﬁfths. We
+can conclude that falling thirds are more fundamental than falling ﬁfths, even though
+falling ﬁfths may be more common.6 It is interesting here that tonal composers sometimes utilize the full circle of diatonic thirds, interposing a mediant triad between
+dominant and tonic (Figure 7.1.4). In these passages, the engine of falling thirds harmony temporarily overcomes the V–I paradigm, blurring the expected resolution of
+the dominant chord.
+Minor-mode harmony is slightly more complicated, as it involves frequent
+digressions to the relative major. However, if we treat these as brief changes of key, we
+can use virtually the same graph for minor (Figure 7.1.5). This symmetry between
+
+Figure 7.1.3 The chorale “Bach’s
+chorale “Auf, auf, mein Herz,
+und du mein ganzer Sinn”
+(Riemenschneider No. 124).
+
+Figure 7.1.4 Bach’s duet (BWV 803, mm. 22–26) interposes iii between V and I.
+
+6 It is important here to distinguish the permissible from the probable. Root progressions by descending
+ﬁfth are more common than root progressions by third; however, when describing the permissible progressions, it is useful to treat falling-thirds progressions as basic.
+
+Functional Harmony
+
+major and minor is quite remarkable, particularly when one reﬂects that in other tonal
+styles modes often have their own distinctive harmonic repertoires. (For instance, the
+natural minor progression i–VII–VI–VII–i
+is quite common in contemporary popular music, while its major-mode analogue,
+I–vii°–vi–vii°–I, is virtually unknown.7) This
+sort of modal asymmetry would seem to be
+the default situation: after all, there is no reason to expect that progressions as dissimilar
+as VII–VI and vii°–vi should function in the
+same way. Classical harmony is from this
+point of view atypical, imposing a rigorous
+consistency on all its modes and keys. The
+payoff, of course, is that composers can present “the same” musical material in two dramatically different emotional contexts.
+To evaluate the thirds-based model, we need a substantial collection of harmonic
+analyses of traditional tonal works. There are, to my knowledge, only two: a collection of 70 Bach chorales, and a much larger collection of the complete Mozart piano
+sonatas, both produced in conjunction with the writing of this book.8 Figure 7.1.6
+identiﬁes the probability of each two-chord diatonic progression in the two repertoires, while Figure 7.1.7 identiﬁes the most common harmonic cycles. The results
+are quite consistent with the descending thirds model: in Bach, 95% of roughly 3000
+two-chord diatonic progressions conform to our predictions, as do 97–99% of all
+Mozart’s roughly 10,000 diatonic progressions; furthermore, every one of our allowable progressions appears reasonably frequently.9 Almost all the exceptions belong
+to familiar categories: sequences (discussed shortly), chromatic chords, and other
+common tonal devices. Given the simplicity of the model, the accuracy of ﬁt is quite
+remarkable. One geometrical picture, which can be explained to students in a single
+hour, accounts for the vast majority of the chord progressions they will ordinarily
+encounter.10
+Figure 7.1.5 The allowable progressions
+in minor are largely the same as the
+allowable progressions in major. Again,
+chords can move rightward by any
+amount, but can move left only along
+the arrows.
+
+7 See also van der Merwe (1989, ch. 11).
+8 Earlier databases, such as those of Craig Sapp and Philip Norman, do not attempt to indicate key
+changes, and hence are of limited utility: a G major ii–V–I is labeled vi–V/V–V if the overall key of the
+piece is C major. My analyses, which were produced with the help of more than thirty theorists, do show
+modulations, and will hopefully be published soon.
+9 The slightly lower number (95% in Bach, rather than 97–99% in Mozart) reﬂects Bach’s somewhat
+broader diatonic vocabulary.
+10 To be sure, the model is just a ﬁrst approximation to actual tonal procedures: it does not incorporate
+chromatic chords like augmented sixths; it makes no attempt to model variation across musical styles; and
+it ignores a number of important tonal “idioms,” including sequences, motion by parallel stepwise ﬁrstinversion triads, and three-chord idioms such as the progression vi–I6–(IV/ii6).
+
+229
+
+230
+
+history and analysis
+Figure 7.1.6 Two-chord progressions in Mozart’s major-key passages (a), Mozart’s minorkey passages (b), Bach’s major-key passages (c), and Bach’s minor-key passages (d). Values
+represent the probability that, given the row-label chord, it will move to the column-label
+chord (expressed as a percentage). Sequences, passages in parallel triads, and I@ chords
+have been omitted. Of the vi–I progressions, the large majority terminate in I6; of the V–IV
+progressions, the large majority terminate in IV6.
+
+I
+I
+vi
+IV
+ii
+o
+vii
+V
+iii
+
+*
+9
+50
+1
+82
+94
+67
+
+I
+I
+vi
+IV
+ii
+o
+vii
+V
+iii
+
+*
+12
+22
+1
+91
+82
+3
+
+Figure 7.1.7
+(a) The most
+popular majormode harmonic
+cycles in a
+selection of 70
+Bach chorales.
+All of them
+conform to the
+thirds-based
+model. (b) The
+most popular
+major-mode
+harmonic cycles
+in the Mozart
+piano sonatas.
+Once again, all
+conform to the
+thirds-based
+model.
+
+o
+
+vi
+5
+*
+0
+1
+0
+4
+33
+
+IV
+15
+14
+*
+1
+1
+1
+0
+
+ii
+13
+52
+19
+*
+0
+0
+0
+
+vii
+5
+4
+10
+18
+*
+1
+0
+
+V
+62
+21
+21
+77
+16
+*
+0
+
+iii
+0
+0
+0
+0
+1
+0
+*
+
+vi
+9
+*
+2
+1
+3
+9
+32
+
+IV
+28
+11
+*
+0
+2
+7
+52
+
+ii
+15
+30
+13
+*
+0
+1
+3
+
+vii
+6
+9
+23
+25
+*
+0
+3
+
+o
+
+V
+41
+33
+39
+71
+4
+*
+6
+
+iii
+1
+5
+0
+0
+1
+0
+*
+
+VI
+5
+*
+0
+0
+0
+8
+0
+
+iv
+8
+19
+*
+0
+1
+5
+100
+
+o
+
+ii
+9
+58
+10
+*
+1
+0
+0
+
+o
+
+i
+VI
+iv
+o
+ii
+o
+vii
+V
+III
+
+i
+*
+3
+43
+2
+74
+81
+0
+
+vii
+11
+13
+9
+27
+*
+5
+0
+
+V
+67
+6
+39
+71
+25
+*
+0
+
+III
+0
+0
+0
+0
+0
+0
+*
+
+VI
+9
+*
+0
+0
+0
+10
+31
+
+iv
+20
+14
+*
+0
+3
+6
+25
+
+o
+
+ii
+18
+54
+14
+*
+0
+0
+6
+
+o
+
+i
+VI
+iv
+o
+ii
+o
+vii
+V
+III
+
+i
+*
+3
+22
+1
+81
+80
+6
+
+vii
+12
+8
+15
+7
+*
+2
+13
+
+V
+41
+19
+48
+89
+15
+*
+19
+
+III
+1
+3
+0
+3
+1
+2
+*
+
+Functional Harmony
+
+7.2
+
+voice leading in functional tonality
+
+In Part I, we saw that triads and seventh chords divide the octave nearly evenly, and
+hence can be linked to all their transpositions by reasonably efﬁcient voice leading.
+It follows that virtually any collection of purely harmonic rules (such as “IV can go
+to ii but not iii”) can be realized by progressions exhibiting efﬁcient voice leading. By
+contrast, “clustered” chords such as {B, C, Df} are not so close to all of their transpositions, and would require harmonic laws speciﬁcally tailored to their voice-leading
+capabilities. In this sense, the internal structure of the triad underwrites the independence of traditional harmonic laws.
+However, attentive readers will have noticed that there is an interesting connection between the two domains. In §6.3 we saw that the circle of thirds can be used to
+represent single-step voice leadings among diatonic triads. Here the circle is purely
+contrapuntal, describing minimal voice-leading relationships among chords. But we
+have just seen that the chain of third-related chords can also be used to model harmonic successions in functionally tonal music. Thus the passage shown in Figure 7.2.1
+has a double signiﬁcance: its upper voices are at once a sequence of triads linked by
+maximally efﬁcient voice leading, as well as a complete statement of all the potential
+intermediaries between tonic and dominant. Harmony and counterpoint here work
+hand in hand, creating a uniﬁed structure in which horizontal and vertical forces are
+in delicate balance.
+One reason for this is that common tones and efﬁcient voice leading together
+produce a kind of harmonic similarity.11 As shown in Figure 7.2.2, a root position F
+major triad is very similar to a ﬁrst-inversion D minor triad, since the chords can be
+linked by single-step voice leading.12 It follows that a ﬁrst-inversion D minor triad can
+replace a root position F major triad without much disrupting the music’s harmonic
+or contrapuntal fabric: the “substitute” chord will share the bass note and upper third
+(F and A), substituting a consonant sixth for a perfect ﬁfth (D for C; Figure 7.2.2b).
+This may help explain how the circle of thirds comes to play its two different roles: by
+linking chords according to efﬁcient voice leading, the circle deﬁnes a psychologically
+
+Figure 7.2.1 Here, the upper voices are connected by single-step voice leading, while the
+harmonies move along the descending circle of thirds from tonic to dominant.
+
+11 This notion of similarity is explored in Callender, Quinn, and Tymoczko 2008.
+12 The F major triad is also very similar to a second-inversion A minor triad, but second-inversion
+triads play only a very small role in functional tonality.
+
+231
+
+232
+
+history and analysis
+Figure 7.2.2 (a) Third-related triads sound similar, since they share two of their three notes
+and can be connected by single-step voice leading. (b) One can often replace a diatonic chord
+with a third-related chord, without much disrupting the harmonic or contrapuntal fabric of
+a passage.
+
+robust notion of similarity, one that in turn inﬂuenced the developing conventions
+of functional harmony.
+We can therefore say that functional tonality permits two different kinds of substitution. In bass-line substitution, the same chord progression appears over different bass notes, as in Figure 7.2.3a. (Traditional Roman numeral analysis was in fact
+developed to capture the similarity between such progressions.) In third substitution,
+a root position chord is replaced with a ﬁrst-inversion chord on the same bass, or
+vice versa (Figure 7.2.3b). Here the bass stays the same while the content of the harmony is subtly altered. (The potential for this sort of substitution might be thought
+to be implicit in ﬁgured-bass notation, in which the bass is fundamental to a chord’s
+identity.) Third substitution explains why there are so many third-related chords
+that can play similar musical roles: I/vi6, vi/IV6, IV/ii6, vii°/V6, and even V/III+6.13 The
+challenge in describing functional harmony is to make room for both perspectives,
+combining the advantages of the root-functional and ﬁgured-bass approaches. Our
+model does so by way of geometry: by placing third-related triads adjacent to one
+another, it asserts that these chords can typically substitute for one another in the
+rightward progression from tonic to dominant.
+
+13 Riemannian “function theory” (Riemann 1893) allows all third-related triads other than ii and vii° to
+represent the same “harmonic function.” Contemporary anglophone pedagogues do not typically endorse
+full-blown function theory, though many incorporate some of its features. Aldwell and Schachter (2002,
+ch. 11), for example, emphasize the similarity of vi and IV6.
+
+Functional Harmony
+Figure 7.2.3 Bass-line and third substitution. In (a) a same I–IV–V–I chord progression
+appears over two different bass lines. In (b), root position and ﬁrst-inversion chords (over the
+same bass note) play similar harmonic roles.
+
+Figure 7.2.4 rewrites the circle of thirds so as to identify the pitch classes in each
+chord. It is clear that short rightward motions (i.e. “strong” progressions) will produce pitch classes that descend by third. For example, the triadic progression I–ii–V–I
+can be articulated by the pitch-class sequence (G, E, C)-(A, F, D)-(D, B, G)-(G, E, C),
+in which each new note is a third below its predecessor; other familiar progressions,
+such as I–IV–V–I, can be analyzed similarly. Tonal composers often exploit this fact
+by writing descending melodic thirds over familiar progressions—a device that was
+a particular favorite of Bach’s (Figure 7.2.5). Sometimes, as in Figure 7.2.6, we even
+ﬁnd bare sequences of falling thirds that do not articulate individual chords. Such
+passages present the raw material of functional harmony in an unusually pure manner, revealing a falling thirds essence that is typically encountered in only a reﬁned or
+processed form.
+Note that strong triadic progressions are most efﬁciently realized by ascending voice
+leading: in voice leadings like (C, E, G)®(C, E, A) or (C, E, G)®(C, F, A) notes move up by
+step. Since descending melodic steps
+are somewhat more common than
+Figure 7.2.4 Short motions along the
+descending-thirds sequence of triads can produce
+ascending steps, harmonic cycles will
+descending-thirds sequences of pitch classes.
+often contain at least one voice leading in which efﬁciency is sacriﬁced
+GEC ECA
+CAF AFD FDB DBG for the sake of descending motion.
+I – vi – IV – ii – vii°6 – V
+This is illustrated by Figure 7.2.7.
+
+233
+
+234
+
+history and analysis
+Figure 7.2.5 Bach’s music often features descending-thirds sequences of pitch classes.
+(a) The third movement of the third Brandenburg Concerto, mm. 11–12. (b) The F major
+two-part invention, mm. 21–23.
+
+Figure 7.2.6 Two passages in which melodic descending thirds do not clearly determine
+harmonies. (a) Bach’s fourteenth Goldberg Variation, mm. 9–10. (b) The opening of Brahms’
+Op. 119 No. 1.
+
+Functional Harmony
+
+Seventh chords are very different in this regard. Figure 7.2.8 shows that diatonic
+sevenths can be arranged in a circle of thirds very similar to the triadic circle, but
+with descending-thirds progressions producing descending voice leading: to move the
+seventh chord Cmaj7 down by third to Amin7 we lower the note B to A; by contrast, to
+move the C major triad down by third to A minor, we need to raise G to A. It follows
+that any “strong” seventh-chord progression can be realized by stepwise descending
+voice leading (Figure 7.2.9). (In this sense, seventh-chord harmony is somewhat more
+straightforward than the triadic version taught in harmony textbooks.14) The association between seventh chords, strong progressions, and descending stepwise voice leading plays an increasingly important role in late nineteenth-century harmony, and is
+fundamental to pieces like Chopin’s E minor prelude and Wagner’s Tristan. As we will
+see, it also provides the nucleus of jazz voice leading.
+
+Figure 7.2.7 Ascending motion provides the most efﬁcient voice leading between strongly
+related triads (top three voices of a). Since tonal phrases often feature descending melodic
+lines, composers typically have to use at least one non-minimal voice leading per harmonic
+cycle (b−c).
+
+Figure 7.2.8 Voice-leading
+relations among diatonic seventh
+chords can be modeled with a
+circle of thirds. Here descendingthird progressions are articulated
+by descending stepwise voice
+leading.
+
+14 Mathieu 1997 (cited in Ricci 2004) makes similar points.
+
+235
+
+236
+
+history and analysis
+Figure 7.2.9 Efﬁcient voice
+leading between strongly related
+seventh chords descends (top
+four voices of a). Harmonic cycles
+and descending-ﬁfths sequences
+can therefore be realized with
+maximally efﬁcient, descending
+voice leading (b−c).
+
+Finally, a word about four-voice voice leading among triads. In Chapter 6, we
+encountered the 3 + 1 schema, in which three voices move between complete triads in
+a strongly crossing-free way. But Figure 7.2.10 shows that we can also connect triads by
+nonfactorizable voice leadings, in which no voice
+Figure 7.2.10 These voice leadings
+can be eliminated without creating an incomplete
+are nonfactorizable, because
+chord. Clearly, a four-voice triadic voice leading
+eliminating any voice creates an
+incomplete triad.
+will be nonfactorizable only when it has the general form of Figure 7.2.11: a note in the ﬁrst chord
+“splits” into two adjacent notes in the second, while
+two notes in the ﬁrst “merge” onto the remaining
+note in the second.15 There are 3 × 3 = 9 basic possibilities, depending on whether the splitting and
+merged-upon notes are the root, third, or ﬁfth of
+their respective triads. For example, the ﬁrst voice leading in Figure 7.2.10 maps a
+chord with doubled root to a chord with doubled root, while the second maps a chord
+with doubled root to a chord with doubled third. Remarkably, the various forms of
+the nonfactorizable schema exploit a variety of triadic near symmetries, including the
+triad’s proximity to the tritone and diminished seventh chord; readers who are interested in exploring this issue should attempt the exercises in Appendix F.16
+Figure 7.2.11 A nonfactorizable, strongly
+crossing-free, four-voice triadic voice leading
+embodies this basic schema: two notes in the
+ﬁrst chord “merge” onto a note in the second,
+while the third note of the ﬁrst chord “splits”
+into the remaining two notes of the second
+chord. Here, time progresses radially from the
+inner circle toward the outer.
+
+second chord
+time
+first chord
+
+15 Proof: if the merged-onto note were a destination of the splitting note, the voice leading would be
+factorizable.
+16 In particular, nonfactorizable voice leadings of the form (r, r, t, f)®(t, f, r, r), which map a chord with
+doubled root to a chord with doubled root, exploit the chord’s closeness to the tritone; voice leadings of
+the form (r, r, t, f)®(r, t, f, f) exploit its closeness to the quadruple unison; while voice leadings of the form
+
+Functional Harmony
+
+Figure 7.2.12 shows that these nonfactorizable voice leadings, combined with the
+3 + 1 schema discussed earlier, account for a substantial proportion of the four-voice
+triadic voice leadings in the music of composers from Dufay to Bach.17 At ﬁrst blush,
+this might seem shocking, as if all the glories of the Renaissance could be reduced to
+just two basic contrapuntal tricks. But on reﬂection it is not terribly surprising: after
+all, there are only so many ways to connect triads, and our two schemas together
+produce all the strongly crossing-free four-voice triadic voice leadings—including all
+of those in which each note in the ﬁrst chord moves to its nearest (upper or lower)
+neighbor in the second. Insofar as composers are interested in efﬁcient voice leading,
+then we should expect them to make heavy use of these two basic techniques. This
+reinforces the claim that there are important continuities between contrapuntal practices in Renaissance modality and functional tonality: on the basic chord-to-chord
+level, we ﬁnd virtually the same voice-leading schemas dominating the two repertoires. Rather than a broad difference between styles, we instead see an interesting
+sort of composer-by-composer variation: for example, nonfactorizable voice leadings
+account for more than 20% of the voice leadings in Palestrina, but only about 5% of
+those in Lassus. This seems less like a matter of large-scale historical change than of
+individual composerly preference.
+Figure 7.2.13 shows how the nonfactorizable pattern might appear in keyboardstyle passages: in each case, a close position triad in the right hand moves to an
+
+Figure 7.2.12 The 3 + 1 and nonfactorizable schemas together account for a very large
+proportion of the four-voice triadic voice leadings in a wide range of music. There are,
+however, some individual differences between composers.
+nonfactorizable
+
+3+1
+
+100
+
+Percent of total
+
+80
+
+60
+
+40
+
+20
+
+0
+Dufay
+
+Josquin
+
+Ockeghem
+
+Goudimel
+Tallis
+
+Lassus
+
+Palestrina
+
+Bach
+
+(r, r, t, f)®(f, r, t, t) exploit its closeness to the diminished seventh. These three categories exhaust all the
+possibilities up to permutation of the labels “r,” “t,” and “f.”
+17 The Goudimel pieces, from 1564, are four-voice harmonizations of the complete Geneva Psalter.
+These chorales are highly stereotypical and very homophonic.
+
+237
+
+238
+
+history and analysis
+
+incomplete chord—either an octave enclosing another note or an interval with one
+doubling—while the bass voice completes the second triad.18 This means that our
+voice-leading formulas are associated with simple physical gestures that can easily
+be taught to young musicians: when using the 3 + 1 schema, a keyboardist moves
+the right hand between complete triads, while allowing the bass to move independently; to use the nonfactorizable schema, the keyboardist switches from complete to
+incomplete triads with the right hand, while completing the second chord with the
+left. In fact, these two gestures are embedded, with varying degrees of explicitness, in
+traditional ﬁgured-bass pedagogy: early theorists such as Heinichen discuss the 3 + 1
+schema, while later writers (including C. P. E. Bach) provide numerous examples of
+the nonfactorizable alternative.19 (Two centuries later, the techniques are still taught
+in universities, and I learned both as a college freshman.) This, I think, is a wonderful example of the practical pedagogical
+tradition solving a relatively complex
+Figure 7.2.13 Nonfactorizable voice
+mathematical problem. More than three
+leadings in keyboard style. In each case, a
+centuries ago, ﬁgured-bass theorists had
+complete triad in the right hand moves to an
+devised a simple set of physical gestures
+incomplete chord.
+that produce all the strongly crossingfree voice leadings between triads—
+gestures that are straightforward enough
+to use improvisationally, yet powerful
+enough to generate an extraordinary
+degree of contrapuntal variety.
+
+7.3
+
+sequences
+
+So far we have no reason to believe that functional tonality involves short motions
+along the descending circle of thirds: our thirds-based model permits arbitrary rightward motions on Figure 7.1.1 and does not privilege short steps over longer leaps.20
+However, tonal music also involves sequences, in which the same musical material is
+repeated at multiple pitch levels.21 Here there is a notable bias toward small motions
+along the descending circle of thirds. The most compact sequence, when represented
+on the circle of thirds, is (of course) a repeating series of descending thirds itself—a
+
+18 This simple physical schema (along with its retrograde) can be used to produce any nonfactorizable
+voice leading that exempliﬁes the basic pattern in Figure 7.2.11. However, not every voice leading that
+moves from a close triad to an incomplete triad in the right hand will be nonfactorizable: for example,
+(C3, E4, G4, C5)®(F3, C4, A4, C5) is factorizable.
+19 Heinichen’s 1728 ﬁgured-bass treatise always recommends a complete triad in the right hand (see
+Buelow 1992, p. 28). C. P. E. Bach’s Essay on the True Art of Playing Keyboard Instruments (Bach 1949, pp.
+202ff, originally published in 1753 and 1762) discusses a wider range of right-hand possibilities, including
+the nonfactorizable schema.
+20 For example, the progression vi–V involves a four-step rightward motion, with the triads vi and V
+being maximally distant from the standpoint of voice leading.
+21 See Caplin 1998, ch. 2, Harrison 2003, and Ricci 2004.
+
+Functional Harmony
+
+progression that appears periodically in the literature, though it is not extremely common (Figure 7.3.1a). (Note that sequences frequently use the iii chord, which is rare
+in nonsequential harmony.) The second-most compact sequence alternates descending thirds with ascending fourths, and is widespread (Figure 7.3.1b). The ubiquitous
+descending ﬁfth sequence is the third-most compact sequence (Figure 7.3.1c), consisting of a series of two-step motions along the circle. The pattern in Figure 7.3.1d is a
+close variant, in which a single descending third alternates with an ascending second,
+moving successively by one and three steps along the circle of thirds. (We will discuss
+this sequence in a moment.) Another variant is shown in Figure 7.3.1e, consisting
+of two descending thirds followed by a descending ﬁfth. The resemblances between
+Figures 7.3.1c–e are particularly striking: in each case, a series of short motions along
+the circle of thirds produces a sequential pattern that repeats at the interval of a
+descending second, yielding slight variations on the same fundamental paradigm.
+Figure 7.3.2 provides some examples of these sequences in actual music.
+Figure 7.3.3 lists all 18 diatonic sequences whose repeating unit contains at most
+two chords; the list is ordered by compactness on the descending circle of thirds, with
+inversionally related sequences sharing the same line. (Thus if a sequence on the left
+features short descending motions along the circle of thirds, its partner on the right
+features short ascending motions along the circle.) In each of the ﬁrst ﬁve rows, the
+sequence on the left is considerably more common than that on the right, suggesting that descending thirds are indeed preferred.22 The sixth and seventh rows feature
+
+Figure 7.3.1 Five
+tonal sequences
+represented on
+the circle of
+thirds.
+
+22 One possible explanation for this is that tonal harmony involves a fundamental preference for
+descending ﬁfths progressions; third substitution could then transform descending ﬁfths into either
+descending thirds or ascending steps.
+
+239
+
+240
+
+history and analysis
+Figure 7.3.2 (a) Haydn’s E minor Piano Sonata, Hob. XVI/34, mm. 72–75. (b−c) The “down
+a third, up a step” sequence in Fauré’s Pavane, mm. 2–5 and Bach’s Bf two-part invention,
+mm. 15–16 (bottom). (d) The “down a third, down a third, down a ﬁfth” sequence in the D
+major fugue from Book I of Bach’s Well-Tempered Clavier, mm. 9–10.
+
+sequences that combine ascending and descending motion: though all four of these
+appear, there is a notable preference for those on the left, which repeat at the interval
+of a descending third. (Here the descending thirds motion appears between successive
+units of the sequence, rather than between adjacent chords.) The sequences in the
+eighth row are virtually unknown. (The stepwise progressions in the last row are common, but play a unique rhetorical role in tonal harmony; they typically appear in the
+context of brief “fauxbourdon”-style gestures, rather than sequences proper.) Figure
+7.3.4 shows the distribution of sequences in the Mozart piano sonatas; the asymmetry
+between columns is quite striking.
+Thus there is a subtle connection between what François-Joseph Fétis identiﬁed as
+the two basic components of tonal practice: in “harmonic tonality” the music moves
+
+Functional Harmony
+Figure 7.3.3 The eighteen diatonic sequences whose unit of repetition contains at most
+two chords. The (a) columns describe the sequence, the (b) columns estimate its frequency
+in the baroque and classical literature. Sequences featuring only “strong” progressions are
+considerably more common than their counterparts. Among those that mix strong and weak
+motions, sequences that repeat at the interval of a descending third are more common than
+those that repeat at the interval of the ascending third. The starred sequences in the last row,
+moving by parallel step, are common in both ascending and descending forms; however, they
+tend to play a slightly different role in the literature.
+
+Sequence
+
+a
+
+Inverted Form
+
+↓third
+↓third
+
+b
+exists
+(C-a-F-d-)
+
+↑third
+↑third
+
+b
+very rare
+(C-e-G-b°-)
+
+↓third
+↓fifth
+
+very common ↑third
+(C-a-d-b°-) ↑fifth
+
+very rare
+(C-e-b°-d-)
+
+↓fifth
+↓fifth
+↓third
+↑ step
+
+very common ↑fifth
+(C-F-b°-e-) ↑fifth
+exists
+↑third
+(C-a-b°-G-) ↓step
+common
+↓step
+7
+7
+(C-D -G-A -) ↑fifth
+common
+↓third,
+(C-E7-a-C7-) ↑fifth
+common
+↓step,
+(C-G-a-e-) ↓fifth
+very rare
+↓step,
+(C-d-F-G-) ↓third
+exists*
+↓step
+(C-d-e-F-)
+↓step
+
+exists
+(C-G-d-a-)
+very rare
+(C-e-d-F-)
+very rare
+(C-b°-F-e-)
+
+↑step
+↓fifth
+↑third,
+↓fifth
+↑fifth,
+↑step
+↑step,
+↑third
+↑step
+↑step
+
+a
+
+exists
+(C-G-e-b°-)
+exists
+(a-G7-C-B7-e-)
+very rare
+(C-b°-G-F-)
+exists*
+(C-b°-a-G-)
+
+from tonic to dominant along the circle of descending thirds, often forming “strong”
+progressions along the way. However, the gravitational attraction of tonic, subdominant, and dominant is strong enough to obscure this descending thirds structure:
+progressions such as I–V–I and I–IV–I move symmetrically along the circle and
+betray no preference for strong progressions. In “sequential tonality” the tonic and
+dominant lose their attractive power as a single musical pattern is whirled through
+diatonic space. Here the preference for strong progressions shines forth more clearly.
+What is interesting is that the descending circle of thirds plays a distinctive role in each
+of these two kinds of tonality: harmonic tonality uses the circle to organize motion
+from tonic to dominant, while sequential tonality emphasizes short steps along it.
+To see how we might use these ideas in analysis, consider the fetching sequence
+from the last movement of Mozart’s ﬁrst piano sonata (Figure 7.3.5). I interpret this
+passage as a version of the “down a third, up a step” sequence in Figure 7.3.1; however, since the melodic pattern repeats after four chords, the sequence sounds to the
+
+241
+
+242
+Figure 7.3.4
+Two-unit
+sequences, of at
+least six chords
+in length, in the
+Mozart piano
+sonatas.
+
+history and analysis
+
+Sequence
+
+Inverted Form
+
+↓third
+↓third
+
+2
+
+↑third
+↑third
+
+0
+
+↓third
+↓fifth
+
+6
+
+↑third
+↑fifth
+
+0
+
+↓fifth 33
+↓fifth
+8
+↓third
+↑step
+↑step 22
+↓fifth
+↑third, 1
+↓fifth
+9
+↑fifth,
+↑step
+0
+↑step,
+↑third
+
+↑fifth
+↑fifth
+↑third
+↓step
+↓step
+↑fifth
+↓third,
+↑fifth
+↓step,
+↓fifth
+↓step,
+↓third
+
+0
+0
+0
+0
+0
+0
+
+casual listener like it descends by third. When the
+sequence returns to start the development section, Mozart makes an intriguing substitution:
+the music now begins D–G–csø7 rather D–e–cs°,
+moving down by ﬁfths rather than down by
+third and up by step. (This alteration is retained
+throughout the sequence.) Figure 7.3.5c represents Mozart’s variation on the descending circle
+of thirds, showing that he has simply moved the
+second chord leftward by one unit. The two versions, in other words, are related by third substitution, represented geometrically by replacing a
+diatonic triad with its nearest neighbor.
+Something rather similar occurs in the Af
+major fugue from the second book of Bach’s
+Well-Tempered Clavier. The fugue theme, an
+embellished sequence of ﬁfths, is typically
+
+Figure 7.3.5 (a) The “down a third, up a step” sequence in the third movement of Mozart’s
+ﬁrst Piano Sonata, K. 279. (b) When the sequence returns at the start of the development,
+Mozart alters it so that it begins with a pair of descending ﬁfths. (c) This change is a minimal
+perturbation when represented along the circle of thirds.
+
+Functional Harmony
+
+accompanied by a chromatically descending countersubject. The ﬁrst two harmonizations feature the “down a third, up a step” sequence and are illustrated in Figure 7.3.6a;
+the remaining harmonizations use descending ﬁfths, as in Figure 7.3.6b. The ﬁgure
+shows that the two versions are related by third substitution: the countersubject’s
+initial Af is simply repeated, transforming all the ﬁrst-inversion triads into seventh
+chords. However, this transformation is rather cleverly disguised by the sixteenth-note
+ﬁguration (not shown in the example), which moves from the middle voice to the
+soprano. As a result, the middle voice takes over the role of chromatically descending
+countersubject, appearing an octave rather than an eleventh above the subject’s initial
+note. (This is double counterpoint on the cheap: since the upper voices both feature
+descending stepwise voice leading, the difference between the two countersubjects is
+largely a matter of ﬁguration.) The interesting point, from our perspective, is the ﬂuidity with which Bach moves between the “descending ﬁfths” and “down a third, up a
+step” sequences. Like Mozart, he seems to view them as fundamentally similar.
+For a ﬁnal example, consider the “sequence” in mm. 16–18 of the F minor fugue in
+the ﬁrst book of the Well-Tempered Clavier (Figure 7.3.7). The scare quotes acknowledge that the passage is not truly sequential: although the stuttering, descending
+melodic lines are always related by transposition, the interval is not uniform. (The
+descending passage begins ﬁrst on, then a third above, then a third below the root
+of the preceding harmony; as a result, the chords within each measure are related
+by descending ﬁfth, descending third, and ascending step.) Across bar lines the passage always articulates a V7–I progression, so that the resulting harmonic sequence is
+entirely composed of strong progressions: descending twice by ﬁfth (f–Bf7–Ef), by
+third (Ef–C7), by ﬁfth (C7–f), ascending by step (f–G7), and descending once again
+
+Figure 7.3.6 An interpretation of two passages from Bach’s Af major fugue from WTC II.
+(a) Measures 6–7 involve the “down a third, up a step” sequence, while mm. 13–15 involve
+the descending ﬁfths sequence (b). In the original music, the middle voice of (a) and the
+top voice of (b) involve sixteenth-note ﬁguration; thus the chromatic descent moves from
+soprano (a) to middle voice (b).
+
+243
+
+244
+
+history and analysis
+Figure 7.3.7 A sequence-like passage from the F minor fugue in book I of Bach’s WellTempered Clavier, mm. 16–18. Harmonically, the passage involves an unsystematic collection
+of “strong” progressions.
+
+by ﬁfth (G7–C). This succession of strong progressions, articulated by descendingthirds melodies, creates a strong sense that the passage is both functionally tonal and
+sequence-like. (Indeed, I played it for years before noticing that it was not an exact
+sequence.) One hears the omnipresent engine of descending thirds—typical of tonal
+sequences in general and of Bach’s sequences in particular—and fails to notice the
+subtle deviations from exact transposition.
+
+Figure 7.3.8 (a) The “down a third, up a step” sequence can be derived from more familiar
+sequences by exchanging root position and ﬁrst-inversion chords. Here, the four forms on
+the bottom staff are derived from the descending-ﬁfth and descending-step sequences in the
+upper staff. (b) Measures 62–66 from Contrapunctus X in Bach’s Art of the Fugue. Here, root
+substitution over a sequential bass line changes the “down a third, up a step” progression into
+the descending ﬁfths progression.
+
+Functional Harmony
+
+These examples suggest that it might be worth reconsidering the role of the “down
+a third, up a step” sequence in functional tonality. Although rare, the sequence does
+appear sporadically throughout the literature. Yet in my experience, theorists are
+reluctant to acknowledge its existence—as if it were an anomaly so inexplicable that
+its very presence threatened to undermine the solid foundations of classical theory.
+From my point of view the sequence is anything but inexplicable: it results from a
+simple thirds substitution for the more common descending-ﬁfths sequence (Figure
+7.3.8). Figure 7.3.9 shows that it can appear in four basic forms, depending on which
+of its chords are in inversion. Our theoretical approach, by providing a home for this
+sequence, may help us learn to hear it, and thus to resist the almost overwhelming
+temptation to deny its existence.
+
+Figure 7.3.9 (a−d) There are four basic forms of the “down a third, up a step” sequence,
+depending on which inversions are used. An example of each is provided. (e) Haydn’s D
+major Piano Sonata Hob. XVI/42, II, mm. 11–12. (f ) The opening of the “Cruciﬁxus,” from
+Bach’s B minor Mass (BWV 232). (g) Brahms’ F minor Piano Quintet, Op. 34, I, mm. 8–9.
+(Note that the dynamics and musical context all suggest that the sevenths should not be
+understood as suspensions.) (h) Bach’s G major fugue, Book II of the Well-Tempered Clavier,
+mm. 66–69.
+
+245
+
+246
+
+history and analysis
+
+7.4
+
+modulation and key distance
+
+Functional tonality employs conventionalized motions on both the level of the chord
+and the key: just as a V chord is overwhelmingly likely to progress to I, so too is a classical-style major-key piece overwhelmingly likely to modulate to its dominant. However, it is much harder to describe the syntax of key changes than of chord-to-chord
+progressions. The ﬁrst problem is cross-stylistic variability: where harmonic grammar
+remains relatively constant over time, there is considerably more variation in modulations.23 For example, much jazz obeys classical ii–V–I harmonic norms, though its key
+changes are anything but classical. (To take an extreme case, John Coltrane’s “Giant
+Steps” involves a series of ii–V–I progressions that modulate by major third.) The second problem is that we continue to ﬁnd signiﬁcant variation even if we narrow our
+focus to the tonality of the eighteenth and early nineteenth centuries. Indeed, sonatas,
+fugues, and rondos all involve slightly different modulatory norms.
+That said, it is still possible to identify some basic modulatory principles that
+are common to multiple genres: most obviously, pieces typically start and end in
+the same key; the ﬁrst modulatory destination in major is the dominant key, while
+in minor it is either the dominant or relative major; and the subdominant key area
+often appears toward the end of the piece (Figure 7.4.1). Furthermore, theorists
+generally agree that tonal pieces often modulate between “closely related” keys. The
+most widely accepted model of key distance is the “chart of the regions” usually
+attributed to Gottfried Weber, though actually originating with F. G. Vial.24 Figure
+7.4.2 shows an equal-tempered version of the chart: motion along the SW/NE diagonal links modally matched ﬁfth-related keys; motion along the SE/NW diagonal
+changes mode, alternating between the “parallel” (or tonic-preserving) and “relative” (or diatonic-scale-preserving) relationships. Though more than 200 years old,
+the Vial/Weber model continues to play a role in contemporary theory, particularly
+in the work of Carol Krumhansl and Fred Lerdahl. In fact, both of these theorists
+have attempted to derive the model from more basic principles: Krumhansl from the
+results of psychological experiments, and Lerdahl from the deeper postulates of his
+theoretical system.25
+
+Figure 7.4.1
+Common
+sequences of keys
+in functionally
+tonal music.
+
+First Key
+I
+Major
+i
+Minor
+
+Second Key
+V
+III or v
+
+Third Key
+often ii, v, or vi
+often VII, iv, VI
+
+Other Keys
+various
+various
+
+Often Found
+Near the End
+IV
+iv
+
+Last Key
+I
+i
+
+23 Stein 2002 argues that the chordal syntax of classical harmony antedates the modulatory syntax.
+24 See Lester 1992, p. 230.
+25 See Krumhansl 1990, ch. 7 and Lerdahl 2001, ch. 2. Both theorists derive the Weber model from a
+combination of experimental data and theoretical assumptions. In this sense, the model is (partially) a
+theoretical construct, rather than the simple output of psychological experiments. As far as I know, there
+are no experiments that directly test key distances, or even establish their perceptual reality.
+
+Functional Harmony
+Figure 7.4.2 The “chart of the regions” in its equal-tempered form. Major keys are
+capitalized, minor keys are shown in small letters. Fifth-related keys are on the SW/NE
+diagonal lines, while “parallel” and “relative” keys are on the SE/NW diagonals. The ﬁgure is a
+torus whose top edge should be glued to the bottom, and whose left edge should be glued to
+the right.
+
+Weber’s chart suggests that ﬁfth-related major keys are particularly close, but it
+does not explain why this is so. One possibility is that ﬁfth-related tonic notes or tonic
+chords are themselves close—in other words, C major pieces modulate to G major
+because the G major chord (or the note G) has a particular afﬁnity for the C major
+chord (or note C). (This in turn may be due to the acoustic relationship between
+perfect ﬁfths.) Another possibility, however, is that ﬁfth-related major keys are close
+because their associated scales are close. From this point of view, what links the keys
+of C and G major is the fact that the single-semitone shift F®Fs transforms the C
+diatonic scale into G diatonic. Similarly, C major and A minor are close because the C
+major scale shares the same notes as A natural minor, and because a single-semitone
+shift (G®Gs) transforms C major into A harmonic minor. Thus we have two plausible but distinct theories of key distance, one based on chords (or notes), the other
+on scales.
+Let’s see if we can use our geometrical models to investigate this issue. Recall from
+§4.6 that the familiar seven-note scales of the Western tradition are contained on a
+three-dimensional cubic lattice, reproduced here as Figure 7.4.3. According to the
+scalar model of key distance, keys are close if their associated scales are near each
+other on this lattice. If we limit our attention to major keys, then the lattice simply
+reduces to the familiar circle of ﬁfths. Minor tonalities present a challenge, however,
+as they can use any of three distinct scale forms. How should we measure the distance
+from C major to E minor? Should we, for example, choose the E minor scale that
+is closest to C major? Or should we choose the farthest scale instead? One sensible
+solution is to take the average of the distances between the scales belonging to each
+key. This means that the distance from C major to E minor would be (1 + 2 + 3)/3 = 2
+
+247
+
+248
+
+history and analysis
+Figure 7.4.3 The three-dimensional lattice showing voice-leading relations between familiar
+scales. The three A minor scales lie along the solid dark line, while the three E minor scales lie
+along the dotted dark line.
+
+(Figure 7.4.4).26 When measuring the distance between minor keys, we can average the
+distances in the most efﬁcient pairing between their scales, as illustrated by the ﬁgure.27
+Figure 7.4.5 lists the resulting distances. According to this model, major keys are
+particularly close to their dominant major (V), subdominant major (IV), and relative minor keys (vi), with the supertonic minor (ii) being just a little farther away.
+A minor key is maximally close to its relative major. In second place is the subtonic
+major (VII), with the subdominant minor (iv), dominant minor (v), submediant
+major (VI), and parallel major (I) being slightly farther. While these key distances
+are broadly similar to Weber’s, there are some intriguing differences: notably, the scalar model helps explain why minor keys would be more likely to modulate to the
+relative major than to the dominant. Note also that from the scalar perspective, the
+keys of C major and D minor are particularly close, since two of the D minor scales
+can be linked to C major by single-semitone voice leading (Figure 7.4.6). Compared
+to the Weberian model, then, the scalar perspective would lead us to expect more
+
+26 For simplicity, I am adopting the “smoothness” metric, which counts the total number of semitones
+moved by all voices (Appendix A).
+27 Alternatives tend to produce counterintuitive results. For instance, one might try to measure key
+distances using the smallest distance between two sets of minor scales, but this means that C minor and Ef
+minor are maximally close, since C natural minor is one semitone away from Ef melodic minor ascending.
+Similarly, one might try to take the average of all nine distances between two sets of minor scales, but this
+means that a minor key is not distance zero from itself.
+
+Functional Harmony
+Figure 7.4.4 Using voice leading to calculate distances between keys. (a) For major keys, the
+distances are simply the voice-leading distances between the relevant diatonic collections.
+(b) For distances between major and minor, we calculate the size of the voice leadings from
+the major scale to each minor scale, and take the average. Here, the average distance between C
+major and the three A minor scales is 1. (c) For minor scales, we take the average of the three
+voice leadings in the most efﬁcient pairing of the scales in one key with those in the other.
+Here, the average distance for the best pairing between A minor and E minor scales is 2.3.3.
+
+modulations between a major key and its supertonic minor (or conversely, a minor
+key and its subtonic major), and less ﬁfth motion among minor keys.
+To evaluate these competing models of key distances, we can compare them to
+actual modulation frequencies in baroque and classical music. (The assumption here
+is that composers modulate more frequently to nearby keys.) To this end, Figure 7.4.7
+shows the results of a crude statistical survey of a large number of pieces by Bach,
+Haydn, Mozart, and Beethoven.28 The results are quite interesting. First, there
+28 The analysis was simplistic but hopefully unbiased: I simply programmed a computer to look
+through MIDI ﬁles to ﬁnd moderately long sections (15 notes or more) belonging to a single diatonic, harmonic minor, or melodic minor ascending scale. (I assumed that minor keys do not normally reside in the
+diatonic collection.) Each successive modulation was then categorized according to root relationship and
+mode: thus a modulation from G major to A minor was treated as “root moves up by two semitones, mode
+changes from major to minor,” regardless of the global tonic of the piece. To test the data, I correlated the
+resulting modulation frequencies with those in human analyses of Mozart’s piano sonatas. The correlation
+was very high (.96) for modulations beginning in major keys, and somewhat lower (.86) for those beginning with minor keys, in part because the computer stayed in minor keys longer than the humans did.
+
+249
+
+250
+
+history and analysis
+Figure 7.4.5 Key distances, calculated using
+voice-leading distance between scales. The
+smallest distances are shown in boldface.
+
+Figure 7.4.6 A major key is particularly close to its supertonic minor, just as a minor key is
+very close to its subtonic major.
+
+#œ
+
+#œ
+distance = 1
+
+distance = 1
+
+distance = 2
+
+is a marked asymmetry between major and minor: for all four composers, the four
+most common major-key destinations are V, IV, vi, and ii. (Note that these numbers
+are calculated relative to the immediately preceding key: a modulation from C major
+to G major is treated as I®V, no matter what the global key of the piece.) For minor
+keys, however, the two most common modulatory destinations are III and VII, often
+by a wide margin. This represents a striking deviation from the Weber model, which
+
+Functional Harmony
+Figure 7.4.7 Estimated modulation frequencies in Bach’s Well-Tempered Clavier and the
+piano sonatas of Haydn, Mozart, and Beethoven. The left column indicates the directed
+chromatic interval of root motion from source key to target key. (For example, a modulation
+from F major to G major or B minor to Cs major is represented by the number 2.) Under
+each composer’s name, the “min” and “maj” columns refer to the modality of the target key.
+The two or three largest values in each column are in boldface.
+
+(a) from major keys
+Root
+Motion
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Bach
+maj. min.
+2.3
+0
+0
+3.3
+8.8
+0.8
+0
+0
+4.9
+0.1
+26
+0
+0.1
+2.9
+26.8
+0.5
+0
+0.4
+20.2
+2
+0
+0.3
+0.4
+
+Haydn
+maj. min.
+4.5
+0.2
+0.1
+1.8
+7
+1.3
+0
+0.5
+3.2
+1.4
+29.8
+0
+0
+2.1
+28.4
+0.6
+0
+0.8
+15.7
+1.9
+0.1
+0
+0.5
+
+Mozart
+maj. min.
+4.7
+0.3
+0
+5.3
+7.1
+1.8
+0.3
+1.2
+2.1
+1.5
+24.6
+0
+0
+2.1
+28.2
+0.9
+0
+2.1
+13.1
+3.6
+0.3
+0
+0.9
+
+Beethoven
+maj. min.
+4.1
+0.3
+0.1
+1.9
+12.7
+1.7
+0.2
+0.6
+6.7
+1.8
+23.3
+0.2
+0.2
+2.5
+20.8
+1.1
+0.5
+1.2
+14.6
+2.8
+0.3
+0.5
+1.7
+
+(b) from minor keys
+Root
+Motion
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+Bach
+min. maj.
+1.9
+0
+1.4
+0.8
+0
+0.8 31.1
+0.3
+0
+3.8
+12.3
+0
+0
+1.9
+9.8
+0.3 10.7
+0
+0
+1.9
+23
+0
+0
+
+Haydn
+min. maj.
+11.2
+0
+1
+2.4
+1.2
+2.1
+28.3
+0.3
+0
+4
+8.6
+0
+0.2
+2.9
+6.6
+0
+6.4
+1.2
+0
+1.8
+21.4
+0.3
+0.2
+
+Mozart
+min. maj.
+6.9
+0
+2.8
+0.7
+0
+0.7
+21.5
+1.4
+0
+4.9
+7.6
+0
+0.7
+4.2
+9.7
+2.1
+8.3
+2.1
+0
+2.1
+24.3
+0
+0
+
+Beethoven
+min. maj.
+9.2
+0.6
+2
+2.2
+1
+1.3 20.3
+0.7
+0.3
+2.2
+9
+0.2
+0.6
+2.5
+10.1
+0.9
+10
+0.6
+0.3
+3.8 21.5
+0.6
+0.2
+
+predicts that the two modes should modulate in essentially similar ways. Furthermore, our data conﬁrm that there is a particularly close relation between a major key
+and the minor key two semitones above it: major keys modulate to their supertonic
+minor more often than to the parallel minor, with minor keys modulating to their
+subtonic major more frequently than to any key except the relative major. All of
+
+251
+
+252
+
+history and analysis
+
+these results are more consistent with the scalar model than the Weberian chart of
+the regions.29
+Let me be clear that I do not take this to show that the scalar approach explains
+everything about tonal modulation. First, the statistical tests I have conducted are
+relatively simplistic and need to be conﬁrmed by more careful investigation. Second,
+other musical factors no doubt play a role: the close relation between parallel keys,
+such as C major and C minor, surely has something to do with the fact that they share
+the same tonic note. And third, we need to recognize the role of individual preferences, since distance alone will not explain the fact that Mozart modulates to the
+parallel minor more frequently than Bach. That said, however, I think it is interesting
+that simple scale-based voice-leading models work as well as they do. Their success
+does seem to show that eighteenth- and nineteenth-century composers were sensitive
+to the twisted three-dimensional geometry shown in Figure 7.4.3.
+It’s worth saying a word or two about why this is important. We have seen that
+there are two fundamentally different ways to understand the “closeness” of ﬁfthrelated keys: one based on the acoustic relation between their tonic notes, the other
+based on the voice-leading relationships between their associated scales. These theories suggest very different generalizations to unfamiliar musical contexts. For example, in Chapter 9, we will ﬁnd composers such as Debussy, Ravel, Shostakovich, and
+Reich exploiting efﬁcient voice leading between a wide range of scales and modes.
+If we neglect the role of scale-to-scale voice leadings in classical music, then we will
+miss the way in which these twentieth-century composers are generalizing traditional
+modulatory practices. And this in turn could lead us to think that they had somehow
+gone wrong, for instance, by abandoning the use of ﬁfth-related keys. This shows that
+both historians and composers have an interest in understanding the mechanisms
+underlying traditional modulation: the former, because they need to understand the
+connections between twentieth-century tonality and earlier styles; the latter, because
+they may want to develop analogues to modulation in as-yet-unexplored musical
+situations.
+
+7.5
+
+the two lattices
+
+We’ve now used two different circles to model functional tonality: the circle of thirds,
+which identiﬁes single-step voice leading among triads, and the circle of ﬁfths, which
+represents single-semitone voice leading among diatonic scales. There is of course a
+very close structural analogy between them, arising from the fact that both depict
+
+29 More sophisticated quantitative tests conﬁrm the intuition that modulation frequencies are closely
+related to voice-leading distance between scales. For example, I constructed quantitative models based
+on the assumption that keys are most likely to modulate to their n nearest neighbors on either the Weber
+model or the scale lattice. Scalar models consistently outperformed the Weberian models, achieving correlations in the range of .91–.96, for the repertoire in Figure 7.4.7, compared to .77–.84 for the best Weberian
+models.
+
+Functional Harmony
+Figure 7.5.1 The diatonic triad and the major scale both divide the octave nearly (but
+not precisely) evenly. The circle of thirds arises from changing the position of the three-step
+interval; the circle of ﬁfths arises from shifting the position of the six-semitone interval.
+
+voice leading among “near interval cycles”: the triad trisects the diatonic octave into
+two, two, and three scale steps, while the major scale divides four chromatic octaves
+into six perfect ﬁfths and one “near ﬁfth” (Figure 7.5.1). As explained in §3.11, the circle of thirds and the circle of ﬁfths are formed by shifting the position of the unusual
+interval—a process that links transpositionally related collections by single-step voice
+leading. Geometrically, the resulting circles lie near the center of their respective
+chord spaces, as described back in Figure 3.11.6.
+From this, there follows a remarkable consequence: voice-leading relations among
+nearly even three-note diatonic chords are fundamentally analogous to those among
+nearly even seven-note scales. Recall from §3.11 that we can scramble the voice leadings on a generalized circle of ﬁfths to produce higher dimensional voice-leading
+lattices. If we scramble adjacent voice leadings on the circle of thirds, we obtain the
+two-dimensional structure shown in Figure 7.5.2—a lattice of squares each sharing
+an edge with its neighbors. This two-dimensional lattice contains triads and fourth
+chords, and is analogous to the “scale lattice” containing diatonic and acoustic scales
+(Figure 3.11.8b). Here the fourth chord plays the role of the acoustic scale, since it
+is generated by reversing a pair of adjacent voice leadings on the triadic circle. This
+means that the progression from C to G by way of the suspension {C, D, G} is structurally similar to the shift from D major to C major by way of the D melodic minor
+scale (Figure 7.5.3).
+Pressing on, we note that it takes three single-step motions to move from C
+major to D minor on the circle of thirds. By scrambling these we obtain “incomplete seventh chords” such as {D, F, G} and {D, E, G}—the structural analogues
+of the harmonic major and minor collections (Figure 7.5.4).30 Proceeding in this
+way, we arrive at the three-dimensional structure in Figure 7.5.5, which has the
+
+30 Observe that the incomplete seventh chords are related by diatonic inversion, just as the harmonic
+major and minor scales are related by chromatic inversion; the diatonic triad and diatonic fourth chord
+are symmetrical under diatonic inversion, just as the diatonic and acoustic scales are symmetrical under
+chromatic inversion.
+
+253
+
+254
+
+history and analysis
+Figure 7.5.2 (a) On the circle of thirds, we move from C to G by way of E minor. (b) If we
+reverse the order of the voice leadings C®B and E®D, we can move from C to G by way of
+the “suspension chord” C-D-G. By scrambling every adjacent pair of voice leadings on the
+circle of thirds, we produce a lattice of squares each sharing an edge with their neighbors.
+
+same basic form as our scale lattice: the circle of diatonic thirds
+is analogous to the diatonic circle
+of ﬁfths and runs through the
+center of the ﬁgure in a zigzag
+fashion; nontriadic chords form a
+second circle, which winds its way
+around the triads as described in
+Figure 4.6.1. This lattice contains
+all the three-note diatonic sonorities that can resolve to a triad by one or two descending steps—in other words, the
+chords that can be formed by either a single or double suspension (Figure 7.5.6).31
+Figure 7.5.7 shows how these chords can act as waystations between the genuinely harmonic triads on the lattice’s central spine, allowing composers to break
+large melodic motions into smaller steps. By enabling us to visualize these possibilities, the chord lattice can help us conceptualize them. For example, Figure 7.5.8
+identiﬁes four ways in which suspensions can be used to embellish a sequence of
+descending ﬁrst-inversion triads: in each case, a single voice alternates with a pair of
+simultaneous descents. Figure 7.5.9 shows two passages in which composers exploit
+these pathways: in the ﬁrst, the eighteenth-century composer (and chess master)
+François-André Danican Philidor alternates standard 7–6 suspensions with more
+Figure 7.5.3 The move from C major to G major
+by way of the suspension chord C-D-G is precisely
+analogous to the shift from D major to C major by
+way of D melodic minor.
+
+31 The chord lattice does not include diatonic clusters (such as {C, D, E}) or multisets (such as {C, C,
+D}). It is of course possible to create a larger three-dimensional lattice that contains these chords.
+
+Functional Harmony
+Figure 7.5.4 (a) On the circle of thirds, we move from C major to D minor by way of A
+minor and F major. (b) If we scramble the order of the voice leadings G®A, E®F, and C®D,
+we obtain a cube containing four triads (on C, A, F, and D), two fourth chords (CFG and
+DEA) and two incomplete seventh chords (DFG and DEG).
+
+Figure 7.5.5 We can stack the cubes in Figure 7.5.4 to create a diatonic “chord lattice”
+precisely analogous to the scale lattice we investigated earlier (e.g. Figure 7.4.3). The triadic
+circle of thirds runs through the center of the space, taking a right-angled turn at each step.
+(From the lower left, we have CEG®CEA®CFA®etc.) The nontriadic chords are contained
+on a second circle, which winds around the ﬁrst: from the lower right front we have
+CFG®DFG®DEG®DEA® . . . , a sequence that repeats every three chords at the interval of
+a descending third.
+
+255
+
+256
+
+history and analysis
+Figure 7.5.6
+The diatonic chord cube
+contains all the sonorities that
+can resolve to CEG by either a
+single or double suspension.
+
+Figure 7.5.7 The sonorities on the chord lattice provide waystations allowing composers to
+break large movements into smaller steps. Instead of moving directly from DGB to CEG, as
+in (b), a composer can use nonharmonic tones to smooth out the journey (c). The path in (a)
+depicts the music in (c). Historically, the F in the bass voice of (c) originated as a nonharmonic
+passing tone, but was eventually granted harmonic status as part of the seventh chord on G.
+
+Functional Harmony
+Figure 7.5.8 Four ways to use suspensions to decorate a series of descending ﬁrst-inversion
+triads, represented on the chord cube. The ﬁrst produces the ubiquitous 7–6 suspension,
+while those in (b) and (c) interpose an additional (root position or second-inversion) triad
+between consecutive ﬁrst-inversion triads; the path in (d) creates a double suspension that
+sounds like an incomplete seventh chord.
+
+Figure 7.5.9 (a) Philidor’s “Art of Modulation” (Sinfonia V, Fuga, mm. 36–38) alternates
+between 7–6 and 4–3 suspensions, utilizing paths a and b in Figure 7.5.8. (b) The Prelude
+to Grieg’s suite “From Holberg’s Time” uses the unusual double suspension represented by
+path (d).
+
+257
+
+258
+
+history and analysis
+
+unusual ¢ ﬂ– £ suspensions, exploiting paths (a) and (b) on the cube in Figure 7.5.8; in
+the second, Grieg uses the path in (d).32
+Earlier, I observed that tonal music is hierarchically self-similar, combining harmonic consistency and efﬁcient voice leading at both the level of the chord and the
+level of the scale. We can now sharpen this observation considerably. Not only is there
+a loose analogy between the techniques composers use to relate chords and scales,
+but there is in fact a very precise structural similarity between the underlying voiceleading graphs. Indeed, chords and scales can be represented by essentially the same
+geometry. This extraordinary degree of self-similarity evokes fractals, mathematical
+shapes that exhibit the same structure no matter how they are magniﬁed.33 In much
+the same way, functional harmony exempliﬁes the same contrapuntal relationships
+whether we zoom out to the level of key relations, or zoom in to the level of chords.
+
+7.6
+
+a challenge from schenker
+
+The ideas in this chapter have been inspired by traditional tonal theorists such as
+Rameau, Weber, and Riemann. On my view, tonal music obeys purely harmonic
+principles that specify how chords can move, while modulations involve voice leadings between scales. Insofar as we can specify something like a “grammar” or “syntax” of functional tonality, it is largely concerned with local rules that tell us how
+to connect adjacent scales and chords. There are, however, a number of contemporary theorists who would object to these ideas: many followers of Heinrich Schenker
+seem to deny that functional tonality involves harmonic rules, asserting instead that
+its putative “harmonic grammar” can be explained contrapuntally.34 (As Schenker
+wrote, the horizontal domain takes “precedence” over the vertical, and is the “only
+generator of musical content.”35) Since Schenker’s theories are highly inﬂuential, it
+will be worth considering them more closely, with the goal of understanding whether
+they do indeed conﬂict with the ideas we have been investigating.
+Schenker is a highly complex ﬁgure who by every account made enormous contributions to music theory: in particular, he made a compelling case that there is more
+to musical coherence than the simple chord-to-chord constraints discussed in §7.1.
+Much of his work was devoted to elucidating these additional mechanisms of tonal
+
+32 Thanks to Hank Knox and David Feurzeig for these examples.
+33 True fractals are inﬁnitely self-similar, no matter how far we zoom in or out, whereas tonal music is
+self-similar only on two levels. Nevertheless, there is something compelling, and even beautiful, about the
+symmetry between scale and chord.
+34 The locus classicus of Schenker’s antagonism to traditional harmonic theory is his essay “Rameau
+oder Beethoven?” (Schenker 1930 and 1997). More moderate critiques of traditional harmonic theory
+can be found throughout the Schenkerian literature, including Salzer 1982 and Schenker 2001. See also
+Rothstein 1992: “[early] Schenker conceived of tonal music as a kind of battleground on which the forces
+of harmony, voice leading, rhythm, and motivic repetition contest with each other. . . . The notion of semiindependent musical forces, in perpetual conﬂict with each other, seems to have been largely abandoned
+by Schenker as he developed his theory. I believe this was a serious mistake.”
+35 Schenker 1930, p. 20 (“Vorrecht”) and p. 12 (“allein den musicalischen Inhalt hervorbringt”). For an
+English translation, see Schenker 1997, p. 7 (“prerogative”) and p. 2.
+
+Functional Harmony
+
+259
+
+organization, ranging from simple idioms (including progressions such as I–vii° 6–I6),
+to recurring melodic patterns (such as voice exchanges and linear progressions), to
+larger phenomena (such as the centrality of the return to V in the development section of a classical sonata). All of this is important and welcome. But in the course of
+making these arguments, he ended up advocating a radical model of musical organization according to which entire pieces were massively recursive structures, analogous
+to unimaginably complex sentences. The complexity of these hierarchical structures
+far outstrips those found in natural language, and seems incompatible with what we
+know about human cognitive limitations.36 Further, and more directly relevant to our
+present concerns, the recursive model has an uncertain relationship to the chord-tochord constraints that play an indisputable role in classical harmony.
+Let’s consider this point in the context of an elementary example of Schenkerian
+practice. Figure 7.6.1 analyzes the opening phrase of Mozart’s variations on “Ah,
+vous dirai-je, Maman” better known in English as “Twinkle, Twinkle Little Star.” The
+analysis is taken from Cadwallader and Gagné’s undergraduate textbook Analysis
+of Tonal Music: A Schenkerian Approach. Beneath their example, I have provided
+a standard Roman numeral description. My chord-by-chord analysis includes two
+chords that Cadwallader and Gagné omit: where I interpret the opening measures as
+
+Figure 7.6.1
+Mozart’s
+variations
+on “Ah, vous
+dirai-je, Maman,”
+(K. 265), along
+with Cadwallader
+and Gagné’s
+Schenkerian
+analysis.
+
+36 By drawing an analogy to sentences, I mean to be registering the fact that Schenker conceives of
+musical passages as being nested within one another, much like linguistic clauses (§7.6.3). Picking up on
+this analogy, Lerdahl (2001) uses linguistic tree structures to express essentially Schenkerian ideas. Schenker himself periodically made comparisons to language, as at the opening of “Further Considerations of
+the Urlinie: II,” where he decries the simpliﬁcation of German syntax, associating it with a degradation of
+musical comprehension (Schenker 1996, p. 1). (See also Schenker’s analogy to linguistic grammar, quoted
+below.) Ultimately, however, the analogy is a suspicious one: spoken English contains sentential units that
+are about 13 words long, as compared to written English, in which the units are 22 words long (O’donnell
+1974). (Cf. Miller 1956, which emphasizes the “7 ± 2” limits on human short-term memory.) This contrasts dramatically with the length of classical pieces, which can be 20 minutes long, and can contain
+hundreds of measures and tens of thousands of notes. Given the centrality of language to human survival,
+it is evolutionarily reasonable to take the limits on hierarchical linguistic cognition as a rough guide to the
+limits on hierarchical musical cognition.
+
+260
+
+history and analysis
+
+a I–IV@–I–V#–I progression, Cadwallader and Gagné label the ﬁrst ﬁve measures “I.”
+Thus, they describe my “IV@ chord” as a “neighboring chord” (indicated by the label
+“N”) and my “V# chord” as “passing.” The implication seems to be that these chords
+are produced by contrapuntal rather than harmonic forces. In Schenkerian analysis,
+this process of identifying (and removing) “merely contrapuntal” harmonies produces ever-more abstract summaries of a piece, until entire movements, no matter
+how large, resemble simple I–V–I progressions.
+There is room to debate whether traditional harmonic theorists need to recognize
+the notion of a “passing chord,” as opposed to simply acknowledging the existence of
+a few harmonic idioms. But insofar as they do, the term “passing chord” will presumably describe those rare sonorities that violate the harmonic syntax of §7.1. (Figure 7.6.2
+provides a potential example.) By contrast, Cadwallader and Gagné’s “neighboring”
+and “passing” chords participate in perfectly well-formed harmonic cycles. That is, if we
+simply place Roman numerals under each and every chord, as shown at the bottom
+of Figure 7.6.1, we ﬁnd a series of harmonies conforming to conventions described
+in §7.1. We therefore need to understand what it means to assert that some of these
+apparently syntactical harmonies are the “byproducts” of contrapuntal motion. In
+particular, we need to understand how this description relates to that provided by
+traditional harmonic theory.
+Figure 7.6.2 The ﬁrst movement of Mozart’s Piano Sonata K. 279, mm. 25–30. A traditional
+theorist might consider the I@ to be a “passing chord,” since it violates the expectation that
+I@ goes to V. By treating it as the product of linear motion (as shown in b), we obtain a
+syntactical progression from an apparently nonsyntactical surface.
+
+Functional Harmony
+
+It seems to me that there are essentially four options here:
+1.
+2.
+
+3.
+
+4.
+
+Nihilism. Harmonic nihilists simply deny that harmonies in functionally tonal
+music exhibit regularities of the sort described in §7.1.
+Monism. Monists acknowledge that tonal harmonies appear to obey
+harmonic rules, but assert that these regularities can be explained
+contrapuntally. The traditional theorist is therefore wrong to ﬁnd a
+harmonic grammar in Mozart’s music; the deeper and more correct
+explanation invokes the melodic processes described by Schenker.
+Holism. The holist asserts that it is impossible to separate harmony and
+counterpoint, because the very distinction is ill-deﬁned. Traditional harmonic
+theory, by postulating purely harmonic principles, illicitly tries to treat the
+harmonic realm on its own, without adequately considering counterpoint.
+Pluralism. The pluralist believes that independent harmonic laws govern
+functionally tonal music. On this view, Schenkerian theory adds additional
+information to, but does not replace, traditional harmonic analysis. The
+traditional harmonic theorist correctly observes that Mozart’s music obeys
+independent harmonic laws; the Schenkerian augments this observation by
+pointing out that the notes also have additional contrapuntal functions.
+
+We can discount the ﬁrst of these, as it is inconsistent with the evidence presented in
+§7.1. Each of the remaining views is worth considering in more detail.
+
+7.6.1 Monism
+According to the monist, the ﬁrst ﬁve measures of Mozart’s “Twinkle, Twinkle”
+should be explained contrapuntally rather than harmonically. Figure 7.6.3 attempts
+to test this theory by replacing Mozart’s initial I–IV–I progression with a I–vi–I, and
+by eliminating the leading tone from the ﬁfth measure. The resulting chord progressions are very rarely found in tonal music, even though they are perfectly legitimate
+contrapuntally: the I–vi6–I progression is produced by neighboring motion in the
+upper voice, while the I–ii–I6 motion can be understood as a passing chord. The awkwardness of the resulting progressions strongly suggests that Mozart’s compositional
+choices are indeed motivated by harmonic considerations. Absent harmonic laws, we
+simply have no way of explaining why I–vi–I and I–ii–I6 should be so much less common than I–IV–I and I–V–I.37
+Figure 7.6.4 presents a number of contrapuntally unobjectionable progressions
+that are quite rare in functionally tonal music. All feature efﬁcient melodic motion,
+avoid forbidden parallel ﬁfths and octaves, and resolve the leading tone upward by
+step; all would be perfectly acceptable in sixteenth- or twentieth-century music. Yet
+Figure 7.6.5 shows that they are virtually absent in Mozart’s piano sonatas. The challenge for the monist is to explain this using recognizably contrapuntal principles.
+37 This point has been made by numerous commentators, including Smith (1986), Rothstein (1992),
+and Agmon (1996).
+
+261
+
+262
+
+history and analysis
+Figure 7.6.3 These “neighboring” and “passing” chords are contrapuntally unobjectionable,
+though the resulting chord progressions are harmonically unusual.
+
+Figure 7.6.4 Three progressions that are contrapuntally unobjectionable, but which rarely
+appear in baroque or classical music: a root position V–IV (a), a major-key I–iii–V–I
+(b), and the analogous progression in minor (c).
+
+Figure 7.6.5 Chord progressions in Mozart’s sonatas. Starred
+progressions occur across phrase boundaries (e.g. K. 311,
+third movement, mm. 71–72). Schenkerians have asserted that
+the last two progressions are basic to tonal music, whereas
+traditional tonal theory claims that they are rare.
+
+V-vi
+I-I6-V
+V-IV6
+i-i6-V
+V-IV-I
+I-iii-V
+i-III-V
+
+103
+56
+48
+10
+2*
+0
+0
+
+To my knowledge, no theorist has ever even attempted to do so—at least not in clear,
+principled language that would be comprehensible to students or scientists. It seems
+reasonable to conclude that we cannot replace harmonic principles with purely contrapuntal laws. In the words of the noted Schenkerian (and pluralist) William Rothstein,
+[H]ow is it that all those passing and neighboring tones time and again just happen to
+dispose themselves in ways that produce what appear to be tonics, dominants, and other
+familiar chords, often moving in exactly the ways predicted by the harmony books? . . . It
+takes a very large leap of faith to believe that so many chordal structures and successions,
+exhibiting so many regular patterns are to be ascribed to contrapuntal happenstance.38
+
+38 Rothstein (1992) is paraphrasing Smith (1986).
+
+Functional Harmony
+
+7.6.2 Holism
+Let’s now turn to the claim that traditional harmonic theory imposes an illegitimate separation between harmony and counterpoint. The idea is that, in actual
+music, harmony and counterpoint are so intimately intertwined that we must
+always consider both together. One obvious response is that there currently exists
+an accurate theory of functional harmony, one that is largely independent of contrapuntal considerations. Taken literally, holism would seem to imply that we
+cannot produce a purely harmonic theory such as that in §7.1. The holist therefore needs some explanation of how traditional theory manages to achieve the
+impossible. Furthermore, this explanation will need to explain how it is that very
+similar harmonic laws govern tonal styles with very different contrapuntal norms,
+including baroque music, classical music, and many varieties of jazz, rock, and
+pop. (This fact alone would seem to imply that harmonic principles can indeed
+be separated from counterpoint.) To my knowledge, no such explanation has ever
+been offered.
+More generally, it seems likely that the holist fails to distinguish three separate
+questions:
+1.
+2.
+3.
+
+Is it the case that composers’ choices are guided at every point both by
+harmonic and contrapuntal considerations?
+When analyzing a piece of music, does the dutiful analyst typically consider
+both harmony and counterpoint?
+Can we provide an informative theory of the harmonic progressions found
+in tonal music that is largely independent of counterpoint?
+
+The key point is that a traditional harmonic theorist is perfectly free to answer
+“yes” to all three. Yes, actual composers, in the heat of the creative process, invariably think about both harmony and counterpoint; and yes, a responsible analyst
+typically considers both factors together. But despite this in-practice entanglement
+of harmony and counterpoint, we can still provide an enlightening and largely
+harmonic theory of tonal chord progressions. This is because the theoretical project of characterizing the grammar of elementary tonal harmony is completely distinct from the analytical project of saying interesting things about particular pieces.
+Just as the grammarian of the English language can remain resolutely neutral on
+the proper method of interpreting Romantic poetry, so too can the supporter of
+traditional harmonic theory remain completely agnostic about how to analyze
+speciﬁc works. In particular, harmonic theorists need not assert that composers
+think ﬁrst about harmony before thinking about counterpoint, nor that one has
+said all there is to say about a piece simply by placing Roman numerals under
+its chords. (Indeed, Schenkerian theory has provided an important corrective to
+these very tendencies.) To my mind, the point cannot be emphasized strongly
+enough: the project of constructing a harmonic grammar is totally independent
+
+263
+
+264
+
+history and analysis
+
+of the enterprise of musical analysis—as independent as linguistics is from literary
+criticism.39
+
+7.6.3 Pluralism
+Pluralist Schenkerians believe that traditional harmonic theory is correct as far as
+it goes. Thus when the pluralist declares that the IV@ and V# chords in Figure 7.6.1
+are “passing” or “neighboring,” she does not thereby deny that these chords are also
+genuinely harmonic objects that participate in syntactic harmonic cycles; instead, she
+means to assert that there is another level of description in which these chords can be
+discounted. It follows that, for pluralists, harmony and counterpoint will often suggest very different ways of organizing a single passage of music. Harmonically, music
+is organized into a series of concatenated cycles like beads on a string. Contrapuntally,
+however, it is organized hierarchically, nested like a series of Russian “matryoshka”
+dolls (Figure 7.6.6).40 The result is a fundamentally disuniﬁed conception of musical
+structure, in which harmony and counterpoint work against each other, providing
+very different ways of organizing one and the same piece.41
+I will not consider this view in much detail, as it is largely irrelevant to our present
+concerns. The important point is that traditional theorists and pluralist Schenkerians
+can agree about many things: that functionally tonal music involves distinctively harmonic laws; that the local voice-leading moves in Renaissance and classical music are
+quite similar; that modulations involve, among other things, voice leadings between
+scales; that nineteenth-century harmony often exploits efﬁcient voice leading in chromatic space; that harmonic consistency, efﬁcient voice leading, acoustic consonance,
+macroharmony, and centricity all contribute to our sense of tonality; and so on. Ultimately, the question is whether a theory emphasizing these facts will be embedded
+into a larger theory incorporating insights from Schenker. For the purposes of this
+book I am happy to remain agnostic about this larger issue. There is plenty of work
+to do, even if we restrict ourselves to matters about which traditional theorists and
+(pluralist) Schenkerians agree.
+However, I would like to close with two general observations. First, it is unclear
+whether pluralist Schenkerianism is supposed to provide a grammar-like theory
+describing music’s objective structure or a psychological theory about listeners’ sub-
+
+39 Imagine someone who objected to linguistics as follows: “your claim that English has a normal subject–verb–object ordering suggests that we have said everything there is to say about a sentence by labeling
+its constituents, but this leaves us unable to distinguish beautiful sentences from horriﬁc ones.” As far as
+I can see, this obviously silly argument is exactly analogous to the suggestion that traditional harmonic
+theory implies an impoverished analytical method.
+40 The analysis in Figure 7.6.6 is taken from an article by David Beach (1983). In traditional Schenkerian theory, it is linear patterns—rather than chords—that are the focus of attention, and are understood
+to be recursively nested. Nevertheless, this has the effect of creating nested patterns of Roman numerals.
+41 One important task for the pluralist is to re-examine Schenker’s emphasis on musical unity in light
+of this manifest disunity. Is it the case that different musical parameters—not just harmony and counterpoint, but also form, theme, and motive—might in general suggest different ways of parsing a piece? And
+if so, does this reduce the importance of the “unity” that Schenker identiﬁed? See Cohn 1992a for related
+discussion.
+
+Functional Harmony
+Figure 7.6.6 The opening of the slow movement of Beethoven’s Sonata in C minor, Op. 10
+No. 1, along with two ways of parsing its structure. In the traditional tonal analysis (top) ﬁve
+harmonic cycles are concatenated like beads on a string. In the Schenkerian reading (bottom)
+harmonies are nested recursively. (For example, the progression IV–IV6–V#–I, which belongs
+to the fourth harmonic cycle, is taken to represent a single IV chord on level 2.) Schenkerians
+believe that these sorts of recursive structures, which cut across the articulation into harmonic
+cycles, can be reliably inferred from a piece’s contrapuntal structure. Ultimately, the recursive
+embedding proceeds until entire pieces are reduced to one of just a few basic templates, each
+resembling a I–V–I progression.
+
+jective (and possibly variable) responses.42 I have stressed that traditional harmonic
+theory is more like a grammar than a theory of phenomenological introspection.
+In analyzing Figure 7.6.7, for example, you do not need to ask yourself whether the
+D5 in the second beat sounds like a passing tone: if you know that tonal harmony is
+fundamentally triadic then you know enough to say that the D5 is indeed passing;
+and if experience tells you otherwise, then so much the worse for experience.43 (In
+much the same way, a traditional theorist can describe the I@ chord in Figure 7.6.2 as
+a “passing chord” without implying anything about how it sounds.) If Schenkerians
+mean to be making similarly objective claims about musical organization, then they
+need to spell out explicit procedures for making their recursive analyses—procedures
+that will allow us to test the theory in something like the way we tested the simple
+
+42 Among contemporary theorists inspired by Schenker, Lerdahl (2001) models listeners’ subjective
+responses, while Brown (2005) models objective musical organization. Schenker himself wrote “my teaching
+describes for the ﬁrst time a genuine grammar of tones, similar to the linguistic grammar that is presented in
+schools” (Schenker 1956, p. 37; the sentence is translated only very loosely in Oster’s English edition).
+43 This is not to say that we never need to appeal to our psychology in resolving very difﬁcult, ambiguous
+passages. In general, however, I think the goal of constructing Roman numeral analyses is to show how a
+particular passage relates to existing harmonic conventions; if so, then statements about how we hear it may
+be beside the point. This is one reason why it is possible to train a deaf person, or a computer, to become
+reasonably proﬁcient at traditional harmonic analysis (Taube 1999 and Raphael and Stoddard 2004).
+
+265
+
+266
+
+history and analysis
+Figure 7.6.7 If we were to consider every note to be harmonic, we would confront an array
+of unusual sonorities, such as the A-D-E on beat 2. By eliminating nonharmonic tones, we
+reveal a “deeper level” of musical structure, in which triadic harmonies progress in familiar
+ways. The violation of our expectations (e.g. that harmonies should be triadic) is what
+motivates our reductive analysis.
+
+harmonic grammar of §7.1.44 If, on the other hand, pluralist Schenkerians mean to be
+making purely phenomenological claims, then their appropriation of the traditional
+terms like “passing” and “neighboring” is misleading at best. For the (psychological,
+subjective) Schenkerian “passing chord” is a different animal from the (grammatical,
+and more objective) passing tones of traditional theory. Furthermore, there are some
+delicate and as-yet-unexplored questions about the reliability and normative status
+of this sort of phenomenological introspection.45
+Second, I want to remind you that there is an alternative way to formulate broadly
+Schenkerian claims about tonal unity. One of the primary attractions of Schenkerian theory, at least to my mind, is that it promises to show that classical music has
+a kind of hierarchical self-similarity, with its large-scale procedures mirroring the
+local details of chord-to-chord voice leading. This chapter has identiﬁed another
+route to a rather similar conclusion: for as we have seen, modulation involves scaleto-scale voice leadings that do indeed echo the contrapuntal techniques on the
+chordal level. To establish this analogy, we do not need to resort to musical reduction, nor to the analogy between musical pieces and enormous sentences, nor again
+to the claim that composers have cognitive capacities far exceeding those of ordinary
+listeners. Scale-to-scale voice leadings are right there in the score, transparent even
+
+44 Temperley (2007, p. 172) makes a similar point.
+45 It is quite possible to be deceived about what one hears. In part, this is because it can be difﬁcult,
+introspectively, to distinguish hearing as from hearing plus thinking. It is one thing to have certain thoughts
+while listening to music (such as “aha, we’re returning to the tonic key!”), but it is quite another for those
+thoughts to be embodied within the perceptual experience itself. See Wittgenstein 1953 (IIxi) for discussion of the analogous distinction between “looking plus thinking” and “seeing as.”
+
+Functional Harmony
+
+to casual observation. Furthermore, it is not at all implausible to suggest that tonal
+composers might have sensed that F moves to Fs, when modulating from C major to
+G major, or that this is somewhat analogous to the way C moves to B as the C major
+triad changes to E minor. Our inquiry into voice leading thus provides a minimalist
+alternative to the more robust hierarchies of Schenkerianism proper. No doubt true
+Schenkerians will feel that this approach pales in comparison to the richly imbricated structure of an authentic Schenker graph. But there may be some readers who
+prefer the more modest—and perhaps empirically grounded—approach that I have
+outlined here.
+
+267
+

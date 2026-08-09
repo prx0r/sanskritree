@@ -1,0 +1,225 @@
+{
+  "run_id": "spanda_pass_1",
+  "pipeline_version": "v0.4",
+  "generated_at": "2026-07-24T14:44:00.559869+00:00",
+  "commit": "c36c980",
+  "n_verses": 53,
+  "n_unique_lemmas": 160,
+  "verse_hashes": [
+    {
+      "sequence_index": 0,
+      "record_hash": "46a8c509f0aeea7ef15617caaa02071acd47f7ca769f2f5c03a4605c975e3c12"
+    },
+    {
+      "sequence_index": 1,
+      "record_hash": "8030a671a1bbf0869acebe5ef6cce8ce4dd38845f2913536684d09107a149d20"
+    },
+    {
+      "sequence_index": 2,
+      "record_hash": "e463d31c9e4c732afa8fc7b06b0736a748643ec94012b6cb367a526c71423b03"
+    },
+    {
+      "sequence_index": 3,
+      "record_hash": "8b8b3ea8620ec41998427e4f1689d039e8bb7a7bc8bc5822b7842539d766fb03"
+    },
+    {
+      "sequence_index": 4,
+      "record_hash": "565bb2bd96d3461decd4fac9ec75b6144f18e3070aea31c331b6c593556ce382"
+    },
+    {
+      "sequence_index": 5,
+      "record_hash": "ec3cbc887f42b0875f66e01d7567b145a26a359b072f8d0315b6fec42c874b1f"
+    },
+    {
+      "sequence_index": 6,
+      "record_hash": "a451bed9c7280c2dd9eb23c13bf6bf24456434a803e4a7d7ef8aefd74578d77b"
+    },
+    {
+      "sequence_index": 7,
+      "record_hash": "904b20c658a56344c321f2f679f483a4e8eb99c7916121925a921455019b77fa"
+    },
+    {
+      "sequence_index": 8,
+      "record_hash": "69f0c916cef1e9273bd0544724b479402d18f06c146d83a9fe3eaba99108c121"
+    },
+    {
+      "sequence_index": 9,
+      "record_hash": "d8408c89ba4fb32c1ff4d6682c17ee265d7c107be1cb0910135f0cbe09d48041"
+    },
+    {
+      "sequence_index": 10,
+      "record_hash": "0c58c02ac8a00ce469d8b28dba4b7064c6615c71839192b87a370a40483af18e"
+    },
+    {
+      "sequence_index": 11,
+      "record_hash": "9171b7c4cad8a60937cafbd1670ff854d17226fbcbbb4ed58974c52569a834c2"
+    },
+    {
+      "sequence_index": 12,
+      "record_hash": "6dd25b7e8fc25d86c461978155923d4d8cf09f7cb57ee86532cffa7d7b557640"
+    },
+    {
+      "sequence_index": 13,
+      "record_hash": "3434f47544ce71a4b35b9d5378b35f03da34e1b86ea700ba066f1095f851b6d2"
+    },
+    {
+      "sequence_index": 14,
+      "record_hash": "c529c5532d3c654d99ea6a267adb1baf4ef1ba7b83f1a750bd9aa814203ee7b5"
+    },
+    {
+      "sequence_index": 15,
+      "record_hash": "f293ea6237344b1aa8dc4622011336d211bafd5d129e02138508bdd8736f889a"
+    },
+    {
+      "sequence_index": 16,
+      "record_hash": "3b2fabaf3fcceb9f50dc72dc69fadd613c9a832dfa3e13a2d58d12cfc22d4273"
+    },
+    {
+      "sequence_index": 17,
+      "record_hash": "cd57c4e8611a4ddcdd02dbd97cf7ca1b80b5b6e1a0ff5d17d0f571066bab0e7f"
+    },
+    {
+      "sequence_index": 18,
+      "record_hash": "f595211dee04fc778c0f007f91b91402f92603cf7ba3290ea9e313ef23415e36"
+    },
+    {
+      "sequence_index": 19,
+      "record_hash": "4ee996ada1791daf047c28f4e58ec5a44f21c6f3f8475c0d0d973045f42868af"
+    },
+    {
+      "sequence_index": 20,
+      "record_hash": "0bf169d3e1e73d01e09c28162ec6c3baf1a34fb79dac71ae78ed99dadeed61d4"
+    },
+    {
+      "sequence_index": 21,
+      "record_hash": "f2a6c73062eef0ad68c9088d01f04dfe14b34e60b65b15a8626eb7e0748102dc"
+    },
+    {
+      "sequence_index": 22,
+      "record_hash": "79ee745478cfcecb2b06b6a806e7a06aff64e112321a6023236833c0bb0943cd"
+    },
+    {
+      "sequence_index": 23,
+      "record_hash": "f34ddecab56164978be4189f6614389663194a8aed1bcfd5bc357cdc03a4006c"
+    },
+    {
+      "sequence_index": 24,
+      "record_hash": "2f39e31a7b08eb5abed4503a0d72b2bac7fd6426853cedcd574bb8a12f00a306"
+    },
+    {
+      "sequence_index": 25,
+      "record_hash": "951ec12a7d221df39e81a89d428d2fe0757444ee01570258b78d9050959979d0"
+    },
+    {
+      "sequence_index": 26,
+      "record_hash": "52e43f9e2e40ff5cee0dbd47be74cd7490622303ba879bf495ef1167ec45dffa"
+    },
+    {
+      "sequence_index": 27,
+      "record_hash": "bd26a70a4a130709da5a9fe3cd618266e093dba2d604514c9e9b42df95421a59"
+    },
+    {
+      "sequence_index": 28,
+      "record_hash": "be73ce1191e2ff9f871de3b45b1c730fd77cf5620390825ce3ba0e5d957e590a"
+    },
+    {
+      "sequence_index": 29,
+      "record_hash": "f620ae305a3fe75b7970c13fd6d9731354a0201b20d12138690ebd77ac9686e7"
+    },
+    {
+      "sequence_index": 30,
+      "record_hash": "f16cac47b1f7b23cc7b36216c6fd9f01bcb78e5caeb2e53a173c1df24cea2c41"
+    },
+    {
+      "sequence_index": 31,
+      "record_hash": "1475ca63ab9aff9d6c5b82a428215882af0486b3979abaf6c0dbe2184614fd7c"
+    },
+    {
+      "sequence_index": 32,
+      "record_hash": "ba96c60da6969ed061eb08eed99e5e29f8b74900bae95f58ec765274d03c5707"
+    },
+    {
+      "sequence_index": 33,
+      "record_hash": "df59e70d40170981a9c9f7b333e09e54acf3c162f5be4b4163d08d1d05a25e8d"
+    },
+    {
+      "sequence_index": 34,
+      "record_hash": "a7b7459f2c869474c1ae93dcffd5425e77afb784d70c6a741f50d0c2d18058ee"
+    },
+    {
+      "sequence_index": 35,
+      "record_hash": "49dccfa84b4037273308763b35cef575b9594838342c5cbc7550e1e8a52d1886"
+    },
+    {
+      "sequence_index": 36,
+      "record_hash": "b82c51d92ef9478183c3c785a365573fe8cf2721f62e0d0238d9adc784079564"
+    },
+    {
+      "sequence_index": 37,
+      "record_hash": "c4d1a2cd5ab56f89ab1e515f7b422aac3e231c44c0f3687f505079c1970e0980"
+    },
+    {
+      "sequence_index": 38,
+      "record_hash": "4929f57e36f31dc0a26622a17072cea0695966fa5429456d2cd96e01ffdaf5fb"
+    },
+    {
+      "sequence_index": 39,
+      "record_hash": "04823335c588653cd5220165a90c0fa95335cf8bba3d0383635a53085047b192"
+    },
+    {
+      "sequence_index": 40,
+      "record_hash": "a0241ea0716ee151c76ea7fe73566383a5dc2ef76424866721077d366da46cc6"
+    },
+    {
+      "sequence_index": 41,
+      "record_hash": "516efe883d707eb6164a2ee3312b7089528a6f216d2ca719337fcd78f54b768a"
+    },
+    {
+      "sequence_index": 42,
+      "record_hash": "88a5a2eb1a85094f0b1d15ec69ccc83a52155a5a328673b73707c39ba4cb6981"
+    },
+    {
+      "sequence_index": 43,
+      "record_hash": "aee94ae63bd66233d621287af7e7e0c561777aa2fe5b7f400e3c94fc5bf5a815"
+    },
+    {
+      "sequence_index": 44,
+      "record_hash": "04650abad1272f7a35b623e8781b8f7b66c295b8a2a596bfd7d598cc2c2495e8"
+    },
+    {
+      "sequence_index": 45,
+      "record_hash": "a53cb8f4b7f1c329ab38d581cbc57e620c30bc439e0e03319038650af01ea79c"
+    },
+    {
+      "sequence_index": 46,
+      "record_hash": "34f66a8ffdb8fb42703a4c418aeea881392d967b78b404f690a6d30525d88340"
+    },
+    {
+      "sequence_index": 47,
+      "record_hash": "1011c4ce7571e6618b501055d25c1eea3aef28678f218b6c8ade12e6cacce02d"
+    },
+    {
+      "sequence_index": 48,
+      "record_hash": "90c7f4fee06bceca6fabfee755a0f55d2116522fa8b409ea5ef5ade9894d3e05"
+    },
+    {
+      "sequence_index": 49,
+      "record_hash": "7c54c00a2cba76eeca378beb734f25277127cad85b01b0c378ac3034e13db0ec"
+    },
+    {
+      "sequence_index": 50,
+      "record_hash": "4494cf02de2b9624ca70c666f4fbbbf63c9f2e213564ab8568281d8336cd71bf"
+    },
+    {
+      "sequence_index": 51,
+      "record_hash": "553d2b1ffcd5c82baa6d94599c4401a2b978aacf8115dd347d1cf92b91bffe1b"
+    },
+    {
+      "sequence_index": 52,
+      "record_hash": "b40f426ddc54838011cde5f67fb981618d1b6ed8195b07e31001aaaa572ee175"
+    }
+  ],
+  "semantic_root_hash": "60099533b423bd0f6981973a9ae96cd1a02ac1aaacacbe9c8917869c62c4e2b6",
+  "byte_archive_hash": "124b18599643a5c9021ee096e755b056f098a5bb71be1b841d6c6ff929eadfde",
+  "hash_algorithm": "sha256"
+}

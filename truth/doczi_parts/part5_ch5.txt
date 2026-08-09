@@ -1,0 +1,654 @@
+CHAPTER
+
+of
+
+Anatomy
+
+Sharin
+
+Shells, clams, crabs and fishes
+
+The shapes of shells have been the suhject of many studies which show that their harmonious
+A logashapes unfold in logarithmic spirals characterized by the golden section's proportions.
+rithmic spiral typical of shell growth, figure 99. shows that each consecutive stage ot growth is
+encompassed by a golden rectangle which is by a square larger than the previous one, a pattern
+Hambidge called the pattern of "whirling squares."-*" One can trace this "whirl" by
+which Jay the
+following
+table below:
+golden rectangles
+() 1 2 3
+12
+
+4 5
+
+2
+
+4
+
+6 7
+
+4
+
+6
+
+8 9
+
++ squares
++ () 3 4 5
+
+= golden rectangles:
+= 12
+4 5
+
++ 1
++ 2
++4
+
+=
+
+2
+
+4
+
+6 7
+
+=
+
+4
+
+6
+
+8 9
+
+=
+
+6
+
+8 10 11 etc.
+
+5 6 7
+7 8 9
+9 10 11
+
+The harmony of the Fibonacci series is present in this shell curvature, as the equidistant radii
+in figure 100 illustrate.
+
+THE ANATOMY OF SHARING / 53
+
+That even widely differing shell shapes share the proportions ot golden dinergy can be seen
+by comparing, for instance, the Atlantic sundial {Architectonica nohilis) (fig. 101) — which is
+103) perfectly circular — with a delicate variety of abalone {Haliotis asinitia) (fig. 102) which is
+almost
+elongated like a donkey's ear; (asininus means "donkey" in Latin). Successive stages of growth
+in the abalone — measured along neighbormg, equidistant radii — are Fibonacci numbers, (tig.
+
+Fig. ini. Atlantic sumiial
+
+Fig. 11)2. Abalone {Halioiis
+iisiiuihi). The shape above
+the (Jotted line is reconstructed inFig. 103.
+
+Fig. 10.^ i:)inergic
+reconsiriu tuMi o\ abalone
+shell's outline
+
+.S4 THE POWI R OF 1 IMITS
+
+]
+
+In the Atlantic sundial, bcc.iuse ot its nearly circular shape, it is easy to measure successive
+increments ot growth projected along one of the radii, marked a to 1 in figure 104. The
+reconstructions — by the same dinergic method ot combined radial and rotation.il grtnvth
+increments as used earlier for the reconstructions of daisy, sunflower and leaf outlines — reveal
+that the difference between the curvatures is only in the tempo, or rate of unfolding. The
+sundial's spiral moves with relative slowness between consecutive circles. It crawls through not
+less than 20 radii, or squares, before reaching from one circle to the next: a proportion of 20:1
+between radial and rotational growth. The abalone takes only four to five radii or squares to
+move from one circle to the next: a proportion of 4 or 5:1 . Constructions of the golden section
+at the right of figure 104 prove that the proportions of neighboring whorl-widths are the
+golden ones: all the shaded rectangles — width and length of which correspond to the width of
+neighboring whorls — are golden rectangles. The harmony created by this relationship is illustrated also by the organ-pipe-like bars, indicating the cumulative length of successivelv widening whorls. This sharing of the same proportional limitations throughout the entire growth
+process is also expressed by a series ot equations all equaling (f).
+
+I HE ANATOMY OF SHARING / 55
+
+Fig. IDS. Dil.itc'd whflk ipcuion diLi
+
+Ot course, shells grow in all three dimensions ot space sinuiltaneously. In the abalone,
+however, and in the sundial, development in
+the third dunension ot depth is relatively
+small. In shells that have greater depth, this
+development also shares the proportions of
+golden dinergy, as can be seen, for mstance, in
+the dilated whelk of New Zealand {Penion dilatiitus), figure 105. The wave diagram at the
+left indicates how all neighboring whorls
+share the same golden relationships. The long
+equation series at the bottom ot the drawing
+T !
+
+expresses the same thing. The right-hand diagram hirnishes constructions of the golden
+section as in the previous example.
+A side view ot the bear's paw clam (tig.
+106) illustrates the marvelous precision of
+dinergic sharing between the two opposite
+valves interlocking and complementing each
+other. Reconstructions ot the basic outlines
+reveal that the harmony ot this lovely shape
+shares the same golden dinergies as so many
+earlier examples ot organic growth.
+
+Fig. 106. Bear's p.nv clarn [Htppopuf
+hippopm).
+reconstruction
+ot central nincrgic
+spiral, upper
+diagram,
+And cross section, lower duii^niw% / THF. POWER OF Ll.MlTS
+
+Fig. 107. Proportional harmonies ot Dungenes crab (Cancer maj^isier).
+
+In crustaceans we again find golden dinergic relations shared by all neighboring parts ot the
+anatomy. The carapace of a typical Dungeness crab, from the Northwest Pacific coast of the
+U.S., fits into a golden rectangle as drawing A of figure 107 shows. The length of neighboring
+parts of the pincers and legs (C) in relation to each other (table B) fluctuates between visual
+equivalents ot the three musical root harmonies of 0.75, fourth-diatessaron; 0.618, fifthdiapente; and 0.5, octave-diapason (D). The wave diagrams of pincer and legs (E) show the
+harmonious rhythm created between all these differently sized members by their shared proportional relationships.
+THE ANATOMY OF SHARING / 57
+
+U.235 = /J
+'5 4/8
+
+/.6;e
+
+f-ig, I(»S. Sli.irc\l [H(>]>oriions ot fish.
+SS
+
+mi- l'(,n\ 1 K OV 1 IMI 1 s
+
+« 6/e
+
+<f> =1. 618
+
+/.O
+
+A study ot a variety ot tish shapes reveals
+similar rhythniie harmonies resulting from
+similarly shared proportional limits. The proportional analysis ot ten ditterent. randomly
+chosen fish trom the Pacific waters ot Can.ida
+
+III, rtri i^p^'
+
+ZJ
+
+Cr/Xco Svt/ifpe TofL
+
+demonstrates that their basic outlines — and
+frequently also the detailed articulations ot
+their bcxlies — share in a variety ot ways both
+the proportions ot the golden section and ot
+the 3-4-5 triangle. The pictures ot each ot the
+ten tish in figure 108 illustrate how the outlines fit into golden rectangles, their multiples
+and reciprocals, at times combined with
+squares. In many instances, the mouth is at the
+golden section point c^t the body's height, as in
+the Coho salmon (1), quillback rockfish (2),
+calico surf perch (7), and opah (10). The lower
+row of fish shows how a series of double 3-4-5
+triangles can be fitted into the outlines trom
+mouth to tail.
+
+3^
+O 6 '8
+
+IHE ANA I t^MY OF SHARlNCi / 59
+
+..V
+
+(2)
+
+7A loi - 0.7?,
+
+f;:99 - a-?
+i2:;q = 0.63
+
+24.31; 0/7
+
+3j:5o = 0.62 ,~
+
+t.' 5/ = 0 77
+
+S )
+
+3-; «2= c.fj
+
+1
+
+^4
+
+'7^'^
+
+fJott:
+c
+Sef. i-i^i-i'ciU SCcJ.es (tlrtrt K —
+40..
+o.eo
+0.15 -A) .72
+
+osr
+
+lO 7 7
+
+0 6/
+
+nfiK- kaperM(OGz
+
+:7 w
+60
+
+THE POWER OV Ll.MlTS
+
+,
+
+^4)
+
+(15.
+
+(16
+
+{17
+
+(18) "D
+
+67:96=
+The combined three-unit length ot such 34-5 triangulation diagrams, representing vertical body height, constitute true harmonic
+progressicws, shown in figure 109 tor the coho
+salmon, curltin sole. Pacific pompano, calico
+surfperch, and ribbon barracudina. The harmonies ofthese rhythms likewise approximate
+the root harmonies of music, as wave diagrams and graphs show.
+
+Ribbon
+
+E>(vviOiCAAdjLria.
+
+THE ANATOMY OF SHAHINC / M
+
+Even in the third dimension (it thickness, tish tend to partake ot the golden section's proportions, asthree typical transverse sections in figure 110 illustrate.
+I he s.uiie proportional limits prevail in the shapes ot skates and stingrays, as illustrated by
+figure 111. ( he ni.un bodies ot the deep-sea sk.ite (1), black skate (2), longnose skate (3), and
+starrv skate (4), are each encompassed by two golden rectangles, while the big skate's body (5)
+tits into a single golden rectangle. The greatest width ot the bodies invariably tallies with the
+g(.)lden sectu>n point ot the height.
+
+ivYuVA c^doses file
+
+of ih :.hApe ^
+
+Ac Ut^'.'Jt of the pAyTth IS WjvkU.
+i.htue Itnjt-i of-c ^ elite i\ K ct-«A\*)le-
+
+f it;. 11(1 Proportions ot transverse sections ot hsh.
+I Hh l>cn\ 1 H 0\ 1 IMlIs
+
+(4 ;O
+2 O
+
+20
+
+1.0
+
+/o
+h'^A^i Lpl.es L^f joldCit yictun (flfJ -BTAhxm
+\ht shafej: of- skate:^ 0^io{.'^^. JuU widHt
+
+<li iirr'rith. L' L/Hitined
+I'eUvffn hvn (if.'IdrtA Irrl^imi. poi't^fJ:
+
+I J Deep-sea Skdtt
+
+I'll '>Ujri^<jf a ppvcJLP^ iu Ojrim/ eufcfdi »ij
+7n ■ 6 0 C C^, 6<-P,
+
+j^it
+
+T
+
+Y
+y
+A
+
+]A-tB
+Ll
+'^uj Skcd-t
+
+K St
+
+Fig. 111. Proportums ot skates and stingrays.
+THE ANATOMY OF SHARINC / 63
+
+The length oi the tail shares the same proportional limits in a variety of ways outlined in the
+drawings. In the deep-sea skate, the tail is as long as one oi the golden rectangles encompassing
+the body plus a reciprt>c.il tin.iling . In the black skate, the length ot the tail and the height
+ot the body are about equ<d. The tails ot the longnose skate and the starry skate correspond to
+the sht)rter side ot a golden rectangle, the longer side ot which equals the width ot the body.
+Two \^ rectangles encompass the entire shape ot the big skate, trom end ot tail to tip ot snout.
+The two stingrays in figure 111 displ.iv a preference tc>r the 3-4-5 triangle's proportional
+limits. The main body outlines ot the stingray (6) ,ire encompassed by two sets ot reciprocal
+3-4-5 triangles: OCD, OCF, OED, OEF; the full width corresponds to the joint side ot these
+two sets ot tri. ingles and the length ot the tail doubles the height ot the body. The pelagic
+stingray's body (7) fits into .i rectangle composed ot two 3-4-5 triangles and its tail's length is
+the same as the body's width.
+Let us now move up the eviilutionary l.idder trom the denizens ot the deep to the vertebrates
+of dry land, starting with .i prehistiiric giant reptile.
+
+Dinosaur, frog and horse
+The skeleton ot the gi.iiit reptile allosaurus, a tierce c.irniyorous dinosaur that lived about 140
+million years ago, was unearthed m Ut.ih and recently was reassembled at the Thomas Burke
+MenK>ri.il .Museum of the University ot Washington, .Seattle. Figure 112 shows the complete
+skeleton, which the author had the privilege to measure. As in earlier examples, a wave
+diagram illustrates the articulation ot this huge bt)dy along the vertebral column into skull,
+neck, trunk, sacrum and tail corresponding to the musical root harmonies ot fifth-diapente and
+tourth-di.itessaron. Point A, where the sacrum and the first tail vertebra meet, is the golden
+section point along the full length ot the skeleton, relating the tail to the rest of the body
+similarly .is the trunk relates to skull plus neck, and neck relates to skull, the latter's length and
+height again sharing the same relationship. The tabulation shows how these relationships
+fluctuate around the 0.75 ratio ot the Pythagorean triangle, and the golden section's 0.618 ratio.
+The 1ength ot sacrum and trunk are in <i reciprocal golden relationship (within a fractional
+difference, marked d), as the construction ot two reciprocal golden rectangles over dorsal and
+sacral vertebrae indicates.
+rut- t>o\\ 1 u o\ I iMi IS
+
+100
+ICQ
+Z9j
+cm 100 50 go 7(5 & 50 40 io 2b lO 0
+
+50
+
+^^0
+4cc
+
+Fig. 112. Dinergic reconstruction of allosaurus.
+THH ANATOMY OF .SHARING 65
+
+Every single vertebra shares the same proportumal rel.itionships that unite the whole body, and everv one does it in .1
+different way, appropriate to its station within the whole body
+and to its specific function, ,is shown by figure 113. Thus the
+sacral vertebrae (3) are the strongest and most massive since thev
+act as fulcrum, balancing the enormous weights of' trunk and
+head on one side and the huge tail on the other. The caudal
+vertebrae (4 and 5) are the most slender since thev support onlv
+themselves. The laterally protruding process bones of the dorsal
+vertebrae (2) are much heavier than those of the tail, since thev
+help to carry the weight of the trunk and the head. The cervical
+vertebrae (1) are the most complex ones: not only do thev carry
+the weight of the huge head, but they also accommodate its
+turning in every direction.
+The wave diagrams reveal that the rhythmic unity of these
+delicately sculptured shapes is based on a sharing of golden relations between many diverse neighboring parts. For instance, the
+round hole of the nerve channel is always very near the golden
+section point of the total height; the lateral protrusions of process
+bones and the vertical extension of the spine tend to share this
+relationship with the proportions of the bulky round bone at the
+base, called the body. The tabulation shows again that, while none
+of these relationships is mathematically perfect, the general tendency of approximations is unmistakable.
+
+113. Proportions ot vertebrae ot ailosaurus.
+
+THH ANATOMY OF SHARINc; / 67
+
+Details oi hindleg and toot (Hg. 114), as
+well as trontleg and loot (lig. 115), show the
+same kind ot rhythmic sharing of the narrow
+range ol proportional limitations between
+small and large bones as we observed withm
+the vertebrae and the major articulations ot
+the whole body.
+
+JO
+
+All neighboring bones share proportional
+Hmitations corresponding to the musical root
+harmonies ot the tourth and the titth, as the
+graphs and wave diagrams indicate. Even the
+small coracoid bone at the shoulder shares
+golden proportions between its width and
+length. Furthermore, all joints — shoulder,
+elbow, wrist, hip, knee, ankle, as well as the
+minute joints ot the phalanges in hands and
+teet — torm harmonious series which also
+share these same proportional limitations.
+toes fplxaianfiei\
+X i^hu.r^h let not irionO-^
+Fig. 114. I'rdporiioiis ot limdleg
+aiu! toot ot .illosaurus.
+
+68
+
+I HE K>\\ i-.K Of- Ll.Vin S
+
+The three pairs oi bt^nes which constitute the pelvic girdle ot the allosaurus (tig. 1 16) are ot
+particular interest: each ot these pairs is totally ditterent troni the others, each serving a
+different tunction, yet they too are shaped and related to each other by the same proportions
+that shape and unite the rest ot the body. The illium tits into a single golden rectangle, the
+ischium into two golden rectangles, and the pubic bone into two reciprocal golden rectangles.
+As far as their relations to each other are concerned, the length ot both pubic bone and ischium
+tend to torm with the width ot the illium turther golden, dinergic and reciprocal relations ot
+neighbors.
+
+ililwwv
+
+-~ 'J
+
+:0 -
+
+10
+
+30
+
+Fo
+
+SO
+
+70 ,:n.
+
+Hie ro-j. \ti\
+0. 750
+
+0150 ■
+0GI8
+the J^fti\
+Fig. 116. Proportions ot pelvic
+girdle ot allosaurus.
+
+rv/cUtcms betw. fhc rkme baizes
+
+iScJvuwn.
+pidruL barie.
+
+THE ANATO.MY OF SHARINC / 69
+
+f-ri)in this extinct giant reptile, let us now turn to a small amphibian that is still with us: the
+trog. When the skeleton oi a trog (Hg. 117) is straightened out and the length ot the bones are
+projected upon the central axis of the body, as shown in figure 118, the length of the bones
+show harmonically diminishing series as they move away from the pelvis. The top of the pelvis
+is the center ot a series of circles which widen at .1 h.irmoniouslv diminishing rate and all joints
+appe.ir to be located upon these circles.
+The bar diagram at the right and the wave diagrams at the left show the harmonious nature
+ot these series, giving a graphic image ot the pulsations ot growth, as they emanate from the
+pelvic center, very much like light vibrations r.idiating from the center ot a lamp in the
+isocmdle diagrams ot figure 97.
+The gr.iph shows, m the familiar manner, hmv all shared proportit)n<il limitations approximate the three root h.irmi>nies oi music. The central wave diagram gives the relationships
+between the extremities .md the trunk, while the diagram at the left reveals how these very
+same proptirtional Hmit.itiiMis also exist between the length ot the skull, the spine, the pelvis,
+and the greatly extended jumping legs and feet.
+
+I-ig, 1 17, I-rog ski-li-ton.
+
+skipping severed rungs on the evolutionary ladder, we will now examine the skeleton ot a
+horse. (Hg. 119) Even in this reassembled state, the grace ot its gallop is delightful. Figure 120
+reveals some ot the secrets ot this grace — the proportional harmony that unites the diversities
+within the bone structure.
+One aspect ot this proportional relationship is between the skull and vertebral column on one
+side and the extremities on the other, (tig. 120) Lined up with their length-dimensions along
+their longitudinal axes, the parts ot this anatomical structure show shared relationships
+between: skull and phalanges; neck and metatarsal-metacarpal bones; trunk and shinboneforearm; and sacrum-tail and upper arm-thighbone.
+The dimensioned wave diagrams turther illustrate how these diverse articulations approximate musical root harmonies, as the graph demonstrates.
+
+Fig 1 1'^ f li^rsc -.kclctoii
+IHh [>0\\ f\K 0\ 1 IMI I s
+
+'
+
+-./irf/:!,!
+V itfinnt.
+
+tot-
+
+hole.
+
+0.75"
+
+Fig. 120. Proportions ot horse skeleton.
+THl ANA rOMY Oi- SllAHINc; / 7}
+
+Wc have seen several examples deimnistr.itmg the important role that shared proportional
+rel.itionships play in the .matomy oi .inim.ils. We shall end this chapter by attempting to show
+that such sharing is not limited lo the proportional relationships ot physical anatomy, but
+extends also to the social relationships ot animals, thus supporting our view that sharing is
+indeed one ot the basic pattern-torming processes ot nature.
+
+Sharing: the nature of nature
+Sh.iring <is ,1 pattern-tt)rming process is so basic in animal lite that it is hard to select a tew
+examples — suited to the limited scope ot this presentation — without neglecting many more
+ecjually signiticant ones. Perhaps one could start with the sharing ot parental care.
+rhe Russian naturalist Peter Kropotkin, in his book Mutual Aid mentions that the lapwing
+{I'aiu'llus i'ijh(7/h.s) "has well merited the name 'good mother' which the Greeks gave it, tor it
+never tails to protect other aquatic birds trom the attacks ot their enemies."'" This brave bird is
+known tor sharing the plight ot its tellows by teigning a wound, thereby luring attackers away
+trom a threatened nest. It accomplishes this by crying and tlying with peculiarly flapping wings
+
+ig 121 Htklv l.iiinu.ii;f lit .1 <.iog D.irwiii s illustr.itioii
+t lu>slilit\ . .j/n'i'i-. .nil! JfV(itu>n, hfbif
+
+(thus the name "lapwing").
+The lapwing's ingenious body language matches countless other examples ot sharing by way
+ot body language among animals. Darwin observed that dogs express their feelings ot hostility
+or friendship through body movements, as illustrated in figure 121.
+From the researches ot von Frisch and cithers we know that bees share detailed communications about food sources by using the body language ot dance, (fig. 122) A round dance is
+performed to convey that food is ne.irby (A). If the tood is farther away, the dance is in a
+figure-eight pattern (B), and vigorous tail-wagging is added (C). Such dancing not only shares
+intc^rmation: the dancer also shares energy and excitement, which induces fellow bees to swarm
+out and get the tood, upon which their life depends.
+Mating dances ot cranes and other birds are well known. But birds have also been reported to
+dance and sing in concert tor no other apparent reason than shared delight, as W. H. Hudson
+observed in his book Wituralist on the La Plata, about his travels in South America, before the
+turn ot the centur\'. He remarked that he occasionally "saw a whole plain covered with an
+endless flock ot Chakars {Chaum chavama). . . . Suddenly the entire multitude of birds covering
+the marsh tor miles burst forth in a tremendous evening song ... it was a concert well worth
+
+^ //jA'ri". flrf.s fT»v.
+
+,-...>v4 ^An^f 'f *a_Liv>.y4^^vx Ji^^t,
+
+ig. 122 IXiiKc l.mguai^f nt bees, A. Riniiul J.iiuc;
+llircc bees arc rci. c-ivinii iiK-ss.igc. B. I r.msitUMi trotii
+roiiiul J.iiHc to t.nl-uMgging liancc. Schcin.itK': upper,
+1,1 tigiirc eight (oriii: /,'iCiT, via sic kk'-sliapcil torni C.
+ail wagging ilaiKf. tour bees arc receiving message.
+4
+
+I HI: i>i.n\ I K til 1 iMi I S
+
+to hear."''^
+milesshares
+hundred
+riding
+The am.ile
+cricket
+his mating urge with distant temales whom he attracts with his
+mating call. Birds too sing to attract mates, and they also share all kinds ot other information
+with each other, tor instance warning other birds about approaching enemies, threatening
+intruders upon their territtiry, or calling fellow birds to gather. Even whales are known to
+communicate with each other by singing. The humpback whale {Me^aptera noi>aeanq_liae) in
+particular has been reported to sing in eerie sounds beautiful even to the human ear. This song is
+said to be verv loud and to cover a range trom deep basso to high soprano. What messages
+whales share with each other by singing is not known, but scientists assume that it serves to
+"identitv individuals, and to ht)ld small groups together during the long transoceanic
+migrations.
+
+Fig. 123. Dolphins rescuing dis.iblcd tfllovv Jolphin.
+The migrations ot animals are immense shared enterprises. Kropotkin observed the gathering
+ot thousands ot migratory birds on the steppes ot Siberia, and said that "they come together at a
+given place tor several days in succession betore they start, and they evidently discuss the
+particulars ot the journey. . . . All wait tor the tardy . . . and tinally they start in a certain
+well-chosen directic^n — a truit of accumulated collective experience — the strongest tlying at
+the head ot the band and relieving each other in that ditticult task. They cross the seas in large
+bands consisting ot big and small birds."'''' One rarely appreciates the magnitude ot these shared
+animal enterprises. The Arctic tern travels twice yearly trom one polar area ot the earth to the
+other, spending the summers at the North Pole along the shores ot the Arctic Ocean and the
+winters around the South Pole in Antarctica, a travel distance ot 11,000 miles each way. Such
+gigantic enterprises could not take place without superb cooperation and mutual assistance.
+Sharing in each others' distress and rescuing endangered tellow animals is reported among
+many species. In 1969 it was observed in the Mediterranean how an electroharpooned dolphin
+was supported and eventually rescued by tellow dolphins, (tig. 123) Similar reports have been
+made about wild dogs, Atrican elephants, and baboons, among others.""' To quote Kropotkin
+once more about triendship and loyalty among animals: "When a parrot has been killed by a
+hunter, the others tly over the corpse ot their comrade with shrieks ot complaints and themselves tall victim ot their triendship, as Audubon said.""*^ Kropotkin was one ot the tirst to
+THE ANATOMY OF SHARING / 75
+
+f-|g. 124 Sli.ircJ sli.ipcs (it waves, hills, c loiuls .hk!
+rotks ['.icitit (XcMii .11 l\>iiH Rcvcs, (".liitDrni.i, Icti.
+•iinl rot k toriiLitloils ,it ( .Icli ( '.in\ oii. ( loiiir.idi), rn>/;r
+
+collect a substantial volume ot scientific evidence ot these basic patterns of animal behavior. He
+bec.ime convinced that sharing in the form ot "mutual aid and cooperation" was not only the
+"prehuman origm" ot all mor.d behavior but was also a basic condition of survival and a
+critical factor ot evolution.
+In the nineteenth century this view was neglected in tavor ot popularized Darwinian
+concepts such as natural selection, survival ot the tittest, struggle tor existence, and competition. The controversy is still on between those who hold that human beings are inherently
+aggressive and competitive, and adherents ot the opposite view that we have equally strong
+natural potentialities tor nonviolent cooperation.
+The "innate aggressiveness" theory has been revived and made popular by the writings ot
+Konrad Ltirenz, Robert Ardrey, Desmond Morris and William Golding, among others. On the
+other side are those who hold that war and violence are learned behaviors, culturally tostered.
+The anthropologist Ashley Montagu writes, "Human beings can learn virtually anything. ""''^
+"War is not in our genes," says Sally C^arrighar in Miiii and Ai^iiression.^^ "While it is obvicius
+that many men are killers, it i? equally true that many more are not. . . . Man's propensity for
+violence is not a racial or a species attribute woven in his genetic tabric. It is culturally
+ccinditioned bv history and the ways ot lite." So wrote Rene Dubos in 1971.''
+To quote again Ashley Montagu, "At the present time the principle ot cooperation is in a fair
+way to becoming established as an impc")rtant tactor in the survival of living groups. W. C.
+Alice sums up the modern point ot view as tollows: "The balance between the cooperative . . .
+and the egoistic is relatively close. Under many conditions the cc:)operative forces lose. In the
+long run, however, the group-centered, more altruistic drives are slightly stronger. . . . Our
+tendencies toward gocidness, such as they are, are as innate as our tendencies towards intelli-
+
+TUl- l'C)\\ I K OF LI.VllTs
+
+gence; we could do well with more of both. Another anthropologist, C'olin M. Turnhull adds
+on the basis at his studies ot non-literate, tribal cultures, ". . . it man has a seemingK' limitless
+capacity tor violence, tor aggression, he has an equally great potential tor nonvitilence, and
+nonaggressivity.
+In terms ot modern and practical economic policy — individual, national and international —
+the economist Barbara Ward comes to this conclusion; "When men or governments work
+intelligently and tarsightedly tor the good ot others, thev achieve their prosperity too . . .
+Generosity is the best policy . . . Our morals and ouv interests — seen in true perspective — do
+Sharing is creative. It we share what we have with our neighbors who have less, we gain
+not pull apart. "^'^
+more than it we had kept it all tor ourselves. This is the paradox ot sharing expressed bv the
+words St. Paul attributed to Jesus: "It is more blessed to give than to receive."
+We have seen that sharing as a basic pattern-torming process shapes harmonious rel.itionships in animal and human lite the same way it shapes proportional harmonies in .inimal
+anatomy, in music and in the other arts. There is indeed a "mana ot sharing" throughout
+nature. It one looks at a view ot the ocean shore, say in Calitornia, placing beside it a picture ot
+rock tormations, tor instance in Colorado, (tig. 124) it is hard to tell where the rocks end and
+clouds or ocean begin, because the tolds ot the rocks and the clouds share the wavelines
+ot water.
+Similarly, a peacock's untolding plumage shares the dinergic pattern at the center ot a daisv.
+The dotted lines in tigure 125 connecting the eyes ot the peacock's plumage are identical with
+the logarithmic spirals used to reconstruct the daisy's pattern. When circles are inserted
+between the spiral lines (tig. 126), the peacock's p.ittern is transtormed into the central pattern
+ot the daisy. This is not magic: it is the mana ot sharing, which is the verv nature ot n.iture.
+
+lilt ANAICIMY Ol siiAliINC / 77
+

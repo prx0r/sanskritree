@@ -1,5 +1,7 @@
 # Sanskrit Proof Engine
 
+> **NEW AGENT? → Read [`START_HERE.md`](START_HERE.md) first.** It contains the current mission (leapfrog translation program), the corpus assets, the verification anchor stack, and the master plan in `corpus/targets/translation_atlas.md`.
+
 > **V2 status:** the legacy engine remains intact. New provenance-aware work lives in `src/sanskritree/`; its activation gates are in `docs/PIPELINE_ACTIVATION.md`.
 
 Truth compressor: decomposes Sanskrit philosophical claims into Lean4 proofs or honest boundary findings. Per `proofenginge.md` and `instruction.md`.

@@ -1,0 +1,1328 @@
+chapter 6
+
+The Extended Common Practice
+In the second half of the book, we’ll employ our theoretical apparatus to ask speciﬁc
+analytical and historical questions. Chapter 6 uses the ﬁve components of tonality as
+a framework for reinterpreting the history of Western music, suggesting that a number of broadly tonal styles use very similar compositional techniques. The remaining
+chapters take up speciﬁc issues raised by this overarching narrative. Chapter 7 discusses the harmonic syntax of eighteenth-century tonality, using geometrical models
+to investigate general questions about chord progressions, sequences, and key distances. Chapters 8, 9, and 10 are mostly analytical, focusing on chromatic harmony,
+twentieth-century scalar music, and jazz. Here the point is to demonstrate that the
+theoretical apparatus is useful for explicating speciﬁc pieces as well as more general
+historical trends.
+Ultimately, the goal of Part II is to argue that Western tonal music constitutes an
+extended common practice stretching from the eleventh century to the present day. By
+now, this thesis should not be too surprising: since the ﬁve components of tonality
+constrain each other in interesting and nonobvious ways, composers who wish to
+combine them have only a few alternatives at their disposal. The simple fact is that
+many composers from before Josquin to after John Coltrane have wanted to combine
+these features, and hence have struggled with a problem that has a relatively small
+number of solutions. We should therefore expect that when we dig deep enough, we
+will start to ﬁnd interesting similarities among their approaches.
+Chapter 6 illustrates this point by considering brief passages from ﬁve very different musical styles. The ﬁrst is eleventh-century, two-voice note-against-note counterpoint—the earliest and most basic form of Western polyphony. The second illustrates
+the vocal counterpoint of the Renaissance. The third exempliﬁes the functional harmony of the baroque and classical eras, and embodies two related innovations: the
+establishment of purely harmonic conventions and the increasingly systematic use
+of modulation. The fourth style highlights nineteenth-century composers’ growing
+awareness of chords as objects in chromatic space, while the ﬁfth illustrates twentiethcentury approaches to nondiatonic scales. Since my goal is to argue that there are
+similarities between these ﬁve very different kinds of music, my discussion will necessarily abstract away from numerous historical particulars. This is precisely why I consider brief passages, rather than entire pieces. I trust you will agree that my examples
+capture the spirit of the genres they represent.
+
+196
+
+history and analysis
+
+6.1
+
+disclaimers
+
+There are several ways in which my approach might strike some readers as being
+anachronistic. First, I will generally model chords as unordered collections of pitch
+classes, and counterpoint as voice leadings in pitch-class space. These ideas, though
+originating in the theories of Lippius and Rameau, are more commonly associated with the twentieth century. It is therefore worth repeating that my goal is to
+describe music in a way that is useful to contemporary musicians, rather than to
+explain how earlier composers actually thought. I should also reiterate that the very
+notion of “pitch class” involves a signiﬁcant degree of abstraction: every composer
+in every era thinks carefully about octave, instrument, and register, distinguishing
+perfect fourths from perfect ﬁfths and root position from second-inversion triads.
+Were this a hands-on guide to composition, I would need to spend a great deal of
+time considering the various ways pitch-class voice leadings can be embodied in
+real music. However, my purpose here is to provide more general theoretical tools
+for understanding tonality—and in this context, an abstract approach is perfectly
+appropriate.
+The other major point of anachronism is that I am not going to worry much
+about tuning and intonation. These are, of course, major preoccupations of music
+theory, and tuning systems have coevolved with harmony in fascinating ways:
+just intonation, which permits acoustically pure thirds, burgeoned alongside the
+development of triadic harmony; while more equal temperaments accompanied
+the increasing use of distant modulations.1 That said, standard tuning systems are
+in the grand scheme of things reasonably similar, and can all be represented by
+very similar geometrical structures. To be sure, tuning colors music in important
+ways and can make a real difference to our listening experience. But it does not
+fundamentally affect the very general theoretical relationships that are our main
+subject.
+Finally, since this chapter surveys musical pieces spanning a millennium, it will
+necessarily omit many details. Professional music historians, who devote their lives to
+understanding history in all its marvelous speciﬁcity, will look in vain for the nuanced
+discussions that are their stock-in-trade. They may even feel, at some points, that my
+descriptions are uncomfortably close to the potted histories of introductory music
+appreciation classes. I make no apologies for this. It seems to me that there are some
+fairly systematic connections between Western styles, and that these connections have
+often been ignored. Insofar as conventional scholarship de-emphasizes or disregards
+these general facts—perhaps in something like the way that a ﬁsh ignores the water in
+which it swims—then I think it is worthwhile to try to discuss them, even at the risk
+of seeming somewhat naive.2
+
+1 For nontechnical (and wildly different) introductions to this subject, see Isacoff 2001 and Dufﬁn
+2006.
+2 Here I am inspired by Jared Diamond (1997), who attempts to uncover broad geographical factors
+that constrain and inﬂuence the progress of human history. My geography is abstract and mathematical.
+
+The Extended Common Practice
+
+6.2
+
+two-voice medieval counterpoint
+
+Figure 6.2.1 returns to the Allelujia Justus et Palma, ﬁrst published in the eleventhcentury treatise Ad Organum Faciendum (How to Write Counterpoint), and discussed
+previously in §3.5. Although it stands at the very beginning of the Western polyphonic tradition, the piece clearly exempliﬁes a number of our ﬁve features.
+1.
+
+2.
+
+3.
+
+4.
+
+Conjunct melodic motion. In general the voices move by step, with contrary
+motion preferred to parallel motion. There are no prohibitions against
+parallel ﬁfths or octaves.
+Acoustic consonance. The Montpelier organum treatise, roughly
+contemporaneous with Ad Organum Faciendum, considers steps, sevenths,
+and tritones to be forbidden dissonances. Thirds and sixths are imperfect
+consonances which can be used only in the middle of phrases; unisons,
+fourths, and ﬁfths are perfect consonances which can be used anywhere.
+This accurately describes the musical examples in Ad Organum Faciendum,
+though that text does not discuss imperfect consonances.3
+Harmonic consistency. There is no robust notion of harmonic consistency,
+or “chord” in the modern sense. Instead, intervals are categorized by
+consonance and dissonance.
+Macroharmony. The lines move within an enriched diatonic system
+containing seven and a half notes: C, D, E, F, G, A, and Bf/Bn. The last of
+these is a ﬂexible note that exists in both a “soft” (Bf) and a “hard” (Bn)
+form. These two forms do not intermix; one does not progress directly to
+the other, and care is taken to avoid clashes between different note forms in
+
+Figure 6.2.1 The Allelujia Justus et Palma from Ad Organum Faciendum. Open and closed
+noteheads represent the two different musical voices.
+
+3 See Blum 1959. Note that I mean to be including compound intervals in this list: thus, an octave and
+a third (15 or 16 semitones) is an imperfect consonance, while an octave and a ﬁfth (19 semitones) is a
+perfect consonance.
+
+197
+
+198
+
+history and analysis
+
+5.
+
+different voices. The two ﬂavors of B allow composers to avoid the tritones
+E-Bf and F-B.
+Centricity. Cadences are articulated by contrary motion onto a unison or
+octave, with one voice moving by step and the other moving by step or
+third. By modern standards there is only a weak sense of centricity, and the
+music often seems to ﬂoat freely in diatonic space.
+
+No less than the music of the high Baroque, then, our simple medieval style requires
+the simultaneous satisfaction of harmonic and contrapuntal constraints: the principal
+harmonic constraint is that intervals must be consonant, with perfect consonances
+predominating and imperfect consonances appearing more rarely; contrapuntally, the
+main requirement is that the music should feature a pair of conjunct melodies, often
+moving in contrary motion. Early medieval music-theory treatises attempt to help
+composers satisfy both constraints, typically by listing useful progressions in mindnumbing detail—“when one part ascends a step, the other, beginning at the octave
+above may descend two steps and be at the ﬁfth”; “when one part repeats a note, the
+other, beginning at the fourth above, may ascend by step to the ﬁfth”; and so on.
+Let us see if we can use two-note chord space to describe these principles more
+efﬁciently. Figure 6.2.2 labels the consonances in our simpliﬁed medieval system,
+using dark type for the perfect consonances and lighter type for imperfect consonances. Perfect consonances are linked by line segments when it is possible to connect them by stepwise voice leading, and by dotted line segments when they can
+be connected by “near-stepwise” voice leading—that is, voice leading in which one
+voice moves by step and the other by third. To a good ﬁrst approximation, learning
+to compose in this style involves internalizing the structure of this graph: perfect
+
+Figure 6.2.2 Perfect and imperfect consonances in our simpliﬁed medieval system, displayed
+on the Möbius strip. Solid lines in the interior of the ﬁgure correspond to stepwise voice
+leadings, while dashed lines show nearly stepwise voice leadings.
+
+The Extended Common Practice
+
+consonances account for about 90% of the intervals in the Allelujia, with the two
+voices moving stepwise or near stepwise 70% of the time.4 These numbers suggest
+that our Möbius strip does indeed encapsulate the basic compositional knowledge
+possessed by early medieval composers, acting as a kind of musical “game board” on
+which they plied their trade.
+Figure 6.2.3 traces out the seventh phrase of the Allelujia on the game board. For
+clarity, I have shifted the location of the left and right boundaries, and have omitted
+the imperfect consonances.5 Five of the eight voice leadings use near-stepwise voice
+leading to connect perfect fourths and unisons (or ﬁfths and octaves). This is much
+clearer on the Möbius strip than in the musical notation; we can see at a glance that
+the phrase largely consists of line segments connecting boundary points (octaves or
+unisons) to the nearest perfect fourth/ﬁfth on the inside of the strip. The geometrical
+representation also shows that the latter part of the phrase contains a hidden repetition
+of the opening: the initial dyads (G, G)®(E, A)®(F, F) form a wedge on the lower left
+
+Figure 6.2.3 (a) The seventh
+phrase of the Allelujia Justus
+et Palma, traced out on the
+Möbius strip. (b) The phase
+contains four “nearly stepwise”
+voice leadings connecting a
+perfect ﬁfth to an octave (or
+perfect fourth to a unison).
+
+4 Stepwise motion in both voices counts for about 30% of the progressions, while near-stepwise motion
+adds another 40%; individually, each voice moves stepwise about 50% of the time.
+5 As explained in §3.2 the placement of the left and right boundaries is arbitrary.
+
+199
+
+200
+
+history and analysis
+Figure 6.2.4
+Octatonic organum.
+
+of the Möbius strip, which is echoed by wedge (C, C)®(E, B)® . . . ®(D, D) above it.
+(See also the brackets above the musical notation.) However, the repetition is interrupted by a pair of parallel ﬁfths that bring the music to {D, A} and {F, C}.
+One might think the consonant quality of this music derives primarily from the
+fact that it uses consonant intervals. But as we saw in Chapter 5, its placid sonic character is also a function of its macroharmony. Figure 6.2.4 illustrates this point with a
+piece of “octatonic organum” that parodies the Allelujia’s opening phrase: though the
+parody uses only consonant intervals, it is more suggestive of a black mass or satanic
+ritual than medieval Christian piety. This demonstrates quite clearly that the appeal
+of early music is as much a function of the macroharmony as of the vertical intervals
+themselves—a lesson that suggests contemporary composers need to pay as much
+attention to macroharmony as to harmony proper.
+
+6.3
+
+triads and the renaissance
+
+Figure 6.3.1 presents the opening of “Tu pauperum refugium,” the second part of Josquin’s motet “Magnus es tu, Domine.”6 As in the Allelujia Justus et Palma, the music is
+Figure 6.3.1
+The opening
+of Josquin’s
+“Tu pauperum
+refugium.”
+Beneath the staff,
+I have shown
+how the music
+contains a series
+of efﬁcient
+three-voice voice
+leadings between
+three-note
+chords.
+
+6 This piece was published anonymously in 1504, and has been attributed to both Finck and Josquin
+(see Judd 2006). It has been analyzed by writers such as Salzer and Schachter (1989), Berry (1976), Joseph
+(1978), and Judd (2006).
+
+The Extended Common Practice
+
+largely diatonic, using stepwise melodic motion to articulate consonant harmonies.
+But there are also some fundamental differences between the styles.
+Consonance and counterpoint. Parallel ﬁfths and octaves are no longer
+used. Fourths over the bass typically resolve to thirds, as if they had been
+reclassiﬁed as dissonances (Figure 6.3.2). However, fourths are tolerated
+between upper voices, giving them an ambiguous status between consonance
+and dissonance.7 Diminished triads sometimes appear in ﬁrst inversion,
+even though they contain a dissonant tritone. As a result, Josquin’s music is
+signiﬁcantly less austere than the earlier medieval style.
+Harmonic consistency. The music creates a much stronger effect of harmonic
+consistency, with fully 85% of the four-voice sonorities being triadic. The
+occasional use of diminished chords reinforces the sense that triads are syntactical
+objects: it is as if the diminished chord’s triadic status (i.e. its transpositional
+relatedness to major and minor triads in diatonic space) trumps the fact that it
+contains a dissonance. Although it might be anachronistic to treat every sonority
+in the piece as representing an underlying triad, there seems to have been a move
+toward this way of thinking. Certainly, one gets the impression that the transition
+toward conceiving of triads as harmonic things-in-themselves is well underway.
+Macroharmony and centricity. The music makes use of a wider range of accidentals,
+occasionally producing mild macroharmonic change. Cadences are often
+articulated by speciﬁc melodic and harmonic formulas, some of which anticipate
+the V–I progressions of later music (Figure 6.3.2). To a modern ear, there is more
+sense of a “tonal center” than in the medieval style. However, the music continues
+to have a somewhat “ﬂoating” quality, and many passages are only weakly centered.
+Figure 6.3.2 In Josquin’s music, fourths typically resolve to thirds (a), diminished triads
+sometimes appear in ﬁrst inversion (b), and cadences sometimes anticipate the functional
+harmony of later centuries (c).
+
+7 The ambiguous status of the fourth is addressed by early ﬁfteenth-century theorists such as
+Prosdocimus de Beldemandis (see Kaye 1989 and Gut 1976).
+
+201
+
+202
+
+history and analysis
+
+In the rest of this section I want to look more carefully at these differences, with the
+goal of understanding how they might relate to the music-theoretical constraints discussed earlier.
+
+6.3.1 Harmonic Consistency and the Rise
+of Triads
+The triadic quality of Josquin’s music can be traced, in part, to simple combinatorial facts about the diatonic scale. To see this, notice that it is almost impossible to
+write three-voice counterpoint using only perfect consonances. This is illustrated in
+Figure 6.3.3, which locates the perfect consonances in three-note chord space; chords
+here are quite far apart, and only a few are connected by lines representing stepwise
+voice leading. (In fact, there are only three ways to connect three-note perfect consonances by stepwise voice leading, and two of these produce parallel octaves.8) Readers
+who try to compose under these conditions will quickly develop a renewed appreciation for imperfect consonances, which are virtually necessary for creating elegant
+three-voice counterpoint.9
+Now suppose that you would like to use three-note chords containing only perfect and imperfect consonances—that is, thirds, fourths, ﬁfths, sixths, and their
+
+Figure 6.3.3 There are only a few three-note chords containing only perfect consonances,
+and they are spread throughout three-note chord space (a). (Note that we are viewing chord
+space from above, looking down through the triangular faces; compare the side view in
+Figure 3.8.2, where the triangular faces are on the top and bottom.) As a result, there are only
+a few ways to connect them with stepwise voice leadings (b), particularly if one wants to avoid
+parallel octaves.
+
+8 If we relax the requirement of stepwise motion, we obtain a few more options, but not enough for
+compositional comfort.
+9 There is some medieval music in which only the perfect consonances are stable. However, this music
+typically utilizes a large number of unstable sonorities in metrically weak positions.
+
+The Extended Common Practice
+
+compounds. It turns out there are only two
+possibilities: doubled consonances, containing multiple copies of some note, and triads, containing no doublings at all (Figure
+6.3.4). The chords in the second category
+are sonically richer than those in the ﬁrst,
+simply by virtue of containing three distinct
+pitch classes. But they are also related in
+another way as well: considered as unordered sets of pitch classes, they are all related
+by diatonic transposition. It follows that a relatively weak notion of harmonic consistency—the mere preference for triads over doubled consonances—automatically
+generates a much stronger kind of consistency. To my mind this is a profound fact,
+suggesting that harmonic consistency might arise as the unbidden byproduct of more
+basic musical preferences: composers who favor three-pitch-class consonances,
+purely on the basis of their richer note content, will inevitably use chords related by
+scalar transposition.
+In fact, a fondness for triadic harmonies is already evident in the three-voice compositions of the late fourteenth century.10 Figure 6.3.5 traces the development of this
+norm throughout the following decades.11 In Dufay’s music, complete triads account
+for about 46% of the three-voice chords and 78% of the four-voice chords—numbers
+Figure 6.3.4 Doubled consonances (a)
+and triads (b).
+
+Figure 6.3.5 The percentage of consonant sonorities that are complete triads rather than
+“doubled” intervals, by composer date of birth. The percentage is reasonably high throughout
+the Renaissance, and increases over time.
+four-voice chords
+
+three-voice chords
+
+100
+
+Percent of total
+
+80
+
+60
+
+40
+20
+
+0
+
+1400
+
+1420
+
+Dufay
+Ockeghem
+
+1440
+
+1460
+
+Josquin
+
+1480
+
+1500
+
+1520
+
+Tallis
+
+Lassus
+
+Palestrina
+
+10 See Crocker 1962, Rivera 1979, Kaye 1989.
+11 The data in this section come from more than 150 MIDI ﬁles of four-voice Renaissance vocal music.
+
+203
+
+history and analysis
+
+that increase to 72% and 97% in the music of Lassus.12 The ratio of four-voice to
+three-voice chords increases as well, with three-voice sonorities being more prevalent
+in Dufay and Ockeghem, and four-voice sonorities predominating later. Indeed, it
+is likely that the desire for triadic harmonies explains this gradual standardization
+of four-voice textures, since it is very difﬁcult to write three-voice music that consistently articulates complete triads, particularly if one wants to avoid second-inversion chords. A fourth voice allows for signiﬁcantly greater compositional freedom,
+permitting composers to use complete triads while still leaving enough ﬂexibility to
+write interesting melodic lines.
+
+6.3.2 “3 + 1” Voice Leading
+Four-voice textures would seem to pose a challenge for our geometrical approach,
+since they require a four-dimensional space in which doublings are not perspicuously represented.13 Happily, a sizable proportion of Josquin’s voice leadings involve
+what I call the 3 + 1 schema: here, three voices articulate a strongly crossing-free
+voice leading between complete triads (§4.9), while a fourth voice adds doublings.
+This fourth voice is typically the bass, which often leaps from root to root; the other
+three voices are typically in close position and often move as efﬁciently as possible.
+(See Figure 6.3.1, bottom staff.) Figure 6.3.6 shows that these “3 + 1” voice leadings
+account for a signiﬁcant portion of the four-voice triadic voice leadings in a broad
+sample of Renaissance music. These ﬁgures suggest that the eighteenth-century ten-
+
+Figure 6.3.6 The percentage of four-voice triadic voice leadings that are factorizable in a
+“3 + 1” manner, with three voices articulating strongly crossing-free voice leadings between
+complete triads, arranged by composer birth year.
+100
+
+80
+
+Percent of total
+
+204
+
+60
+
+40
+20
+
+0
+
+1400
+
+1420
+
+Dufay
+Ockeghem
+
+1440
+
+1460
+
+Josquin
+
+1480
+
+1500
+
+1520
+
+Tallis
+
+Lassus
+
+Palestrina
+
+12 Because there are many more doubled consonances than complete triads, even the 50:50 ratio for
+three-note chords suggests a preference for complete sonorities.
+13 For example, in four-note space the chord {C, C, E, G} is somewhat distant from {C, E, G, G} (§3.12).
+
+The Extended Common Practice
+
+dency to conceive of harmony as “a bass line plus some relatively homogenous upper
+voices”—exempliﬁed most clearly by ﬁgured-bass notation—might actually originate in the Renaissance.
+It follows that we can often use three-note chord space to analyze four-part
+Renaissance music: we simply focus on three of the voices, treating the fourth as
+an “odd man out” subject to its own rules. Figure 6.3.7 locates the diatonic triads
+in three-note chord space, with the lines indicating single-step voice leading. The
+seven diatonic triads form a crooked chain running through the center of the space,
+with the top chord connected to the bottom as explained in Chapter 3. In §3.11,
+we described this circle of triads as being analogous to the diatonic circle of ﬁfths,
+since it links a series of structurally similar chords by single-step voice leadings.
+We now see that we can use it to model many of the voice leadings in Renaissance
+counterpoint.
+Suppose, for example, you would like to move three voices from C major to F
+major. The most efﬁcient way to do this is to take two clockwise steps along the circle,
+producing the voice leading (C, E, G)®(C, E, A)®(C, F, A) or (C, E, G)®(C, F, A).
+Each clockwise move raises a single voice by step: the ﬁrst moves G to A, while the
+second moves E to F (Figure 6.3.8). Alternatively, however, we can move from C to F
+by taking ﬁve counterclockwise steps, producing (C, E, G)®(B, E, G)®(B, D, G)®(B,
+D, F)®(A, D, F)®(A, C, F), or (C, E, G)®(A, C, F). Each counterclockwise move lowers one voice by step, yielding a voice leading whose voices descend by a total of ﬁve
+steps. By taking one or more complete turns around the circle, we can generate other
+voice leadings between C major and F major, all of which are strongly crossing free. In
+
+Figure 6.3.7 The diatonic triads form a chain that runs through the center of three-note
+chord space, with adjacent triads linked by single-step voice leading. (b) This “circle of thirds”
+is analogous to the familiar circle of ﬁfth-related diatonic scales, and can be used to represent
+any three-voice, strongly crossing-free voice leading between triads.
+
+205
+
+206
+Figure 6.3.8
+Two strongly
+crossing-free
+voice leadings
+between C and F,
+represented on
+the circle.
+
+history and analysis
+
+fact, the circle models all possible
+strongly crossing-free voice leadings between any two triads in the
+C diatonic scale.
+Figure 6.3.9a plots the opening
+phrase of “Tu pauperum refugium”
+as a series of paths in three-note
+chord space. Figure 6.3.9b shows
+how these voice leadings would
+be represented on the circle; in
+both views, the music takes the
+most direct path between successive triads. This is characteristic of
+the excerpt: indeed, of the twelve
+numbered voice leadings on Figure
+6.3.1, all but one takes the shortest path along the triadic circle.14
+To give a sense of the utility of the
+circle—and of the ubiquity of the voice leadings it represents—Figure 6.3.10 turns
+to a style worlds apart from Josquin. Here we see that many common guitar ﬁngerings also articulate strongly crossing-free voice leadings in their upper voices. (Of
+course, in pop music, efﬁcient voice leading results more from guitarists’ attempts to
+
+Figure 6.3.9
+Four voice
+leadings from
+the opening
+of Josquin’s
+“Tu pauperum
+refugium”
+plotted in threenote chord space
+(a) and on the
+diatonic circle of
+thirds (b).
+
+14 The exception is (D, F, A)®(B, E, Gs), which is less efﬁcient than (D, F, A)®(E, Gs, B). However,
+the latter voice leading is unusable because it creates both parallel ﬁfths and a melodic augmented second.
+Furthermore, it is actually less efﬁcient when considered as a voice leading in chromatic space—involving
+seven semitones of motion as opposed to ﬁve.
+
+The Extended Common Practice
+Figure 6.3.10 (a−b)
+Two common chord
+progressions, as they
+are often played on a
+guitar. (c−d) The notes
+produced by these
+ﬁngering patterns. The
+top three voices articulate
+strongly crossing-free
+voice leadings that can
+be represented on the
+triadic circle.
+
+minimize their physical motions than from an explicit concern for polyphony.) The
+distance between these two examples—one representing the high art of the Renaissance, the other representing the vernacular of our own time—suggests that our
+triadic voice leadings feature in a very broad range of music.
+
+6.3.3 Fourth Progressions and Cadences
+We now turn to a feature of Renaissance practice that is not altogether obvious in the
+brief Josquin excerpt. Figure 6.3.11 shows that root progressions by perfect fourth
+and ﬁfth become increasingly prevalent from Josquin on: where the root progressions in Dufay and Ockeghem are about evenly divided between steps, thirds, and
+fourths, fourths account for more than 50% of the progressions in Josquin and
+almost 60% in Palestrina.15 This trend continues into the eighteenth century, reaching more than 70% in the Bach chorales. One possible explanation lies in the fact
+
+15 Note that I am using use “fourth” to mean “fourth or ﬁfth or any of their compounds.” In constructing the graph I also eliminated progressions such as (C4, C4, E4, G4)®(C4, C4, E4, A4), which could be
+interpreted as resulting from linear motion in the top voice; third progressions were counted only when
+at least two voices change.
+
+207
+
+history and analysis
+
+that these progressions make it particularly easy to harmonize stepwise melodies.
+Figure 6.3.12 shows that if we start with a C major chord, with any of its notes in the
+soprano, we can harmonize any melodic step with either the progression C major®F
+major or C major®G major. By contrast, steps and thirds are not nearly so useful:
+third progressions from a ﬁxed triad can harmonize only two stepwise motions; while
+step progressions can easily lead to parallel ﬁfths and octaves.16 (To avoid these parallels, composers typically use chord inversions, or move the upper voices inefﬁciently.)
+Figure 6.3.11 Root progressions by composer, with S = second, T = third, and F = fourth.
+Over the course of the Renaissance, there is an increasing preference for fourth progressions,
+a trend that continues into the classical tradition.
+descending
+
+ascending
+
+70
+60
+Percent of total
+
+208
+
+50
+40
+30
+20
+10
+0
+
+STF
+Dufay
+
+STF
+
+STF
+
+Ockeghem Josquin
+
+STF
+
+Tallis
+
+STF
+
+STF
+
+Palestrina Lassus
+
+STF
+
+Bach
+
+Figure 6.3.12 Fourth progressions allow a composer to harmonize a wide range of stepwise
+melodies in a “3 + 1” fashion, with the upper voices moving by strongly crossing-free voice
+leadings and the bass moving from root to root. Root motions by second and third are
+comparatively less ﬂexible, either because they do not harmonize many stepwise melodies or
+because they can create forbidden parallels.
+
+16 Common tones may also be a factor: step-related triads have no common tones, fourth-related triads
+have one, and third-related triads have two. The Goldilocks Principle perhaps favors the middle option.
+
+The Extended Common Practice
+
+From this point of view, fourth progressions are particularly handy tools, being easy
+to use while also providing a wealth of melodic options.
+Of course, fourth progressions play a critical role at cadences, too. Recall from
+§6.2 that medieval cadences often feature two voices converging by stepwise contrary
+motion onto a unison or octave (Figure 6.3.13). Suppose we want to add a third
+voice to this cadence, ending on either a triple unison C, or the open ﬁfth C-G-C.
+(In particular, suppose we want the bass to sound the pitch class on which the voices
+converge, so that the acoustic root of the chord reinforces the converging melodies.17)
+One possible harmonization is shown in Figure 6.3.13b: with the Fs, this is a standard
+medieval double leading-tone cadence; with the Fn, it suggests a tonal vii°6–I progression. (Another variant, with Bf and Df, produces a “phrygian cadence,” common in
+both Renaissance and classical music.) A second option, shown in Figure 6.3.13d,
+very closely resembles the V–I progression. When we examine four-voice harmonizations, the situation is even more dramatic, as virtually all the available options evoke
+familiar cadences.18 Rather than being arbitrary conventions, then, these cadential
+formulas may arise as relatively obvious solutions to the basic problem of harmonizing two converging stepwise voices.
+We see, then, that Renaissance music involves two different kinds of fourth progressions. Within-phrase progressions have little or no cadential function and do
+not necessarily create the sense of tension and release. In particular, these progressions typically feature 3 + 1 voice leading rather than the converging stepwise voices
+of the cadential formulas (cf. the ﬁrst voice leading in Figure 6.3.1). By contrast,
+Figure 6.3.13 (a) A basic medieval two-voice cadential pattern, in which two voices converge
+onto an octave by stepwise motion. (b−c) Three-voice harmonizations producing a common
+medieval cadence (with the Fs), a vii°6–I cadence (with the Fn), or a phrygian cadence
+(with Fn and Df). (d) A three-voice harmonization resembling a V–I cadence. (e) A failed
+harmonization producing parallel ﬁfths. (f−h) Four-voice extensions of the preceding schemas.
+The V–I form (g) cadences on a sonority containing only perfect consonances.
+
+17 Not all medieval cadences are like this, of course: one sometimes ﬁnds progressions such as (G3, B3,
+D4)®(F3, C4, C4), but it is reasonable to suppose that musicians would incline toward cadences in which
+the pitch class in the bass is also the object of melodic convergence, as these would presumably create a
+stronger sense of emphasis on a single pitch class.
+18 These ideas derive from Randel (1971), who suggests that the increasing popularity of the V–I cadential
+form is the result of two factors: ﬁrst, a preference for concluding on open ﬁfths rather than complete
+triads, and second, an increasing preference for four-voice textures. See also Lowinsky 1961.
+
+209
+
+210
+
+history and analysis
+
+cadential fourth progressions do exhibit a clear pattern of tension and release, and
+almost always employ converging melodic voices. One interesting possibility is that
+functional tonality arose out of the gradual fusion between these two types of progression—in other words, the within-phrase fourth progressions gradually acquired
+the tension-release quality of the cadential formulas, articulating the music into a
+sequence of short “harmonic cycles,” each concluding with its own tension-resolving
+V–I progression. We will return to this idea in the next chapter.
+
+6.3.4 Parallel Perfect Intervals
+Finally, a word about the prohibition on parallel perfect ﬁfths and octaves. Many
+theorists have proposed that the prohibition is connected to the phenomenon of
+auditory streaming: on this account, parallel motion by perfect ﬁfth or octave tends
+to destroy the sense that the music is composed of independent musical voices,
+since it leads us to “fuse” the voices into a single melody.19 While I am sympathetic
+to this explanation, it seems to me that the prohibition might also reﬂect structural features of diatonic scale itself. Figure 6.3.14 shows that parallel diatonic ﬁfths
+almost always produce parallel chromatic ﬁfths; by contrast, parallel diatonic thirds
+do not produce the same degree of chromatic parallelism, since the diatonic scale
+contains a more even distribution of major and minor thirds. To me, this difference
+is at least as striking as the difference in the acoustic quality of the intervals. Figure
+6.3.14 illustrates this point by comparing two sorts of parallel motion in Messiaen’s nine-note “mode 3.” Here three-step scalar intervals are always four semitones
+large, while four-step scalar intervals alternate between six and seven semitones.
+I ﬁnd that the passages exhibit a roughly similar degree of “voice independence,”
+
+Figure 6.3.14 Parallel motion within the diatonic scale (a−c) and in Messiaen’s “Mode 3”
+(d−e). Underneath each interval I have written its chromatic size in semitones. The brackets
+identify chromatic motion that is not parallel.
+
+(d)
+
+19 See Huron 2001 and the references therein.
+
+The Extended Common Practice
+
+even though one of them contains parallel perfect ﬁfths and the other doesn’t. This
+suggests scale structure plays at least some role in explaining the prohibition on
+forbidden parallels.20
+
+***
+Let me conclude this discussion by reinforcing two general points. First, there are a
+number of features of Renaissance practice that preﬁgure later styles, including triadic harmonies, the 3 + 1 arrangement of the voices, the avoidance of parallel perfect intervals, and the increasing use of root progressions by perfect ﬁfth. These facts
+should perhaps make us hesitate before drawing too sharp a distinction between the
+musical languages of Palestrina and Bach.21 Second, and perhaps more important,
+several features of Renaissance syntax can be seen as relatively obvious solutions to
+very basic compositional goals—ensuring voice independence, writing consonant
+music using three-note sonorities, and harmonizing stepwise convergence onto a
+unison. In hindsight, we can see these developments as exploiting relatively obvious
+possibilities lying dormant in the diatonic system.
+In saying this, I do not mean to propose a deterministic or Hegelian view of music
+history according to which music was fated to develop as it actually did: one can certainly imagine alternate histories in which, say, Western composers never developed
+an aversion to parallel perfect ﬁfths. But I do think that composers, like all artists,
+are opportunists, quick to take advantage of whatever possibilities present themselves.
+And the fundamental moral of Part I is that the ﬁve components of tonality impose
+nontrivial constraints on composers’ choices, boxing them in on some sides while
+allowing them to move freely in other directions. One might make an analogy here to
+a mountaineer ascending a cliff: though the climber is in principle free to move in any
+direction, the structure of the rock will naturally suggest certain routes, offering handholds and footholds that will guide any sensible person’s decisions. In much the same
+way, we can sometimes tell reasonably compelling stories about why music might have
+developed as it did. The trick for the historian is to make room for contingency while
+also capturing the way in which music history sometimes follows the path of least
+resistance, like a climber ascending a cliff by way of a particularly inviting chute.
+
+20 One point in favor of the acoustic explanation is that parallel perfect fourths are permitted in classical three-voice counterpoint, whereas parallel perfect ﬁfths are not. (This marks an interesting difference
+between ﬁfths and octaves: parallel octaves remain objectionable no matter how the octaves are arranged
+in register, whereas ﬁfths can always be converted to unobjectionable fourths by a suitable transposition
+of voices.) However, it is not clear whether we should try to ﬁnd principled explanations for every feature
+of traditional practice. In fact, very occasional parallel perfect ﬁfths, embedded in complex contrapuntal
+textures, may not signiﬁcantly weaken voice independence.
+21 Well-meaning scholars have sometimes been overzealous in their attempts to complicate this picture. For example, Harold Powers (1992, pp. 11–12) denies each of the following claims: “the modal system
+was displaced by the tonal system,” “modality evolved into tonality,” and “the ancestors of our major and
+minor scales were the Ionian and Aeolian modes.” It seems to me that these three truisms are unobjectionable when properly understood; by rejecting them completely, Powers commits an error as egregious as the
+oversimpliﬁcations he warns against.
+
+211
+
+212
+
+history and analysis
+
+6.4
+
+functional harmony
+
+Where our early medieval excerpt exhibited the basic two-dimensional coherence
+of Western music, combining recognizable melodies with consonant harmonies, the
+Renaissance passage added a much more robust notion of harmonic consistency. Our
+next example features two further innovations. First, chords are now constrained to
+move according to a small number of (“functional”) harmonic conventions. These
+conventions go hand-in-hand with a much stronger emphasis on the tonic, so that
+centricity is often signiﬁcantly clearer than in earlier music. Second, keys now participate in their own meaningful progressions, as modulation becomes more systematic
+and encompasses a wider range of macroharmonic states. The result, as I have said,
+is a musical style that is hierarchically self-similar, with the same fundamental procedures appearing on both the level of the scale and that of the chord.
+Figure 6.4.1a presents the opening of one of J. S. Bach’s harmonizations of the
+chorale melody “Herr Christ, der ein’ge Gott’s sohn.” Where the progressions in Josquin’s “Tu pauperum refugium” are extremely free, those in Bach’s chorale can be
+summarized by the simple map in Figure 6.4.1b. Such maps embody the new conventions central to eighteenth-century harmony—for instance, that ii chords often move
+to V chords, but not vice versa. The bottom staff of the ﬁgure shows that the music
+again uses the 3 + 1 schema, with the upper three voices in close position and moving
+in a strongly crossing-free manner, and with the bass obeying its own principles. The
+Figure 6.4.1 (a) The ﬁrst phrase of Bach’s chorale “Herr Christ, der ein’ge Gott’ssohn”
+(No. 303 in the Riemenschneider edition) and a reduction of the upper voice counterpoint.
+(b) A simple model of the chord progressions it contains. Chords can move freely rightward,
+but can move leftward only by following the arrows.
+
+or: IV vii°@
+
+&b c œ
+œ
+
+œ
+œœ œœ œ œœ
+
+? b c œœ
+
+œ
+œ
+
+F: I
+
+&b c œ
+œœ
+
+œœ
+
+œœ œ œ œ
+œ œ
+
+U
+
+˙œ # œ œ # œœ
+œ
+œ œœ œ œ
+œ œ œ œ
+
+IV I V 7 vi
+d: i
+
+ii# V 7 i
+
+œœ œœ
+œ œ
+
+# œœœ
+
+œœ
+œ
+
+œœ
+œ
+
+œœ n œ œœ œœ
+
+œœ
+
+U
+
+˙˙ .
+.
+
+œ œ œœ œœ œ œ ˙ .
+œ
+œœ
+˙.
+
+g: V
+i
+F: ii
+
+V2 I6
+
+V 7
+
+I
+
+œœ
+œ
+
+œœœ œœœ
+
+œœœ
+
+˙˙ ..
+˙.
+
+œ
+œœ # œœ
+œ
+
+..
+..
+..
+
+The Extended Common Practice
+
+213
+
+similarity to Figure 6.3.1 suggests that functionally tonal music augments Renaissance
+voice-leading practices with new and distinctive harmonic rules.22
+This last observation is surprisingly controversial. A number of theorists, inﬂuenced
+by Heinrich Schenker, seem to deny that functional tonality involves purely harmonic
+conventions.23 Instead, they claim that what appear to be independent harmonic laws
+can actually be derived from new voice-leading principles indigenous to the classical
+era. We will consider this view more carefully in the next chapter. For now, though, let
+us note that we have good historical reasons for claiming that functionally tonal music
+obeys purely harmonic laws. To put it crudely: Renaissance music uses efﬁcient voice
+leading, avoids parallel ﬁfths and octaves, and allows triads to progress in a very free
+fashion; classical music observes many of the same voice-leading conventions, but also
+requires chords to move in particular ways. Moreover, twentieth-century tonal music
+often permits parallel ﬁfths and octaves while still conforming to the harmonic schemas
+of the classical era. It seems exceedingly natural to represent this situation as shown in
+Figure 6.4.2. Here, the so-called “common practice period” is depicted as lying at the
+intersection of two separate common practices: a contrapuntal common practice that
+includes the music of the Renaissance, and a harmonic common practice that includes
+a good deal of twentieth-century music. Theorists who renounce harmonic laws risk
+effacing these two common practices, and hence obscuring the connections between
+Renaissance music, classical tonality, and more recent rock and jazz.
+Functional harmony is also notable insofar as it charts coherent paths through
+the space of possible keys. This can be seen in the opening phrases of one of Bach’s
+settings of the hymn “Ein’ feste Burg,” shown in Figure 6.4.3. The music begins in
+D major but modulates to A major at the end of the ﬁrst phrase; it then turns to B
+minor to start the second phrase, returning to the tonic D major at the end. As discussed earlier, these modulations involve particular voice leadings between scales: the
+ﬁrst raises G to Gs, the second raises A to As, and the last cancels these two changes
+by returning to the opening collection. Figure 6.4.4 shows how these modulations
+appear on the scale lattice of §4.6: the music begins by taking minimal steps between
+adjacent collections, and ends by moving diagonally back to its starting point. Such
+voice leadings represent a higher dimensional analogue to the contrapuntal processes
+linking individual chords.
+harmonic conventions
+voice-leading conventions
+1500
+
+1600
+
+1700
+
+1800
+
+1900
+
+2000
+
+the “common practice” period
+
+22 To be fair, functionally tonal music may involve a few new rules, such as the requirement that the
+leading tone resolve upward. Nevertheless, the vast majority of its contrapuntal rules are inherited from
+earlier styles.
+23 See, for example, Salzer 1982, Schenker 2001, and Beach 1974.
+
+Figure 6.4.2
+The “common
+practice
+period” as the
+intersection of
+two common
+practices.
+
+214
+
+history and analysis
+Figure 6.4.3 The ﬁrst two phrases of one of Bach’s harmonizations of “A Mighty Fortress is
+Our God” (Riemenschneider No. 20).
+
+Figure 6.4.4
+The modulations
+in Figure 6.4.3,
+graphed on a
+portion of the
+scale lattice.
+
+When I ﬁrst began to study
+tonal harmony, the chord-by-chord
+constraints seemed to be the most
+important and distinctive feature
+of the style. I thought the regular
+ﬂow from tonic to subdominant to
+dominant provided music with a
+powerful and historically unprecedented level of structure—one that
+differentiated it from the less principled harmonic languages of other
+eras. Twenty-ﬁve years later, it now
+seems to me that systematic modulation is at least as important, providing a powerful tool for producing large-scale
+harmonic change while also creating a remarkable sort of self-similar musical texture. It is interesting, therefore, that modulation continues to feature prominently
+in twentieth-century music, even in styles that have abandoned the chord-to-chord
+constraints of the classical era. Indeed, one could even argue that systematic relations among macroharmonies are the most signiﬁcant and enduring legacy of the
+functional tradition.
+
+6.5
+
+schumann’s chopin
+
+We’ll approach our next style with a bit of musical analysis. Figure 6.5.1 summarizes the chords used in Schumann’s “Chopin,” a wonderful little piece of musical
+portraiture. The harmony here is not radical: it opens in Af major, turns brieﬂy to
+Bf minor, and immediately returns to Af major at the start of the example’s third
+bar. Bar four moves to F minor, featuring a chromatic passage in which the tenor
+and bass exchange the notes En and G. The major point of interest lies in the last
+bar: beginning at F minor we move to a shocking A7 chord which then progresses
+to Ef7, the dominant of Af. It is precisely the sort of daring harmonic gesture that
+
+The Extended Common Practice
+
+215
+Figure 6.5.1
+A harmonic
+summary of
+Schumann’s
+“Chopin.” Each
+whole note in
+the summary
+corresponds to
+a measure in the
+actual work.
+
+characterizes Chopin’s music—at once willful and completely convincing to the ear.
+One can well imagine the young Schumann playing the passage with a wink.
+Now, what can we say about this A7 chord? Where does it come from and what
+does it mean? It is, to begin with, a chord without a name. Without the Gn, one
+might call it a “Neapolitan,” but according to harmony textbooks such chords typically behave rather differently. Were this a piece of contemporary jazz, we might call
+the A7 a “tritone substitution” for the dominant Ef7, though the name seems more
+than a little anachronistic here. We could perhaps invent a new term for the chord,
+calling it a “Schumann seventh” or some such. Or we could name it with reference to
+other keys, asserting that it has been “borrowed” from either D major or D minor. But
+these descriptions merely serve as labels for our puzzle,
+rather than solutions. What we want to know is why Figure 6.5.2 The last
+Schumann might have written such a chord, and why measure of “Chopin” can be
+interpreted as a four-voice
+it sounds so shocking and so beautiful at one and the
+passage in which each voice
+same time.
+moves by semitone.
+The obvious answer is that the chord is connected by
+efﬁcient chromatic voice leading to both the preceding
+F minor and the following Ef7. Figure 6.5.2 shows that
+we can model the music as having four distinct musical
+voices, each moving by semitone. Our exotic A7 chord
+is a chromatic passing chord—a moment of musical
+liquidity that “ﬁlls the gaps” between the perfectly respectable diatonic sonorities surrounding it. But it would be wrong to dismiss it as a mere agglomeration of linear
+passing tones with no vertical signiﬁcance, since the purported passing tones form a
+familiar dominant seventh chord that has already occurred in the piece. (In m. 3 of the
+ﬁgure, neighboring motion brieﬂy converts an E diminished seventh into an A dominant seventh.) To downplay the vertical signiﬁcance of the A7 chord is to miss the fact
+that Schumann could have chosen any number of different passing or neighboring
+chords, and that this particular sonority appears twice in a very short span of time.
+
+216
+
+history and analysis
+
+What makes the chord interesting, therefore, is its twofold status. Contrapuntally,
+we can think of it as a mere collection of passing tones. Harmonically, however, it has
+its own individuality and signiﬁcance. Furthermore, the A7 chord suggests keys—D
+major and D minor—that are intuitively quite “distant” from the tonic Af. Thus the
+A7 is simultaneously close and not close to the chords surrounding it: it is melodically
+close, since A7 can be connected by efﬁcient voice leading to both F minor and Ef7;
+but it is tonally distant, since the keys of D major and D minor are in some sense “far”
+from the tonic Af major. It is precisely this conﬂict that produces the feeling that the
+A7 chord is both out of place and yet profoundly right.
+Geometrically, both of these distances can be modeled with the voice-leading
+spaces of Chapter 3. Key distances can be represented using the seven-dimensional
+space depicting voice-leading relationships among familiar scales, as we will see
+in the next chapter. Chord distances can be represented using the lower dimensional spaces containing triads and seventh chords. In four-note chromatic space,
+for example, A7 is quite close both to Ef7 and the doubled triad F-Af-Af-C. In
+more traditional tonal contexts, the proximity of A7 and Ef7 is not apparent, since
+chords are restricted to a particular major or minor scale; thus, to move from A7 to
+Ef7 one must not only change chords, but also change scales via modulation. The
+essence of nineteenth-century harmony lies in the elimination of this modulatory
+step: in “Chopin,” Schumann temporarily abandons the diatonic world in favor of a
+direct manipulation of chromatic relationships. This involves replacing a relatively
+simple diatonic geometry with the much more complex geometry of chromatic
+possibilities—a shift that is illustrated, in the three-note case, by Figure 6.5.3. The
+contrast between these ﬁgures shows at a glance why chromatic music can be so
+hard to understand.
+
+Figure 6.5.3 Voice leading relations among diatonic triads (a) are much less complex than
+those among chromatic triads (b).
+
+The Extended Common Practice
+
+6.6
+
+chromaticism
+
+Schumann’s musical portrait could serve as the frontispiece to the entire tradition of nineteenth-century chromaticism, a genre that is characterized by the
+increasing tendency to conceive of chords as objects in chromatic space. This
+tendency manifests itself in two musical techniques, one pedestrian and the other
+more radical. The pedestrian technique uses chromatic chords to embellish or decorate familiar tonal progressions without fundamentally unseating the conventions
+of functional harmony. The more radical technique abandons functional norms in
+favor of direct chromatic voice leading between triads and seventh chords. These
+direct chromatic moves serve a variety of musical functions, acting as neighboring
+chords, passing chords, bridges to distantly related keys, and motivic progressions
+in their own right. It is this second technique that has led theorists to propose that
+nineteenth-century musical syntax is fundamentally dual, combining a diatonic
+“ﬁrst practice” inherited from the classical era, with a newer “second practice”
+based on chromatic relationships.24
+Figure 6.6.1 illustrates this fundamental change from diatonic to chromatic
+frames of reference. Relative to the diatonic scale, each voice in Figure 6.6.1a moves
+by a single step, so that there is no gap between successive notes. Relative to the chromatic scale, however, G moves to A by two chromatic steps. As nineteenth-century
+composers began to think more chromatically, it became increasingly tempting to
+try to ﬁll this gap. In Figure 6.6.1b, for example, the added note between G and A
+produces two different sonorities, a C augmented triad on the way up and an F minor
+triad on the way down.25 From this perspective, the two chords result from the Figure 6.6.1 (a) Relative to the diatonic scale
+same fundamental musical process of each voice moves by the smallest possible
+distance. (b) Relative to the chromatic
+ﬁlling in gaps.
+scale, there are gaps that can be ﬁlled in.
+Contemporary terminology some- The resulting progression appears in the
+times seems designed to obscure this fact, nineteenth-century song “You tell me your
+describing the F minor chord as being dream, I’ll tell you mine.”
+borrowed from the key of C minor. I am
+somewhat suspicious of this metaphor of
+“borrowing.” Musical keys are not lending libraries, and there are no borrower’s
+cards that can be used to verify whether
+the F minor chord is indeed on loan
+
+24 This view has been defended by Mitchell (1962), Proctor (1978), and Cohn (1996, 1997, 1998a). See
+also the essays in Kinderman and Krebs 1996. Antecedents can be found in Kurth 1920 and Weitzmann
+1860.
+25 In principle, of course, one could use the F minor chord on the way up, and the C augmented on the
+way down, but this would be less effective. In C–f–F, the single-semitone shift Af®A occurs after the root
+motion has already happened, and sounds like a “correction” of the ﬁnal chord. In C–C+ −F, the chromatic
+alteration intensiﬁes the C chord, and makes the root change more dramatic when it happens.
+
+217
+
+218
+
+history and analysis
+
+from C minor. Moreover, the idea of “borrowing” potentially reinforces a compartmentalized approach to chromatic harmony, one that presents the style as a series of
+disconnected idioms with no common structure. (For example, in one popular textbook “borrowed” chords appear eight chapters before augmented triads, thus making
+it seem as if the chords in Figure 6.6.1 have no relationship.26) Rather than focusing on
+assigning labels to chords (such as “borrowed chord” or “augmented sixth”), I would
+prefer to focus on the underlying musical procedures relating them, which in many
+cases is chromatic voice leading. Otherwise, it can be very difﬁcult to understand the
+fundamental logic animating chromatic music.27
+In the previous example, chromaticism decorates a familiar progression. Figure
+6.6.2 exhibits the more radical kind of chromaticism as it operates in the middle
+phrase of Chopin’s E major prelude. Almost all the unusual moves in this passage can
+be interpreted in light of two different voice-leading “systems”: one connecting triads
+whose roots relate by major third, and the other connecting seventh chords whose
+roots relate by minor third or tritone. We begin with the major-third system, moving
+from E major to C major by way of the voice leading (B, Ds, Fs)®(B, D, G); this connects V in E to V in C. The music then hints at dominants of F major, D minor, and
+Af major, each expressed in a slightly different way: the dominant of F is a dominant
+seventh chord, the dominant of D is both a triad and a diminished seventh, and the
+dominant of Af is both a diminished and dominant seventh. Finally, we return to E
+Figure 6.6.2 The second phrase of Chopin’s E major prelude. Beneath the excerpt I provide
+simpliﬁed voice leadings that illustrate the major- and minor-third systems.
+
+26 Aldwell and Schachter 2002. “Mode mixture” is not even included in the section on chromaticism,
+but is considered a completely different procedure. Kostka and Payne (2003) treat modal mixture and
+augmented triads in Chapters 21 and 26, respectively, but give little sense of the relation between them.
+Perhaps the best pedagogical treatment is in Gauldin (1997), who treats mode mixture and augmented triads in different chapters, but who includes an introductory discussion that clariﬁes the similarities between
+them.
+27 I don’t wish to suggest that there is never any role for the notion of “borrowing” or modal mixture,
+only that we should be careful not to invoke these ideas reﬂexively and without justiﬁcation.
+
+The Extended Common Practice
+
+by way of a single-semitone voice leading connecting Gs minor to an (incomplete)
+B7 chord. Below the example I have provided a hypothetical “background” in which
+the contrapuntal logic is easier to see. We can think of these voice leadings as basic
+templates which Chopin has embellished in a relatively straightforward way.
+A more involved example is given by the scherzo to Schubert’s C major String
+Quintet (Figure 6.6.3).28 The piece is exuberantly simple and folksy, presenting the
+same melodic material in a variety of distant keys. Five of Schubert’s eleven modulations involve the major-third system: three directly juxtapose major-third-related tonic
+triads, while two more connect a tonic triad with what turns out to be the dominant
+of the following key. Three of the remaining modulations involve minor-third-related
+dominants: the initial feint to D minor connects V7/IV to the minor-third-related V/ii
+(which here appears without its seventh), while the modulation from Af to G connects
+C7 (itself obtained via a semitonally ascending sequence of seventh chords) directly
+to Ef7, which is in turn reinterpreted as an augmented sixth of G. (This passage is
+cleverly varied in the recap, where the ascending semitonal motion continues upward
+to an Af7 which is then reinterpreted as the German sixth of C major; as a result, the
+entire passage modulates down by minor third rather than down by semitone.29) Once
+again, the majority of the modulations use efﬁcient chromatic voice leading among
+triads and seventh chords. To the extent that we can familiarize ourselves with the
+major- and minor-third systems, we can begin to see that Schubert’s kaleidoscopic key
+changes reuse a small number of familiar contrapuntal moves.
+Let me clarify that I am not claiming that Schubert and Chopin explicitly conceptualized these different chromatic systems; it is entirely possible that they simply sat at
+the piano and exploited the most efﬁcient voice leadings that came to hand. My point
+Figure 6.6.3 An outline of the modulations in the scherzo to Schubert’s C major String
+Quintet. Local tonics are shown with open noteheads. Of the eleven modulations, nine involve
+the major- and minor-third systems; only two employ traditional pivot chords.
+
+28 Thanks to Andrew Jones, who made a number of the observations in this paragraph.
+29 This compensates for the fact that the recap’s D minor moves up to Ef major rather than back to C
+major, leaving Schubert in an inconvenient key.
+
+219
+
+220
+
+history and analysis
+
+is that the geometry of chord space ensures that this sort of intuitive exploration
+will necessarily result in music that can be described using the major- and minorthird systems. It is useful here to revisit the analogy of the mountain climber, though
+now representing an individual composer rather the development of Western music
+as a whole. Chromatic composers, like mountaineers, will be constrained by the
+environment in which they operate, and the geometrical spaces of Part I are literally
+the terrain through which chromatic music moves. Insofar as we understand this
+geometry, we will also understand why intuitive musical exploration produces the
+results it does—in this case a plethora of major-third-related triads and minor-thirdor tritone-related seventh chords.
+It seems to me that a deep appreciation of nineteenth-century music requires a systematic grasp of all the voice-leading possibilities between familiar sonorities. This, of
+course, was a central theme of Part I. The notion of “near symmetry” (§2.9) allows us
+to understand how a chord’s internal structure determines its contrapuntal capabilities:
+thus, given a particular sonority such as the C dominant seventh, we can identify other
+structurally similar chords that are nearby. This, in turn, leads us to notice that triads
+can typically be connected smoothly to their major third transpositions while seventh
+chords can be efﬁciently linked to their minor-third and tritone transpositions. The
+geometrical spaces of Chapter 3 offer a convenient way to visualize these facts, allowing
+us to draw “maps” in which the major-third and minor-third systems are clearly represented. Furthermore, by focusing on crossing-free voice leadings—treating voice crossings as embellishments of these more basic templates—we saw that we can reduce the
+vast number of voice-leading possibilities to a much more manageable set of categories
+(§4.9–10). Taken together, these tools allow us to evaluate composers’ choices in light of
+a robust understanding of the options available to them. Or, to revert to the metaphor,
+they allow us to understand the mountaineer’s decisions in light of a systematic knowledge of the rock face. If we can internalize these principles, understanding the logic of
+chromatic voice leading, then chromatic music will start to seem much more coherent:
+instead of describing Chopin or Schubert’s music as resulting from capricious acts of
+musical fancy, Romantic lawbreaking that obeys no ﬁxed principles, we will instead see
+a small collection of familiar paths through chromatic space.
+
+6.7
+
+twentieth-century scalar music
+
+The ﬁrst half of the nineteenth century witnessed a tremendous expansion of harmonic options; new chords were permitted and new chromatic voice leadings were
+used to connect formerly distant chords. But it saw relatively few extensions to music’s
+scalar or modal vocabulary. This imbalance eventually led to a palpable compositional dilemma: what melodic notes should be used to accompany the chords of the
+chromatic tradition?
+This problem became particularly acute when composers required a large number of melodic notes to accompany a single chromatic sonority. To see why, consider
+Figure 6.7.1. Suppose you would like to associate each chord with a complete scale—
+
+The Extended Common Practice
+
+say, a run that spans at least an octave. One option is simply to use the C major
+scale, creating a clash with the chromatic notes of the altered harmonies. Another is
+to incorporate the chordal alterations by inserting additional chromatic notes into
+the passage. A third is to replace diatonic notes with their “altered” forms, fusing
+the basic scale of the key (here, C diatonic) with alterations belonging to the chords
+themselves. These three alternatives represent the main nineteenth-century solutions to the problem of associating chord and scale, as illustrated by Figure 6.7.2.
+Twentieth-century tonality instead exploits the fact that the sonorities of chromatic harmony can all be embedded in a small number of familiar scales. (Recall
+from §4.4 that just seven kinds of scale contain every “cluster-free” chord.) Twentiethcentury composers treat these scales as ready-to-hand accompaniments for particular
+chromatic chords. Thus, for example, a composer might use the D and Bf acoustic
+scales to harmonize the augmented and minor triads in Figure 6.7.3. This solution is
+noteworthy for several reasons. First, the acoustic scales would traditionally be associated with the keys of A minor and F minor, keys that are quite distant from one
+another. Second, though the acoustic scale is familiar from the classical tradition,
+it is used here in unfamiliar modes (treating C as the tonic). And third, since the
+acoustic scale has just seven notes, it creates a smallish macroharmony that is not
+overwhelmingly chromatic. As a result, the passage has a kind of rigorous logic, even
+while departing from the procedures of traditional tonality.
+Figure 6.7.4 illustrates this technique in the context of Ravel’s String Quartet,
+where a G9–Cf9–Fadd6 progression gives rise to three separate scales: the G9 chord
+has a pronounced whole-tone ﬂavor; the Cf9 is accompanied by the octatonic scale,
+
+Figure 6.7.1 Accompanying chromatic chords with scales. In (a), the scale does not contain
+the chromatic chords; in (b−c) it does. The music in (b) augments the diatonic scale with the
+altered notes, while the music in (c) replaces diatonic with altered notes.
+
+221
+
+222
+
+history and analysis
+Figure 6.7.2 (a) In Strauss’ Till Eulenspiegel (R7), the harmony Bf-Df-E-Gs serves as an
+altered dominant chord resolving semitonally to the tonic F. The scale in the bass, however,
+is a simple Af major that does not contain the En of the harmony, resulting in a ﬂeeting
+dissonance. (b) In Wagner’s Parsifal (mm. 668–9, Schirmer vocal score p. 40), a diminished
+seventh chord is harmonized with a melody touching on all the chromatic notes except Fs
+and G. The effect is of a wash that creates a sense of motion, but does not clearly suggest any
+familiar scale. (c) In m. 86 of the ﬁrst movement of Mozart’s Piano Sonata K. 533, a familiar
+augmented sixth chord gives rise to an unusual (“gypsy”) scale. This scale is derived by
+combining the notes of C diatonic with the alterations belonging to the German augmented
+sixth.
+
+Figure 6.7.3 Twentieth-century scalar composers might use acoustic scales to harmonize
+altered chords. The result is a melodic texture without augmented seconds or consecutive
+semitones.
+
+and the F major chord is accompanied by F diatonic. The bottom staves of Figure
+6.7.4 interpret the harmonies. Level (c) is purely diatonic, and depicts a relatively
+standard ii9–V9–I6 progression. Level (b) includes chromatic embellishments of this
+pattern: in the ﬁrst two chords, diatonic Bf becomes the applied leading tone Bn and
+diatonic D becomes Cs, producing a Gs11 chord and a Cf9.30 Finally, level (a) embellishes this progression with whole-tone and octatonic scales. What is remarkable is
+that each level suggests a different stage in our overarching historical narrative. Level
+(c) is purely diatonic, and uses a functional chord progression inherited from classical tonality. Level (b) uses chromatic embellishments that evoke nineteenth-century
+chromatic practice. Level (a) adds a distinctively twentieth-century contribution, as
+30 Note that the Cs resolves upward by semitone to the D, so that the Cf9–Fadd6 progression combines
+elements of a V–I progression in F major with a vii°7–i progression in D minor.
+
+The Extended Common Practice
+Figure 6.7.4 (a) Whole-tone and octatonic scales in Ravel’s String Quartet. (b) The
+underlying progression, and its diatonic logic (c).
+
+Figure 6.7.5 Bill Evans using the octatonic scale in his Town Hall recording of “Turn Out the
+Stars.”
+
+the altered chords give rise to additional scales that are neither diatonic nor chromatic. Chapters 9 and 10 will show that jazz musicians inherit and systematize these
+techniques. Thus in Figure 6.7.5, Bill Evans uses the octatonic scale to accompany the
+V chord, very much in the manner of Ravel’s String Quartet. Jazz theorists are both
+systematic and explicit when describing these relations between chord and scale,
+providing recipes that show students which scales to play over the altered chords of
+jazz harmony. In this sense, jazz manages to standardize the intuitive scalar exploration of earlier decades.
+The two examples we have considered represent a relatively traditional strain of
+twentieth-century scalar thinking, in which nondiatonic scales are used to accompany functionally harmonic progressions. Chapter 9 will also present examples that
+reject the ii–V–I paradigm, drawn from impressionist pieces by Debussy, Ravel, and
+Janáček; minimalist and postminimalist works by Reich, Adams, and Nyman; and
+nonfunctional jazz by the Miles Davis quintet. These examples, though stylistically
+quite diverse, reuse the same basic scales and the same basic compositional techniques.
+To my mind, this package of scalar procedures represents one of the most interesting recent developments in the thousand-year tradition that is Western tonality—a
+thread of common practice linking a wide variety of recent tonal styles, equal in its
+signiﬁcance to the other developments surveyed in this chapter.
+
+223
+
+224
+
+history and analysis
+
+6.8
+
+the extended common practice
+
+The eighteenth and nineteenth centuries are often called the “common practice
+period” in Western music.31 The term suggests a compositional consensus transcending national and temporal boundaries: Italian music of 1720, it is claimed, is quite similar to the German music of the 1880s, and both styles are quite different from any of
+the music composed prior to 1700 and subsequent to 1900. Other Western styles, such
+as Renaissance polyphony or contemporary jazz, may involve shared musical practices
+that are distantly related to those of the eighteenth and nineteenth centuries. But any
+similarities are overwhelmed by the differences. Consequently, there is no substantive
+sense in which Palestrina or Duke Ellington can be said to participate in the same
+musical tradition as the musicians of the eighteenth and nineteenth centuries.
+The view sketched here is a different one. I have claimed that when we step back
+far enough, we can see a much broader common practice that includes not just classical composers, but also jazz musicians like Ellington and Renaissance musicians like
+Palestrina. Central to this extended common practice is the technique of connecting
+harmonically signiﬁcant chords by efﬁcient voice leading. We have seen this in each
+of our musical excerpts. In our simple medieval style, efﬁcient voice leading connects
+consonant intervals; in later music, it connects structurally similar triads and seventh
+chords. Classical music introduces modulation, applying efﬁcient voice leading to
+scales as well as chords. Chromaticism shifts freely between the diatonic and chromatic realms. Finally, twentieth-century tonality develops a consistent technique of
+associating chromatically altered chords with a small number of familiar scales. At
+this level of abstraction, it looks like the tonal composers of the Western tradition are
+all playing fundamentally the same game, creating music that is both melodically and
+vertically coherent, and incorporating the various innovations of their predecessors.
+I think there is something sublime about this. It is amazing that contemporary
+rock guitar ﬁngerings are directly related to voice-leading practices more than half a
+millennium old (Figures 6.3.9 and 6.3.10), or that Bill Evans’ improvisations develop
+ideas found in Ravel’s carefully notated String Quartet (Figures 6.7.4 and 6.7.5). And
+though I am mindful of the need to remain ever vigilant against the temptations of
+Hegelian or Whiggish history, I am fascinated by the way certain stylistic developments in Western music seem to respond to, or arise out of, technical problems faced
+by earlier composers—for example, the way nondiatonic scales provide a solution to
+melodic challenges inherent in chromatic harmony (§6.7), or the way triads provide
+a solution to the problem of writing consonant three-voice counterpoint (§6.3). By
+focusing on the very general mechanisms of tonal coherence, by developing a bird’seye view of Western tonal practice, we can start to see these connections more clearly.
+Geometry has helped us here, providing a different space for each of our ﬁve
+styles. We used the two-dimensional Möbius strip to represent early medieval
+
+31 The term seems to have originated with Walter Piston, who used it in his 1941 harmony textbook.
+See Harrison (forthcoming) for perceptive comments on the notion of a “common practice period.”
+
+The Extended Common Practice
+
+two-note counterpoint. Later, the circle of diatonic thirds proved helpful in modeling Renaissance triadic voice leading. The turn to baroque music required us to
+introduce the scale lattice, a three-dimensional region in seven-dimensional scale
+space. The chromaticism of Schumann, Schubert, and Chopin led us to supplement
+our earlier diatonic models with more complex chromatic spaces, in which we ﬁnd a
+wealth of “shortcuts” between once-distant chords. Finally, Chapter 9 will show that
+twentieth-century scalar music involves a much more complex sort of scalar voice
+leading, involving a correspondingly sophisticated use of the scale lattice. Thus the
+development of musical style can be represented, at least in part, as a process of
+exploring an increasingly sophisticated array of musical spaces. Our earlier theoretical work allows us literally to visualize this process, giving us a uniﬁed set of geometrical models that help us comprehend the development of Western music.
+Pedagogically, I ﬁnd this perspective to be extremely fruitful. My own musical
+education was a traditional one, centered almost exclusively on a bifurcated diet of
+musty Germanic classics and bracing twentieth-century atonality. The introductory music-theory class at my undergraduate institution devoted an entire year to
+Bach chorales. Second-year theory was devoted exclusively to classical and very early
+Romantic music, while subsequent classes discussed twelve-tone music, Schenkerian
+analysis, and baroque counterpoint. Not once in my entire four years of undergraduate education did I hear a pedagogical word about jazz, rock, or minimalism—except
+in an unguarded moment, when one of my professors, an atonal composer and theorist, let slip that he preferred Sgt. Pepper’s to any piece of atonality.
+I believe we can do better. Part of what interests me about the narrative in this
+chapter is the way it suggests a more inclusive pedagogy, more suited to the pluralism of contemporary culture. I teach a year-long, introductory music-theory class
+based on the ﬁve musical styles we have just considered. Students begin by writing
+faux-medieval two-voice counterpoint in which parallel ﬁfths are permitted. After a
+brief detour into contemporary rock harmony, they progress to simpliﬁed four-voice
+Renaissance music along the lines of Josquin’s “Tu pauperum refugium.” By the time
+the common practice is introduced, they are already somewhat adept at the business
+of connecting triads by efﬁcient voice leading while also avoiding forbidden parallels.
+This makes the introduction of classical harmonic norms (including modulation)
+considerably less painful than it usually is. The ﬁnal sections of the course provide
+a systematic introduction to chromatic voice leading and twentieth-century scalar
+techniques. At the end of the year, students have learned that musical styles change,
+that tonality is a living tradition, and that when you dig deep enough, you can ﬁnd
+nonobvious connections between very different musical styles. My hope is that these
+lessons prepare them to confront today’s wide open, polystylistic, multicultural, syncretistic, and postmodern musical culture.
+
+225
+

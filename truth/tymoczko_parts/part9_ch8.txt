@@ -1,0 +1,1436 @@
+chapter 8
+
+Chromaticism
+We’ll now consider some of the ways in which nineteenth-century composers
+exploited efﬁcient voice leading, both as a tool for embellishing traditional progressions and as an alternative to these same routines. We’ll begin with chromatic progressions that decorate a functionally tonal substrate: augmented sixths, Neapolitans,
+and examples of “modal mixture.” We then turn to more exotic instances of chromaticism, comparing short pieces by Brahms and Schoenberg, and examining a few
+passages from Schubert. This sets the stage for a more in-depth discussion of two
+nineteenth-century warhorses: Chopin’s E minor Prelude, Op. 28 No. 4, and Wagner’s
+Tristan prelude.
+My goal here is to present chromaticism as an orderly phenomenon rather than
+an unsystematic exercise in compositional rule breaking. Lacking a comprehensive
+understanding of voice leading, it is easy to become overwhelmed by the variety of
+nineteenth-century chromatic practices—a bewildering collection of techniques that
+do not display any obvious organization. From here it is just a small step to deciding
+that chromaticism is a matter of the Romantic Composer’s Unexplainable Whim. If,
+on the other hand, we have absorbed the theoretical lessons of Part I, then we can
+adopt a more systematic attitude: once we can determine for ourselves the various
+contrapuntal paths from chord to chord, once we feel at home with the geometrical
+perspective of Chapter 3, we can begin to see that chromatic music reuses, over and
+over again, a relatively small number of musical tricks. This allows us to recognize
+the complex voice-leading relationships that bind together individual pieces while
+connecting them to one another.
+
+8.1
+
+decorative chromaticism
+
+Figure 8.1.1a contains a trio of dominant−tonic progressions in the key of C major.
+To a composer with a diatonic frame of reference, the voice leading is as small as
+it can be: each voice is either held constant or moves to its destination by a single
+step. But to composers who think chromatically, the counterpoint is not maximally
+efﬁcient since notes sometimes move by two semitones. It is therefore tempting
+to use chromatic alterations to “ﬁll in the gaps,” perhaps in the hope that this will
+create an increased yearning for the tonic chord. Figure 8.1.1 shows that chromatic
+alterations produce a variety of familiar tonal chords, including the diminished
+
+Chromaticism
+
+269
+Figure 8.1.1
+Intensifying
+diatonic
+dominanttonic chord
+progressions
+with chromatic
+notes.
+
+seventh, the dominant seventh with an augmented ﬁfth, and the dominant seventh
+“ﬂat ﬁve” chord.1
+The chords (d)−( f ) require special comment. Here, the chromatically altered note
+creates an augmented sixth that resolves outward to an octave. Each of these chords
+has a ﬂattened second scale degree, and can be labeled only awkwardly with traditional
+Roman numerals.2 But as secondary dominants they are very familiar, having long
+ago acquired picturesque names: the Italian, French, and German augmented sixth
+chords. One curious feature of Western music history is that these altered sonorities
+ﬁrst appear as applied dominant (V-of-V) chords. It was only during the ﬁrst few
+decades of the nineteenth century that they begin to appear as dominant sonorities
+in their own right. (Figure 8.1.2 provides a pair of representative examples.) This tendency reaches its apogee in twentieth-century jazz, where these altered dominants—
+conceived as “tritone substitutions” for the V7—become virtually mandatory.3
+
+1 This table is similar to Table 2 in Smith 1986. Smith’s approach to chromaticism is in general very
+congenial to my own.
+2 The chord {Df4, F4, G4, B4} is often labeled “G$f5,” with the numbers “$” referring to intervals above
+the bass Df4 and the symbol “f5” referring to the interval above the root G.
+3 Biamonte (2008) contrasts the voice-leading behavior of classical augmented sixths and jazz tritone
+substitutes. To my mind, however, these differences arise from the fact that classical music is largely triadic,
+whereas jazz makes heavier use of seventh chords. Modulo these differences, there is a clear connection
+between the two kinds of chords.
+
+270
+
+history and analysis
+Figure 8.1.2 Chromatically altered dominants at the ﬁnal
+cadence of Schubert’s C major String Quintet (a) and at the
+opening of Chopin’s Cs minor Nocturne, Op. 27 No. 1 (b).
+
+This historical contingency creates something of a pedagogical conundrum:
+most harmony textbooks, mirroring the historical development of Western music,
+introduce these sonorities ﬁrst as secondary dominant chords, alterations of iv or
+V-of-V, rather than as dominants in their own right. (In fact, theorists sometimes
+debate whether augmented sixth chords have “secondary dominant” or “predominant” function.4) As a result, many textbooks pay relatively short shrift to the underlying similarity between the chords in Figure 8.1.1. This is symptomatic of a more
+general tendency to depict chromatic harmony as a series of disconnected idioms,
+often presented in a “one chord per chapter” format. This “object-based” (or harmonic) approach to chromaticism is diametrically opposed to the “process-based”
+(or contrapuntal) approach I am advocating. From my point of view, what is important is that the progressions in Figure 8.1.1 can all be obtained by a fundamentally
+similar process of chromatic embellishment.
+One advantage of my approach can be seen by considering the chords in Figure
+8.1.1g−h. These altered dominant sonorities do not have standard theoretical names,
+and appear only rarely in nineteenth century music. Figure 8.1.1g is the central progression of Strauss’ Till Eulenspiegel, and is sometimes called the “Till Sixth.” Figure
+8.1.1h appears in the upper voices of the ﬁnal progression of Scriabin’s Poem of Ecstasy,
+
+4 I think of augmented sixths as being secondary dominants for two reasons: ﬁrst, in sequences they
+often alternate with ordinary dominants (see Mozart’s C minor fantasy, K. 475, mm. 1–3, as well as Figure
+8.3.4); second, in recapitulations they often replace the exposition’s secondary dominants (cf. Beethoven’s
+F minor piano sonata, Op. 2 No. 1, I, mm. 41 and 140; Mozart’s D major sonata, K. 311, II, mm. 14 and 50).
+They only rarely substitute for genuine predominants in these contexts.
+
+Chromaticism
+
+and has probably been given a silly name at some point (the “Ecstatic Sixth?”). Students who have learned chromatic harmony as a series of idioms tend to panic when
+they ﬁrst confront such chords. (“What is that and why wasn’t it in my textbook?”)
+What they need, I think, is not an extensive list of chords to memorize, but rather a
+sense of how to think for themselves chromatically—a sense, in other words, for the
+cognitive processes that might lead composers to invent sonorities of this kind. Students who realize that there are countless chromatic alterations in nineteenth-century
+music, only some of which have standard names, are more capable of confronting the
+harmonic unknown, both analytically and in their own music.
+Of course, chromatic techniques can be applied to other progressions as well.
+Figure 8.1.3 presents a few standard embellishments of ii and IV. As discussed in
+Chapter 6, the I–IV–I progression is often decorated by interposing an augmented
+triad between I and IV and a minor triad between IV and I. (A very similar alteration,
+when applied to a V–I@–V progression, intensiﬁes the dominant by way of the minor
+tonic triad.) Other changes transform ii# into a half-diminished chord and ii°6 into
+the Neapolitan sixth. As a teacher, I try to emphasize the general structural principle
+that links all these progressions: in nearly every case, diatonic tones are modiﬁed
+to create efﬁcient chromatic voice leading, smoothing the transition from chord to
+chord. Although students must still be introduced to these chords individually, and
+coached in their various voice-leading particularities, I ﬁnd that it is much easier to
+teach this material when the deeper musical principles are explained.
+In fact, it can even be interesting to ask whether there are chromatic alterations
+that do not commonly appear in nineteenth-century music. For example, the standard
+V$–i progression can be embellished by lowering the second and fourth scale degrees
+as shown in Figure 8.1.4. This chord is extremely rare, perhaps because Romantic
+composers regarded the minor mode as the dual or shadow of the major. (That is:
+since the lowered fourth scale degree is not available in major, composers may have
+shied away from it in minor.) However, it does occasionally appear in later music—
+
+Figure 8.1.3
+Other chromatic
+embellishments.
+
+271
+
+272
+
+history and analysis
+Figure 8.1.4 In the nineteenth century, the
+lowered fourth scale degree is extremely rare.
+However, it does appear in later music.
+
+8.2
+
+for instance, at the end of the slow movement of Shostakovich’s G minor Piano
+Quintet.5 This, then, is an example of the
+continued development of chromatic
+tonality in twentieth-century music:
+just as the dominant seventh “ﬂat-ﬁve”
+chord was rare in the eighteenth century,
+becoming common only later, so too is
+lowered scale-degree four uncommon in
+Romantic music—coming into its own
+only in the extended tonality of the more
+recent past.
+
+generalized augmented sixths
+
+So far, we have examined chromaticism that decorates or embellishes traditional tonally functional progressions. Let’s now turn to music in which chromaticism provides an alternative language, a kind of “second practice,” distinct from the routines
+of ordinary functional tonality. Figure 8.2.1 shows ﬁve passages in which a seventh
+chord moves by stepwise motion to a triad. The ﬁrst, from the opening of Schubert’s “Am Meer” uses what theory books would call a “German augmented sixth,”
+here acting as an incomplete neighbor to a root position tonic. Next is the opening
+of Schoenberg’s song “Erwartung,” Op. 2 No. 1 (not to be confused with the atonal
+monodrama of the same name), which presents a less familiar progression: a sounding B minor seventh acting as a neighbor to the tonic Ef major, all over a pedal Ef.6
+The third is derived from the penultimate progression of Wagner’s Tristan, with a
+(sounding) F half-diminished seventh moving semitonally to E minor.7 The fourth,
+from Act III, Scene 4 of Debussy’s Pelléas et Mélisande, presents a very similar progression, in which G¤[s5] again resolves to E minor. The ﬁnal passage, from the opening of the last movement of Brahms’ Second Piano Concerto, has D7 resolving to Ef,
+the subdominant of the underlying key; it can be understood tonally as a deceptive
+resolution of an applied dominant. From a traditional point of view, some of these
+are “normal” progressions with familiar names (“German sixth,” “deceptive resolution”), while others are nameless and unusual. However, from our perspective they
+are all quite closely related: in each case, the seventh chord is dissonant, unstable, and
+neighboring, resolving efﬁciently to a more stable triad. Our goal is to think systematically about how these progressions relate.
+
+5 The lowered fourth scale degree sometimes appears in heavy metal, as in the second part of the Black
+Sabbath song “Sabbath, Bloody Sabbath.” This alteration is probably derived from the blues, though here
+it takes on a more sinister character.
+6 The adjective “sounding” indicates that I am ignoring spelling.
+7 Here I remove Tristan’s characteristic voice crossing, as discussed in §8.6.
+
+Chromaticism
+
+273
+
+Figure 8.2.1 Chromatic voice leading in Schubert’s “Am Meer” (a), Schoenberg’s
+“Erwartung,” Op. 2 No. 1 (b), Wagner’s Tristan (c), Debussy’s Pélleas et Mélisande (d), and the
+last movement of Brahms’ Second Piano Concerto, Op. 83 (e).
+
+second chord
+To this end, it helps to begin with a more
+general theoretical problem. Suppose we
+time
+would like to ﬁnd an efﬁcient (four-voice)
+first chord
+voice leading from a seventh chord to a triad.
+The principle of avoiding crossings tells us
+that we should map ascending steps in the
+seventh chord to either unisons or ascending
+steps in the triad. This means that the voice
+leading can be represented schematically as
+shown in Figure 8.2.2: two adjacent notes in
+the seventh chord converge on a single note
+in the triad, while the other two voices connect the remaining notes. It is therefore possible to categorize such voice leadings
+based on two pieces of information: the converging notes in the seventh chord and
+the converged-upon note in the triad. This is illustrated by Figure 8.2.3, which shows
+that there are twelve abstract possibilities to consider—four pairs of converging notes
+times three possible targets. Figure 8.2.4 provides concrete examples of these voiceleading schemas, in the particular case where the ﬁrst chord is a dominant seventh
+and the second is a triad. (Of course, not all of these voice leadings are equally useful; they are shown merely to illustrate the possibilities.) Voice leadings in the same
+square of the table are individually T-related (§2.6).
+
+Figure 8.2.2
+A four-voice
+crossing-free
+voice leading
+from a fournote chord to a
+three-note chord.
+Two notes in the
+four-note chord
+converge on a
+single note in the
+three-note chord.
+
+274
+
+history and analysis
+Figure 8.2.3 In a crossing-free voice leading from a four-note to a three-note chord, there are
+twelve abstract possibilities to consider. The converging pair of voices is listed at the top of
+each column, while the note converged upon is listed to the left of each row.
+
+Figure 8.2.4 Instances of the twelve schemas in Figure 8.2.3. In each case, a dominant
+seventh chord moves to a major triad. Voice leadings separated by a dotted line are
+individually T-related.
+
+Chromaticism
+
+Augmented sixth chords are a special subset of these voice leadings—those in
+which the converging notes are separated by two semitones, and they converge on the
+note that lies between them.8 These voice leadings are important because they permit
+all four voices to move semitonally to the subsequent triad, as in the ﬁrst four progressions of Figure 8.2.1. Augmented sixths, understood in this general sense, need
+not have dominant function: where the chords in Figure 8.2.5a–c contain a leading
+tone that resolves upward, and clearly sound “dominant-like,” those in ( f –g) do not.
+From this point of view, the familiar augmented sixths are simply a noteworthy species within the genus of efﬁcient voice leadings from four-note to three-note chords.
+Such chords can be expected to occur frequently in chromatic music, and need not
+be conceptualized as modiﬁcations of the Italian, French, and German sixths of introductory tonal theory.
+Now back to our musical examples (Figure 8.2.1). The ﬁrst four are all augmented sixths in which the voices move semitonally to their destinations. Figure
+8.2.6 shows that Schubert and Schoenberg’s progressions exemplify the abstract
+schema (r, t, f, s)®(f, r, t, f)—that is, the seventh chord’s (sounding) root moves
+to the triad’s ﬁfth, its third moves to the triad’s root, the ﬁfth moves to the third,
+and the seventh moves to the ﬁfth. (Schoenberg simply lowers the third of the
+German sixth, lending the chord a dominant quality.) Wagner’s progression exhibits the schema (r, t, f, s)®(r, t, f, r), resolving the root and seventh to the root of
+the following triad. The very similar passage from Pélleas, meanwhile, reimagines
+this augmented sixth as the raised ﬁfth and seventh of a G 7 chord; this is a rare
+example in which a generalized augmented sixth occurs between notes other than
+the sounding root and seventh. (Note that Wagner and Debussy’s progressions are
+quite closely related, just as Schubert and Schoenberg’s are.) Finally, the opening
+of Brahms’ movement does not feature augmented-sixth voice leading; here the
+
+Figure 8.2.5 In an “augmented sixth” resolution, two voices are separated by ten semitones,
+and converge semitonally to an octave, doubling one of the notes in a major or minor triad;
+typically, the augmented sixth lies between what sound like the ﬁrst chord’s root and seventh,
+though in (c) this is not the case. If the resolution contains a leading tone resolving upward to
+the tonic, then the chord can typically function as an altered dominant.
+
+8 See Harrison 1995 for an alternative perspective that emphasizes tonal function.
+
+275
+
+276
+
+history and analysis
+Figure 8.2.6 The voice leadings at the start of Schubert’s “Am Meer” (a) and Schoenberg’s
+“Erwartung” (b) both exemplify the abstract schema (r, t, f, s)®(f, r, t, f). The voice
+leading in Tristan is (r, t, f, s)®(r, t, f, r) (c), while in Pélleas it is (s, r, t, f)®(r, t, f, r)
+(d). All four of these voice leadings are generalized “augmented sixth” resolutions. The
+voice leading in the last movement of Brahms’ Second Piano Concerto (e) employs
+the schema (f, s, r, t)®(t, f, r, t), in which the converging voices are separated by nine
+semitones. This is not a generalized augmented sixth.
+
+seventh chord’s third and ﬁfth are separated by nine semitones, and converge on the
+triad’s third. Our theoretical ideas thus provide a precise vocabulary for specifying
+how the ﬁrst four progressions relate, while differing from the last.
+As I said earlier, to be initiated into the mysteries of chromatic tonality one needs
+to develop an understanding of all the voice-leading possibilities between familiar
+chords. This requires sorting through the analogues to the voice leadings in Figure
+8.2.3 for any pair of chords we might encounter—identifying in the process the most
+useful possibilities. Furthermore, we need to be able to deploy this knowledge relatively quickly, so that we immediately recognize the relationships between various
+voice leadings. Nineteenth-century composers no doubt developed this sort of knowledge intuitively, through hours and hours of hands-on experimentation at the piano
+keyboard. Twenty-ﬁrst-century musicians need to experiment as well, but we have
+the advantage of theoretical tools that allow us to conceptualize more abstract voiceleading relationships—grouping musical possibilities into more manageable categories and revealing structural principles linking superﬁcially different progressions.
+
+8.3
+
+brahms and schoenberg
+
+For a more complex artifact of the nineteenth-century “second practice,” we turn
+to Brahms’ Intermezzo, Op. 76 No. 4, a teasing piece that begins on a dominant
+seventh chord that resolves only at the end. My reduction, shown in Figure 8.3.1,
+tries to separate the two “systems” of nineteenth-century tonality, using open noteheads for chords that behave in functionally harmonic ways, and closed noteheads
+for instances of chromatic voice leading. The piece opens by oscillating between
+F7 and what I will call the “Tristan chord” {F, Gs, B, Ef}.9 The two chords are con9 Some of you may prefer to think of the Ef as a pedal tone, in which case the relevant sonority is {F,
+Gs, B, D}. Others may prefer to postulate a ﬁve-note sonority containing both D and Ef. Brahms’ piece
+proceeds by exploiting alternate resolutions of this chord, however it may be understood.
+
+Chromaticism
+Figure 8.3.1 A reduction of Brahms’ Intermezzo, Op. 76 No. 4. Resolutions of the Tristan
+chord {F, Af, Cf, Ef} and Ef minor triad are identiﬁed with the letters “a” and “b”
+respectively.
+
+nected by the voice leading (F, Gs, B, Ef)®(F, A, C, Ef), which moves two notes by
+semitone. At a2, Brahms resolves the same Tristan chord in a different way: here, F
+and Ef collapse onto Ef, and Bn rises to C, producing an Af major triad.10 Immediately thereafter, the V7 of Af major gets reinterpreted as an augmented sixth of
+G minor, resolving directly to a ﬁrst-inversion tonic. (Note that the “augmentedsixth resolution,” though it has a familiar name, can be interpreted as just another
+
+10 Abstractly, this involves the schema (r, t, f, s)®(f, r, t, f).
+
+277
+
+278
+
+Figure 8.3.2
+Individual T
+relatedness in
+Op. 76 No. 4.
+
+history and analysis
+
+chromatic voice leading.) Brahms thus modulates from Bf major to G minor by
+way of the more distant key of Af major, deliberately taking a scenic detour in
+tonal space.
+The opening of the middle section, shown in Figure 8.3.2, provides a nice illustration of individually T-related voice leadings: here, Brahms takes a voice leading
+from the ﬁrst ending and transposes the second chord up by semitone, leading to
+a contrasting passage in Cf major.11 (Of course, the root position tonic triad never
+appears: the middle section is “in the dominant of Cf,” just as the opening is “in
+the dominant of Bf.”) The section starts with a long dominant pedal, discharged
+(in my reading) by the “down by third, up by step” sequence of §7.3. The third section begins much as the ﬁrst did, alternating between the Tristan chord and the F7.
+Once again, the piece moves away from the tonic by resolving the Tristan chord to
+Af major; however, Brahms immediately follows this resolution with yet another
+resolution of the Tristan chord, this time to Ef major. (The voice leading here has
+the root and seventh converging on Ef, reinterpreting the Tristan chord as iiø7 of
+Ef.) This Ef major triad initiates a descending sequence of chromatically embellished harmonies, culminating in a iiø7–fII7–I progression. (Jazz musicians would
+call the fII7 a “tritone substitution” for the dominant, while classical theorists would
+say it is an augmented sixth resolving directly to I.) Given Brahms’ prominent use of
+the Tristan chord, it is amusing to note that the
+iiø7–fII7 voice leading evokes the very opening
+of Wagner’s opera.
+Brahms’ piece thus progresses by exploiting multiple resolutions of a few basic sonorities, including the Tristan chord and the Ef
+minor triad (marked on the reduction as “a”
+and “b”). The multivalence of these chords
+propels the music while also endowing it with
+a kind of harmonic unity, allowing the composer to return again and again to the same basic chords. A very similar technique
+appears in Schoenberg’s “Erwartung,” whose opening progression was discussed
+in the previous section. In Figure 8.3.3, I have provided a reduction, once again
+using black stemless noteheads for nonfunctional chromatic chords. A glance at
+the reduction shows that Schoenberg’s song, like Brahms’ piece, is delicately balanced between two musical worlds. Once again, it explores a variety of ways to
+resolve a few chromatic sonorities—in particular, the “augmented sixth” at the
+opening (enharmonically, {B, D, Fs, A} over an Ef pedal), which resolves semitonally as a neighboring chord to Ef major while also acting as a passing chord to IV7.
+And once again, we ﬁnd a mix of familiar and unfamiliar progressions: Af7, the
+third chord of the piece, resolves as a German sixth to {Ef, G, C}, while {Cf, Ef,
+
+11 As in Mozart’s C minor fantasy, K. 475, the individual transposition changes iv6–V7 into iii6–V7
+(§2.6).
+
+Chromaticism
+
+Gf, A} in third system—a standard German sixth in Ef—“normalizes” the song’s
+unusual second sonority. (Both of these German sixths are denoted by asterisks on
+the example.) Curiously, the end of the piece once again contains a progression
+that evokes the opening measures of Wagner’s Tristan (Csø7–Bf7, bracketed on the
+reduction).
+The middle section of Schoenberg’s song, shown on the second line of Figure
+8.3.3, is an embellished ascending-ﬁfths sequence of dominant seventh chords.
+Each sequential unit hints at a I@–Vf9 progression, with the Vf9 chord becoming
+the subsequent I@. (For instance, Gf9 leads to G@, which is then reinterpreted as I@
+of the subsequent dominant.) This sequence exploits a technique ﬁrst discussed
+in §3.8, whereby stepwise descending voice leading produces ascending-ﬁfths root
+progressions. Figure 8.3.4 identiﬁes the basic voice-leading pattern, and compares
+Schoenberg’s sequence to a rather similar sequence in one of Haydn’s late piano
+sonatas. Although the two passages are separated by almost a century, they arguably make use of the same basic underlying relationships—testifying to the way
+music theory can help us understand hidden roads connecting superﬁcially different styles.
+
+Figure 8.3.3 A reduction of Schoenberg’s song “Erwartung,” Op. 2 No. 1.
+
+279
+
+280
+
+history and analysis
+Figure 8.3.4 (a) An ascending ﬁfths sequence that uses descending stepwise voice leading.
+(b) A sequence from the development of the ﬁrst movement of Haydn’s Piano Sonata
+Hob. XVI/49 in Ef major, mm. 117–122, which decorates this basic voice-leading pattern.
+(c) Schoenberg’s sequence, transposed up by semitone for ease of comparison with the earlier
+examples. In Haydn’s sequence, explicit i@–v resolutions ascend by ﬁfth, linked by secondary
+dominants; Schoenberg’s progression only hints at the i@ harmonies, subsuming them within
+extended dominants. Here the dotted line signiﬁes that the G5 in the ﬁrst measure can be
+considered “the same” as the G4 in the second measure—or in Schenkerian terms, a “voice
+transfer.”
+
+8.4
+
+schubert and the major-third system
+
+In a moment, we’ll examine two pieces that make sophisticated use of seventh chords’
+four-dimensional geometry, exploiting what I have called the “minor-third system.”
+Before doing so, however, it will be useful to warm up with some triadic music, where
+the relevant geometry is three-dimensional and hence easier to grasp. Having honed
+our skills on the simpler “major-third system,” we can then turn to the more complex
+relationships among seventh chords.
+Figure 8.4.1 outlines the opening of Schubert’s D major Piano Sonata, D. 850,
+Op. 53. The ﬁrst phrase is intense but traditional, touching brieﬂy on the subdominant before cadencing in the tonic D major. The second phrase switches abruptly
+to the parallel minor, but otherwise begins as the ﬁrst. Having reached F major (the
+relative major of the parallel minor of the tonic key), Schubert then leaves traditional tonality in favor of the major-third system: a pair of efﬁcient chromatic voice
+
+Chromaticism
+
+281
+Figure 8.4.1
+A reduction of
+the opening of
+Schubert’s D
+major Piano
+Sonata, D. 850,
+Op. 53.
+
+Figure 8.4.2
+A geometrical
+representation of
+the voice leadings
+(F, A, C)®(Es,
+Gs, Cs) and (Es,
+Gs, Gs, Cs)®(E,
+G, A, Cs), which
+exploit the near
+major-third
+symmetry of the
+triad.
+
+leadings connecting F major to Cs major to A7, which in turn leads back to the tonic.
+We can think of this passage as exploiting the fundamental geometry of three-note
+chord space, in which the major triads F, Cs, and A are all adjacent (Figure 3.10.2b).
+From this point of view the seventh is inessential—an embellishment that merely
+decorates the more basic triadic relationship. (An alternative interpretation, shown in
+Figure 8.4.2, uses the pitch-class circle and retains the seventh.12) No matter how we
+conceptualize it, the progression represents a dazzling, gratuitous, and over-the-top
+transition from F major to A7—“gratuitous” since F major and A7 are harmonically
+quite close, and do not require the intermediation of a Cs chord.13
+There is, in fact, an interesting precedent for these sorts of major-third juxtapositions: in both baroque and classical music, one occasionally ﬁnds major-third-related
+triads across phrase boundaries (Figure 8.4.3). Typically, the earlier phrase ends with
+a half cadence on the dominant of the relative minor, while the next phrase begins
+
+12 Note that the progression from Cs to A7 uses the standard German-sixth resolution in retrograde.
+13 A classical composer would have no problem moving directly from F major to A7, the dominant of
+the relative minor.
+
+282
+
+history and analysis
+
+Figure 8.4.3
+Cross-phrase
+mediant
+progressions in
+Bach (Riemenschneider chorale
+163) (a) and
+Mozart (K280,
+III, 104) (b).
+
+directly with a tonic.14 We can understand these progressions as exhibiting an attenuated dominant-tonic functionality: the ﬁfth of the dominant is the leading tone of
+the relative major, rising by semitone to the root of the subsequent tonic triad, while
+the third of the dominant acts enharmonically as f^6, falling semitonally to the ﬁfth
+of the subsequent tonic. Schubert in effect liberates these major-third juxtapositions
+from their traditional role, allowing them to occur within phrases rather than across
+phrase boundaries, and weakening their status as pseudo-dominants. (In particular,
+the speed of the sonata’s juxtapositions make it hard to hear the chords as tonally
+functional.) Here, as elsewhere, the boundaries between musical styles are somewhat
+porous: it is not so much that Schubert uses absolutely new progressions, never used
+by his predecessors, but rather that he uses familiar progressions in unfamiliar ways.
+Figure 8.4.4 contains two sequences from Schubert’s Quartett-Satz in C minor,
+D. 703, which make a more subtle use of the major-third system. In both cases,
+descending stepwise voice leading articulates unusual triadic progressions: the ﬁrst
+is a sequence of I–V progressions that descend by major second, while the second
+moves upward by ﬁfths from G major to G minor to D major to D minor, and so
+on.15 (This latter sequence is somewhat reminiscent of the central section of Schoenberg’s “Erwartung” in Figure 8.3.3.) Geometrically, the two sequences present different ways of moving downward, level by level, along the cubic lattice in three-note
+chord space (Figure 8.4.5). Using only major chords, there are six possible sequences
+that can be formed in this way, each of which can be derived by applying major-third
+
+14 This gesture is particularly common at the beginning of sonata-form recapitulations, though it can
+be found elsewhere as well. See, among many examples, the end of the development of Clementi’s G major
+sonata, Op. 25 No. 2, I, and the opening of Beethoven’s F major sonata, Op. 10 No. 2, I, mm. 17–18. The
+Decemberists’ song “The Legionnaire’s Lament” includes two cross-phrase mediants: the verse, d–F–g7–A,
+ends on a V that progresses directly to the relative major, while the chorus, F–C–g–Bf–bf, ends on a iv that
+progresses back to the relative minor.
+15 A number of other passages in the piece involve stepwise descending voice leading, including the
+opening measures, the accompaniment to the second theme, and the ascending step sequence at m. 70ff.
+
+Chromaticism
+Figure 8.4.4 Descending triadic sequences in Schubert’s Quartett-Satz, D. 703, m. 173ff
+(a) and m. 105ff (b). (The second has been transposed up by minor third to facilitate
+comparison.) The sequences can be derived by applying “major-third substitution” to a
+chromatic descending sequence.
+
+substitution to a sequence of semitonally descending triads.16 (Cf. the right side of
+Figure 8.4.4, where the semitonal sequences are in the top row, and the various third
+substitutes are contained on the lower lines.) If we allow minor chords, there are nine
+possible two-chord sequences, which can again be derived by applying major-third
+substitution to a more straightforward chromatic sequence.
+The underlying principle here is related to an idea that we encountered in §7.2:
+since major-third-related triads can be connected by efﬁcient voice leading, they can
+substitute for one another without much disrupting the music’s contrapuntal or harmonic fabric.17 In other words, we are concerned here with the chromatic analogue to
+the diatonic third substitutions found in functional harmony. When compared to the
+diatonic version, chromatic third substitution is of course signiﬁcantly more disruptive: C major and E major are nowhere near as similar as IV6 and vi, and the resulting
+sequences are harmonically quite distinct. Nevertheless, the descending voice leading
+does create a clear sense of family resemblance—a palpable sinking feeling that contrasts with the buoyant harmony. This quality can be used to great effect, particularly in
+passages that try to convey a melancholic or gloomy mood. For example, in Goffin and
+King’s “Natural Woman” (made famous by Aretha Franklin) the “up a fifth, up a minor
+third” sequence represents the narrator’s psychic anomie, while in “Hey Joe” (asso-
+
+16 Here I am considering only sequences whose repeating unit is one or two chords long.
+17 Diatonic third substitution has a less dramatic effect on harmony than chromatic major-third
+substitution. In replacing Fs major with Ds minor (or replacing IV with ii6), we preserve two of the original chord’s notes; in replacing Fs major with D major (as in the sequence we are considering), we preserve
+fewer notes, creating a much more dramatic harmonic change.
+
+283
+
+284
+Figure 8.4.5
+Schubert’s
+sequences as
+they move along
+the lattice at the
+center of threenote chord space.
+The solid line is
+the sequence in
+Figure 8.4.4a, the
+dashed line is
+the sequence in
+Figure 8.4.4b.
+
+history and analysis
+
+ciated with Jimi Hendrix, and possibly
+written by Billy Roberts) the progression C maj–G maj–D maj–A maj–E maj
+implies descending voice leading that
+elegantly mirrors the narrator’s descent
+into murderous depravity.
+
+8.5
+
+chopin’s tesseract
+
+Figure 8.5.1 shows the opening of
+Chopin’s F minor Mazurka, Op. 68
+No. 4 (1849?), perhaps the last piece
+he ever composed.18 The music is
+blurred and chromatic, moving
+through a series of dominant seventh
+chords without articulating a clear
+tonal center. Beneath the music, I have
+provided a reduction of its basic harmonies. In constructing this analysis, I
+considered the left-hand notes on the
+third beat of each measure to sound
+through the following ﬁrst-beat rest—
+thus, for example, I imagine that {G,
+Df, F} still sounds at the downbeat of
+measure 3.
+My analysis portrays the piece as moving through a series of numbered “cycles”
+that transpose a dominant seventh chord by a staggered series of single-semitone
+descents. For example, the third cycle, shown on the third staff, moves F7 to E7 by
+lowering the ﬁfth (C®Cf), third (A®Af), seventh (Ef®D), and root (F®E) in turn.
+The music thus exhibits an interesting combination of freedom and constraint. If
+we look only at the ﬁrst chord in each cycle, we see a straightforward sequence of
+semitonally descending chords: G7, Gf7, F7, and E7. However, if we look at the voiceleading motions within each cycle, we do not recognize a regular pattern: sometimes
+the third moves ﬁrst (as in Cycles 1 and 3), and sometimes the ﬁfth moves ﬁrst (Cycle
+4). In other cases, Chopin moves two voices at the same time—as in Cycle 2, where
+the ﬁfth and seventh descend simultaneously.
+Furthermore, in the second phrase of the piece, shown on the bottom staff of the
+example, Chopin repeats the basic sequence of dominant sevenths, but embellishes
+
+18 Kallberg (1985) presents some interesting but circumstantial evidence that the piece was composed
+earlier.
+
+Chromaticism
+Figure 8.5.1 An analysis of Chopin’s Mazurka, Op. 68 No. 4. The harmonies form a series
+of cycles which are labeled numerically: chords 1a, 1b, and 1c belong to the ﬁrst cycle,
+chords 2a, 2c, and 2d belong to the second, and so on.
+
+them slightly differently. The music thus seems to embody what twentieth-century
+composers would call an “open form”—a set of rules that only partially determine the
+musical result, of the sort that might be used as the basis for improvisation. This combination of freedom and constraint challenges the formal categories that we typically
+use to describe nineteenth-century music: the harmonic progression here is neither
+an exact sequence, in which the same music is repeated verbatim, nor free composition. Instead, it resembles the kind of open-ended musical game more commonly
+associated with recent music.
+To describe the game’s rules, we need to recognize that the piece exhibits a rather
+subtle kind of harmonic consistency: throughout, we hear only dominant sevenths,
+diminished sevenths, minor sevenths, half-diminished sevenths, and French sixth
+chords. In particular, there are no nontertian sonorities such as {Gf, A, C, F} and no
+chords with major sevenths. This harmonic consistency results in turn from a subtle
+contrapuntal regularity: within each cycle, the root is always the last note to descend.
+(Were Chopin to violate this rule he would generate strange harmonies, such as
+those in Figure 8.5.2.) We can thus imagine Chopin creating the piece by following
+the instructions in Figure 8.5.3. What is ﬁxed is the descending chromatic sequence
+of dominant sevenths, along with the injunction that the bass voice descends last;
+what is free is the precise order of the semitonal motions in the other voices. Since
+Chopin was in fact an improvising composer, it is quite possible that these rules
+capture something about how he was thinking: indeed, it is easy to imagine him sitting at the piano, exploring the various ways of sliding between semitonally related
+dominant seventh chords.19
+Figure 8.5.4 uses a cube to represent Chopin’s “open form.” The G dominant seventh appears at the apex, while the next level contains minor sevenths on G and E
+
+19 A daring performer might choose to reﬂect this by departing from the written notes in favor of an
+improvisatory tour through Chopin’s musical space—a performance that would be unfaithful to the written notation while also capturing something about his musical concerns.
+
+285
+
+286
+
+history and analysis
+Figure 8.5.2 In Chopin’s piece, the root of
+the chord always descends after the other
+voices. If this rule were violated, unusual
+harmonies would result. These chords
+cannot be conceived as stacks of thirds, and
+are very rare in nineteenth-century music.
+
+Figure 8.5.3 The “directions
+for improvisation” that might
+produce Chopin’s F minor
+Mazurka.
+
+Figure 8.5.4
+A geometrical
+representation
+of Chopin’s
+“directions for
+improvisation.”
+
+F Minor Mazurka
+1. Begin with a dominant seventh chord.
+2. Successively lower the third, fifth, and seventh of
+the chord by semitone, in any order, eventually
+producing a diminished seventh chord.
+3. Lower the note of diminished seventh chord that
+was the root of the initial dominant seventh,
+producing a new dominant seventh chord a
+semitone lower than the original.
+4. Repeat.
+Bonus rule: it is possible to eliminate one or more
+chords in the resulting sequence, lowering multiple
+notes by semitone at the same time.
+
+and a French sixth on G/Cs (labeled “gFr” on the ﬁgure). Each of these chords can be
+reached by semitonally lowering a note of the initial G7. Level 1c contains half-diminished seventh chords on Cs, E, and G. (Again, these chords can be reached by lowering a note in a chord on level 1b.) The G diminished seventh appears at the bottom of
+the cube and is the only chord on level 1d. Finally, there is a line leading from the
+base of the cube to Gf7, signifying that the process begins again,
+a semitone below the original G7
+chord. (Hence the label “2a.”) A
+musician improvising according to Chopin’s directions must
+follow the edges of the cube in
+a descending manner, from level
+1a to 1b to 1c and 1d: at the
+apex of the cube there are three
+choices, since one can lower the
+third, ﬁfth, or seventh. Having
+made that choice, there are two
+remaining options, corresponding to the two voices that have yet
+to descend. Finally, there is just a
+single possibility, which takes us
+to the diminished seventh chord
+at the bottom of the cube. Here
+
+Chromaticism
+
+287
+
+again, the improviser’s hand is forced, since there is only one semitonal descent that
+transforms the G diminished seventh into the Gf dominant seventh. This cubic
+geometry thus encapsulates in a single image rules that would otherwise require careful verbal speciﬁcation—presenting a kind of musical “game board” whose internal
+structure mirrors Chopin’s presumed compositional process.
+So far, we have been treating the F minor Mazurka as an object in itself, unconnected to the rest of Chopin’s oeuvre. Things get more interesting when we observe
+that the mazurka is a virtual rewriting of one of Chopin’s most famous pieces—the
+E minor Prelude, Op. 28 No. 4. Remarkably, the two pieces use virtually the same
+voice-leading procedures to embellish very different harmonic sequences. To see how
+this works, consider Figure 8.5.5, which presents the chords in the prelude’s opening
+phrase. Here again, the music is organized in a sequence of cycles, each transforming
+one dominant seventh into another by way of a diminished seventh.20 Chopin again
+lowers third, ﬁfth, and seventh of the initial dominant seventh until he has created
+a diminished seventh on the same root; this time, however, he joins the successive
+cycles by lowering the voice that contained the ﬁfth of the original dominant seventh
+chord, so that the resulting dominant sevenths descend by ﬁfth rather than by semitone. As in the F minor Mazurka, we ﬁnd a recognizable progression when we consider only the ﬁrst chord in each cycle. But between these harmonic pillars the piece
+freely interpolates descending semitones, resulting in a liquid, Romantic texture that
+utterly disguises its sequential skeleton.21
+Figure 8.5.5
+The opening
+of Chopin’s E
+minor Prelude,
+Op. 28 No. 4.
+
+20 In making this reduction, I have eliminated the upper neighbor tones in the right hand on the fourth
+beat of each measure, as well as the En suspension in the alto voice of measure 2; otherwise, I have simply
+transcribed every vertical sonority that appears in the passage.
+21 The interpretation I present here is similar to that in Marciej Golab’s Chopins Harmonik: Chromatik in ihrer Beziehung zur Tonalität (Golab 1995). (See also Callender 2007 for some brief but suggestive
+remarks and Russ 2007 for an extensive discussion of semitonal voice leading between half-diminished and
+dominant sevenths, including references to several of the pieces discussed here.) Many published analyses interpret the E minor Prelude as a chain of parallel, ﬁrst-inversion triads in the left hand, decorated
+with suspensions (Parks 1976, Schachter 1994). Sometimes it is implied that the harmonic content of the
+opening phrase is insigniﬁcant—a long chromatic series of passing tones from the “structural” opening
+tonic chord to the “structural” dominant that closes the phrase. By contrast I interpret the piece as a fourvoice texture exemplifying one of the most basic progressions in all of tonal music—the descending-ﬁfths
+sequence, albeit freely embellished by chromatic passing tones.
+
+288
+
+history and analysis
+Figure 8.5.6 A comparison between the two “directions for improvisation.”
+
+F M i n o r M a zu r k a
+1. Begin with a dominant seventh chord.
+2. Successively lower the third, fifth, and seventh of
+the chord by semitone, in any order, eventually
+producing a diminished seventh chord.
+3. Lower the note of the diminished seventh chord
+that was the root of the initial dominant seventh,
+producing a new dominant seventh chord a
+semitone lower than the original.
+4. Repeat.
+Bonus rule: it is possible to eliminate one or more
+chords in the resulting sequence, lowering multiple
+notes by semitone at the same time.
+
+E Minor Prelude
+1. Begin with a dominant seventh chord.
+2. Successively lower the third, fifth, and seventh of
+the chord by semitone, in any order, eventually
+producing a diminished seventh chord.
+3. Lower the note of the diminished seventh chord
+a semitone below the fifth of the initial dominant
+seventh, producing a new dominant seventh chord
+a perfect fifth lower than the original.
+4. Repeat.
+Bonus rule: it is possible to eliminate one or more
+chords in the resulting sequence, lowering multiple
+notes by semitone at the same time.
+
+Figure 8.5.6 contrasts the directions for improvisation that might produce the prelude and the mazurka. The similarities are striking: in both cases, the third, ﬁfth, and
+seventh of the dominant seventh chord move down by semitone until they produce a
+diminished seventh chord. At this point, one of the notes of the diminished seventh
+moves down to produce another dominant seventh. The chief difference lies here: in
+the F minor Mazurka, Chopin always lowers the note in the voice that contained the
+root of the original dominant seventh chord, producing a semitonally descending
+sequence; in the E minor Prelude, Chopin lowers the note that is in the voice that
+contained the ﬁfth of the dominant seventh chord. This small change is enough to
+make the difference between descending semitones and descending ﬁfths.
+Of course, the diminished seventh chord is completely symmetrical, so we can
+lower any of its four notes to produce a dominant seventh. Thus, there are two other
+possibilities beyond those we have already considered: we could lower the voice that
+contained the third of the original dominant seventh, producing a sequence that
+ascends by major second; or we could lower the voice that contained the seventh of
+the dominant seventh chord, producing a sequence that descends by major third.
+The four possibilities are illustrated musically and geometrically in Figures 8.5.7 and
+8.5.8. Once we have sensitized ourselves these possibilities, we start to ﬁnd them again
+and again throughout Chopin’s music; indeed, they are a familiar “lick” to which he
+repeatedly returned. Figure 8.5.9 shows a few of the many passages in which the lick
+appears: the ﬁrst, from the A minor Mazurka, Op. 7 No. 2, combines the ascending
+second and descending semitone versions of the sequence; the second, from the Fs
+minor Mazurka, Op. 6 No. 1, largely descends by ﬁfths but ends with a descending
+semitone; the third, from the Df major nocturne, Op. 27 No. 2, again mixes descending ﬁfths and descending semitones.
+Although it is not completely obvious, the graph in Figure 8.5.8 is contained
+within a structure that we encountered in §3.11: the tesseract, or four-dimensional
+cube, lying at the center of four-note chromatic chord space (Figure 8.5.10). This
+hypercube has four horizontal layers, as indicated by the labels “1a,” “1b,” “1c,” and
+“1d,” and shares a vertex with the hypercube immediately below it, whose layers are
+
+Chromaticism
+
+289
+
+Figure 8.5.7 There are four
+fundamentally similar sequences
+that can be formed using these
+“directions for improvisation,”
+depending on which of the
+diminished seventh chord’s notes is
+lowered.
+
+labeled “2a,” “2b,” “2c,” and “2d.”
+Essentially, Chopin’s two pieces
+move down this hypercubic lattice by taking one or two steps
+at a time. The resulting progressions are constrained by
+the basic geometry of the space,
+and in particular by the fact that
+minor-third- and tritone-related
+sevenths are near each another.
+Thus Chopin’s descending semitonal motion will produce harmonic progressions that can be
+obtained by applying minor-third
+substitution to a descending semitonal sequence: this gives root
+motions by descending semitone,
+descending major third, descending ﬁfth, and ascending major
+second. (By contrast, stepwise descending motion between triads produces root progressions by descending semitone, ascending ﬁfth, or ascending minor third, as we
+saw in the previous section.22) The similarities between the Prelude and the Mazurka
+therefore testify to a more fundamental similarity between descending-semitone and
+descending-ﬁfth progressions—a relationship that lies at the root of the jazz “tritone
+substitution,” illustrated here by Figure 8.5.11 and discussed further in Chapter 10.
+
+22 The root progressions (−1, −5, and −9 semitones for triads; −1, −4, −7, and −10 semitones for seventh chords) are determined by the formula −1 (mod 12/n), where n is the size of the chord.
+
+Figure 8.5.8 A
+geometrical
+representation
+of the four
+possibilities in
+Figure 8.5.7.
+
+290
+
+history and analysis
+Figure 8.5.9 The sequence as it appears in Chopin’s A minor Mazurka (a), Fs minor
+Mazurka (b), and Df major Nocturne. In each analysis, the letters “a,” “b,” “c,” refer to levels
+on the cubic structure shown in Figure 8.5.8; the numbers refer to adjacent cubes in the
+lattice.
+
+Since there is nothing particularly radical about the idea of using descending
+voice leading to connect familiar seventh chords, we should not be too surprised
+to ﬁnd similar passages in other composers’ music as well. Figure 8.5.12a shows a
+sequence from the development of the ﬁrst movement of Mozart’s Symphony No.
+40, in which seventh chords descend by ﬁfths. The harmonies, though more conventional than Chopin’s, can be generated by a series of one- and two-step motions
+
+Chromaticism
+Figure 8.5.10 The musical
+possibilities we have been
+exploring can be represented
+using the four-dimensional
+cubic lattice at the center of
+four-note chord space. This
+lattice is another (and more
+complete) way of looking
+at the possibilities in Figure
+8.5.8.
+
+Figure 8.5.11 Chopin’s F minor Mazurka and E minor
+Prelude are related by way of a tritone substitution.
+The mazurka is based on a semitonally descending
+sequence of seventh chords (top line), while the
+prelude uses a descending-ﬁfths sequence. One can
+transform each sequence into the other by replacing
+every other chord with its tritone transposition.
+
+along the same tesseract.23 The passage in Figure 8.5.12b, from the second movement of Beethoven’s Piano Sonata in F major, Op. 54, is nicely intermediate between
+Mozart and Chopin: here the dominant seventh chords descend once by semitone
+and ﬁve times by perfect ﬁfth, returning to the initial Af7 after six complete cycles.
+(Note the alternation between mazurka-like semitones and prelude-like ﬁfths, characteristic of jazz harmonic practice and tritone substitution more generally.) And
+while Beethoven typically precedes each dominant seventh with a iiø7 chord, he also
+interposes some additional chords, including a fully diminished seventh and a French
+augmented sixth. Figure 8.5.13 collects a few related passages from early twentiethcentury American music, hinting at some of the connections between nineteenthcentury chromaticism and twentieth-century jazz.24
+23 The pianist Al Tinney, one of the pioneers of bebop, suggested that dominant seventh chords resolving to predominant sevenths was a hallmark of the bebop harmonic style (Patrick 1983). It is interesting
+to ﬁnd this bebop hallmark in Mozart!
+24 For some other related passages, consider the “Cruciﬁxus” from Bach’s B minor Mass; Mozart’s Piano
+Sonata K. 576, I, mm. 84ff and 137ff, which use the descending-ﬁfth and ascending-major-second versions
+of the pattern; the opening of the second movement of Schubert’s “Rosamunde” Quartet (D. 804, Op. 29
+No. 1, mm. 13–14); Schubert’s Quartett-Satz (D. 703, mm. 72–75), which uses a slightly disguised version
+of the ascending-major-second pattern; and Wagner’s Tristan prelude, to be discussed below.
+
+291
+
+292
+
+history and analysis
+Figure 8.5.12 Precursors to Chopin’s procedures in (a) Mozart’s Symphony No. 40,
+movement 1, start of the development section; and (b) Beethoven’s Piano Sonata Op. 54,
+movement 2, mm. 64ff.
+
+Figure 8.5.13 (a−c) In his 1898 operetta “The Serenade,” Victor Herbert uses chromatic
+voice leading to connect dominant sevenths by way of various intermediaries. The examples
+are from nos. 3a (Schuberth vocal score, p. 35), 4 (p. 46), and 5b (p. 59). (d) In “Shreveport
+Stomp,” Jelly Roll Morton uses descending stepwise voice leading to connect dominant
+sevenths.
+
+Chromaticism
+
+So did Chopin understand four-dimensional geometry? In one sense, the answer is
+clearly “no”: certainly, he lacked the mathematical concepts we have used to dissect his
+pieces, and he might have struggled to describe what he was doing in precise musictheoretical language. (Something similar could be said of Chopin’s mathematical contemporaries, as the study of higher dimensional geometry was in its infancy in the
+1830s.) But at the same time, he clearly had a sophisticated intuitive understanding of
+the musical possibilities in Figure 8.5.10, and hence had knowledge that can be usefully
+described geometrically. (He may not have conceived of these possibilities as constituting a geometry, but they in fact do so, and his knowledge of the possibilities is in some
+sense a geometrical knowledge.) I ﬁnd it marvelous to reﬂect that there was a period
+in human history in which music provided the most powerful language for expressing this kind of higher dimensional understanding: though nobody in 1840 could
+have written a treatise on four-dimensional quotient spaces, Chopin could express his
+understanding of one particular quotient space by writing beautiful Romantic piano
+music. Here there is something particularly compelling about the fact that Chopin
+recomposed the E minor Prelude at the very end of his life, as if the earlier piece did
+not say everything he had wanted to say. And in a sense, it could not, for the E minor
+Prelude displays just one of many routes through the hypercubic lattice: ultimately, the
+F minor Mazurka and E minor Prelude together demonstrate a much more profound
+understanding of musical space than does either piece on its own.
+
+8.6
+
+the tristan prelude
+
+Suppose you would like to ﬁnd efﬁcient (four-voice) voice leadings between halfdiminished and dominant seventh chords. The principle of avoiding voice crossings says that you can organize the relevant possibilities according to whether they
+move the root of the half-diminished chord to the root, third, ﬁfth, or seventh of the
+dominant seventh (§4.10). Figure 8.6.1 identiﬁes the most efﬁcient (four-voice) voice
+leading from Fø7 to each of the twelve dominant sevenths: seven of the voice leadings involve just two semitones of total motion, one involves four single-semitone
+motions, and the rest involve six total semitones. Putting these last voice leadings
+aside, we see that the remaining eight can be grouped into pairs: two move root to
+root, two move root to third, two move root to ﬁfth, and two move root to seventh. In
+each case, one voice leading in the pair involves predominantly descending motion,
+while the other involves predominantly ascending motion.
+Figure 8.6.2 shows how these eight voice leadings are located in four-dimensional
+chord space. Chords on the same vertical line participate in similar voice leadings: for
+example, E7 and F7 lie directly above each other, and the minimal voice leading from
+Fø7 to both chords moves root to root. Similarly, Df7 and D7 lie directly above each
+other and in both cases the minimal voice leading from Fø7 maps root to third.25 Note
+25 Or to put the point the other way around: the four chords E7, G7, Bf7, and Df7, all of which lie on the
+same horizontal plane on Figure 8.6.2, are most directly reached by different kinds of voice leadings: to transform Fø7 into E7, one moves root to root; to transform Fø7 into Df7, one moves root to third; and so on.
+
+293
+
+294
+
+history and analysis
+Figure 8.6.1 (a) Suppose you want to move from a Tristan chord to a dominant seventh by
+efﬁcient voice leading. Which voice leading would you choose? (b) The most efﬁcient (fourvoice) voice leadings from the Fø7 chord to each of the twelve dominant sevenths.
+
+that when moving from Fø7 to any of the lower four dominant seventh chords (E7, G7,
+Bf7, and Df7) we can pass through F diminished along the way, but when moving to
+the upper four dominant seventh chords (F7, Af7, B7, and D7) it is instead possible to
+pass through minor sevenths and French sixths. Figure 8.6.3 presents two excerpts
+from Wagner’s Tristan where these intervening sonorities appear.
+Turning now to the opera’s prelude, we are dismayed to ﬁnd that its voice leadings
+are not maximally efﬁcient. For example in Figure 8.6.4, the melody climbs yearningly
+from Gs to B, while the tenor voice swoons from B down to Gs. Were each voice to
+remain stationary, as in Figure 8.6.4b, we would have a two-semitone voice leading
+between Fø7 and E7, one that is nicely modeled by our hypercube. But Wagner deliberately rejects this option in favor of an alternative in which the voices take the long
+way to their destinations—suggesting that all our work on efﬁcient voice leadings has
+been wasted!
+Well, when confronting lemons, one should study the feasibility of lemonade.
+Suppose we hypothesize that Wagner’s voice crossings decorate a deeper structure
+in which efﬁcient voice leading is important. (This may seem like a stubborn refusal
+
+Chromaticism
+
+to face facts, but let’s see where
+it takes us.) As we look through
+the Tristan prelude, and indeed
+through the rest of the opera, we
+see that this perspective sheds
+light on a number of passages:
+for example, each of the progressions in Figure 8.6.5 can be
+represented as an extremely efﬁcient voice leading that has been
+embellished with a voice crossing.
+(Note that the crossing always
+involves three- or four-semitone
+motion in two separate voices.26)
+In other words, these examples
+suggest that Wagner’s harmonic
+choices are inﬂuenced by voiceleading relationships not directly
+manifested by the surface of his
+music. In particular, he seems to
+avoid the four most distant dominant sevenths,
+which require six-semitone voice leadings, in
+favor of those that are
+closer to the initial halfdiminished seventh.
+Thinking a little
+more about this, we
+realize that the opera’s
+omnipresent ascending
+third motive is most
+effectively realized as
+an embellishment of an
+efﬁcient “background”
+voice leading. For suppose we would like
+to ﬁnd a voice leading from Fø7 to E7 in
+which at least one voice ascends chromatically by minor third. One possibility is to
+
+26 The idea that these voice crossings are surface events is a relatively old one. For example, both William Mitchell (1973) and Robert Gauldin (1997) analyze the prelude’s opening voice leading by removing
+crossings. See also Boretz 1972.
+
+295
+Figure 8.6.2 The
+eight most
+efﬁcient voice
+leadings in
+Figure 8.6.1
+connect Fø7 to
+the eight nearest
+dominant
+sevenths in
+four-note chord
+space. The two
+voice leadings
+represented by
+the dotted lines
+both map root to
+root.
+
+Figure 8.6.3 In
+moving from
+a Tristan to
+half-diminished
+seventh, Wagner
+often passes
+through one of
+the intervening
+chords in fournote chord space.
+
+296
+Figure 8.6.4
+Unfortunately,
+the actual voice
+leadings in
+Tristan often
+have crossings.
+
+history and analysis
+
+use an interscalar transposition by
+ascending step, in which case each of
+the voices ascends (Figure 8.6.6). But
+this is somewhat unsatisfactory, both
+because it is inefﬁcient and because
+the pervasive melodic motion distracts
+from the ascending melody we would
+like to highlight. It is more sensible to
+begin with a voice leading in which
+all the voices remain roughly ﬁxed in
+register, embellishing it with a crossing
+that yields the desired ascending third
+motion. (Since we are using tertian sonorities it will typically be possible to ﬁnd such
+a crossing.) Thus we arrive at the original “Tristan” voice leading, in which two voices
+
+Figure 8.6.5 Other passages in Tristan that seem to embellish a crossing-free substrate: mm.
+10–11 (a), mm. 22–23 (b), and m. 81 (c).
+
+Figure 8.6.6 Suppose we would like to combine an Fø7–E7 progression with melody that
+ascends chromatically by minor third. One possibility is to use an interscalar transposition by
+ascending step (a), producing ascending motion in all four voices. Another possibility is to
+begin with an efﬁcient voice leading (b), which is then embellished by a voice crossing (c).
+
+Chromaticism
+
+move efﬁciently, one falls discretely by third, and the ﬁnal voice presents the ascending chromatic leitmotif. In this sense, Wagner’s voice leadings, though not themselves
+maximally efﬁcient, can be derived from more basic voice leadings that are crossing
+free.
+Figure 8.6.7 presents ﬁve voice leadings from the opening 20 measures of the
+prelude, omitting the voice crossings as just discussed. The ﬁrst two are related by
+(uniform) transposition at the minor third, and map the root of the Tristan chord
+to the root of the succeeding dominant seventh. The third and fourth map the root
+of the half-diminished to the third of the dominant seventh: the third sends Dø7 to
+B7, moving each of the four voices by semitone; the fourth sends Fsø7 to D7, holding
+three common tones ﬁxed.27 (We can also perhaps hear a ﬁfth voice leading from Fsø7
+directly to G7, treating the D in the melody as an anticipation.) These examples suggest that Tristan begins with a relatively systematic exploration of the voice leadings
+between half-diminished and dominant sevenths. In the opening measures of the
+prelude, Wagner systematically shows us what his chord can do—rather like a traveling salesman eagerly demonstrating the capabilities of his new vacuum cleaner.
+
+Figure 8.6.7 When we remove
+Wagner’s voice crossings, we
+typically end up with a highly
+efﬁcient voice leading.
+
+These opening voice leadings reappear throughout the opera, often without their
+voice crossings. In Figure 8.6.8a, the root and seventh of the B half-diminished chord
+move down by semitone, forming a Bf dominant seventh; this is the opening voice
+leading, reregistered, shorn of its crossings, and transposed by tritone. In (b), which
+occurs just prior to the preceding example, we ﬁnd the root, third, and ﬁfth of a Dø7
+chord moving up by semitone, while the seventh moves down by way of a descending scalar run; this is the third voice leading in the prelude, using the very same pitch
+classes. Finally, in (c), which occurs between the two previous examples, we see the
+prelude’s fourth voice leading, where the seventh of the half-diminished chord moves
+down by two semitones. (Note that the pitches here are those of the opera’s opening chord.) If we have sensitized ourselves to these voice-leading schemas, then the
+resemblance to the start of the prelude will be quite striking, particularly since all
+these later examples occur in short succession.
+
+27 Some of you may consider the E to be a nonharmonic tone, but I would caution against an uncritical
+use of the term. Throughout the prelude, nonharmonic tones conspire to produce a sounding half-diminished seventh chord; this conspiracy is what needs to be explained. Furthermore, later passages—such
+as the beginning of Act I, Scene IV—emphasize this particular voice leading to the point where the halfdiminished seventh seems more clearly “harmonic.”
+
+297
+
+298
+
+history and analysis
+Figure 8.6.8 The voice-leading schemas in the Prelude return many times throughout the
+opera. These three passages are taken from Act I, scene iii: (a) p. 51/98, (b) p. 49/96, (c) p. 49/95.
+(Page numbers refer to the Schirmer vocal score and Dover full score, respectively.)
+
+Note that in the beginning of the prelude it is the half-diminished chords, rather
+than the dominant sevenths, that are harmonically anomalous: we expect E7, G7,
+and B7 in an A minor context, but not Fø7, Gsø7, or Dø7. This might lead us to wonder whether these chords result from a process of “substitution,” whereby one halfdiminished seventh replaces another (cf. the major-third substitutions of §8.4). For
+example, we might propose that Wagner applies a tritone substitution to the standard
+Bø7–E7 progression, giving us the more remarkable Fø7–E7.28 The effect is to replace an
+efﬁcient but traditional voice leading with an unfamiliar but equally efﬁcient alternative. In much the same way, the progression Dø7–B7 perhaps results from a majorthird substitution whereby a Dø7 appears in place of Fsø7. (Note that the geometry of
+four-note space allows for both major-third and minor-third substitutions in this
+context: given Fsø7–B7, one can obtain an efﬁcient voice leading by replacing Fsø7 with
+either Dsø7 or Dø7.29) In fact, there are places in the opera where Wagner explicitly
+engages in this sort of substitution: for example, Figure 8.6.9 shows a pair of passages
+
+28 Hansen 1996 makes this observation.
+29 This is because the dominant seventh chords in Figure 8.6.2 lie between two different “layers” of
+half-diminished sevenths. The voice leading (Ds, Fs, A, Cs)®(Ds, Fs, A, B) involves more common tones
+while (D, F, Af, C)®(Ds, Fs, A, B) involves smaller motions in the voices. Cook (2005) calls this latter voice
+leading “extravagant,” since it moves every voice by semitone.
+
+Chromaticism
+Figure 8.6.9 “Tritone substitution” applied to Tristan chords in Wagner’s opera.
+
+from the prelude, along with variants from the end of Act I, Scene III; in the variants,
+the half-diminished seventh chords have been replaced by their tritone transpositions, exchanging a “Tristan progression” for a more prototypical iiø7–V7.
+Formally, the prelude’s opening uses an AAB schema (“bar form”), with the A
+and B sections featuring different resolutions of the Tristan chord: the progression
+Fø7®E7 (A) is transposed up by minor third to produce Afø7®G7 (A), which is then
+followed by the contrasting Dø7®B7 (B). Figure 8.6.10 shows that the same formal
+schema returns midway through the prelude, where a trio of French sixths resolve
+to dominant sevenths: the initial French sixth on Df resolves conventionally to C7;
+this passage is then transposed exactly by major second; but in the third iteration,
+the French sixth resolves to B7, a perfect ﬁfth away from the expected E7. (Although
+it is not obvious, this alternate resolution is individually T-related to the preceding
+two, with one voice moving upward by semitone, rather than the other three moving
+down.) Here again we have the AAB schema, with the two A sections related by exact
+transposition and the B section featuring an alternate resolution of the initial sonority. It is also relevant that the French sixths are minimal perturbations of the halfdiminished sevenths—a point that Wagner makes explicit at the end of the prelude,
+when he repeats the music with the half-diminished {F, A, B, D} substituting for the
+French sixth {F, A, B, Ds}.
+The climax of the prelude, shown in Figure 8.6.11, articulates a series of predominant-dominant progressions, decorated with a variety of passing chords. The liquid,
+semitonal voice leading here is strongly reminiscent of Chopin’s E minor Prelude, and
+can in fact be modeled using the very same geometry. (Figure 8.6.12 shows a passage
+from Act III, in which the relation to Chopin is even more clear.) The music reaches
+a peak in mm. 81–83 (Figure 8.6.11a, last two measures), where two different resolutions of the “Tristan” chord compete: a standard iiø7–V7 resolution suggesting Ef
+
+299
+
+300
+
+history and analysis
+Figure 8.6.10 Measures 36ff of the prelude mirror the form of the opening: an initial voice
+leading is transposed exactly, whereupon the opening chord type is resolved in a new way.
+Here the initial chord is a French augmented sixth and the third voice leading is individually
+T-related to the ﬁrst (b). Note that when this music repeats at the end of the prelude, Wagner
+uses Dn instead of Ds in the second-to-last measure of (a).
+
+j
+œ œ. bœ #œ œ
+œ . œ # œj œ
+œ
+j
+j
+œ. œ œ. œ œ j
+b œ. œ œ. œ #œ œ #œ.
+& œ œ. œ #œ œ nœ.
+#œ œ
+#œ.
+œ.
+( #) œ
+nœ.
+b œ.
+.
+œ
+œ
+œ
+#
+.
+.
+.
+.
+œ
+b
+œ
+bœ.
+œ. œ.
+œ. œ.
+œ.
+# œœœ ...
+# œœ ..
+? b œœ ..
+œœ ..
+bœ.
+& œ.
+œ.
+? b œœ ..
+
+œ.
+#œ.
+b œœ ..
+
+œ.
+bœ.
+œœ ..
+
+œ.
+
+œ.
+nœ.
+# œœ ..
+
+( #) œ .
+
+œœ ..
+
+œ.
+#œ.
+# œœ ..
+
+rearrange voices
+
+& # œœ ..
+? œœ ..
+
+œ.
+#œ.
+# œœ ..
+
+œ.
+œ.
+
+#œ.
+œ.
+œœ ..
+
+# œœ ..
+T2
+
+œ.
+œ.
+b œœ ..
+
+œ.
+bœ.
+œœ ..
+
+T1
+
+minor, and the alternative resolution from the opera’s opening.30 This explicit statement of the Tristan chord’s multivalence, at the emotional highpoint of the prelude,
+is a not-so-subtle clue that the music is in some sense “about” the various ways of
+resolving the chord. It is difﬁcult to avoid investing this moment with symbolic signiﬁcance: the competition between resolutions is a competition between functional
+orthodoxy and chromatic perversity, with the victorious Wagnerian resolution subverting musical propriety—much as Tristan and Isolde reject their social obligations
+in favor of a doomed passion.
+Figure 8.6.13 collects prominent Tristan-chord resolutions from the opera,
+removing voice crossings and transposing so that they begin on the F half-diminished
+chord. (All but two of these have appeared in previous examples; the sources for the
+newcomers are given in Figure 8.6.14.) Comparing these to Figures 8.6.1b and 8.6.2,
+we see that Wagner indeed makes use of the eight most efﬁcient Tristan resolutions—
+exploiting all of the shortest pathways between half-diminished and dominant sev-
+
+30 This procedure is reminiscent of traditional “pivot chord” modulations, in which a single chord
+(here, the “Tristan chord”) is given two different harmonic interpretations.
+
+Chromaticism
+
+301
+
+Figure 8.6.11 A reduction of two passages from the Tristan prelude, both of which move
+along the lattice at the center of four-note chord space. Labels below each chord again show
+how the music moves through the connected hypercubes. Where Chopin moves steadily
+forward, Wagner moves backward and forward in a stuttering manner.
+
+Figure 8.6.12
+A passage from
+Act III, Scene
+I, p. 233/494
+that can also
+be described
+using Chopin’s
+techniques.
+
+enth chords. To my mind, this suggests that the fundamental logic of the opera is a
+contrapuntal logic, and that Figure 8.6.2 is indeed the space through which Wagner’s
+music moves. And though time does not permit us to delve deeply into the prelude,
+even this cursory sketch shows Wagner demonstrating a sophisticated understanding
+of four-dimensional chord space: utilizing all of the most efﬁcient voice-leading possibilities from half-diminished to dominant seventh (Figure 8.6.13), substituting one
+half-diminished chord for another (Figure 8.6.9), moving between chords by way of
+their chromatic intermediaries (Figure 8.6.3), reusing the same basic contrapuntal
+schema with different sonorities (Figure 8.6.10), and even reproducing the openended quasi-sequences of Chopin’s E minor prelude. Chromaticism here starts to
+achieve an impressive degree of autonomy; loosening itself from tonal functionality,
+it becomes an independent force with its own distinctive logic.
+
+302
+
+history and analysis
+
+Figure 8.6.13
+Resolutions of
+the Tristan chord
+from throughout
+the opera.
+Compare Figure
+8.6.1b.
+
+Figure 8.6.14
+Two additional
+resolutions
+of the Tristan
+chord from later
+in the opera:
+Act II, Scene 1,
+p. 121/239 (root
+to seventh) (a),
+and Act II, Scene
+2, p. 141/287
+(root to ﬁfth) (b).
+
+(a)
+
+(b)
+
+8.7
+
+alternative approaches
+
+I have argued that nineteenth-century composers exploit chromatic voice leading
+as an alternative to traditional tonal syntax, citing a variety of musical passages as
+evidence. But readers may legitimately wonder whether my examples establish the
+broader point. After all, couldn’t it be that composers chose these chord progressions
+for other reasons, applying the efﬁcient voice leading only as an afterthought? Why,
+in other words, should we believe that voice leading helps explain or motivate the
+examples I have chosen?
+For speciﬁcity, let’s consider the F–Cs–A7 progression in Schubert’s D major
+sonata (Figure 8.4.1). Over the years, theorists have advanced a variety of purely
+harmonic explanations for progressions of this sort: Gregory Proctor, for example,
+has argued that Romantic composers often exploited “equal divisions of the octave,”
+
+Chromaticism
+
+such as F-Cs-A; David Kopp has singled out “chromatic mediant relations,” in which
+chord roots move by major or minor thirds; and Richard Cohn and Fred Lerdahl
+have argued for the importance of hexatonic scales such as E-F-Gs-A-C-Cs.31 (Still
+others, such as Suzannah Clark, emphasize common-tone retention rather than voice
+leading proper: from this point of view, it is the shared F that motivates Schubert’s
+move from F major to Cs major, and the shared Cs that links Cs major and A7.32)
+These accounts suggest that the harmonic relations among Schubert’s chords may
+be as important as their contrapuntal relations. To be sure, the passage does exhibit
+efﬁcient voice leading—but then again, so does most other tonal music. Perhaps voice
+leading is a secondary matter, subservient to deeper harmonic forces.
+I can offer three responses. First, nineteenth-century music uses an enormous
+variety of voice leadings between familiar tonal sonorities. Consider just the examples
+in this chapter: the decorated functional progressions of §8.1, Schubert and Schoenberg’s nonstandard augmented sixths, Brahms’ and Wagner’s explorations of the
+various resolutions of the Tristan chord, Chopin’s exquisite use of the hypercube at
+the center of four-note chord space, and so on. As far as I know, nobody has ever
+attempted to provide a purely harmonic explanation for these different chromatic
+techniques. (Certainly, not all of them exhibit equal division of the octave, mediant
+relationships, or the hexatonic scale.) Yet they seem to be importantly similar. Insofar
+as we want to acknowledge this similarity, we need to accept that voice leading is a
+motivating force in nineteenth-century music.
+Second, as I have stressed, there are asymmetries between chromatic routines
+involving triads and those involving seventh chords: in particular, triads very frequently move by major third, while seventh chords often move by minor third or
+tritone. Where I explain this asymmetry using the intrinsic geometry of chord space,
+the harmonic approach does not explain it at all: the assumption that composers were
+concerned with equal divisions of the octave, mediant relations, or hexatonic scales
+gives us no reason to think that triads should be any different from seventh chords.
+From the harmonic perspective, the difference remains an unexplained mystery.
+Third, voice leading can potentially explain the sorts of harmonic relationships
+identiﬁed by theorists such as Proctor, Kopp, and Cohn. Suppose, for example, we
+postulate that composers were interested in particularly efﬁcient voice leadings
+between major triads or dominant seventh chords. A concern with voice-leading efﬁciency would therefore be expected to give rise to mediant relations of the sort Kopp
+discusses: after all, geometry shows that triads are particularly close to their majorthird transpositions, while seventh chords are close to their minor-third and tritone
+transpositions. Furthermore, by repeatedly exploiting these relationships, composers
+will generate passages exhibiting Proctor’s “equal divisions.” (This is because major
+and minor thirds evenly divide the twelve-semitone octave.) Finally, as we saw in
+Chapter 4, the resulting progressions will necessarily produce subsets of hexatonic
+
+31 Proctor 1978, Kopp 2002, Cohn 1996 and Lerdahl 2001. Cohn’s views are subtle, and also emphasize
+voice leading
+32 Clark 2002.
+
+303
+
+304
+
+history and analysis
+
+and octatonic scales.33 Thus, voice leading can potentially subsume the harmonic
+explanations proposed by other theorists. From the standpoint of explanatory parsimony, then, it makes sense to focus on chromatic voice leading rather than these
+derivative phenomena.
+In saying this, I do not mean to suggest that a progression like Schubert’s
+F–Cs–A7 is entirely contrapuntal, or that Schubert was 100% unconcerned with
+harmonic relationships. As I stressed in Chapter 7, composers almost always think
+simultaneously about harmony and counterpoint, and it is quite likely that Schubert
+attached some genuinely harmonic signiﬁcance to major-third relations. (Indeed
+for a composer who thinks seriously about voice leading, the C and Af major triads
+will come to have an afﬁnity, even when they are juxtaposed in a way that hides
+their contrapuntal connections.34) No doubt there are some chromatic passages in
+nineteenth-century music that can be attributed to harmonic factors such as common-tone retention or mediant relations. Nevertheless, I think we have good general
+reasons to prioritize voice leading over harmony: absent indications to the contrary,
+it is reasonable to assume that a particular instance of efﬁcient voice leading is just
+that—an example of a near-ubiquitous procedure that provided the principal nineteenth-century alternative to conventional functional syntax. Voice leading may not
+be the last word in the analysis of nineteenth-century music, but it certainly is a very
+reasonable starting point.
+
+8.8
+
+conclusion
+
+The preceding pages should make it clear that I am not proposing a simple method
+or rule for doing musical analysis: there is no royal road to musical understanding,
+geometrical or otherwise. Instead, my claim is that appreciating the grammar of
+nineteenth-century music requires a ﬂexible grasp of the various voice-leading possibilities among familiar triads and seventh chords. Chromatic composers were for
+the most part extraordinarily intelligent people who spent their lives exploring the
+resources of the piano keyboard. As a result, they developed a deep understanding of
+the various contrapuntal routes from chord to chord.
+Generally speaking, early nineteenth-century chromaticism tends to embellish
+traditional tonal progressions. Over the following decades, chromatic procedures gain
+autonomy, to the point where they eventually compete with or even supersede traditional principles: although Chopin’s E minor Prelude may be based on a descending
+ﬁfths background, the descending semitonal chromaticism is much more salient. By
+
+33 Recall in this connection that each cube in the center of three-note chromatic space contains chords
+belonging to a single hexatonic scale, while each hypercube in the center of four-note chord space contains
+chords belonging to a single octatonic scale (§3.11). Thus we can expect these scales to arise as the mere
+byproduct of chromatic voice leading. Indeed I would suggest that in the nineteenth century this is often
+the case: deliberate compositional exploration of these scales is largely a twentieth-century phenomenon.
+34 In twentieth-century music one often ﬁnds direct juxtapositions of major-third-related triads in
+which there is no efﬁcient voice leading; this is particularly common in Prokoﬁev, for example.
+
+Chromaticism
+
+the time of Wagner’s Tristan, the chromatic and the diatonic are in extremely delicate balance, with chromaticism at times threatening to eradicate tonal functionality
+altogether. This is precisely what leads theorists to talk of late-nineteenth century
+music as having a Janus-faced quality, combining a functional “ﬁrst practice” with a
+chromatic “second practice.” (Cohn aptly draws an analogy to bilingual communities
+in which speakers switch rapidly between languages, sometimes within the span of a
+single sentence.35) Figure 8.8.1, from Strauss’ Salome, provides a sense of where this
+development would eventually lead: here, familiar tonal concepts lose their purchase,
+
+Figure 8.8.1 In Strauss’ Salome, extensive chromatic voice leading is accompanied by equally
+chromatic melodic motion, leading to a saturated pitch-class space in which all twelve notes
+are constantly in play.
+
+35 See Cohn 2007.
+
+305
+
+306
+
+history and analysis
+
+as incessant chromatic voice leading produces a highly chromatic macroharmony
+without any strong sense of tonal center.
+In older histories of twentieth-century music, this trend toward increasing chromaticism is sometimes presented as inevitable, a simple matter of musicians following the signpost of Historical Progress. And in truth, the claim of inevitability
+is not obviously wrong: for insofar as chromatic techniques are used incessantly, as
+in Salome, the result will be textures whose tonality can be quite difﬁcult to discern.
+From here it is a relatively small step to the more robustly atonal works of the second
+Viennese school. (Indeed, Chapter 5 already broached this thought, pointing out that
+chromatic tonality and free atonality often share similar statistical proﬁles, including
+similar rates of pitch-class circulation and a similar absence of centricity.) Musicians
+who recoiled from these post-Wagnerian extremes, but who did not want to write
+traditional music, would therefore need to go back to the drawing board, devising
+new approaches that could coexist more peacefully with our ﬁve basic components
+of tonality.
+

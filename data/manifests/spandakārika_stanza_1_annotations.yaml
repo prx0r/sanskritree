@@ -1,0 +1,60 @@
+passage_id: spk.001
+reading_id: spk.001.reading.dyczkowski.1992.local
+translation_id: spk.001.en.dyczkowski.1992
+prompt_version: human-seed-v1
+retrieval_results:
+  - source: local_spandakārika_appendix
+    source_page: PDF 327; printed p. 309
+    role: source_reading
+alignments:
+  - source_start: 0
+    source_end: 109
+    target_start: 0
+    target_end: 174
+    relation: many_to_many
+    confidence: 0.9
+    review_status: seed_review_required
+    evidence:
+      kind: verse_anchor
+      source_page: PDF 327; printed p. 309, Appendix 3
+      target_page: PDF 93; printed p. 74, Stanza One
+      note: Verse-level anchor only; phrase spans remain unreviewed.
+blind_candidates:
+  - profile: literal
+    text: 'We praise Śaṅkara, source of the Wheel of Powers, through whose opening and closing the cosmos dissolves and arises.'
+    senses:
+      - source_span: '0:109'
+        status: provisional
+        evidence: appendix transliteration and published translation page anchor
+    parses: []
+    ranking:
+      grammar: 0.7
+      evidence:
+        - source: local_spandakārika_appendix
+          source_page: PDF 327; printed p. 309
+        - source: dyczkowski_translation
+          source_page: PDF 93; printed p. 74
+semantic_frames:
+  - frame_id: spk.001.frame.causation
+    source_span: '0:109'
+    discourse_mode: praise
+    subject: {label: Sankara, class_name: Deity}
+    relation: CAUSATION
+    object: {label: universe_arising_and_dissolution, class_name: Process}
+    explicitness: translator_inference
+    confidence: 0.68
+    alternatives:
+      - relation: MANIFESTATION
+        object: universe_arising_and_dissolution
+        confidence: 0.41
+    review_status: seed_review_required
+  - frame_id: spk.001.frame.source
+    source_span: '0:109'
+    discourse_mode: praise
+    subject: {label: Sankara, class_name: Deity}
+    relation: POSSESSION
+    object: {label: wheel_of_energies_power, class_name: Power}
+    explicitness: translator_inference
+    confidence: 0.62
+    alternatives: []
+    review_status: seed_review_required

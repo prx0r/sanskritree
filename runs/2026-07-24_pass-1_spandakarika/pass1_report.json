@@ -1,0 +1,93 @@
+{
+  "report_id": "checkpoint1_pass1_report",
+  "timestamp": "2026-07-24T14:51:58.067476+00:00",
+  "commit": "c36c980",
+  "status": "PASS_1_FROZEN",
+  "pipeline": {
+    "version": "v0.4",
+    "verses_total": 53,
+    "verses_with_lemmas": 52,
+    "verses_zero_lemmas": 1,
+    "verses_low_coverage": 5,
+    "total_hypotheses": 486,
+    "total_unique_lemmas": 160,
+    "avg_lemmas_per_verse": 3.1,
+    "total_plan_errors": 0,
+    "semantic_root_hash": "60099533b423bd0f6981973a9ae96cd1a02ac1aaacacbe9c8917869c62c4e2b6",
+    "byte_archive_hash": "124b18599643a5c9021ee096e755b056f098a5bb71be1b841d6c6ff929eadfde"
+  },
+  "split": {
+    "development": 30,
+    "holdout": 13,
+    "challenge": 10,
+    "seed": 3203525499,
+    "created_before_reference_inspection": false
+  },
+  "references": {
+    "dyczkowski_ingested": true,
+    "dyczkowski_verses": 34,
+    "dyczkowski_copyright": "copyrighted_internal_evaluation_only",
+    "singh_ingested": false,
+    "total_dev_with_reference": 21,
+    "total_dev_without_reference": 9
+  },
+  "leakage": {
+    "overall_pass": true,
+    "checks": [
+      {
+        "status": "PASS",
+        "message": "No Spanda refs in translations"
+      },
+      {
+        "status": "WARN",
+        "message": "Dyczkowski(1)/Singh(0) in translators"
+      },
+      {
+        "status": "PASS",
+        "message": "28 total evaluations in DB"
+      },
+      {
+        "status": "PASS",
+        "message": "PYTHONPATH clear of ref paths"
+      },
+      {
+        "status": "PASS",
+        "message": "References dir empty"
+      },
+      {
+        "status": "PASS",
+        "message": "Pass 1: 53 records, ref_blind=True"
+      }
+    ],
+    "disclaimer": "Tests verify software isolation. Cannot rule out LLM pretraining exposure."
+  },
+  "blinded_evaluation": {
+    "status": "AWAITING_ADJUDICATION",
+    "dev_verses": 30,
+    "dev_with_reference": 21,
+    "method": "blind identity-blinded error-span adjudication (stage A) + philological adjudication (stage B)",
+    "taxonomy": "frozen in evaluation_protocol_v1.json"
+  },
+  "next_steps": [
+    "1. Fill remaining 19 Dyczkowski verses from Exposition chapter or other sources",
+    "2. Ingest Singh reference translation",
+    "3. Run LLM rendering (B2 system) on all 53 verses using evidence bundles \u2014 requires API key",
+    "4. Perform blind error-span adjudication on 30 dev verses (stage A: blinded, stage B: identified)",
+    "5. Classify disagreements using frozen taxonomy",
+    "6. Identify top 3 systematic error classes",
+    "7. Fix and re-run Pass 2"
+  ],
+  "files": {
+    "blind_pass_1": "proof/checkpoint1/runs/pass_1/blind_pass_1.jsonl",
+    "manifest": "proof/checkpoint1/runs/pass_1/blind_pass_1_manifest.json",
+    "environment": "proof/checkpoint1/runs/pass_1/environment_manifest.json",
+    "prompts": "proof/checkpoint1/runs/pass_1/prompts/",
+    "evaluation_protocol": "proof/checkpoint1/protocol/evaluation_protocol_v1.json",
+    "taxonomy": "proof/checkpoint1/protocol/disagreement_taxonomy_v1.json",
+    "severity": "proof/checkpoint1/protocol/severity_rules_v1.json",
+    "split": "proof/checkpoint1/split_manifest.json",
+    "references": "proof/checkpoint1/references/reference_alignment_manifest.json",
+    "leakage_audit": "proof/checkpoint1/leakage_audit.json",
+    "dev_comparison": "proof/checkpoint1/evaluation/dev_disagreements_pass_1.json"
+  }
+}

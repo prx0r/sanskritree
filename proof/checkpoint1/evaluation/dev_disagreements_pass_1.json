@@ -1,0 +1,617 @@
+{
+  "evaluation_id": "dev_disagreements_pass_1",
+  "timestamp": "2026-07-24T15:00:00Z",
+  "protocol": "evaluation_protocol_v1",
+  "total_dev": 30,
+  "with_reference": 21,
+  "disagreements": [
+    {
+      "verse_id": "spk.1.2",
+      "sequence_index": 1,
+      "split": "development",
+      "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "sanskritree": {
+        "lemmas": [
+          "anAvfta",
+          "rUpatva",
+          "anna"
+        ],
+        "frame": "Instruction",
+        "rendered_english": "Uncertain: Because its nature is unobstructed, there is no obstruction anywhere.",
+        "n_hypotheses": 9,
+        "energy": -0.35
+      },
+      "reference_dyczkowski": "THATINWHICHALLTHISCREATIONISESTABLISHEDANDFROMWHENCE [TARISESISNOWHEREOBSTRUCTEDBECAUSEITISUNCONDITIONEDBY (ITSVERY) NATURE .",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.3",
+      "sequence_index": 2,
+      "split": "development",
+      "source": "nivartate nijān naiva svabhāvādupalabdhṛtaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "ni-vft1",
+          "nija",
+          "nf",
+          "i"
+        ],
+        "frame": "Instruction",
+        "rendered_english": "The perceiver never deviates from his own nature.",
+        "n_hypotheses": 11,
+        "energy": -0.35
+      },
+      "reference_dyczkowski": "EVENWHENDIVISIONPREVAILSDUETOTHEWAKINGANDOTHERSTATES, ITEXTENDSTHROUGHTHATWHICHIS",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.4",
+      "sequence_index": 3,
+      "split": "development",
+      "source": "sukhādyavasthānusyūte vartante 'nyatra tāḥ sphuṭam",
+      "sanskritree": {
+        "lemmas": [
+          "suKA",
+          "Adi",
+          "avasTA2",
+          "anusyUta",
+          "sPuw"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Clearly, they exist elsewhere in a state permeated by happiness and so on.",
+        "n_hypotheses": 17,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "NONOTIONSSUCHAS: 'IAMHAPPY,' 'IAMMISERABLE ' OR 'IAMATTACHED' (EXISTINDEPENDENTLY). THEYALLCLEARLYRESIDEELSEWHERE, NAMELY, (INTHAT) WHICHTHREADSTHROUGH (ALL) THESTATESOFPLEASUREANDTHEREST.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.6",
+      "sequence_index": 5,
+      "split": "development",
+      "source": "sahāntareṇa cakreṇa pravṛttisthitisaṃhṛtīḥ",
+      "sanskritree": {
+        "lemmas": [
+          "saha2",
+          "Antara"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Uncertain: With the inner wheel, the creation, maintenance, and dissolution.",
+        "n_hypotheses": 12,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.7",
+      "sequence_index": 6,
+      "split": "development",
+      "source": "yataḥ svatantratā tasya sarvatreyam akṛtrimā",
+      "sanskritree": {
+        "lemmas": [
+          "yatas",
+          "svatantratA",
+          "ta",
+          "sarvatra",
+          "idam"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Since his independence is natural everywhere.",
+        "n_hypotheses": 12,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.8",
+      "sequence_index": 7,
+      "split": "development",
+      "source": "api tv ātmabalasparśāt puruṣas tatsamo bhavet",
+      "sanskritree": {
+        "lemmas": [
+          "tu",
+          "bala",
+          "sparSa",
+          "puruza"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Nevertheless, by the touch of his own power, a man can become equal to him.",
+        "n_hypotheses": 9,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "INDEEDTHEINDIVIDUALSOUL (PURUSA) DOESNOTACTIVATETHEIMPULSEOFTHEWILL (WHICHDIRECTSTHEBODY'SACTIVITY) BYHIMSELFALONE, BUTTHROUGHHISCONTACTWITH (HIS) OWN (INNER) STRENGTH (BALA) MADEINSUCHAWAYTHATHEIDENTIFIESWITHIT, (THUSACQUIRINGITSPOWER).",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.9",
+      "sequence_index": 8,
+      "split": "development",
+      "source": "yadā kṣobhaḥ pralīyeta tadā syātparamaṃ padam",
+      "sanskritree": {
+        "lemmas": [
+          "yadA",
+          "kzoBa",
+          "pra-lI",
+          "ta",
+          "syAt",
+          "pa"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "When agitation dissolves, then the supreme state is attained.",
+        "n_hypotheses": 13,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "ANINDIVIDUALWHO, (THOUGH) DESIROUSOFDOINGVARIOUSTHINGS, (BUT) INCAPABLEOFDOINGTHEMDUETOHISINNATEIMPURITY, (EXPERIENCES) THESUPREMESTATE (PARAMPADAM) WHENTHEDISRUPTION (KSOBHA) (OFHISFALSEEGO) CEASES.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.10",
+      "sequence_index": 9,
+      "split": "development",
+      "source": "yatas tadepsitaṃ sarvaṃ jānāti ca karoti ca",
+      "sanskritree": {
+        "lemmas": [
+          "yat",
+          "Ipsita",
+          "jYA1",
+          "kf1"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Because he knows and does all that is desired.",
+        "n_hypotheses": 10,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "THEN (THESOULREALIZES) THATHIS (TRUE) UNCREATEDNATURE (DHARMA) IS (UNIVERSAL) AGENCYANDPERCEIVINGSUBJECTIVITY, ANDSOHEKNOWSANDDOESWHATEVER (HE) DESIRES.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.13",
+      "sequence_index": 12,
+      "split": "development",
+      "source": "na tv evaṃ smaryamāṇatvaṃ tat tattvaṃ pratipadyate",
+      "sanskritree": {
+        "lemmas": [
+          "evam",
+          "smaryamARatvam",
+          "tattva",
+          "prati-pad1"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "But the state of being remembered does not, in this manner, attain that reality.",
+        "n_hypotheses": 9,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "THEREFORECONSIDERTHATTOBEANARTIFICIALSTATESIMILARTODEEPSLEEP. THATPRINCIPLEISFOREVERPERCEIVEDANDNOTREMEMBEREDINTHISWAY.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.14",
+      "sequence_index": 13,
+      "split": "development",
+      "source": "kāryatā kṣayiṇī tatra kartṛtvaṃ punarakṣayam",
+      "sanskritree": {
+        "lemmas": [
+          "kAryatA",
+          "kzayin",
+          "ta",
+          "kartftva",
+          "punar"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Uncertain: Causality is perishable there, but agency is imperishable.",
+        "n_hypotheses": 11,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "MOREOVERTWOSTATESCALLED, THE 'AGENT' AND 'PRODUCTOFACTION' ABIDEHERE. THEPRODUCTOFACTIONISSUBJECTTODECAYWHEREASAGENCYISIMPERISHABLE.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.16",
+      "sequence_index": 15,
+      "split": "development",
+      "source": "tasya lopaḥ kadācitsyād anyasyānupalambhanāt",
+      "sanskritree": {
+        "lemmas": [
+          "lopa",
+          "kadAcit"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Its loss may sometimes occur because the other is not perceived.",
+        "n_hypotheses": 7,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "THATINNERBEINGISTHEABODEOFOMNISCIENCEANDEVERYOTHERDIVINEATTRIBUTE. ITCANNEVERCEASETOEXISTBECAUSENOTHINGELSECANBEPERCEIVED (OUTSIDEIT).",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.17",
+      "sequence_index": 16,
+      "split": "development",
+      "source": "nityaṃ syātsuprabuddhasya tadādyante parasya tu",
+      "sanskritree": {
+        "lemmas": [
+          "nitya",
+          "syAtsuprabudDasya",
+          "tadAdi",
+          "para"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Uncertain: The eternal should be for the awakened one, at the beginning and end of that, but for the Supreme.",
+        "n_hypotheses": 11,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "PERCEPTIONOFTHAT (REALITY) ISCONSTANT (ANDABIDES) UNALTEREDINALLTHREESTATES, WHEREASOTHERS (PERCEIVE) THATONLYATTHEENDOFTHEFIRST (TADADYANTE).",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.18",
+      "sequence_index": 17,
+      "split": "development",
+      "source": "padadvaye vibhurbhāti tadanyatra tu cinmayaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "pada",
+          "dvaya",
+          "tad",
+          "BA1"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "In the two feet, the Lord shines; but elsewhere, He is consciousness.",
+        "n_hypotheses": 13,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "THEOMNIPRESENTLORDAPPEARSINTWOSTATESINUNIONWITH (HIS) SUPREMEPOWERWHOSEFORMISKNOWLEDGEANDITSOBJECT. ELSEWHERE, APARTFROMTHESE (TWOSTATES, HEMANIFESTS) ASPURECONSCIOUSNESS.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.1.23",
+      "sequence_index": 22,
+      "split": "development",
+      "source": "tadavaśyaṃ kariṣye 'hamiti saṃkalpya tiṣṭhati",
+      "sanskritree": {
+        "lemmas": [
+          "avaSya",
+          "karizya",
+          "iti"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "He resolves, \"I will certainly do that,\" and remains steadfast.",
+        "n_hypotheses": 9,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.2.1",
+      "sequence_index": 25,
+      "split": "development",
+      "source": "pravartante'dhikārāya karaṇānīva dehinām",
+      "sanskritree": {
+        "lemmas": [
+          "pra-vft1",
+          "aDikAra",
+          "karaRa"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Uncertain: For the sake of qualification, the senses of embodied beings become active.",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "SEIZINGTHATSTRENGTH (BALA), MANTRAS, ENDOWEDWITHTHEPOWEROFOMNISCIENCE , PERFORMTHEIRFUNCTIONS , ASDOTHESENSESOFTHEEMBODIED.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.2.2",
+      "sequence_index": 26,
+      "split": "development",
+      "source": "sahārādhakacittena tenaite śivadharmiṇaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "sahArADakacittena",
+          "tan1",
+          "etad"
+        ],
+        "frame": "IdentityClaim",
+        "rendered_english": "These are followers of Śiva's path by that one who has the mind of a fellow worshipper.",
+        "n_hypotheses": 9,
+        "energy": -0.35
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.2.5",
+      "sequence_index": 29,
+      "split": "development",
+      "source": "sa paśyansatataṃ yukto jīvanmukto na saṃśayaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "paSyat",
+          "yukta",
+          "jIvat",
+          "mukta"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "He, always seeing and ever united, is liberated while living; there is no doubt.",
+        "n_hypotheses": 10,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "OR, CONSTANTLYATTENTIVE , ANDPERCEIVINGTHEENTIREUNIVERSEASPLAY, HEWHOHASTHISAWARENESS (SAMVITTI) ISUNDOUBTEDLYLIBERATEDINTHISVERYLIFE.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.2.7",
+      "sequence_index": 31,
+      "split": "development",
+      "source": "iyaṃ nirvāṇadīkṣā ca śivasadbhāvadāyinī",
+      "sanskritree": {
+        "lemmas": [
+          "nirvARa",
+          "dIkzA"
+        ],
+        "frame": "IdentityClaim",
+        "rendered_english": "This is the nirvāṇa initiation and the bestower of the true nature of Shiva.",
+        "n_hypotheses": 8,
+        "energy": -0.35
+      },
+      "reference_dyczkowski": "THISALONEISTHEATTAINMENTOFTHENECTAROFIMMORTALITY, THISINDEEDISTOCATCHHOLDOFONESELF, THISISTHEINITIATIONOFNIRVANAWHICHBESTOWSSIVA'STRUENATURE (SAD",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.2",
+      "sequence_index": 33,
+      "split": "development",
+      "source": "nityaṃ sphuṭataraṃ madhye sthito'vaśyaṃ prakāśayet",
+      "sanskritree": {
+        "lemmas": [
+          "sPuwa",
+          "maDya",
+          "sTita"
+        ],
+        "frame": "Instruction",
+        "rendered_english": "Always situated in the middle, one must necessarily reveal clearly.",
+        "n_hypotheses": 9,
+        "energy": -0.4
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.3",
+      "sequence_index": 34,
+      "split": "development",
+      "source": "satataṃ laukikasyeva jāgratsvapnapadadvaye",
+      "sanskritree": {
+        "lemmas": [
+          "lOkika"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Constantly, like a laukika, in the two states of waking and dreaming.",
+        "n_hypotheses": 6,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "OTHERWISE (ASHAPPENSNORMALLY), THEGENERATION (OFIMAGES) WOULDBECONTINUOUSANDINDEPENDENTTHROUGHOUTTHEWAKINGANDDREAMINGSTATESINACCORDWITHTHEIRCHARACTER, ASHAPPENSTOTHE",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.4",
+      "sequence_index": 35,
+      "split": "development",
+      "source": "bhūyaḥ sphuṭataro bhāti svabalodyogabhāvitaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "BUyas",
+          "bhokftf",
+          "taras"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Uncertain: It shines more clearly, being fostered by one's own strength and effort.",
+        "n_hypotheses": 9,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.6",
+      "sequence_index": 37,
+      "split": "development",
+      "source": "ācchādayedbubhukṣāṃ ca tathā yo 'tibubhukṣitaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "A-Cad1",
+          "buBukzA"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "He who is very hungry should conceal his hunger.",
+        "n_hypotheses": 7,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.7",
+      "sequence_index": 38,
+      "split": "development",
+      "source": "tathā svātmanyadhiṣṭhānāt sarvatraivaṃ bhaviṣyati",
+      "sanskritree": {
+        "lemmas": [
+          "aDizWAna"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Thus from the foundation of the self, everywhere it will be so.",
+        "n_hypotheses": 6,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.8",
+      "sequence_index": 39,
+      "split": "development",
+      "source": "tadunmeṣaviluptaṃ cet kutaḥ sā syādahetukā",
+      "sanskritree": {
+        "lemmas": [
+          "unmeza",
+          "ced",
+          "kutas"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "If that glance is lost, how could she be without cause?",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "LASSITUDERAVAGESTHEBODY, ANDTHISARISESFROMIGNORANCE. BUTIFITISELIMINATEDBYANEXPANSIONOFCONSCIOUSNESS (UNMESA), HOWCAN (IGNORANCE), DEPRIVEDOFITSCAUSE, CONTINUETOEXIST?",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.11",
+      "sequence_index": 42,
+      "split": "development",
+      "source": "tadā kiṃ bahunoktena svayam evāvabhotsyate",
+      "sanskritree": {
+        "lemmas": [
+          "kim",
+          "bahu",
+          "sva"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Then, what is the use of speaking much? It will be understood by itself.",
+        "n_hypotheses": 9,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "WHEN ( THEYOGI'SCONSCIOUSNESS) PERVADESALLTHINGSBY (HIS) DESIRETOPERCEIVE, THENWHYSPEAKMUCH ? - HEWILLEXPERIENCEITFORHIMSELF .",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.13",
+      "sequence_index": 44,
+      "split": "development",
+      "source": "kalāviluptavibhavo gataḥ sansa paśuḥ smṛtaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "kalA",
+          "san",
+          "gata"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "He who has lost his wealth through arts, when dead, is considered a beast.",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "HEWHOISDEPRIVEDOFHISPOWERBYTHEFORCESOFOBSCURATION (KALA) ANDISAVICTIMOFTHEPOWERSARISINGFROMTHEMASSOFSOUNDS (SABDARASI), ISCALLEDTHEFETTERED (PASU).",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.15",
+      "sequence_index": 46,
+      "split": "development",
+      "source": "yataḥ śabdānuvedhena na vinā pratyayodbhavaḥ",
+      "sanskritree": {
+        "lemmas": [
+          "Sap1",
+          "dAnu",
+          "veDa"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "The arising of faith is not without the revelation of words.",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "MOREOVERHISPOWERS (OFSPEECH) AREALWAYSREADYTOOBSCUREHISNATUREASNOMENTALREPRESENTATIONCANARISEUNPENETRATEDBYSPEECH.",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.16",
+      "sequence_index": 47,
+      "split": "development",
+      "source": "bandhayitrī svamārgasthā jñātā siddhyupapādikā",
+      "sanskritree": {
+        "lemmas": [
+          "banDayitrI",
+          "jYA"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Bandhayitri (She who binds), Svamargastha (She who stands on her own path / the Self-directed one), Jnata (the Known One / She who knows), Siddhyupapadika (She who bestows spiritual perfection / accomplishments).",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "THIS, SIVA'SPOWEROFACTION, RESIDINGINTHEFETTEREDSOUL, BINDSIT, (HUT) WHEN (ITSTRUENATURE) ISUNDERSTOODANDITISSETONITSOWNPATH, (THISPOWER) BESTOWSTHEFRUITSOFYOGA (S1DDHI).",
+      "reference_available": true,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.3.17",
+      "sequence_index": 48,
+      "split": "development",
+      "source": "puryaṣṭakena saṃruddhas tadutthaṃ pratyayodbhavam",
+      "sanskritree": {
+        "lemmas": [
+          "pura",
+          "azwaka",
+          "sam-rudDa"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "Devotional Act",
+        "n_hypotheses": 8,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": null,
+      "reference_available": false,
+      "disagreements": []
+    },
+    {
+      "verse_id": "spk.4.1",
+      "sequence_index": 51,
+      "split": "development",
+      "source": "vande vicitrārthapadāṃ citrāṃ tāṃ gurubhāratīm",
+      "sanskritree": {
+        "lemmas": [
+          "van",
+          "vicitra",
+          "ArTa",
+          "citra"
+        ],
+        "frame": "DevotionalAct",
+        "rendered_english": "I worship that wonderful speech of the guru, which has varied meanings and words.",
+        "n_hypotheses": 12,
+        "energy": 0.0
+      },
+      "reference_dyczkowski": "IREVERETHEWONDERFULSPEECHOFTHEMASTER, WHOSEWORDSANDTHEIRMEANINGAREMARVELOUS; ITISTHEBOATTHATCARRIESONEACROSSTHEFATHOMLESSOCF.ANOFDOUBT.",
+      "reference_available": true,
+      "disagreements": []
+    }
+  ]
+}

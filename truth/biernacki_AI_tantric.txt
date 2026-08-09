@@ -1,0 +1,715 @@
+PART III
+
+Ritual and Performance
+
+17
+TANTRIC BODIES, AI
+IMMORTALITY, AND A
+YOGURT MODEL OF SELF
+Loriliai Biernacki
+
+1 Introduction
+“Did humans acquire microbes to enable them to build a better human, or did microbes design
+a better human as a new and improved vessel for their subsequent generations?” biologist Rodney Dietart asks us, pushing us to reassess our relation to these distant others, the microbes all
+around us.1 What I propose for this chapter is borrowing from current biology to oﬀer other
+metaphors for thinking about what it means to be a self-incarnated in a body. How might we
+rethink the idea of a soul, particularly a religious conception of a soul that detaches from the
+body at death? Or for that matter, its secular equivalent, in the vein of Google tech entrepeneurs
+like Ray Kurzweil hoping for a robot immortality with the idea of an encodable self, its memories and desires, as so many bits of information that might be detached from the physical body
+and transferred into a durable metallic body? I suggest here instead a microbiological metaphor
+for thinking about incarnation and the body, what I will call here a fermentation model for self.
+In what follows, I ﬁrst address what I mean by the biology of bodies as fermentation and how
+this model of bodies shines a spotlight on the paucity of our current unreﬂexive thinking about
+the body in relation to spirit, or consciousness, or a soul, on the one hand and, on the other,
+how it neglects the complexity of life and other biological beings that make up what we think
+of as our bodies. Following this, I unpack the concept of incarnation, how we might think of
+it as a process of fermentation rather than in terms of our usual binary of body and soul or,
+for our secular twenty-ﬁrst century, the binary of body and self-as-information, and why this
+microbiological metaphor helps us construct a sense of unity of self in the midst of the biological multiplicity that makes us up. After this, I suggest that we can get at what the body is, what
+incarnation is, by looking at images from Tantra, at the slippery boundaries where a person
+leaves the body, disincarnates, particularly while still alive. That is, what happens to incarnation at the borders of embodiment? I will give two examples that reveal a sense of the slippage
+between the body and the subtle body that can move between bodies in the case of yogis who
+leave their meditating bodies to inhabit other bodies.2 Finally, to conclude, I will return to a
+current idea of the body as a simple binary via Ray Kurzweil’s idea of downloading consciousness into the body to explore what the metaphor of selfhood as fermentation might mean if
+extended into a metallic body.
+
+DOI: 10.4324/9781003058502-21
+
+245
+
+Loriliai Biernacki
+
+Especially, I want to bring this biological model to bear on Indian, particularly medieval,
+Tantric ideas of the body, since what Tantric models share with current biology is an alreadygiven appreciation of the body as the site of a multiplicity of agencies.3 Where current biology
+maps this as the multitude of other species sharing the in- and outside of our ﬂesh in the midst
+of a complex endocrine system and genetic proclivities, Indian Tantric models understand this
+as a web of deities with diﬀerent volitional proclivities mapped onto a subtle body directing and
+inhabiting the physical body. Indeed, in this Indian Tantric context (contrasting, for instance,
+other Indian models of a soul in a body4), it is not so much an idea of an immaterial transcendent soul inhabiting the physical body as it is a notion of another body, the subtle body (sūkṣma
+śarīra, puryāṣtaka, liṅga śarīra, ātivāhikaśarīra), inhabiting the physical body. So instead of a binary
+of an immaterial soul and material body, we have rather a body within the body. In lieu of some
+pristine, immaterial soul, we ﬁnd just bodies, more or less subtle, more or less grossly physical. Abhinavagupta’s eleventh-century Tantric panentheism nicely encapsulates this erasure of
+oppositional categories, as he folds a conception of consciousness with its intelligence intimately
+within bodies, not separate from bodies, telling us that “consciousness alone is the highest ultimate body (vapuḥ) of all entities.”5 Consciousness itself, in its purest expression, is also simply a
+body. In his formulation, he abandons his own Indian legacy of dualism derived from Sāṃkhya
+cosmology, with its matter–consciousness split, a dualism akin to our familiar Cartesian body–
+mind duality. Instead, what characterizes the soul, consciousness (cid), is itself a body.
+Now let us explore the fermentation of bodies.
+
+2 The Great Plate Count Anomaly
+In 1985, two microbiologists, James Staley and Allan Konopka, ﬁnally gave a name to an utterly
+baﬄing phenomenon: if we take the wondrous diversity of microbial species from the human
+gut into the lab, they dwindle and die, to the astounding tune of almost 150 times fewer species.
+This, “The Great Plate Count Anomaly,”6 the disappearance of species, has puzzled microbiologists since 1898, when an Austrian, Heinrich Winterberg, noticed that the number of microbial
+cells in his samples did not match the number of colonies he attempted to culture.7 Somehow,
+the fermentation that happens in a live body, the explosion of species in the barely charted
+and vast world of microbiota ﬁlling out the spaces of our human bodies, cannot thrive in the
+sterile lab. Similar, perhaps, to loss of the mystical, to the loss of the uncanny synchronicities
+of the paranormal which thrive in the wild, like Michael Shermer’s remarkable battery-dead
+radio that suddenly comes to life to play the favorite song of his soon-to-be-wife’s beloved dead
+grandfather8 – uncanny happenings in the wild which, at best, barely limp along in the lab.9
+The wildness of life tends to elude the replication expected of experiment. In part, of course,
+this happens because life in the lab leaves out too much. For the microbiome, the body we
+experience as our own comprises an interconnected complexity hosting a multitude beyond
+our familiar sense of “I.” Indeed, as microbiologists tell us, 99% of the genetic information in
+the space of my human body is not from my genome at all but rather part of a vast interconnection of diﬀerent species.10 As David Relman puts it, our “microbial inhabitants outnumber
+our body’s own cells by about ten to one,”11 and similarly, Rodney Dietart points out that we
+are “a conglomerate of thousands of diﬀerent species,” “never alone even in our own bodies.”12
+What does it mean, then, to incarnate in a human body when the human body is itself
+the space of so many others, none ever alone? Our familiar Cartesian heritage constructs a
+ﬂat, untenable binary: a lifeless, inert lump as the body which masks within it an immaterial
+soul, a spark somewhere behind the eyes, for Descartes, residing in the pineal gland. When we
+think of incarnation today in the contemporary West, this historic relic asserts itself, mostly
+246
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+
+unconsciously, mostly as a paucity of images of what the body might be and how we can understand what it is that enlivens the body, the soul we imagine that incarnates it. We get mostly just
+two models. On the one hand, we see, especially in popular media, and also in traditional religiosity, the idea of an immortal soul separate from the body, dwelling within it as the little person
+inside the head directing the machinery of our bodies. This is the essential part of the self that
+experiences the tastes of a sour apple, the vibrant green of a spring meadow, the “what it’s like”
+to be a person, or a bat,13 and bears the burden of choices we make for good or evil, the one
+responsible in a legal and spiritual sense. On the other hand, we ﬁnd a scientiﬁc reductionism
+with a knee-jerk reaction to this Cartesian homunculus. It is roundly criticized by contemporary neuroscientists, like Damasio, for instance,14 who postulate instead biology determining our
+choices, generally driven by a neo-Darwinian selﬁsh gene dispensing with ideas of self or soul
+and their concomitant teleologies. On the extreme end of this second model, with thinkers like
+Daniel Dennett and Paul and Patricia Churchland, we get eliminative materialisms, which ﬁnd
+the concept of self itself to be vacuous, an epiphenomenon, our sense of consciousness and self
+only just something like a burp of the brain’s biology, that we would do best to simply ignore.
+In any case, for the West today, even with the scientiﬁc rejection of soul as an antiquated
+relic, still this regnant and lingering stereotype of a self inhabiting an inert body seeps into
+our models, even into those like artiﬁcial intelligence, which have seemingly banished it. For
+instance, Google engineer Ray Kurzweil has famously predicted the possibility of downloading
+human consciousness into machines, recently with a target date of 2045.15 Yet his The Singularity Is Near: When Humans Transcend Biology implicitly assumes this same sort of binary of body
+and essence. Here, no longer a spiritual essence, the soul, but instead “information,” a complex
+binary bit-encoding of human intelligence and memory enhanced by an accelerating, hopeful
+technology deﬁnes our essence – wrapped in inert matter as the metal, silicon, and wiring making up the body inhabited by the download.
+The complexity of the body as we know it, including the microbial entanglement of all matter, disappears, pretty much dwindles and dies, in this fantastic future. As Ed Yong tells us, each
+step we take, sipping coﬀee with a friend, leaves us awash in a sea of multiple species sharing our
+body’s spaces.16 Not in Kurzweil’s futurist vision. If, as new, cutting-edge science on the body
+is just beginning to appreciate, so much of our awareness is multiply engendered by a biology
+of other species sharing our spaces, then even the intelligence Kurzweil hopes to download
+depends deeply, precisely, on this complexity of so many other beings, the microbial multitudes
+entangled within us, around us. What this new scientiﬁc awareness points to is this: so much
+more profoundly than we ever realized, the conglomerate of thousands of species in our ﬂeshy
+gut drives our desires, our intelligence, our moods, our sense of self.17 Whether we are happy or
+depressed can be traced to whether we share our space with Faecalibacterium and Coprococcus bacteria and Dialister, regardless of any antidepressants we might be taking.18 Who we are emotionally, psychologically, intellectually depends profoundly on those other species, inhabitants of our
+second brain in the gut.19 In either case, neither the legacy of a soul that dogs us nor its replacement with the idea of “information” oﬀers us much space to acknowledge the complexity of
+living, incarnating in the human body. The body, with its web of conﬂicting aﬀective physical
+needs complexly interacting, at times with contradictory pushes and pulls, with the multiplicity
+of species, both within and outside its visible boundaries, and these within the chemical sea of
+a complex endocrinology, the body eludes an easy binary. Nor does this dominant bare binary
+of soul and body or its informational stand-in help us make sense of the body’s widely reported,
+if uncanny, capacities to project a sense of its vitality outside its proper ﬂeshy boundaries. This
+latter capacity, where a sense of self habitually tied to the body is projected outside the body’s
+physical limits, hints at the phenomenological scaﬀolding for the idea of a soul separate from
+247
+
+Loriliai Biernacki
+
+the body. As such, the idea that some awareness, some consciousness connected to the body,
+tethered to the body as its home, can also at times leave the body forms the stuﬀ of a wideranging, cross-cultural phenomenon embedded across much mystical and religious experience,
+apart from any particular religious tradition’s doctrinal revelations and phenomenologically and
+may be where we get the idea of a soul in the ﬁrst place.
+
+3 Fermentation: Milk into Curds
+If we take seriously the biology of our bodies, the multiplicity of species intimately connected
+to and generative of the production of a self, of our emotions, our memories, then our old
+familiar Cartesian binary of mind and matter seems to miss the mark. It neglects the inescapable entanglement that is the body’s participation in a sense of self. Of course, probably the
+most glaring problem with the mind–body binary is that we have no way to connect mind to
+body.20 This problem is fundamentally imbricated in our current cosmology, both ontologically,
+in what we can speak of, in what we allow as categories of existence, no doubt governed by
+politics as much as metaphysics, and epistemologically, in the way we do science, the way we
+establish what we deem accurate views of reality. Moreover, how we think of this, even the
+language of incarnation, the language of a mind that might be somehow ontologically separate
+from the body, points to the conceptual structures that limit what we can imagine.
+Of course, a burning question arises: if we are a multiplicity, how do we explain the sense
+of ourselves as uniﬁed, that I think of myself as a singular entity? This idea of a singular self is
+what is typically invoked in talk of a “soul.” Why do we keep a sense of a unitary self rather
+than the multiple orientation of the many agencies driving us? That is, why do we not all feel
+plagued by a constant multiple personality disorder? I suggest that a metaphor of fermentation
+may be helpful to think through multiplicity and unity. As a metaphor, fermentation invokes
+a symbiotic functioning that allows for both a recognition of a multiplicity of species as well
+as their symbiotic fusion into a coherent unity, the symbiotic “mother” touted in the popular
+drink kombucha, or the vibrant uniﬁed cultures of Lactobacilli and Biﬁdobacteria in yogurt. As a
+metaphor, it lends itself towards a reconciliation of our multiple agencies fusing cooperatively
+into some coherent identity, yogurt, kombucha. To put this another way, what if we conceptualize the unity of the self as the material cooperation of the multiplicity of contributing species
+within us? Thinking about incarnation through a metaphor of fermentation, I suggest, allows
+us to reconﬁgure incarnation in terms that can take into account the ways that a person’s state
+of consciousness itself is the product of multiple agencies within the body symbiotically interacting, sometimes in ways that produce health and sometimes in ways that do not. The body
+in this model participates in and aﬀects consciousness, in a bottom-up fashion, and vice versa,
+consciousness, the mind, interacts with and aﬀects the body, the lines between both consistently
+blurring.
+Thus, a person’s self comprises a complex web of various processes in the body, some more
+algorithmic than others, as functions of endocrine and genetic compulsions – mirrored in the
+ways that the multiple species in a human gut collaborate and compete, ferment the various
+food sources in the midst of complex endocrinology to generate our sense of well-being, or lack
+of it, in short, to make a self. Certainly, an evolutionary process, even our own mitochondria
+are witness to a relic of merging and forming something else, a more complex cell in this case.21
+Yet the process of a symbiotic interaction is not always successful. Allowing for a lack of success
+in eﬀecting a coherent sense of self is, I think, one advantage a fermentation model has over a
+simple mind–body binary.
+
+248
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+
+Where this idea of fermentation departs from the kind of model that biologist Robert Sapolsky suggests is in an acceptance of multiple levels of intentionality acting within a particular person. For Sapolsky, our biology has an overwhelming inﬂuence on us, so much so that he argues
+our concepts of justice and guilt do not quite make sense given an overriding biology. Though
+Sapolsky, in any case, unlike many of his fellow biologists, is less keen on ascribing too much
+to our genetic inheritance.22 What I mean with this metaphor, however, is a more interactive
+inﬁltration of inﬂuence on a variety of fronts, the kind of multilevel, multispecies symbiosis that
+Michael Pollan points to as he discusses cheese fermentation.23 The mental intentions and subsequent actions of humans are just as instrumentally crucial in fermenting a good stinky cheese
+as the work that biological yeasts and bacteria do. For our purposes here, I would suggest that
+a metaphor of fermentation does not just mean the body acts on its biology but that thoughts,
+even as they are inﬂuenced by a biology in the body, also in turn push back against the body’s
+biology, steering it in a particular direction. This, of course, is one of the driving desires of a
+practice of yoga and meditation in India historically, particularly of Tantra, using the mind to
+transform the body’s biology.
+Indeed, what is so interesting about a Tantric conception of subtle body is precisely its
+attempt to complicate and rework a notion of selfhood away from a simple binary of a transcendent consciousness and an insentient body towards a recognition of a multiplicity of agencies
+within the body. In the Tantric case, the body contains a multiplicity of agencies as various gods
+ﬁlling out, inhabiting the subtle body.24 The subtle body itself within Tantric practice is cultivated, like a good cheese, with an initial inoculation, the initiation, dīkṣā, that sets the aspirant
+on the path. This as formal ritual nearly always involves the physical body, and then comes the
+abhyāsa, practice, including nyāsa, where the practitioner daily mentally constructs the subtle
+body by visualizing deities in various limbs, as well as the daily mantra repetition, as the mild
+and repeated warmth that allows the culture to grow. Through this, the self, subtle and physical bodies of the practitioner, transforms, leading to enlightenment and usually a better sort of
+body.25
+Of course, we are dealing simply with metaphors mapping how we understand what it
+means to be a self. But what we gain from a fermentation model is precisely a way of understanding the multiplicity that makes up the biological body. This also aﬀords us a way of thinking about the unruly multiplicity of agencies that the Tantric subtle body, with its various gods
+in the heart, in the throat, in the navel, as well brings into the mix. So this notion of fermentation as metaphor for what it means to be in a body gestures towards our foundational multiplicity. We are always a mixture of various selves fermenting us; some pristine idea of identity is
+itself an illusion. This conception of various selves fermenting us is especially apt in the context
+of Tantric ritual, where the cultivation of a transformed self occurs through visualizing various
+deities in the body. Their agencies ferment the practitioner, both through mental visualization
+and the subtle, whispered sounds of the initiation mantra, to slowly redeﬁne the subtle body and
+physical body of the practitioner.
+I should also note that this model diﬀers from a notion of emergentism, the idea that a
+genuinely new property, a unitary self, emerges from the mix of biology. This is the approach
+that a number of neuroscientists take, Antonio Damasio again as exemplary.26 With this I would
+suggest that fermentation instead implies a symbiotic cooperation of the already-present multiplicity, at times tenuous, at times lost, as in poor health, or when some sinister mold hijacks
+the cheese culture – but not a new property that emerges somehow separate from, over, and
+above the constituent players. The self instead already is just the unitary, cooperative symbiosis
+of layers of agencies.
+
+249
+
+Loriliai Biernacki
+
+Still, we should note that not just in the West does a binary of body and spirit appear; classical Indian theology as well subscribes to an idea of the soul as separate from the body. Krishna
+in the Bhagavad Gītā tells us that the soul is an immortal entity, untouched by ﬁre or water or
+death; it discards its bodies, an old one for a new one, as we wear out old clothes, tossing them
+away for new.27 This early Sāṃkhya conception of a self or soul tied to an individual eventually
+gives way to a highly reﬁned and expansive notion of self in the later monisms. Arising out of
+the creative foment of dialogue between Advaita Vedānta with especially Buddhism, the ātman,
+self, expands from the idea of self or soul of an individual to something like a formal principle
+containing all selves.28
+In any case, Śaṅkara himself, the doyen of Advaita Vedānta, also employs a metaphor of
+fermentation. In his case, however, rather than using fermentation as a way of understanding
+how the multiplicity that makes up the body might be understood to generate a sense of self,
+he takes the reverse tack. He suggests that the process of fermentation, where milk becomes
+curds, demonstrates how the Absolute Brahman transforms from a singular unity to generate the
+multiplicity that we see in the world. This occurs in his Brahmasūtrabhāṣya, sūtra 2.1.24, where
+he discusses how the absolute brahman does not need some other material to create the world.
+Here, Bādarāyaṇa’s root verse laconically tells us, “If one says, ‘because one sees a collection,
+[Brahman] is not [the cause of the world],’ indeed, it’s not so, because it’s like milk.”29 Śaṅkara
+elaborates, telling us that just as with milk, which can transform (pariṇamate) into curds all by
+itself, without any additional thing added, so Brahman also can create the world without relying
+on something external (bāhyam sādhanaṃ).30
+The word pariṇāma that Śaṅkara uses here references an idea of transformation but, Śaṅkara
+is clear, not the idea of something like an emergentist model, which rises above and leaves
+behind the materiality that engenders it.31 Rather, the milk itself, in its own essential substance,
+simply transforms. It ferments into some new form: the same substance, taking a diﬀerent
+form. For Śaṅkara, the process of fermentation derives from a power within milk, not from the
+heat outside, but from itself. Similarly, the Absolute Brahman draws on its own diverse powers
+(vicitraśakti) to transform from a unitary substantive reality to then generate a world of multiplicity and diﬀerence. Śaṅkara’s use of milk as metaphor leaves out, of course, the multiplicity
+of species already swimming invisibly in the milk, waiting to ferment and digest it into curds,
+unseen to us with our limited eyesight. Yet this multiplicity as the Absolute Brahman’s various
+powers (vicitraśakti) also necessarily signals the diversity of agential capacities. These are the powers waiting to ferment and transform milk – or Brahman into some new form. It is these various powers (vicitraśakti) that come to play the role of the various gods within the Tantric body.
+For our purposes, I suspect it is no accident that key even for Śaṅkara’s use of the metaphor of
+fermentation is that it aﬀords a way to pass between unity and multiplicity without falling into
+a chasm of impossibly diﬀerent substances. For Śaṅkara as well, fermentation as metaphor helps
+him avoid a philosophically noxious dualism.
+
+4 The Body Snatchers
+If, as I suggest, Tantric texts preferentially favor a model akin to what I think of as a fermentation metaphor for incarnation, though mostly unarticulated, then what happens in stories of
+yogis leaving one’s proper body to inhabit someone else’s body? As we might suspect, inhabiting
+a body, one’s own or someone else’s, is about the subtle body that resides within the physical
+body. When a yogi leaves the body, he or she leaves as a subtle body. When a yogi enters another
+body, again it is the subtle body that does the entering. The idea of self plays out as a process
+of mutual interactivity between what is physical and what is subtle among the body’s various
+250
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+
+agencies. This includes the body’s senses – taste, touch, and so on – the body’s desires as well,
+and with this, the mind as particularly a component of the subtle body (sūkṣma śarīra, puryaṣṭaka,
+ātivāhikaśarīra), along with the breath, prāṇa, which is a primary element of this reﬁned subtle
+body. Even as we often see in popular texts a loose dichotomy of mind and body, still the inﬂuence of Tantra demonstrates a notion of self as fairly synonymous with the subtle body, particularly moving about and operating through the subtle body’s key component of prāṇa, or breath.
+That is, with Tantra what we see are subtle bodies inhabiting physical bodies; the binary of body
+and soul is just this subtle body and physical body, just diﬀerent sorts of bodies.
+In what follows we look at the slippery boundaries of incarnation, where a yogi, by means
+of the subtle body, enters into a diﬀerent physical body. I will give two examples that reveal a
+sense of the slippage between the subtle body and physical body. I take the ﬁrst example from
+a fourteenth-century text, the Śrīmacchaṅkaradigvijaya, a hagiography of the famous Advaita
+Vedānta philosopher Śaṅkara, whose explanation of milk fermenting into curds we saw in
+the previous section. This text purports to narrate the life of Śaṅkara, and sprinkled liberally
+throughout are didactic sections detailing Śaṅkara’s nondualist philosophy in basic terms as he
+schools the various people he encounters. The text’s author, Mādhavācārya Vidyāraṇya Swami,
+writes this hagiography a good six to seven centuries after Śaṅkara’s death, and as we might
+expect from a hagiography, miracles abound. The narrative of Śaṅkara’s life mixed in with a
+rehearsal of his philosophical metaphysics curiously leaves the text with a fascinating tension
+between a didactic iteration of Śaṅkara’s nondualist philosophy, where the self, ātman, as pure
+consciousness, is not at all tied to a body, on the one hand, and Śaṅkara’s own life story where
+his siddhis, his miraculous feats, are inextricably tied to the subtle body and his mastery of it.
+Admittedly, the work is geared less to a philosophical precision and rather more to a popular
+appreciation of a celebrated ﬁgure, which makes it quite interesting as the inherent friction
+between an Advaita Vedānta monist sense of self clashes with a story’s implicit embrace of
+Tantric understandings of a subtle body. The other example I oﬀer comes from an eleventhcentury Kashmiri text, Somadeva’s Kathāsaritsāgara, “Ocean of the Rivers of Story,” a wellknown collection of Indian stories. This second example diﬀers from Śaṅkara’s story in that
+while Śaṅkara eventually makes it back to his original body after his sojourn in King Amaruka’s
+body, Yogānanda is not so lucky and winds up stuck in the body of the dead king he inhabits.
+What one gathers from both these stories is precisely the acknowledgment of inﬂuence the
+physical body has on the subtle body within it, on the interactivity between the subtle body,
+including the person’s mind, and the physical body that the subtle body inhabits. The subtle
+body is, in fact, quite susceptible to the pulls of the physical body. The mind, even for a yogi,
+is altered depending upon the body one inhabits.32 The longer a yogi stays in someone else’s
+body, a king’s body instead of a brahmin yogi’s body, the more the yogi changes, the more the
+yogi forgets his previous identity. Moreover, one cannot attribute the change in the yogi to the
+inﬂuence from the soul of the king whose body the yogi inhabits, since in the stories we see
+next, the original kingly owners of these bodies have left, died, and moved on to presumably
+their next incarnations, heaven or hell or rebirth. These yogis hop into corpses, freshly dead,
+but still presumably vacant property. With this I mean to point out that the change the yogi
+undergoes comes directly from the body the yogi inhabits and is not the eﬀect of some other
+person, some other spirit or subtle body messing with the yogi’s mind; it is all just the inﬂuence
+of the new physical body.
+For Śaṅkara’s case, the context is his debate with the Mīmāṁsā scholar Maṇḍana Miśra’s wife,
+Bharatī. Bharatī, knowing that Śaṅkara has been an ascetic from birth, challenges Śaṅkara on the
+science of love. Śaṅkara requests a month-long reprieve from the debate and leaves to go ﬁnd a
+newly dead king, Amaruka, so he can enter the king’s dead body, in order to experience life in
+251
+
+Loriliai Biernacki
+
+Amaruka’s harem. Describing the process, the text tells us that Śaṅkara “through the strength of
+his guru yoga, enters the king’s body with his subtle body (ātivāhikaśarīra).”33 The description of
+entering the king’s dead body involves the subtle body, speciﬁcally as the breath, leading it from
+the toe up through the ﬁssure in the top of the head. Mādhava Vidyāraṇya tells us:
+That knower of yoga, beginning with the toe, leading the breath up through the
+path of the ﬁssure, and then having gone outside [his original body], slowly he enters
+through the path of the ﬁssure [at the top of the head] of the dead body, extending
+completely down to the foot.34
+So the process involves Śaṅkara exiting his own body through the top of his head by leading his
+breath as subtle body and then entering via the breath into the dead king’s body again through
+the ﬁssure at the top of the king’s head and extending down through the body into the feet.
+The process is all about the subtle body. After this, the dead king wakes up, seemingly revives
+from a near-death experience. His wives are delighted, and the ministers eventually suspect that
+this is not their old king, since this newly resuscitated king is far more virtuous after he comes
+back from the dead.35
+Given Śaṅkara’s nondualism, where the body is simply the product of Māyā, illusion, where,
+indeed, knowledge itself is the province of an all-pervasive ātman, the self that is eternal and
+pure consciousness, one wonders why Śaṅkara needs to gain the knowledge through the body
+at all. Why does he not just simply access the inﬁnite knowingness of the self, which contains all
+that is to be known, simply through a profound meditation? At least, if he chose that route, he
+would not risk the inevitable censure that arises for breaking his vow of celibacy – that is, if his
+subtle body experiences sex, how diﬀerent is that than experiencing it with the physical body?
+And on the other hand, if it is the self, the ātman, as in Śaṅkara’s nondualism, a pristine, bodiless formulation which then inhabits a body, in order to learn about sex, then clearly the ātman
+does not contain the sum of all knowledge. If it did, it would not need to inhabit a body to get
+this knowledge. The illusory, Māyā-engulfed body has something that the self, ātman, does not
+have. It has some knowledge that one can only get through a body. Here, philosophy is set aside
+for the sake of a good story. Śaṅkara’s deep knowledge of the self is of no avail. Instead, this
+Tantra-inﬂuenced popular text sets Śaṅkara on a subtle body adventure. Moreover, the image
+of incarnation we see is a model of the subtle body within the physical body. Further, there is a
+mutual interaction; the physical body inﬂuences the subtle body, and vice versa. Thus, for our
+purposes here, what is most interesting is what occurs after Śaṅkara has spent his month in the
+dead king’s body.
+When the month passes and it is time for Śaṅkara to return to his original body and the
+disciples guarding his body so that he can go back and ﬁnish the debate, he does not show up.
+What happens is that Śaṅkara transforms. After running the kingdom for a short time, he squirrels himself away in the inner compartment of the palace with the women in the harem.36 He
+gets caught up in the pleasures of the body and misses his appointment to return. He forgets.
+His newly acquired king’s body, even in the very short span of a single month, carries too much
+inﬂuence over his subtle body, over his mind, over his self, for him to not be transformed, fermented, we might say, into a very diﬀerent sort of self, no longer an ascetic yogi.
+In his case, his disciples do not know what to do when he does not show up. They decide
+they need to search out for recently dead kings who have miraculously revived and appear more
+benevolent than before death. They ﬁnd the likely prospect in the resuscitated King Amaruka
+and ﬁnagle their way into the court as musicians to try to make contact with Śaṅkara. They are
+successful, and their musical renditions of Advaita Vedānta philosophy reach through to some
+252
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+
+not-yet-transformed recollection of his former awareness as an ascetic. All’s well that ends well,
+and he returns to his original body. Of course, the court ministers and the king’s wives are probably not too happy when he handsomely rewards the musicians for their musical program and
+then promptly falls down unconscious.37
+What we can note here is just how powerfully inﬂuential the body is for Śaṅkara, who is, in
+this text, the epitome of knowers of the self, an incarnation of the great god Śiva. That someone
+of his stature of enlightenment can be swayed by the body’s proclivities, leaving him forgetfully
+sequestered with his wives, even after only a very short span of a single month, indicates that
+the body molds the person, deﬁnes the person’s self. The body is not inert; the newly inhabited body transforms the choices of the person sharing the body’s space. That is, the matter of
+the body matters. The shape of material ensconcement, the body with its own agential desires
+sculpts the person. Thus, a binary of self and body with an idea of some sort of hermetically
+sealed self, impervious to the agencies of the body, is not a part of this narrative. Instead, this
+Tantrically inspired formulation of the body gives us a subtle body within a physical body and
+a fermentation between these bodies.
+Our other example from the Kathāsaritsāgara, “Ocean of the Rivers of Story,” involves a
+yogi named Indradatta. He and his two fellow celibate students need to give a payment to their
+teacher and decide to go ask King Nanda for the payment as alms. Unfortunately, as soon as
+they arrive in Ayodhya, the king’s city, they hear that the king has died.38 Indradatta has the
+siddhi, the yogic skill, to leave his body and enter into another body, so he comes up with the
+plan to enter into the dead king’s body while his fellow student Vyāḍi guards his own body,
+and then the third fellow student, Vararuci, will petition the king, inhabited by Indradatta,
+for the money. Somadeva tells us, “[H]aving said this, Indradatta entered into the body of
+Nanda. When the king came back to life, there was great celebration in the country.”39 Here
+to describe the process of entering into the king’s body, Somadeva uses the word “samāviśat.”
+Literally translating as “completely entering into,” the root viś, with a long ā preﬁx, denotes the
+kind of possession where a spirit possesses some person.40 It typically carries at least a little hint
+of an unsavory whiﬀ of lower spirits, not gods, possessing a person, even if it is also used in
+particular rites where a person is possessed by a deity. Meanwhile, also in the eleventh century,
+also in Kashmir, this same word, the root viś, with its two preﬁxes, sam and ā, gets taken up by
+the polymath Tantric Abhinavagupta,41 who reworks its connotations to shift it more towards
+a sanitized conception of a deep meditative trance.42 Both for Abhinavagupta and for the kinds
+of unruly possession states associated with the term āveśa, the subtle body is implicated. One
+transforms the subtle body by entering into this sort of state of possession, mixing, fermenting
+the agencies of possessor and possessed.
+In any case, unfortunately for Indradatta, King Nanda’s wise minister realizes rather quickly
+that this is a yogi walk-in into the dead king’s body. He immediately sends soldiers to burn all
+comatose-like bodies, and Indradatta’s fellow student and protector Vyāḍi is helpless, unable
+to save Indradatta’s original body. When he discovers the news, Indradatta, now going by the
+name Yogananda, laments. Somadeva tells us, “Yogananda, now realizing, then said with sorrow to Vyāḍi, ‘I who am a Brahmin sage have become a low-caste śūdra. What’s the use of
+my fortune, even if it’s a lot of solid money?’”43 He loses his brahmin body, which is replaced
+by a low-caste śūdra body, and due to the inﬂuence of the body, it is all downhill after that.
+Indradatta/Yogananda starts to change. The inﬂuence of this new king’s body aﬀects his state of
+mind so that eventually he becomes caught up in the desires of his new body, full of passion and
+jealousy. Somadeva tells us, “[W]ith time, Yogananda now came under the control of desire, and
+so on. Like a kingly elephant gone mad, he paid no regard to anything whatsoever.”44 Eventually, in time, he loses entirely his former yogic disposition, becomes prone to anger, orders his
+253
+
+Loriliai Biernacki
+
+friends killed, and is ﬁnally himself killed by the minister who ﬁrst recognized his yogic body
+snatching. This tale of woe aptly depicts just how profoundly the body intervenes in one’s state
+of consciousness, and that this transformative interaction is always a moving target, a process, a
+fermentation of self through the physical body and the subtle body’s agencies.
+
+5 Becoming Metal
+If body snatching is a perilous venture, prone to a loss of one’s former self, what might it mean
+for humans of the twenty-ﬁrst and twenty-second centuries to move ourselves into metallic
+bodies, the kinds of robots Kurzweil predicts will grant us immortality? This fantastic dream of
+a seemingly incorruptible body is not really a new idea for humans. Early in the ﬁrst millennium, nearly 2,000 years ago, Jain Digambaras, the “sky-clad” naked ascetics of early India, also
+espoused this ideal. The enlightened Jain ascetic, the tīrthaṅkara, through dint of intense asceticism, could also acquire a diamond-hard body, impervious to the world, impenetrable. He did
+not need to eat or drink or defecate. Nor did he even speak, for that matter; instead, his body
+just emitted a hum that his close followers interpreted for those who came to see him.
+Yet if, as current biology tells us, so much of who we are as bodies is shaped and determined
+on physical and mental levels by that multitude of others, the microbial community with whom
+we share our space, then what becomes of them and us if the terrain of the body transforms into
+Kurzweil’s durable metal and nanobots? That is, if the body, what the body is made of, matters – as microbiologists discovered with the Great Plate Count Anomaly, when vast numbers
+of species simply died when cultures were moved from living bodies to the metal and glass of
+the lab – how will these species fare with Kurzweil’s transistor-fabricated bodies? And just as
+Śaṅkara’s sojourn in a diﬀerent sort of body changes his priorities, changes his personality, what
+if becoming metal changes the bio-structure of subjectivity?
+This is not so far-fetched. Even at this very early stage of exploring the body’s interactions,
+we already have studies that show that more metal in the body, speciﬁcally the presence of
+tungsten, lead, and thallium, lead to a higher rate of autism.45 Moreover, metals like zinc and
+tungsten aﬀect which bacteria in the microbiome ﬂourish and which do not,46 with real eﬀects
+on how people feel psychologically and physically. Even seemingly inert metals, like titanium,
+used for hip replacements due to its perceived stability, its imperviousness to breaking down
+in the body, turn out to be more reactive than we thought, with titanium leaching into the
+bloodstream, aﬀecting biological processes elsewhere in the body.47 In fact, metals incorporated
+into the body provide their own spaces for niche populations of microbes to grow, shifting the
+body’s microbial population,48 just as the stainless steel doorknobs in hospitals oﬀer a wonderful
+terrain for the growth of MRSA. The matter of the body matters. What our new, improved
+cyborg bodies are made of will certainly engender a diﬀerence in our microbial partners. As a
+result, it will likely aﬀect our emotions, our choices, our own sense of self.49 What if becoming
+metal consequently leaves us with a diﬀerent, or diminished, subjectivity?
+Even as Kurzweil, in his manifesto, The Singularity is Near, oﬀers a response to a variety
+of criticisms, for instance, criticism based on the problems with software stability, criticisms
+based on the problems arising from the wealthy monopolizing the beneﬁts of new technology,
+criticisms from a theistic perspective, and so on, still, the idea that the material of the body –
+metals and silicon and wiring – and its multiplicity of coinhabitants – ubiquitous life, bacteria,
+microbes, viruses, pervading every inch – is not at all on his radar.
+Apart from the biome, Kurzweil also dismisses the body’s own complex structures. He tells
+us that we do not need to replicate all the neuronal ﬁrings of the brain, and we do not need to
+replicate its structure.50 Most of the details in the brain, he tells us, are random, and thus we do
+254
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+
+not have to model the brain entirely; we just need to be able to transmit the relevant information, not “every ‘dimple’ on the surface of every dendrite.”51 Even if, Kurzweil acknowledges,
+the brain’s actual structure, parallel processing, and analog, with extensive nonlinear reactions, is
+quite diﬀerent from the digital computer he proposes as the locus for a download of a particular
+person’s thought and memory, still he believes that if we can achieve the same amount of computing power, roughly 1016 cps (computations per second), then the digital computer model he
+proposes will, in his estimate, be functionally equivalent. He is banking on the idea that there’s
+no real diﬀerence between nonlinear analog modes and digital computation. That is, that the
+shape of the body, its basic matter and structure, do not matter. We should be wary, though. By
+limiting what is considered relevant information, eliminating what Kurzweil believes to be the
+random, and thus seemingly useless, details,52 we may unwittingly steer into enormously limiting algorithms. I am reminded here of Joy Buolamwini’s TEDx talk on the “coded gaze,” where
+the computer’s face recognition software cannot see her Black face at all because the algorithm
+left out some seemingly useless details, leading it to only see White faces.53
+In any case Kurzweil’s twenty-ﬁrst-century rendition of the age-old desire for an impervious body, what he calls the “human body version 2.0,” will, he tells us, be more nonbiological
+than biological by the 2030s.54 Kurzweil envisions redesigning the digestive system, how we
+eat, giving us phytonutrients delivered to the body though the bloodstream by metabolic nanobots, while sensors in our bloodstream and body, using wireless communication, will provide
+dynamic information on the nutrients needed at each point in time.55 With this, humans could
+wear a special nutrient device in a belt, which could be delivered by nanobots that would enter
+our bodies through skin or body cavities. This way, we get a modiﬁed digestive tract so we can
+eat what we want but it does not get absorbed into the bloodstream, since we get nutrients
+instead from a little nutrient pack, and eating would be just for pleasure. That way, we can eat
+decadent things with no penalty. Plus, we would not have to go to the bathroom; instead, we
+could have little elimination nanobots that “act like tiny garbage compactors”56 sweeping the
+trash out. We could also have little storage tanks inside the body so we would not need to eat
+so frequently. Like his Jain counterpart of two millennia ago, he proposes a body with no need
+of eating or defecating. The possibilities are stunning. With this new nanobot system, we could
+outgrow the need for kidneys. We could even choose to have a heart or not, since we could
+just have metallic nanobot blood cells. Nanorobotic blood cells could supply their own energy,
+so no need for a heart.57 And these nanobots, unlike our current tiny multiple microbial species
+hanging out in our body spaces – these nanobots will be controlled by us. That is, unless they
+manage to start replicating out of control. One worry, he tells us, is the “gray-goo” situation.
+For nanobots to be feasible for our human needs, they will have to be self-replicating. They
+need carbon to replicate. If, perchance, the programming goes astray or some virus infects the
+program, it will be far worse than our current biological viruses hijacking the body. Kurzweil’s
+worry is that unchecked self-replicating nanobots could fairly quickly turn everything into a
+“gray-goo” eating not just our human bodies but, in their quest to self-replicate, hijacking all
+the carbon on the Earth in just a matter of a few weeks to destroy the entire Earth, leaving only
+a gray goo.58 This probably tops even Ebola.
+To bring this back to fermentation, what we learn from this is that the body itself is part
+of what makes up the consciousness of a person. What one is, one’s consciousness itself, is the
+product of multiple agencies within the body symbiotically interacting, fermenting. Kurzweil’s
+fond dream of downloading his consciousness indeﬁnitely into a computer depends precisely
+on a cosmology of a mind–body split, as if consciousness were actually something apart from
+the body and not itself intimately entwined with the body, fermented within the biological
+multiplicity that the body already is. In other words, don’t hold your breath.
+255
+
+Loriliai Biernacki
+
+Notes
+1 Rodney Dietart, Human Superorganism: How the Microbiome Is Revolutionizing the Pursuit of a Healthy Life
+(New York: Penguin Books, 2016), 29.
+2 Maybe – with this I will also talk brieﬂy about the twentieth-century Tantric scholar Gopinath Kaviraj,
+who discusses the method by which the subtle body can leave and enter physical bodies.
+3 Loriliai Biernacki, Subtle Body (New York: Routledge, n.d.).
+4 For instance, Śaṅkara’s advaita vedānta model, where the idea of the soul is spread thin to encompass
+a singular, unitary consciousness of all enlivened bodies, or the Buddhist rejection of a soul with the
+anātma doctrine, among others.
+5 Abhinavagupta, ipvv, vol. 3, p. 257: “Tad eva ca sarvabhāvānām pāramārthikam vapuḥ.” The “tad”
+here refers to the “tat” in the verse a few lines earlier on which Abhinavagupta comments, referencing “matur,” “belonging to the subject.” That is, the subject who is conscious, since as Abhinavagupta
+notes immediately in his commentary that the causality we ﬁnd in the world cannot be attributed to
+insentient objects but only to consciousness: “jaḍe pratiṣṭhitaḥ kārya kāraṇa bhāvo na upapadyate, api
+tu cidrūpa eva”
+6 J. T. Staley and A. Konopka, “Measurement of in Situ Activities of Nonphotosynthetic Microorganisms in Aquatic and Terrestrial Habitats,” Annual Review of Microbiology 39 (1985): 321–346.
+7 “Historical Background Epstein Lab,” n.d., www.northeastern.edu/epsteinlab/research-projects/
+historical-background/.
+8 Jeﬀrey Kripal, Flip: Epiphanies of Mind and the Future of Knowledge (New York: Bellevue Literary Press,
+2019), 56. (check p.#)
+9 Get from Ed Kelly a ref for this idea.
+10 Dietart, Human Superorganism, 23.
+11 David A. Relman, “Learning About Who We Are,” Nature 486 (June 13, 2012): 194. But also see Ed
+Yong’s critique of this idea in Ed Yong, I Contain Multitudes: The Microbes within Us and a Grander View
+of Life (New York: Harper Collins-Ecco, 2016), 10.
+12 Dietart, Human Superorganism, 28.
+13 The idea of a soul is frequently tied to the notion of qualia, the “what it’s like” to be something. The
+idea of qualia, not connected to the soul, ﬁnds an early seminal articulation in Thomas Nagel, “What
+Is It Like to Be a Bat?,” Philosophical Review 83, no. 4 (n.d.): 435–450.
+14 Antonio Damasio, Descartes’ Error: Emotion, Reason and the Human Brain (New York: Penguin Books,
+2005), 99, 144, 227, for instance.
+15 Ray Kurzweil, The Singularity Is Near: When Humans Transcend Biology (New York: Penguin Books,
+2006).
+16 Yong, I Contain Multitudes, 251. See also as well Darwin as well pointing to this multiplicity in Mary-Jane
+Rubenstein, Pantheologies: Gods, Worlds, Monsters (New York: Columbia University Press, 2018), 121.
+17 All apart from this is one more factor: recent research that suggests that neuronal dendrites do not operate along the model of digital bits of computers but instead along an analog, quantum model. See Jason
+J. Moore et al., “Dynamics of Cortical Dendritic Membrane Potential and Spikes in Freely Behaving
+Rats,” Science 355, no. 6331 (March 24, 2017): eaaj1497, https://doi.org/10.1126/science.aaj1497.
+18 Mireia Valles-Colomer et al., “The Neuroactive Potential of the Human Gut Microbiota in Quality of
+Life and Depression,” Nature Microbiology 4, no. 4 (April 1, 2019): 623–632, https://doi.org/10.1038/
+s41564-018-0337-x.
+19 Richard Cytowic, “The Pit In Your Stomach Is Actually Your Second Brain: Gut Feelings Inﬂuence Your Mood and Well-Being,” Psychology Today, January 17, 2017, www.psychologytoday.com/
+us/blog/the-fallible-mind/201701/the-pit-in-your-stomach-is-actually-your-second-brain.
+20 This is, of course, David Chalmers’s hard problem; see David Chalmers, The Conscious Mind: In Search
+of a Fundamental Theory (New York: Oxford University Press, 1996).
+21 M. W. Gray, G. Burger, and B. F. Lang, “The Origin and Early Evolution of Mitochondria,” Genome
+Biology, Reviews 2, no. 6 (2001): 1018, www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/.
+22 Robert Sapolsky, “Sapolsky on Free Will,” August 2018, www.youtube.com/watch?v=ihhVe8dKNSA.
+Also see Robert Sapolsky, Behave: The Biology of Humans at Our Best and Worst (New York: Penguin
+Books, 2018).
+23 Michael Pollan, Cooked: A Natural History of Transformation (New York: Thorndike Press, Gale Cengage
+Learning, 2013), 520.
+24 Biernacki, Subtle Body.
+
+256
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+25 David White talks extensively about this cultivation of the subtle body in Tantric contexts, speciﬁcally
+as a practice of alchemy, and comparing it as well to a type of fermentation in David White, Alchemical
+Bodies: Siddha Traditions in Medieval India (Chicago: University of Chicago Press, 1998), 186–188.
+26 Antonio Damasio, Self Comes to Mind: Constructing the Conscious Brain (New York: Pantheon, 2010).
+27 Get ref.
+28 See also Patrick Olivelle’s discussion of the ātman in the early upaniṣads as referencing the body and
+not some immortal part of self that continues when the body dies in Patrick Olivelle, Upaniṣads, trans.
+from the Original Sanskrit (New York: Oxford University Press, 1996), xlix, lv, 291.
+29 Brahmasūtrabhāṣya, sūtra 2.1.24: upasaṃhāradarśanān neti cen na kṣīravad dhi, taken from Bādarāyaṇa
+and Śaṅkarācārya, Brahmasūtrabhāṣya (Göttingen Register of Electronic Texts in Indian Languages,
+n.d.), http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/brssbh2u.htm. My
+translation modiﬁed from Śaṅkarācārya, Brahma Sūtra Bhāṣya, trans. Swami Gambhirananda, 9th ed.
+(Kolkata: Advaita Ashrama, 2006), 350.
+30 Brahmasūtrabhāṣya, sūtra 2.1.24 commentary: “yataḥ kṣīravaddravyasvabhāvaviśeṣādupapadyate/
+yathā hi loke kṣīraṃ jalaṃ vā svayameva dadhihimabhāvena pariṇamate 'napekṣya bāhyaṃ sādhanaṃ
+tathehāpi bhaviṣyati.” Also: “svayamapi hi kṣīraṃ yāṃ ca yāvatīṃ ca pariṇāmamātramanubhavati
+tāvatyeva tvāryate tvauṣṇyādinā dadhibhāvāya”
+31 That sort of emergentist model of self begins to look like just the type of constructed self that Buddhism critiques as illusory with its anātma, “no-self ” doctrine, and Śaṅkara is far too schooled in Buddhism – indeed, Rāmānuja calls him a prachanna bauddha, a crypto-Buddhist – for Śaṅkara to embrace
+an emergentist self that arises out of constituent parts to become something diﬀerent.
+32 This is also in line with, if not entirely explanatory for, the persistent gender sexism in much of Indian
+religion, where having a woman’s body is considered a powerful barrier to enlightenment. See, for
+example, Mādhava Vidyāraṇya, Śrimacchaṅkaradigvijayaḥ, ed. N. S. Ananthakrishna Sastri (Sringeri,
+India: Sringeri Math, 1956), https://archive.org/details/Shankara.Digvijaya.Mula.Matram. In this
+instance, 8.22–23, Śaṅkara attacks his opponent Maṇḍana Miśra for being married as this degrades him
+into being a servant to a woman rather than serving a male teacher as guru.
+33 Vidyāraṇya, Śrimacchaṅkaradigvijayaḥ, 9.104: “mahipasya varṣma guruyogabalo ^viśadātivāhikaśarīrayutaḥ.”
+The subtle body here is, literally, with “a body faster than the wind.”
+34 Ibid., 9.105: aṅguṣṭhamārabhya samīraṇaṃ nayan karandhramārgādbahiretya yogavit| karandhramārgeṇa
+śanaiḥ praviṣṭavān mṛtasya yāvaccaraṇāgramekadhīḥ||
+35 This is not to suggest that the variety of cases we see in the twentieth and twenty-ﬁrst centuries of
+NDEs leading to a transformed personality, like Anita Moorjani for instance, are instances of a yogi
+occupying an empty body.
+36 Vidyāraṇya, Śrimacchaṅkaradigvijayaḥ, 10.11–13.
+37 Mādhava Vidyāraṇya seems too squeamish to point out that Śaṅkara’s return to his original body means
+the death of the king; he hesitates to use here the word death, mṛtyu, which we saw earlier, and instead
+opts for a swoon (mūrccha), in Śrimacchaṅkaradigvijayaḥ, 10.57a.
+38 Kathāsaritsāgara, 1.4.98: sa rājā pañcatāṃ gataḥ. The text uses the euphemism “gone to ﬁveness” in
+Somadeva, Kathāsaritsāgara (Nirnaya-Sagar Press in GRETIL, 1915), http://gretil.sub.uni-goettingen.
+de/gretil/1_sanskr/5_poetry/4_narr/sokss_pu.htm.
+39 Somadeva, Kathāsaritsāgara, 1.4.101: ityuktvā nandadehāntarindradattaḥ samāviśat/pratyujjīvati bhūpe
+ca rāṣṭre tatrotsavo ‘bhavat //. The form of the verb is the imperfect past, where the long ā preﬁx
+merges with the short a added as part of the verb form.
+40 Frederick Smith, Self Possessed: Deity and Spirit Possession in South Asian Literature and Civilization (New
+York: Columbia University Press, 2006).
+41 Loriliai Biernacki, “Possession, Absorption and the Transformation of Samāveśa,” in Expanding and
+Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm
+Halbfass, ed. Karin Preisendanz, Veroﬀentlichungen Zu Den Sprachen Und Kulturen Sudasien Series
+(Wien: Osterreichische Akademie der Wissenschaften; Varanasi: Motilal Banarsidass, 2007), 491–505.
+42 See Alexis Sanderson for discussion of the “sanitation” that occurs with rituals of possession. Alexis
+Sanderson, “Śaivism and the Tantric Traditions,” in Śaivism and the Tantric Traditions, ed. Stewart
+Sutherland et al. (London: Routledge, 1988), 660–704.
+43 Somadeva, Kathāsaritsāgara, 1.4.114: yoganando 'tha vijane saśoko vyāḍimabravīt/śūdrībhūto 'smi vipro
+'pi kiṃ śriyā sthirayāpi me//
+44 Somadeva, Kathāsaritsāgara, 1.5.1b-1.5.2a: kālena yoganando 'tha kāmādivaśamāyayau // gajendra iva
+mattaśca nāpaikṣata sa kiṃcana.
+
+257
+
+Loriliai Biernacki
+45 James B. Adams et al., “Toxicological Status of Children with Autism vs. Neurotypical Children and
+the Association with Autism Severity,” Biological Trace Element Research 151, no. 2 (February 2013):
+171–180.
+46 UT Southwestern Medical Center, “Precision Editing of Gut Bacteria: Potential Way to Treat Colitis,”
+ScienceDaily, January 4, 2018, www.sciencedaily.com/releases/2018/01/180104153436.htm.
+47 Y. Nuevo-Ordóñez, M. Montes-Bayón, and E. Blanco-González et al., “Titanium Release in Serum
+of Patients with Diﬀerent Bone Fixation Implants and Its Interaction with Serum Biomolecules at
+Physiological Levels,” Analytic and Bioanalytic Chemistry 401 (November 2011): 2747, https://doi.
+org/10.1007/s00216-011-5232-8.
+48 Tim H. Jakobsen et al., “Implants Induce a New Niche for Microbiomes,” APMIS 126, no. 8 (August 1,
+2018): 685–692, https://doi.org/10.1111/apm.12862.
+49 Antonio Damasio as well points out that the mind arises from the whole organism, in its rich complexity, in Damasio, Descartes’ Error, 225.
+50 Kurzweil, The Singularity Is Near, 147.
+51 Ibid., 148.
+52 Ibid.
+53 Joy Buolamwini, “How I’m Fighting Bias in Algorithms,” TedxBeaconStreet, n.d., www.ted.com/talks/
+joy_buolamwini_how_i_m_ﬁghting_bias_in_algorithms.
+54 Kurzweil, The Singularity Is Near, 249.
+55 Ibid., 245–247. However, he projects this to happen by the 2020s, which in 2019 does not look too
+terribly likely.
+56 Ibid., 246.
+57 Ibid., 247.
+58 Ibid., 306–307.
+
+Bibliography
+Adams, James B., Tapan Audhya, McDonough-Means Sharon, Robert A. Rubin, David Quig, Elizabeth
+Geis, et al. “Toxicological Status of Children with Autism vs. Neurotypical Children and the Association with Autism Severity.” Biological Trace Element Research 151, no. 2 (February 2013): 171–180.
+Bādarāyaṇa and Śaṅkarācārya. “Brahmasūtrabhāṣya.” Göttingen Register of Electronic Texts in Indian Langu
+ages, n.d. http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/vedanta/brssbh2u.htm.
+Bennett, Jane. Powers of the Hoard: Further Notes on Material Agency. Edited by Jeﬀrey Cohen, 237–272.
+New York: Punctum Books, 2012.
+Biernacki, Loriliai. “Possession, Absorption and the Transformation of Samāveśa,” in Expanding and Merging
+Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass,
+edited by Karin Preisendanz, 491–505. Veroﬀentlichungen Zu Den Sprachen Und Kulturen Sudasien
+Series. Wien: Osterreichische Akademie der Wissenschaften; Varanasi: Motilal Banarsidass, 2007.
+———. Subtle Body. New York: Routledge, n.d.
+Buolamwini, Joy. “How I’m Fighting Bias in Algorithms.” TedxBeaconSt reet, n.d. www.ted.com/talks/
+joy_buolamwini_how_i_m_ﬁghting_bias_in_algorithms.
+Chalmers, David. The Conscious Mind: In Search of a Fundamental Theory. New York: Oxford University
+Press, 1996.
+Cytowic, Richard. “The Pit in Your Stomach Is Actually Your Second Brain: Gut Feelings Inﬂuence Your
+Mood and Well-Being.” Psychology Today, January 17, 2017. www.psychologytoday.com/us/blog/
+the-fallible-mind/201701/the-pit-in-your-stomach-is-actually-your-second-brain.
+Damasio, Antonio. Descartes’ Error: Emotion, Reason and the Human Brain. New York: Penguin Books, 2005.
+———. Self Comes to Mind: Constructing the Conscious Brain. New York: Pantheon, 2010.
+Dietart, Rodney. Human Superorganism: How the Microbiome Is Revolutionizing the Pursuit of a Healthy Life.
+New York: Penguin Books, 2016.
+Gray, M. W., G. Burger, and B. F. Lang. “The Origin and Early Evolution of Mitochondria.” Genome Biology, Reviews 2, no. 6 (20 01): 1018. www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/.
+Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham, NC: Duke University
+Press, 2016.
+“Historical Background Epstein Lab.” n.d. www.northeastern.edu/epsteinlab/research-projects/historicalbackground/.
+
+258
+
+Tantric Bodies, AI Immortality, and a Yogurt Model of Self
+Jakobsen, Tim H., Steﬀen R. Eickhardt, Alexandra G. Gheorghe, Charlotte Stenqvist, Majken Sønderholm, Camilla Stavnsberg, Peter Ø. Jensen, et al. “Implants Induce a New Niche for Microbiomes.”
+APMIS 126, no. 8 (August 1, 2018) : 685–692. https://doi.org/10.1111/apm.12862.
+Kripal, Jeﬀrey. Flip: Epiphanies of Mind and the Future of Knowledge. New York: Bellevue Literary Press,
+2019.
+Kurzweil, Ray. The Singularity Is Near: When Humans Transcend Biology. New York: Penguin Books, 2006.
+Moore, Jason J., Pascal M. Ravassard, David Ho, Lavanya Acharya, Ashley L. Kees, Cliﬀ Vuong, and
+Mayank R. Mehta. “Dynamics of Cortical Dendritic Membrane Potential and Spikes in Freely Behaving Rats.” Science 355, no. 6331 (March 24, 2017): eaaj1497. https://doi.org/10.1126/science.aaj1497.
+Nagel, Thomas. “What Is It Like to Be a Bat?” Philosophical Review 83, no. 4 (n.d.): 435–450.
+Nuevo-Ordóñez, Y., M. Montes-Bayón, and E. Blanco-González, et al. “Titanium Release in Serum
+of Patients with Diﬀerent Bone Fixation Implants and Its Interaction with Serum Biomolecules at
+Physiological Levels.” Analytic and Bioanalytic Chemistry 401 (November 20 11): 2747. https://doi.
+org/10.1007/s00216-011-5232-8.
+Olivelle, Patrick. Upaniṣads. Translated from the Original Sanskrit. New York: Oxford University Press,
+1996.
+Pollan, Michael. Cooked: A Natural History of Transformation. New York: Thorndike Press, Gale Cengage
+Learning, 2013.
+Relman, David A. “Learning About Who We Are.” Nature 486 (June 13, 2012): 194.
+Rubenstein, Mary-Jane. Pantheologies: Gods, Worlds, Monsters. New York: Columbia University Press, 2018.
+Sanderson, Alexis. “Śaivism and the Tantric Traditions.” In Śaivism and the Tantric Traditions, edited by
+Stewart Sutherland, F. Hardy, L. Houlden, and P. Clarke, 660–704. London: Routledge, 1988.
+Śaṅkarācārya. Brahma Sūtra Bhāṣya. Translated by Swami Gambhirananda, 9th ed. Kolkata: Advaita Ashrama, 2006.
+Sapolsky, Robert. Behave: The Biology of Humans at Our Best and Worst. New York: Penguin Books, 2018.
+———. “Sapolsky on Free Will.” Au gust 2018. www.youtube.com/watch?v=ihhVe8dKNSA.
+Smith, Frederick. Self Possessed: Deity and Spirit Possession in South Asian Literature and Civilization. New
+York: Columbia University Press, 2006.
+Somadeva. “Kathāsaritsāgara.” Nirnaya-Sagar Press in GRE TIL, 1915. http://gretil.sub.uni-goettingen.de/
+gretil/1_sanskr/5_poetry/4_narr/sokss_pu.htm.
+Staley, J. T., and A. Konopka. “Measurement of in Situ Activities of Nonphotosynthetic Microorganisms
+in Aquatic and Terrestrial Habitats.” Annual Review of Microbiology 39 (1985): 321–346.
+UT Southwestern Medical Center. “Precision Editing of Gut Bacteria: Potential Way to Treat Colitis.”
+ScienceDaily, Januar y 4, 2018. www.sciencedaily.com/releases/2018/01/180104153436.htm.
+Valles-Colomer, Mireia, Gwen Falony, Youssef Darzi, Ettje F. Tigchelaar, Jun Wang, Raul Y. Tito, Carmen Schiweck, et al. “The Neuroactive Potential of the Human Gut Microbiota in Quality of Life
+and Depression.” Nature Microbiology 4, no. 4 (April 1, 2019) : 623–632. https://doi.org/10.1038/
+s41564-018-0337-x.
+Vidyāraṇya, Mādhava. Śrimacchaṅkaradigvijayaḥ. Edited by N. S. Ananthakrishna Sastri. Sringeri, India:
+Sringeri M ath, 1956. https://archive.org/details/Shankara.Digvijaya.Mula.Matram.
+White, David. Alchemical Bodies: Siddha Traditions in Medieval India. Chicago: University of Chicago Press,
+1998.
+Yong, Ed. I Contain Multitudes: The Microbes Within Us and a Grander View of Life. New York: Harper
+Collins-Ecco, 2016.
+
+259
+
+

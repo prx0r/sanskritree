@@ -1,0 +1,278 @@
+# Distilled Findings — All Translations in EO-style Format
+
+## Ajadapramātṛsiddhi (Establishment of the Non-Inert Knower)
+
+claims:
+  weak: "Conscious manifestation cannot be reduced to inert presentation. Object-determination occurs within a first-personal field."
+  strong: "Therefore all cognitions belong to one universal subject (Śiva)."
+
+audit:
+  establishes: "Intrinsic reflexivity and cross-temporal synthesis require more than passive information processing."
+  missing_premise: "Reflexive manifestation cannot be numerically partitioned. That is, 'sarvārthasaṃvidām' (all cognitions) must mean all cognitions of every subject, not all cognitions within one stream. Abhinavagupta himself (Tantrāloka 16.242) limits anusandhāna to one body."
+  countermodel: "Nyāya plural selves: each stream has its own enduring subject. Shared reflexive structure does not entail numerical identity."
+
+verdict:
+  status: "weak_claim_established_strong_claim_invalid"
+  frontier: "What justifies treating shared reflexive structure as numerical identity rather than a universal property instantiated by many subjects?"
+
+---
+
+## Sambandhasiddhi (Establishment of Relation)
+
+claims:
+  weak: "Relation (sambandha) is not reducible to convention, spatial contiguity, or causal dependence. It is the unity of many within a single cognitive act (rūpasaṃśleṣa = aikātmya)."
+  strong: "Therefore all relations are modes of one universal consciousness."
+
+audit:
+  establishes: "A sophisticated theory of relation as consciousness's self-unifying activity. The knower cannot be divided within a single cognitive act (mātṛbheda argument)."
+  missing_premise: "That entities' essence IS consciousness (cinmātravapus). The text assumes this from the ĪPK framework rather than arguing it. Verse 8 presupposes the Pratyabhijñā ontology."
+  countermodel: "Vākyapadīya's meaning-unity model: holistic comprehension can explain relational unity without a metaphysical subject. Also Nyāya: inherence in a substance explains co-presence without cosmic identity."
+
+verdict:
+  status: "relation_theory_established_universalization_assumed"
+  frontier: "Does Sambandhasiddhi's theory of relation require the Pratyabhijñā ontology, or is it compatible with a process or meaning-based account?"
+
+---
+
+## Īśvarasiddhi (Establishment of Lordship)
+
+claims:
+  weak: "The world's coordinated functional organization requires an intelligent cause."
+  strong: "Therefore the Lord (Īśvara) is the inner self of all beings, identical with finite subjects."
+
+audit:
+  establishes: "At most, a Nyāya-style design inference: organized effects require an intelligent director. The text works within a dualistic framework."
+  missing_premise: "The nondual identity of finite subjects with the Lord. Verse 56 explicitly defers this: 'if that highest recognition must be established, its structure has been set out by us elsewhere.'"
+  countermodel: "Evolutionary self-organization: functional coordination arises through natural selection, not intelligent design. Also Nyāya: a single Lord who supervises but is not identical with finite selves."
+
+verdict:
+  status: "design_argument_established_nondual_identity_deferred"
+  frontier: "Does 'elsewhere' (the ĪPK) actually supply the missing nondual proof? Checkpoint 10 says no."
+
+---
+
+## Siddhitrayī overall verdict
+
+verdict:
+  status: "three_texts_translated_none_contains_missing_proof"
+  summary: |
+    The project set out to find whether Utpaladeva has a non-circular argument from
+    local reflexivity to one universal subject. All three Siddhitrayī texts have now
+    been translated. None supplies the missing premise. APS asserts universalization
+    but the quantifier scope is ambiguous. Sambandhasiddhi assumes the framework it
+    would need to prove. Īśvarasiddhi is deliberately dualistic and defers the
+    nondual claim.
+  new_question: |
+    The universalization question was the wrong framing. The real problem is:
+    what establishes the domains within which manifestation is jointly present
+    and outside which it is absent? Every theory converges on the same missing
+    object: Λ, the law of perspectival partition.
+
+---
+
+## Checkpoint 10 / graph1 reframing
+
+claims:
+  weak: "All major theories of consciousness (naturalist, Buddhist, Nyāya, Pratyabhijñā, neutral monist) can be expressed as {X → Λ → Dᵢ} where Λ is a missing partition function."
+  strong: "Therefore the partition problem is the real problem, and universalization was a special case."
+
+audit:
+  establishes: |
+    Six sub-laws: Λ_G (grounding), Λ_P (participation), Λ_B (biological),
+    Λ_Φ (phenomenal binding), Λ_T (temporal), Λ_A (appropriation).
+    13 frontier pressures (FPG-01 through FPG-13).
+    None can substitute for another. In particular, Λ_B (functional unity) ⇏ Λ_Φ (phenomenal unity).
+  missing_premises:
+    - "What determines the local mode of participation (πᵢ)?"
+    - "Is the ultimate ground itself manifest?"
+    - "What converts organizational distinction into absence from a field?"
+    - "Why should causal, informational, or semantic unity constitute phenomenal unity?"
+  countermodel: "Independent duplication: each instance of manifest capacity is independently fundamental. This explains privacy directly but must explain why many independent tokens share the same structure."
+
+verdict:
+  status: "partition_problem_is_real_problem_no_theory_solves_it"
+  frontier: "The 8 unanswered questions from graph1 §19: (1) Is M₀ real? (2) Is M₀ manifest? (3) What individuates πᵢ? (4) What selects Σᵢ as one agent? (5) What constitutes Λ_Φ? (6) What turns the field into 'mine'? (7) What does recognition reveal about M₀? (8) Why should any of this entail unrestricted freedom?"
+
+---
+
+## Proclus (Checkpoint 20)
+
+claims:
+  weak: "Shared ground does not entail numerical identity. One source, many real participants, no collapse."
+  strong: "Therefore the Pratyabhijñā claim of universal subjecthood can be weakened to universal sourcehood."
+
+audit:
+  establishes: |
+    A third architecture between 'many separate subjects' and 'one identical subject':
+    participation (Mᵢ = πᵢ(M₀)). The monad-series structure means shared character
+    does not erase token distinction. This directly repairs the type-token confusion
+    from Checkpoint 2.
+  missing_premise: |
+    What individuates πᵢ without presupposing the participant? Does participation
+    explain anything beyond redescribing the data? Also: Proclus's One is beyond
+    consciousness — so his framework cannot explain phenomenal manifestness.
+  countermodel: "Immanent organization: shared structure arises through convergent organization without a transcendent source. No participation needed."
+
+verdict:
+  status: "third_architecture_identified_not_yet_proved"
+  frontier: "Can participation specify participant individuation without circularity? And can a source beyond consciousness explain phenomenal manifestness?"
+
+---
+
+## Tantrāloka 16.242 — Exclusion
+
+passage:
+  ref: AbhT_16.242
+  text: "pradeśavṛtti ca jñānamātmanastatra tatra tat / bhogyajñānaṃ nānyadeheṣv anusandhānam arhati"
+  translation: "Knowledge that is localized and enjoyed in one body cannot perform connective synthesis (anusandhāna) with other bodies."
+
+claims:
+  weak: "Connective synthesis (the unity of cognition across moments) is restricted to one body. Knowledge in one body does not extend to another."
+  strong: "Therefore subjects are genuinely separate — the universalization from 'synthesis within one stream' to 'synthesis across all streams' is invalid within the tradition's own terms."
+
+audit:
+  establishes: "Abhinavagupta himself qualifies anusandhāna as local per body. This is a direct constraint on Utpaladeva's universalization argument in APS 17."
+  missing_premise: "If anusandhāna across bodies is impossible, then 'sarvārthasaṃvidām' (all cognitions) in APS 17 must refer to cognitions within one stream, not all cognitions of every subject. The universalization requires a different argument."
+  countermodel: "The verse could be read as describing ordinary empirical cognition (vyavahāra) rather than ultimate reality (paramārtha). The Pratyabhijñā response would be that the limitation is epistemic, not metaphysical."
+
+verdict:
+  status: "local_synthesis_confirmed_transpersonal_universalization_blocked"
+  frontier: "If Abhinavagupta himself blocks cross-body anusandhāna, what positive argument remains for transpersonal numerical identity?"
+
+---
+
+## Tantrāloka 3.276-283 — Viśvātmatā (Universal Selfhood)
+
+passage:
+  ref: AbhT_3.276-283
+  text: "vyāpi svatantraṃ sarvajñaṃ yacchivaṃ parikalpitam // viśvātmakatvaṃ cetyanyallakṣaṇaṃ kiṃ nu kathyatām // sraṣṭā viśvātmaka iti prathayā bhairavātmatā"
+
+claims:
+  weak: "Śiva is characterized as all-pervading, independent, omniscient. The creator is the universal self — this is the nature of Bhairava."
+  strong: "Therefore the individual subject is numerically identical with this universal self."
+
+audit:
+  establishes: "The tradition's characterization of ultimate reality as universal selfhood. The description is explicit."
+  missing_premise: "That descriptive characterizations of ultimate reality entail that finite subjects ARE that reality in a numerical identity sense. The text describes what Śiva IS; it does not argue that each finite subject IS Śiva in the same sense."
+  countermodel: "Participation model (Proclus/Checkpoint 20): finite subjects participate in universal selfhood without being numerically identical with it. The text is compatible with both identity and participation readings."
+
+verdict:
+  status: "universal_selfhood_textually_explicit_interpretation_underdetermined"
+  frontier: "Does 'viśvātmaka' (universal self) mean (a) the self is the universe, (b) the self of the universe, or (c) the self that is participated in by all?"
+
+---
+
+## Tantrāloka 1.80-101 — Svātantrya (Freedom)
+
+passage:
+  ref: AbhT_1.80-101
+  text: "tena svātantryaśaktyaiva yukta ityāñjaso vidhiḥ // krīḍā sarvotkarṣeṇavartanecchā tathā svatantratvam"
+
+claims:
+  weak: "Consciousness possesses intrinsic spontaneity and self-determination. Its independence is not derived from anything external."
+  strong: "Therefore consciousness can create or determine the world at will (unrestricted creative freedom)."
+
+audit:
+  establishes: "A robust concept of svātantrya as self-determination. Consciousness is not passive or inert."
+  missing_premise: "That self-determination (autonomy/spontaneity) entails world-production (unrestricted creative power). P₄+P₅ (determination + reflexivity) does not entail P₇ (ontological production)."
+  countermodel: "Enactivist/Levin: biological autonomy involves self-determination without supernatural creation. A cell maintains itself without producing the universe."
+
+verdict:
+  status: "svatantrya_as_autonomy_established_svatantrya_as_creation_unproved"
+  frontier: "What additional premise would turn self-determination into world-production? Does 'svātantrya' in the Tantrāloka mean the same thing when applied to Śiva and when applied to finite agency?"
+
+---
+
+## Vākyapadīya 1.1 — Śabdatattva as ground
+
+passage:
+  ref: BVaky_1.1
+  text: "anādinidhanam brahma śabdatattvaṃ yad akṣaram / vivartate 'rthabhāvena prakriyā jagato yataḥ"
+  translation: "Brahman, the word-principle, without beginning or end, the imperishable — from which the process of the world transforms as objects."
+
+claims:
+  weak: "Reality has a linguistic/meaning-bearing character. The structure of the world is not brute matter but articulated significance."
+  strong: "Therefore consciousness (as meaning-manifestation) is the ground of reality — supporting the Pratyabhijñā claim."
+
+audit:
+  establishes: "A powerful alternative model of unity: not a persisting subject, but unitary meaning (sphoṭa/pratibhā) grasped holistically across sequential elements."
+  missing_premise: "That meaning-unity IS phenomenal unity. A text, sentence, or mathematical structure can possess holistic organization without being experienced. Bhartṛhari's 'pratibhā' (intuitive flash) may explain how meaning is grasped, but not why the grasping is manifest."
+  countermodel: "Computational semantics: meaning can be processed without consciousness. The unity of a sentence does not entail a unified subject."
+
+verdict:
+  status: "meaning_alternative_identified_phenomenal_gap_remains"
+  frontier: "Does 'pratibhā' (Bhartṛhari's intuitive flash of comprehension) involve phenomenal manifestness intrinsically, or is it a cognitive function that could operate non-consciously?"
+
+---
+
+## Vākyapadīya 1.115 — Sphoṭa as unitary meaning-whole
+
+passage:
+  ref: BVaky_1.115
+  text: "sphotasyābhinnakālasya dhvanikālānupātinaḥ / vyaktaye svasya rūpasya śabdatvena vivartate"
+  translation: "The sphoṭa (unitary meaning-whole), which is beyond temporal sequence, manifests through sounds that follow time — to reveal its own nature."
+
+claims:
+  weak: "Meaning is not composed additively from sequential parts. Comprehension is holistic: the whole is grasped in a flash (pratibhā), not built up from parts."
+  strong: "Therefore the unity of meaning (sphoṭa) provides a model for phenomenal unity that does not require a subject-substance."
+
+audit:
+  establishes: "A non-substantial model of unity: the whole precedes and conditions its parts. Temporal sequence belongs to expression, not to meaning itself."
+  missing_premise: "That the conditions for semantic unity are the same as the conditions for phenomenal unity. Sequential phonemes becoming one meaning may be structurally analogous to separate sensations becoming one experience, but analogy is not identity."
+  countermodel: "IIT or GNWT: neural integration explains phenomenal binding without requiring a meaning-whole. Bhartṛhari's model describes comprehension, not consciousness."
+
+verdict:
+  status: "sphota_as_unity_model_interesting_phenomenal_application_unproved"
+  frontier: "Can semantic unity (sphoṭa) serve as a model for phenomenal unity, or does consciousness require a different kind of binding?"
+
+---
+
+## Spandakārikā 1 — Unmeṣa/Nimeṣa (dynamic continuity)
+
+passage:
+  ref: SpK_1 (Dyczkowski)
+  text: "WE PRAISE THAT SANKARA WHO IS THE SOURCE OF THE POWER OF THE WHEEL OF ENERGIES BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING."
+  translation: "We praise Śiva, whose expansion and contraction constitute the universe's appearance and dissolution."
+
+claims:
+  weak: "Reality is dynamic, not static. Manifestation alternates between expansion and contraction phases. Subjecthood is not a sealed container but a rhythm."
+  strong: "Therefore subjecthood is a dynamically maintained regime of opening/closing, not a persisting substance — supporting a process model over both Nyāya and simple Pratyabhijñā substantialism."
+
+audit:
+  establishes: "A non-substantialist model of unity: the subject is a metastable rhythm of integration and differentiation, not a static owner. This directly addresses Λ_T (temporal continuity) and FPG-07."
+  missing_premise: "That dynamic continuity (spanda) can serve as a law of phenomenal binding AND exclusion — not just as a description of change. The Spanda model describes the RHYTHM of manifestation but does not specify why manifestation occurs in EXCLUSIVE domains."
+  countermodel: "Krama sequence: cognitive phases (emergence → stabilization → withdrawal → transition) explain temporal structure without requiring one universal dynamism. Also Levin: bioelectric rhythms maintain cellular organization without cosmic consciousness."
+
+verdict:
+  status: "dynamic_model_identified_exclusion_not_explained"
+  frontier: "Can Spanda's expansion-contraction model be extended to explain why phenomenal domains are exclusive (not just why they change)? Or does exclusion require a different principle?"
+
+---
+
+## Candidate Λ_Φ — Feeling as pre-thought valuation
+
+passage:
+  ref: user_hypothesis
+  text: "Feeling is pre-thought reactions. Gut instinct. Subverbal processing. Useful for survival."
+
+claims:
+  weak: "Affective valuation (feeling) is phylogenetically and ontogenetically prior to conceptual thought. Organisms evaluate their states before representing them."
+  strong: "Therefore phenomenal manifestness IS affective valuation — a state is manifest because it matters. Λ_Φ = the organism's valenced concern."
+
+audit:
+  establishes: |
+    A plausible bridge between the Ñāṇananda sequence (nimitta → vedanā → valuation → appropriation → self)
+    and the enactive/interoceptive models (Seth, Damasio, Levin).
+    Feeling as primitive valuation predates cognition — it's what makes a state relevant to an organism.
+  missing_premise: |
+    That valuation (mattering) entails manifestness (phenomenality). A state can matter to a system
+    without being experienced — a thermostat's reading matters for its function, but is not felt.
+    The missing premise is "why does valenced processing light up as feeling rather than just execute?"
+  countermodel: |
+    Damasio's homeostasis without consciousness: a simple organism maintains viability through
+    valenced responses (approach/avoid) without any phenomenal glow. Feeling-as-valuation explains
+    behavior but not phenomenality. The gap persists.
+
+verdict:
+  status: "valuation_explains_function_not_manifestness"
+  frontier: "What converts valenced processing into felt experience? Or is the intuition that there IS a gap ('why does it light up?') itself the mistake — is feeling just what we call valenced processing from the inside?"

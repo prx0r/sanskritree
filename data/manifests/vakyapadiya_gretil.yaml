@@ -1,0 +1,3378 @@
+edition:
+  editor: Yves Ramseier
+  id: vakyapadiya.gretil
+  licence: CC-BY-SA
+  publication: GRETIL
+passages:
+- chapter: '1'
+  id: vp.1.1
+  sanskrit: vivartate 'rthabhāvena prakriyā jagato yataḥ
+  type: karika
+  verse: '1'
+- chapter: '1'
+  id: vp.1.2
+  sanskrit: apṛthaktve 'pi śaktibhyaḥ pṛthaktveneva vartate
+  type: karika
+  verse: '2'
+- chapter: '1'
+  id: vp.1.3
+  sanskrit: janmādayo vikārāḥ ṣaḍ bhāvabhedasya yonayaḥ
+  type: karika
+  verse: '3'
+- chapter: '1'
+  id: vp.1.4
+  sanskrit: bhoktṛbhoktavyarūpeṇa bhogarūpeṇa ca sthitiḥ
+  type: karika
+  verse: '4'
+- chapter: '1'
+  id: vp.1.5
+  sanskrit: eko 'py anekavartmeva samāmnātaḥ pṛthak pṛthak
+  type: karika
+  verse: '5'
+- chapter: '1'
+  id: vp.1.6
+  sanskrit: śabdānāṃ yataśaktitvaṃ tasya śākhāsu dṛṣyate
+  type: karika
+  verse: '6'
+- chapter: '1'
+  id: vp.1.7
+  sanskrit: tam evāśritya liṅgebhyo vedavidbhiḥ prakalpitāḥ
+  type: karika
+  verse: '7'
+- chapter: '1'
+  id: vp.1.8
+  sanskrit: ekatvināṃ dvaitināṃ ca pravādā bahudhāgatā
+  type: karika
+  verse: '8'
+- chapter: '1'
+  id: vp.1.9
+  sanskrit: yuktā praṇavarūpeṇa sarvavādāvirodhinā
+  type: karika
+  verse: '9'
+- chapter: '1'
+  id: vp.1.10
+  sanskrit: vidyābhedāḥ pratāyante jnānasaṃskārahetavaḥ
+  type: karika
+  verse: '10'
+- chapter: '1'
+  id: vp.1.11
+  sanskrit: prathamaṃ chandasām aṅgam āhur vyākaraṇaṃ budhāḥ
+  type: karika
+  verse: '11'
+- chapter: '1'
+  id: vp.1.12
+  sanskrit: yat tat puṇyatamaṃ jyotis tasya mārgo 'yam ānjasasḥ
+  type: karika
+  verse: '12'
+- chapter: '1'
+  id: vp.1.13
+  sanskrit: tattvāvabodjaḥ śabdānaṃ nāsti vyākaraṇād ṛte
+  type: karika
+  verse: '13'
+- chapter: '1'
+  id: vp.1.14
+  sanskrit: pavitraṃ sarvavidyānām adhividyaṃ prakāsate
+  type: karika
+  verse: '14'
+- chapter: '1'
+  id: vp.1.15
+  sanskrit: tathaiva loke vidyānām esā vidyā parāyanam
+  type: karika
+  verse: '15'
+- chapter: '1'
+  id: vp.1.16
+  sanskrit: iyaṃ sā mokṣamāṇānām ajihmā rājapaddhatiḥ
+  type: karika
+  verse: '16'
+- chapter: '1'
+  id: vp.1.17
+  sanskrit: chandasyas chandasāṃ yonim ātmā chandomayīṃ tanum
+  type: karika
+  verse: '17'
+- chapter: '1'
+  id: vp.1.18
+  sanskrit: yad asminn eva tamasi jyotiḥ suddhaṃ vivartate
+  type: karika
+  verse: '18'
+- chapter: '1'
+  id: vp.1.19
+  sanskrit: vyatītyālokatamasī prakāśaṃ yam upāsate
+  type: karika
+  verse: '19'
+- chapter: '1'
+  id: vp.1.20
+  sanskrit: śabdapūrveṇa yogena bhāsante pratibimbavat
+  type: karika
+  verse: '20'
+- chapter: '1'
+  id: vp.1.21
+  sanskrit: yasminn uccāvacā varṇāḥ pṛthaksthitaparigrahāḥ
+  type: karika
+  verse: '21'
+- chapter: '1'
+  id: vp.1.22
+  sanskrit: tad vyākaraṇaṃ āgamya paraṃ brahmādhigamyate
+  type: karika
+  verse: '22'
+- chapter: '1'
+  id: vp.1.23
+  sanskrit: sūtrāṇāṃ sānutantrāṇāṃ bhāṣyāṇāṃ ca praṇetṛbhiḥ
+  type: karika
+  verse: '23'
+- chapter: '1'
+  id: vp.1.24
+  sanskrit: anvākhyeyāś ca ye śabdā ye cāpi pratipādakāḥ
+  type: karika
+  verse: '24'
+- chapter: '1'
+  id: vp.1.25
+  sanskrit: dharme ye pratyaye cāṅgaṃ saṃbandhāḥ sādhvasādhuṣu
+  type: karika
+  verse: '25'
+- chapter: '1'
+  id: vp.1.26
+  sanskrit: smṛtyartham anugamyante ke cid eva yathāgamam
+  type: karika
+  verse: '26'
+- chapter: '1'
+  id: vp.1.27
+  sanskrit: arthapratyāyanābhede viparītās tv asādhavaḥ
+  type: karika
+  verse: '27'
+- chapter: '1'
+  id: vp.1.28
+  sanskrit: prāṇinām iva sā caiṣā vyavasthānityatocyate
+  type: karika
+  verse: '28'
+- chapter: '1'
+  id: vp.1.29
+  sanskrit: tasmān nibadhyate śiṣṭaiḥ sādhutvaviṣayā smṛtiḥ
+  type: karika
+  verse: '29'
+- chapter: '1'
+  id: vp.1.30
+  sanskrit: ṛṣīṇām api yaj jñānaṃ tad apy āgamapūrvakam
+  type: karika
+  verse: '30'
+- chapter: '1'
+  id: vp.1.31
+  sanskrit: na tāṃl lokaprasiddhatvāt kaś cit tarkeṇa bādhate
+  type: karika
+  verse: '31'
+- chapter: '1'
+  id: vp.1.32
+  sanskrit: bhāvānām anumānena prasiddhir atidurlabhā
+  type: karika
+  verse: '32'
+- chapter: '1'
+  id: vp.1.33
+  sanskrit: viśiṣṭadravyasaṃbandhe sā śaktiḥ pratibadhyate
+  type: karika
+  verse: '33'
+- chapter: '1'
+  id: vp.1.34
+  sanskrit: abhiyuktatarair anyair anyathaivopapādyate
+  type: karika
+  verse: '34'
+- chapter: '1'
+  id: vp.1.35
+  sanskrit: maṇirūpyādivijñānaṃ tadvidāṃ nānumānikam
+  type: karika
+  verse: '35'
+- chapter: '1'
+  id: vp.1.36
+  sanskrit: pitṛrakṣaḥpiśācānāṃ karmajā eva siddhayaḥ
+  type: karika
+  verse: '36'
+- chapter: '1'
+  id: vp.1.37
+  sanskrit: atītānāgatajñānaṃ pratyakṣān na viśiṣyate
+  type: karika
+  verse: '37'
+- chapter: '1'
+  id: vp.1.38
+  sanskrit: ye bhāvān vacanaṃ teṣāṃ nānumānena bādhate
+  type: karika
+  verse: '38'
+- chapter: '1'
+  id: vp.1.39
+  sanskrit: sthitaṃ pratyakṣapakṣe taṃ katham anyo nivartayet
+  type: karika
+  verse: '39'
+- chapter: '1'
+  id: vp.1.40
+  sanskrit: ācaṇḍālamanuṣyāṇām alpaṃ śāstraprayojanam
+  type: karika
+  verse: '40'
+- chapter: '1'
+  id: vp.1.41
+  sanskrit: āgamas tam upāsīno hetuvādair na bādhyate
+  type: karika
+  verse: '41'
+- chapter: '1'
+  id: vp.1.42
+  sanskrit: anumānapradhānena vinipāto na durlabhaḥ
+  type: karika
+  verse: '42'
+- chapter: '1'
+  id: vp.1.43
+  sanskrit: āśrityārabhyate śiṣṭaiḥ sādhutvaviṣayā smṛtiḥ
+  type: karika
+  verse: '43'
+- chapter: '1'
+  id: vp.1.44
+  sanskrit: eko nimittaṃ śabdānām aparo 'rthe prayujyate
+  type: karika
+  verse: '44'
+- chapter: '1'
+  id: vp.1.45
+  sanskrit: śabdas tatrārtharūpātmā saṃbandham upagacchati
+  type: karika
+  verse: '45'
+- chapter: '1'
+  id: vp.1.46
+  sanskrit: buddhibhedād abhinnasya bhedam eke pracakṣate
+  type: karika
+  verse: '46'
+- chapter: '1'
+  id: vp.1.47
+  sanskrit: tadvac chabdo 'pi buddhisthaḥ śrutīnāṃ kāraṇaṃ pṛthak
+  type: karika
+  verse: '47'
+- chapter: '1'
+  id: vp.1.48
+  sanskrit: karaṇebhyo vivṛttena dhvaninā so 'nugṛhyate
+  type: karika
+  verse: '48'
+- chapter: '1'
+  id: vp.1.49
+  sanskrit: akramaḥ kramarūpeṇa bhedavān iva jāyate
+  type: karika
+  verse: '49'
+- chapter: '1'
+  id: vp.1.50
+  sanskrit: tatpravṛttim ivānveti sa dharmaḥ sphoṭanādayoḥ
+  type: karika
+  verse: '50'
+- chapter: '1'
+  id: vp.1.51
+  sanskrit: artharūpaṃ tathā śabde svarūpaṃ ca prakāśate
+  type: karika
+  verse: '51'
+- chapter: '1'
+  id: vp.1.52
+  sanskrit: vṛttis tasya kriyārūpā bhāgaśo bhajate kramam
+  type: karika
+  verse: '52'
+- chapter: '1'
+  id: vp.1.53
+  sanskrit: mūrtyantarasya tritayam evaṃ śabde 'pi dṛśyate
+  type: karika
+  verse: '53'
+- chapter: '1'
+  id: vp.1.54
+  sanskrit: vyavasāyo grahītṝṇām evaṃ teṣv eva jāyate
+  type: karika
+  verse: '54'
+- chapter: '1'
+  id: vp.1.55
+  sanskrit: caritārthān parārthatvān na lokaḥ pratipadyate
+  type: karika
+  verse: '55'
+- chapter: '1'
+  id: vp.1.56
+  sanskrit: tathaiva sarvaśabdānām ete pṛthag avasthite
+  type: karika
+  verse: '56'
+- chapter: '1'
+  id: vp.1.57
+  sanskrit: na sattayaiva te 'rthānām agṛhītāḥ prakāśakāḥ
+  type: karika
+  verse: '57'
+- chapter: '1'
+  id: vp.1.58
+  sanskrit: nendriyāṇāṃ prakāśye 'rthe svarūpaṃ gṛhyate tathā
+  type: karika
+  verse: '58'
+- chapter: '1'
+  id: vp.1.59
+  sanskrit: bhedakāreṣu hetutvam avirodhena gacchataḥ
+  type: karika
+  verse: '59'
+- chapter: '1'
+  id: vp.1.60
+  sanskrit: ādaicpratyāyitaiḥ śabdaiḥ saṃbandhaṃ yānti saṃjñibhiḥ
+  type: karika
+  verse: '60'
+- chapter: '1'
+  id: vp.1.61
+  sanskrit: agniśrutyaiti saṃbandham agniśabdābhidheyayā
+  type: karika
+  verse: '61'
+- chapter: '1'
+  id: vp.1.62
+  sanskrit: anyapratyāyane śaktir na tasya pratibadhyate
+  type: karika
+  verse: '62'
+- chapter: '1'
+  id: vp.1.63
+  sanskrit: tasmāt tadarthaiḥ kāryāṇāṃ saṃbandhaḥ parikalpyate
+  type: karika
+  verse: '63'
+- chapter: '1'
+  id: vp.1.64
+  sanskrit: tasya tasyopamāneṣu dharmo 'nyo vyatiricyate
+  type: karika
+  verse: '64'
+- chapter: '1'
+  id: vp.1.65
+  sanskrit: tasyāśritād guṇād eva prakṛṣṭatvaṃ pratīyate
+  type: karika
+  verse: '65'
+- chapter: '1'
+  id: vp.1.66
+  sanskrit: tasāpy uccāraṇe rūpam anyat tasmād vivicyate
+  type: karika
+  verse: '66'
+- chapter: '1'
+  id: vp.1.67
+  sanskrit: ṣaṣṭyāś ca prathamāyāś ca nimittatvāya kalpate
+  type: karika
+  verse: '67'
+- chapter: '1'
+  id: vp.1.68
+  sanskrit: asyete vyatirekaś ca tadarthād eva jāyate
+  type: karika
+  verse: '68'
+- chapter: '1'
+  id: vp.1.69
+  sanskrit: jāteḥ kāryāṇi saṃsṛṣṭā jātis tu pratipadyate
+  type: karika
+  verse: '69'
+- chapter: '1'
+  id: vp.1.70
+  sanskrit: jātipratyāyitā vyaktiḥ pradeśeṣūpatiṣṭhate
+  type: karika
+  verse: '70'
+- chapter: '1'
+  id: vp.1.71
+  sanskrit: kāryatve nityatāyāṃ vā ke cin nānātvavādinaḥ
+  type: karika
+  verse: '71'
+- chapter: '1'
+  id: vp.1.72
+  sanskrit: vākyeṣu padam ekaṃ ca bhinneṣv apy upalabhyate
+  type: karika
+  verse: '72'
+- chapter: '1'
+  id: vp.1.73
+  sanskrit: vākyaṃ varṇapadābhyāṃ ca pravibhāgo na kaś cana
+  type: karika
+  verse: '73'
+- chapter: '1'
+  id: vp.1.74
+  sanskrit: vākyāt padānām atyantaṃ pravibhāgo na kaś cana
+  type: karika
+  verse: '74'
+- chapter: '1'
+  id: vp.1.75
+  sanskrit: tatra yan mukhyam ekeṣāṃ tatrānyeṣāṃ viparyayaḥ
+  type: karika
+  verse: '75'
+- chapter: '1'
+  id: vp.1.76
+  sanskrit: grahaṇopādhibhedena vṛttibhedaṃ pracakṣate
+  type: karika
+  verse: '76'
+- chapter: '1'
+  id: vp.1.77
+  sanskrit: prākṛtasya dhvaneḥ kālaḥ śabdasyety upacaryate
+  type: karika
+  verse: '77'
+- chapter: '1'
+  id: vp.1.78
+  sanskrit: sthitibhedanimittatvaṃ vaikṛtaḥ pratipadyate
+  type: karika
+  verse: '78'
+- chapter: '1'
+  id: vp.1.79
+  sanskrit: dhvanayaḥ samupohante sphoṭātmā tair na bhidyate
+  type: karika
+  verse: '79'
+- chapter: '1'
+  id: vp.1.80
+  sanskrit: kriyate dhvanibhir vādās trayo 'bhivyaktivādinām
+  type: karika
+  verse: '80'
+- chapter: '1'
+  id: vp.1.81
+  sanskrit: viṣayasya tu saṃskāraḥ tadgandhapratipattaye
+  type: karika
+  verse: '81'
+- chapter: '1'
+  id: vp.1.82
+  sanskrit: viṣayendriyayor iṣṭā saṃskāraḥ sa kramo dhvaneḥ
+  type: karika
+  verse: '82'
+- chapter: '1'
+  id: vp.1.83
+  sanskrit: kaiś cit dhvanir asaṃvedyaḥ svatantro 'nyaiḥ prakalpitaḥ
+  type: karika
+  verse: '83'
+- chapter: '1'
+  id: vp.1.84
+  sanskrit: āvṛttyā na tu sa granthaḥ pratyāvṛtti nirūpyate
+  type: karika
+  verse: '84'
+- chapter: '1'
+  id: vp.1.85
+  sanskrit: dhvaniprakāśite śabde svarūpam avadhāryate
+  type: karika
+  verse: '85'
+- chapter: '1'
+  id: vp.1.86
+  sanskrit: āvṛttaparipākāyāṃ buddhau śabdo 'vadhāryate
+  type: karika
+  verse: '86'
+- chapter: '1'
+  id: vp.1.87
+  sanskrit: pratipattur aśaktiḥ sā grahaṇopāya eva saḥ
+  type: karika
+  verse: '87'
+- chapter: '1'
+  id: vp.1.88
+  sanskrit: kramopasṛṣṭarūpā vāg jñānaṃ jñeyavyapāśrayam
+  type: karika
+  verse: '88'
+- chapter: '1'
+  id: vp.1.89
+  sanskrit: nālabdhakramayā vācā kaś cid artho 'bhidhīyate *
+  type: karika
+  verse: '89'
+- chapter: '1'
+  id: vp.1.90
+  sanskrit: saṃkhyāntarāṇāṃ bhede 'pi tathā śabdāntaraśrutiḥ
+  type: karika
+  verse: '90'
+- chapter: '1'
+  id: vp.1.91
+  sanskrit: teṣām atyantabhede 'pi saṃkīrṇā iva śaktayaḥ
+  type: karika
+  verse: '91'
+- chapter: '1'
+  id: vp.1.92
+  sanskrit: anyathākṛtya viṣayam anyathaivādhyavasyati
+  type: karika
+  verse: '92'
+- chapter: '1'
+  id: vp.1.93
+  sanskrit: bhāgāvagraharūpeṇa pūrvaṃ buddhiḥ pravartate
+  type: karika
+  verse: '93'
+- chapter: '1'
+  id: vp.1.94
+  sanskrit: tathaiva pratipattṝṇāṃ niyato buddhiṣu kramaḥ
+  type: karika
+  verse: '94'
+- chapter: '1'
+  id: vp.1.95
+  sanskrit: nirbhāgeṣv abhyupāyo vā bhāgabhedaprakalpanam
+  type: karika
+  verse: '95'
+- chapter: '1'
+  id: vp.1.96
+  sanskrit: kaiś cit vyaktaya evāsya dhvanitvena prakalpitāḥ
+  type: karika
+  verse: '96'
+- chapter: '1'
+  id: vp.1.97
+  sanskrit: upalabdhau nimittatvam upayāti prakāśavat
+  type: karika
+  verse: '97'
+- chapter: '1'
+  id: vp.1.98
+  sanskrit: āśrayair api nityānāṃ jātīnāṃ vyaktir iṣyate
+  type: karika
+  verse: '98'
+- chapter: '1'
+  id: vp.1.99
+  sanskrit: deśabhedavikalpe 'pi na bhedo dhvaniśabdayoḥ
+  type: karika
+  verse: '99'
+- chapter: '1'
+  id: vp.1.100
+  sanskrit: vyaṅgyavyañjakabhāve 'pi tathaiva sphoṭanādayoḥ
+  type: karika
+  verse: '100'
+- chapter: '1'
+  id: vp.1.101
+  sanskrit: nimittaṃ niyataṃ loke pratidravyam avasthitam
+  type: karika
+  verse: '101'
+- chapter: '1'
+  id: vp.1.102
+  sanskrit: tailodakādibhede tat pratyakṣaṃ pratibimbake
+  type: karika
+  verse: '102'
+- chapter: '1'
+  id: vp.1.103
+  sanskrit: parvatādisarūpāṇāṃ bhāvānāṃ nāsti saṃbhavaḥ
+  type: karika
+  verse: '103'
+- chapter: '1'
+  id: vp.1.104
+  sanskrit: vṛttikālaḥ svakālaś ca nādabhedād vibhajyate
+  type: karika
+  verse: '104'
+- chapter: '1'
+  id: vp.1.105
+  sanskrit: sa sphoṭaḥ śabdajāḥ śabdā dhvanayo 'nyair udāhṛtāḥ
+  type: karika
+  verse: '105'
+- chapter: '1'
+  id: vp.1.106
+  sanskrit: paras tu śabdasaṃtānaḥ pracayāpacayātmakaḥ
+  type: karika
+  verse: '106'
+- chapter: '1'
+  id: vp.1.107
+  sanskrit: ghaṇṭādūnāṃ ca śabdeṣu vyakto bhedaḥ sa dṛśyate
+  type: karika
+  verse: '107'
+- chapter: '1'
+  id: vp.1.108
+  sanskrit: kampe tūparate jātā nādā vṛtter viśeṣakāḥ
+  type: karika
+  verse: '108'
+- chapter: '1'
+  id: vp.1.109
+  sanskrit: sphoṭād evopajāyante jvālā jvālāntarād iva
+  type: karika
+  verse: '109'
+- chapter: '1'
+  id: vp.1.110
+  sanskrit: kaiś cid darśanabhedo hi pravādeṣv anavasthitaḥ
+  type: karika
+  verse: '110'
+- chapter: '1'
+  id: vp.1.111
+  sanskrit: sthāneṣv abhihato vāyuḥ śabdatvaṃ pratipadyate *
+  type: karika
+  verse: '111'
+- chapter: '1'
+  id: vp.1.112
+  sanskrit: saṃnipātād vibhajyante sāravatyo 'pi mūrtayaḥ *
+  type: karika
+  verse: '112'
+- chapter: '1'
+  id: vp.1.113
+  sanskrit: chāyātapatamaḥśabdabhāvena pariṇāminaḥ *
+  type: karika
+  verse: '113'
+- chapter: '1'
+  id: vp.1.114
+  sanskrit: abhrāṇīva pracīyante śabdākhyāḥ paramāṇavaḥ *
+  type: karika
+  verse: '114'
+- chapter: '1'
+  id: vp.1.115
+  sanskrit: vyaktaye svasya rūpasya śabdatvena vivartate *
+  type: karika
+  verse: '115'
+- chapter: '1'
+  id: vp.1.116
+  sanskrit: vāyum āviśati prāṇam athāsau samudīryate *
+  type: karika
+  verse: '116'
+- chapter: '1'
+  id: vp.1.117
+  sanskrit: taddharmeṇa samāviṣṭas tejasaiva vivartate *
+  type: karika
+  verse: '117'
+- chapter: '1'
+  id: vp.1.118
+  sanskrit: prāṇo varṇān abhivyajya varṇeṣv evopalīyate *
+  type: karika
+  verse: '118'
+- chapter: '1'
+  id: vp.1.119
+  sanskrit: manaḥ kāyāgnim āhanti sa prerayati mārutam *
+  type: karika
+  verse: '119'
+- chapter: '1'
+  id: vp.1.120
+  sanskrit: vyajanād vāyur iva sa svanimittāt pratīyate
+  type: karika
+  verse: '120'
+- chapter: '1'
+  id: vp.1.121
+  sanskrit: vivartamānā sthāniṣu saiṣā bhedaṃ prapadyate
+  type: karika
+  verse: '121'
+- chapter: '1'
+  id: vp.1.122
+  sanskrit: yannetraḥ pratibhātmāyaṃ bhedarūpaḥ pratāyate
+  type: karika
+  verse: '122'
+- chapter: '1'
+  id: vp.1.123
+  sanskrit: tasmād arthavidhāḥ sarvāḥ śabdamātrāsu niśritāḥ
+  type: karika
+  verse: '123'
+- chapter: '1'
+  id: vp.1.124
+  sanskrit: chandobhya eva prathamam etad viśvaṃ pravartate
+  type: karika
+  verse: '124'
+- chapter: '1'
+  id: vp.1.125
+  sanskrit: chandomayībhir mātrābhir bahudhaiva viveśa tam
+  type: karika
+  verse: '125'
+- chapter: '1'
+  id: vp.1.126
+  sanskrit: adhikaṃ vartate teṣu puṇyaṃ rūpaṃ prajāpateḥ
+  type: karika
+  verse: '126'
+- chapter: '1'
+  id: vp.1.127
+  sanskrit: śarīrabhede viduṣāṃ svāṃ yonim upadhāvati
+  type: karika
+  verse: '127'
+- chapter: '1'
+  id: vp.1.128
+  sanskrit: tadbhāvam abhisaṃbhūya vidyāyāṃ pravilīyate
+  type: karika
+  verse: '128'
+- chapter: '1'
+  id: vp.1.129
+  sanskrit: yāṃ pūrvāhitasaṃskāro bālo 'pi pratipadyate
+  type: karika
+  verse: '129'
+- chapter: '1'
+  id: vp.1.130
+  sanskrit: sthānānām abhighātaś ca na vinā śabdabhāvanām
+  type: karika
+  verse: '130'
+- chapter: '1'
+  id: vp.1.131
+  sanskrit: anuviddham iva jñānaṃ sarvaṃ śabdena bhāsate
+  type: karika
+  verse: '131'
+- chapter: '1'
+  id: vp.1.132
+  sanskrit: na prakāśaḥ prakāśeta sā hi pratyavamarśinī
+  type: karika
+  verse: '132'
+- chapter: '1'
+  id: vp.1.133
+  sanskrit: tadvaśād abhiniṣpannaṃ sarvaṃ vastu vibhajyate
+  type: karika
+  verse: '133'
+- chapter: '1'
+  id: vp.1.134
+  sanskrit: tanmātrām avyatikrāntaṃ caitanyaṃ sarvajātiṣu
+  type: karika
+  verse: '134'
+- chapter: '1'
+  id: vp.1.135
+  sanskrit: tadutkrāntau visaṃjño 'yaṃ dṛśyate kāṣṭakuḍyavat
+  type: karika
+  verse: '135'
+- chapter: '1'
+  id: vp.1.136
+  sanskrit: āmnātā sarvavidyāsu vāg eva prakṛtiḥ parā *
+  type: karika
+  verse: '136'
+- chapter: '1'
+  id: vp.1.137
+  sanskrit: pṛthak pratyavabhāsante vāgvibhāgā gavādayaḥ *
+  type: karika
+  verse: '137'
+- chapter: '1'
+  id: vp.1.138
+  sanskrit: te mṛtyum ativartante ye vai vācam upāsate *
+  type: karika
+  verse: '138'
+- chapter: '1'
+  id: vp.1.139
+  sanskrit: avibhāge tathā saiva kāryatvenāvatiṣṭhate
+  type: karika
+  verse: '139'
+- chapter: '1'
+  id: vp.1.140
+  sanskrit: sarveśvaraḥ sarvamayaḥ svapne bhoktā pravartate *
+  type: karika
+  verse: '140'
+- chapter: '1'
+  id: vp.1.141
+  sanskrit: tathaiva rūḍhatām eti tayā hy artho vidhīyate
+  type: karika
+  verse: '141'
+- chapter: '1'
+  id: vp.1.142
+  sanskrit: dṛśyate 'lātacakrādau vastvākāranirūpaṇā
+  type: karika
+  verse: '142'
+- chapter: '1'
+  id: vp.1.143
+  sanskrit: prāhur mahāntam ṛṣabhaṃ yena sāyujyam iṣyate
+  type: karika
+  verse: '143'
+- chapter: '1'
+  id: vp.1.144
+  sanskrit: tasya pravṛttitattvajñas tad brahmāmṛtam aśnute
+  type: karika
+  verse: '144'
+- chapter: '1'
+  id: vp.1.145
+  sanskrit: kramasaṃhārayogena saṃhṛtyātmānam ātmani *
+  type: karika
+  verse: '145'
+- chapter: '1'
+  id: vp.1.146
+  sanskrit: vibhajya bandhanāny asyāḥ kṛtvā tāṃ chinnabandhanām *
+  type: karika
+  verse: '146'
+- chapter: '1'
+  id: vp.1.147
+  sanskrit: kāraṇajyotiṣaikatvaṃ chittvā granthīn pravartate *
+  type: karika
+  verse: '147'
+- chapter: '1'
+  id: vp.1.148
+  sanskrit: bījaṃ sarvāgamāpāye trayy evāto vyavasthitā
+  type: karika
+  verse: '148'
+- chapter: '1'
+  id: vp.1.149
+  sanskrit: śrutismṛtyuditaṃ dharmaṃ loko na vyativartate
+  type: karika
+  verse: '149'
+- chapter: '1'
+  id: vp.1.150
+  sanskrit: dharmo jñānasya hetuś cet tasyāmnāyo nibandhanam
+  type: karika
+  verse: '150'
+- chapter: '1'
+  id: vp.1.151
+  sanskrit: rūpamātrād dhi vākyārthaḥ kevalaṃ nātitiṣṭhati
+  type: karika
+  verse: '151'
+- chapter: '1'
+  id: vp.1.152
+  sanskrit: iti nyāyo bahuvidhas tarkeṇa pravibhajyate
+  type: karika
+  verse: '152'
+- chapter: '1'
+  id: vp.1.153
+  sanskrit: sa śabdānugato nyāyo 'nāgameṣv anibandhanaḥ
+  type: karika
+  verse: '153'
+- chapter: '1'
+  id: vp.1.154
+  sanskrit: pītaṃ na gamayet svargaṃ kiṃ tat kratugataṃ nayet *
+  type: karika
+  verse: '154'
+- chapter: '1'
+  id: vp.1.155
+  sanskrit: śabdās tathaiva dṛśyante viṣāpaharaṇādiṣu
+  type: karika
+  verse: '155'
+- chapter: '1'
+  id: vp.1.156
+  sanskrit: sādhūnāṃ sādhubhis tasmād vācyam abhyudayārthinām
+  type: karika
+  verse: '156'
+- chapter: '1'
+  id: vp.1.157
+  sanskrit: viparītaṃ ca sarvatra śakyate vaktum āgame
+  type: karika
+  verse: '157'
+- chapter: '1'
+  id: vp.1.158
+  sanskrit: avicchedena śiṣṭānām idaṃ smṛtinibandhanam
+  type: karika
+  verse: '158'
+- chapter: '1'
+  id: vp.1.159
+  sanskrit: anekatīrthabhedāyās trayyā cācaḥ paraṃ param
+  type: karika
+  verse: '159'
+- chapter: '1'
+  id: vp.1.160
+  sanskrit: divyādivyena rūpeṇa bhāratī gauḥ śucismitā *
+  type: karika
+  verse: '160'
+- chapter: '1'
+  id: vp.1.161
+  sanskrit: prāṇāpānāntare nityam ekā sarvasya tiṣṭhati *
+  type: karika
+  verse: '161'
+- chapter: '1'
+  id: vp.1.162
+  sanskrit: jāyate hi tataḥ prāṇo vācam āpyāyayan punaḥ *
+  type: karika
+  verse: '162'
+- chapter: '1'
+  id: vp.1.163
+  sanskrit: sarvasyocchvāsam āsādya na vāg vadati karhi cit *
+  type: karika
+  verse: '163'
+- chapter: '1'
+  id: vp.1.164
+  sanskrit: tayor api ca ghoṣiṇyā nirghoṣaiva garīyasī *
+  type: karika
+  verse: '164'
+- chapter: '1'
+  id: vp.1.165
+  sanskrit: vaikharī vāk prayoktṝṇāṃ prāṇavṛttinibandhanā *
+  type: karika
+  verse: '165'
+- chapter: '1'
+  id: vp.1.166
+  sanskrit: prāṇavṛttim atikramya madhyamā vāk pravartate *
+  type: karika
+  verse: '166'
+- chapter: '1'
+  id: vp.1.167
+  sanskrit: svarūpajyotir evāntaḥ sūkṣmā vāg anapāyinī *
+  type: karika
+  verse: '167'
+- chapter: '1'
+  id: vp.1.168
+  sanskrit: antyā kaleva somasya nātyantam abhidhīyate *
+  type: karika
+  verse: '168'
+- chapter: '1'
+  id: vp.1.169
+  sanskrit: puruṣe ṣoḍaśakale tām āhur amṛtāṃ kalām *
+  type: karika
+  verse: '169'
+- chapter: '1'
+  id: vp.1.170
+  sanskrit: vaikharī sattvamātreva guṇair na vyavakīryate *
+  type: karika
+  verse: '170'
+- chapter: '1'
+  id: vp.1.171
+  sanskrit: svabhāvajñais tu bhāvānāṃ dṛśyante śabdaśaktayaḥ
+  type: karika
+  verse: '171'
+- chapter: '1'
+  id: vp.1.172
+  sanskrit: śiṣṭair nibadhyamānā tu na vyavacchidyate smṛtiḥ
+  type: karika
+  verse: '172'
+- chapter: '1'
+  id: vp.1.173
+  sanskrit: bhāvatattvaṃ tu vijñāya liṅgebhyo vihitā smṛtiḥ
+  type: karika
+  verse: '173'
+- chapter: '1'
+  id: vp.1.174
+  sanskrit: cikitsālakṣaṇādhyātmaśāstrais teṣāṃ viśuddhayaḥ
+  type: karika
+  verse: '174'
+- chapter: '1'
+  id: vp.1.175
+  sanskrit: tam apabhraṃśam icchanti viśiṣṭārthaniveśinam
+  type: karika
+  verse: '175'
+- chapter: '1'
+  id: vp.1.176
+  sanskrit: nimittabhedāt sarvatra sādhutvaṃ ca vyavasthitam
+  type: karika
+  verse: '176'
+- chapter: '1'
+  id: vp.1.177
+  sanskrit: tādātmyam upagamyeva śabdārthasya prakāśakāḥ
+  type: karika
+  verse: '177'
+- chapter: '1'
+  id: vp.1.178
+  sanskrit: te yataḥ smṛtiśāstreṇa tasmāt sākṣād avācakāḥ
+  type: karika
+  verse: '178'
+- chapter: '1'
+  id: vp.1.179
+  sanskrit: avyaktaṃ tadvidāṃ tena vyaktau bhavati niścayaḥ
+  type: karika
+  verse: '179'
+- chapter: '1'
+  id: vp.1.180
+  sanskrit: tena sādhuvyavahitaḥ kaś cid artho 'bhidhīyate
+  type: karika
+  verse: '180'
+- chapter: '1'
+  id: vp.1.181
+  sanskrit: prasiddhim āgatā yena teṣāṃ sādhur avācakaḥ
+  type: karika
+  verse: '181'
+- chapter: '1'
+  id: vp.1.182
+  sanskrit: anityadarśināṃ tv asmin vāde buddhiviparyayaḥ
+  type: karika
+  verse: '182'
+- chapter: '1'
+  id: vp.1.183
+  sanskrit: yo 'nyaḥ prayujyate śabdo na so 'rthasyābhidhāyakaḥ
+  type: karika
+  verse: '183'
+- chapter: '2'
+  id: vp.2.1
+  sanskrit: eko 'navayavaḥ śabdaḥ kramo buddhyanusaṃhṛtiḥ
+  type: karika
+  verse: '1'
+- chapter: '2'
+  id: vp.2.2
+  sanskrit: vākyaṃ prati matir bhinnā bahudhā nyāyadarśinām
+  type: karika
+  verse: '2'
+- chapter: '2'
+  id: vp.2.3
+  sanskrit: sākāṅkṣāvayavaṃ tena na sarvaṃ tulyalakṣaṇaṃ
+  type: karika
+  verse: '3'
+- chapter: '2'
+  id: vp.2.4
+  sanskrit: karmapradhānaṃ guṇavad ekārthaṃ vākyam ucyate
+  type: karika
+  verse: '4'
+- chapter: '2'
+  id: vp.2.5
+  sanskrit: tathā tiṅantaṃ tatrāhus tiṅantasya viśeṣakam
+  type: karika
+  verse: '5'
+- chapter: '2'
+  id: vp.2.6
+  sanskrit: tathā tiṅantaṃ tatrāhus tiṅantasya viśeṣakam
+  type: karika
+  verse: '6'
+- chapter: '2'
+  id: vp.2.7
+  sanskrit: dṛśyabhedānukāreṇa vākyārthāvagamas tathā
+  type: karika
+  verse: '7'
+- chapter: '2'
+  id: vp.2.8
+  sanskrit: nīlādibhiḥ samākhyānaṃ kriyate bhinnalakṣaṇaiḥ
+  type: karika
+  verse: '8'
+- chapter: '2'
+  id: vp.2.9
+  sanskrit: śabdāntaraiḥ samākhyānaṃ sākāṅkṣair anugamyate
+  type: karika
+  verse: '9'
+- chapter: '2'
+  id: vp.2.10
+  sanskrit: apoddhāras tathā vākye padānām upapadyate
+  type: karika
+  verse: '10'
+- chapter: '2'
+  id: vp.2.11
+  sanskrit: padāntarasarūpāś ca padabhāgā iva sthitāḥ
+  type: karika
+  verse: '11'
+- chapter: '2'
+  id: vp.2.12
+  sanskrit: anvayavyatirekau tu vyavahāranibandhanam
+  type: karika
+  verse: '12'
+- chapter: '2'
+  id: vp.2.13
+  sanskrit: vibhāgaiḥ prakriyābhedam avidvān pratipadyate
+  type: karika
+  verse: '13'
+- chapter: '2'
+  id: vp.2.14
+  sanskrit: devadattādayo vākye thataiva syur anarthakāḥ
+  type: karika
+  verse: '14'
+- chapter: '2'
+  id: vp.2.15
+  sanskrit: upāttasya kutas tyāgo nivṛttaḥ kvāvatiṣṭhatām
+  type: karika
+  verse: '15'
+- chapter: '2'
+  id: vp.2.16
+  sanskrit: evaṃ sati ca saṃbandhaḥ śabdasyārthena hīyate
+  type: karika
+  verse: '16'
+- chapter: '2'
+  id: vp.2.17
+  sanskrit: śabdāntarābhisaṃbandhād vyajyante pratipattṛṣu
+  type: karika
+  verse: '17'
+- chapter: '2'
+  id: vp.2.18
+  sanskrit: vyaktopavyañjanā siddhir arthasya pratipatṛṣu
+  type: karika
+  verse: '18'
+- chapter: '2'
+  id: vp.2.19
+  sanskrit: akramas tu vitatyeva buddhir yatrāvatiṣṭhate
+  type: karika
+  verse: '19'
+- chapter: '2'
+  id: vp.2.20
+  sanskrit: āvṛttau vyajyate jātiḥ karmabhir bhramaṇādibhiḥ
+  type: karika
+  verse: '20'
+- chapter: '2'
+  id: vp.2.21
+  sanskrit: atyantabhede tattvasya sarūpeva pratīyate
+  type: karika
+  verse: '21'
+- chapter: '2'
+  id: vp.2.22
+  sanskrit: ekasyaiva tu sā śaktir yad evam avabhāsate
+  type: karika
+  verse: '22'
+- chapter: '2'
+  id: vp.2.23
+  sanskrit: bhinnakāle prakāśete sa dharmo hrasvadīrghayoḥ
+  type: karika
+  verse: '23'
+- chapter: '2'
+  id: vp.2.24
+  sanskrit: vyāvartinīnāṃ mātrāṇām abhāve kīdṛśaḥ kramaḥ
+  type: karika
+  verse: '24'
+- chapter: '2'
+  id: vp.2.25
+  sanskrit: sā hi svaśaktyā bhinneva kramapratyavamarśinī
+  type: karika
+  verse: '25'
+- chapter: '2'
+  id: vp.2.26
+  sanskrit: tattvanānātvayos tasya niruktir nāvatiṣṭhate
+  type: karika
+  verse: '26'
+- chapter: '2'
+  id: vp.2.27
+  sanskrit: vyāvṛttabhedo yenārtho bhedavān upalabhyate
+  type: karika
+  verse: '27'
+- chapter: '2'
+  id: vp.2.28
+  sanskrit: varṇeṣu varṇabhāgānāṃ bhedaḥ syāt paramāṇuvat
+  type: karika
+  verse: '28'
+- chapter: '2'
+  id: vp.2.29
+  sanskrit: teṣām avyapadeśyatvāt kim anyad vyapadiśyatām
+  type: karika
+  verse: '29'
+- chapter: '2'
+  id: vp.2.30
+  sanskrit: tam āhur apare śabdaṃ tasya vākye tathaikatām
+  type: karika
+  verse: '30'
+- chapter: '2'
+  id: vp.2.31
+  sanskrit: ekasyaivātmano bhedau śabdārthāv apṛthaksthitau
+  type: karika
+  verse: '31'
+- chapter: '2'
+  id: vp.2.32
+  sanskrit: antarmātrātmanas tasya śabdatattvasya sarvadā
+  type: karika
+  verse: '32'
+- chapter: '2'
+  id: vp.2.33
+  sanskrit: akrame kramanirbhāse vyavahāranibandhane
+  type: karika
+  verse: '33'
+- chapter: '2'
+  id: vp.2.34
+  sanskrit: padārthābhyuccaye tyāgād ānarthakyaṃ prasajyate
+  type: karika
+  verse: '34'
+- chapter: '2'
+  id: vp.2.35
+  sanskrit: vṛttāv ākhyātasadṛśaṃ padam anyat prayujyate
+  type: karika
+  verse: '35'
+- chapter: '2'
+  id: vp.2.36
+  sanskrit: kaś cid eva viśiṣṭo 'rthaḥ sarveṣu pratyayas tathā
+  type: karika
+  verse: '36'
+- chapter: '2'
+  id: vp.2.37
+  sanskrit: keṣāṃ cit rūḍhiśabdatvaṃ śāstra evānugamyate
+  type: karika
+  verse: '37'
+- chapter: '2'
+  id: vp.2.38
+  sanskrit: upāyānāṃ ca niyamo nāvaśyam avatiṣṭhate
+  type: karika
+  verse: '38'
+- chapter: '2'
+  id: vp.2.39
+  sanskrit: saṃsṛṣṭā vā vibhaktā cā bhedā vākyanibandhanāḥ
+  type: karika
+  verse: '39'
+- chapter: '2'
+  id: vp.2.40
+  sanskrit: vākyārthasya tadaiko 'pi varṇaḥ pratyāyakaḥ kva cit
+  type: karika
+  verse: '40'
+- chapter: '2'
+  id: vp.2.41
+  sanskrit: vākyasthaṃ tāvato 'rthasya tad āhur abhidhāyakam
+  type: karika
+  verse: '41'
+- chapter: '2'
+  id: vp.2.42
+  sanskrit: vākyārtam eva taṃ prāhur anekapadasaṃśrayam
+  type: karika
+  verse: '42'
+- chapter: '2'
+  id: vp.2.43
+  sanskrit: jātivat samudāye 'pi saṃkhyāvat kalpyate 'paraiḥ
+  type: karika
+  verse: '43'
+- chapter: '2'
+  id: vp.2.44
+  sanskrit: tad arthāntarasaṃsargād bhajate bhedarūpatām
+  type: karika
+  verse: '44'
+- chapter: '2'
+  id: vp.2.45
+  sanskrit: avacchinatti saṃbandhas tāṃ viśeṣe niveśayan
+  type: karika
+  verse: '45'
+- chapter: '2'
+  id: vp.2.46
+  sanskrit: asattvabhūtam atyantam atas taṃ pratijānate
+  type: karika
+  verse: '46'
+- chapter: '2'
+  id: vp.2.47
+  sanskrit: sa saṃnidhānamātreṇa niyamaḥ saṃprakāśate
+  type: karika
+  verse: '47'
+- chapter: '2'
+  id: vp.2.48
+  sanskrit: sādhyatvena nimittāni kriyāpadam apekṣate
+  type: karika
+  verse: '48'
+- chapter: '2'
+  id: vp.2.49
+  sanskrit: te kramād anugamyante na vākyam abhidhāyakam
+  type: karika
+  verse: '49'
+- chapter: '2'
+  id: vp.2.50
+  sanskrit: kramo hi dharmaḥ kālasya tena vākyaṃ na vidyate
+  type: karika
+  verse: '50'
+- chapter: '2'
+  id: vp.2.51
+  sanskrit: te saṃnidhāne vyajyante na tu varṇeṣv ayaṃ kramaḥ
+  type: karika
+  verse: '51'
+- chapter: '2'
+  id: vp.2.52
+  sanskrit: padākhyā vākyasaṃjñā ca śabdatvaṃ neṣyate tayoḥ
+  type: karika
+  verse: '52'
+- chapter: '2'
+  id: vp.2.53
+  sanskrit: prativarṇaṃ tv asau nāsti padasyārtham ato viduḥ
+  type: karika
+  verse: '53'
+- chapter: '2'
+  id: vp.2.54
+  sanskrit: arthavantaḥ samuditā vākyam apy evam iṣyate
+  type: karika
+  verse: '54'
+- chapter: '2'
+  id: vp.2.55
+  sanskrit: krameṇoccaritāny āhur vākyārthaṃ bhinnalakṣaṇam
+  type: karika
+  verse: '55'
+- chapter: '2'
+  id: vp.2.56
+  sanskrit: ekasyaikārthatām āhur vākyasyāvyabhicāriṇīm
+  type: karika
+  verse: '56'
+- chapter: '2'
+  id: vp.2.57
+  sanskrit: bhedapūrvān abhedāṃs tu manyante padadarśinaḥ
+  type: karika
+  verse: '57'
+- chapter: '2'
+  id: vp.2.58
+  sanskrit: padānāṃ saṃhitā yoniḥ saṃhitā vā padāśrayā
+  type: karika
+  verse: '58'
+- chapter: '2'
+  id: vp.2.59
+  sanskrit: nityas tatra kathaṃ kāryaṃ padaṃ lakṣaṇadarśanāt
+  type: karika
+  verse: '59'
+- chapter: '2'
+  id: vp.2.60
+  sanskrit: padeśv evam asaṃvedyaṃ vākyārthasya nirūpaṇam
+  type: karika
+  verse: '60'
+- chapter: '2'
+  id: vp.2.61
+  sanskrit: yathā tathaiva varṇeṣu padārthaḥ sahavṛttiṣu
+  type: karika
+  verse: '61'
+- chapter: '2'
+  id: vp.2.62
+  sanskrit: varṇo 'py anyena varṇena saṃbaddho vācakas tathā
+  type: karika
+  verse: '62'
+- chapter: '2'
+  id: vp.2.63
+  sanskrit: varṇānām api sāṃnidhyāt tathā so 'rthaḥ pratīyate
+  type: karika
+  verse: '63'
+- chapter: '2'
+  id: vp.2.64
+  sanskrit: tenātyantaṃ viśeṣeṇa sāmānyaṃ yadi bādhyate
+  type: karika
+  verse: '64'
+- chapter: '2'
+  id: vp.2.65
+  sanskrit: vrīhiśrutyā nivarteta na syāt pratinidhis tathā
+  type: karika
+  verse: '65'
+- chapter: '2'
+  id: vp.2.66
+  sanskrit: dravyatvam aviruddhatvāt prāptyarthaḥ san na bādhate
+  type: karika
+  verse: '66'
+- chapter: '2'
+  id: vp.2.67
+  sanskrit: asaṃbhavād viśeṣāṇāṃ tatrānyeṣām adarśanam
+  type: karika
+  verse: '67'
+- chapter: '2'
+  id: vp.2.68
+  sanskrit: viśeṣā na hi sarveṣāṃ satāṃ śabdo 'bhidhāyakaḥ
+  type: karika
+  verse: '68'
+- chapter: '2'
+  id: vp.2.69
+  sanskrit: tathāvivakṣā bhedānāṃ dravyatvasahacāriṇām
+  type: karika
+  verse: '69'
+- chapter: '2'
+  id: vp.2.70
+  sanskrit: kāmyasya vā pravṛttasya lopa ity upapadyate
+  type: karika
+  verse: '70'
+- chapter: '2'
+  id: vp.2.71
+  sanskrit: dravyābhāve pratinidhau tasya tat syāt kriyāntaram
+  type: karika
+  verse: '71'
+- chapter: '2'
+  id: vp.2.72
+  sanskrit: pikādi yad avijñātaṃ tat kim ity anuyujyate
+  type: karika
+  verse: '72'
+- chapter: '2'
+  id: vp.2.73
+  sanskrit: śrutir evānuṣaṅgeṇa bādhikā liṅgavākyayoḥ
+  type: karika
+  verse: '73'
+- chapter: '2'
+  id: vp.2.74
+  sanskrit: sa yatnaprāpito vākye śrutidharmavilakṣaṇaḥ
+  type: karika
+  verse: '74'
+- chapter: '2'
+  id: vp.2.75
+  sanskrit: tat sarvaṃ śrutibhūtatvān na śrutyaiva virotsyate
+  type: karika
+  verse: '75'
+- chapter: '2'
+  id: vp.2.76
+  sanskrit: sākāṅkṣāvayavas tatra vākyārtho 'pi na vidyate
+  type: karika
+  verse: '76'
+- chapter: '2'
+  id: vp.2.77
+  sanskrit: idam āvṛttibhedābhyām atra bādhasamuccayau
+  type: karika
+  verse: '77'
+- chapter: '2'
+  id: vp.2.78
+  sanskrit: sāmānyasyātideśo 'yaṃ viśeṣo 'trātidiśyate
+  type: karika
+  verse: '78'
+- chapter: '2'
+  id: vp.2.79
+  sanskrit: śāstrāt prāptādhikāro 'yaṃ vyudāso 'sya kriyāntare
+  type: karika
+  verse: '79'
+- chapter: '2'
+  id: vp.2.80
+  sanskrit: kramo 'yam atra balavān asmiṃs tu na vivakṣitaḥ
+  type: karika
+  verse: '80'
+- chapter: '2'
+  id: vp.2.81
+  sanskrit: prayojakam idaṃ teṣām atredaṃ nāntarīyakam
+  type: karika
+  verse: '81'
+- chapter: '2'
+  id: vp.2.82
+  sanskrit: sākṣād asyopakārīdam idam ārād viśeṣakam
+  type: karika
+  verse: '82'
+- chapter: '2'
+  id: vp.2.83
+  sanskrit: saṃbandhāj jātabhedo 'yaṃ bhedas tatrāvivakṣitaḥ
+  type: karika
+  verse: '83'
+- chapter: '2'
+  id: vp.2.84
+  sanskrit: idaṃ gauṇam idaṃ mukhyaṃ vyāpīdaṃ guru laghv idam
+  type: karika
+  verse: '84'
+- chapter: '2'
+  id: vp.2.85
+  sanskrit: idaṃ niyamyate 'syātra yogyatvam upajāyate
+  type: karika
+  verse: '85'
+- chapter: '2'
+  id: vp.2.86
+  sanskrit: ayaṃ śabdair apoddhṛtya padārthaḥ pravibhajyate
+  type: karika
+  verse: '86'
+- chapter: '2'
+  id: vp.2.87
+  sanskrit: sarve tena prakalperan padaṃ cet syad avācakam
+  type: karika
+  verse: '87'
+- chapter: '2'
+  id: vp.2.88
+  sanskrit: vākyāntaravibhāgena yathoktaṃ na virudhyate
+  type: karika
+  verse: '88'
+- chapter: '2'
+  id: vp.2.89
+  sanskrit: puṣpādiṣu tathā vākye 'py arthabhedo 'bhidhīyate
+  type: karika
+  verse: '89'
+- chapter: '2'
+  id: vp.2.90
+  sanskrit: bhāgaṃ jātyantarasyaiva sadṛśaṃ pratipadyate
+  type: karika
+  verse: '90'
+- chapter: '2'
+  id: vp.2.91
+  sanskrit: tāvaty asaṃvidaṃ mūḍhaḥ sarvatra pratipadyate
+  type: karika
+  verse: '91'
+- chapter: '2'
+  id: vp.2.92
+  sanskrit: sadṛśasyeva saṃjñānam asato 'rthasya manyate
+  type: karika
+  verse: '92'
+- chapter: '2'
+  id: vp.2.93
+  sanskrit: nirbhāgasya prakāśasya nirbhāgeṇaiva cetasā
+  type: karika
+  verse: '93'
+- chapter: '2'
+  id: vp.2.94
+  sanskrit: bhāgābhāve 'pi vākyānām atyantaṃ bhinnadharmaṇām
+  type: karika
+  verse: '94'
+- chapter: '2'
+  id: vp.2.95
+  sanskrit: agṛhītāvadhau śabde kathaṃ cārtho vivicyate
+  type: karika
+  verse: '95'
+- chapter: '2'
+  id: vp.2.96
+  sanskrit: nānārūpeṣu tadrūpaṃ tantreṇāparam iṣyate
+  type: karika
+  verse: '96'
+- chapter: '2'
+  id: vp.2.97
+  sanskrit: rūpaṃ rūpāntarāt tasmād ananyat pravibhajyate
+  type: karika
+  verse: '97'
+- chapter: '2'
+  id: vp.2.98
+  sanskrit: pratyāyyena kvacid bhedo grahaṇagrāhyayoḥ sthitaḥ
+  type: karika
+  verse: '98'
+- chapter: '2'
+  id: vp.2.99
+  sanskrit: lṛluṭor grahaṇe bhedo grāhyābhyāṃ parikalpitaḥ
+  type: karika
+  verse: '99'
+- chapter: '2'
+  id: vp.2.100
+  sanskrit: na hi pratīyamānena grahaṇasyāsti saṃbhavaḥ
+  type: karika
+  verse: '100'
+- chapter: '2'
+  id: vp.2.101
+  sanskrit: bhedena grahaṇaṃ yasya pararūpam iva dvayoḥ
+  type: karika
+  verse: '101'
+- chapter: '2'
+  id: vp.2.102
+  sanskrit: vyudasyatā punar bhedaḥ śabdeṣv atyantam āśritaḥ
+  type: karika
+  verse: '102'
+- chapter: '2'
+  id: vp.2.103
+  sanskrit: tantrāt tathaikaśabdatve bhinnānāṃ śrutir anyathā
+  type: karika
+  verse: '103'
+- chapter: '2'
+  id: vp.2.104
+  sanskrit: śabdāntaratvaṃ yāntīva śaktyantaraparigrahāt
+  type: karika
+  verse: '104'
+- chapter: '2'
+  id: vp.2.105
+  sanskrit: ātmatyāgād ṛte bhinnaṃ grahaṇaṃ sa kramaḥ śrutau
+  type: karika
+  verse: '105'
+- chapter: '2'
+  id: vp.2.106
+  sanskrit: rūpam atyantabhedena tad evaikaṃ prakāśate
+  type: karika
+  verse: '106'
+- chapter: '2'
+  id: vp.2.107
+  sanskrit: gītibhedāt tu gṛhyante tā eva vikṛtā ṛcaḥ
+  type: karika
+  verse: '107'
+- chapter: '2'
+  id: vp.2.108
+  sanskrit: tantreṇoccāraṇe teṣāṃ śāstre sādhutvam ucyate
+  type: karika
+  verse: '108'
+- chapter: '2'
+  id: vp.2.109
+  sanskrit: tantreṇoccāraṇaṃ kāryam anyathā te na sādhavaḥ
+  type: karika
+  verse: '109'
+- chapter: '2'
+  id: vp.2.110
+  sanskrit: tantreṇoccāraṇād ekaṃ rūpaṃ sādhūpalabhyate
+  type: karika
+  verse: '110'
+- chapter: '2'
+  id: vp.2.111
+  sanskrit: yathā tathaiva tantrāt syād bahūnām ekarūpatā
+  type: karika
+  verse: '111'
+- chapter: '2'
+  id: vp.2.112
+  sanskrit: tathā vākyāntarābhāve syād eṣāṃ pṛthagarthatā
+  type: karika
+  verse: '112'
+- chapter: '2'
+  id: vp.2.113
+  sanskrit: yasya tasya na saṃbandho vākyānām upapadyate
+  type: karika
+  verse: '113'
+- chapter: '2'
+  id: vp.2.114
+  sanskrit: kriyāpadānuṣaktas tu saṃbandho 'tha pratīyate
+  type: karika
+  verse: '114'
+- chapter: '2'
+  id: vp.2.115
+  sanskrit: pratyekaṃ tu samāpto 'rthaḥ sahabhūteṣu vartate
+  type: karika
+  verse: '115'
+- chapter: '2'
+  id: vp.2.116
+  sanskrit: atrādhikaraṇe vādāḥ pūrveṣāṃ bahudhā matāḥ
+  type: karika
+  verse: '116'
+- chapter: '2'
+  id: vp.2.117
+  sanskrit: bālānāṃ ca tiraścāṃ ca yathārthapratipādane
+  type: karika
+  verse: '117'
+- chapter: '2'
+  id: vp.2.118
+  sanskrit: anantaram idaṃ kāryam asmād ity upadarśakaḥ
+  type: karika
+  verse: '118'
+- chapter: '2'
+  id: vp.2.119
+  sanskrit: apūrvadevatāsvargaiḥ samam āhur gavādiṣu
+  type: karika
+  verse: '119'
+- chapter: '2'
+  id: vp.2.120
+  sanskrit: na sa śabdasya viṣayaḥ sa hi yatnāntarāśrayaḥ
+  type: karika
+  verse: '120'
+- chapter: '2'
+  id: vp.2.121
+  sanskrit: anuniṣpādinaḥ kāṃś cic chabdārthān iti manyate
+  type: karika
+  verse: '121'
+- chapter: '2'
+  id: vp.2.122
+  sanskrit: na tadvyaktigatān bhedāñ jātiśabdo 'valambate
+  type: karika
+  verse: '122'
+- chapter: '2'
+  id: vp.2.123
+  sanskrit: vastumātraniveśitvāt tadgatir nāntarīyakā
+  type: karika
+  verse: '123'
+- chapter: '2'
+  id: vp.2.124
+  sanskrit: prayogas tv anuniṣpādī śabdārtha iti gamyate
+  type: karika
+  verse: '124'
+- chapter: '2'
+  id: vp.2.125
+  sanskrit: teṣāṃ śabdābhidheyatvam aparair anugamyate
+  type: karika
+  verse: '125'
+- chapter: '2'
+  id: vp.2.126
+  sanskrit: asatyo vāpi saṃsargaḥ śabdārthaḥ kaiś cid iṣyate
+  type: karika
+  verse: '126'
+- chapter: '2'
+  id: vp.2.127
+  sanskrit: śabdo vāpy abhijalpatvam āgato yāti vācyatām
+  type: karika
+  verse: '127'
+- chapter: '2'
+  id: vp.2.128
+  sanskrit: śabdasyārthena taṃ śabdam abhijalpaṃ pracakṣate
+  type: karika
+  verse: '128'
+- chapter: '2'
+  id: vp.2.129
+  sanskrit: kiṃ cid eva kva cid rūpaṃ prādhānyenāvatiṣṭhate
+  type: karika
+  verse: '129'
+- chapter: '2'
+  id: vp.2.130
+  sanskrit: śāstre tūbhayarūpatvaṃ pravibhaktaṃ vivakṣayā
+  type: karika
+  verse: '130'
+- chapter: '2'
+  id: vp.2.131
+  sanskrit: ekasyārthasya niyatā kriyādiparikalpanā
+  type: karika
+  verse: '131'
+- chapter: '2'
+  id: vp.2.132
+  sanskrit: sa bāhyaṃ vastv iti jñātaḥ śabdārtha iti gamyate
+  type: karika
+  verse: '132'
+- chapter: '2'
+  id: vp.2.133
+  sanskrit: ete pratyavabhāsante saṃvinṃātraṃ tv ato 'nyathā
+  type: karika
+  verse: '133'
+- chapter: '2'
+  id: vp.2.134
+  sanskrit: tathaiva śabdād arthasya pratipattir anekadhā
+  type: karika
+  verse: '134'
+- chapter: '2'
+  id: vp.2.135
+  sanskrit: svapratyayānukāreṇa śabdārthaḥ pravibhajyate
+  type: karika
+  verse: '135'
+- chapter: '2'
+  id: vp.2.136
+  sanskrit: kālāntareṇa caiko 'pi taṃ paśyaty anyathā punaḥ
+  type: karika
+  verse: '136'
+- chapter: '2'
+  id: vp.2.137
+  sanskrit: ekena bahubhiś cārtho bahudhā parikalpyate
+  type: karika
+  verse: '137'
+- chapter: '2'
+  id: vp.2.138
+  sanskrit: darśanaṃ vacanaṃ vāpi nityam evānavasthitam
+  type: karika
+  verse: '138'
+- chapter: '2'
+  id: vp.2.139
+  sanskrit: na tena vyavahāro 'sti na tac chabdanibandhanaṃ
+  type: karika
+  verse: '139'
+- chapter: '2'
+  id: vp.2.140
+  sanskrit: naiva cāsti talaṃ vyomni na khadyote hutāśanaḥ
+  type: karika
+  verse: '140'
+- chapter: '2'
+  id: vp.2.141
+  sanskrit: na darśanasya prāmāṇyād dṛśyam arthaṃ prakalpayet
+  type: karika
+  verse: '141'
+- chapter: '2'
+  id: vp.2.142
+  sanskrit: vyavahāre samākhyānaṃ tat prajño na vikalpayet
+  type: karika
+  verse: '142'
+- chapter: '2'
+  id: vp.2.143
+  sanskrit: vākyārtha iti tām āhuḥ padārthair upapāditām
+  type: karika
+  verse: '143'
+- chapter: '2'
+  id: vp.2.144
+  sanskrit: pratyātmavṛtti siddhā sā kartrāpi na nirūpyate
+  type: karika
+  verse: '144'
+- chapter: '2'
+  id: vp.2.145
+  sanskrit: sārvarūpyam ivāpannā viṣayatvena vartate
+  type: karika
+  verse: '145'
+- chapter: '2'
+  id: vp.2.146
+  sanskrit: itikartavyatāyāṃ tāṃ na kaś cid ativartate
+  type: karika
+  verse: '146'
+- chapter: '2'
+  id: vp.2.147
+  sanskrit: samārambhāḥ pratāyante tiraścām api tadvaśāt
+  type: karika
+  verse: '147'
+- chapter: '2'
+  id: vp.2.148
+  sanskrit: madādiśaktayo dṛṣṭāḥ pratibhās tadvatāṃ tathā
+  type: karika
+  verse: '148'
+- chapter: '2'
+  id: vp.2.149
+  sanskrit: jantvādayaḥ kulāyādikaraṇe śikṣitāḥ katham
+  type: karika
+  verse: '149'
+- chapter: '2'
+  id: vp.2.150
+  sanskrit: jātyanvayaprasiddhāsu prayoktā mṛgapakṣiṇām
+  type: karika
+  verse: '150'
+- chapter: '2'
+  id: vp.2.151
+  sanskrit: āsattiviprakarṣābhyām āgamas tu viśiṣyate
+  type: karika
+  verse: '151'
+- chapter: '2'
+  id: vp.2.152
+  sanskrit: viśiṣṭopahitāṃ ceti pratibhāṃ ṣaḍvidhāṃ viduḥ
+  type: karika
+  verse: '152'
+- chapter: '2'
+  id: vp.2.153
+  sanskrit: gośabdo na tv asau teṣāṃ viśeśāṇāṃ prakāśakaḥ
+  type: karika
+  verse: '153'
+- chapter: '2'
+  id: vp.2.154
+  sanskrit: śabdaḥ pravartamāno 'pi na tān aṅgīkaroty asau
+  type: karika
+  verse: '154'
+- chapter: '2'
+  id: vp.2.155
+  sanskrit: śabdo na tasyāvayave pravṛttir upalabhyate
+  type: karika
+  verse: '155'
+- chapter: '2'
+  id: vp.2.156
+  sanskrit: kaiś cit tv avayavair dṛṣṭair arthaḥ kṛtso 'numīyate
+  type: karika
+  verse: '156'
+- chapter: '2'
+  id: vp.2.157
+  sanskrit: nityasaṃbandhināṃ dṛṣṭaṃ guṇānām avadhāraṇam
+  type: karika
+  verse: '157'
+- chapter: '2'
+  id: vp.2.158
+  sanskrit: bindau ca samudāye ca vācakaḥ salilādiṣu
+  type: karika
+  verse: '158'
+- chapter: '2'
+  id: vp.2.159
+  sanskrit: āhaikadeśaṃ tattvena tasyāvayavavartinā
+  type: karika
+  verse: '159'
+- chapter: '2'
+  id: vp.2.160
+  sanskrit: tadarthāpagame tasya prayogo vinivartate
+  type: karika
+  verse: '160'
+- chapter: '2'
+  id: vp.2.161
+  sanskrit: śabdas teṣāṃ na sāṃnidhyaṃ niyamena vyapekṣate
+  type: karika
+  verse: '161'
+- chapter: '2'
+  id: vp.2.162
+  sanskrit: gośabdo na tathā jāter viprayoge pravartate
+  type: karika
+  verse: '162'
+- chapter: '2'
+  id: vp.2.163
+  sanskrit: adṛṣṭaviprayogārthaḥ saṃbandhitvena gamyate
+  type: karika
+  verse: '163'
+- chapter: '2'
+  id: vp.2.164
+  sanskrit: syād vā saṃkhyāvato 'rthasya samudāyo 'bhidhāyakaḥ
+  type: karika
+  verse: '164'
+- chapter: '2'
+  id: vp.2.165
+  sanskrit: arthān svarūpabhedena kāmś cid āhur gavādayaḥ
+  type: karika
+  verse: '165'
+- chapter: '2'
+  id: vp.2.166
+  sanskrit: anvayavyatirekābhyāṃ teṣām artho vibhajyate
+  type: karika
+  verse: '166'
+- chapter: '2'
+  id: vp.2.167
+  sanskrit: niyamas tatra na tv evaṃ niyamo nuṭśabādiṣu
+  type: karika
+  verse: '167'
+- chapter: '2'
+  id: vp.2.168
+  sanskrit: āpekṣikyo hi saṃsarge niyatāḥ śabdaśaktayaḥ
+  type: karika
+  verse: '168'
+- chapter: '2'
+  id: vp.2.169
+  sanskrit: ato 'rthāntaravācitvaṃ saṃghātasyaiva gamyate
+  type: karika
+  verse: '169'
+- chapter: '2'
+  id: vp.2.170
+  sanskrit: bahūnāṃ saṃbhave 'rthānāṃ nimittaṃ kiṃ cid iṣyate
+  type: karika
+  verse: '170'
+- chapter: '2'
+  id: vp.2.171
+  sanskrit: kaiś cit kathaṃ cid ākhyātā nimittāvadhisaṃkaraiḥ
+  type: karika
+  verse: '171'
+- chapter: '2'
+  id: vp.2.172
+  sanskrit: aviruddhaṃ gavādīnāṃ bhinnaiś ca sahacāribhiḥ
+  type: karika
+  verse: '172'
+- chapter: '2'
+  id: vp.2.173
+  sanskrit: kriyate kiṃśukādīnām ekadeśāvadhāraṇaṃ
+  type: karika
+  verse: '173'
+- chapter: '2'
+  id: vp.2.174
+  sanskrit: gavater gadater vāpi gaur ity atrānudarśitam
+  type: karika
+  verse: '174'
+- chapter: '2'
+  id: vp.2.175
+  sanskrit: vyutpādyate na vā sarvaṃ kaiś cic cobhayatheṣyate
+  type: karika
+  verse: '175'
+- chapter: '2'
+  id: vp.2.176
+  sanskrit: jātyantaravad anyasya viśeṣāḥ pratipādakāḥ
+  type: karika
+  verse: '176'
+- chapter: '2'
+  id: vp.2.177
+  sanskrit: tulyarūpaṃ na tad rūḍhāv anyasminn anuṣajyate
+  type: karika
+  verse: '177'
+- chapter: '2'
+  id: vp.2.178
+  sanskrit: kaiś cit kathaṃ cid uddiṣṭau citraṃ hi pratipādanam
+  type: karika
+  verse: '178'
+- chapter: '2'
+  id: vp.2.179
+  sanskrit: bhedābhedābhyupagame na virodho 'sti kaś cana
+  type: karika
+  verse: '179'
+- chapter: '2'
+  id: vp.2.180
+  sanskrit: dhātūpasargayoḥ śāstre dhātur eva tu tādṛśaḥ
+  type: karika
+  verse: '180'
+- chapter: '2'
+  id: vp.2.181
+  sanskrit: kriyāviśeṣāḥ samghāte prakramyante tathāvidhāḥ
+  type: karika
+  verse: '181'
+- chapter: '2'
+  id: vp.2.182
+  sanskrit: sādhanair yāti saṃbandhaṃ tathābhūtaiva sā kriyā
+  type: karika
+  verse: '182'
+- chapter: '2'
+  id: vp.2.183
+  sanskrit: prāk ca sādhanasaṃbandhāt kriyā naivopajāyate
+  type: karika
+  verse: '183'
+- chapter: '2'
+  id: vp.2.184
+  sanskrit: dhātutvaṃ karmabhāvaś ca tathānyad api dṛśyatām
+  type: karika
+  verse: '184'
+- chapter: '2'
+  id: vp.2.185
+  sanskrit: varṇādipariṇāmena phalānām upakurvate
+  type: karika
+  verse: '185'
+- chapter: '2'
+  id: vp.2.186
+  sanskrit: abhyantarīkṛtād bhedaḥ padakāle prakāśate
+  type: karika
+  verse: '186'
+- chapter: '2'
+  id: vp.2.187
+  sanskrit: upasargeṇa saṃbandhe vyajyante pranirādinā
+  type: karika
+  verse: '187'
+- chapter: '2'
+  id: vp.2.188
+  sanskrit: śaktyādhānāya vā dhātoḥ sahakārī prayujyate
+  type: karika
+  verse: '188'
+- chapter: '2'
+  id: vp.2.189
+  sanskrit: tatrānumānād dvividhāt taddharmā prādir ucyate
+  type: karika
+  verse: '189'
+- chapter: '2'
+  id: vp.2.190
+  sanskrit: tasyābhidhāyako dhātuḥ saha tābhyām anarthakaḥ
+  type: karika
+  verse: '190'
+- chapter: '2'
+  id: vp.2.191
+  sanskrit: anarthakena saṃsṛṣṭāḥ prakṛtyarthānuvādinaḥ
+  type: karika
+  verse: '191'
+- chapter: '2'
+  id: vp.2.192
+  sanskrit: āgamā iva ke cit tu saṃbhūyārthasya sādhakāḥ
+  type: karika
+  verse: '192'
+- chapter: '2'
+  id: vp.2.193
+  sanskrit: teṣu prayujyamāneṣu bhinnārtheṣv api sarvathā
+  type: karika
+  verse: '193'
+- chapter: '2'
+  id: vp.2.194
+  sanskrit: pratyayo vācakatve 'pi kevalo na prayujyate
+  type: karika
+  verse: '194'
+- chapter: '2'
+  id: vp.2.195
+  sanskrit: asattvabhūto bhāvaś ca tiṅpadair abhidhīyate
+  type: karika
+  verse: '195'
+- chapter: '2'
+  id: vp.2.196
+  sanskrit: guṇair padānāṃ saṃbandhaḥ paratantrās tu cādayaḥ
+  type: karika
+  verse: '196'
+- chapter: '2'
+  id: vp.2.197
+  sanskrit: śrūyamāṇe kriyāśabde saṃbandho jāyate kva cit
+  type: karika
+  verse: '197'
+- chapter: '2'
+  id: vp.2.198
+  sanskrit: vihitā darśanārthaṃ tu kārakaṃ pratyudāhṛtam
+  type: karika
+  verse: '198'
+- chapter: '2'
+  id: vp.2.199
+  sanskrit: karmapravacanīyena tatra tatra niyamyate
+  type: karika
+  verse: '199'
+- chapter: '2'
+  id: vp.2.200
+  sanskrit: yujyate vir yathā tasya likhāv anupasargatā
+  type: karika
+  verse: '200'
+- chapter: '2'
+  id: vp.2.201
+  sanskrit: sunv abhīty ābhimukhye ca kevalo 'pi prayujyate
+  type: karika
+  verse: '201'
+- chapter: '2'
+  id: vp.2.202
+  sanskrit: ṣatvādivinivṛttyarthaṃ svatyādīnāṃ vidharmaṇām
+  type: karika
+  verse: '202'
+- chapter: '2'
+  id: vp.2.203
+  sanskrit: ārambhād bādhyate prāptā tṛtīyā hetulakṣaṇā
+  type: karika
+  verse: '203'
+- chapter: '2'
+  id: vp.2.204
+  sanskrit: nāpi kriyāpadākṣepi saṃbandhasya tu bhedakaḥ
+  type: karika
+  verse: '204'
+- chapter: '2'
+  id: vp.2.205
+  sanskrit: varṇānāṃ padam arthena yuktaṃ nāvayavāḥ pade
+  type: karika
+  verse: '205'
+- chapter: '2'
+  id: vp.2.206
+  sanskrit: arthāntarāvabodhena saṃbandhavigamena ca
+  type: karika
+  verse: '206'
+- chapter: '2'
+  id: vp.2.107
+  sanskrit: adhigacchata ity eke kuṭīrādinidarśanāt
+  type: karika
+  verse: '107'
+- chapter: '2'
+  id: vp.2.208
+  sanskrit: nopajāyata ity eke samāsasvārthikādiṣu
+  type: karika
+  verse: '208'
+- chapter: '2'
+  id: vp.2.209
+  sanskrit: anvayavyatirekābhyāṃ ke cit kalpitaśaktayaḥ
+  type: karika
+  verse: '209'
+- chapter: '2'
+  id: vp.2.210
+  sanskrit: dhātvādīnāṃ hi śuddhānāṃ laukiko 'rtho na vidyate
+  type: karika
+  verse: '210'
+- chapter: '2'
+  id: vp.2.211
+  sanskrit: prāg vibhaktes tadantasya tathaivārtho na vidyate
+  type: karika
+  verse: '211'
+- chapter: '2'
+  id: vp.2.212
+  sanskrit: arthavattāprakaraṇād āśritaḥ sa tathāvidhaḥ
+  type: karika
+  verse: '212'
+- chapter: '2'
+  id: vp.2.213
+  sanskrit: anyonyāpekṣayā śaktyā varṇaḥ syād abhidhāyakaḥ
+  type: karika
+  verse: '213'
+- chapter: '2'
+  id: vp.2.214
+  sanskrit: na cec chabdāntaram asāv anyūnas tena gamyate
+  type: karika
+  verse: '214'
+- chapter: '2'
+  id: vp.2.215
+  sanskrit: sākṣād iva vyavahitaṃ śabdenārtham upohate
+  type: karika
+  verse: '215'
+- chapter: '2'
+  id: vp.2.216
+  sanskrit: saty api pratyaye 'tyantaṃ samudāye na gamyate
+  type: karika
+  verse: '216'
+- chapter: '2'
+  id: vp.2.217
+  sanskrit: padārthadarśanaṃ tatra tathaivānupakārakam
+  type: karika
+  verse: '217'
+- chapter: '2'
+  id: vp.2.218
+  sanskrit: yugapad bhedasaṃsargau viruddhāv anuṣaṅgiṇau
+  type: karika
+  verse: '218'
+- chapter: '2'
+  id: vp.2.219
+  sanskrit: aprayuktapadaś cārtho bahuvrīhau kathaṃ bhavet
+  type: karika
+  verse: '219'
+- chapter: '2'
+  id: vp.2.220
+  sanskrit: tasmāt saṃghāta evaiko viśiṣṭārthanibandhanam
+  type: karika
+  verse: '220'
+- chapter: '2'
+  id: vp.2.221
+  sanskrit: dvandvasaṃjño 'pi saṃghāto bahūnām abhidhāyakaḥ
+  type: karika
+  verse: '221'
+- chapter: '2'
+  id: vp.2.222
+  sanskrit: kriyaivaṃ dvandvavācye 'rthe pratyekaṃ pravibhajyate
+  type: karika
+  verse: '222'
+- chapter: '2'
+  id: vp.2.223
+  sanskrit: sāpi vyāvṛttarūpe 'rthe sarvanāmasarūpatā
+  type: karika
+  verse: '223'
+- chapter: '2'
+  id: vp.2.224
+  sanskrit: tathā dvandvapadārthasya bhāgeṣu kramadarśanam
+  type: karika
+  verse: '224'
+- chapter: '2'
+  id: vp.2.225
+  sanskrit: kriyāviśeṣān manyante sa dvandvāvayave kramaḥ
+  type: karika
+  verse: '225'
+- chapter: '2'
+  id: vp.2.226
+  sanskrit: vṛttau padārthabhedena prādhānyam upadarśitam
+  type: karika
+  verse: '226'
+- chapter: '2'
+  id: vp.2.227
+  sanskrit: prādhānyaṃ bahudhā bhāṣye doṣās tu prakriyāgatāḥ
+  type: karika
+  verse: '227'
+- chapter: '2'
+  id: vp.2.228
+  sanskrit: bahuvrīhipadārthasya tyāgaḥ sarvasya darśitaḥ
+  type: karika
+  verse: '228'
+- chapter: '2'
+  id: vp.2.229
+  sanskrit: prakṛtau vinivṛttāyāṃ pratyayārthaś ca dhātubhiḥ
+  type: karika
+  verse: '229'
+- chapter: '2'
+  id: vp.2.230
+  sanskrit: kva cid āha pacantīti dhātus tābhyāṃ vinā kva cit
+  type: karika
+  verse: '230'
+- chapter: '2'
+  id: vp.2.231
+  sanskrit: nirdiṣṭās te prakṛtyarthāḥ smṛtyantara udāhṛtāḥ
+  type: karika
+  verse: '231'
+- chapter: '2'
+  id: vp.2.232
+  sanskrit: vyavahārāya manyante śāstrārthaprakriyā yataḥ
+  type: karika
+  verse: '232'
+- chapter: '2'
+  id: vp.2.233
+  sanskrit: anāgamavikalpā tu svayaṃ vidyopavartate
+  type: karika
+  verse: '233'
+- chapter: '2'
+  id: vp.2.234
+  sanskrit: tathā vidyāpy anākhyeyā śāstropāyeva lakṣyate
+  type: karika
+  verse: '234'
+- chapter: '2'
+  id: vp.2.235
+  sanskrit: svabhāva iva cānādir mithyābhyāso vyavasthitaḥ
+  type: karika
+  verse: '235'
+- chapter: '2'
+  id: vp.2.236
+  sanskrit: tathāvayavinaṃ yuktam anyair avayavaiḥ punaḥ
+  type: karika
+  verse: '236'
+- chapter: '2'
+  id: vp.2.237
+  sanskrit: samārambhāc ca bhāvānām ādimad brahma śāśvatam
+  type: karika
+  verse: '237'
+- chapter: '2'
+  id: vp.2.238
+  sanskrit: asatye vartmani sthitvā tataḥ satyaṃ samīhate
+  type: karika
+  verse: '238'
+- chapter: '2'
+  id: vp.2.239
+  sanskrit: punar vākye tam evārtham anyathā pratipadyate
+  type: karika
+  verse: '239'
+- chapter: '2'
+  id: vp.2.240
+  sanskrit: kriyate te nivartante tasmāt tāṃs tatra nāśrayet
+  type: karika
+  verse: '240'
+- chapter: '2'
+  id: vp.2.241
+  sanskrit: nārthe na buddhau saṃbandho nivṛtter avatiṣṭhate
+  type: karika
+  verse: '241'
+- chapter: '2'
+  id: vp.2.242
+  sanskrit: aśabdavācyā sā buddhir nivartyeta sthitā katham
+  type: karika
+  verse: '242'
+- chapter: '2'
+  id: vp.2.243
+  sanskrit: naño vyāpārabhede 'sminn abhāvāvagatiḥ katham
+  type: karika
+  verse: '243'
+- chapter: '2'
+  id: vp.2.244
+  sanskrit: athādhāraḥ sa evāsya niyamārthā śrutir bhavet
+  type: karika
+  verse: '244'
+- chapter: '2'
+  id: vp.2.245
+  sanskrit: kaś cid evārthavāṃs tatra śabdaḥ śeṣās tv anarthakāḥ
+  type: karika
+  verse: '245'
+- chapter: '2'
+  id: vp.2.246
+  sanskrit: vākye samāpte vākyārtham anyathā pratipadyate
+  type: karika
+  verse: '246'
+- chapter: '2'
+  id: vp.2.247
+  sanskrit: padānāṃ pravibhāgena yādṛśaḥ parikalpyate
+  type: karika
+  verse: '247'
+- chapter: '2'
+  id: vp.2.248
+  sanskrit: vākyārthasyābhyupāyo 'sāv ekasya pratipādane
+  type: karika
+  verse: '248'
+- chapter: '2'
+  id: vp.2.249
+  sanskrit: chinnagrathitakalpatvāt tad viśiṣṭataraṃ viduḥ
+  type: karika
+  verse: '249'
+- chapter: '2'
+  id: vp.2.250
+  sanskrit: nimittabhedād ekasya sārvārthyaṃ tasya bhidyate
+  type: karika
+  verse: '250'
+- chapter: '2'
+  id: vp.2.251
+  sanskrit: arthaprakaraṇābhyāṃ vā yogāc chabdāntareṇa vā
+  type: karika
+  verse: '251'
+- chapter: '2'
+  id: vp.2.252
+  sanskrit: tathā sa eva gośabdo vāhīke 'pi vyavasthitaḥ
+  type: karika
+  verse: '252'
+- chapter: '2'
+  id: vp.2.253
+  sanskrit: prasiddhibhedād gauṇatvaṃ mukhyatvaṃ copajāyate
+  type: karika
+  verse: '253'
+- chapter: '2'
+  id: vp.2.254
+  sanskrit: asaṃkareṇa sarvārtho bhinnaśaktir avasthitaḥ
+  type: karika
+  verse: '254'
+- chapter: '2'
+  id: vp.2.255
+  sanskrit: arthamātraṃ viparyastaṃ śabdaḥ svārthe vyavasthitaḥ
+  type: karika
+  verse: '255'
+- chapter: '2'
+  id: vp.2.256
+  sanskrit: arthamātraṃ viparyastaṃ svarūpe tu śrutiḥ sthitā
+  type: karika
+  verse: '256'
+- chapter: '2'
+  id: vp.2.257
+  sanskrit: prāhur atyantabhede 'pi bhedamārgānudarśinaḥ
+  type: karika
+  verse: '257'
+- chapter: '2'
+  id: vp.2.258
+  sanskrit: mantrās ca viniyogena labhante bhedam ūhavat
+  type: karika
+  verse: '258'
+- chapter: '2'
+  id: vp.2.259
+  sanskrit: anarthakānāṃ pāṭho vā śeṣas tv anyaḥ pratīyate
+  type: karika
+  verse: '259'
+- chapter: '2'
+  id: vp.2.260
+  sanskrit: atyantabhedaḥ sarveṣāṃ tatsaṃbandhāt tu tadvatām
+  type: karika
+  verse: '260'
+- chapter: '2'
+  id: vp.2.261
+  sanskrit: anyā japaprabandheṣu sā tv ekaiva pratīyate
+  type: karika
+  verse: '261'
+- chapter: '2'
+  id: vp.2.262
+  sanskrit: vākyarūpasya vākyārthe vṛttir anyānapekṣayā
+  type: karika
+  verse: '262'
+- chapter: '2'
+  id: vp.2.263
+  sanskrit: siddhyasiddhikṛtā teṣāṃ gauṇamukhyaprakalpanā
+  type: karika
+  verse: '263'
+- chapter: '2'
+  id: vp.2.264
+  sanskrit: yuktaḥ pratyāyayaty arthaṃ taṃ gauṇam apare viduḥ
+  type: karika
+  verse: '264'
+- chapter: '2'
+  id: vp.2.265
+  sanskrit: sa mukhya iti vijñeyo rūpamātranibandhanaḥ
+  type: karika
+  verse: '265'
+- chapter: '2'
+  id: vp.2.266
+  sanskrit: tam aprasiddhaṃ manyante gauṇārthābhiniveśinam
+  type: karika
+  verse: '266'
+- chapter: '2'
+  id: vp.2.267
+  sanskrit: nimittaṃ tatra mukhyaṃ syān nimittī gauṇa iṣyate
+  type: karika
+  verse: '267'
+- chapter: '2'
+  id: vp.2.268
+  sanskrit: arthaprakaraṇāpekṣaṃ tayor apy avadhāraṇam
+  type: karika
+  verse: '268'
+- chapter: '2'
+  id: vp.2.269
+  sanskrit: śabdāntareṇa saṃbandhaḥ kasyaikasyopapadyate
+  type: karika
+  verse: '269'
+- chapter: '2'
+  id: vp.2.270
+  sanskrit: tad vākyāntaram evāhur na tad anyena yujyate
+  type: karika
+  verse: '270'
+- chapter: '2'
+  id: vp.2.271
+  sanskrit: praśna eva kriyā tatra prakrāntā darśanādikā
+  type: karika
+  verse: '271'
+- chapter: '2'
+  id: vp.2.272
+  sanskrit: ādhikyam api manyante prasiddher nyūnatāṃ kva cit
+  type: karika
+  verse: '272'
+- chapter: '2'
+  id: vp.2.273
+  sanskrit: saṃbandhisadṛśād dharmāt taṃ gauṇam apare viduḥ
+  type: karika
+  verse: '273'
+- chapter: '2'
+  id: vp.2.274
+  sanskrit: manyante sa gavādis tu gauṇa ity ucyate kva cit
+  type: karika
+  verse: '274'
+- chapter: '2'
+  id: vp.2.275
+  sanskrit: yathā karmasu gamyante sīrāsimusalādayaḥ
+  type: karika
+  verse: '275'
+- chapter: '2'
+  id: vp.2.276
+  sanskrit: rūpād eva tu tādarthyaṃ niyamena pratīyate
+  type: karika
+  verse: '276'
+- chapter: '2'
+  id: vp.2.277
+  sanskrit: śabdo niyatatādarthyaḥ śaktyānyatra prayujyate
+  type: karika
+  verse: '277'
+- chapter: '2'
+  id: vp.2.278
+  sanskrit: taṃ mukhyam arthaṃ manyante gauṇaṃ yatnopapāditam
+  type: karika
+  verse: '278'
+- chapter: '2'
+  id: vp.2.279
+  sanskrit: arthāntarasya tadbhāvas tatra mukhyo 'pi dṛśyate
+  type: karika
+  verse: '279'
+- chapter: '2'
+  id: vp.2.280
+  sanskrit: bhedenāpekṣitā sā tu gauṇatvasya prasādhikā
+  type: karika
+  verse: '280'
+- chapter: '2'
+  id: vp.2.281
+  sanskrit: saṃjñibhiḥ saṃprayujyante 'prasiddhes teṣu gauṇatā
+  type: karika
+  verse: '281'
+- chapter: '2'
+  id: vp.2.282
+  sanskrit: śabdo dattārthavṛttitvād gauṇatvaṃ pratipadyate
+  type: karika
+  verse: '282'
+- chapter: '2'
+  id: vp.2.283
+  sanskrit: hariścandrādiṣu suṭo bhāvābhāvau vyavasthitau
+  type: karika
+  verse: '283'
+- chapter: '2'
+  id: vp.2.284
+  sanskrit: tatrāntaraṅgasaṃskāro bāhye 'rthe na nivartate
+  type: karika
+  verse: '284'
+- chapter: '2'
+  id: vp.2.285
+  sanskrit: yathāsaṃpratyayaṃ śabdas tatra mukhyaḥ prayujyate
+  type: karika
+  verse: '285'
+- chapter: '2'
+  id: vp.2.286
+  sanskrit: na sarvaḥ pratyayas tasmin prasiddha iva jāyate
+  type: karika
+  verse: '286'
+- chapter: '2'
+  id: vp.2.287
+  sanskrit: bhedāt tu sparśanādīnāṃ na jalaṃ mṛgatṛṣṇikā
+  type: karika
+  verse: '287'
+- chapter: '2'
+  id: vp.2.288
+  sanskrit: tena bhedaparicchedas tayos tulye 'pi darśane
+  type: karika
+  verse: '288'
+- chapter: '2'
+  id: vp.2.289
+  sanskrit: yas tasmāl lakṣyate bhedas tam asatyaṃ pracakṣate
+  type: karika
+  verse: '289'
+- chapter: '2'
+  id: vp.2.290
+  sanskrit: na tatra pratighātādi kāryaṃ tadvat pravartate
+  type: karika
+  verse: '290'
+- chapter: '2'
+  id: vp.2.291
+  sanskrit: na tathālātacakrasya vicchinnaṃ spṛśyate hi tat
+  type: karika
+  verse: '291'
+- chapter: '2'
+  id: vp.2.292
+  sanskrit: nagareṣu na te tadvad gandharvanagareṣv api
+  type: karika
+  verse: '292'
+- chapter: '2'
+  id: vp.2.293
+  sanskrit: tāvān na mṛnmayeṣv asti tasmāt te viṣayaḥ kanaḥ
+  type: karika
+  verse: '293'
+- chapter: '2'
+  id: vp.2.294
+  sanskrit: alpadeśāntarāvasthaṃ pratibimbaṃ tu dṛśyate
+  type: karika
+  verse: '294'
+- chapter: '2'
+  id: vp.2.295
+  sanskrit: na te svapnādiṣu svasya tadvad arthasya sādhakāḥ
+  type: karika
+  verse: '295'
+- chapter: '2'
+  id: vp.2.296
+  sanskrit: yathā prasiddhir lokasya tathā tad avasīyate
+  type: karika
+  verse: '296'
+- chapter: '2'
+  id: vp.2.297
+  sanskrit: na tābhyāṃ vyavahāro 'sti śabdā lokanibandhanāḥ
+  type: karika
+  verse: '297'
+- chapter: '2'
+  id: vp.2.298
+  sanskrit: tato 'nyasyāpi sāṃnidhyāt sa karoti prakāśanam
+  type: karika
+  verse: '298'
+- chapter: '2'
+  id: vp.2.299
+  sanskrit: tasmāt prayojakād anyān api pratyāyayaty asau
+  type: karika
+  verse: '299'
+- chapter: '2'
+  id: vp.2.300
+  sanskrit: dhūmam apy anabhipretaṃ janayaty ekasādhanam
+  type: karika
+  verse: '300'
+- chapter: '2'
+  id: vp.2.301
+  sanskrit: avivakṣitam apy arthaṃ prakāśayate saṃnidheḥ
+  type: karika
+  verse: '301'
+- chapter: '2'
+  id: vp.2.302
+  sanskrit: tathā śabdo 'pi saṃbandhī pravivaktuṃ na śakyate
+  type: karika
+  verse: '302'
+- chapter: '2'
+  id: vp.2.303
+  sanskrit: prayojako 'rthaḥ śabdasya rūpābhede 'pi gamyate
+  type: karika
+  verse: '303'
+- chapter: '2'
+  id: vp.2.304
+  sanskrit: kva cit sāṃnidhyam apy eṣāṃ pratipattāv akāraṇam
+  type: karika
+  verse: '304'
+- chapter: '2'
+  id: vp.2.305
+  sanskrit: kva cit pradhānam evārtho bhavaty ayasya lakṣaṇam *
+  type: karika
+  verse: '305'
+- chapter: '2'
+  id: vp.2.306
+  sanskrit: guṇapradhānabhāvasya tatra dṛṣṭo viparyayaḥ *
+  type: karika
+  verse: '306'
+- chapter: '2'
+  id: vp.2.307
+  sanskrit: pramāṇam ardhahrasādāv anupāttaṃ pratīyate
+  type: karika
+  verse: '307'
+- chapter: '2'
+  id: vp.2.308
+  sanskrit: hrasvasya lakṣaṇārthatvāt tadvad evābhidhīyate
+  type: karika
+  verse: '308'
+- chapter: '2'
+  id: vp.2.309
+  sanskrit: jāter vā lakṣaṇāya syāt sarvathā saptaparṇavat
+  type: karika
+  verse: '309'
+- chapter: '2'
+  id: vp.2.310
+  sanskrit: jñāyatāṃ kāla ity etat sopāyam abhidhīyate
+  type: karika
+  verse: '310'
+- chapter: '2'
+  id: vp.2.311
+  sanskrit: sāmānyam āśrayaḥ śakter yaḥ kaś cit pratipādakaḥ
+  type: karika
+  verse: '311'
+- chapter: '2'
+  id: vp.2.312
+  sanskrit: upaghātapare vākye na śvādibhyo na rakṣati
+  type: karika
+  verse: '312'
+- chapter: '2'
+  id: vp.2.313
+  sanskrit: anuktam api rūpeṇa bhujyaṅgatvāt pratīyate
+  type: karika
+  verse: '313'
+- chapter: '2'
+  id: vp.2.314
+  sanskrit: śabdārthāḥ pravibhajyante na rūpād eva kevalāt
+  type: karika
+  verse: '314'
+- chapter: '2'
+  id: vp.2.315
+  sanskrit: arthaḥ prakaraṇaṃ liṅgaṃ śabdasyānyasya saṃnidhiḥ
+  type: karika
+  verse: '315'
+- chapter: '2'
+  id: vp.2.316
+  sanskrit: śabdārthasyānavacchede viśeṣasmṛtihetavaḥ
+  type: karika
+  verse: '316'
+- chapter: '2'
+  id: vp.2.317
+  sanskrit: niyatā yānty abhivyaktiṃ śabdāḥ prakaraṇādibhiḥ
+  type: karika
+  verse: '317'
+- chapter: '2'
+  id: vp.2.318
+  sanskrit: śabdā vākyasya teṣv artho na rūpād adhigamyate
+  type: karika
+  verse: '318'
+- chapter: '2'
+  id: vp.2.319
+  sanskrit: kuśalaḥ pratipattā tām ayathārthāṃ samīhate
+  type: karika
+  verse: '319'
+- chapter: '2'
+  id: vp.2.320
+  sanskrit: stūyate sā stutis tasya kartur eva prayojikā
+  type: karika
+  verse: '320'
+- chapter: '2'
+  id: vp.2.321
+  sanskrit: asatyo 'pi tathā kaś cit pratyavāyo 'bhidhīyate
+  type: karika
+  verse: '321'
+- chapter: '2'
+  id: vp.2.322
+  sanskrit: śāstreṇa pratiṣiddhe 'rthe vidvān kaś cit pravartate
+  type: karika
+  verse: '322'
+- chapter: '2'
+  id: vp.2.323
+  sanskrit: nānyathā pratipattavyaṃ na dato gamayed iti
+  type: karika
+  verse: '323'
+- chapter: '2'
+  id: vp.2.324
+  sanskrit: tatrāpi ca pravṛttiś ca nivṛttiś copadiśyate
+  type: karika
+  verse: '324'
+- chapter: '2'
+  id: vp.2.325
+  sanskrit: sāpekṣā ye tu vākyārthāḥ padārthair eva te samāḥ
+  type: karika
+  verse: '325'
+- chapter: '2'
+  id: vp.2.326
+  sanskrit: antareṇa kriyāśabdaṃ vākyāder dvitvadarśanāt
+  type: karika
+  verse: '326'
+- chapter: '2'
+  id: vp.2.327
+  sanskrit: tad apy ekaṃ samāptārthaṃ vākyam ity abhidhīyate
+  type: karika
+  verse: '327'
+- chapter: '2'
+  id: vp.2.328
+  sanskrit: anumānaṃ tadarthasya pratyaye hetur ucyate
+  type: karika
+  verse: '328'
+- chapter: '2'
+  id: vp.2.329
+  sanskrit: śabdāntarābhisaṃbandham antareṇa vyavasthitam
+  type: karika
+  verse: '329'
+- chapter: '2'
+  id: vp.2.330
+  sanskrit: tam āhur arthaṃ tasyaiva nānyad arthasya lakṣaṇam
+  type: karika
+  verse: '330'
+- chapter: '2'
+  id: vp.2.331
+  sanskrit: vṛttau nirādibhiś caivaṃ krāntādyarthaḥ pratīyate
+  type: karika
+  verse: '331'
+- chapter: '2'
+  id: vp.2.332
+  sanskrit: arthaprakaraṇābhyāṃ tu teṣāṃ svārtho niyamyate
+  type: karika
+  verse: '332'
+- chapter: '2'
+  id: vp.2.333
+  sanskrit: nāvaśyaṃ te 'bhisaṃbaddhāḥ śabdā jñeyena vastunā
+  type: karika
+  verse: '333'
+- chapter: '2'
+  id: vp.2.334
+  sanskrit: svair arthair nityasaṃbandhās te te śabdā vyavasthitāḥ
+  type: karika
+  verse: '334'
+- chapter: '2'
+  id: vp.2.335
+  sanskrit: badhāna dehi vety etad upāyād avagamyate
+  type: karika
+  verse: '335'
+- chapter: '2'
+  id: vp.2.336
+  sanskrit: na sa pradhānabhūtasya sādhyasyārthasya vācakaḥ
+  type: karika
+  verse: '336'
+- chapter: '2'
+  id: vp.2.337
+  sanskrit: arthas tu tasya saṃbandhī prakalpayati saṃnidhim
+  type: karika
+  verse: '337'
+- chapter: '2'
+  id: vp.2.338
+  sanskrit: nārthāc chabdasya sāṃnidhyaṃ na śabdād arthasaṃnidhiḥ
+  type: karika
+  verse: '338'
+- chapter: '2'
+  id: vp.2.339
+  sanskrit: yadi prāptaṃ pradhānatvaṃ yugapad bhāvasattvayoḥ
+  type: karika
+  verse: '339'
+- chapter: '2'
+  id: vp.2.340
+  sanskrit: anvayavyatirekābhyāṃ vyavahāro vibhajyate
+  type: karika
+  verse: '340'
+- chapter: '2'
+  id: vp.2.341
+  sanskrit: ardhaṃ paśor iti yathā sāmarthyāt tad dhi kalpate
+  type: karika
+  verse: '341'
+- chapter: '2'
+  id: vp.2.342
+  sanskrit: saṃsarge ca vibhakto 'sya tasyārtho na pṛthag yadi
+  type: karika
+  verse: '342'
+- chapter: '2'
+  id: vp.2.343
+  sanskrit: catvāri padajātāni sarvam etad virudhyate
+  type: karika
+  verse: '343'
+- chapter: '2'
+  id: vp.2.344
+  sanskrit: dṛṣṭvā catuṣṭvaṃ nāstīti vadaty audumbarāyaṇaḥ
+  type: karika
+  verse: '344'
+- chapter: '2'
+  id: vp.2.345
+  sanskrit: loke śāstre ca kāryārthaṃ vibhāgenaiva kalpitaḥ
+  type: karika
+  verse: '345'
+- chapter: '2'
+  id: vp.2.346
+  sanskrit: tasmād alaukiko vākyād anyaḥ kaś cin na vidyate
+  type: karika
+  verse: '346'
+- chapter: '2'
+  id: vp.2.347
+  sanskrit: svārthā eva pratīyante rūpābhedād alakṣitāḥ
+  type: karika
+  verse: '347'
+- chapter: '2'
+  id: vp.2.348
+  sanskrit: tad bādhakeṣu vākyeṣu śrutam anyatra gamyate
+  type: karika
+  verse: '348'
+- chapter: '2'
+  id: vp.2.349
+  sanskrit: māṭharas takrasaṃbandhāt tatrācaṣṭe yathārthatām
+  type: karika
+  verse: '349'
+- chapter: '2'
+  id: vp.2.350
+  sanskrit: ekam eveṣyate kaiś cid bhinnarūpam iva sthitam
+  type: karika
+  verse: '350'
+- chapter: '2'
+  id: vp.2.351
+  sanskrit: dvitīye yo lug ākhyātas taccheṣam alukaṃ viduḥ
+  type: karika
+  verse: '351'
+- chapter: '2'
+  id: vp.2.352
+  sanskrit: teṣām anupakāritvāt kathaṃ syād ekavākyatā
+  type: karika
+  verse: '352'
+- chapter: '2'
+  id: vp.2.353
+  sanskrit: vidheyavan nivartye 'rthe tasmāt tulyaṃ vyapekṣaṇam
+  type: karika
+  verse: '353'
+- chapter: '2'
+  id: vp.2.354
+  sanskrit: viśiṣṭarūpā sā saṃjñā kṛtā ca na nivartate
+  type: karika
+  verse: '354'
+- chapter: '2'
+  id: vp.2.355
+  sanskrit: saṃjñinaṃ devadattākhyaṃ dattaśabdaḥ kathaṃ vadet
+  type: karika
+  verse: '355'
+- chapter: '2'
+  id: vp.2.356
+  sanskrit: ke cic chabdasvarūpāṇāṃ manyante sarvasaṃjñibhiḥ
+  type: karika
+  verse: '356'
+- chapter: '2'
+  id: vp.2.357
+  sanskrit: saṃbaddho 'vayavaḥ saṃjñāpraviveke na kalpate
+  type: karika
+  verse: '357'
+- chapter: '2'
+  id: vp.2.358
+  sanskrit: naikadeśasarūpebhyas tatpratyāyanasaṃbhavaḥ
+  type: karika
+  verse: '358'
+- chapter: '2'
+  id: vp.2.359
+  sanskrit: smṛtes tu viṣayāc chabdāt saṃghātārthaḥ pratīyate
+  type: karika
+  verse: '359'
+- chapter: '2'
+  id: vp.2.360
+  sanskrit: kathaṃ pratīyamānaḥ syāc chabdo 'rthasyābhidhāyakaḥ
+  type: karika
+  verse: '360'
+- chapter: '2'
+  id: vp.2.361
+  sanskrit: anuniṣpādinaḥ śabdāḥ saṃjñāsu samavasthitāḥ
+  type: karika
+  verse: '361'
+- chapter: '2'
+  id: vp.2.362
+  sanskrit: teṣāṃ ye sādhavas teṣu śāstre lopādi śiṣyate
+  type: karika
+  verse: '362'
+- chapter: '2'
+  id: vp.2.363
+  sanskrit: na hy anvākhyāyake śāstre teṣu dattādivat smṛtiḥ
+  type: karika
+  verse: '363'
+- chapter: '2'
+  id: vp.2.364
+  sanskrit: ekadravyopadeśitvāt tān sādhūn saṃpracakṣate
+  type: karika
+  verse: '364'
+- chapter: '2'
+  id: vp.2.365
+  sanskrit: nimittāpekṣaṇaṃ teṣu svārthe nāvaśyam iṣyate
+  type: karika
+  verse: '365'
+- chapter: '2'
+  id: vp.2.366
+  sanskrit: nitya eva tu saṃbandho ḍitthādiṣu gavādivat
+  type: karika
+  verse: '366'
+- chapter: '2'
+  id: vp.2.367
+  sanskrit: saṃjñāyāṃ sā hi puruṣair yathākāmaṃ niyujyate
+  type: karika
+  verse: '367'
+- chapter: '2'
+  id: vp.2.368
+  sanskrit: saṃjñāḥ kriyante sarvāsu saṃjñāsv eṣaiva kalpanā
+  type: karika
+  verse: '368'
+- chapter: '2'
+  id: vp.2.369
+  sanskrit: akṛtrimo hi saṃbandho viśeṣaṇaviśeṣyavat
+  type: karika
+  verse: '369'
+- chapter: '2'
+  id: vp.2.370
+  sanskrit: kā cit pravartate kā cin nimittāsaṃnidhāv api
+  type: karika
+  verse: '370'
+- chapter: '2'
+  id: vp.2.371
+  sanskrit: anumānaṃ nimittasya saṃnidhāne pratīyate
+  type: karika
+  verse: '371'
+- chapter: '2'
+  id: vp.2.372
+  sanskrit: śabdabhedānumānaṃ vā śaktibhedasya vā gatiḥ
+  type: karika
+  verse: '372'
+- chapter: '2'
+  id: vp.2.373
+  sanskrit: saṃkhyāyām ekaviṣayaṃ vyavasthānaṃ dvayor api
+  type: karika
+  verse: '373'
+- chapter: '2'
+  id: vp.2.374
+  sanskrit: vyāpnoti dūrāt saṃbuddhau tathā hi grahaṇaṃ dvayoḥ
+  type: karika
+  verse: '374'
+- chapter: '2'
+  id: vp.2.375
+  sanskrit: pratyāśrayam avasthānaṃ kriyāṇāṃ pratijānate
+  type: karika
+  verse: '375'
+- chapter: '2'
+  id: vp.2.376
+  sanskrit: anyathā hi vyavasthāne na tadarthaḥ prakalpyate
+  type: karika
+  verse: '376'
+- chapter: '2'
+  id: vp.2.377
+  sanskrit: pratyekaṃ pratipadyante na tu nāṭyakriyām iva
+  type: karika
+  verse: '377'
+- chapter: '2'
+  id: vp.2.378
+  sanskrit: bhujiḥ karoti bhujyarthaṃ na tantreṇa pradīpavat
+  type: karika
+  verse: '378'
+- chapter: '2'
+  id: vp.2.379
+  sanskrit: āvṛttim antareṇāpi samudāyāśrayā bhavet
+  type: karika
+  verse: '379'
+- chapter: '2'
+  id: vp.2.380
+  sanskrit: kartṝṇāṃ darśanaṃ bhinnaṃ saṃbhūyārthasya sādhakam
+  type: karika
+  verse: '380'
+- chapter: '2'
+  id: vp.2.381
+  sanskrit: arthiṣv ādaikṣu bhedena vṛddhisaṃjñā samāpyate
+  type: karika
+  verse: '381'
+- chapter: '2'
+  id: vp.2.382
+  sanskrit: arthināṃ guṇabhede 'pi saṃkhyeyo 'rtho na bhidyate
+  type: karika
+  verse: '382'
+- chapter: '2'
+  id: vp.2.383
+  sanskrit: tatra tantreṇa saṃbandhaḥ samāsābhyastasaṃjñayoḥ
+  type: karika
+  verse: '383'
+- chapter: '2'
+  id: vp.2.384
+  sanskrit: tair vyastaiś ca samastaiś ca sa dharma upalakṣyate
+  type: karika
+  verse: '384'
+- chapter: '2'
+  id: vp.2.385
+  sanskrit: pratyekaṃ saṃhatānāṃ ca praveśaḥ pratiṣidhyate
+  type: karika
+  verse: '385'
+- chapter: '2'
+  id: vp.2.386
+  sanskrit: pṛthag apratiṣiddhatvāt pravṛttir na virudhyate
+  type: karika
+  verse: '386'
+- chapter: '2'
+  id: vp.2.387
+  sanskrit: pratyekaṃ vā samastair vā ṇatvaṃ na pratiṣidhyate
+  type: karika
+  verse: '387'
+- chapter: '2'
+  id: vp.2.388
+  sanskrit: deśakālādyabhedena nānugṛhṇāti tān asau
+  type: karika
+  verse: '388'
+- chapter: '2'
+  id: vp.2.389
+  sanskrit: viparyaye vā bhinnasya tasyaikatvaṃ prakalpyate
+  type: karika
+  verse: '389'
+- chapter: '2'
+  id: vp.2.390
+  sanskrit: svaṃ svaṃ bhojyaṃ vibhāgena prāptaṃ saṃbhūya bhuñjate
+  type: karika
+  verse: '390'
+- chapter: '2'
+  id: vp.2.391
+  sanskrit: dvidhā samāptyayogāc ca śatam saṅghe 'vatiṣṭhate
+  type: karika
+  verse: '391'
+- chapter: '2'
+  id: vp.2.392
+  sanskrit: tatrāpi lakṣaṇārthatvād dvidhā vākyaṃ samāpyate
+  type: karika
+  verse: '392'
+- chapter: '2'
+  id: vp.2.393
+  sanskrit: rūpāntareṇa yuktānāṃ vākyanāṃ tena saṃgrahaḥ
+  type: karika
+  verse: '393'
+- chapter: '2'
+  id: vp.2.394
+  sanskrit: tasmiṃs tūccarite bhedāṃs tathānyān pratipadyate
+  type: karika
+  verse: '394'
+- chapter: '2'
+  id: vp.2.395
+  sanskrit: teṣāṃ tadānīṃ bhinnasya kiṃ padārthasya sattayā
+  type: karika
+  verse: '395'
+- chapter: '2'
+  id: vp.2.396
+  sanskrit: pūrvasyārthasya tena syād virodhaḥ saha vā sthitiḥ
+  type: karika
+  verse: '396'
+- chapter: '2'
+  id: vp.2.397
+  sanskrit: vyabhicārī tu saṃbandhas tyāge 'rthasya prasajyate
+  type: karika
+  verse: '397'
+- chapter: '2'
+  id: vp.2.398
+  sanskrit: saṅghe saṅghiṣu cārthātmā samnidhānanideśakaḥ
+  type: karika
+  verse: '398'
+- chapter: '2'
+  id: vp.2.399
+  sanskrit: prītiś cāvikalā tadvat saṃbandho 'rthena tadvatām
+  type: karika
+  verse: '399'
+- chapter: '2'
+  id: vp.2.400
+  sanskrit: samudāye na caikatvaṃ bhedena vyavatiṣṭhate
+  type: karika
+  verse: '400'
+- chapter: '2'
+  id: vp.2.401
+  sanskrit: paśyanti tadvad ekena supā saṃkhyābhidhīyate
+  type: karika
+  verse: '401'
+- chapter: '2'
+  id: vp.2.402
+  sanskrit: abhyāsāt prakramo 'nyas tu viruddha iva dṛśyate
+  type: karika
+  verse: '402'
+- chapter: '2'
+  id: vp.2.403
+  sanskrit: arthābhidhānasaṃbandham uktidvāraṃ pracakṣate
+  type: karika
+  verse: '403'
+- chapter: '2'
+  id: vp.2.404
+  sanskrit: tathābhisaṃhitaḥ śabdo bhavaty arthasya vācakaḥ
+  type: karika
+  verse: '404'
+- chapter: '2'
+  id: vp.2.405
+  sanskrit: abhidhāniyamas tasmād abhidhānābhidheyayoḥ
+  type: karika
+  verse: '405'
+- chapter: '2'
+  id: vp.2.406
+  sanskrit: yat prayoktābhisaṃdhatte śabdas tatrāvatiṣṭhate
+  type: karika
+  verse: '406'
+- chapter: '2'
+  id: vp.2.407
+  sanskrit: svarūpamātravṛttīṃś ca pareṣāṃ pratipādane
+  type: karika
+  verse: '407'
+- chapter: '2'
+  id: vp.2.408
+  sanskrit: niyogabhedān manyante tān evaikatvadarśinaḥ
+  type: karika
+  verse: '408'
+- chapter: '2'
+  id: vp.2.409
+  sanskrit: akṣādīnām iva prāhur ekajātisamanvayāt
+  type: karika
+  verse: '409'
+- chapter: '2'
+  id: vp.2.410
+  sanskrit: viṣaye yataśaktitvāt sa tu tatra vyavasthitaḥ
+  type: karika
+  verse: '410'
+- chapter: '2'
+  id: vp.2.411
+  sanskrit: na jātv arthāntare vṛttir anyārthānāṃ kathaṃ cana
+  type: karika
+  verse: '411'
+- chapter: '2'
+  id: vp.2.412
+  sanskrit: kāmaṃ vimarśas tatrāyaṃ na vākyāvayave pade
+  type: karika
+  verse: '412'
+- chapter: '2'
+  id: vp.2.413
+  sanskrit: padair anarthakair evaṃ viśiṣṭo 'rtho 'bhidhīyate
+  type: karika
+  verse: '413'
+- chapter: '2'
+  id: vp.2.414
+  sanskrit: pratipatter upāyo 'sau prakramānavadhāraṇāt
+  type: karika
+  verse: '414'
+- chapter: '2'
+  id: vp.2.415
+  sanskrit: saṃsarga eva prakrāntas tathānyeṣv arthavastuṣu
+  type: karika
+  verse: '415'
+- chapter: '2'
+  id: vp.2.416
+  sanskrit: ārādhaniyamārthaiva sādhanānāṃ punaḥ śrutiḥ
+  type: karika
+  verse: '416'
+- chapter: '2'
+  id: vp.2.417
+  sanskrit: sāmarthyāt saṃbhavas tasya śrutis tv anyanivṛttaye
+  type: karika
+  verse: '417'
+- chapter: '2'
+  id: vp.2.418
+  sanskrit: prakrāntā pratipattṝṇāṃ bhedāḥ saṃbodhahetavaḥ
+  type: karika
+  verse: '418'
+- chapter: '2'
+  id: vp.2.419
+  sanskrit: prakāśate tadanyeṣāṃ vākyaṃ vākyārtha eva ca
+  type: karika
+  verse: '419'
+- chapter: '2'
+  id: vp.2.420
+  sanskrit: nāsti yasya svarūpaṃ tu tasyaivātmā nirūpyate
+  type: karika
+  verse: '420'
+- chapter: '2'
+  id: vp.2.421
+  sanskrit: arthāvabhāsarūpā ca śabdebhyo jāyate smṛtiḥ
+  type: karika
+  verse: '421'
+- chapter: '2'
+  id: vp.2.422
+  sanskrit: anyathā dāhaśabdena dāhārthaḥ saṃpratīyate
+  type: karika
+  verse: '422'
+- chapter: '2'
+  id: vp.2.423
+  sanskrit: indriyāṇāṃ yathā kāryam ṛte dehān na kalpate
+  type: karika
+  verse: '423'
+- chapter: '2'
+  id: vp.2.424
+  sanskrit: vākyebhyaḥ pravibhaktānām arthavattā na vidyate
+  type: karika
+  verse: '424'
+- chapter: '2'
+  id: vp.2.425
+  sanskrit: nātropākhyāyate tattvam apadārthasya darśanāt
+  type: karika
+  verse: '425'
+- chapter: '2'
+  id: vp.2.426
+  sanskrit: vastu saṃsargarūpeṇa tad arūpaṃ nirūpyate
+  type: karika
+  verse: '426'
+- chapter: '2'
+  id: vp.2.427
+  sanskrit: artho 'bhidhīyate yasmād ato vākyaṃ prayujyate
+  type: karika
+  verse: '427'
+- chapter: '2'
+  id: vp.2.428
+  sanskrit: satyo vā viparīto vā vyavahāre na so 'sty ataḥ
+  type: karika
+  verse: '428'
+- chapter: '2'
+  id: vp.2.429
+  sanskrit: kriyābhidhānasaṃbandham antareṇa na gamyate
+  type: karika
+  verse: '429'
+- chapter: '2'
+  id: vp.2.430
+  sanskrit: vinā sattvābhidhānena nākāṅkṣā vinivartate
+  type: karika
+  verse: '430'
+- chapter: '2'
+  id: vp.2.431
+  sanskrit: sādhyaprayuktāny aṅgāni phalaṃ tasya prayojakam
+  type: karika
+  verse: '431'
+- chapter: '2'
+  id: vp.2.432
+  sanskrit: arthasya cābhisaṃbandhakalpanāṃ prasamīhate
+  type: karika
+  verse: '432'
+- chapter: '2'
+  id: vp.2.433
+  sanskrit: paktiḥ karaṇarūpaṃ tu sādhyatvena pratīyate
+  type: karika
+  verse: '433'
+- chapter: '2'
+  id: vp.2.434
+  sanskrit: arthasya sarvaśaktitvāt sa tathaiva vyavasthitaḥ
+  type: karika
+  verse: '434'
+- chapter: '2'
+  id: vp.2.435
+  sanskrit: āśliṣṭo yo 'nupaśliṣṭaḥ sa kadā cit pratīyate
+  type: karika
+  verse: '435'
+- chapter: '2'
+  id: vp.2.436
+  sanskrit: nānātmakānām ekatvaṃ nānātvaṃ ca viparyaye
+  type: karika
+  verse: '436'
+- chapter: '2'
+  id: vp.2.437
+  sanskrit: atyantayataśaktitvāc chabda eva nibandhanam
+  type: karika
+  verse: '437'
+- chapter: '2'
+  id: vp.2.438
+  sanskrit: na svaśaktiḥ padārthānāṃ saṃspraṣṭuṃ tena śakyate
+  type: karika
+  verse: '438'
+- chapter: '2'
+  id: vp.2.439
+  sanskrit: saṃbandhaḥ samavāyas tu saṃbandhitvena gamyate
+  type: karika
+  verse: '439'
+- chapter: '2'
+  id: vp.2.440
+  sanskrit: upakārāt sa evārthaḥ kathaṃ cid anugamyate
+  type: karika
+  verse: '440'
+- chapter: '2'
+  id: vp.2.441
+  sanskrit: vyavahāre padārthānāṃ tam ātmānaṃ pracakṣate
+  type: karika
+  verse: '441'
+- chapter: '2'
+  id: vp.2.442
+  sanskrit: padārtharūpabhedena tasyātmā pravibhajyate
+  type: karika
+  verse: '442'
+- chapter: '2'
+  id: vp.2.443
+  sanskrit: sākāṅkṣāvayavaṃ bhede tenānyad upavarṇyate
+  type: karika
+  verse: '443'
+- chapter: '2'
+  id: vp.2.444
+  sanskrit: ekārthatvaṃ hi vākyasya mātrayāpi pratīyate
+  type: karika
+  verse: '444'
+- chapter: '2'
+  id: vp.2.445
+  sanskrit: bāhyīkṛtya vibhāgas tu śaktyapoddhāralakṣaṇaḥ
+  type: karika
+  verse: '445'
+- chapter: '2'
+  id: vp.2.446
+  sanskrit: anyatra ca tato rūpaṃ na tāsām upalabhyate
+  type: karika
+  verse: '446'
+- chapter: '2'
+  id: vp.2.447
+  sanskrit: tiṅā tiṅbhyo nighātasya paryudāsas tathārthavān
+  type: karika
+  verse: '447'
+- chapter: '2'
+  id: vp.2.448
+  sanskrit: tasyātiṅgrahaṇenārtho vākyabhedān na vidyate
+  type: karika
+  verse: '448'
+- chapter: '2'
+  id: vp.2.449
+  sanskrit: mṛgaḥ paśyata yātīti bhedābhedau na tiṣṭhataḥ
+  type: karika
+  verse: '449'
+- chapter: '2'
+  id: vp.2.450
+  sanskrit: aśabdalakṣaṇākāṅkṣaṃ samāptārthaṃ tad ucyate
+  type: karika
+  verse: '450'
+- chapter: '2'
+  id: vp.2.451
+  sanskrit: vināpi tatprayogeṇa śruter vākyaṃ samāpyate
+  type: karika
+  verse: '451'
+- chapter: '2'
+  id: vp.2.452
+  sanskrit: tādarthyasyāviśeṣe 'pi śabdād bhedaḥ pratīyate
+  type: karika
+  verse: '452'
+- chapter: '2'
+  id: vp.2.453
+  sanskrit: asaṃkhyātāḥ kramoddeśair ekākhyātanidarśitāḥ
+  type: karika
+  verse: '453'
+- chapter: '2'
+  id: vp.2.454
+  sanskrit: śruter aśakyā bhedānāṃ pravibhāgaprakalpanā
+  type: karika
+  verse: '454'
+- chapter: '2'
+  id: vp.2.455
+  sanskrit: brāhmaṇā iti nākhyātarūpād bhedaḥ pratīyate
+  type: karika
+  verse: '455'
+- chapter: '2'
+  id: vp.2.456
+  sanskrit: prajāpatyeṣu sāmarthyāt sā bhedaṃ pratipadyate
+  type: karika
+  verse: '456'
+- chapter: '2'
+  id: vp.2.457
+  sanskrit: pratisvatantraṃ vākyaṃ vā bhedena pratipadyate
+  type: karika
+  verse: '457'
+- chapter: '2'
+  id: vp.2.458
+  sanskrit: pratipattau tu bhinnānām anyad rūpaṃ pratīyate
+  type: karika
+  verse: '458'
+- chapter: '2'
+  id: vp.2.459
+  sanskrit: kartarīti yathā tac ca paśvādiṣu vibhajyate
+  type: karika
+  verse: '459'
+- chapter: '2'
+  id: vp.2.460
+  sanskrit: naivānyenābhisaṃbandhaṃ tad upeyāt kathaṃ cana
+  type: karika
+  verse: '460'
+- chapter: '2'
+  id: vp.2.461
+  sanskrit: yonir vibhāgavākyānāṃ tebhyo 'nanyad iva sthitam
+  type: karika
+  verse: '461'
+- chapter: '2'
+  id: vp.2.462
+  sanskrit: sāmānyabhāga evāsyāḥ kva cid arthasya sādhakaḥ
+  type: karika
+  verse: '462'
+- chapter: '2'
+  id: vp.2.463
+  sanskrit: prakrame jātibhāgasya śabdātmā tair na bhidyate
+  type: karika
+  verse: '463'
+- chapter: '2'
+  id: vp.2.464
+  sanskrit: bhedena viniyujyante tacchabdasya sakṛc chrutau
+  type: karika
+  verse: '464'
+- chapter: '2'
+  id: vp.2.465
+  sanskrit: prayogakālābhede 'pi pratibhedaṃ pṛthak sthitāḥ
+  type: karika
+  verse: '465'
+- chapter: '2'
+  id: vp.2.466
+  sanskrit: eṣāṃ kramo vibhaktānāṃ tannibaddhā sakṛc chrutiḥ
+  type: karika
+  verse: '466'
+- chapter: '2'
+  id: vp.2.467
+  sanskrit: kramo vā yaugapadyaṃ vā yau loko nātivartate
+  type: karika
+  verse: '467'
+- chapter: '2'
+  id: vp.2.468
+  sanskrit: kriyā tu yaugapadye 'pi kramarūpānupātinī
+  type: karika
+  verse: '468'
+- chapter: '2'
+  id: vp.2.469
+  sanskrit: yaugapadye 'py anekena prayoge bhidyate śrutiḥ
+  type: karika
+  verse: '469'
+- chapter: '2'
+  id: vp.2.470
+  sanskrit: tasyāvayavadharmeṇa samudāyo 'nugamyate
+  type: karika
+  verse: '470'
+- chapter: '2'
+  id: vp.2.471
+  sanskrit: śrutir vacanabhinnā vā vākyabhede 'vatiṣṭhate
+  type: karika
+  verse: '471'
+- chapter: '2'
+  id: vp.2.472
+  sanskrit: pratyekaṃ vā bahutvena pravibhāgo yathāśruti
+  type: karika
+  verse: '472'
+- chapter: '2'
+  id: vp.2.473
+  sanskrit: anekaśakter ekasya svaśaktiḥ pravibhajyate
+  type: karika
+  verse: '473'
+- chapter: '2'
+  id: vp.2.474
+  sanskrit: upāyas tatra saṃsargaḥ pratipattṛṣu bhidyate
+  type: karika
+  verse: '474'
+- chapter: '2'
+  id: vp.2.475
+  sanskrit: tantreṇa pratipattāraḥ prayoktrā pratipāditāḥ
+  type: karika
+  verse: '475'
+- chapter: '2'
+  id: vp.2.476
+  sanskrit: vinābhisaṃdhinā śabdaḥ śaktirūpaḥ prakāśate
+  type: karika
+  verse: '476'
+- chapter: '2'
+  id: vp.2.477
+  sanskrit: agniḥ prakāśadāhābhyām ekatrāpi niyujyate
+  type: karika
+  verse: '477'
+- chapter: '2'
+  id: vp.2.478
+  sanskrit: liṅgād vā tantradharmād vā vibhāgo vyavatiṣṭhate
+  type: karika
+  verse: '478'
+- chapter: '2'
+  id: vp.2.479
+  sanskrit: pravibhāgas tathā sūtra ekasminn eva jāyate
+  type: karika
+  verse: '479'
+- chapter: '2'
+  id: vp.2.480
+  sanskrit: ekaśeṣeṇa nirdeśo bhāṣya eva pradarśitaḥ
+  type: karika
+  verse: '480'
+- chapter: '2'
+  id: vp.2.481
+  sanskrit: saṃprāpya vaiyākaraṇān saṃgrahe 'stam upāgate
+  type: karika
+  verse: '481'
+- chapter: '2'
+  id: vp.2.482
+  sanskrit: sarvesaṃ nyāyabījānāṃ mahābhāṣye nibandhane
+  type: karika
+  verse: '482'
+- chapter: '2'
+  id: vp.2.483
+  sanskrit: tasminn akṛtabuddhīnām naivāvāsthita niścayaḥ
+  type: karika
+  verse: '483'
+- chapter: '2'
+  id: vp.2.484
+  sanskrit: ārṣe viplāvite granthe saṃgrahapratikañcuke
+  type: karika
+  verse: '484'
+- chapter: '2'
+  id: vp.2.485
+  sanskrit: kālena dākṣiṇātyeṣu granthamātro vyavasthitaḥ
+  type: karika
+  verse: '485'
+- chapter: '2'
+  id: vp.2.486
+  sanskrit: sa nīto bahuśākhatvaṃ cāndrācāryādibhiḥ punaḥ
+  type: karika
+  verse: '486'
+- chapter: '2'
+  id: vp.2.487
+  sanskrit: praṇīto guruṇāsmākam ayam āgamasaṃgrahaḥ
+  type: karika
+  verse: '487'
+- chapter: '2'
+  id: vp.2.488
+  sanskrit: kāṇḍe tṛtīye nyakṣena bhaviṣyati vicāraṇā
+  type: karika
+  verse: '488'
+- chapter: '2'
+  id: vp.2.489
+  sanskrit: kiyad vā śakyam unnetuṃ svatarkam anudhāvatā
+  type: karika
+  verse: '489'
+- chapter: '2'
+  id: vp.2.490
+  sanskrit: anupāsitavṛddhānāṃ vidyā nātiprasīdati
+  type: karika
+  verse: '490'
+work:
+  genre: sastra
+  id: vakyapadiya
+  metadata:
+    source: GRETIL
+  title: Vākyapadīya (Bhartṛhari)
+  tradition: grammar

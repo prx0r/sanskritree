@@ -1,0 +1,13 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: dhāvanvā yatpadaṃ gacchet tatra spandaḥ pratiṣṭhitaḥ
+
+LEXICAL EVIDENCE:
+  DAvat1: [unrecognized: DAvat1]
+  vA1: [unrecognized: vA1]
+  yat2: [unrecognized: yat2]
+  gam: to go
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

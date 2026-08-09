@@ -1,0 +1,2924 @@
+{
+  "run_id": "64416936-f24e-45b8-b7e7-0a74dc645051",
+  "split": "development",
+  "created_at": "2026-07-24T15:42:43.856272+00:00",
+  "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+  "n_passages": 30,
+  "results": [
+    {
+      "passage_id": "spk.1.2",
+      "run_id": "58472e2d-09de-455c-9a98-e5ecb312c8f7",
+      "source_hash": "e79edd70e419020d931884b2ad7edf8885d8b116e8f0ed77b37b44fac32d4254",
+      "source_text": "tasy\u0101n\u0101v\u1e5btar\u016bpatv\u0101n na nirodho'sti kutracit",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.2.reading.spandakarika.gretil_1_43",
+          "hyp_her_spk.1.2.reading.spandakarika.gretil_2_43",
+          "hyp_her_spk.1.2.reading.spandakarika.gretil_3_43"
+        ],
+        "lemma": "anna",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "Instruction"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_1_43",
+          "rank": 0,
+          "score": -0.6796029554521881,
+          "score_components": {
+            "engine_prior": -0.6796029554521881,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_1_43",
+          "engine": "heritage",
+          "lemma": "anAvfta",
+          "analysis_type_id": "mat_her_anAvfta_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_2_43",
+          "rank": 0,
+          "score": -0.6796029554521881,
+          "score_components": {
+            "engine_prior": -0.6796029554521881,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_2_43",
+          "engine": "heritage",
+          "lemma": "rUpatva",
+          "analysis_type_id": "mat_her_rUpatva_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_3_43",
+          "rank": 0,
+          "score": -0.6796029554521881,
+          "score_components": {
+            "engine_prior": -0.6796029554521881,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.2.reading.spandakarika.gretil_3_43",
+          "engine": "heritage",
+          "lemma": "anna",
+          "analysis_type_id": "mat_her_anna_8",
+          "features": {
+            "heritage_case": "8",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:39.595043+00:00"
+    },
+    {
+      "passage_id": "spk.1.3",
+      "run_id": "d8ce8b96-9791-4bcc-abba-fcf76cebc021",
+      "source_hash": "e945cb497fab5a77c6dbf8580d9bf78f30e429b83f14b6f162404c6ff4e2f58e",
+      "source_text": "nivartate nij\u0101n naiva svabh\u0101v\u0101dupalabdh\u1e5bta\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.3.reading.spandakarika.gretil_0_10",
+          "hyp_her_spk.1.3.reading.spandakarika.gretil_1_10",
+          "hyp_her_spk.1.3.reading.spandakarika.gretil_2_12",
+          "hyp_her_spk.1.3.reading.spandakarika.gretil_3_49"
+        ],
+        "lemma": "i",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "Instruction"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_0_10",
+          "rank": 0,
+          "score": -0.640037355245997,
+          "score_components": {
+            "engine_prior": -0.640037355245997,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_0_10",
+          "engine": "heritage",
+          "lemma": "ni-vft1",
+          "analysis_type_id": "mat_her_ni-vft1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u0906\u092a\u092d\u094d\u0935\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_1_10",
+          "rank": 0,
+          "score": -0.640037355245997,
+          "score_components": {
+            "engine_prior": -0.640037355245997,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_1_10",
+          "engine": "heritage",
+          "lemma": "nija",
+          "analysis_type_id": "mat_her_nija_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u092c\u0939\u0941"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_2_12",
+          "rank": 0,
+          "score": -0.6480267452794757,
+          "score_components": {
+            "engine_prior": -0.6480267452794757,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_2_12",
+          "engine": "heritage",
+          "lemma": "nf",
+          "analysis_type_id": "mat_her_nf_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_3_49",
+          "rank": 0,
+          "score": -0.6812186096946715,
+          "score_components": {
+            "engine_prior": -0.6812186096946715,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.3.reading.spandakarika.gretil_3_49",
+          "engine": "heritage",
+          "lemma": "i",
+          "analysis_type_id": "mat_her_i_\u0932\u0919\u094d",
+          "features": {
+            "heritage_case": "\u0932\u0919\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u092a\u092a\u0905\u0926\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:39.725683+00:00"
+    },
+    {
+      "passage_id": "spk.1.4",
+      "run_id": "11573164-6b2f-4de5-b688-8c272f780075",
+      "source_hash": "11678fd1fd2784688203542fec95c16c54aad10493f9f040bac726ca7acafb1d",
+      "source_text": "sukh\u0101dyavasth\u0101nusy\u016bte vartante 'nyatra t\u0101\u1e25 sphu\u1e6dam",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.4.reading.spandakarika.gretil_0_2",
+          "hyp_her_spk.1.4.reading.spandakarika.gretil_1_2",
+          "hyp_her_spk.1.4.reading.spandakarika.gretil_2_2",
+          "hyp_her_spk.1.4.reading.spandakarika.gretil_3_2",
+          "hyp_compound_spk.1.4.reading.spandakarika.gretil_4_sPuw+am"
+        ],
+        "lemma": "sPuw",
+        "engine": "compound_splitter_v2",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_0_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_0_2",
+          "engine": "heritage",
+          "lemma": "suKA",
+          "analysis_type_id": "mat_her_suKA_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_1_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_1_2",
+          "engine": "heritage",
+          "lemma": "Adi",
+          "analysis_type_id": "mat_her_Adi_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_2_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_2_2",
+          "engine": "heritage",
+          "lemma": "avasTA2",
+          "analysis_type_id": "mat_her_avasTA2_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_3_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.4.reading.spandakarika.gretil_3_2",
+          "engine": "heritage",
+          "lemma": "anusyUta",
+          "analysis_type_id": "mat_her_anusyUta_7",
+          "features": {
+            "heritage_case": "7",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.4.reading.spandakarika.gretil_4_sPuw+am",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.4.reading.spandakarika.gretil_4_sPuw+am",
+          "engine": "compound_splitter_v2",
+          "lemma": "sPuw",
+          "analysis_type_id": "cmp_spk.1.4.reading.spandakarika.gretil_4_sPuw+am",
+          "features": {
+            "compound_members": [
+              "sPuw",
+              "am"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:39.855029+00:00"
+    },
+    {
+      "passage_id": "spk.1.6",
+      "run_id": "3a9dbeec-1ad0-41e3-944c-1428545e56f5",
+      "source_hash": "22a80afbcbaf6378e909446bd6d20f0effb561b5c9b27c59c97ac8a76c1e79c5",
+      "source_text": "sah\u0101ntare\u1e47a cakre\u1e47a prav\u1e5bttisthitisa\u1e43h\u1e5bt\u012b\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.6.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.1.6.reading.spandakarika.gretil_1_1",
+          "her_spk.1.6.reading.spandakarika.gretil_2_dvandva"
+        ],
+        "lemma": "Antara",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.6.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.6.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "saha2",
+          "analysis_type_id": "mat_her_saha2_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.6.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.6.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "Antara",
+          "analysis_type_id": "mat_her_Antara_3",
+          "features": {
+            "heritage_case": "3",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "her_spk.1.6.reading.spandakarika.gretil_2_dvandva",
+          "rank": 0,
+          "score": -0.6931471805599453,
+          "score_components": {
+            "engine_prior": -0.6931471805599453,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "her_spk.1.6.reading.spandakarika.gretil_2_dvandva",
+          "engine": "heritage_compound",
+          "lemma": "__unknown__",
+          "analysis_type_id": "mat_her_spk.1.6.reading.spandakarika.gretil_2_dv",
+          "features": {
+            "compound_members": [
+              "prav\u1e5btti",
+              "sthiti",
+              "sa\u1e43h\u1e5bt\u012b\u1e25"
+            ],
+            "compound_relation": "multi_member",
+            "member_count": 3,
+            "heritage_split": [
+              "\u092a\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093f",
+              "\u0938\u094d\u0925\u093f\u0924\u093f",
+              "\u0938\u0902\u0939\u0943\u0924\u0940\u0903"
+            ]
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:39.991431+00:00"
+    },
+    {
+      "passage_id": "spk.1.7",
+      "run_id": "bfe340df-1234-4647-bcb8-c9976a444576",
+      "source_hash": "97d845439d0e3073ae65b77f8f0c00a73873372ded851cfab1250ec07600f73c",
+      "source_text": "yata\u1e25 svatantrat\u0101 tasya sarvatreyam ak\u1e5btrim\u0101",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.7.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.1.7.reading.spandakarika.gretil_1_1",
+          "hyp_compound_spk.1.7.reading.spandakarika.gretil_2_ta+sya",
+          "hyp_her_spk.1.7.reading.spandakarika.gretil_3_1",
+          "hyp_her_spk.1.7.reading.spandakarika.gretil_4_1"
+        ],
+        "lemma": "idam",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "yatas",
+          "analysis_type_id": "mat_her_yatas_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "svatantratA",
+          "analysis_type_id": "mat_her_svatantratA_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.7.reading.spandakarika.gretil_2_ta+sya",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.7.reading.spandakarika.gretil_2_ta+sya",
+          "engine": "compound_splitter_v2",
+          "lemma": "ta",
+          "analysis_type_id": "cmp_spk.1.7.reading.spandakarika.gretil_2_ta+sya",
+          "features": {
+            "compound_members": [
+              "ta",
+              "sya"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_3_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_3_1",
+          "engine": "heritage",
+          "lemma": "sarvatra",
+          "analysis_type_id": "mat_her_sarvatra_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.7.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "idam",
+          "analysis_type_id": "mat_her_idam_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.125176+00:00"
+    },
+    {
+      "passage_id": "spk.1.8",
+      "run_id": "5677716a-6f78-417e-bede-0dd50753bd54",
+      "source_hash": "9377150944b418415d23bdc3cf38e58d745ffe3f8f47f30ba25f8d263159b29e",
+      "source_text": "api tv \u0101tmabalaspar\u015b\u0101t puru\u1e63as tatsamo bhavet",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.8.reading.spandakarika.gretil_1_4",
+          "hyp_her_spk.1.8.reading.spandakarika.gretil_3_4",
+          "hyp_her_spk.1.8.reading.spandakarika.gretil_4_4",
+          "hyp_her_spk.1.8.reading.spandakarika.gretil_5_4"
+        ],
+        "lemma": "puruza",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_1_4",
+          "rank": 0,
+          "score": -0.579818495252942,
+          "score_components": {
+            "engine_prior": -0.579818495252942,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_1_4",
+          "engine": "heritage",
+          "lemma": "tu",
+          "analysis_type_id": "mat_her_tu_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_3_4",
+          "rank": 0,
+          "score": -0.579818495252942,
+          "score_components": {
+            "engine_prior": -0.579818495252942,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_3_4",
+          "engine": "heritage",
+          "lemma": "bala",
+          "analysis_type_id": "mat_her_bala_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_4_4",
+          "rank": 0,
+          "score": -0.579818495252942,
+          "score_components": {
+            "engine_prior": -0.579818495252942,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_4_4",
+          "engine": "heritage",
+          "lemma": "sparSa",
+          "analysis_type_id": "mat_her_sparSa_5",
+          "features": {
+            "heritage_case": "5",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_5_4",
+          "rank": 0,
+          "score": -0.579818495252942,
+          "score_components": {
+            "engine_prior": -0.579818495252942,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.8.reading.spandakarika.gretil_5_4",
+          "engine": "heritage",
+          "lemma": "puruza",
+          "analysis_type_id": "mat_her_puruza_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.270628+00:00"
+    },
+    {
+      "passage_id": "spk.1.9",
+      "run_id": "df68fedd-04f6-47c0-86d0-1d717a2ef099",
+      "source_hash": "6c15ff21a0a590fba39e0cdba140b3c8c752126284958d4e667d36d8afb61523",
+      "source_text": "yad\u0101 k\u1e63obha\u1e25 pral\u012byeta tad\u0101 sy\u0101tparama\u1e43 padam",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.9.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.1.9.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.1.9.reading.spandakarika.gretil_2_1",
+          "hyp_compound_spk.1.9.reading.spandakarika.gretil_3_ta+dA",
+          "hyp_her_spk.1.9.reading.spandakarika.gretil_4_1",
+          "hyp_compound_spk.1.9.reading.spandakarika.gretil_5_pa+dam"
+        ],
+        "lemma": "pa",
+        "engine": "compound_splitter_v2",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "yadA",
+          "analysis_type_id": "mat_her_yadA_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "kzoBa",
+          "analysis_type_id": "mat_her_kzoBa_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "pra-lI",
+          "analysis_type_id": "mat_her_pra-lI_\u0935\u093f\u0927\u093f\u0932\u093f\u0919\u094d",
+          "features": {
+            "heritage_case": "\u0935\u093f\u0927\u093f\u0932\u093f\u0919\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u0906\u092a\u0926\u093f\u0935\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.9.reading.spandakarika.gretil_3_ta+dA",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.9.reading.spandakarika.gretil_3_ta+dA",
+          "engine": "compound_splitter_v2",
+          "lemma": "ta",
+          "analysis_type_id": "cmp_spk.1.9.reading.spandakarika.gretil_3_ta+dA",
+          "features": {
+            "compound_members": [
+              "ta",
+              "dA"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.9.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "syAt",
+          "analysis_type_id": "mat_her_syAt_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.9.reading.spandakarika.gretil_5_pa+dam",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.9.reading.spandakarika.gretil_5_pa+dam",
+          "engine": "compound_splitter_v2",
+          "lemma": "pa",
+          "analysis_type_id": "cmp_spk.1.9.reading.spandakarika.gretil_5_pa+dam",
+          "features": {
+            "compound_members": [
+              "pa",
+              "dam"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.424060+00:00"
+    },
+    {
+      "passage_id": "spk.1.10",
+      "run_id": "0a34c3f8-23e6-44f8-9c27-1332c7c12abb",
+      "source_hash": "ee9c5606ffc708bee33d58cde7e75c23143363b116da4b94113e6210f06199f3",
+      "source_text": "yatas tadepsita\u1e43 sarva\u1e43 j\u0101n\u0101ti ca karoti ca",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_compound_spk.1.10.reading.spandakarika.gretil_0_yat+as",
+          "hyp_her_spk.1.10.reading.spandakarika.gretil_2_1",
+          "hyp_her_spk.1.10.reading.spandakarika.gretil_4_1",
+          "hyp_her_spk.1.10.reading.spandakarika.gretil_6_1"
+        ],
+        "lemma": "kf1",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_compound_spk.1.10.reading.spandakarika.gretil_0_yat+as",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.10.reading.spandakarika.gretil_0_yat+as",
+          "engine": "compound_splitter_v2",
+          "lemma": "yat",
+          "analysis_type_id": "cmp_spk.1.10.reading.spandakarika.gretil_0_yat+as",
+          "features": {
+            "compound_members": [
+              "yat",
+              "as"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "Ipsita",
+          "analysis_type_id": "mat_her_Ipsita_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "jYA1",
+          "analysis_type_id": "mat_her_jYA1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u092a\u092a\u0915\u094d\u0930\u094d\u092f\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_6_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.10.reading.spandakarika.gretil_6_1",
+          "engine": "heritage",
+          "lemma": "kf1",
+          "analysis_type_id": "mat_her_kf1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u092a\u092a\u0924\u0928\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.565217+00:00"
+    },
+    {
+      "passage_id": "spk.1.13",
+      "run_id": "8b4c9797-76e7-45e4-982a-cda51856b669",
+      "source_hash": "37da95489364ee70da820188893cec1221b2eb9be9dcd47456b63d6fdbeb6fbc",
+      "source_text": "na tv eva\u1e43 smaryam\u0101\u1e47atva\u1e43 tat tattva\u1e43 pratipadyate",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.13.reading.spandakarika.gretil_2_8",
+          "hyp_her_spk.1.13.reading.spandakarika.gretil_3_8",
+          "hyp_her_spk.1.13.reading.spandakarika.gretil_5_8",
+          "hyp_her_spk.1.13.reading.spandakarika.gretil_6_8"
+        ],
+        "lemma": "prati-pad1",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_2_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_2_8",
+          "engine": "heritage",
+          "lemma": "evam",
+          "analysis_type_id": "mat_her_evam_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_3_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_3_8",
+          "engine": "heritage",
+          "lemma": "smaryamARatvam",
+          "analysis_type_id": "mat_her_smaryamARatvam_x",
+          "features": {
+            "heritage_pos": "?"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_5_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_5_8",
+          "engine": "heritage",
+          "lemma": "tattva",
+          "analysis_type_id": "mat_her_tattva_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_6_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.13.reading.spandakarika.gretil_6_8",
+          "engine": "heritage",
+          "lemma": "prati-pad1",
+          "analysis_type_id": "mat_her_prati-pad1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u092e\u0923\u093f",
+            "heritage_number": "\u0906\u092a"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.696221+00:00"
+    },
+    {
+      "passage_id": "spk.1.14",
+      "run_id": "054acdce-f2a6-4b84-99bc-fc7d1abf6d5c",
+      "source_hash": "fc063a57f1ed64bc04dc1bb543df8df8be685ad3ae2b9fac6c390d0a94cc6d76",
+      "source_text": "k\u0101ryat\u0101 k\u1e63ayi\u1e47\u012b tatra kart\u1e5btva\u1e43 punarak\u1e63ayam",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.14.reading.spandakarika.gretil_0_2",
+          "hyp_her_spk.1.14.reading.spandakarika.gretil_1_2",
+          "hyp_compound_spk.1.14.reading.spandakarika.gretil_2_ta+tra",
+          "hyp_her_spk.1.14.reading.spandakarika.gretil_3_2",
+          "hyp_her_spk.1.14.reading.spandakarika.gretil_4_2"
+        ],
+        "lemma": "punar",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_0_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_0_2",
+          "engine": "heritage",
+          "lemma": "kAryatA",
+          "analysis_type_id": "mat_her_kAryatA_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_1_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_1_2",
+          "engine": "heritage",
+          "lemma": "kzayin",
+          "analysis_type_id": "mat_her_kzayin_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u0926\u094d\u0935\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.14.reading.spandakarika.gretil_2_ta+tra",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.14.reading.spandakarika.gretil_2_ta+tra",
+          "engine": "compound_splitter_v2",
+          "lemma": "ta",
+          "analysis_type_id": "cmp_spk.1.14.reading.spandakarika.gretil_2_ta+tra",
+          "features": {
+            "compound_members": [
+              "ta",
+              "tra"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_3_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_3_2",
+          "engine": "heritage",
+          "lemma": "kartftva",
+          "analysis_type_id": "mat_her_kartftva_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_4_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.14.reading.spandakarika.gretil_4_2",
+          "engine": "heritage",
+          "lemma": "punar",
+          "analysis_type_id": "mat_her_punar_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:40.863445+00:00"
+    },
+    {
+      "passage_id": "spk.1.16",
+      "run_id": "1464d295-bcf8-4e5f-bcc4-6804a120f95c",
+      "source_hash": "9dd856b34150713cfb97b61275db163d36a4ebe6c735eb9db042634a1fff92d1",
+      "source_text": "tasya lopa\u1e25 kad\u0101citsy\u0101d anyasy\u0101nupalambhan\u0101t",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.16.reading.spandakarika.gretil_1_2",
+          "hyp_her_spk.1.16.reading.spandakarika.gretil_2_2"
+        ],
+        "lemma": "kadAcit",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.16.reading.spandakarika.gretil_1_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.16.reading.spandakarika.gretil_1_2",
+          "engine": "heritage",
+          "lemma": "lopa",
+          "analysis_type_id": "mat_her_lopa_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.16.reading.spandakarika.gretil_2_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.16.reading.spandakarika.gretil_2_2",
+          "engine": "heritage",
+          "lemma": "kadAcit",
+          "analysis_type_id": "mat_her_kadAcit_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.024492+00:00"
+    },
+    {
+      "passage_id": "spk.1.17",
+      "run_id": "b316bfff-8c72-4d75-b885-0f1db8cdc126",
+      "source_hash": "a33b5885e41cbc30e8627e1e2e7b32c1543b2627c9d5803ad62171e95455034f",
+      "source_text": "nitya\u1e43 sy\u0101tsuprabuddhasya tad\u0101dyante parasya tu",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.17.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.1.17.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.1.17.reading.spandakarika.gretil_2_1",
+          "hyp_compound_spk.1.17.reading.spandakarika.gretil_3_para+sya"
+        ],
+        "lemma": "para",
+        "engine": "compound_splitter_v2",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "nitya",
+          "analysis_type_id": "mat_her_nitya_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "syAtsuprabudDasya",
+          "analysis_type_id": "mat_her_syAtsuprabudDasya_x",
+          "features": {
+            "heritage_pos": "?"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.17.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "tadAdi",
+          "analysis_type_id": "mat_her_tadAdi_x",
+          "features": {
+            "heritage_pos": "\u0905\u0935\u094d\u092f\u092f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.17.reading.spandakarika.gretil_3_para+sya",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.17.reading.spandakarika.gretil_3_para+sya",
+          "engine": "compound_splitter_v2",
+          "lemma": "para",
+          "analysis_type_id": "cmp_spk.1.17.reading.spandakarika.gretil_3_para+sya",
+          "features": {
+            "compound_members": [
+              "para",
+              "sya"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.162227+00:00"
+    },
+    {
+      "passage_id": "spk.1.18",
+      "run_id": "cdab39f8-a193-4de0-998c-7a488369449b",
+      "source_hash": "33a118915fce2b032c70e9b6296af24426ad79cc77bfbb760c8d4140e30c5901",
+      "source_text": "padadvaye vibhurbh\u0101ti tadanyatra tu cinmaya\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.18.reading.spandakarika.gretil_0_5",
+          "hyp_her_spk.1.18.reading.spandakarika.gretil_1_5",
+          "hyp_compound_spk.1.18.reading.spandakarika.gretil_2_tad+anyatra",
+          "hyp_her_spk.1.18.reading.spandakarika.gretil_3_5"
+        ],
+        "lemma": "BA1",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_0_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_0_5",
+          "engine": "heritage",
+          "lemma": "pada",
+          "analysis_type_id": "mat_her_pada_x",
+          "features": {
+            "heritage_pos": "\u092a\u0942\u0930\u094d\u0935\u092a\u0926"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_1_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_1_5",
+          "engine": "heritage",
+          "lemma": "dvaya",
+          "analysis_type_id": "mat_her_dvaya_7",
+          "features": {
+            "heritage_case": "7",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.1.18.reading.spandakarika.gretil_2_tad+anyatra",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.1.18.reading.spandakarika.gretil_2_tad+anyatra",
+          "engine": "compound_splitter_v2",
+          "lemma": "tad",
+          "analysis_type_id": "cmp_spk.1.18.reading.spandakarika.gretil_2_tad+anyatra",
+          "features": {
+            "compound_members": [
+              "tad",
+              "anyatra"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_3_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.18.reading.spandakarika.gretil_3_5",
+          "engine": "heritage",
+          "lemma": "BA1",
+          "analysis_type_id": "mat_her_BA1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u092a\u092a\u0905\u0926\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.293856+00:00"
+    },
+    {
+      "passage_id": "spk.1.23",
+      "run_id": "32d8940f-c7d0-41a3-ab17-c5e1c899dfd2",
+      "source_hash": "a5d6cf404deebdadb07aba5506d839038c98262f5d02f1fdf60484520164c826",
+      "source_text": "tadava\u015bya\u1e43 kari\u1e63ye 'hamiti sa\u1e43kalpya ti\u1e63\u1e6dhati",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.1.23.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.1.23.reading.spandakarika.gretil_2_1",
+          "hyp_her_spk.1.23.reading.spandakarika.gretil_4_1"
+        ],
+        "lemma": "iti",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "avaSya",
+          "analysis_type_id": "mat_her_avaSya_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "karizya",
+          "analysis_type_id": "mat_her_karizya_7",
+          "features": {
+            "heritage_case": "7",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.1.23.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "iti",
+          "analysis_type_id": "mat_her_iti_x",
+          "features": {},
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.431997+00:00"
+    },
+    {
+      "passage_id": "spk.2.1",
+      "run_id": "cf8a8b53-05d4-482a-a61e-a9b92466076b",
+      "source_hash": "9bec6a5dd21de92e9fdabd91ae3f655523d43e6459d22cf36e0d848bc8a6927b",
+      "source_text": "pravartante'dhik\u0101r\u0101ya kara\u1e47\u0101n\u012bva dehin\u0101m",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.2.1.reading.spandakarika.gretil_0_5",
+          "hyp_her_spk.2.1.reading.spandakarika.gretil_1_5",
+          "hyp_her_spk.2.1.reading.spandakarika.gretil_2_5"
+        ],
+        "lemma": "karaRa",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_0_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_0_5",
+          "engine": "heritage",
+          "lemma": "pra-vft1",
+          "analysis_type_id": "mat_her_pra-vft1_\u0932\u091f\u094d",
+          "features": {
+            "heritage_case": "\u0932\u091f\u094d",
+            "heritage_gender": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_number": "\u0906\u092a\u092d\u094d\u0935\u093e\u0926\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_1_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_1_5",
+          "engine": "heritage",
+          "lemma": "aDikAra",
+          "analysis_type_id": "mat_her_aDikAra_4",
+          "features": {
+            "heritage_case": "4",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_2_5",
+          "rank": 0,
+          "score": -0.5978370007556204,
+          "score_components": {
+            "engine_prior": -0.5978370007556204,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.1.reading.spandakarika.gretil_2_5",
+          "engine": "heritage",
+          "lemma": "karaRa",
+          "analysis_type_id": "mat_her_karaRa_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u092c\u0939\u0941"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.574209+00:00"
+    },
+    {
+      "passage_id": "spk.2.2",
+      "run_id": "78b5462f-416f-4de1-988c-2085a9272c8a",
+      "source_hash": "ef0784ecaf2cc901dcd82d3300fed28b533d8aef0fdd59695b018f362e72fd8f",
+      "source_text": "sah\u0101r\u0101dhakacittena tenaite \u015bivadharmi\u1e47a\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.2.2.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.2.2.reading.spandakarika.gretil_1_7",
+          "hyp_her_spk.2.2.reading.spandakarika.gretil_2_1"
+        ],
+        "lemma": "etad",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "IdentityClaim"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "sahArADakacittena",
+          "analysis_type_id": "mat_her_sahArADakacittena_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_1_7",
+          "rank": 0,
+          "score": -0.6208265189803193,
+          "score_components": {
+            "engine_prior": -0.6208265189803193,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_1_7",
+          "engine": "heritage",
+          "lemma": "tan1",
+          "analysis_type_id": "mat_her_tan1_(\u0926\u094d\u0935\u093f\u0924\u094d\u0935)",
+          "features": {
+            "heritage_case": "(\u0926\u094d\u0935\u093f\u0924\u094d\u0935)",
+            "heritage_gender": "\u0932\u093f\u091f\u094d",
+            "heritage_number": "\u0915\u0930\u094d\u0924\u0930\u093f"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.2.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "etad",
+          "analysis_type_id": "mat_her_etad_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u0926\u094d\u0935\u093f"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.733407+00:00"
+    },
+    {
+      "passage_id": "spk.2.5",
+      "run_id": "5fba5e72-ae10-42ff-8be8-c103a2a248b9",
+      "source_hash": "a592ed8cba117de70d0fd3edc9da788cb946c0f987dad7a24e32d31512573e5b",
+      "source_text": "sa pa\u015byansatata\u1e43 yukto j\u012bvanmukto na sa\u1e43\u015baya\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.2.5.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.2.5.reading.spandakarika.gretil_3_1",
+          "hyp_her_spk.2.5.reading.spandakarika.gretil_4_1",
+          "hyp_her_spk.2.5.reading.spandakarika.gretil_5_1"
+        ],
+        "lemma": "mukta",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "paSyat",
+          "analysis_type_id": "mat_her_paSyat_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_3_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_3_1",
+          "engine": "heritage",
+          "lemma": "yukta",
+          "analysis_type_id": "mat_her_yukta_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "jIvat",
+          "analysis_type_id": "mat_her_jIvat_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_5_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.5.reading.spandakarika.gretil_5_1",
+          "engine": "heritage",
+          "lemma": "mukta",
+          "analysis_type_id": "mat_her_mukta_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:41.879433+00:00"
+    },
+    {
+      "passage_id": "spk.2.7",
+      "run_id": "384938f5-7095-44ec-9267-313215bafc8b",
+      "source_hash": "adf3847b7383c6f9f3918719828ba9cc39b6302852a8a683bb084bf6e7f7a59b",
+      "source_text": "iya\u1e43 nirv\u0101\u1e47ad\u012bk\u1e63\u0101 ca \u015bivasadbh\u0101vad\u0101yin\u012b",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.2.7.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.2.7.reading.spandakarika.gretil_2_1"
+        ],
+        "lemma": "dIkzA",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "IdentityClaim"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.2.7.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.7.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "nirvARa",
+          "analysis_type_id": "mat_her_nirvARa_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.2.7.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.2.7.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "dIkzA",
+          "analysis_type_id": "mat_her_dIkzA_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.027548+00:00"
+    },
+    {
+      "passage_id": "spk.3.2",
+      "run_id": "3bd05a0a-e558-4e14-b909-e033ee3ce782",
+      "source_hash": "f7dc9fdc6e664557c36fc3dbd5d5adbda81bf7f91343216b4c2d3bbdb887381b",
+      "source_text": "nitya\u1e43 sphu\u1e6datara\u1e43 madhye sthito'va\u015bya\u1e43 prak\u0101\u015bayet",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.2.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.3.2.reading.spandakarika.gretil_3_1",
+          "hyp_her_spk.3.2.reading.spandakarika.gretil_4_1"
+        ],
+        "lemma": "sTita",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "Instruction"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "sPuwa",
+          "analysis_type_id": "mat_her_sPuwa_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_3_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_3_1",
+          "engine": "heritage",
+          "lemma": "maDya",
+          "analysis_type_id": "mat_her_maDya_7",
+          "features": {
+            "heritage_case": "7",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.2.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "sTita",
+          "analysis_type_id": "mat_her_sTita_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.189664+00:00"
+    },
+    {
+      "passage_id": "spk.3.3",
+      "run_id": "268f8a8c-3d3d-4405-af39-67a3ab8dc646",
+      "source_hash": "a3abff59e515063f59a803a7e298692a1dc0d3667c57e913baa9251740e41809",
+      "source_text": "satata\u1e43 laukikasyeva j\u0101gratsvapnapadadvaye",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.3.reading.spandakarika.gretil_1_11"
+        ],
+        "lemma": "lOkika",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.3.reading.spandakarika.gretil_1_11",
+          "rank": 0,
+          "score": -0.6443570163905132,
+          "score_components": {
+            "engine_prior": -0.6443570163905132,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.3.reading.spandakarika.gretil_1_11",
+          "engine": "heritage",
+          "lemma": "lOkika",
+          "analysis_type_id": "mat_her_lOkika_6",
+          "features": {
+            "heritage_case": "6",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.362352+00:00"
+    },
+    {
+      "passage_id": "spk.3.4",
+      "run_id": "19a882e2-9ce6-4211-a98d-c189745ad79b",
+      "source_hash": "4c56d60676f3b2977aeeb35a8e5dbe27405bced591a9387d2c1cb05bffb5c8db",
+      "source_text": "bh\u016bya\u1e25 sphu\u1e6dataro bh\u0101ti svabalodyogabh\u0101vita\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.4.reading.spandakarika.gretil_0_67",
+          "hyp_seed_spk.3.4.reading.spandakarika.gretil_1",
+          "hyp_her_spk.3.4.reading.spandakarika.gretil_2_67"
+        ],
+        "lemma": "taras",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.4.reading.spandakarika.gretil_0_67",
+          "rank": 0,
+          "score": -0.6843623510042125,
+          "score_components": {
+            "engine_prior": -0.6843623510042125,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.4.reading.spandakarika.gretil_0_67",
+          "engine": "heritage",
+          "lemma": "BUyas",
+          "analysis_type_id": "mat_her_BUyas_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_seed_spk.3.4.reading.spandakarika.gretil_1",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_seed_spk.3.4.reading.spandakarika.gretil_1",
+          "engine": "seeded",
+          "lemma": "bhokftf",
+          "analysis_type_id": "mat_seed_bhokftf",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.4.reading.spandakarika.gretil_2_67",
+          "rank": 0,
+          "score": -0.6843623510042125,
+          "score_components": {
+            "engine_prior": -0.6843623510042125,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.4.reading.spandakarika.gretil_2_67",
+          "engine": "heritage",
+          "lemma": "taras",
+          "analysis_type_id": "mat_her_taras_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.513744+00:00"
+    },
+    {
+      "passage_id": "spk.3.6",
+      "run_id": "4c0558d2-ad8d-4aed-bf9e-7bb72a961080",
+      "source_hash": "638642b2fea59466dcbecc878d3723b64f62a00197ae0c349781ae8f4541fbd4",
+      "source_text": "\u0101cch\u0101dayedbubhuk\u1e63\u0101\u1e43 ca tath\u0101 yo 'tibubhuk\u1e63ita\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.6.reading.spandakarika.gretil_0_1",
+          "hyp_her_spk.3.6.reading.spandakarika.gretil_1_1"
+        ],
+        "lemma": "buBukzA",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.6.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.6.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "A-Cad1",
+          "analysis_type_id": "mat_her_A-Cad1_\u0915\u0930\u094d\u0924\u0930\u093f",
+          "features": {
+            "heritage_case": "\u0915\u0930\u094d\u0924\u0930\u093f",
+            "heritage_gender": "\u0923\u093f\u091a\u094d",
+            "heritage_number": "\u0935\u093f\u0927\u093f\u0932\u093f\u0919\u094d"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.6.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.6.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "buBukzA",
+          "analysis_type_id": "mat_her_buBukzA_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.659503+00:00"
+    },
+    {
+      "passage_id": "spk.3.7",
+      "run_id": "277477cf-ce1d-422d-b9b9-896d913f578b",
+      "source_hash": "c555a5ab7817f458e40b01128d50f8ca6573d6bc62bac0c99d9942161bc3b1d7",
+      "source_text": "tath\u0101 sv\u0101tmanyadhi\u1e63\u1e6dh\u0101n\u0101t sarvatraiva\u1e43 bhavi\u1e63yati",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.7.reading.spandakarika.gretil_2_53"
+        ],
+        "lemma": "aDizWAna",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.7.reading.spandakarika.gretil_2_53",
+          "rank": 0,
+          "score": -0.6820973443733603,
+          "score_components": {
+            "engine_prior": -0.6820973443733603,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.7.reading.spandakarika.gretil_2_53",
+          "engine": "heritage",
+          "lemma": "aDizWAna",
+          "analysis_type_id": "mat_her_aDizWAna_5",
+          "features": {
+            "heritage_case": "5",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.818653+00:00"
+    },
+    {
+      "passage_id": "spk.3.8",
+      "run_id": "6ab781cc-1ff3-4caf-9b7a-c1ea9552e789",
+      "source_hash": "0cf9f541bcb541a215dc9acfe1bd000393e60d6e71693c969f52318166d4bc3a",
+      "source_text": "tadunme\u1e63avilupta\u1e43 cet kuta\u1e25 s\u0101 sy\u0101dahetuk\u0101",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.8.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.3.8.reading.spandakarika.gretil_3_1",
+          "hyp_her_spk.3.8.reading.spandakarika.gretil_4_1"
+        ],
+        "lemma": "kutas",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "unmeza",
+          "analysis_type_id": "mat_her_unmeza_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_3_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_3_1",
+          "engine": "heritage",
+          "lemma": "ced",
+          "analysis_type_id": "mat_her_ced_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.8.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "kutas",
+          "analysis_type_id": "mat_her_kutas_x",
+          "features": {},
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:42.966330+00:00"
+    },
+    {
+      "passage_id": "spk.3.11",
+      "run_id": "39dd2795-e46b-4aa6-8e87-eb696a8e9988",
+      "source_hash": "de84e733fb4d39d1ba419941b13b0663150b1d98f4ebda09bbda6c124875efae",
+      "source_text": "tad\u0101 ki\u1e43 bahunoktena svayam ev\u0101vabhotsyate",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.11.reading.spandakarika.gretil_1_65",
+          "hyp_her_spk.3.11.reading.spandakarika.gretil_2_65",
+          "hyp_compound_spk.3.11.reading.spandakarika.gretil_3_sva+yam"
+        ],
+        "lemma": "sva",
+        "engine": "compound_splitter_v2",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.11.reading.spandakarika.gretil_1_65",
+          "rank": 0,
+          "score": -0.6840973450400275,
+          "score_components": {
+            "engine_prior": -0.6840973450400275,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.11.reading.spandakarika.gretil_1_65",
+          "engine": "heritage",
+          "lemma": "kim",
+          "analysis_type_id": "mat_her_kim_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.11.reading.spandakarika.gretil_2_65",
+          "rank": 0,
+          "score": -0.6840973450400275,
+          "score_components": {
+            "engine_prior": -0.6840973450400275,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.11.reading.spandakarika.gretil_2_65",
+          "engine": "heritage",
+          "lemma": "bahu",
+          "analysis_type_id": "mat_her_bahu_3",
+          "features": {
+            "heritage_case": "3",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.3.11.reading.spandakarika.gretil_3_sva+yam",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.3.11.reading.spandakarika.gretil_3_sva+yam",
+          "engine": "compound_splitter_v2",
+          "lemma": "sva",
+          "analysis_type_id": "cmp_spk.3.11.reading.spandakarika.gretil_3_sva+yam",
+          "features": {
+            "compound_members": [
+              "sva",
+              "yam"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.127697+00:00"
+    },
+    {
+      "passage_id": "spk.3.13",
+      "run_id": "9a2407e2-9ed3-4aa8-aa88-e2ad40537a90",
+      "source_hash": "8bdbcef6b160f34ec37899400f9a25de5d3fcebabf91c6f2946b6c71377418b9",
+      "source_text": "kal\u0101viluptavibhavo gata\u1e25 sansa pa\u015bu\u1e25 sm\u1e5bta\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.13.reading.spandakarika.gretil_0_1",
+          "hyp_compound_spk.3.13.reading.spandakarika.gretil_2_san+sa",
+          "hyp_her_spk.3.13.reading.spandakarika.gretil_3_1"
+        ],
+        "lemma": "gata",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.13.reading.spandakarika.gretil_0_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.13.reading.spandakarika.gretil_0_1",
+          "engine": "heritage",
+          "lemma": "kalA",
+          "analysis_type_id": "mat_her_kalA_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.3.13.reading.spandakarika.gretil_2_san+sa",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.3.13.reading.spandakarika.gretil_2_san+sa",
+          "engine": "compound_splitter_v2",
+          "lemma": "san",
+          "analysis_type_id": "cmp_spk.3.13.reading.spandakarika.gretil_2_san+sa",
+          "features": {
+            "compound_members": [
+              "san",
+              "sa"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.13.reading.spandakarika.gretil_3_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.13.reading.spandakarika.gretil_3_1",
+          "engine": "heritage",
+          "lemma": "gata",
+          "analysis_type_id": "mat_her_gata_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.296172+00:00"
+    },
+    {
+      "passage_id": "spk.3.15",
+      "run_id": "594d40ad-367c-444b-a33d-0388bfe91bed",
+      "source_hash": "abeac228ad50e57bab2f5f83b88396e11eadf5765be125817a184c4c61589903",
+      "source_text": "yata\u1e25 \u015babd\u0101nuvedhena na vin\u0101 pratyayodbhava\u1e25",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.15.reading.spandakarika.gretil_1_8",
+          "hyp_her_spk.3.15.reading.spandakarika.gretil_2_8",
+          "hyp_her_spk.3.15.reading.spandakarika.gretil_3_8"
+        ],
+        "lemma": "veDa",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_1_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_1_8",
+          "engine": "heritage",
+          "lemma": "Sap1",
+          "analysis_type_id": "mat_her_Sap1_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_2_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_2_8",
+          "engine": "heritage",
+          "lemma": "dAnu",
+          "analysis_type_id": "mat_her_dAnu_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0928\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_3_8",
+          "rank": 0,
+          "score": -0.6286086594223742,
+          "score_components": {
+            "engine_prior": -0.6286086594223742,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.15.reading.spandakarika.gretil_3_8",
+          "engine": "heritage",
+          "lemma": "veDa",
+          "analysis_type_id": "mat_her_veDa_3",
+          "features": {
+            "heritage_case": "3",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.467582+00:00"
+    },
+    {
+      "passage_id": "spk.3.16",
+      "run_id": "0b2f57be-4cb2-4870-a865-17f2741dd862",
+      "source_hash": "13028ca768bee96142cb3674e82cc14fc99780181b8358dddfe4df6053ae3f4c",
+      "source_text": "bandhayitr\u012b svam\u0101rgasth\u0101 j\u00f1\u0101t\u0101 siddhyupap\u0101dik\u0101",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.16.reading.spandakarika.gretil_0_2",
+          "hyp_compound_spk.3.16.reading.spandakarika.gretil_2_jYA+tA"
+        ],
+        "lemma": "jYA",
+        "engine": "compound_splitter_v2",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.16.reading.spandakarika.gretil_0_2",
+          "rank": 0,
+          "score": -0.5108256237659907,
+          "score_components": {
+            "engine_prior": -0.5108256237659907,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.16.reading.spandakarika.gretil_0_2",
+          "engine": "heritage",
+          "lemma": "banDayitrI",
+          "analysis_type_id": "mat_her_banDayitrI_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_compound_spk.3.16.reading.spandakarika.gretil_2_jYA+tA",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.3.16.reading.spandakarika.gretil_2_jYA+tA",
+          "engine": "compound_splitter_v2",
+          "lemma": "jYA",
+          "analysis_type_id": "cmp_spk.3.16.reading.spandakarika.gretil_2_jYA+tA",
+          "features": {
+            "compound_members": [
+              "jYA",
+              "tA"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.604945+00:00"
+    },
+    {
+      "passage_id": "spk.3.17",
+      "run_id": "c6f76170-18e2-472f-a9ac-7afacad2279c",
+      "source_hash": "fbf6a3742be126e04d48f5b75f503e9dfcecdce58c854bfe63427448f743da2b",
+      "source_text": "purya\u1e63\u1e6dakena sa\u1e43ruddhas taduttha\u1e43 pratyayodbhavam",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_her_spk.3.17.reading.spandakarika.gretil_0_3",
+          "hyp_her_spk.3.17.reading.spandakarika.gretil_1_3",
+          "hyp_her_spk.3.17.reading.spandakarika.gretil_2_3"
+        ],
+        "lemma": "sam-rudDa",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_0_3",
+          "rank": 0,
+          "score": -0.5533852381847867,
+          "score_components": {
+            "engine_prior": -0.5533852381847867,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_0_3",
+          "engine": "heritage",
+          "lemma": "pura",
+          "analysis_type_id": "mat_her_pura_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_1_3",
+          "rank": 0,
+          "score": -0.5533852381847867,
+          "score_components": {
+            "engine_prior": -0.5533852381847867,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_1_3",
+          "engine": "heritage",
+          "lemma": "azwaka",
+          "analysis_type_id": "mat_her_azwaka_3",
+          "features": {
+            "heritage_case": "3",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_2_3",
+          "rank": 0,
+          "score": -0.5533852381847867,
+          "score_components": {
+            "engine_prior": -0.5533852381847867,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.3.17.reading.spandakarika.gretil_2_3",
+          "engine": "heritage",
+          "lemma": "sam-rudDa",
+          "analysis_type_id": "mat_her_sam-rudDa_1",
+          "features": {
+            "heritage_case": "1",
+            "heritage_gender": "\u092a\u0941\u0902",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.730850+00:00"
+    },
+    {
+      "passage_id": "spk.4.1",
+      "run_id": "a9130366-cf0c-4e09-a176-55cf4510089f",
+      "source_hash": "0dd5e5ceb22ee1bd48dde4fc1b16042629db1cf36e4e2a0a4e8265c26e0e75eb",
+      "source_text": "vande vicitr\u0101rthapad\u0101\u1e43 citr\u0101\u1e43 t\u0101\u1e43 gurubh\u0101rat\u012bm",
+      "selected": {
+        "hypothesis_ids": [
+          "hyp_compound_spk.4.1.reading.spandakarika.gretil_0_van+de",
+          "hyp_her_spk.4.1.reading.spandakarika.gretil_1_1",
+          "hyp_her_spk.4.1.reading.spandakarika.gretil_2_1",
+          "hyp_her_spk.4.1.reading.spandakarika.gretil_4_1"
+        ],
+        "lemma": "citra",
+        "engine": "heritage",
+        "compound_relation": "karmadharaya",
+        "frame_type": "DevotionalAct"
+      },
+      "alternatives": [
+        {
+          "candidate_id": "hyp_compound_spk.4.1.reading.spandakarika.gretil_0_van+de",
+          "rank": 0,
+          "score": -0.916290731874155,
+          "score_components": {
+            "engine_prior": -0.916290731874155,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_compound_spk.4.1.reading.spandakarika.gretil_0_van+de",
+          "engine": "compound_splitter_v2",
+          "lemma": "van",
+          "analysis_type_id": "cmp_spk.4.1.reading.spandakarika.gretil_0_van+de",
+          "features": {
+            "compound_members": [
+              "van",
+              "de"
+            ],
+            "compound_relation": "unknown"
+          },
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_1_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_1_1",
+          "engine": "heritage",
+          "lemma": "vicitra",
+          "analysis_type_id": "mat_her_vicitra_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_2_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_2_1",
+          "engine": "heritage",
+          "lemma": "ArTa",
+          "analysis_type_id": "mat_her_ArTa_x",
+          "features": {},
+          "rejection_reasons": []
+        },
+        {
+          "candidate_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_4_1",
+          "rank": 0,
+          "score": -0.4307829160924542,
+          "score_components": {
+            "engine_prior": -0.4307829160924542,
+            "morphological_compatibility": 0.0,
+            "agreement": 0.0,
+            "frame_compatibility": 0.0,
+            "corpus_evidence": 0.0,
+            "compound_coherence": 0.0
+          },
+          "hypothesis_id": "hyp_her_spk.4.1.reading.spandakarika.gretil_4_1",
+          "engine": "heritage",
+          "lemma": "citra",
+          "analysis_type_id": "mat_her_citra_2",
+          "features": {
+            "heritage_case": "2",
+            "heritage_gender": "\u0938\u094d\u0924\u094d\u0930\u0940",
+            "heritage_number": "\u090f\u0915"
+          },
+          "rejection_reasons": []
+        }
+      ],
+      "uncertainties": [],
+      "git_commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+      "pipeline_version": "v0.4",
+      "created_at": "2026-07-24T15:42:43.856061+00:00"
+    }
+  ]
+}

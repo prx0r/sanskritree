@@ -1,0 +1,1430 @@
+J Indian Philos (2011) 39:479–501
+DOI 10.1007/s10781-011-9143-y
+
+Can One Prove that Something Exists Beyond
+Consciousness? A Śaiva Criticism of the Sautrāntika
+Inference of External Objects
+Isabelle Ratié
+
+Published online: 7 June 2011
+Ó Springer Science+Business Media B.V. 2011
+
+Abstract This article examines how the Kashmiri non-dualistic Śaiva philosophers Utpaladeva (tenth century) and Abhinavagupta (10th–11th centuries) present
+and criticize a theory expounded by certain Buddhist philosophers, identified by the
+two Śaiva authors as Sautrāntikas. According to this theory, no entity external to
+consciousness can ever be perceived since perceived objects are nothing but internal
+aspects (ākāra) of consciousness. Nonetheless we must infer the existence of
+external entities so as to account for the fact that consciousness is aware of a variety
+of objects: just as a mirror takes on a variegated appearance only by reflecting a
+multiplicity of objects that remain external to it, in the same way, phenomenal
+variety can be explained only by assuming the existence of various objects external
+to consciousness. In Īsvarapratyabhijñākārikās I, 5, 8–9 and their commentaries,
+Utpaladeva and Abhinavagupta endeavour to criticize this theory, which challenges
+their own idealistic principles: according to them, the Sautrāntikas’ inference is
+neither legitimate nor even possible. The passage is particularly telling as regards
+the strategy developed by Pratyabhijñā philosophers with respect to their Buddhist
+opponents: they make use of certain arguments propounded by Dharmakı̄rti in
+defense of Vijñānavāda in order to criticize the Sautrāntikas’ inference, but they
+also exploit this discussion to underline the superiority of their idealism over that of
+the Vijñānavādins.
+
+Keywords Utpaladeva  Abhinavagupta  Pratyabhijñā  Vijñānavāda 
+Sautrāntika  Consciousness
+
+I. Ratié (&)
+Institut für Indologie und Zentralasien wissenschaften, Schillerstraße 6, 04109 Leipzig, Germany
+e-mail: isabelle.ratie@gmail.com
+
+123
+
+480
+
+I. Ratié
+
+Introduction—Why Prove (or Refute) Externalism?
+This article is an attempt to understand how two Śaiva philosophers, Utpaladeva
+and Abhinavagupta,1 have answered the question: can one prove that objects
+exist outside of consciousness? At first sight though, this question hardly seems
+relevant: why should we undertake to prove (or refute) the existence of objects
+outside of consciousness? When perceiving an object, we experience the presence
+of an entity immediately acknowledged as distinct from our consciousness; objects of perception are apprehended as external to the subject who becomes aware
+of them. There are nonetheless circumstances in which we do not consider our
+awareness of objects as the genuine experience of an external reality: thus when
+dreaming, we are aware of objects apprehended as external to us, and yet, when
+we wake up, we judge that these objects were in fact various internal forms in
+which our consciousness was manifesting itself. Similarly, according to the
+Buddhist Vijñānavādins, all perceived objects are mere aspects (ākāra)2 that
+consciousness takes on, and since consciousness only manifests objects by
+manifesting itself in the form of objects, we can never have access to a reality
+that would be genuinely external: whatever we perceive is nothing but consciousness taking the form of a particular object of perception. The Vijñānavādins conclude from this that nothing exists independently of consciousness, and
+this conclusion appeals to Utpaladeva, since his main goal is to justify philosophically the idea, already dogmatically asserted in some Śaiva scriptures, that
+nothing exists apart from a single, omnipotent and all-encompassing consciousness called Śiva. Utpaladeva thus makes use of arguments already put forward by
+some Vijñānavādins so as to refute various theories (whether Buddhist or
+Brahmanical) according to which perception is consciousness’s direct encounter
+with an external object;3 but he also has to confront another, more subtle—and
+
+1
+Utpaladeva (fl. c. 925–975) is the author of the ĪPK, on which he himself wrote two commentaries: a
+Vr: tti and an almost entirely lost Vivr: ti. Abhinavagupta (fl. c. 975–1025) wrote the ĪPV, a brilliant
+synthesis of Utpaladeva’s auto-commentaries, and the ĪPVV, which mostly comments on Utpaladeva’s
+Vivr: ti. The text of the ĪPV quoted here is that of the KSTS edition, but several manuscripts (and the
+Bhāskarı̄ edition) are also quoted within brackets whenever an emendation is proposed (‘‘p.n.p.’’ means
+‘‘the passage is not preserved in...’’).
+2
+
+On the distinction between theories according to which consciousness takes on aspects (sākāravāda)
+and theories according to which it is devoid of aspects (nirākāravāda), see e.g. Hattori (1968, p. 98); on
+the Pratyabhijñā philosophers’ position in this debate, see Ratié (2010a).
+
+3
+
+See Ratié (2010a).
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+481
+
+less easily refutable—kind of externalism4 that Abhinavagupta attributes to the
+Buddhist Sautrāntikas.5 According to this theory, although we can never have
+any direct access to external objects (because whatever we perceive ultimately
+amounts to an internal aspect of consciousness), we must nonetheless infer the
+existence of an external reality in order to account for the variety of consciousness’s aspects. Utpaladeva and Abhinavagupta consider that this inference
+of an external reality is neither legitimate nor even possible, and the present
+article examines their refutation of inferential externalism while evaluating the
+originality of their criticism: in what measure does it depart from the arguments
+already formulated by the Vijñānavādins?
+The Śaiva Presentation of the Sautrāntikas’ Thesis
+The Sautrāntika portrayed by Utpaladeva shares with the Vijñānavādins the opinion
+that we cannot step outside of consciousness so as to experience external reality
+independently of consciousness, since we only experience what consciousness
+manifests:6 the external object remains in itself absolutely inaccessible to per4
+
+By ‘‘externalism’’ I mean any theory according to which consciousness’s objects are related (through a
+relation of identity or causality) to something considered as external to consciousness. The editors of this
+special issue of the journal rightly pointed out to me that the word yields a different meaning in some
+discussions related to analytical philosophy, ethics or semantics, and they fear that my use of this term
+here might lead to some confusion on the reader’s part. However, ‘‘externalism’’ is understood differently
+according to whether it is used in the context of analytical philosophy, ethics or semantics; and considered
+in its broadest sense (i.e. a sense that can be found in such various contexts as analytical philosophy,
+semantics, ethics, psychology, history and philosophy of art, etc.), the word can apply to any kind of
+theory that explains a given event as (at least partly) determined by external factors, however this
+determination (and externality) may be understood. It therefore seems to me that it offers the least
+unsatisfactory translation of the Sanskrit bāhyārthavāda (‘‘the doctrine [according to which] the object is
+external’’) while enabling us to avoid some more seriously misleading terms such as ‘‘realism’’ (the
+opposition realism/idealism could hardly apply to Indian philosophy, since a number of Indian ‘‘idealisms,’’ including that of the Pratyabhijñā, consider the phenomenal world as perfectly real).
+
+5
+
+See e.g. ĪPVV, vol. I, p. 170: nanu sautrāntikāh: sam
+: vidi nı̄lādipratibimbam upayanti. ‘‘But the Sautrāntikas acknowledge that there is a reflection (pratibimba) of [objects] such as blue, etc., in consciousness!’’ Although the term ‘‘Sautrāntika’’ is often used by late doxographers and modern scholars to refer to
+one of the four representative schools of Indian Buddhism, little is known as regards the Sautrāntikas’
+identity and beliefs. See Kritzer 2003a, b and Kritzer (2005, pp. XXVI–XXX): the term seems to appear first in
+the Abhidharmakośabhās: ya, and Vasubandhu seems to be ‘‘inserting Yogācāra ideas into the Abhidharmakośabhās: ya under the guise of the Sautrāntika’’ (Kritzer 2005, p. XXVIII). Having shown that ‘‘there is a
+close relation between Vasubandhu’s Sautrāntika ideas and the Yogācārabhūmi’’ (Ibid., pp. XXVIII–XXIX),
+Kritzer concludes (Ibid., p. XXX) that ‘‘in the Abhidharmakośabhās: ya Vasubandhu uses the term Sautrāntika
+to designate positions in the Yogācārabhūmi that he prefers to those of orthodox Sarvāstivāda. [. . .]
+Vasubandhu [. . .] adjusts the traditional Sarvāstivādin abhidharma so that it no longer conflicts with the
+central theories of Yogācāra [. . .]. Attributing an opinion to a Sautrāntika may simply be Vasubandhu’s way
+of claiming that it is based on a more valid interpretation of sūtra than its Sarvāstivādin counterpart.’’ The
+evolution of the meaning of the term between Vasubandhu and Dharmakı̄rti (and his commentators) is still
+obscure; however, by the time the Pratyabhijñā philosophers were writing, the Sautrāntikas were considered
+to hold a philosophical system of their own, and one that was opposed to the Yogācāra/Vijñānavāda. On the
+sources of this Śaiva description of the Sautrāntikas’ position, see below, fn. 10.
+6
+
+Cf. Arnold (2008), who considers that in fact, the expression ‘‘epistemic idealism’’ used for instance by
+J. Dunne to qualify Dharmakı̄rti’s Vijñānavāda (see e.g. Dunne 2004, p. 59 ff.) equally applies to the
+Sautrāntikas.
+
+123
+
+482
+
+I. Ratié
+
+ception, because perception is the mere awareness of an aspect (ākāra) that consciousness bears.7 Nonetheless, contrary to the Vijñānavādins, the Sautrāntika
+refuses to draw from this the conclusion that there is no such thing as an external
+reality. He points out that we are aware of a multiplicity of objects and that there
+must be a cause for this phenomenal variety. The Vijñānavādins consider that this
+cause is a mechanism of residual traces similar to that which, left by previous
+experiences in a dreamer’s cognitive series, produces the variety of objects experienced in a dream;8 but the Sautrāntika argues that this cannot be the case, since
+either these impregnations (vāsanā) are distinct from consciousness – but then they
+are external entities, so that the Vijñānavāda is an externalism in disguise; or they
+are not distinct from consciousness, in which case their variety is inexplicable, so
+that they cannot account for consciousness’s variety of aspects.9
+The Sautrāntika depicted by the Pratyabhijñā philosophers10 concludes from this
+that just as a mirror can bear a multiplicity of appearances by reflecting a multiplicity that
+is external to it, in the same way, consciousness, which is in itself undifferentiated,11
+
+7
+
+Cf. Hattori (1968, p. 98).
+
+8
+
+See Ratié (2010a).
+
+9
+
+See ĪPK I, 5, 4–5 and their commentaries (quoted and translated in Ratié 2010a).
+
+10
+
+This description of the Sautrāntikas’ position apparently originates from Buddhist sources that Utpaladeva and Abhinavagupta present as belonging to the Vijñānavāda (such as Dharmakı̄rti’s works, and
+_
+possibly Śankaranandana’s
+works, which Abhinavagupta often quotes: see Ratié (2010a), fn. 28 and 29),
+but also from Brahmanical sources (such as the NM, which Abhinavagupta sometimes seems to paraphrase in these discussions: see e.g. Ratié 2010a, fn. 66). Later Brahmanical doxographies present this
+theory as the core of the Sautrāntikas’ doctrine (see e.g. SDS, p. 19, which mentions the Sautrāntikas as
+the proponents of the ‘‘inferability of the external object’’ bāhyārthānumeyatva).
+
+11
+
+See ĪPV, vol. I, p. 165: iha bodhas tāvad abhinnah: , prakāśamātram eva hy asya paramārthah: ,
+prakāśādhikam
+: yadi *nı̄lam asya rūpam [Bhāskarı̄, J, S1: nı̄lasya rūpam KSTS, L, P, S2, SOAS; p.n.p. D],
+tarhi tad aprakāśarūpam iti na prakāśeta. atha tathāprakāśatvam evāsya rūpam, pı̄taprakāśah: katham
+:
+syāt? athāpi kramikanı̄lapı̄tādiprakāśarūpam eva tasya rūpam, nı̄lādyābhāsaśūnyo’ham iti prakāśah:
+svāpādyavasthāsu na syāt. tasmāt prakāśah: prakāśa eva, an: umātram api na rūpāntaram asyāstı̄ty abhinno bodhah: . ‘‘[– The Sautrāntika:] In this world, undoubtedly, consciousness is undifferentiated (abhinna), for its real nature is nothing but pure manifestation (prakāśamātra). [For] if [consciousness] had
+‘blue’ as its form, [and if this form were] distinct from manifestation, then, since this form would not be
+manifestation, it would not be manifested! But if [one said, rather,] that the form of [consciousness] is
+simply the fact that it is manifest thus, [as ‘blue’], how could there be a manifestation of yellow[, and not
+only of blue]? And even if [one said that] the form of [consciousness] consists precisely in the successive
+manifestation of blue, yellow, etc., the manifestation [that can be formulated as] ‘I am devoid of the
+manifestations of blue, etc.’ would not occur in such states as sleep, etc. As a consequence, manifestation
+is nothing but manifestation (prakāśah: prakāśa eva): it possesses no other form, however minute.
+Consciousness is therefore undifferentiated.’’ (Concerning the emendation above, the Bhāskarı̄ edition
+bears the KSTS reading, but Bhāskarakan: :tha obviously had the J and S1 reading; see Bhāskarı̄, vol. I, p.
+210: asya – bodhasya).
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+483
+
+must reflect an external multiplicity:12 although external objects can never be perceived, they must be inferred in order to explain phenomenal variety.13 And just as, in
+the case of the mirror, there is a correspondence of forms between reflected objects and
+
+12
+
+See ĪPK I, 5, 4: tattadā kasmikābhāso bāhyam
+: ced anumāpayet / na hy abhinnasya bodhasya vicitrābhāsahetutā // ‘‘If [a Sautrāntika objected that] the manifestation of this or that [particular object],
+which is [apparently] devoid of any cause, must lead [us] to infer an external [objective reality], because
+consciousness, [in itself] undifferentiated, cannot be the cause of [its] various manifestations...’’ Cf. ĪPV,
+vol. I, pp. 166–167: tasya cābhinnasya kadācin nı̄lābhāsatā kadācit pı̄tābhāsateti ye vicitrābhāsās tatra
+kāran: atvam
+: hi yasmān nopapannam hetāv abhinne kāryabhedasyāsam
+: bhavāt, tasmāt sa sa vicitranı̄lapı̄tādirūpa ākasmiko’jñātapratyaks: asiddhahetukah: san bāhyam
+: vijñānagatapratibimbātmakasvasvabhāvasam
+: pādakam aucityavaśān nijarūpasadr: śam
+: kramopanipatadrūpabahutarabhedātmakam
+:
+jñānāt sarvathā pr: thagbhūtam anumāpayatı̄ti sam
+: bhāvayate bāhyārthavādı̄. ‘‘And [consciousness,]
+which is undifferentiated, cannot be the cause of the ‘various manifestations’—i.e., [it cannot be the
+cause] of the fact that it is sometimes manifestation of blue, sometimes manifestation of yellow, [etc.];
+because when a cause is undifferentiated, there cannot be any difference in [its] effect. For this reason, the
+[manifestation] that is ‘such and such’—[i.e.,] that consists in various [objects] such as blue, yellow,
+etc.—, [and] that is ‘[apparently] devoid of cause’—[i.e., we] do not know any cause of it that would be
+established through perception – leads to infer ‘an external (bāhya) [objective reality]’; [i.e., phenomenal
+variety leads to inferring the existence of an entity] which causes [the appearance of] its own nature in the
+form of a reflection (pratibimba) within consciousness; [this entity] is similar to its own form [reflected in
+consciousness]—because it is appropriate [that a reflected object should resemble its reflection]–, it
+consists in many differences, the forms of which occur successively, [and] it is completely distinct from
+consciousness. Such is the hypothesis formulated by the externalist.’’ Cf. the presentation of the
+Sautrāntikas’ thesis in NM (K), p. 300 (see Ratié 2010a, fn. 17).
+13
+
+See ĪPV, vol. I, p. 164: tatra prakāśasyāvicitrasya kramen: a vicitratākāran: am
+: pratibimbātmakam;
+tatpratibimbasajātı̄yam
+: yat tad eva nı̄lādirūpam
+: bāhyam, tac ca yady apy anumeyam, tathāpı̄dam
+: nı̄lam
+iti pratyaks: en: ādhyavasāyād adhyavasāyaprān: itatvāc ca pramān: asthiteh: pratyaks: avyapadeśyam
+: *bhavis: yatı̄ti [SOAS: bhavis: yati KSTS, Bhāskarı̄, J, L, P, D, S1, S2] bāhyārthavādikathitam *idam
+: hetvantaram [conj.: iti hetvantaram KSTS, Bhāskarı̄, J, L, P, D, S1, SOAS: idam iti hetvantaram S2]
+anumı̄yamānam
+: bāhyarūpam āśan_kyamānatvena darśayati. ‘‘[Utpaladeva] is now presenting this other
+[possible] cause [for phenomenal variety] as an objection—namely, an external [reality] (bāhya) that is
+inferred (anumı̄yamāna), [and] that is thus presented by the externalist: ‘in that regard, the cause of the
+fact that the manifesting consciousness (prakāśa) possesses a variety [appearing] in a certain order
+[although it is in itself] devoid of variety is a reflection (pratibimba). The [reflected] double of this
+reflection is precisely the external [object] that has as its form blue, etc.; and although this [external
+object] is [only] an object of inference, it can nonetheless be called an object of perception, because of the
+determination (adhyavasāya) as an object of perception [that takes the form] ‘this is blue’, and because
+the establishment of [perception as] a means of knowledge depends on this determination’.’’ The end of
+the passage is an allusion to the Buddhist theory according to which in order to become expressible (and
+therefore useful in the practical world), the raw sensation of a singular presence must be determined
+(adhyavasita), i.e., conceptually transformed (so as to be grasped as ‘‘the perception of blue’’ for instance)
+through a process of exclusion of all perceptions of what is not blue: only thus does perception become
+strictly speaking a means of knowledge (see e.g. NBT: , pp. 83–85, cf. Ratié 2010b, fn. 7). Abhinavagupta
+alludes to this theory e.g. in ĪPV, vol. I, p. 213: bauddhair apy adhyavasāyāpeks: am
+: prakāsasya
+prāmān: yam
+: vadadbhir... ‘‘And the Buddhists too, who say that the manifestation [that is perception] is a
+means of knowledge insofar as it depends on a determination (adhyavasāya)...’’ In the Sautrāntikas’
+perspective, this theory implies that perception can rightly be said to be the perception of external objects
+(although in fact it presents nothing but an internal aspect of consciousness) because it is determined as
+such, and because without this determination, perception would be useless in the vyavahāra.
+
+123
+
+484
+
+I. Ratié
+
+their reflections, in the same way, to each phenomenon must correspond a distinct form
+outside of consciousness.14
+The First Assault on the Sautrāntika’s Inference: An Inferred Cause
+Must Have Been Previously Perceived
+Utpaladeva’s criticism begins thus:
+anumānam anābhātapūrve naives: :tam...15
+No inference can be admitted as regards that which has never been manifested
+previously.
+The goal of an inference is to establish the existence of an unperceived object, and if
+we did perceive that object, we would have no need to infer it; however inference
+necessarily regards an object that has already been perceived. Thus in order to infer
+that there is a fire on a mountain seen in the distance from the smoke floating above it,
+we must have had previous experiences of both smoke and fire, because according to
+Dharmakı̄rti’s explanation of causality (which Utpaladeva adopts),16 the very notion
+of causality arises from five ‘‘perceptions and non-perceptions’’ (pratyaks: ānupalambha): when we perceive fire, smoke, imperceptible so far, is then perceived; when
+we do not perceive fire, we do not perceive smoke either.17 Without this set of
+14
+
+See ĪPVV, vol. II, p. 89: vijñānāntarvartı̄ nı̄lādyākārah: sadr: śam arpakam apeks: ate pratibimbatvād
+darpan: apratibimbavad. ‘‘The aspect (ākāra) of blue, etc., that resides within consciousness requires
+something that projects [it] (arpaka) [and is] similar (sadr: śa) [to it], because it is a reflection (pratibimba), just as a reflection in a mirror [requires an external cause projecting it and similar to it].’’ On the
+term arpaka, cf. e.g. PV Pratyaks: apariccheda 247b–d, which formulates thus the Sautrāntika doctrine
+(see Eltschinger 2009, p. 201): grāhyatām
+: viduh: / hetutvam eva yuktijñā jñānākārārpan: aks: amam //
+‘‘Those who are versed in reasoning consider that to be an object consists in being a cause capable of
+projecting (arpan: a) an aspect (ākāra) onto consciousness.’’
+
+15
+
+ĪPK I, 5, 8a.
+
+16
+
+This adoption (typical of the Pratyabhijñā’s strategy regarding Buddhist logic: cf. Torella 1992) aims
+at showing that Dharmakı̄rti’s explanation of causality makes sense only if consciousness is a unitary
+enduring subject (and not, as the Buddhists contend, a series of discrete momentary cognitions). See ĪPK
+I, 7, 4: pratyaks: ānupalambhānām
+: tattadbhinnām
+: śapātinām / kāryakāran: atāsiddhihetutaikapramātr: jā //
+‘‘Perceptions and non-perceptions (pratyaks: ānupalambha), which [respectively] concern [only] this or
+that aspect distinct [from the relation of cause and effect], are the cause of the establishment of the
+relation of cause and effect [only] thanks to the single unitary subject.’’
+17
+
+See e.g. HB, p. 4 (cf. Lasic 1999): idam asyopalambha upalabdhilaks: an: aprāptam
+: prāg anupalabdham
+upalabhyate, satsv apy anyes: u hetus: v asyābhāve na bhavatı̄ti yas tadbhāve bhāvas tadabhāve’bhāvaś ca
+pratyaks: ānupalambhasādhanah: kāryakāran: abhāvas tasya siddhih: . ‘‘The relation of cause and effect
+[between A and B], that is, the presence [of B] when A is present, and the absence [of B] when A is
+absent, the establishment of which is made thanks to perception and non-perception (pratyaks: ānupalambha), is established thus: when there is a perception of A, B, for which the conditions of perception
+are fulfilled, [and] which was not perceived until then, is perceived; [whereas] even when some other
+causes [of B] are present, when A is absent, [B] is not present [either].’’ Abhinavagupta, following a
+number of Buddhist commentators, understands that the relation of cause and effect is established through
+a set of five experiences comprising two perceptions and three non-perceptions (see e.g. ĪPVV, vol. II, p.
+345: pratyaks: advayam anupalambhatrayam
+: ceti pratyaks: ānupalambhapañcakam, ‘‘five perceptions and
+non-perceptions—that is, two perceptions, and three non-perceptions’’), but other commentators have
+understood Dharmakı̄rti’s text differently (see Inami 1999).
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+485
+
+experiences, we could not consider smoke as a logical reason for inferring fire as its
+cause; and accordingly, in order to infer an external object as the cause of this or that
+particular cognition, we need to perceive the external object in itself, independently of
+the object’s cognition—but precisely, such a perception is impossible:
+dhūmāgnyor anupalambhāv agner upalambho dhūmasyānupalambho’gnyupalambhād uktād *anantaram eva [conj.: eva KSTS] dhūmasyopalambha ity
+evam
+: pratyaks: advayenānupalambhatrayen: a ca sakrd eva kāryakāran: atā
+
+vyavasthāpyate. tatrāpy anupalambho’py anyopalambha
+eveti pratyaks: avyāpārād *eva kāran: atā [corr.: evākāran: atā KSTS] vyavasthāpyate bhāvasiddheh: . na ca bāhyo’rthah: pratyaks: a iti tena saha kasyacid api na
+18
+kāryakāran: abhāvasiddhir iti tasminn anumeye na jñānam
+: kāryahetuh: .
+The relation of cause and effect is immediately established thanks to two
+perceptions and three non-perceptions, thus: the two non-perceptions of smoke
+and fire, the perception of fire, the non-perception of smoke, and immediately
+after the [already] mentioned perception of fire, the perception of smoke. Even
+if [causality is partly established through non-perceptions,] since even nonperception is [in fact] nothing but the perception of some other [entity], it is
+thanks to the sole activity of perception that causality is established, because
+of the establishment of the presence [of this or that entity]. And since the
+external object is not an object of perception, one cannot establish any causal
+relation between this [external object] and anything else; as a consequence, the
+cognition [of this or that object] is not the reason [consisting in] an effect
+(kāryahetu) as regards this [external object] that must be inferred.
+One cannot infer from the experience of an effect the existence of a cause
+external to consciousness, because no causal relation can be established without
+having recourse to a set of experiences which, by definition, cannot involve an
+external object. Besides, the Sautrāntika’s model of the mirror is inadequate, because in the case of the mirror, the reflected object and its reflection are not strictly
+speaking in a relation of cause and effect,19 but also, more importantly, because in
+the case of the mirror, we can perceive both the external object and its reflection in
+the mirror, so that we can at least determine a relation of similarity (tulyatā)
+between the reflected object and its reflection; whereas we can never perceive the
+external object in itself. Determining any relation (be it of mere similarity) between
+
+18
+
+IPVV, vol. II, p. 160.
+
+19
+
+ĪPVV, vol. II, pp. 158–159: samarpyasamarpakatā ca darpan: agajayos tulyakālakr: taiva. tata eva na
+pāramārthikah: kāryakāran: abhāvo’yam api tu bimbapratibimbavyavahārah: . ‘‘Moreover, the mirror and
+the elephant [reflected in it] become [respectively] that onto which [a form] is projected and that which
+projects [a form] exactly at the same time; for this very reason, it is not a real relation of cause and effect,
+[which implies the cause’s anteriority], but only the mundane experience of a reflected object and its
+reflection (bimbapratibimbavyavahāra).’’
+
+123
+
+486
+
+I. Ratié
+
+an external object and a cognition is therefore perfectly impossible: the mirror
+model is irrelevant as regards consciousness.20
+So far the reasoning is very similar to that of the Vijñānavādins; thus the famous
+Dharmakı̄rtian argument of the sahopalambhaniyama (‘‘the necessity of being
+perceived together [for the object and its cognition]’’)21 enables the Vijñānavādins
+to demonstrate that any attempt to infer an external object is vain, because the
+impossibility of experiencing the external object independently of cognition precludes the establishment of any relation (be it of causality or of mere similarity)
+between the external object and the cognition.22
+
+The Sautrāntika’s Riposte: The Argument of the Sense Organs
+The Sautrāntika then puts forward a new argument:
+nanu bhavatu pratyaks: ato drs: :te’numāne sam
+: katheyam
+: sāmānyato drs: :te tu kim
+:
+23
+
+
+vaks: yasi yathārthopalabdhyendriyānumāne?
+Fine—let us accept this speech [of yours] as regards an inference with respect
+to what has been apprehended through a direct perception (pratyaks: ato drs: :ta).
+
+However, in the case of an [inference] with respect to what has been apprehended through a generality (sāmānyato drs: :ta), what will you say—for instance, in the case of the inference of thesense organs (indriya) from the
+perception of their object?
+Indeed, we usually infer entities that have been previously perceived; but the
+Sautrāntika is here pointing out that this is not always the case. Thus Indian philosophers consider that our sense organs (indriya) are inferred whereas we never
+perceive them as such. This does not mean that we must infer the existence of our
+eyes, for instance—for we can observe these elements of our body (even though
+indirectly, in a mirror), touch them, etc. Nor does it mean that we should infer our
+
+20
+
+See ĪPVV, vol. II, p. 159: darpan: apratibimbe hi bimbam apy upalabdham iti niścitam
+: sādr: śyamātre;
+iha tu bimbasya nāmāpi nāvagatam iti katham etattulyatā bhavet? ‘‘For in the case of the reflection
+(pratibimba) in a mirror, the reflected object (bimba) is also perceived; as a consequence, it is determined
+[as being a reflected object] from the point of view of the mere resemblance [with the reflection]; whereas
+in the case [of the external object and the cognition, we] do not grasp anything that would belong to the
+reflected object (bimba). Therefore how could there be any similarity of this [imperceptible external
+object with the cognition]?’’
+
+21
+
+See PVin I, 54a (quoted in ĪPVV, vol. II, p. 78, see Ratié 2010a): sahopalambhaniyamād abhedo
+nı̄lataddhiyoh: . ‘‘Because of the necessity [for blue and the cognition of blue] to be perceived together,
+there is no difference between blue and the cognition of blue.’’
+
+22
+
+For similar reasonings attributed to Vijñānavādins in Naiyāyika and Mı̄mām
+: saka texts, see Ratié
+(2010a, fn. 22).
+
+23
+
+ĪPV, vol. I, pp. 187–188.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+487
+
+visual faculty, because this faculty is self-evident: to see is to know that one sees.24
+But why is the eye ordinarily considered as the instrument thanks to which we can
+see? For an eye never sees itself seeing: although we can perceive our eyes, ears,
+nose, skin and tongue, their instrumentality in perception remains imperceptible to
+us. According to Buddhist as well as Brahmanical philosophers, this instrumentality
+must be inferred: in order to explain the fact that we are perceiving, we must assume
+the existence of some imperceptible entities (whether they are conceived as atoms
+or as rays, and whether they are thought to enter in contact with their object or
+not)25 residing inside what we ordinarily consider as our visual organs, and constituting the real instruments of perception—the real sense organs.
+However this inference does not establish the existence of an object that would
+have been directly (pratyaks: ato) perceived at some point in the past, since the
+indriya-s are by nature imperceptible: it only establishes the existence of an object
+apprehended in a general way (sāmānyato). Thus, when witnessing various actions,
+we apprehend the invariable concomitance between these actions and the instruments thanks to which they are exerted; and from the generality or the universal
+(sāmānya) of instrumentality (karan: atā) thus grasped, we become capable of
+inferring the sense organs—that is, we assume by analogy26 that we possess some
+imperceptible instruments having a causal role in the act of perceiving.27
+The Sautrāntika portrayed by Abhinavagupta thus explains:
+tena ca yady api vyāptir na gr: hı̄tā, tathāpi kāryavyatireken: eti kādācitkatayā
+yad idam
+: kāryam
+: nı̄lābhāsam
+: vijñānam
+: tat tathābhūtam adhikam
+: hetum
+: vinā
+nopapadyata ity evam
+niyamavato
+vyatirekāt
+sāmānyamukhenāpy
+anvayah
+:
+:
+sidhyaty eva.28
+24
+
+This is the reason why I did not translate indriya as ‘‘sense faculty’’ or ‘‘capacity;’’ the indriya of sight
+is not the power of seeing (for that power is self-revealed). Eli Franco has rightly pointed out to me that
+the term ‘‘organ’’ might be misleading insofar as the indriya of sight for instance is more than what we
+usually consider as the visual organ (i.e., the visible body parts called ‘‘eyes’’). But provided that one
+keeps in mind that etymologically, an organ is a bodily ‘‘instrument,’’ and that sense organs are not
+limited to the perceptible body parts called ‘‘eye,’’ ‘‘ear,’’ etc., it seems to me that this latter translation
+remains the least unsatisfactory, given that the indriya-s are the karan: a-s of perception (see e.g. NM, vol.
+I, p. 348, quoted below, fn. 27).
+25
+
+See Preisendanz (1989), particularly pp. 147–149.
+
+26
+
+See Nenniger (1994).
+
+27
+
+Cf. NM, vol. I, p. 348: sāmānyato dr: s: :tam
+: tu yatra sam
+: bandhakāle’pi lin_gisvarūpam apratyaks: am
+:
+nityaparoks: am eva sāmānyato vyāptigrahan: ād anumı̄yate, yathā śabdādyupalabdhyā śrotrādi karan: am.
+indriyān: ām atı̄ndriyatvān na kadācit pratyaks: agamyatvam. atha ca cchedanādikriyān: ām
+: paraśvadhādikaran: apūrvakatvena vyāptigrahan: āc chabdādyupalabdhikriyān: ām
+: karan: apūrvakatvam anumı̄yate. ‘‘As
+for the [inferred object] that is apprehended through a generality (sāmānyato dr: s: :ta), it possesses an
+inferential mark, [but] it is not directly perceived, [i.e.,] it is always imperceptible, even at the time of the
+relation [between the inferred object and its inferential mark; and it is] inferred from a generality
+(sāmānyato) thanks to the apprehension of an invariable concomitance—for instance, an instrument
+(karan: a) such as the hearing organ [is inferred] thanks to the perception of words, etc. Because sense organs
+(indriya) are [themselves] beyond [the realm of] sense organs (atı̄ndriya), [they] can never be directly
+apprehended. And yet, because there is an apprehension of the invariable concomitance of such actions as
+cutting with the fact of being preceded by instruments such as an axe for instance, the fact that actions such
+as sound perception must be preceded by some instruments, [i.e., sense organs,] is inferred.’’
+28
+
+ĪPVV, vol. II, p. 161.
+
+123
+
+488
+
+I. Ratié
+
+And even though the invariable concomitance [between the cognition] and this
+[external object] is not grasped through the [five experiences that enable us to
+establish a causal relation,] nevertheless, [it is grasped] because of the absence
+of the effect [if the cause is absent] (kāryavyatireka): the effect that is the
+cognition having the aspect ‘‘blue,’’ which [only exists] occasionally, cannot
+logically take place without a cause distinct [from the effect and] that is, like
+[the effect, occasional]. The positive concomitance (anvaya) is [therefore]
+perfectly established, albeit through a generality (sāmānya) [and not through a
+direct perception], from the negative concomitance (vyatireka) that implies the
+necessity [just expounded].
+When inferring that a hill is on fire from the smoke seen above it, we identify the
+inferred fire with previously witnessed fires, whereas when inferring the existence of
+the instruments thanks to which we perceive, we do not identify the inferred cause with
+some particular entity perceived in the past: we assume the existence of this cause in a
+general way, as an entity only particularized by its being distinct from its effect (i.e.,
+perception), because if we did not assume its existence, we could not account for the
+fact of perception. In the same way, we must account for the fact that consciousness is
+not eternally the consciousness of blue for instance: phenomenal variety exists, and
+since it is not caused by the nature of consciousness, which is in itself undifferentiated,
+we must assume the existence of an imperceptible cause conceived in a general way as
+distinct from the cognition of this or that object, i.e., the external object.
+
+Utpaladeva’s Answer: In the Case of the Sense Organs, Causality
+is Directly Perceived
+Utpaladeva could reply by arguing, as Dharmakı̄rti does, that there is another possible
+explanation for phenomenal variety—namely, the theory of impregnations (vāsanā).29
+However this argument would be irrelevant here, since the Śaiva philosopher has
+already shown (in the guise of a Sautrāntika) that impregnations cannot cause consciousness’s diversity. Utpaladeva therefore makes the following answer:
+29
+
+See PVin I, 58d (cf. Krasser 2004, pp. 142–143): ... bāhyasiddhih: syād vyatirekatah: // ‘‘The external
+[object] could be established through the absence [of a certain effect if a certain cause is absent] (vyatireka),’’
+and the auto-commentary ad loc. (p. 43): satsu samarthes: v anyes: u hetus: u jñānakāryānis: pattih:
+kāran: āntaravaikalyam
+: sūcayati. sa bāhyo’rthah: syād yady atra kaścid upādānaviśes: ābhāvakr tam
+: kāryavy
+atirekam
+: na brūyāt. ‘‘When all the other causes capable [of producing a cognition] are present, the non-arising
+of the effect which is the cognition indicates that some other cause is missing; and this [missing cause] could
+be the external object, if in this regard, somebody [—i.e., a Vijñānavādin—] did not explain that the absence
+of this effect is due to the absence of the particular material cause [which is a particular impregnation].’’
+Abhinavagupta quotes this passage (see ĪPVV, vol. II, pp. 128–129) and obviously considers it as a refutation
+of the Sautrāntikas’ contention that the external object must be established through kāryavyatireka. In the NM,
+the Vijñānavādin, who quotes this verse (see NM(K), p. 300), also shows that the Sautrāntika’s theory is not
+compelling since the mechanism of residual traces can also account for phenomenal variety. See NM (K),
+p. 298: svacchatvāj jñānasya kālus: yam anyakr: tam iti cet, avidyāvāsanākr: tam
+: tad bhavis: yati. ‘‘If [the
+opponent says] that because consciousness is [in itself] limpid, the fact that it is stained [by phenomenal
+diversity] must be produced by something else, [we Vijñānavādins answer that] this can [also] be produced by
+the impregnations (vāsanā) [produced by/responsible for] nescience.’’
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+489
+
+... indriyam / ābhātam eva bı̄jāder ābhāsād dhetuvastunah: // ābhāsah: punar
+ābhāsād bāhyasyāsı̄t katham
+: cana / arthasya naiva tenāsya siddhir nāpy
+anumānatah: //30
+[Before being inferred,] the sense organs have indeed been manifested through
+the manifestation of a real entity which is a cause, such as, for instance, a seed,
+[which is the cause of a sprout,] but the manifestation of an object external to
+manifestation could not occur in any way. Therefore there can be no establishment of this [external object]—not even through an inference.
+When inferring the existence of our sense organs, we only infer a cause in
+general capable of explaining the fact that we perceive, and Abhinavagupta explains
+that this general feature of ‘‘causality’’ (kāran: atā) by which the inferred object is
+characterized is directly perceived:
+ucyate tatrāpi vikalpena yathā so’rthah: spr: śyate tathānumeya iti sthitih: . vikalpaś ca nendriyādikam artham
+: kenacit *sam
+: niveśaviśes: ādinā viśes: ātmanā
+[Bhāskarı̄, J, P, S1, S2, SOAS: sam
+niveśaviśes
+:
+: ātmanā KSTS, L; p.n.p. D]
+sprśaty api tu kim
+cid
+upalabdheh
+kāran
+am
+ity
+amunā svabhāvena, sa ca
+:
+:
+:
+31
+
+svabhāvah
+kāran
+atālaks
+an
+ah
+pratyaks
+agr
+hı̄ta
+eva.
+:
+:
+: : :
+:
+
+[To the Sautrāntika’s objection, Utpaladeva] replies: even in that case [where we
+infer an object grasped through a generality (sāmānyato drs: :ta),] it is established
+ through a concept
+that the inferred object must be such as any object grasped
+(vikalpa); but a concept does not grasp its object—such as the sense organs for
+instance—as having some particular nature comprising a particular configuration, etc.; rather, [it grasps it] as this nature [only]: ‘it is some cause of perception’—and this nature, characterized by causality [only,] is indeed grasped
+through a direct perception (pratyaks: a).
+The latter statement is somewhat surprising: how can causality be directly perceived, as we perceive blue or yellow?
+According to the Buddhist logicians, we are aware of the causality of fire with
+respect to smoke thanks to a series of perceptions and non-perceptions. However
+these experiences only produce the awareness that a particular fire is the cause of the
+particular smoke seen above the mountain; so where does the general notion of
+causality come from? One could consider that it is inductively formed from the
+particular past experiences of the seed and sprout, of the threads and cloth, etc.
+According to the Pratyabhijñā philosophers though, this is not the way we acquire
+the sāmānya of causality, because if this general notion were not first known in
+some way, the process of generalization would remain impossible: the term ‘‘cause’’
+would remain inextricably attached to the sole particular entities perceived by us.32
+30
+
+ĪPK, 5, 8b-9.
+
+31
+
+ĪPV, vol. I, p. 188.
+
+32
+
+Cf. ĪPVV, vol. II, p. 156 : anyathaikatra bı̄je kāran: aśabdah: sam
+: ketito na mr: tpin: d: ādau sam
+: ketito
+bhavet. ‘‘If it were not the case, the word ‘cause’ would be associated by convention to one [single entity
+such as] the seed: it could not be associated by convention to a lump of clay for instance[, although the
+latter is a cause with respect to the pot].’’
+
+123
+
+490
+
+I. Ratié
+
+The synthesis through which, gathering the various perceptions of fire and smoke
+mentioned by Dharmakı̄rti, we are capable of saying ‘‘fire is the cause of smoke’’ is
+possible because each of these perceptions already contains in some way the notion
+of causality. Thus, according to Utpaladeva, any particular entity (svalaks: an: a) is in
+fact the singular combination of a multiplicity of elementary phenomena (ābhāsa)33 which ‘‘behave like generalities’’ (sāmānyāyamāna).34 This particular fire
+seen here and now is therefore a unique synthesis of elementary phenomena: time,
+place, existence, fire in general, which in turn can be analyzed into a series of
+general features, including the fact of being the cause of smoke.
+The Buddhists could object that this analysis is a conceptual activity posterior to
+perception; but according to Utpaladeva, the very fact that we are capable of such an
+analysis shows that these various elements are already present, albeit in an implicit
+form, in the pure sensation preceding the verbal analysis. As a consequence, these
+general aspects—which include causality—are not a secondary and purely artificial
+construction, contrary to what Dharmakı̄rti claims: they are the ultimate elements of
+perception and any particular object of perception is made of their synthesis.35
+This theory of perception enables Utpaladeva to state that causality in general has
+already been grasped in countless perceptions (as a component of perceived fires,
+seeds, etc.),36 so that the sense organs too, although imperceptible as such, are
+nonetheless perceived in some way, insofar as they are inferred as a ‘‘cause
+in general’’ already perceived in innumerable everyday experiences.37
+Abhinavagupta concludes:
+tasmāt kāran: atvābhāsasāmānyam
+: pūrvapratyaks: asvı̄krtam. tatas tatra yuktam
+:
+
+vikalpanam.38
+Therefore [the subject] has appropriated the generality (sāmānya) of the
+phenomenon ‘‘causality’’ through direct perception before [inferring the
+existence of the sense organs]; so in this case, the conceptual construction is
+correct.
+The Sautrāntika wrongly assumes that in the case of the sense organs, the inferred
+object has never been perceived (so that it is all right to infer an external object by
+33
+
+See ĪPK II, 3, 7 and their commentaries, quoted and translated in Ratié (2010b, fn. 36).
+
+34
+
+See ĪPK II, 3, 2cd and its commentaries (quoted and translated in Ratié 2010b, fn. 35). This verse is
+explicitly mentioned by Abhinavagupta in his explanation of Utpaladeva’s criticism of the Sautrāntika’s
+inference (in ĪPV, vol. I, pp. 188–189).
+35
+
+See Torella (1992, pp. 332–333); (2002, fn. 3, pp. 89–90).
+
+36
+
+See ĪPV, vol. I, pp. 189–190: iti kāran: ābhāso viśes: aśūnyah: parigr: hı̄ta eva bı̄jād an_kura iti pratı̄tau.
+yad yasya niyamam anuvidhatte’vyatiriktam
+: tat tasya kāryam iti pratighat:am
+: mr: ttikādirūpasya hetutadvanmātrasyābhāsāt. ‘‘As a consequence, in the case of the cognition ‘the sprout comes from the seed’,
+the phenomenon of cause (kāran: ābhāsa) devoid of particularities (viśes: aśūnya) has already been entirely
+grasped [in the form] ‘that which invariably receives its restriction from [something] is the effect of that
+[thing]’, because in each pot, something that is merely [particularized as] possessing this [generality] of
+cause (hetutadvanmātra) is manifest in the form of clay, etc.’’
+
+37
+
+See Vr tti, p. 22: indriyam apy anumı̄yate kim
+: cinmātram
+: nimittam
+: tac ca bı̄jādyābhāsād ābhāsitam eva.
+ sense organs are inferred as a mere something (kimcinmātra) that is a cause, and this has
+‘‘Even the
+:
+necessarily been manifested [previously] thanks to the manifestation of the seed, etc.’’
+
+38
+
+ĪPVV, vol. II, p. 156.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+491
+
+definition impossible to perceive): in fact, the object of the sense organs’ inference,
+causality in general, is already known through perception.
+
+Is Utpaladeva Providing an Argument Against His Own Theory?
+This strategy is very risky though; for the argument could be used just as well in
+favour of the Sautrāntika’s thesis. Thus according to Utpaladeva, the inference of
+the sense organs is valid, although nobody has ever perceived the indriya-s, because
+it regards a ‘‘cause in general’’ of perception, which is a component of countless
+perceived objects; but then why not consider that accordingly, the inference of the
+external object is valid, because it regards the ‘‘cause in general’’ of phenomenal
+diversity? Utpaladeva’s reasoning apparently legitimates the externalist’s inference
+instead of refuting it.
+Although this problem is not clearly stated in the Vrtti or the ĪPV, Utpaladeva and
+Abhinavagupta were perfectly well aware of it. Thus,commenting on Utpaladeva’s
+lost Vivr: ti, Abhinavagupta explains:
+yadi tāvad adhikam
+: hetumātram
+: sādhyate tat kāpilābhyupagatasam
+: vinmātrasvabhāvādhikam
+: sam
+: vidaiśvaryam icchātmakam urarı̄kr: tam eva kāran: atayā
+svātantryam
+: nāmeti siddham
+: sādhitam
+: syāt. athāpi sam
+: vidbāhyatāviśis: :tam
+:
+tadadhikam
+: sādhyate. tad anupapannam
+: , sam
+: vidbāhyasya svapne’py anābhātasya vikalpyatvāyogād anumeyatānupapannā yatah: .39
+If, on the one hand, [the Sautrāntika’s inference] establishes a mere cause
+(hetumātra) that is [simply] distinct [from the other perceived causes of
+phenomenal variety,] then here is what [this inference] should ‘‘establish:’’ the
+sovereignty (aiśvarya) of consciousness, which is distinct from the nature that
+the followers of Kapila [the founder of Sām
+: khya] attribute to pure consciousness (sam
+vinmātra),
+[and]
+which
+consists
+in will (icchā)—[i.e.,] what is
+:
+called freedom (svātantrya) must necessarily be acknowledged as the cause
+[of phenomenal variety]. If, on the other hand, [the Sautrāntika says] that [his
+inference] establishes [a cause] that is particularized (viśis: :ta) by externality
+with respect to consciousness (sam
+: vidbāhyatā), [that is to say, a cause] which
+is distinct from [consciousness]—this is impossible; because that which is
+external to consciousness, [i.e.], that which has never been been manifested,
+even in a dream, cannot be inferred, since it cannot be conceptualized.
+There is an essential difference between the sense organs’ inference and the
+external object’s inference. In the first case, one infers, from the fact of visual
+perception for instance, a cause in general that is distinct from the other causes of
+perception (i.e. light and the perceived visual form).40 In the second case, however,
+39
+
+ĪPVV, vol. II, p. 161.
+
+40
+
+See ĪPVV, vol. II, p. 155: indriyādr: s::taprabhr: ti na kenacid vises: arūpen: ānumı̄yate’pi tu sāmānyena
+dr: s::tarūpālokādhikam
+: kim
+: cit kāran: am iti. ‘‘An [entity] such as the imperceptible entity that is a sense
+organ is not inferred in any particular form (vises: arūpa); rather, [it is inferred] as a generality (sāmānya),
+in the form: ‘it is some cause that is distinct from the perceived form and light’.’’
+
+123
+
+492
+
+I. Ratié
+
+the cause inferred is not conceived as a cause in general, since it is particularized
+(visis: :ta) by externality: the Sautrāntika does not claim to infer just any cause, but
+rather, a cause that possesses the singular property of being external to consciousness.
+Admittedly, any inferred cause is thus subjected to some kind of particularization: we infer the existence of the seed that causes a sprout as being distinct
+from the other causes contributing to its production, such as water or earth—or
+the clay that causes a pot, as being distinct from the potter’s stick or wheel;41 or
+the sense organ causing perception, as being distinct from the perceived form
+or light. In the case of the external object though, the Sautrāntika does not infer
+from the cognition bearing differentiated aspects (sākāra) a cause in general that
+would simply be distinct from a pure consciousness devoid of aspects (nirākāra);
+for if that were the case, he would infer the sole freedom (svātantrya) of
+consciousness as the cause of phenomenal variety (thus agreeing with the
+Pratyabhijñā philosophers’ main thesis),42 since this creative spontaneity at the
+heart of any conscious state is distinct from the passive, undifferentiated manifestation that the Sautrāntika describes as the normal state of consciousness.43
+But the Sautrāntika refuses to identify the cause to be inferred with consciousness’s spontaneity: he wants to infer a cause distinct from consciousness itself.
+This additional particularization44 dooms the Sautrāntika’s inference to failure,
+because one cannot picture an entity distinct from consciousness, even through
+the wildest act of imagination (‘‘even in a dream,’’ says Abhinavagupta): the
+objects of our concepts are general features that have been extracted from some
+previous perception, but there can be no perception of what is by nature absolutely alien to consciousness—so that there can be no concept of the external
+
+41
+Cf. ĪPVV, vol. II, p. 155:tatra mr: jjalayoh: sam
+: nihitayor abhavann an_kurah: , sa hi sati bı̄je bhavan,
+dan: d: acakrayoh: sator asan ghat:ah: , sati mr: tpin: d: e bhavan, tadadhikabı̄jahetukas tadadhikamr: tpin: d: ahetuka
+iti kramen: a pratyaks: ānupalambhajo niścayo jāyate. ‘‘In this regard, the certainty produced by the perceptions and non-perceptions (pratyaks: ānupalambha) arises progressively in the form ‘when earth and
+water are present, the sprout does not exist; for [only] when the seed [too] exists does the [sprout] exist;
+when the [potter’s] stick and wheel are present, the pot does not exist; [for only] when the clay lump [too]
+exists does the [pot] exist. [Therefore the sprout] has as its cause the seed, which is distinct from [earth
+and water]; [and] the [pot] has as its cause the clay lump, which is distinct from [the potter’s stick and
+wheel]’.’’
+42
+
+On this thesis, see e.g. Ratié (2010a).
+
+43
+
+Abhinavagupta points out here that insofar as the Sautrāntika considers that consciousness is in itself
+undifferentiated, he agrees with certain Brahmanical conceptions of consciousness (such as the Sām
+:khya’s) presenting it as the passive and undifferentiated mirror of an ontologically independent reality.
+Utpaladeva refutes this conception in a famous verse: see ĪPK I, 5, 11 (cf. e.g. Alper 1987; Torella 2002,
+p.118; and Ratié 2007, fn. 59, pp. 339–340), which shows that consciousness, far from passively
+reflecting its objects, actively becomes aware of itself, and that this dynamic grasp (vimarśa) is the very
+essence of manifestation.
+
+44
+
+See ĪPVV, vol. II, p. 165: kāran: atāsāmānyapr: s: :the bāhyatātmakam
+: viśes: an: āntaram
+: :tan_kayitavyam.
+‘‘[If we follow the Sautrāntika’s reasoning,] another particularity (viśes: an: āntara), namely, externality
+(bāhyatā), must be cut on the back of the generality of causality!’’
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+493
+
+object. Thus in the ĪPV, Abhinavagupta, after explaining how the sense organs
+can be inferred, adds:
+ābhāsād bāhyah: punar anābhāsarūpah: , sa cābhāsata iti vipratis: iddham.
+anābhāse ca nāsti vikalparūpasyānumānasya vyāpārah: .45
+However, an [entity] external to manifestation consists in a non-manifestation
+(anābhāsa), and it is absolutely impossible that it may be manifest! And there
+is no inferential activity—[since] an inference has as its nature a concept
+(vikalpa)—as regards a non-manifestation.
+
+The Ambiguity of the Concept of Externality (bāhyatā)
+Nevertheless Utpaladeva’s opponent refuses to concede defeat, and in the ĪPVV, he
+formulates a new objection:
+grāmād darpan: ād gr: hād dehāt sam
+: vedanād bāhyam iti *bāhyatāsāmānyam
+[conj.: bāhyatah: sāmānyam KSTS]46 ekam, tac ca grhād bāhyam iti pratı̄tau
+
+siddham. tataś ca samarpakam
+: *darpan: ād iva bāhyam
+: [conj.: darpan: ādibāhyam
+KSTS]
+sam
+vedanād
+api
+setsyati
+kramikābhāsavaicitryād
+:
+:
+dhetoh: .47
+It is one [and the same] generality of externality (bāhyatāsāmānya) [that is
+present in these various cognitions:] ‘‘[this is] external (bāhya) to the village,
+to the mirror, to the house, to the body, to consciousness;’’ and this [generality
+of externality] is established in the [mere] experience ‘‘[this is] external to the
+house.’’ And as a consequence, just as [one can establish the existence of
+something] external to the mirror [and] projecting [its particular form] onto it,
+one can also establish [the existence of something external] to consciousness,
+for the reason that is the diversity of successive phenomena [experienced by
+any conscious being].
+The Sautrāntika is arguing that according to Utpaladeva’s own theory of perception, conceptualizing the external object is no problem at all: just as we perceive
+causality (kāran: atā) as a general feature present in countless perceptions, in the
+same way, we must perceive the general feature of externality (bāhyatā) in our
+everyday experiences—when seeing a pot outside a house for instance; Utpaladeva
+must acknowledge that just like causality, externality is part of our perceptual
+
+45
+
+ĪPV, vol. I, p. 190.
+
+46
+
+Cf. the long marginal annotation in the SOAS manuscript of the ĪPV (folio 119, upper right
+corner) which quotes this sentence (cf. also fn. 248 in the KSTS edition of the ĪPV, vol. I, p. 190,
+almost identical to this marginal annotation): grāmād darpan: ād gr: hāt sam
+: vedanād bāhyam iti
+bāhyatāsāmānyam ekam
+: ...
+47
+ĪPVV, vol. II, p. 165.
+
+123
+
+494
+
+I. Ratié
+
+world, so that we can rightly infer the existence of an object particularized by its
+externality to consciousness.48
+Abhinavagupta thus sums up the answer given by Utpaladeva to this objection in
+his lost Vivr: ti:
+nedam
+: bāhyatvam
+: ghat:asya grāmāc ca sam
+: vedanāc caikam. sam
+: vedanād
+bāhyam
+hy
+asam
+vedanarūpam
+,
+na
+tu
+gr
+hād
+bāhyam
+agr
+harūpam.
+evam
+:
+:
+:
+:
+:
+: sati hi
+gr: haikadeśah: kut:yādir gr: hāntarvarty api ca ghat:ādir gr: habāhyah: syāt; na
+caivam. gr: hasam
+: nikr: s: :tam
+: ca yadvad bāhyam
+: gr: hāt, na tadvad eva
+sam
+vedanāt
+tasyāmūrtasya
+sam
+nikars
+ādideśavyavahāryatvābhāvāt.
+tatah:
+:
+:
+:
+*śabdasāmya-[conj.: śabdasāmānya- KSTS]49 mātren: edam
+sādhyam
+ekam
+:
+:
+pratibhāti.50
+The externality (bāhyatva) of the pot is not one [whether it be considered] with
+respect to the village or with respect to consciousness; for that which is
+external to consciousness consists in that which is not consciousness
+(asam
+: vedanarūpa), whereas that which is external to the house does not
+consist in that which is not a house! For if that were the case, a particular
+element of the house—such as a wall for instance—or a pot for example,
+although it is situated inside the house, should be external to the house, [since
+they are not the house itself]; and it is not so. And whereas that which is
+48
+Cf. fn. 248 in the KSTS edition of the ĪPV, vol. I, p. 190 (reproducing a text similar to the marginal
+annotation mentioned above, fn. 46): tathā cātra pūrvavyavasthā sphut:am eva dr: śyate, yathā
+caks: urādiviśes: aparihāren: a *bı̄jādyanubhavāt [conj.: yathā vā bı̄jādyanubhavāt KSTS; yathā bı̄jādyanubhavāt SOAS] kāran: atāsāmānyam [conj.: kāran: asāmānyam KSTS, SOAS] anubhūtam evoktam, tathā
+śarı̄rād gr: hād grāmāder vā bāhyasyānubhavād bāhyatvam api sāmānyenānubhūtam eva, jñānaviśes: en: a
+bāhyatvānanubhavoktau vā caks: urāder api kāran: aviśes: asyānanubhūtapūrvatvān na syād anumānam
+: tat
+katham
+: nānumānasya vyāpāra ity uktih: . ‘‘This is [the Sautrāntika’s] discourse: ‘And in the same way [as
+in the case of the sense organs], in this case [too], one sees very obviously that [externality] is already
+established: just as[, in the case of the sense organs’ inference, Utpaladeva] has said that the generality of
+causality (kāran: atāsāmānya) has been experienced without taking into account the particularities of the
+organ of vision, etc., through the experience of the seed and [other perceived causes], exactly in the same
+way, [in the case of the external object’s inference,] externality (bāhyatva) too is indeed experienced as a
+generality (sāmānya) thanks to the experience of [this or that particular object that is] external to the
+body, the house or the village; alternatively, if [Utpaladeva] answers that there is no experience of
+externality thanks to a particular cognition, [then,] since the particular cause that is the organ of vision for
+instance has not been previously experienced either, there cannot be any inference [of the sense organs
+either]; therefore why wouldn’t the inference apply [in the case of the external object as well as in the
+case of the sense organs]?’’
+49
+Cf. the parallel passage in the ĪPV (vol. I, p. 190) quoted below. One could rather consider that it is the
+text of the two editions of the ĪPV that is corrupted. However all the consulted ĪPV manuscripts (J, L, P,
+S1, S2, SOAS; p.n.p. D) bear the KSTS and Bhāskarı̄ reading; and the context seems to require this
+conjecture, since śabdasāmānya would make sense if Abhinavagupta said that the generality of externality (bāhyatāsāmānya) is a generality that is only verbal; but he states that this generality of externality
+appears to have a unity only thanks to something else. Besides, śabdasāmya is found elsewhere in the
+ĪPVV, e.g. vol. III, p. 194: nanu tatra ghat:ān_kurādau śabdasāmyamātram
+: . ‘‘[—An objector:] But in
+the case [that you are invoking,] there is only a verbal similarity (śabdasāmya) between the pot and the
+sprout for instance, [which are both called ‘effects’, but are different insofar as the first is the product of a
+conscious intention].’’ Cf. also PV Pramān: asiddhipariccheda 12, quoted below. Admittedly, Dignāga
+deals with śabdasāmānya, but in a different context (see Pind 1991).
+50
+
+ĪPVV, vol. II, p. 165.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+495
+
+external to the house is next to (sam
+: nikrs: :ta) the house, it is absolutely not the
+ to consciousness, because of the
+case as regards that which is [external]
+impossibility for [consciousness]—which is devoid of any material form
+(mūrta)—of having any spatial relation whatsoever such as proximity
+(sam
+: nikars: a). Therefore this [externality] that must be established appears to
+be one only thanks to a verbal similarity (śabdasāmya).
+The same argument is found in the ĪPV (although in a condensed form, and
+without the objection to which it responds):
+grāmagr: hād astu yad bāhyam
+: tad agrāmādirūpam
+: nocyate pratyekam
+:
+vāt:ānūpakut:yatulāder bāhyatvaprasan_gād api tu *tatsam
+: nikr: s: :tam [J, L, P, S1,
+51
+S2, SOAS : sam
+: nikr: s: :tam KSTS: tatsam
+: nikat:am
+: Bhāskarı̄; p.n.p. D].
+When one acknowledges that something is external to the village or the house, one
+does not mean that this [thing] consists in that which is not the village or the
+[house]; for [if it were the case,] there would follow respectively the externality of
+the graden and the river [with respect to the village, whereas in fact they are in the
+village,] or of the wall and a beam in the roof structure, [whereas in fact they are in
+the house], etc. Rather, [we say that something is external to the house or the village
+when we mean] that it is next to it (sannikr: s: :ta).
+Utpaladeva’s answer to the Sautrāntika’s last objection consists in pointing out
+the fundamental ambiguity of the term ‘‘externality.’’ Thus when we talk about an
+object external to consciousness, we mean an object ‘‘the nature of which is not
+consciousness’’—in this case, externality means non-identity: an object is said to be
+external to consciousness if it is considered as alien to consciousness; whereas when
+we say ‘‘the pot is external to the house,’’ we do not mean that the pot is not the
+house (just as when we say that the pot is inside the house, we do not mean that the
+pot has the house as its nature): in this case, we don’t have in mind a pure and
+simple otherness, but a spatial relation of proximity—and such a relation cannot
+apply to consciousness, since consciousness is not a material form, a body situated
+in space.
+So it is a mere verbal similarity or homonymy (śabdasāmya) that enables us to
+talk about an object external to consciousness, and, as Abhinavagupta specifies,52
+not a vastusāmya, a similarity regarding the real entities denoted by the word: while
+the generality ‘‘externality’’ that we experience is a certain relation between two
+entities that are both manifest as spatially determined, the externality mentioned by
+the Sautrāntika is a pure otherness between two radically different entities, one of
+which is absolutely unmanifest, whereas the other is the manifesting consciousness
+itself—and we never experience such a relation.
+
+51
+
+ĪPV, vol. I, p. 190.
+
+52
+
+See ĪPV, vol. I, p. 190, quoted below.
+
+123
+
+496
+
+I. Ratié
+
+What Differentiates the Pratyabhijñā’s Criticism from the Vijñānavādins’?
+This notion of śabdasāmya is probably borrowed from Dharmakı̄rti, who states (albeit
+in a very different context)53 that an inference is invalid if it rests on a reason that only
+has a verbal similarity (śabdasāmya) with something that could be a valid reason,
+whereas the real entities (vastu) designated by the same expression are different:
+vastubhede prasiddhasya śabdasāmyād abhedinah: / na yuktānumitih:
+pān: d: udravyād iva hutāśane //54
+The inference of [something] well known is not right [when it occurs] on
+account of [something else] that [seems to have] no difference [with a valid
+reason] due to a [mere] verbal similarity (śabdasāmya), whereas [in fact] there
+is a difference as regards the real entities (vastu) [designated by the same
+words]—for instance, [the inference] of fire on account of [the presence of] a
+white substance [is not right, since smoke and snow, while being both called
+‘‘white substances,’’ are different].
+And that the Pratyabhijñā philosophers are alluding here to Dharmakı̄rti’s notion
+of śabdasāmya seems to be confirmed by the way Abhinavagupta concludes the
+whole discussion in the ĪPV:
+tasmād grāmabāhyam ābhāsabāhyam iti ca śabdasāmyamātram etan na vastusāmyam. evam
+: ye vikalpe vastu nābhātı̄ti manyante tes: ām api tāvad
+anumānavikalpo na bāhya upapannah: . asmābhis tūpapāditam adhyavasāyasyāpy
+ābhāsamānavis: ayatvam
+: bhrāntitve cāvasāyasyeti sūtre. tenānumānavikalpātmanāpi prakāśena yady anāvis: :to nı̄lādir arthas tan nānumita eva syāt.
+athāvis: :ta eva, tarhi prāg ivārtho’prakāśah: syād iti nyāyena prakāśamātrasvabhāva eva, na bāhyah: . tena bāhye sādhye yat kim
+: cit pramān: am ānı̄yate, tad
+abāhyatām eva pratyuta *sādhayati [Bhāskarı̄, J: prasādhayati KSTS, L, P, S1,
+S2, SOAS; p.n.p. D], iti viruddham eva.55
+Therefore [the expressions] ‘‘external to the village’’ and ‘‘external to manifestation’’ only have a verbal similarity (śabdasāmya) [and] not a similarity as
+regards the real entities (vastusāmya); thus, even for those who consider that
+no real entity (vastu) is manifest in a concept, in any case, the concept
+[established through an] inference cannot concern [something] that is external
+[to consciousness]. As for us, we have [already] demonstrated in verse [I, 3, 5,
+which begins with] ‘‘and if determination were erroneous...,’’ that even
+determination (adhyavasāya) has an object that is being manifest. As a consequence, if an object such as blue, etc., is not pervaded by the manifesting
+consciousness (prakāśa), even in the form of a concept [established through
+an] inference, then it cannot be inferred at all. But if [the opponent replies] that
+[this external object to be inferred] is indeed pervaded [by the manifesting
+53
+
+See Krasser (1999).
+
+54
+
+PV Pram
+an: asiddhipariccheda 12.
+
+55
+
+ĪPV, vol. I, pp. 190–191.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+497
+
+consciousness], then, according to the principle [formulated by Utpaladeva in
+verse I, 5, 2, which begins with] ‘‘the object would remain devoid of manifestation (prakāśa), just as before...’’, [since] its nature is necessarily nothing
+but the manifesting consciousness, it is not an external [object]! Therefore
+whichever means of knowledge [we may] use as regards the external [object]
+that [we are] trying to establish, on the contrary, it is the non-externality
+(abāhyatā) [of this object with respect to consciousness] that this [means of
+knowledge] establishes; it is therefore necessarily contradicted [as soon as it
+applies to the external object].
+Abhinavagupta first notices that because there is only a verbal similarity between
+the externality that we can witness and externality with respect to consciousness,
+‘‘even for those who consider that no real entity is manifest in a concept’’—that is,
+even for Dharmakı̄rti’s followers, and not only for the Śaivas—the Sautrāntika’s
+inference cannot be valid, since Dharmakı̄rti himself acknowledges that an inference is invalid if it rests on a mere śabdasāmya.
+However, in the same passage, Abhinavagupta also underlines a crucial difference between Dharmakı̄rtian and Śaiva epistemologies—56 namely, the fact that
+the Śaivas refuse the Buddhist logicians’ dichotomy between perception understood
+as the immediate revelation of a singular real entity (vastu) and concepts understood
+as the artificial construction of a generality: according to Utpaladeva, the general
+feature that a concept makes known is also a real entity present in any immediate
+perception—and conversely, at the very moment of conceptualization, this general
+feature must be immediately manifested in some way.57 As a consequence, in the
+Pratyabhijñā system, whatever is external to consciousness not only cannot be
+proved to exist, but cannot be thought about at all, even in a purely abstract and
+conceptual way, because whenever we try to think about an external object, as
+Abhinavagupta remarks here, this object is bound to be pervaded by the consciousness that manifests it.
+
+56
+Cf. Bhāskarı̄, vol. I, p. 234: nanu bauddhair vikalpasya vastvasam
+: sparśa evoktas tvayā tu tenaiva
+sarvam
+: sādhyata iti kim etad ? ‘‘But the Buddhists state that a concept has absolutely no immediate
+relationship (sam
+: sparśa) with a real entity (vastu), whereas you [consider that] everything is established
+through this [immediate relationship with a real entity]—what about this [difference]?’’
+57
+See ĪPK I, 3, 5 (to which Abhinavagupta alludes in the passage just quoted): bhrāntitve cāvasāyasya
+na jad: ād vis: ayasthitih: / tato’jād: ye nijollekhanis: :thān nārthasthitis tatah: // ‘‘And if determination were an
+illusion (bhrānti), this [illusion], which would be insentient (jad: a) [with respect to the object], could not
+produce the establishment of the object; [and] if [the Buddhist opponent replies that determination] is
+sentient, [since according to him, it is sentient only as regards itself and its representation (ullekha)], it is
+confined to itself and its representation, [so that] it cannot [either] lead to the establishment of the object.’’
+To sum up, according to Abhinavagupta, Utpaladeva is targeting the Buddhist logicians’ notion of
+determination (adhyavasāya, i.e., the conceptual thought that determines the ineffable content of a
+perception as being this or that); and his goal is to show that determination cannot be a mere error and yet
+enable us to deal with objects in our mundane experiences: the ‘‘establishment of the object, [i.e.,] the
+power of transforming [an object] into an object for mundane activity’’ (vis: ayasya vyavasthāpanam
+:
+vyavahāryatvasam
+: pādanasāmarthyam, ĪPV, vol. I, p. 103) implies that the object is somehow being
+manifested not only when it is perceived, but also at the very moment of its conceptualization, and this
+manifestation cannot be reduced to an illusory phenomenon.
+
+123
+
+498
+
+I. Ratié
+
+Abhinavagupta’s final remarks thus suggest that because in Dharmakı̄rti’s system, ultimately, concepts never concern a real entity, Dharmakı̄rti cannot really
+make sense of the distinction (to which he nonetheless has recourse) between
+śabdasāmya and vastusāmya:58 while this entire discussion is intertwined with
+Dharmakı̄rtian concepts that Utpaladeva appropriates, Abhinavagupta’s conclusion
+hints that only the Śaiva system can fully explain why it is impossible even to form
+the concept of an external reality, because only the Śaiva system can give its full
+meaning to the Dharmakı̄rtian distinction between a verbal and a genuine similarity.
+
+Conclusion—What Does Utpaladeva’s Refutation Prove?
+When refuting the Sautrāntika’s contention that external objects can be inferred,
+Utpaladeva obviously borrows much from Dharmakı̄rti’s conceptual arsenal: the
+argument according to which any kāryahetu inference must rest on a set of perceptions belongs to the Buddhist logician; so does the distinction between śabdasāmya and vastusāmya with which Utpaladeva eventually defeats his opponent.
+But Utpaladeva also presents his system as the only one capable of challenging the
+Sautrāntikas’ argument that some inferences (such as that of the sense organs) do
+not rest on any perception. Not only does the Pratyabhijñā system justify this type of
+sāmānyato drs: :ta inference thanks to its theory of perception; it also explains why
+ cannot be proved to exist through such an inference, by demonexternal objects
+strating the impossibility not only of perceiving, but also of conceptualizing any
+external reality: the Sautrāntika can talk about the external object thanks to a
+‘‘verbal similarity,’’ but his words remain inexorably empty, because he is incapable
+of actually forming such a concept. And Abhinavagupta points out that this
+impossibility can be justified only in the Pratyabhijñā system: Dharmakı̄rti, who
+considers all conceptual thought as purely artificial, paradoxically leaves open the
+possibility for a speculative externalism that concedes the impossibility of perceiving the external object but claims to build its concept; in contrast, according to
+Utpaladeva, any conceptualized object must somehow be manifest to the consciousness that conceptualizes it, so that speculation is limited by an impassable
+boundary: the impossibility to even think about an object external to thought.
+Abhinavagupta concludes that whatever the means chosen to demonstrate the
+existence of the external object, it can only establish the object’s ‘‘non-externality’’
+(abāhyatā), because all means of knowledge, be they perception or inference, must
+58
+
+One could suspect that Abhinavagupta is being unfair here, since Dharmakı̄rti does account for some
+kind of link between the objects of (some) concepts and real singular entities (see Katsura 1991, p. 143
+and Tillemans forthcoming on this causal approach of apoha according to which concepts are causally
+conditioned by residual traces left by some direct perceptions of singulars), and causal efficiency (arthakriyā) could be considered as the basis of the śabdasāmya/vastusāmya distinction: one could argue that
+in Dharmakı̄rti’s system, a concept rests on a vastusāmya only when the various particulars subsumed
+within it have the same arthakriyā (whereas fire and snow, although both conceptualized as ‘‘white
+substances,’’ do not have the same efficiency). Nevertheless, according to Dharmakı̄rti’s principles, the
+vastusāmya which supposedly legitimates the use of a concept is also the fictitious product of a process of
+mental exclusion, since real entities, being absolutely singular, cannot have anything in common (even a
+similar efficiency), so that ultimately, all similarities seem bound to be merely verbal.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+499
+
+transform their object into an object for consciousness. But what does this ‘‘nonexternality’’ mean? Admittedly, Utpaladeva seems to achieve much less than he
+hopes to: instead of proving that there are no external objects, he only proves that
+one cannot prove the existence of external objects. And yet, obviously he does not
+consider that his reasoning might lead to some kind of scepticism: he does not
+merely conclude that we cannot know whether there is something outside of consciousness, but rather, that nothing is external to consciousness. One might suspect
+that he is thus confusing (consciously or not) a mere epistemological restriction with
+an ontological negation. But one might also consider that Utpaladeva does not even
+envisage scepticism as an option, because scepticism would still entail the spatial
+representation of consciousness, the inadequacy of which he has pointed out: stating
+that we do not know whether there is something outside of consciousness or not
+would still amount to postulating some kind of empty space outside of consciousness that might be filled (or not) with some external entities. From this point of
+view, one of the most interesting aspects of Utpaladeva’s strategy in this discussion
+is the fact that he claims to demonstrate that there is nothing outside of consciousness not merely by pointing out the impossibility of knowing what is external
+to consciousness, but rather, by questioning the very meaning of the distinction
+between externality and internality with respect to consciousness.
+Acknowledgement I would like to thank Alexis Sanderson, who kindly invited me to read the ĪPV in
+Oxford in 2005 and to whose vast erudition the following pages owe so much; Alex Watson, who
+attended some of these readings, for then pointing out a problem that this article attempts to solve; Tom
+Tillemans, for sharing some unpublished works of his on apoha; the organizers of the 14th World
+Sanskrit Conference, where I presented an earlier version of this paper, and the editors of this special
+issue, Shoryu Katsura, Mark Siderits and Kiyotaka Yoshimizu, who read this paper with great care and
+made many helpful suggestions. I am also very much indebted to Raffaele Torella, whose remarkable
+works on the Pratyabhijñā system have been a constant help in understanding Utpaladeva and
+Abhinavagupta’s texts, and to Vincent Eltschinger, whose friendly and attentive reading of this paper led
+to many improvements. Mistakes, of course, are mine.
+
+References
+Primary Sources (a): Manuscripts
+D = Īśvarapratyabhijñāvimarśinı̄, Vr: tti and Vivr: ti, Delhi, National Archives of India (Manuscripts
+belonging to the Archaeology and Research Department, Jammu and Kashmir Government, Srinagar), no. 30, vol. 9 [‘‘Pratyabhijñāvivr: tih: by Utpaladeva,’’ paper, śāradā].
+J = Īśvarapratyabhijñāvimarśinı̄, Jammu, Sri Ranbir Institute, Raghunath mandir, no. 19 [birch bark,
+śāradā].
+L = Īśvarapratyabhijñāvimarśinı̄, Lucknow, Akhila Bhāratı̄ya Sam
+: skr: ta Paris: ad, no. 3366 [‘‘Prat59
+yabhijñāsūtravimarśinı̄ laghvı̄,’’ [Saptars: i]sam
+: vat [49]42, Vikramasam
+: vat 1823 (=1766 CE) , paper,
+śāradā].
+NBT: = [Nyāyabindut:ı̄kā] Dharmottarapradı̄pa (being a sub-commentary on Dharmottara’s Nyāyabindut:ı̄kā, a commentary on Dharmakı̄rti’s Nyāyabindu), edited by D. Malvania, Patna: Kashi Prasad
+Jayaswal Research Institute, 1955.
+P = Īśvarapratyabhijñāvimarśinı̄, Poona, Bhandarkar Oriental Institute (BORI), no. 466 of 1875–76
+[‘‘Īśvarapratyabhijñāsūtravimarśinı̄,’’ birch bark, śāradā].
+59
+
+The date given for this manuscript in Ratié (2006, 2007) is erroneous. (I would like to thank Harunaga
+Isaacson for drawing my attention to this mistake.)
+
+123
+
+500
+
+I. Ratié
+
+S1 = Īśvarapratyabhijñāvimarśinı̄, Śrinagar, Oriental Research Library, no. 816 = DSO 00001 5659
+[paper, śāradā].
+S2 = Īśvarapratyabhijñāvimarśinı̄, Śrinagar, Oriental Research Library, no. 1035 = DSO 00001 8219
+[paper, śāradā].
+SOAS = Īśvarapratyabhijñāvimarśinı̄, London, School of Oriental and African Studies (SOAS) Library,
+no. 44255 [‘‘Pratyabhijñāsūtra with Abhinavagupta’s Sūtrārthavimarśinı̄,’’ paper, śāradā].
+
+Primary Sources (b): Editions
+[Bhāskarı̄] Īśvarapratyabhijñāvimarśinı̄ of Abhinavagupta, Doctrine of Divine Recognition, vol. I & II:
+Sanskrit text with the Commentary Bhāskarı̄ edited by K. A. S. Iyer and K. C. Pandey [Allahabad,1938, 1950], vol. III: English translation by K. C. Pandey [Allahabad, 1954], Delhi: Motilal
+Banarsidass, 1986.
+HB = Dharmakı̄rtis Hetubindu, Teil I, Tibetischer Text und rekonstruierter Sanskrit-Text, edited by
+E. Steinkellner, Wien: Österreichische Akademie der Wissenschaften, 1967.
+ĪPK, Vr: tti = Īśvarapratyabhijñākārikā of Utpaladeva with the Author’s Vr: tti, critical edition and annotated translation by R. Torella, [Roma, 1994], corrected edition, Delhi: Motilal Banarsidass, 2002.
+ĪPV = Īśvarapratyabhijñāvimarśinı̄, edited with notes by M. R. Shāstrı̄, 2 vols, Kashmir Series of Texts
+and Studies 22 & 33, Srinagar: Nirnaya Sagar Press, 1918-1921.
+ĪPVV = Īśvarapratyabhijñāvivr: tivimarsinı̄ by Abhinavagupta, edited by M. K. Shāstrı̄, 3 vols, Kashmir
+Series of Texts and Studies 60, 62 & 65, Bombay: Nirnaya Sagar Press, 1938–1943.
+NM = Nyāyamañjarı̄ of Jayanta Bhat::ta, with :tippan: i – Nyāyasaurabha by the editor, edited by K. S.
+Varadacharya, 2 vols, Oriental Research Institute Series 116 & 139, Mysore: University of Mysore,
+1969–1983.
+NM (K) = Nyāyamañjarı̄, Vijñānādvaitavāda Section: see KATAOKA 2003.
+PV = Pramān: avārttika-kārikā (Sanskrit and Tibetan), edited by Y. Miyasaka, Acta Indologica 2
+(pp. 1–206), 1971–1972.
+PVin = Dharmakı̄rti’s Pramān: aviniścaya. Chapters 1 and 2, critically edited by E. Steinkellner, Beijing /
+Vienna: China Tibetology Publishing House, Austrian Academy of Sciences Press, 2007.
+SDS = Sarva-darśana-sam
+: graha of Sāyan: a-Mādhava, edited with an original commentary in Sanskrit by
+V. S. Abhyankar, third edition, Poona: Bhandarkar Oriental Research Institute, [1924], 1978.
+
+Secondary Sources
+Alper, H. P. (1987). Svabhāvam avabhāsasya vimarsam: Judgment as a transcendental category in
+Utpaladeva’s Śaiva Theology. Adyar Library Bulletin, 51, 176–241.
+Arnold, D. (2008). Buddhist idealism, epistemic and otherwise: Thoughts on the alternating perspectives
+of Dharmakı̄rti. Sophia, 47, 3–28.
+Dunne, J. D. (2004). Foundations of Dharmakı̄rti’s philosophy. Boston: Wisdom Publications.
+Eltschinger, V. (2009). On the career and the cognition of Yogins. In E. Franco (Ed.), Yogic perception,
+meditation and altered states of consciousness (pp.169–213). Wien: Verlag der Österreichischen
+Akademie der Wissenschaften.
+Hattori, M. (1968). Dignāga, on perception, being the Pratyaks: apariccheda of Dignāga’s
+Pramān: asamuccaya. Harvard Oriental Series (Vol. 47). Cambridge, MA: Harvard University Press.
+Inami, M. (1999). On the determination of causality. In S. Katsura (Ed.), Dharmakı̄rti’s thought and its
+impact on Indian and Tibetan Philosophy. Proceedings of the third international Dharmakı̄rti
+conference (pp.131–154). Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+Kataoka, K. (2003). Critical edition of the Vijñānādvaitavāda Section of Bhat::ta Jayanta’s Nyāyamañjarı̄.
+Tōyō Bunka Kenkyūsho Kiyō, 144, S 318-278.
+Katsura, S. (1991). Dignāga and Dharmakı̄rti on apoha. In E. Steinkellner (Ed.), Studies in the Buddhist
+epistemological tradition. Proceedings of the second international Dharmakı̄rti conference, Vienna,
+June 11–16, 1989 (pp. 129–146). Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+Krasser, H. (1999). Dharmakı̄rti’s and Kumārila’s refutations of the existence of God: A consideration of
+their chronological order. In S. Katsura (Ed.), Dharmakı̄rti’s thought and its impact on Indian and
+Tibetan Philosophy. Proceedings of the third international Dharmakı̄rti conference (pp.215–24).
+Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+Krasser, H. (2004). Are Buddhist Pramān: avādins non-Buddhistic? Dignāga and Dharmakı̄rti on the
+impact of logic and epistemology on emancipation. Hōrin, 11, 129–146.
+
+123
+
+Śaiva Criticism of a Sautrāntika Inference
+
+501
+
+Kritzer, R. (2003a). General introduction [to the issue entitled The Sautrāntikas]. Journal of the International Association of Buddhist Studies, 26(2), 201–224.
+Kritzer, R. (2003b). Sautrāntika in the Abhidharmakośabhās: ya. Journal of the International Association
+of Buddhist Studies, 26(2), 331–384.
+Kritzer, R. (2005). Vasubandhu and the Yogācārabhūmi. Yogācāra elements in the Abhidharmakośabhās: ya. Studia Philologica Buddhica, Monograph Series 18. Tokyo: The International
+Institute for Buddhist Studies.
+Lasic, H. (1999). Dharmakı̄rti and his successors on the determination of causality. In S. Katsura (Ed.),
+Dharmakı̄rti’s thought and its impact on Indian and Tibetan Philosophy. Proceedings of the third
+international Dharmakı̄rti conference (pp. 233–242). Wien: Verlag der Österreichischen Akademie
+der Wissenschaften.
+Nenniger, C. (1994). sāmānyato dr: s: :tam anumānam—Analogical reasoning in early Nyāya-Vaiśes: ika.
+Asiatische Studien/Études Asiatiques, 48(2), 819–832.
+Pind, O. (1991). Dignāga on śabdasāmānya and śabdaviśes: a. In E. Steinkellner (Ed.), Studies in the
+Buddhist Epistemological Tradition. Proceedings of the second international Dharmakı̄rti conference, Vienna, June 11–16, 1989 (pp. 269–280). Wien: Verlag der Österreichischen Akademie der
+Wissenschaften.
+Preisendanz, K. (1989). On ātmendriyamanorthasannikars: a and the Nyāya-Vaiśes: ika Theory of Vision.
+Berliner Indologische Studien, 4–5, 141–213.
+Ratié, I. (2006). La Mémoire et le Soi dans l’Īśvarapratyabhijñāvimarśinı̄ d’Abhinavagupta. Indo-Iranian
+Journal, 49(1–2), 39–103.
+Ratié, I. (2007). Otherness in the Pratyabhijñā philosophy. Journal of Indian Philosophy, 35(4), 313–370.
+Ratié, I. (2010a). The Dreamer and the Yogin—On the relation between Buddhist and Śaiva idealisms.
+Bulletin of the School of Oriental and African Studies, 73(3), 437–478.
+Ratié, I. (2010b). ‘A five-trunked, four-tusked elephant is running in the sky’—How free is imagination
+according to Utpaladeva and Abhinavagupta? Études Asiatiques/Asiatische Studien, 64(2), 341–385.
+Tillemans, T. (2011). How to talk about ineffable things: Dignāga and Dharmakı̄rti on apoha. In A.
+Chakrabarti, M. Siderits, T. Tillemans (Eds.), Apoha: Buddhist nominalism and human cognition
+(pp. 50–63). New York: Columbia University Press.
+Torella, R. (1992). The Pratyabhijñā and the Logical-Epistemological School of Buddhism. In T. Goudriaan (Ed.), Ritual and speculation in Early Tantrism, Studies in Honor of André Padoux (pp. 327–
+345). Albany: SUNY Press.
+Torella, R. (2002). See ĪPK.
+
+123
+
+

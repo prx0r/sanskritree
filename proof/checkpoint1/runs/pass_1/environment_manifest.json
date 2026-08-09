@@ -1,0 +1,35 @@
+{
+  "run_id": "spanda_pass_1_environment",
+  "captured_at": "2026-07-24T14:42:32.221189+00:00",
+  "git": {
+    "commit": "c36c980c5ef5e2c4ce3763b06684afadcec3bbbb",
+    "branch": "main",
+    "status": "?? data/datasets/\n?? data/manifests/mbt_kumarikakhanda_ocr_pilot.yaml\n?? data/manifests/mbt_v2_full.yaml\n?? data/manifests/mbt_v2_pilot.yaml\n?? \"data/manifests/spandak\\304\\201rika_stanza_1_annotations.yaml\"\n?? data/manifests/tantraloka_ch1_pilot.yaml\n?? data/ocr/\n?? proof/checkpoint1/\n?? proof/transfer_test_vb_v2.json\n?? proof/translation_pilot_v1.json\n?? proof/v04_blind_evaluation.json\n?? proof/v04_evidence_bundles.json\n?? proof/v04_prompts/\n?? proof/v04_report.json\n?? sources/\n?? src/sanskritree/graph/\n?? src/sanskritree/review/",
+    "diff_hash": "clean"
+  },
+  "system": {
+    "hostname": "debz",
+    "platform": "Linux-6.1.0-51-amd64-x86_64-with-glibc2.36",
+    "python_version": "3.11.2 (main, May 12 2026, 05:17:27) [GCC 12.2.0]",
+    "python_path": "/usr/bin/python3"
+  },
+  "dependencies": {
+    "pip_packages": "Package                      Version\n---------------------------- ------------\nabsl-py                      0.11.0\naddict                       2.4.0\naiodns                       3.6.1\naiohappyeyeballs             2.6.2\naiohttp                      3.14.1\naiosignal                    1.4.0\naltair                       6.2.2\nannotated-doc                0.0.4\nannotated-types              0.7.0\nanyio                        4.14.2\nappdirs                      1.4.4\nargcomplete                  3.7.0\nasttokens                    3.0.1\nattrs                        22.2.0\naudeer                       2.4.0\naudformat                    1.4.2\naudinterface                 1.3.2\naudiofile                    1.6.1\naudmath                      1.4.4\naudobject                    0.7.13\naudresample                  1.3.6\nav                           18.0.0\nawscli                       2.9.19\nawscrt                       0.16.26\nb3denv                       0.0.22\nbeautifulsoup4               4.15.0\nblackrenderer                0.8.2\nbleach                       6.4.0\nblinker                      1.9.0\nbooleanOperations            0.10.0\nborb                         2.1.25\nboto3                        1.43.46\nbotocore                     1.43.46\nbrotli                       1.2.0\ncachetools                   7.1.4\ncertifi                      2026.6.17\ncffi                         2.0.0\ncffsubr                      0.4.0\nchardet                      5.1.0\ncharset-normalizer           3.0.1\nclick                        8.4.2\ncloud-init                   22.4.2\ncloup                        3.1.0\ncmap                         0.7.2\ncoldtype                     0.13.9\ncoldtype-core                0.13.9\ncoldtype-fontgoggles         1.9.4.0\ncolorama                     0.4.6\ncoloredlogs                  15.0.1\ncolour                       0.1.5\nconfigobj                    5.0.8\ncontourpy                    1.3.3\ncryptography                 38.0.4\ncuda-bindings                13.3.1\ncuda-pathfinder              1.6.0\ncuda-toolkit                 13.0.3.0\ncurlify                      3.0.0\ncycler                       0.12.1\ndatasets                     5.0.0\ndbus-python                  1.3.2\ndecorator                    5.3.1\ndefcon                       0.12.2\ndefusedxml                   0.7.1\ndeno                         2.9.3\ndeprecation                  2.0.7\ndharmamitra-sanskrit-grammar 0.1.7\ndill                         0.4.1\ndiskcache                    5.6.3\ndistro                       1.5.0\ndistro-info                  1.5+deb12u1\ndocutils                     0.19\nduckdb                       1.5.4\neasing-functions             1.0.4\nEbookLib                     0.17.1\nedge-tts                     7.2.8\nepub2txt                     0.1.6\net_xmlfile                   2.0.0\nexecuting                    2.2.1",
+    "requirements_hash": "5636722e2f2e3361295146293fa92c7935053bd910ca988de077c0aa2f8b818b"
+  },
+  "database": {
+    "path": "data/sanskritree-v2.db",
+    "size_mb": 350.7,
+    "tables": "adjudication_decisions       schema_migrations          \nadjudication_sessions        segmentation_choice_group  \nalignments                   segmentation_choice_member \nanalysis_hypothesis          semantic_frames            \ncompound_component           sense_evidence             \ncompound_tree_hypothesis     token_analyses             \neditions                     token_analysis_choice_group\nformal_relations             token_analysis_hypothesis  \nformalization_candidate      token_occurrence           \nformalizations               tokens                     \nhypothesis_dependency        translation_alignment      \nhypothesis_solution_support  translation_candidates     \nlexeme                       translation_errors         \nlexical_senses               translation_evaluations    \nmorph_analysis_type          translation_post_edits     \npassage_readings             translation_runs           \npassage_relation             translations               \npassages                     translators                \npublications                 works                      \nreview_events"
+  },
+  "models": {
+    "vidyut": "vidyut available",
+    "lean": "unavailable"
+  },
+  "config": {
+    "temperature": 0.0,
+    "max_tokens": 256,
+    "version": "v0.4",
+    "seed": "deterministic from split_manifest.json"
+  }
+}

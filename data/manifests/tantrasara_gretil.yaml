@@ -1,0 +1,310 @@
+edition:
+  editor: GRETIL e-text
+  id: tantrasara.gretil
+  licence: CC-BY-SA
+  publication: GRETIL
+passages:
+- chapter: 'Abhinavagupta:'
+  id: ts.1
+  sanskrit: "Tantrasāra\n\n\n# Header\n\n  This file is a plain text transformation\
+    \ of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhinavagupta-tantrasAra.xml\n\
+    \  with a rudimentary header. For a more extens"
+  type: prose
+  verse: '1'
+- chapter: "## Publisher: Göttingen Register of Electronic Texts in Indian Languages\
+    \ (GRETIL), SUB Göttingen\n\n## Licence:\n   This e-text was provided to GRETIL\
+    \ in good faith that no copyright rights have been infringed. If anyone wishes\
+    \ to assert copyright over this file, please contact the GRETIL management at\
+    \ gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed\
+    \ pending resolution of the claim.\n   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike\
+    \ 4.0 International License.\n\n## Structure of references:\n   A reference is\
+    \ assembled consisting of\n   - a pragmatic abbreviation of the title:"
+  id: ts.2
+  sanskrit: "Tantrasāra = ,\n   - the number of the  in arabic numerals,"
+  type: prose
+  verse: '2'
+- chapter: "- the number of the verse in arabic numerals.\n\n## Notes:\n   This file\
+    \ has been created by mass conversion of GRETIL's Sanskrit corpus from abhtantu.htm.\
+    \ Due to the heterogeneity of the sources the header markup might be suboptimal.\
+    \ For the sake of transparency the header of the legacy file is documented in\
+    \ the note element below:\n\n   \n\t Abhinavagupta: Tantrasara\nBased on the edition\
+    \ Bombay : Nirnaya Sagara Press, 1918\n(Kashmir Series of Texts and Studies ;\
+    \ 17)\nInput by Oliver Hellwig\n\t\n\n\n## Revisions:\n   - 2020-07-31: TEI encoding\
+    \ by mass conversion of GRETIL's Sanskrit corpus\n\n\n# Text"
+  id: ts.3
+  sanskrit: tantrasāra, prathamam āhnikam
+  type: prose
+  verse: '3'
+- chapter: 'vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuś ca pañcamukhaguptarucir
+    janakaḥ /
+
+    tadubhayayāmalasphuritabhāvavisargamayaṃ hṛdayam anuttarāmṛtakulaṃ mama saṃsphuratāt
+    // abhts_1.1
+
+
+    vitatas tantrāloko vigāhituṃ naiva śakyate sarvaiḥ /
+
+    ṛjuvacanaviracitam idaṃ tu'
+  id: ts.4
+  sanskrit: 'tantrasāraṃ tataḥ śṛṇuta // abhts_1.2
+
+
+    śrīśambhunāthabhāskaracaraṇanipātaprabhāpagatasaṃkocam /
+
+    abhinavaguptahṛdambujam etad vicinuta maheśapūjanahetoḥ // abhts_1.3
+
+
+    iha jñānaṃ mokṣakāraṇaṃ bandhanimi'
+  type: prose
+  verse: '4'
+- chapter: '5'
+  id: ts.5
+  sanskrit: tantrasāra, tṛtīyam āhnikam yad etat prakāśarūpaṃ śivatattvam uktam tatra
+    akhaṇḍamaṇḍale yadā praveṣṭuṃ na śaknoti tadā svātantryaśaktim eva adhikāṃ paśyan
+    nirvikalpam eva bhairavasamāveśam anubhavati
+  type: prose
+  verse: '5'
+- chapter: '6'
+  id: ts.6
+  sanskrit: tantrasāra, caturtham āhnikam tatra yadā vikalpaṃ krameṇa saṃskurute samanantaroktasvarūpapraveśāya
+    tadā bhāvanākramasya sattarkasadāgamasadgurūpadeśapūrvakasya asti upayogaḥ //
+    abhts_4.1 tathā hi vik
+  type: prose
+  verse: '6'
+- chapter: '7'
+  id: ts.7
+  sanskrit: tantrasāra, pañcamam āhnikam tatra yadā vikalpaḥ svayam eva saṃskāram
+    ātmani upāyāntaranirapekṣatayaiva kartuṃ prabhavati tadā asau pāśavavyāpārāt pracyutaḥ
+    śuddhavidyānugraheṇa parameśaśaktirūpatām ā
+  type: prose
+  verse: '7'
+- chapter: '8'
+  id: ts.8
+  sanskrit: tantrasāra, ṣaṣṭham āhnikam sa eva sthānaprakalpanaśabdena uktaḥ tatra
+    tridhā sthānaṃ prāṇavāyuḥ śarīraṃ bāhyaṃ ca tatra prāṇe tāvat vidhiḥ sarvaḥ asau
+    vakṣyamāṇaḥ adhvā prāṇasthaḥ kalyate tasya kramā
+  type: prose
+  verse: '8'
+- chapter: "tatra ghaṭikā tithiḥ māso varṣaṃ ca varṣasamūhātmā iti samastaḥ kālaḥ\
+    \ parisamāpyate /\ntatra sapañcāṃśe aṅgule caṣaka iti sthityā ghaṭikodayaḥ ghaṭikā\
+    \ hi ṣaṣṭyā caṣakaiḥ tasmāt dvāsaptatyaṅgulā bhavati // abhts_6.8\n atha tithyudayaḥ\
+    \ // abhts_6.9 sapādam aṅguladvayaṃ tuṭiḥ ucyate tāsu catasṛṣu praharaḥ tuṭyardhaṃ\
+    \ tuṭyardhaṃ tatra saṃdhyā evaṃ nirgame dinaṃ praveśe rātriḥ iti tithyudayaḥ //\
+    \ abhts_6.10 atha māsodayaḥ // abhts_6.11 tatra dinaṃ kṛṣṇapakṣaḥ rātriḥ śuklaḥ\
+    \ tatra pūrvaṃ tuṭyardham antyaṃ ca tuṭyardhaṃ viśrāntiḥ akālakalitāḥ madhyās\
+    \ tu pañcadaśa tuṭaya eva tithayaḥ tatra prakāśo viśrāntiś ca iti ete eva dinaniśe\
+    \ // abhts_6.12 tatra vedyamayatāprakāśo dinaṃ vedyasya vicārayitari layo rātriḥ\
+    \ te ca prakāśaviśrāntī cirāciravaicitryāt anantabhede tatsāmye tu viṣuvat //\
+    \ abhts_6.13 tatra kṛṣṇapakṣe prāṇārke apānacandra āpyāyikām ekām ekāṃ kalām arpayati\
+    \ yāvat pañcadaśyāṃ tuṭau dvādaśāntasamīpe kṣīṇapṛthagbhūtakalāprasaraḥ candramāḥ\
+    \ prāṇārka eva līyate // abhts_6.14 tadanantaraṃ yat tuṭyardhaṃ sa pakṣasaṃdhiḥ\
+    \ // abhts_6.15 tasya ca tuṭyardhasya prācyam ardham āmāvasyaṃ dvitīyaṃ prātipadam\
+    \ // abhts_6.16 tatra prātipade tasmin bhāge sa āmāvasyo bhāgo yadā kāsaprayatnāvadhānādikṛtāt\
+    \ tithicchedāt viśati tadā tatra grahaṇam tatra ca vedyarūpasomasahabhūto māyāpramātṛrāhuḥ\
+    \ svabhāvatayā vilāpanāśaktaḥ kevalam ācchādanamātrasamarthaḥ sūryagataṃ cāndram\
+    \ amṛtaṃ pibati iti // abhts_6.17 pramātṛpramāṇaprameyatritayāvibhāgakāritvāt\
+    \ sa puṇyaḥ kālaḥ pāralaukikaphalapradaḥ // abhts_6.18 tataḥ praviśati prāṇe cidarka\
+    \ ekaikayā kalayā apānacandram āpūrayati yāvat pañcadaśī tuṭiḥ pūrṇimā tadanantaraṃ\
+    \ pakṣasaṃdhiḥ grahaṇaṃ ca iti prāgvat etat tu aihikaphalapradam iti māsodayaḥ\
+    \ // abhts_6.19 atha varṣodayaḥ // abhts_6.20 tatra kṛṣṇapakṣa eva uttarāyaṇaṃ\
+    \ ṣaṭsu ṣaṭsu aṅguleṣu saṃkrāntiḥ makarāt mithunāntām // abhts_6.21 tatra pratyaṅgulaṃ\
+    \ pañca tithayaḥ tatrāpi dinarātrivibhāgaḥ evaṃ praveśe dakṣiṇāyanaṃ garbhatvam\
+    \ udbhavecchā udbubhūṣutā udbhaviṣyatvam udbhavārambhaḥ udbhavattā janmādivikāraṣaṭkaṃ\
+    \ ca iti kramāt makarādiṣu iti // abhts_6.22 tathaiva upāsā atra phalaṃ samucitaṃ\
+    \ karoti // abhts_6.23 atra ca dakṣādyāḥ pitāmahāntā rudrāḥ śaktayaś ca dvādaśādhipataya\
+    \ iti varṣodayaḥ // abhts_6.24 pratyaṅgulaṃ ṣaṣṭiḥ tithaya iti krameṇa saṃkrāntau\
+    \ varṣam ity anena krameṇa praveśanirgamayoḥ dvādaśābdodayaḥ pratyaṅgulaṃ tithīnāṃ\
+    \ śatatrayaṃ sapañcāṃśe 'ṅgule varṣaṃ yatra prāk caṣakam uktam iti gaṇanayā saṃkrāntau\
+    \ pañca varṣāṇi iti anayā paripāṭyā ekasmin prāṇanirgamapraveśakāle ṣaṣṭyabdodayaḥ\
+    \ atra ekaviṃśatisahasrāṇi ṣaṭ śatāni iti tithīnāṃ saṃkhyā // abhts_6.25 tāvatī\
+    \ eva ahorātre prāṇasaṃkhyā iti na ṣaṣṭyabdodayāt adhikaṃ parīkṣyate ānantyāt\
+    \ // abhts_6.26 tatra mānuṣaṃ varṣaṃ devānāṃ tithiḥ anena krameṇa divyāni dvādaśavarṣasahasrāṇi\
+    \ caturyugam // abhts_6.27 catvāri trīṇi dve ekam iti kṛtāt prabhṛti tāvadbhiḥ\
+    \ śataiḥ aṣṭau saṃdhyāḥ // abhts_6.28 caturyugānām ekasaptatyā manvantaram manvantaraiḥ\
+    \ caturdaśabhiḥ brāhmaṃ dinaṃ brahmadinānte kālāgnidagdhe lokatraye anyatra ca\
+    \ lokatraye dhūmaprasvāpite sarve janā vegavad agnipreritā janaloke pralayākalībhūya\
+    \ tiṣṭhanti // abhts_6.29 prabuddhās tu kūṣmāṇḍahāṭakeśādyā maholoke krīḍanti\
+    \ // abhts_6.30 tato niśāsamāptau brāhmī sṛṣṭiḥ // abhts_6.31 anena mānena varṣaśataṃ\
+    \ brahmāyuḥ // abhts_6.32 tat viṣṇoḥ dinaṃ tāvatī ca rātriḥ tasyāpi śatam āyuḥ\
+    \ // abhts_6.33 tat dinaṃ tadūrdhve rudralokaprabho rudrasya tāvatī rātriḥ prāgvat\
+    \ varṣaṃ tacchatam api ca avadhiḥ // abhts_6.34 tatra rudrasya tadavasitau śivatvagatiḥ\
+    \ rudrasya uktādhikārāvadhiḥ brahmāṇḍadhārakāṇāṃ tat dinaṃ śatarudrāṇāṃ niśā tāvatī\
+    \ teṣām api ca śatam āyuḥ // abhts_6.35 śatarudrakṣaye brahmāṇḍavināśaḥ // abhts_6.36\
+    \ evaṃ jalatattvāt avyaktāntam etad eva krameṇa rudrāṇām āyuḥ // abhts_6.37 pūrvasyāyur\
+    \ uttarasya dinam iti // abhts_6.38 tataś ca brahmā rudrāś ca abādyadhikāriṇaḥ\
+    \ avyakte tiṣṭhanti iti // abhts_6.39 śrīkaṇṭhanāthaś ca tadā saṃhartā // abhts_6.40\
+    \ eṣo 'vāntarapralayaḥ tatkṣaye sṛṣṭiḥ // abhts_6.41 tatra śāstrāntaram uktā api\
+    \ sṛjyante // abhts_6.42 yat tu śrīkaṇṭhanāthasya svam āyuḥ tat kañcukavāsināṃ\
+    \ rudrāṇāṃ dinaṃ tāvatī rajanī teṣāṃ yad āyuḥ tat gahaneśadinaṃ tāvatī eva kṣapā\
+    \ tasyāṃ ca samastam eva māyāyāṃ vilīyate // abhts_6.43 punaḥ gahaneśaḥ sṛjati\
+    \ // abhts_6.44 evaṃ yaḥ avyaktakālaḥ taṃ daśabhiḥ parārdhaiḥ guṇayitvā māyādinaṃ\
+    \ kathayet tāvatī rātriḥ // abhts_6.45 sa eva pralayaḥ // abhts_6.46 māyākālaḥ\
+    \ parārdhaśatena guṇita aiśvaratattve dinam // abhts_6.47 atra prāṇo jagat sṛjati\
+    \ tāvatī rātriḥ yatra prāṇapraśamaḥ prāṇe ca brahmabiladhāmni śānte 'pi yā saṃvit\
+    \ tatrāpy asti kramaḥ // abhts_6.48 aiśvare kāle parārdhaśataguṇite yā saṃkhyā\
+    \ tat sādāśivaṃ dinaṃ tāvatī niśā sa eva mahāpralayaḥ // abhts_6.49 sadāśivaḥ\
+    \ svakālaparikṣaye bindvardhacandranirodhikā ākramya nāde līyate nādaḥ śaktitattve\
+    \ tat vyāpinyāṃ sā ca anāśrite // abhts_6.50 śaktikālena parārdhakoṭiguṇitena\
+    \ anāśritadinam // abhts_6.51 anāśritaḥ sāmanase pade yat tat sāmanasyaṃ sāmyaṃ\
+    \ tat brahma // abhts_6.52 asmāt sāmanasyāt akalyāt kālāt nimeṣonmeṣamātratayā\
+    \ proktāśeṣakālaprasarapravilayacakrabhramodayaḥ // abhts_6.53 ekaṃ daśa śataṃ\
+    \ sahasram ayutaṃ lakṣaṃ niyutaṃ koṭiḥ arbudaṃ vṛndaṃ kharvaṃ nikharvaṃ padmaṃ\
+    \ śaṅkuḥ samudram antyaṃ madhyam parārdham iti krameṇa daśaguṇitāni aṣṭādaśa iti\
+    \ gaṇitavidhiḥ // abhts_6.54 evam asaṃkhyāḥ sṛṣṭipralayāḥ ekasmin mahāsṛṣṭirūpe\
+    \ prāṇe so 'pi saṃvidi sā upādhau sa cinmātre cinmātrasyaiva ayaṃ spando yad ayaṃ\
+    \ kālodayo nāma // abhts_6.55 tata eva svapnasaṃkalpādau vaicitryam asya na virodhāvaham\
+    \ // abhts_6.56 evaṃ yathā prāṇe kālodayaḥ tathā apāne 'pi hṛdayāt mūlapīṭhaparyantam\
+    \ // abhts_6.57 yathā ca hṛtkaṇṭhatālulalāṭarandhradvādaśānteṣu brahmaviṣṇurudreśasadāśivānāśritākhyaṃ\
+    \ kāraṇaṣaṭkam tathaiva apāne 'pi hṛtkandānandasaṃkocavikāsadvādaśānteṣu bālyayauvanavārddhakanidhanapunarbhavamuktyadhipataya\
+    \ ete // abhts_6.58 atha samāne kālodayaḥ // abhts_6.59 \nsamāno hārdīṣu daśāsu\
+    \ nāḍīṣu saṃcaran samaste dehe sāmyena rasādīn vāhayati /\ntatra digaṣṭake saṃcaran\
+    \ taddikpaticeṣṭām iva pramātuḥ anukārayati // abhts_6.60\n ūrdhvādhas tu saṃcaran\
+    \ tisṛṣu nāḍīṣu gatāgataṃ karoti // abhts_6.61 tatra viṣuvaddine bāhye prabhātakāle\
+    \ sapādāṃ ghaṭikāṃ madhyamārge vahati // abhts_6.62 tato navaśatāni prāṇavikṣepāṇām\
+    \ iti gaṇanayā bahiḥ sārdhaghaṭikādvayaṃ vāme dakṣiṇe vāme dakṣiṇe vāme iti pañca\
+    \ saṃkrāntayaḥ // abhts_6.63 tataḥ saṃkrāntipañcake vṛtte pādonāsu caturdaśasu\
+    \ ghaṭikāsu atikrāntāsu dakṣiṇaṃ śāradaṃ viṣuvanmadhyāhne nava prāṇaśatāni //\
+    \ abhts_6.64 tato 'pi dakṣiṇe vāme dakṣiṇe vāme dakṣiṇe iti saṃkrāntipañcakaṃ\
+    \ pratyekaṃ navaśatāni ity evaṃ rātrāv api iti // abhts_6.65 evaṃ viṣuvaddivase\
+    \ tadrātrau ca dvādaśa dvādaśa saṃkrāntayaḥ // abhts_6.66 tato dinavṛddhikṣayeṣu\
+    \ saṃkrāntivṛddhikṣayaḥ // abhts_6.67 evam ekasmin samānamaruti varṣadvayaṃ śvāsapraśvāsayogābhāvāt\
+    \ // abhts_6.68 atrāpi dvādaśābdodayādi pūrvavat // abhts_6.69 udāne tu dvādaśāntāvadhiś\
+    \ cāraḥ spandamātrātmanaḥ kālasya // abhts_6.70 atrāpi pūrvavat vidhiḥ // abhts_6.71\
+    \ vyāne tu vyāpakatvāt akrame 'pi sūkṣmocchalattāyogena kālodayaḥ // abhts_6.72\
+    \ atha varṇodayaḥ // abhts_6.73 tatra ardhaprahare ardhaprahare vargodayo viṣuvati\
+    \ samaḥ varṇasya varṇasya dve śate ṣoḍaśādhike prāṇānām bahiḥ ṣaṭtriṃśat caṣakāṇi\
+    \ iti udayaḥ ayam ayatnajo varṇodayaḥ // abhts_6.74 yatnajas tu mantrodayaḥ araghaṭṭaghaṭīyantravāhanavat\
+    \ ekānusaṃdhibalāt citraṃ mantrodayaṃ divāniśam anusaṃdadhat mantradevatayā saha\
+    \ tādātmyam eti // abhts_6.75 tatra sadodite prāṇacārasaṃkhyayaiva udayasaṃkhyā\
+    \ vyākhyātā taddviguṇite tadardham ityādi krameṇa aṣṭottaraśate cakre dviśata\
+    \ udayaḥ iti krameṇa sthūlasūkṣme cārasvarūpe viśrāntasya prāṇacāre kṣīṇe kālagrāse\
+    \ vṛtte sampūrṇām ekam evedaṃ saṃvedanaṃ citraśaktinirbharaṃ bhāsate // abhts_6.76\
+    \ kālabheda eva saṃvedanabhedakaḥ na vedyabhedaḥ śikharasthajñānavat jñānasya\
+    \ yāvān avasthitikālaḥ sa eva kṣaṇaḥ prāṇodaye ca ekasmin ekam eva jñānam avaśyaṃ\
+    \ caitat anyathā vikalpajñānam ekaṃ na kiṃcit syāt kramikaśabdārūṣitatvāt mātrāyā\
+    \ api kramikatvāt // abhts_6.77 yad āha tasyādita udāttam ardhahrasvam iti //\
+    \ abhts_6.78 tasmāt spandāntaraṃ yāvat na uditaṃ tāvat ekam eva jñānam // abhts_6.79\
+    \ ata eva ekāśīti padasmaraṇasamaye vividhadharmānupraveśamukhena eka eva asau\
+    \ parameśvaraviṣayo vikalpaḥ kālagrāse na avikalpātmā eva sampadyate iti // abhts_6.80\
+    \ evam akhilaṃ kālādhvānaṃ prāṇodaya eva paśyan sṛṣṭisaṃhārāṃś ca vicitrān niḥsaṃkhyān\
+    \ tatraiva ākalayan ātmana eva pārameśvaryaṃ pratyabhijānan mukta eva bhavati\
+    \ iti // abhts_6.81 \nsaṃvidrūpasyātmanaḥ prāṇaśaktiṃ paśyan rūpaṃ tatragaṃ cātikālam\
+    \ /\nsākaṃ sṛṣṭisthemasaṃhāracakrair nityodyukto bhairavībhāvam eti // abhts_6.82"
+  id: ts.9
+  sanskrit: tantrasāra, saptamam āhnikam tatra samasta eva ayaṃ mūrtivaicitryābhāsanaśaktijo
+    deśādhvā saṃvidi viśrāntaḥ taddvāreṇa śūnye buddhau prāṇe nāḍīcakrānucakreṣu bahiḥ
+    śarīre yāval liṅgasthaṇḍilapratimāda
+  type: prose
+  verse: '9'
+- chapter: '10'
+  id: ts.10
+  sanskrit: 'tantrasāra, aṣṭamam āhnikam yad idaṃ vibhavātmakaṃ bhuvanajātam uktaṃ
+    garbhīkṛtānantavicitrabhoktṛbhogyaṃ tatra yad anugataṃ mahāprakāśarūpaṃ tat mahāsāmānyakalpaṃ
+    paramaśivarūpam // abhts_8.1 yat tu '
+  type: prose
+  verse: '10'
+- chapter: '11'
+  id: ts.11
+  sanskrit: 'tantrasāra, navamam āhnikam sa ca saptadhā ṣaḍardhaśāstra eva paraṃ parameśena
+    uktaḥ // abhts_9.1 tatra śivāḥ mantramaheśāḥ mantreśāḥ mantrāḥ vijñānākalāḥ pralayākalāḥ
+    sakalā iti sapta śaktimantaḥ // '
+  type: prose
+  verse: '11'
+- chapter: '12'
+  id: ts.12
+  sanskrit: tantrasāra, daśamam āhnikam uktas tāvat tattvādhvā // abhts_10.1 kalādyadhvā
+    tu nirūpyate tatra yathā bhuvaneṣu anugāmi kiṃcid rūpaṃ tattvam ity uktam tathā
+    tattveṣu vargaśo yat anugāmi rūpaṃ tat kalā
+  type: prose
+  verse: '12'
+- chapter: '13'
+  id: ts.13
+  sanskrit: tantrasāra, ekādaśam āhnikam tatra yāvat idam uktam tat sākṣāt kasyacit
+    apavargāptaye yathoktasaṃgrahanītyā bhavati kasyacit vakṣyamāṇadīkṣāyām upayogagamanāt
+    iti dīkṣādikaṃ vaktavyam // abhts_11.1 ta
+  type: prose
+  verse: '13'
+- chapter: '14'
+  id: ts.14
+  sanskrit: tantrasāra, dvādaśam āhnikam dīkṣādikaṃ vaktavyam iti uktam ato dīkṣāsvarūpanirūpaṇārthaṃ
+    prāk kartavyaṃ snānam upadiśyate // abhts_12.1 snānaṃ ca śuddhatā ucyate śuddhatā
+    ca parameśvarasvarūpasamāveś
+  type: prose
+  verse: '14'
+- chapter: '15'
+  id: ts.15
+  sanskrit: tantrasāra, trayodaśam āhnikam atha prasannahṛdayo yāgasthānaṃ yāyāt tac
+    ca yatraiva hṛdayaṃ prasādayuktaṃ parameśvarasamāveśayogyaṃ bhavati tad eva na
+    tu asya anyal lakṣaṇam uktāv api dhyeyatādātmyam
+  type: prose
+  verse: '15'
+- chapter: '16'
+  id: ts.16
+  sanskrit: tantrasāra, caturdaśam āhnikam atha putrakadīkṣāvidhiḥ // abhts_14.1 sa
+    ca vistīrṇaḥ tantrālokāt avadhāryaḥ // abhts_14.2 saṃkṣiptas tu ucyate // abhts_14.3
+    samayyantaṃ vidhiṃ kṛtvā tṛtīye 'hni triśūl
+  type: prose
+  verse: '16'
+- chapter: '17'
+  id: ts.17
+  sanskrit: tantrasāra, pañcadaśam āhnikam yadā punar āsannamaraṇasya svayaṃ vā bandhumukhena
+    śaktipāta upajāyate tadā asmai sadyaḥ samutkramaṇadīkṣāṃ kuryāt // abhts_15.1
+    samastam adhvānaṃ śiṣye nyasya taṃ ca kr
+  type: prose
+  verse: '17'
+- chapter: '18'
+  id: ts.18
+  sanskrit: tantrasāra, ṣodaśam āhnikam atha parokṣasya dīkṣā dvividhaś ca saḥ mṛto
+    jīvaṃś ca // abhts_16.1 tatra kṛtaguruseva eva mṛta udvāsito vā abhicārādihato
+    ḍimbāhato mṛtyukṣaṇoditatathāruciḥ mukhāntarāyāta
+  type: prose
+  verse: '18'
+- chapter: '19'
+  id: ts.19
+  sanskrit: tantrasāra, saptadaśam āhnikam vaiṣṇavādidakṣiṇatantrānteṣu śāsaneṣu ye
+    sthitāḥ tadgṛhītavratā vā ye ca uttamaśāsanasthā api anadhikṛtādharaśāsanagurūpasevinaḥ
+    te yadā śaktipātena pārameśvareṇa unmukh
+  type: prose
+  verse: '19'
+- chapter: '20'
+  id: ts.20
+  sanskrit: tantrasāra, aṣṭādaśam āhnikam svabhyastajñāninaṃ sādhakatve gurutve vā
+    abhiṣiñcet yataḥ sarvalakṣaṇahīno 'pi jñānavān eva sādhakatve anugrahakaraṇe ca
+    adhikṛtaḥ na anyaḥ abhiṣikto 'pi // abhts_18.1 sv
+  type: prose
+  verse: '20'
+- chapter: '21'
+  id: ts.21
+  sanskrit: tantrasāra, ekonaviṃśam āhnikam atha adharaśāsanasthānāṃ gurvantānām api
+    maraṇasamanantaraṃ mṛtoddhāroditaśaktipātayogād eva antyasaṃskārākhyāṃ dīkṣāṃ
+    kuryāt ūrdhvaśāsanasthānām api luptasamayānām akṛ
+  type: prose
+  verse: '21'
+- chapter: '22'
+  id: ts.22
+  sanskrit: tantrasāra, viṃśam āhnikam tatra yā dīkṣā saṃskārasiddhyai jñānayogyān
+    prati yā ca tadaśaktān prati mokṣadīkṣā sabījā tasyāṃ kṛtāyām ājīvaṃ śeṣavartanaṃ
+    guruḥ upadiśet // abhts_20.1 tatra nityaṃ naimi
+  type: prose
+  verse: '22'
+- chapter: '23'
+  id: ts.23
+  sanskrit: tantrasāra, ekaviṃśam āhnikam evaṃ samastaṃ nityaṃ naimittikaṃ karma nirūpitam
+    // abhts_21.1 adhunā asyaiva āgamasya prāmāṇyam ucyate // abhts_21.2 tatra saṃvinmātramaye
+    viśvasmin saṃvidi ca vimarśātm
+  type: prose
+  verse: '23'
+- chapter: '24'
+  id: ts.24
+  sanskrit: tantrasāra, dvāviṃśam āhnikam atha samastā iyam upāsā samunmiṣattādṛśadṛḍhavāsanārūḍhān
+    adhikāriṇaḥ prati śrīmatkaulikaprakriyayā nirūpyate tatra uktaṃ yogasaṃcārādau
+    ānandaṃ brahma taddehe tridhauṣṭy
+  type: prose
+  verse: '24'
+work:
+  genre: sastra
+  id: tantrasara
+  metadata:
+    source: GRETIL
+  title: Tantrasāra (Abhinavagupta)
+  tradition: trika

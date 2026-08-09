@@ -1,0 +1,37 @@
+{
+  "protocol_id": "checkpoint1_severity_v1",
+  "definitions": {
+    "CRITICAL": {
+      "description": "Changes doctrinal meaning, reverses negation, omits a clause, or adds unsupported doctrinal claim",
+      "examples": [
+        "Translation says 'there is suffering' where source says 'there is no suffering'",
+        "Omitting a verb phrase that changes the proposition",
+        "Adding a doctrinal claim (e.g., 'this proves Śaiva non-dualism') not in source",
+        "Reversing subject and object"
+      ],
+      "release_blocker": true
+    },
+    "MAJOR": {
+      "description": "Grammatical error that misrepresents grammatical relations, wrong case role, wrong subject/object, wrong tense/aspect",
+      "examples": [
+        "Translating instrument as subject",
+        "Wrong person (1st vs 3rd)",
+        "Wrong number (singular vs plural)",
+        "Active vs passive confusion",
+        "Wrong compound relation (karmadhāraya vs tatpuruṣa)"
+      ],
+      "release_blocker": false,
+      "max_allowed": 2
+    },
+    "MINOR": {
+      "description": "Stylistic preference, word order, synonym choice. Defensible alternative exists without changing meaning.",
+      "examples": [
+        "'Power' vs 'Energy' for śakti",
+        "Word order differences",
+        "Active vs passive if grammatical relations are preserved",
+        "Synonym choice (e.g., 'lord' vs 'master')"
+      ],
+      "release_blocker": false
+    }
+  }
+}

@@ -1,0 +1,6049 @@
+{
+  "meta": {
+    "name": "sanskritree_translation_pilot_v1",
+    "date": "2026-07-24T13:47:58.621023+00:00",
+    "systems": [
+      "A_unassisted_llm",
+      "B_retrieval_llm",
+      "C_sanskritree_nolean",
+      "D_full_sanskritree"
+    ],
+    "total": 120
+  },
+  "passages": [
+    {
+      "id": "bhairavastava.1",
+      "short_id": "bv.1",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+      "source_clean": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "hfd",
+            "vand",
+            "maya",
+            "cit2"
+          ],
+          "frame": "Instruction",
+          "energy": -0.25,
+          "n_selected": 4
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "hfd",
+            "vand",
+            "maya",
+            "cit2"
+          ],
+          "frame": "Instruction",
+          "energy": -0.25,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.2",
+      "short_id": "bv.2",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam || AgBhaist_2",
+      "source_clean": "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam || AgBhaist_2",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "ca",
+            "mah",
+            "dEva",
+            "a",
+            "eva",
+            "mA",
+            "tena",
+            "samas"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "ca",
+            "mah",
+            "dEva",
+            "a",
+            "eva",
+            "mA",
+            "tena",
+            "samas"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.3",
+      "short_id": "bv.3",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu || AgBhaist_3",
+      "source_clean": "satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu || AgBhaist_3",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "sat",
+            "api",
+            "durDara",
+            "vimoha",
+            "tra"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 5
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "sat",
+            "api",
+            "durDara",
+            "vimoha",
+            "tra"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.4",
+      "short_id": "bv.4",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+      "source_clean": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SaNkara",
+            "sevana1",
+            "cintana",
+            "DI2",
+            "iras"
+          ],
+          "frame": "Instruction",
+          "energy": -0.225,
+          "n_selected": 5
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SaNkara",
+            "sevana1",
+            "cintana",
+            "DI2",
+            "iras"
+          ],
+          "frame": "Instruction",
+          "energy": -0.225,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.5",
+      "short_id": "bv.5",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi || AgBhaist_5",
+      "source_clean": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi || AgBhaist_5",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "nATa",
+            "na",
+            "karman",
+            "na",
+            "jAtu",
+            "BI",
+            "as1",
+            "na"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "nATa",
+            "na",
+            "karman",
+            "na",
+            "jAtu",
+            "BI",
+            "as1",
+            "na"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.6",
+      "short_id": "bv.6",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+      "source_clean": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "BAva",
+            "parA",
+            "aha",
+            "a",
+            "nirvf",
+            "i"
+          ],
+          "frame": "IdentityClaim",
+          "energy": -0.35,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "BAva",
+            "parA",
+            "aha",
+            "a",
+            "nirvf",
+            "i"
+          ],
+          "frame": "IdentityClaim",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.7",
+      "short_id": "bv.7",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti || AgBhaist_7",
+      "source_clean": "nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti || AgBhaist_7",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "nATa",
+            "eva",
+            "mA",
+            "udi",
+            "aBeda",
+            "stotra"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "nATa",
+            "eva",
+            "mA",
+            "udi",
+            "aBeda",
+            "stotra"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.8",
+      "short_id": "bv.8",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām || AgBhaist_8",
+      "source_clean": "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām || AgBhaist_8",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tAvaka",
+            "syand",
+            "cit",
+            "f",
+            "cintA",
+            "syand"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tAvaka",
+            "syand",
+            "cit",
+            "f",
+            "cintA",
+            "syand"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.9",
+      "short_id": "bv.9",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "a_known",
+      "source_iast": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+      "source_clean": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "prI",
+            "Ap",
+            "sudarSana",
+            "eka",
+            "dus",
+            "aYji",
+            "samayajYa",
+            "samaya",
+            "jYa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 9
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "prI",
+            "Ap",
+            "sudarSana",
+            "eka",
+            "dus",
+            "aYji",
+            "samayajYa",
+            "samaya",
+            "jYa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.1",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.2",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.3",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.4",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.5",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.6",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.7",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.8",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.9",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.10",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.11",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.12",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.13",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.14",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.15",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.16",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.17",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.18",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.19",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.20",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.21",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.22",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.23",
+      "work_id": "spandakarika",
+      "track": "a_known",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.47.41e7",
+      "short_id": "bg.2.47",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+      "source_clean": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "aDikf",
+            "tA",
+            "mA",
+            "Pal",
+            "katT",
+            "mA",
+            "Pal",
+            "BU",
+            "mA",
+            "tA",
+            "akarman"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 11
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "aDikf",
+            "tA",
+            "mA",
+            "Pal",
+            "katT",
+            "mA",
+            "Pal",
+            "BU",
+            "mA",
+            "tA",
+            "akarman"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.20.d848",
+      "short_id": "bg.2.20",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 1.20-23 atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasaṃpāte dhanur udyamya pāṇḍavaḥ ||20||",
+      "source_clean": "bhg 1.20-23 atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasaṃpāte dhanur udyamya pāṇḍavaḥ ||20||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "aTa",
+            "vyavasTA",
+            "dfS",
+            "f",
+            "kapiDvaja",
+            "pravft",
+            "udyam",
+            "pARqava"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "aTa",
+            "vyavasTA",
+            "dfS",
+            "f",
+            "kapiDvaja",
+            "pravft",
+            "udyam",
+            "pARqava"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.7.acf9",
+      "short_id": "bg.4.7",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "śrīdhara: atrety ādi | atra asyāṃ camvām | iṣavo bāṇā asyas te kṣipyante ebhir iti iṣāsāḥ dhanūṃṣi | mahānta iṣvāso yeṣāṃ te maheṣvāsāḥ | bhīmārjunau tāvad atrātiprasiddhau yoddhārau | tābhyāṃ samāḥ śūrāḥ śauryeṇa kṣātra-dharmeṇopetāḥ santi | tān eva nāmabhir nirdiśati yuyudhānaḥ sātyakiḥ | kiṃ ca dhṛṣṭaketur iti | vikrānto yudhāmanyur nāmaikaḥ | saubhadro 'bhimanyur draupadeyāḥ draupadyāṃ pañcabhyo yudhiṣṭhirādibhyo jātāḥ putrāḥ prativindhyādayaḥ pañca | mahārathādīnāṃ lakṣaṇam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| viśvanātha: atra camvām | mahāntaḥ śatrubhiś chettum aśakyā iṣvāsā dhanūṃṣi yeṣāṃ te | yuyudhānaḥ sātyakiḥ | saubhadro 'bhimanyuḥ | draupadeyā yudhiṣṭhirādibhyaḥ pañcabhyo jātāḥ prativindhyādayaḥ | mahārathādīnāṃ lakṣaṇam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| śrīdhara: nanv ekena dhṛṣṭadyumnenādhiṣṭhitālpikā senāsmadīyenaikenaiva sujeyā syād atas tvaṃ mā trāsīr iti cet tatrāha atreti | atra camvāṃ mahāntaḥ śatrubhiś chettum aśakyā iṣvāsāś cāpā yeṣāṃ te | yuddha-kauśalam āśaṅkyāha bhīmeti | yuyudhānaḥ sātyakiḥ | mahāratha iti yuyudhānīdānāṃ trayāṇām | nara-puṅgava iti purujid-ādīnāṃ trayāṇām | yudyeti vikrānta iti yudhāmanyoḥ | vīryavān ity uttamaujasaś ceti viśeṣaṇam | saubhadro 'bhimanyuḥ | draupadeyā yudhiṣṭhirādibhyaḥ pañcabhyaḥ kramād draupadyāṃ jātāḥ prativindhya-śrutasena-śrutakīrti-śatānīka-śrutakarmākhyāḥ pañca-putrāḥ | ca-śabdād anye ca ghaṭotkacādayaḥ | pāṇḍavās tv atikhyātatvāt na gaṇitāḥ | ye ete saptadaśa gaṇitāḥ, ye cānye tat-pakṣīyās te sarve mahārathā eva | atirathasyāpy upalakṣaṇam etat | tal-lakṣaṇaṃ coktam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| bhg 1.7 asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te ||7||",
+      "source_clean": "śrīdhara: atrety ādi | atra asyāṃ camvām | iṣavo bāṇā asyas te kṣipyante ebhir iti iṣāsāḥ dhanūṃṣi | mahānta iṣvāso yeṣāṃ te maheṣvāsāḥ | bhīmārjunau tāvad atrātiprasiddhau yoddhārau | tābhyāṃ samāḥ śūrāḥ śauryeṇa kṣātra-dharmeṇopetāḥ santi | tān eva nāmabhir nirdiśati yuyudhānaḥ sātyakiḥ | kiṃ ca dhṛṣṭaketur iti | vikrānto yudhāmanyur nāmaikaḥ | saubhadro 'bhimanyur draupadeyāḥ draupadyāṃ pañcabhyo yudhiṣṭhirādibhyo jātāḥ putrāḥ prativindhyādayaḥ pañca | mahārathādīnāṃ lakṣaṇam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| viśvanātha: atra camvām | mahāntaḥ śatrubhiś chettum aśakyā iṣvāsā dhanūṃṣi yeṣāṃ te | yuyudhānaḥ sātyakiḥ | saubhadro 'bhimanyuḥ | draupadeyā yudhiṣṭhirādibhyaḥ pañcabhyo jātāḥ prativindhyādayaḥ | mahārathādīnāṃ lakṣaṇam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| śrīdhara: nanv ekena dhṛṣṭadyumnenādhiṣṭhitālpikā senāsmadīyenaikenaiva sujeyā syād atas tvaṃ mā trāsīr iti cet tatrāha atreti | atra camvāṃ mahāntaḥ śatrubhiś chettum aśakyā iṣvāsāś cāpā yeṣāṃ te | yuddha-kauśalam āśaṅkyāha bhīmeti | yuyudhānaḥ sātyakiḥ | mahāratha iti yuyudhānīdānāṃ trayāṇām | nara-puṅgava iti purujid-ādīnāṃ trayāṇām | yudyeti vikrānta iti yudhāmanyoḥ | vīryavān ity uttamaujasaś ceti viśeṣaṇam | saubhadro 'bhimanyuḥ | draupadeyā yudhiṣṭhirādibhyaḥ pañcabhyaḥ kramād draupadyāṃ jātāḥ prativindhya-śrutasena-śrutakīrti-śatānīka-śrutakarmākhyāḥ pañca-putrāḥ | ca-śabdād anye ca ghaṭotkacādayaḥ | pāṇḍavās tv atikhyātatvāt na gaṇitāḥ | ye ete saptadaśa gaṇitāḥ, ye cānye tat-pakṣīyās te sarve mahārathā eva | atirathasyāpy upalakṣaṇam etat | tal-lakṣaṇaṃ coktam - eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || amitān yodhayed yas tu samprokto 'tirathas tu saḥ | caikena yo yudhyet tan-nyūno 'rdha-rathaḥ smṛtaḥ || iti ||4-6|| bhg 1.7 asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te ||7||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SrIDara",
+            "AdA",
+            "atra",
+            "vA",
+            "bARi",
+            "as",
+            "tA",
+            "kzip",
+            "i",
+            "a",
+            "Danus",
+            "mah",
+            "i",
+            "tA",
+            "mah",
+            "atiprasidDa",
+            "yuD",
+            "sam",
+            "Svi",
+            "SOrya",
+            "kzA",
+            "as",
+            "tam",
+            "eva",
+            "nirdiS",
+            "yuD",
+            "sAtyaki",
+            "ca",
+            "i",
+            "f",
+            "ej",
+            "a",
+            "drOpadeya",
+            "jan",
+            "putra",
+            "AdA",
+            "paYci",
+            "lakzi",
+            "ej",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "a",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ca",
+            "yu",
+            "yuD",
+            "tan",
+            "smf",
+            "i",
+            "viSvanATa",
+            "atra",
+            "vA",
+            "mah",
+            "Cid",
+            "aSakya",
+            "as",
+            "Danus",
+            "tA",
+            "yuD",
+            "sAtyaki",
+            "a",
+            "drOpadeya",
+            "yuDizWira",
+            "jan",
+            "prativinDya",
+            "lakzi",
+            "ej",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "i",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ca",
+            "yu",
+            "eD",
+            "u",
+            "smf",
+            "i",
+            "SrIDara",
+            "ej",
+            "madIya",
+            "a",
+            "mA",
+            "Ir",
+            "i",
+            "ca",
+            "aha",
+            "atra",
+            "atra",
+            "antar",
+            "Cid",
+            "aSakya",
+            "Ap",
+            "tA",
+            "kOSala",
+            "ASaNk",
+            "BImA",
+            "yuD",
+            "sAtyaki",
+            "f",
+            "i",
+            "tri",
+            "a",
+            "i",
+            "tri",
+            "yuD",
+            "vikrAnta",
+            "i",
+            "yuD",
+            "vIryavat",
+            "cit",
+            "viSiz",
+            "banD",
+            "drOpadeya",
+            "AdA",
+            "jan",
+            "Ir",
+            "paYci",
+            "anya",
+            "ca",
+            "Gawotkaca",
+            "pARqava",
+            "na",
+            "gaRi",
+            "yA",
+            "iti",
+            "saptadaSan",
+            "yA",
+            "ca",
+            "tad",
+            "tA",
+            "sarva",
+            "mahAraTa",
+            "eva",
+            "upalakzaRa",
+            "etad",
+            "vac",
+            "u",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "a",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ej",
+            "yu",
+            "eD",
+            "tan",
+            "smf",
+            "i",
+            "tu",
+            "viSiz",
+            "yA",
+            "tam",
+            "nibuD",
+            "dvijottama",
+            "nI",
+            "mA",
+            "i",
+            "tam",
+            "brU",
+            "tA"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 189
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SrIDara",
+            "AdA",
+            "atra",
+            "vA",
+            "bARi",
+            "as",
+            "tA",
+            "kzip",
+            "i",
+            "a",
+            "Danus",
+            "mah",
+            "i",
+            "tA",
+            "mah",
+            "atiprasidDa",
+            "yuD",
+            "sam",
+            "Svi",
+            "SOrya",
+            "kzA",
+            "as",
+            "tam",
+            "eva",
+            "nirdiS",
+            "yuD",
+            "sAtyaki",
+            "ca",
+            "i",
+            "f",
+            "ej",
+            "a",
+            "drOpadeya",
+            "jan",
+            "putra",
+            "AdA",
+            "paYci",
+            "lakzi",
+            "ej",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "a",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ca",
+            "yu",
+            "yuD",
+            "tan",
+            "smf",
+            "i",
+            "viSvanATa",
+            "atra",
+            "vA",
+            "mah",
+            "Cid",
+            "aSakya",
+            "as",
+            "Danus",
+            "tA",
+            "yuD",
+            "sAtyaki",
+            "a",
+            "drOpadeya",
+            "yuDizWira",
+            "jan",
+            "prativinDya",
+            "lakzi",
+            "ej",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "i",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ca",
+            "yu",
+            "eD",
+            "u",
+            "smf",
+            "i",
+            "SrIDara",
+            "ej",
+            "madIya",
+            "a",
+            "mA",
+            "Ir",
+            "i",
+            "ca",
+            "aha",
+            "atra",
+            "atra",
+            "antar",
+            "Cid",
+            "aSakya",
+            "Ap",
+            "tA",
+            "kOSala",
+            "ASaNk",
+            "BImA",
+            "yuD",
+            "sAtyaki",
+            "f",
+            "i",
+            "tri",
+            "a",
+            "i",
+            "tri",
+            "yuD",
+            "vikrAnta",
+            "i",
+            "yuD",
+            "vIryavat",
+            "cit",
+            "viSiz",
+            "banD",
+            "drOpadeya",
+            "AdA",
+            "jan",
+            "Ir",
+            "paYci",
+            "anya",
+            "ca",
+            "Gawotkaca",
+            "pARqava",
+            "na",
+            "gaRi",
+            "yA",
+            "iti",
+            "saptadaSan",
+            "yA",
+            "ca",
+            "tad",
+            "tA",
+            "sarva",
+            "mahAraTa",
+            "eva",
+            "upalakzaRa",
+            "etad",
+            "vac",
+            "u",
+            "daMS",
+            "sahasra",
+            "I",
+            "tu",
+            "i",
+            "ca",
+            "mahArTa",
+            "i",
+            "smf",
+            "a",
+            "I",
+            "tu",
+            "tu",
+            "sa",
+            "ej",
+            "yu",
+            "eD",
+            "tan",
+            "smf",
+            "i",
+            "tu",
+            "viSiz",
+            "yA",
+            "tam",
+            "nibuD",
+            "dvijottama",
+            "nI",
+            "mA",
+            "i",
+            "tam",
+            "brU",
+            "tA"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.22.0f21",
+      "short_id": "bg.9.22",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "yāvad etān nirīkṣe 'haṃ yoddhukāmān avasthitān | kair mayā saha yoddhavyam asmin raṇasamudyame ||22||",
+      "source_clean": "yāvad etān nirīkṣe 'haṃ yoddhukāmān avasthitān | kair mayā saha yoddhavyam asmin raṇasamudyame ||22||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "etad",
+            "nirIkz",
+            "u",
+            "avasTA",
+            "mA",
+            "saha",
+            "yuD",
+            "mind"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "etad",
+            "nirIkz",
+            "u",
+            "avasTA",
+            "mA",
+            "saha",
+            "yuD",
+            "mind"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.8.8474",
+      "short_id": "bg.10.8",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 1.8-9 bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ | aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||8||",
+      "source_clean": "bhg 1.8-9 bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ | aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||8||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "BU",
+            "ca",
+            "ca",
+            "ca",
+            "sa",
+            "mA",
+            "ca",
+            "jayadraTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "BU",
+            "ca",
+            "ca",
+            "ca",
+            "sa",
+            "mA",
+            "ca",
+            "jayadraTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.45.c4b1",
+      "short_id": "bg.11.45",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||",
+      "source_clean": "bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "yadi",
+            "mA",
+            "aprati",
+            "Sastra",
+            "aS",
+            "raRvi",
+            "han",
+            "tan",
+            "mA",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 10
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "yadi",
+            "mA",
+            "aprati",
+            "Sastra",
+            "aS",
+            "raRvi",
+            "han",
+            "tan",
+            "mA",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.6.bdcd",
+      "short_id": "bg.12.6",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān | saubhadro draupadeyāś ca sarva eva mahārathāḥ ||6||",
+      "source_clean": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān | saubhadro draupadeyāś ca sarva eva mahārathāḥ ||6||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "ca",
+            "vikrAnta",
+            "ca",
+            "vIryavat",
+            "sa",
+            "ca",
+            "sarva",
+            "eva",
+            "aTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 9
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "ca",
+            "vikrAnta",
+            "ca",
+            "vIryavat",
+            "sa",
+            "ca",
+            "sarva",
+            "eva",
+            "aTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.15.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.18.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.14.7ba4",
+      "short_id": "bg.2.14",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 1.14 tataḥ śvetair hayair yukte mahati syandane sthitau | mādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ ||14||",
+      "source_clean": "bhg 1.14 tataḥ śvetair hayair yukte mahati syandane sthitau | mādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ ||14||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tatas",
+            "Sveta",
+            "a",
+            "yuj",
+            "mah",
+            "syand",
+            "sTA",
+            "mA",
+            "eva",
+            "divya",
+            "SaNKa",
+            "praDmA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 12
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tatas",
+            "Sveta",
+            "a",
+            "yuj",
+            "mah",
+            "syand",
+            "sTA",
+            "mA",
+            "eva",
+            "divya",
+            "SaNKa",
+            "praDmA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.8.8474",
+      "short_id": "bg.3.8",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "bhg 1.8-9 bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ | aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||8||",
+      "source_clean": "bhg 1.8-9 bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ | aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||8||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "BU",
+            "ca",
+            "ca",
+            "ca",
+            "sa",
+            "mA",
+            "ca",
+            "jayadraTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "BU",
+            "ca",
+            "ca",
+            "ca",
+            "sa",
+            "mA",
+            "ca",
+            "jayadraTa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.5.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.5.5488",
+      "short_id": "bg.6.5",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān | purujit kuntibhojaś ca śaibyaś ca narapuṃgavaḥ ||5||",
+      "source_clean": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān | purujit kuntibhojaś ca śaibyaś ca narapuṃgavaḥ ||5||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "cekit",
+            "ca",
+            "vIryavat",
+            "purujit",
+            "ca",
+            "ca"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "cekit",
+            "ca",
+            "vIryavat",
+            "purujit",
+            "ca",
+            "ca"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.7.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.8.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.13.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.16.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.17.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.14.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.1.bd07",
+      "short_id": "bg.19.1",
+      "work_id": "bhagavad_gita",
+      "track": "a_known",
+      "source_iast": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "source_clean": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva # Header This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhagavadgItA-4comm.xml with a rudimentary header. For a more extensive header please refer to the source file. ## Data entry: Gaudiya Grantha Mandira ## Contribution: Gaudiya Grantha Mandira ## Date of this version: 2020-07-31 ## Source: - . ## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen ## Licence: This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. ## Structure of references: A reference is assembled consisting of - a pragmatic abbreviation of the title: Bhagavadgītā-4comm = , - the number of the  in arabic numerals, - the number of the verse in arabic numerals. ## Notes: This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhg4c__u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below: Bhagavadgita with the commentaries of Sridhara, (Madhusudana), Visvanatha and Baladeva ## Revisions: - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus # Text bhg 1.1 dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 82
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Ta",
+            "i",
+            "a",
+            "a",
+            "Iri",
+            "a",
+            "a",
+            "Ir",
+            "u",
+            "Ta",
+            "daD",
+            "Ga",
+            "a",
+            "daD",
+            "inD",
+            "a",
+            "wa",
+            "u",
+            "inD",
+            "nu",
+            "hu",
+            "yoni",
+            "u",
+            "Ir",
+            "a",
+            "Ta",
+            "i",
+            "ad",
+            "ba",
+            "Ta",
+            "Ir",
+            "a",
+            "u",
+            "u",
+            "A",
+            "i",
+            "a",
+            "Ta",
+            "Ta",
+            "Ta",
+            "inD",
+            "nu",
+            "Ta",
+            "Ta",
+            "vA",
+            "inD",
+            "nu",
+            "ha",
+            "ma",
+            "si",
+            "a",
+            "u",
+            "Ta",
+            "Ta",
+            "Ta",
+            "Ir",
+            "vap",
+            "ba",
+            "Ta",
+            "sac",
+            "Ta",
+            "ha",
+            "Ta",
+            "i",
+            "inD",
+            "Ta",
+            "u",
+            "il",
+            "Ta",
+            "ma",
+            "a",
+            "DftarAzwra",
+            "vac",
+            "kzi",
+            "kzi",
+            "A",
+            "yuyutsu",
+            "mA",
+            "eva",
+            "kim",
+            "kf",
+            "saMji"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.28",
+      "short_id": "vb.28",
+      "work_id": "vijnanabhairava",
+      "track": "a_known",
+      "source_iast": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+      "source_clean": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "dvi"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "dvi"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.55",
+      "short_id": "vb.55",
+      "work_id": "vijnanabhairava",
+      "track": "a_known",
+      "source_iast": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+      "source_clean": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 0
+        },
+        "D_full_sanskritree": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.1.0d62",
+      "short_id": "mbt.1.1",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "।। ॐ स्वस्ति ।। श्रीनाथपादुकाभ्यां नमः । श्रीगणेशाय नमः । मन्थानभैरवतन्त्रे कुमारिकाखण्डे प्रथमानन्दः संवतीमण्डलान्ते क्रमपदनिहितानन्दशक्तिः सुभीमा सृष्टिन्यायें चतुष्क त्वकुलकुलग पञ्चक चान्यषट्कम् । चत्वारः पञ्चकोऽन्यः पुनरपि चतुरः षोडशाज्ञाभिषेक दिव्याष्टौ मूर्तिमध्ये हसखफरकला बिन्दुपुष्पा खमुद्रा ॥ १ ॥",
+      "source_clean": "।। ॐ स्वस्ति ।। श्रीनाथपादुकाभ्यां नमः । श्रीगणेशाय नमः । मन्थानभैरवतन्त्रे कुमारिकाखण्डे प्रथमानन्दः संवतीमण्डलान्ते क्रमपदनिहितानन्दशक्तिः सुभीमा सृष्टिन्यायें चतुष्क त्वकुलकुलग पञ्चक चान्यषट्कम् । चत्वारः पञ्चकोऽन्यः पुनरपि चतुरः षोडशाज्ञाभिषेक दिव्याष्टौ मूर्तिमध्ये हसखफरकला बिन्दुपुष्पा खमुद्रा ॥ १ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "svasti",
+            "nam",
+            "SrIgaReSa",
+            "nam",
+            "kumArikA",
+            "praTamA",
+            "suBIma",
+            "catuzka",
+            "paYcaka",
+            "catur",
+            "punar",
+            "catura",
+            "aBizic",
+            "aS",
+            "f"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 15
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "svasti",
+            "nam",
+            "SrIgaReSa",
+            "nam",
+            "kumArikA",
+            "praTamA",
+            "suBIma",
+            "catuzka",
+            "paYcaka",
+            "catur",
+            "punar",
+            "catura",
+            "aBizic",
+            "aS",
+            "f"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.3.3c48",
+      "short_id": "mbt.1.3",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "सन्तान” गोत्रपिण्ड” क्रमपदसकल षोडशान्तं क्रमान्तं शेषा वै मण्डलानि परिभ्रमविमल पूज्यसद्भाववृन्दम् । आदावष्टादशान्तं कुलक्रमसकल मण्डलोत्थानपूर्वं ? संस्कार” त्रिक्रमेण” पशुमलक्षयकृत् पिण्डशुद्धिः शिवाग्नौ ॥। ३ ।।",
+      "source_clean": "सन्तान” गोत्रपिण्ड” क्रमपदसकल षोडशान्तं क्रमान्तं शेषा वै मण्डलानि परिभ्रमविमल पूज्यसद्भाववृन्दम् । आदावष्टादशान्तं कुलक्रमसकल मण्डलोत्थानपूर्वं ? संस्कार” त्रिक्रमेण” पशुमलक्षयकृत् पिण्डशुद्धिः शिवाग्नौ ॥। ३ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Siz",
+            "vA",
+            "maRqala"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Siz",
+            "vA",
+            "maRqala"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.5.a559",
+      "short_id": "mbt.1.5",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "कुमारिकाखण्डः वृत्ताध्युष्ट क्रमार्थ रचितमनुभवं खञ्जिनीमूर्तिपूर्व दिव्योऽय देवसंज्ञ पुनरपि अपर मानवं त्रिक्रमौघम् । भेदानेकैर्विभिन्न” सकलपदक्रमं मण्डलं षट्प्रकार ६८ संकेत कादिपूर्व सकलगुणयुतं मण्डलं भैरव तम् ।। ५ ।।",
+      "source_clean": "कुमारिकाखण्डः वृत्ताध्युष्ट क्रमार्थ रचितमनुभवं खञ्जिनीमूर्तिपूर्व दिव्योऽय देवसंज्ञ पुनरपि अपर मानवं त्रिक्रमौघम् । भेदानेकैर्विभिन्न” सकलपदक्रमं मण्डलं षट्प्रकार ६८ संकेत कादिपूर्व सकलगुणयुतं मण्डलं भैरव तम् ।। ५ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "KaRq",
+            "aDi",
+            "i",
+            "deva",
+            "punar",
+            "apara",
+            "prakf",
+            "kit",
+            "BErava",
+            "tay"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 10
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "KaRq",
+            "aDi",
+            "i",
+            "deva",
+            "punar",
+            "apara",
+            "prakf",
+            "kit",
+            "BErava",
+            "tay"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.7.5385",
+      "short_id": "mbt.1.7",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "तस्यावरणमादाय कीदृक् ” चैव पदक्रमम्” । ७४ सृष्टिन्याये चतुष्कं तु अकुल तु कथं भवेत् ॥ ७ ॥",
+      "source_clean": "तस्यावरणमादाय कीदृक् ” चैव पदक्रमम्” । ७४ सृष्टिन्याये चतुष्कं तु अकुल तु कथं भवेत् ॥ ७ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tad",
+            "ca",
+            "i",
+            "tu",
+            "aj",
+            "tu",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 7
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tad",
+            "ca",
+            "i",
+            "tu",
+            "aj",
+            "tu",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.9.9580",
+      "short_id": "mbt.1.9",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "पञ्चक:” कश्चतुर्भूयः¨ षोडशाज्ञा कथं भवेत् । आदौ कुत्राभिषेक तु“ देवताष्टौ ँ वदस्व मे ॥ ९ ॥",
+      "source_clean": "पञ्चक:” कश्चतुर्भूयः¨ षोडशाज्ञा कथं भवेत् । आदौ कुत्राभिषेक तु“ देवताष्टौ ँ वदस्व मे ॥ ९ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "zoqaSa",
+            "BU",
+            "AdA",
+            "ku",
+            "aS",
+            "vad",
+            "mA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 7
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "zoqaSa",
+            "BU",
+            "AdA",
+            "ku",
+            "aS",
+            "vad",
+            "mA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.11.e64a",
+      "short_id": "mbt.1.11",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "का कला परमा शार्वी क्रमाणां क्रमदेवता । चन्द्रपुर्यं कथं प्रोक्तं श्रीनाथ किं स्वरूपिणम् ॥ ११ ॥",
+      "source_clean": "का कला परमा शार्वी क्रमाणां क्रमदेवता । चन्द्रपुर्यं कथं प्रोक्तं श्रीनाथ किं स्वरूपिणम् ॥ ११ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kAvi",
+            "kal",
+            "parama",
+            "vi",
+            "SrInATa",
+            "svarUpin"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kAvi",
+            "kal",
+            "parama",
+            "vi",
+            "SrInATa",
+            "svarUpin"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.13.5376",
+      "short_id": "mbt.1.13",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "कुमारिकाखण्डः षोडशान्त क्रमान्त किं २ शेषा वै मण्डलानि ४ । परिभ्रमं न में ज्ञात विमलं तु विशेषतः ।। १३ ।।",
+      "source_clean": "कुमारिकाखण्डः षोडशान्त क्रमान्त किं २ शेषा वै मण्डलानि ४ । परिभ्रमं न में ज्ञात विमलं तु विशेषतः ।। १३ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kumArikA",
+            "zoqaSa",
+            "anti",
+            "Siz",
+            "vA",
+            "maRqala",
+            "na",
+            "jYA",
+            "tu",
+            "viSiz"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 10
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kumArikA",
+            "zoqaSa",
+            "anti",
+            "Siz",
+            "vA",
+            "maRqala",
+            "na",
+            "jYA",
+            "tu",
+            "viSiz"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.15.4dd6",
+      "short_id": "mbt.1.15",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "युग्मभेदं कथं सारं सिद्धास्त्रितयशासनें । दक्षिणे कोऽधिकारी स्यान्नवकं किं स्वरूपिणम् ।। १५ ।।",
+      "source_clean": "युग्मभेदं कथं सारं सिद्धास्त्रितयशासनें । दक्षिणे कोऽधिकारी स्यान्नवकं किं स्वरूपिणम् ।। १५ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "dakziRA",
+            "svarUpin"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "dakziRA",
+            "svarUpin"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.17.274a",
+      "short_id": "mbt.1.17",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "पशुः कोऽत्र समासेन मण्डलं तु कथं भवेत् २ । क्षय २३ केन स्वरूपेण मलस्यैव २४ तु विद्यते ।। १७ ।।",
+      "source_clean": "पशुः कोऽत्र समासेन मण्डलं तु कथं भवेत् २ । क्षय २३ केन स्वरूपेण मलस्यैव २४ तु विद्यते ।। १७ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "paSu",
+            "kas",
+            "samas",
+            "tu",
+            "BU",
+            "kzi",
+            "kena",
+            "arUpa",
+            "mal",
+            "tu",
+            "vid"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 11
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "paSu",
+            "kas",
+            "samas",
+            "tu",
+            "BU",
+            "kzi",
+            "kena",
+            "arUpa",
+            "mal",
+            "tu",
+            "vid"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.19.281e",
+      "short_id": "mbt.1.19",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "का स्वरूपा च कि देवि प्रत्यय स्वाधिकारकम् । सृष्ट ३५ येन स वै ३६ कोऽत्र भैरवश्च कथं भवेत् ॥ १९ ॥",
+      "source_clean": "का स्वरूपा च कि देवि प्रत्यय स्वाधिकारकम् । सृष्ट ३५ येन स वै ३६ कोऽत्र भैरवश्च कथं भवेत् ॥ १९ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kAvi",
+            "su",
+            "ca",
+            "i",
+            "devI",
+            "pratyaya",
+            "sU",
+            "sfj",
+            "yA",
+            "sa",
+            "vA",
+            "atra",
+            "ca",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 14
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kAvi",
+            "su",
+            "ca",
+            "i",
+            "devI",
+            "pratyaya",
+            "sU",
+            "sfj",
+            "yA",
+            "sa",
+            "vA",
+            "atra",
+            "ca",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.21.56b0",
+      "short_id": "mbt.1.21",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "चतुःप्रकारसंयुक्तं पञ्च षट् च त्रिधात्मकम् । प्रथममुन्मनाम्नाय द्वितीयं च मनोन्मनम् ॥ २१ ॥",
+      "source_clean": "चतुःप्रकारसंयुक्तं पञ्च षट् च त्रिधात्मकम् । प्रथममुन्मनाम्नाय द्वितीयं च मनोन्मनम् ॥ २१ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "paYci",
+            "zaz",
+            "ca",
+            "na",
+            "ca",
+            "u"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "paYci",
+            "zaz",
+            "ca",
+            "na",
+            "ca",
+            "u"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.23.9d2f",
+      "short_id": "mbt.1.23",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "।। २३ ।।",
+      "source_clean": "।। २३ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 0
+        },
+        "D_full_sanskritree": {
+          "lemmas": [],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.25.463f",
+      "short_id": "mbt.1.25",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "।। । विनयं पञ्चदशं प्रोक्त कमल षोडश भवेत् । । दशसप्त चर्चिका देवी श्रीनाथोऽष्टादश १ भवेत् ।। २५ ।।",
+      "source_clean": "।। । विनयं पञ्चदशं प्रोक्त कमल षोडश भवेत् । । दशसप्त चर्चिका देवी श्रीनाथोऽष्टादश १ भवेत् ।। २५ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "pravac",
+            "kamala",
+            "zoqaSa",
+            "BU",
+            "daSasaptA",
+            "carcikA",
+            "devI",
+            "azwAdaSan",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 9
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "pravac",
+            "kamala",
+            "zoqaSa",
+            "BU",
+            "daSasaptA",
+            "carcikA",
+            "devI",
+            "azwAdaSan",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.27.d542",
+      "short_id": "mbt.1.27",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "शिवशक्तिसमायोग सामरस्य विदुस्तथा । १३१ उभे पक्षे तु मेलाप युग्मभेदमिदं स्मृतम् ।। २७ ।।",
+      "source_clean": "शिवशक्तिसमायोग सामरस्य विदुस्तथा । १३१ उभे पक्षे तु मेलाप युग्मभेदमिदं स्मृतम् ।। २७ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "mf",
+            "taTA",
+            "uB",
+            "pakza",
+            "tu",
+            "Ap",
+            "smf"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 7
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "mf",
+            "taTA",
+            "uB",
+            "pakza",
+            "tu",
+            "Ap",
+            "smf"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.29.fdd8",
+      "short_id": "mbt.1.29",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "सोमाकीनलमध्यस्था चित्कला अमृतोपमा ७ । षडध्वशुद्धतत्त्वात्मावृक्षनाथ तु दक्षिणे ॥ २९ ॥",
+      "source_clean": "सोमाकीनलमध्यस्था चित्कला अमृतोपमा ७ । षडध्वशुद्धतत्त्वात्मावृक्षनाथ तु दक्षिणे ॥ २९ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kal",
+            "amfta",
+            "tu",
+            "dakziRA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 4
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kal",
+            "amfta",
+            "tu",
+            "dakziRA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.31.3955",
+      "short_id": "mbt.1.31",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "भर्गस्थानादयश्चैव षोडशाधारमण्डलाः । शिष्यौघामोघसंभूतं महाभ्युदयकारकम् ।। ३१ ।।",
+      "source_clean": "भर्गस्थानादयश्चैव षोडशाधारमण्डलाः । शिष्यौघामोघसंभूतं महाभ्युदयकारकम् ।। ३१ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "mah"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "mah"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.33.1760",
+      "short_id": "mbt.1.33",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "अपरपरभेदेन अवतीर्णी ५०७ च वक्रिका ।। ३३ ।।",
+      "source_clean": "अपरपरभेदेन अवतीर्णी ५०७ च वक्रिका ।। ३३ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "av",
+            "ca",
+            "ric"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "av",
+            "ca",
+            "ric"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.35.349b",
+      "short_id": "mbt.1.35",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "गोत्रपञ्चाशद्भिर्भिन्ना पिण्डरूपा शिवा कला । शिव तु निर्विकारं वै संसारोत्तीर्णभेषजम् ।। ३५ ।।",
+      "source_clean": "गोत्रपञ्चाशद्भिर्भिन्ना पिण्डरूपा शिवा कला । शिव तु निर्विकारं वै संसारोत्तीर्णभेषजम् ।। ३५ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SivA",
+            "kal",
+            "Siva",
+            "tu",
+            "vA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 5
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SivA",
+            "kal",
+            "Siva",
+            "tu",
+            "vA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.37.d2a2",
+      "short_id": "mbt.1.37",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "कारणोत्था सदा तिष्ठेच्छिवमार्गीनुयायिनी । अतसीपुष्पसंकाशा षड्वक्त्रा परमा कला ।। ३७ ।।",
+      "source_clean": "कारणोत्था सदा तिष्ठेच्छिवमार्गीनुयायिनी । अतसीपुष्पसंकाशा षड्वक्त्रा परमा कला ।। ३७ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "utTA",
+            "dA",
+            "vac",
+            "parama",
+            "kal"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 5
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "utTA",
+            "dA",
+            "vac",
+            "parama",
+            "kal"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.39.0ce0",
+      "short_id": "mbt.1.39",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "b_untranslated",
+      "source_iast": "भुवनाधिपति:¨२ सा वै वक्रिका कुलरूपिणीं । अधिकारे प्रसिद्धा सा पञ्चतत्त्वैरधिष्ठिता ।। ३९ ।।",
+      "source_clean": "भुवनाधिपति:¨२ सा वै वक्रिका कुलरूपिणीं । अधिकारे प्रसिद्धा सा पञ्चतत्त्वैरधिष्ठिता ।। ३९ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "sA",
+            "vA",
+            "A",
+            "aDikf",
+            "prasiD",
+            "sA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "sA",
+            "vA",
+            "A",
+            "aDikf",
+            "prasiD",
+            "sA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.79",
+      "short_id": "vb.79",
+      "work_id": "vijnanabhairava",
+      "track": "b_untranslated",
+      "source_iast": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+      "source_clean": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kakza",
+            "kurvat"
+          ],
+          "frame": "Instruction",
+          "energy": -0.3667,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kakza",
+            "kurvat"
+          ],
+          "frame": "Instruction",
+          "energy": -0.3667,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.102",
+      "short_id": "vb.102",
+      "work_id": "vijnanabhairava",
+      "track": "b_untranslated",
+      "source_iast": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+      "source_clean": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Bramat",
+            "paS"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Bramat",
+            "paS"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.114",
+      "short_id": "vb.114",
+      "work_id": "vijnanabhairava",
+      "track": "b_untranslated",
+      "source_iast": "anackam ahalaṃ dhyāyan viśed brahma sanātanam",
+      "source_clean": "anackam ahalaṃ dhyāyan viśed brahma sanātanam",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "ahalam",
+            "viS1"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "ahalam",
+            "viS1"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.122",
+      "short_id": "vb.122",
+      "work_id": "vijnanabhairava",
+      "track": "b_untranslated",
+      "source_iast": "tām eva manasā dhyātvā vidito 'pi praśāmyati",
+      "source_clean": "tām eva manasā dhyātvā vidito 'pi praśāmyati",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 0
+        },
+        "D_full_sanskritree": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.132",
+      "short_id": "vb.132",
+      "work_id": "vijnanabhairava",
+      "track": "b_untranslated",
+      "source_iast": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+      "source_clean": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "pratikṣaṇa",
+            "kṛta",
+            "kfta"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "pratikṣaṇa",
+            "kṛta",
+            "kfta"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.1",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.4",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.7",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.10",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.3.19",
+      "short_id": "sp.3.1",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+      "source_clean": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "ni-yacCat"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "ni-yacCat"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.3.19",
+      "short_id": "sp.3.5",
+      "work_id": "spandakarika",
+      "track": "b_untranslated",
+      "source_iast": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+      "source_clean": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "ni-yacCat"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "ni-yacCat"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.46.769e",
+      "short_id": "mbt.1.46",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "न स्त्री न पुरुषाकार आनन्द २ तं३ नपुंसकम् । । साधिकारं लिङ्गरूपं निरधिकरण तथा ॥। ४६ ॥",
+      "source_clean": "न स्त्री न पुरुषाकार आनन्द २ तं३ नपुंसकम् । । साधिकारं लिङ्गरूपं निरधिकरण तथा ॥। ४६ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "na",
+            "strI",
+            "na",
+            "akAra",
+            "Anand",
+            "napuMsaka",
+            "ni",
+            "taTA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "na",
+            "strI",
+            "na",
+            "akAra",
+            "Anand",
+            "napuMsaka",
+            "ni",
+            "taTA"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.50.2ae8",
+      "short_id": "mbt.1.50",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥",
+      "source_clean": "तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tan",
+            "tu",
+            "na",
+            "mah"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 4
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tan",
+            "tu",
+            "na",
+            "mah"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.54.8a2a",
+      "short_id": "mbt.1.54",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "तस्याज्ञा स्वमुखे नित्यं भेदैश्च सप्तविंशतिः । २३४ षट्प्रकारक्रमेणैव आम्नायेन मुखागमम् ॥ ५४ ॥",
+      "source_clean": "तस्याज्ञा स्वमुखे नित्यं भेदैश्च सप्तविंशतिः । २३४ षट्प्रकारक्रमेणैव आम्नायेन मुखागमम् ॥ ५४ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "AjYA",
+            "amuKa",
+            "ca",
+            "saptaviMSati",
+            "AmnA",
+            "muKa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 6
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "AjYA",
+            "amuKa",
+            "ca",
+            "saptaviMSati",
+            "AmnA",
+            "muKa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.58.7a38",
+      "short_id": "mbt.1.58",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "विलोमेन चकारादौ मणिपूर्णे ततः पुनः । श्रीमद् वै रुद्र पादाब्ज पश्चिमं इच्छसे क्रमम् ।। ५८ ।।",
+      "source_clean": "विलोमेन चकारादौ मणिपूर्णे ततः पुनः । श्रीमद् वै रुद्र पादाब्ज पश्चिमं इच्छसे क्रमम् ।। ५८ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "vilas",
+            "AdA",
+            "tatas",
+            "punar",
+            "vA",
+            "rudra",
+            "pad",
+            "i",
+            "krama"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 9
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "vilas",
+            "AdA",
+            "tatas",
+            "punar",
+            "vA",
+            "rudra",
+            "pad",
+            "i",
+            "krama"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.62.7286",
+      "short_id": "mbt.1.62",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "पश्चिमं३३ शाम्भवं तस्मात् सर्वेषामुपरिस्थितम् । सविशेषमिदं नित्यं बहुरूपस्य साम्प्रतम् ।। ६२ ।।",
+      "source_clean": "पश्चिमं३३ शाम्भवं तस्मात् सर्वेषामुपरिस्थितम् । सविशेषमिदं नित्यं बहुरूपस्य साम्प्रतम् ।। ६२ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tasmAt",
+            "bahurUpa",
+            "praT"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tasmAt",
+            "bahurUpa",
+            "praT"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v3.67.34bc",
+      "short_id": "mbt.1.67",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।",
+      "source_clean": "ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "IS",
+            "jYA",
+            "vac",
+            "guru",
+            "kf",
+            "hati",
+            "ca",
+            "punar",
+            "punar",
+            "vA",
+            "pArTiva",
+            "kula",
+            "tad",
+            "jagannATa",
+            "tva"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 15
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "IS",
+            "jYA",
+            "vac",
+            "guru",
+            "kf",
+            "hati",
+            "ca",
+            "punar",
+            "punar",
+            "vA",
+            "pArTiva",
+            "kula",
+            "tad",
+            "jagannATa",
+            "tva"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.1.0d62",
+      "short_id": "mbt.2.1",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "।। ॐ स्वस्ति ।। श्रीनाथपादुकाभ्यां नमः । श्रीगणेशाय नमः । मन्थानभैरवतन्त्रे कुमारिकाखण्डे प्रथमानन्दः संवतीमण्डलान्ते क्रमपदनिहितानन्दशक्तिः सुभीमा सृष्टिन्यायें चतुष्क त्वकुलकुलग पञ्चक चान्यषट्कम् । चत्वारः पञ्चकोऽन्यः पुनरपि चतुरः षोडशाज्ञाभिषेक दिव्याष्टौ मूर्तिमध्ये हसखफरकला बिन्दुपुष्पा खमुद्रा ॥ १ ॥",
+      "source_clean": "।। ॐ स्वस्ति ।। श्रीनाथपादुकाभ्यां नमः । श्रीगणेशाय नमः । मन्थानभैरवतन्त्रे कुमारिकाखण्डे प्रथमानन्दः संवतीमण्डलान्ते क्रमपदनिहितानन्दशक्तिः सुभीमा सृष्टिन्यायें चतुष्क त्वकुलकुलग पञ्चक चान्यषट्कम् । चत्वारः पञ्चकोऽन्यः पुनरपि चतुरः षोडशाज्ञाभिषेक दिव्याष्टौ मूर्तिमध्ये हसखफरकला बिन्दुपुष्पा खमुद्रा ॥ १ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "svasti",
+            "nam",
+            "SrIgaReSa",
+            "nam",
+            "kumArikA",
+            "praTamA",
+            "suBIma",
+            "catuzka",
+            "paYcaka",
+            "catur",
+            "punar",
+            "catura",
+            "aBizic",
+            "aS",
+            "f"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 15
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "svasti",
+            "nam",
+            "SrIgaReSa",
+            "nam",
+            "kumArikA",
+            "praTamA",
+            "suBIma",
+            "catuzka",
+            "paYcaka",
+            "catur",
+            "punar",
+            "catura",
+            "aBizic",
+            "aS",
+            "f"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.3.3c48",
+      "short_id": "mbt.2.3",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "सन्तान” गोत्रपिण्ड” क्रमपदसकल षोडशान्तं क्रमान्तं शेषा वै मण्डलानि परिभ्रमविमल पूज्यसद्भाववृन्दम् । आदावष्टादशान्तं कुलक्रमसकल मण्डलोत्थानपूर्वं ? संस्कार” त्रिक्रमेण” पशुमलक्षयकृत् पिण्डशुद्धिः शिवाग्नौ ॥। ३ ।।",
+      "source_clean": "सन्तान” गोत्रपिण्ड” क्रमपदसकल षोडशान्तं क्रमान्तं शेषा वै मण्डलानि परिभ्रमविमल पूज्यसद्भाववृन्दम् । आदावष्टादशान्तं कुलक्रमसकल मण्डलोत्थानपूर्वं ? संस्कार” त्रिक्रमेण” पशुमलक्षयकृत् पिण्डशुद्धिः शिवाग्नौ ॥। ३ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "Siz",
+            "vA",
+            "maRqala"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "Siz",
+            "vA",
+            "maRqala"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.5.a559",
+      "short_id": "mbt.2.5",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "कुमारिकाखण्डः वृत्ताध्युष्ट क्रमार्थ रचितमनुभवं खञ्जिनीमूर्तिपूर्व दिव्योऽय देवसंज्ञ पुनरपि अपर मानवं त्रिक्रमौघम् । भेदानेकैर्विभिन्न” सकलपदक्रमं मण्डलं षट्प्रकार ६८ संकेत कादिपूर्व सकलगुणयुतं मण्डलं भैरव तम् ।। ५ ।।",
+      "source_clean": "कुमारिकाखण्डः वृत्ताध्युष्ट क्रमार्थ रचितमनुभवं खञ्जिनीमूर्तिपूर्व दिव्योऽय देवसंज्ञ पुनरपि अपर मानवं त्रिक्रमौघम् । भेदानेकैर्विभिन्न” सकलपदक्रमं मण्डलं षट्प्रकार ६८ संकेत कादिपूर्व सकलगुणयुतं मण्डलं भैरव तम् ।। ५ ।।",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "KaRq",
+            "aDi",
+            "i",
+            "deva",
+            "punar",
+            "apara",
+            "prakf",
+            "kit",
+            "BErava",
+            "tay"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 10
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "KaRq",
+            "aDi",
+            "i",
+            "deva",
+            "punar",
+            "apara",
+            "prakf",
+            "kit",
+            "BErava",
+            "tay"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "mbt.v1.7.5385",
+      "short_id": "mbt.2.7",
+      "work_id": "mbt_kumarikakhanda",
+      "track": "c_adversarial",
+      "source_iast": "तस्यावरणमादाय कीदृक् ” चैव पदक्रमम्” । ७४ सृष्टिन्याये चतुष्कं तु अकुल तु कथं भवेत् ॥ ७ ॥",
+      "source_clean": "तस्यावरणमादाय कीदृक् ” चैव पदक्रमम्” । ७४ सृष्टिन्याये चतुष्कं तु अकुल तु कथं भवेत् ॥ ७ ॥",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tad",
+            "ca",
+            "i",
+            "tu",
+            "aj",
+            "tu",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 7
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tad",
+            "ca",
+            "i",
+            "tu",
+            "aj",
+            "tu",
+            "BU"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.11",
+      "short_id": "vb.11",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+      "source_clean": "na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "triSirA",
+            "śakti"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "triSirA",
+            "śakti"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.16",
+      "short_id": "vb.16",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "evaṃvidhe pare tattve kaḥ pūjyaḥ kaś ca tṛpyati",
+      "source_clean": "evaṃvidhe pare tattve kaḥ pūjyaḥ kaś ca tṛpyati",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "pUjya"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "pUjya"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.21",
+      "short_id": "vb.21",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "jñāyate digvibhāgādi tadvac chaktyā śivaḥ priye",
+      "source_clean": "jñāyate digvibhāgādi tadvac chaktyā śivaḥ priye",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [],
+          "frame": "IdentityClaim",
+          "energy": -0.35,
+          "n_selected": 0
+        },
+        "D_full_sanskritree": {
+          "lemmas": [],
+          "frame": "IdentityClaim",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.24",
+      "short_id": "vb.24",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "utpattidvitayasthāne bharaṇād bharitā sthitiḥ",
+      "source_clean": "utpattidvitayasthāne bharaṇād bharitā sthitiḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "utpatti",
+            "dvitaya"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "utpatti",
+            "dvitaya"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.31",
+      "short_id": "vb.31",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "nirvikalpaṃ manaḥ kṛtvā sarvordhve sarvagodgamaḥ",
+      "source_clean": "nirvikalpaṃ manaḥ kṛtvā sarvordhve sarvagodgamaḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "nirvikalpa"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "nirvikalpa"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.38",
+      "short_id": "vb.38",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "śabdabrahmaṇi niṣṇātaḥ param brahmādhigacchati",
+      "source_clean": "śabdabrahmaṇi niṣṇātaḥ param brahmādhigacchati",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "nizRAta",
+            "param"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "nizRAta",
+            "param"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.44",
+      "short_id": "vb.44",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "śarīranirapekṣiṇyā śaktyā śūnyamanā bhavet",
+      "source_clean": "śarīranirapekṣiṇyā śaktyā śūnyamanā bhavet",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SarIra"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SarIra"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.36",
+      "short_id": "vb.36",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+      "source_clean": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.4,
+          "n_selected": 0
+        },
+        "D_full_sanskritree": {
+          "lemmas": [],
+          "frame": "Instruction",
+          "energy": -0.4,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.42",
+      "short_id": "vb.42",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "ardhendubindunādāntaḥ śūnyoccārād bhavec chivaḥ",
+      "source_clean": "ardhendubindunādāntaḥ śūnyoccārād bhavec chivaḥ",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "arDa",
+            "indu",
+            "dAnta"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "arDa",
+            "indu",
+            "dAnta"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.48",
+      "short_id": "vb.48",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "na kiṃcid antare tasya dhyāyann adhyeyabhāg bhavet",
+      "source_clean": "na kiṃcid antare tasya dhyāyann adhyeyabhāg bhavet",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "aDi-eya",
+            "BAj"
+          ],
+          "frame": "Instruction",
+          "energy": -0.375,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "aDi-eya",
+            "BAj"
+          ],
+          "frame": "Instruction",
+          "energy": -0.375,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.61",
+      "short_id": "vb.61",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+      "source_clean": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "yugapad"
+          ],
+          "frame": "Instruction",
+          "energy": -0.4,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "yugapad"
+          ],
+          "frame": "Instruction",
+          "energy": -0.4,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.79",
+      "short_id": "vb.79",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+      "source_clean": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "kakza",
+            "kurvat"
+          ],
+          "frame": "Instruction",
+          "energy": -0.3667,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "kakza",
+            "kurvat"
+          ],
+          "frame": "Instruction",
+          "energy": -0.3667,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.83",
+      "short_id": "vb.83",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "praśānte mānase bhāve devi divyaugham āpnuyāt",
+      "source_clean": "praśānte mānase bhāve devi divyaugham āpnuyāt",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "praSAnti",
+            "OGa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 2
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "praSAnti",
+            "OGa"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "vb.88",
+      "short_id": "vb.88",
+      "work_id": "vijnanabhairava",
+      "track": "c_adversarial",
+      "source_iast": "prasārya bhairavaṃ rūpam bhāvayaṃs tanmayo bhavet",
+      "source_clean": "prasārya bhairavaṃ rūpam bhāvayaṃs tanmayo bhavet",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tanmaya"
+          ],
+          "frame": "Instruction",
+          "energy": -0.2667,
+          "n_selected": 1
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tanmaya"
+          ],
+          "frame": "Instruction",
+          "energy": -0.2667,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.13",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.15",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.4",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.1.2",
+      "short_id": "sp.1.8",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "source_clean": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "anAvfta",
+            "rUpatva",
+            "anna"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.6",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "spk.2.6",
+      "short_id": "sp.2.10",
+      "work_id": "spandakarika",
+      "track": "c_adversarial",
+      "source_iast": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "source_clean": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 3
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "tadAtmatAsamApattiH",
+            "iz1",
+            "sADaka"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.20.d848",
+      "short_id": "bg.2.20",
+      "work_id": "bhagavad_gita",
+      "track": "c_adversarial",
+      "source_iast": "bhg 1.20-23 atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasaṃpāte dhanur udyamya pāṇḍavaḥ ||20||",
+      "source_clean": "bhg 1.20-23 atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasaṃpāte dhanur udyamya pāṇḍavaḥ ||20||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "aTa",
+            "vyavasTA",
+            "dfS",
+            "f",
+            "kapiDvaja",
+            "pravft",
+            "udyam",
+            "pARqava"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 8
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "aTa",
+            "vyavasTA",
+            "dfS",
+            "f",
+            "kapiDvaja",
+            "pravft",
+            "udyam",
+            "pARqava"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.47.41e7",
+      "short_id": "bg.2.47",
+      "work_id": "bhagavad_gita",
+      "track": "c_adversarial",
+      "source_iast": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+      "source_clean": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "aDikf",
+            "tA",
+            "mA",
+            "Pal",
+            "katT",
+            "mA",
+            "Pal",
+            "BU",
+            "mA",
+            "tA",
+            "akarman"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "n_selected": 11
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "aDikf",
+            "tA",
+            "mA",
+            "Pal",
+            "katT",
+            "mA",
+            "Pal",
+            "BU",
+            "mA",
+            "tA",
+            "akarman"
+          ],
+          "frame": "DevotionalAct",
+          "energy": 0.0,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhagavad_gita.x.30.1227",
+      "short_id": "bg.2.30",
+      "work_id": "bhagavad_gita",
+      "track": "c_adversarial",
+      "source_iast": "śrīdhara: kim abravīd ity apekṣāyām āha dṛṣṭvemān ity ādi yāvad adhyāya-samāpti | he kṛṣṇa yoddhum icchataḥ purataḥ samavasthitān svajanān bandhu-janān dṛṣṭvā madīyāni gātrāṇi karacaraṇādīni sīdanti viśīryante | kiṃ ca vepahtuś cetyādi | vepathuḥ kampaḥ | romaharṣaḥ romāñcaḥ | sraṃsate nipatati | paridahyate sarvataḥ santapyate ||28-29|| viśvanātha: dṛṣṭvety atra sthitasyety adhyāhāryam ||28-29|| baladeva: kaunteyaḥ śoka-vyākulaṃ yad āha tad anuvadati dṛṣṭvemam iti | svajanaṃ sva-bandhu-vargaṃ jātāv eka-vacanaṃ sa-gotra-bāndhava-jñāti-bandhu-sva-svajanāḥ samāḥ ity amaraḥ | dṛṣṭvāsavthitasya mama gātrāṇi kara-caraṇādīni sīdanti śīryante pariśuṣyatīti śramādi-hetukāc choṣād atiśayitvam asya śoṣasya vyajyate | vepathuḥ kampaḥ | romaharṣaḥ pulakaḥ | gāṇḍīva-bhraṃśenādhairyaṃ tvag-dāhnea hṛd-vidāho darśitaḥ ||28-29|| bhg 1.30 na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ | nimittāni ca paśyāmi viparītāni keśava ||30||",
+      "source_clean": "śrīdhara: kim abravīd ity apekṣāyām āha dṛṣṭvemān ity ādi yāvad adhyāya-samāpti | he kṛṣṇa yoddhum icchataḥ purataḥ samavasthitān svajanān bandhu-janān dṛṣṭvā madīyāni gātrāṇi karacaraṇādīni sīdanti viśīryante | kiṃ ca vepahtuś cetyādi | vepathuḥ kampaḥ | romaharṣaḥ romāñcaḥ | sraṃsate nipatati | paridahyate sarvataḥ santapyate ||28-29|| viśvanātha: dṛṣṭvety atra sthitasyety adhyāhāryam ||28-29|| baladeva: kaunteyaḥ śoka-vyākulaṃ yad āha tad anuvadati dṛṣṭvemam iti | svajanaṃ sva-bandhu-vargaṃ jātāv eka-vacanaṃ sa-gotra-bāndhava-jñāti-bandhu-sva-svajanāḥ samāḥ ity amaraḥ | dṛṣṭvāsavthitasya mama gātrāṇi kara-caraṇādīni sīdanti śīryante pariśuṣyatīti śramādi-hetukāc choṣād atiśayitvam asya śoṣasya vyajyate | vepathuḥ kampaḥ | romaharṣaḥ pulakaḥ | gāṇḍīva-bhraṃśenādhairyaṃ tvag-dāhnea hṛd-vidāho darśitaḥ ||28-29|| bhg 1.30 na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ | nimittāni ca paśyāmi viparītāni keśava ||30||",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SrIDara",
+            "kim",
+            "apekzA",
+            "brU",
+            "a",
+            "AdA",
+            "aDyAya",
+            "ha",
+            "kfzRa",
+            "yuD",
+            "iz",
+            "puratas",
+            "sa",
+            "su",
+            "jana",
+            "dfS",
+            "madIya",
+            "gAtra",
+            "sad",
+            "viSF",
+            "ca",
+            "ca",
+            "vep",
+            "kamp",
+            "romaharza",
+            "aYc",
+            "sraMs",
+            "nipat",
+            "sarvatas",
+            "saMtap",
+            "viSvanATa",
+            "atra",
+            "aDyAhf",
+            "baladeva",
+            "kOnteya",
+            "brU",
+            "anuvad",
+            "dfS",
+            "i",
+            "jYA",
+            "sam",
+            "amara",
+            "mA",
+            "gAtra",
+            "kf",
+            "sad",
+            "SI",
+            "a",
+            "Suz",
+            "vyaYj",
+            "vep",
+            "kamp",
+            "romaharza",
+            "pulaka",
+            "darSi",
+            "na",
+            "ca",
+            "Bram",
+            "ca",
+            "mA",
+            "man",
+            "nimitta",
+            "ca",
+            "dfS",
+            "viparItA",
+            "keSava"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "n_selected": 66
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SrIDara",
+            "kim",
+            "apekzA",
+            "brU",
+            "a",
+            "AdA",
+            "aDyAya",
+            "ha",
+            "kfzRa",
+            "yuD",
+            "iz",
+            "puratas",
+            "sa",
+            "su",
+            "jana",
+            "dfS",
+            "madIya",
+            "gAtra",
+            "sad",
+            "viSF",
+            "ca",
+            "ca",
+            "vep",
+            "kamp",
+            "romaharza",
+            "aYc",
+            "sraMs",
+            "nipat",
+            "sarvatas",
+            "saMtap",
+            "viSvanATa",
+            "atra",
+            "aDyAhf",
+            "baladeva",
+            "kOnteya",
+            "brU",
+            "anuvad",
+            "dfS",
+            "i",
+            "jYA",
+            "sam",
+            "amara",
+            "mA",
+            "gAtra",
+            "kf",
+            "sad",
+            "SI",
+            "a",
+            "Suz",
+            "vyaYj",
+            "vep",
+            "kamp",
+            "romaharza",
+            "pulaka",
+            "darSi",
+            "na",
+            "ca",
+            "Bram",
+            "ca",
+            "mA",
+            "man",
+            "nimitta",
+            "ca",
+            "dfS",
+            "viparItA",
+            "keSava"
+          ],
+          "frame": "Instruction",
+          "energy": -0.35,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.1",
+      "short_id": "bv.1",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "c_adversarial",
+      "source_iast": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+      "source_clean": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "hfd",
+            "vand",
+            "maya",
+            "cit2"
+          ],
+          "frame": "Instruction",
+          "energy": -0.25,
+          "n_selected": 4
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "hfd",
+            "vand",
+            "maya",
+            "cit2"
+          ],
+          "frame": "Instruction",
+          "energy": -0.25,
+          "lean_gated": true
+        }
+      }
+    },
+    {
+      "id": "bhairavastava.4",
+      "short_id": "bv.4",
+      "work_id": "abhinavagupta_bhairavastava",
+      "track": "c_adversarial",
+      "source_iast": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+      "source_clean": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+      "system_outputs": {
+        "C_sanskritree_nolean": {
+          "lemmas": [
+            "SaNkara",
+            "sevana1",
+            "cintana",
+            "DI2",
+            "iras"
+          ],
+          "frame": "Instruction",
+          "energy": -0.225,
+          "n_selected": 5
+        },
+        "D_full_sanskritree": {
+          "lemmas": [
+            "SaNkara",
+            "sevana1",
+            "cintana",
+            "DI2",
+            "iras"
+          ],
+          "frame": "Instruction",
+          "energy": -0.225,
+          "lean_gated": true
+        }
+      }
+    }
+  ]
+}

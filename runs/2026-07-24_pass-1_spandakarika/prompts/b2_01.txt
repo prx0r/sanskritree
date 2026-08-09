@@ -1,0 +1,12 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit
+
+LEXICAL EVIDENCE:
+  anAvfta: uncovered
+  rUpatva: [unrecognized: rUpatva]
+  anna: [unrecognized: anna]
+
+FRAME: Instruction
+
+Translate the verse using the provided evidence. Do not add unsupported content.

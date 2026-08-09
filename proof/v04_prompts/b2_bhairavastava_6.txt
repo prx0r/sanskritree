@@ -1,0 +1,15 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6
+
+LEXICAL EVIDENCE:
+  BAva: [unrecognized: BAva]
+  parA: [unrecognized: parA]
+  aha: [unrecognized: aha]
+  a: [unrecognized: a]
+  nirvf: [unrecognized: nirvf]
+  i: to go
+
+FRAME: IdentityClaim
+
+Translate the verse using the provided evidence. Do not add unsupported content.

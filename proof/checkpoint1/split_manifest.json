@@ -1,0 +1,396 @@
+{
+  "split_id": "spanda_30_13_10_v1",
+  "created_at": "2026-07-24T14:40:00Z",
+  "commit": "c36c980",
+  "selection_method": "deterministic SHA-256 seed from commit hash + date, stratified by adhikarana, created before any reference inspection",
+  "pretranslation_inspection": false,
+  "seed": 3203525499,
+  "development": {
+    "count": 30,
+    "verses": [
+      "spk.1.2",
+      "spk.1.3",
+      "spk.1.4",
+      "spk.1.6",
+      "spk.1.7",
+      "spk.1.8",
+      "spk.1.9",
+      "spk.1.10",
+      "spk.1.13",
+      "spk.1.14",
+      "spk.1.16",
+      "spk.1.17",
+      "spk.1.18",
+      "spk.1.23",
+      "spk.2.1",
+      "spk.2.2",
+      "spk.2.5",
+      "spk.2.7",
+      "spk.3.2",
+      "spk.3.3",
+      "spk.3.4",
+      "spk.3.6",
+      "spk.3.7",
+      "spk.3.8",
+      "spk.3.11",
+      "spk.3.13",
+      "spk.3.15",
+      "spk.3.16",
+      "spk.3.17",
+      "spk.4.1"
+    ]
+  },
+  "internal_holdout": {
+    "count": 13,
+    "verses": [
+      "spk.1.5",
+      "spk.1.20",
+      "spk.1.21",
+      "spk.1.22",
+      "spk.1.24",
+      "spk.1.25",
+      "spk.2.4",
+      "spk.2.6",
+      "spk.3.1",
+      "spk.3.9",
+      "spk.3.12",
+      "spk.3.14",
+      "spk.3.18"
+    ]
+  },
+  "final_challenge": {
+    "count": 10,
+    "verses": [
+      "spk.1.1",
+      "spk.1.11",
+      "spk.1.12",
+      "spk.1.15",
+      "spk.1.19",
+      "spk.2.3",
+      "spk.3.5",
+      "spk.3.10",
+      "spk.3.19",
+      "spk.4.2"
+    ]
+  },
+  "all_verses": [
+    {
+      "sequence_index": 0,
+      "adhikarana": 1,
+      "verse_id": "spk.1.1",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 1,
+      "adhikarana": 1,
+      "verse_id": "spk.1.2",
+      "split": "development"
+    },
+    {
+      "sequence_index": 2,
+      "adhikarana": 1,
+      "verse_id": "spk.1.3",
+      "split": "development"
+    },
+    {
+      "sequence_index": 3,
+      "adhikarana": 1,
+      "verse_id": "spk.1.4",
+      "split": "development"
+    },
+    {
+      "sequence_index": 4,
+      "adhikarana": 1,
+      "verse_id": "spk.1.5",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 5,
+      "adhikarana": 1,
+      "verse_id": "spk.1.6",
+      "split": "development"
+    },
+    {
+      "sequence_index": 6,
+      "adhikarana": 1,
+      "verse_id": "spk.1.7",
+      "split": "development"
+    },
+    {
+      "sequence_index": 7,
+      "adhikarana": 1,
+      "verse_id": "spk.1.8",
+      "split": "development"
+    },
+    {
+      "sequence_index": 8,
+      "adhikarana": 1,
+      "verse_id": "spk.1.9",
+      "split": "development"
+    },
+    {
+      "sequence_index": 9,
+      "adhikarana": 1,
+      "verse_id": "spk.1.10",
+      "split": "development"
+    },
+    {
+      "sequence_index": 10,
+      "adhikarana": 1,
+      "verse_id": "spk.1.11",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 11,
+      "adhikarana": 1,
+      "verse_id": "spk.1.12",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 12,
+      "adhikarana": 1,
+      "verse_id": "spk.1.13",
+      "split": "development"
+    },
+    {
+      "sequence_index": 13,
+      "adhikarana": 1,
+      "verse_id": "spk.1.14",
+      "split": "development"
+    },
+    {
+      "sequence_index": 14,
+      "adhikarana": 1,
+      "verse_id": "spk.1.15",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 15,
+      "adhikarana": 1,
+      "verse_id": "spk.1.16",
+      "split": "development"
+    },
+    {
+      "sequence_index": 16,
+      "adhikarana": 1,
+      "verse_id": "spk.1.17",
+      "split": "development"
+    },
+    {
+      "sequence_index": 17,
+      "adhikarana": 1,
+      "verse_id": "spk.1.18",
+      "split": "development"
+    },
+    {
+      "sequence_index": 18,
+      "adhikarana": 1,
+      "verse_id": "spk.1.19",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 19,
+      "adhikarana": 1,
+      "verse_id": "spk.1.20",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 20,
+      "adhikarana": 1,
+      "verse_id": "spk.1.21",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 21,
+      "adhikarana": 1,
+      "verse_id": "spk.1.22",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 22,
+      "adhikarana": 1,
+      "verse_id": "spk.1.23",
+      "split": "development"
+    },
+    {
+      "sequence_index": 23,
+      "adhikarana": 1,
+      "verse_id": "spk.1.24",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 24,
+      "adhikarana": 1,
+      "verse_id": "spk.1.25",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 25,
+      "adhikarana": 2,
+      "verse_id": "spk.2.1",
+      "split": "development"
+    },
+    {
+      "sequence_index": 26,
+      "adhikarana": 2,
+      "verse_id": "spk.2.2",
+      "split": "development"
+    },
+    {
+      "sequence_index": 27,
+      "adhikarana": 2,
+      "verse_id": "spk.2.3",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 28,
+      "adhikarana": 2,
+      "verse_id": "spk.2.4",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 29,
+      "adhikarana": 2,
+      "verse_id": "spk.2.5",
+      "split": "development"
+    },
+    {
+      "sequence_index": 30,
+      "adhikarana": 2,
+      "verse_id": "spk.2.6",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 31,
+      "adhikarana": 2,
+      "verse_id": "spk.2.7",
+      "split": "development"
+    },
+    {
+      "sequence_index": 32,
+      "adhikarana": 3,
+      "verse_id": "spk.3.1",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 33,
+      "adhikarana": 3,
+      "verse_id": "spk.3.2",
+      "split": "development"
+    },
+    {
+      "sequence_index": 34,
+      "adhikarana": 3,
+      "verse_id": "spk.3.3",
+      "split": "development"
+    },
+    {
+      "sequence_index": 35,
+      "adhikarana": 3,
+      "verse_id": "spk.3.4",
+      "split": "development"
+    },
+    {
+      "sequence_index": 36,
+      "adhikarana": 3,
+      "verse_id": "spk.3.5",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 37,
+      "adhikarana": 3,
+      "verse_id": "spk.3.6",
+      "split": "development"
+    },
+    {
+      "sequence_index": 38,
+      "adhikarana": 3,
+      "verse_id": "spk.3.7",
+      "split": "development"
+    },
+    {
+      "sequence_index": 39,
+      "adhikarana": 3,
+      "verse_id": "spk.3.8",
+      "split": "development"
+    },
+    {
+      "sequence_index": 40,
+      "adhikarana": 3,
+      "verse_id": "spk.3.9",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 41,
+      "adhikarana": 3,
+      "verse_id": "spk.3.10",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 42,
+      "adhikarana": 3,
+      "verse_id": "spk.3.11",
+      "split": "development"
+    },
+    {
+      "sequence_index": 43,
+      "adhikarana": 3,
+      "verse_id": "spk.3.12",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 44,
+      "adhikarana": 3,
+      "verse_id": "spk.3.13",
+      "split": "development"
+    },
+    {
+      "sequence_index": 45,
+      "adhikarana": 3,
+      "verse_id": "spk.3.14",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 46,
+      "adhikarana": 3,
+      "verse_id": "spk.3.15",
+      "split": "development"
+    },
+    {
+      "sequence_index": 47,
+      "adhikarana": 3,
+      "verse_id": "spk.3.16",
+      "split": "development"
+    },
+    {
+      "sequence_index": 48,
+      "adhikarana": 3,
+      "verse_id": "spk.3.17",
+      "split": "development"
+    },
+    {
+      "sequence_index": 49,
+      "adhikarana": 3,
+      "verse_id": "spk.3.18",
+      "split": "holdout"
+    },
+    {
+      "sequence_index": 50,
+      "adhikarana": 3,
+      "verse_id": "spk.3.19",
+      "split": "challenge"
+    },
+    {
+      "sequence_index": 51,
+      "adhikarana": 4,
+      "verse_id": "spk.4.1",
+      "split": "development"
+    },
+    {
+      "sequence_index": 52,
+      "adhikarana": 4,
+      "verse_id": "spk.4.2",
+      "split": "challenge"
+    }
+  ]
+}

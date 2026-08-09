@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "status": "PASS",
+      "message": "No Spanda refs in translations"
+    },
+    {
+      "status": "WARN",
+      "message": "Dyczkowski(1)/Singh(0) in translators"
+    },
+    {
+      "status": "PASS",
+      "message": "28 total evaluations in DB"
+    },
+    {
+      "status": "PASS",
+      "message": "PYTHONPATH clear of ref paths"
+    },
+    {
+      "status": "PASS",
+      "message": "References dir empty"
+    },
+    {
+      "status": "PASS",
+      "message": "Pass 1: 53 records, ref_blind=True"
+    }
+  ],
+  "overall_pass": true,
+  "disclaimer": "Tests verify software isolation. Cannot rule out LLM pretraining exposure."
+}

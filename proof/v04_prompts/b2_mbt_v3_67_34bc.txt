@@ -1,0 +1,19 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।
+
+LEXICAL EVIDENCE:
+  IS: [unrecognized: IS]
+  jYA: to know
+  vac: to speak
+  guru: teacher
+  kf: to do
+  hati: [unrecognized: hati]
+  ca: and
+  punar: [unrecognized: punar]
+  punar: [unrecognized: punar]
+  vA: [unrecognized: vA]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

@@ -1,0 +1,613 @@
+chapter 3
+
+A Geometry of Chords
+We now turn to geometrical models in which chords are represented as points in
+higher dimensional spaces. As we will see, these “chord spaces” are a good deal more
+interesting than the plain-vanilla space of ordinary Euclidean experience, containing
+twists, mirrors, Möbius strips, and their higher dimensional analogues. Besides being
+extraordinarily beautiful, these geometrical models clearly illustrate musical principles that can otherwise be quite difﬁcult to grasp.1 In particular, we can use them to
+construct “voice-leading graphs” that depict the basic contrapuntal relations between
+the familiar chords and scales of Western music, graphs that will serve as the principal
+analytical tools of the second half of this book.
+
+3.1
+
+ordered pitch space
+
+Chapter 2 introduced the basic musical object, or ordered sequence of pitches. Figure 3.1.1 shows that there are two ways to represent these objects geometrically. In Figure 3.1.1a we represent ordered pairs of notes using a gray circle for the ﬁrst note and a
+black circle for the second. (We need different colors because the pairs are ordered, and
+we need to differentiate the ﬁrst note from the second.) In Figure 3.1.1b, the horizontal
+axis represents the ﬁrst pitch while the vertical axis indicates the second. Each model
+therefore has two degrees of freedom: in the ﬁrst, we can move either circle independently of the other; in the second, we can move along one axis while holding ﬁxed our
+position on the other. It is more or less a matter of convenience whether we wish to
+represent two-note objects using two points in a one-dimensional space, as we did in
+Chapter 2, or one point in a two-dimensional space. However, the models are different
+in at least one important respect. It is easy to see how to ignore octave and order in
+the ﬁrst, linear model: we simply represent all notes using same color (thereby ignoring order) and wrap the line into a circle (thereby ignoring octaves and reproducing
+pitch-class space). But it is not at all clear how we should modify the two-dimensional
+representation in those situations where we wish to ignore these musical parameters.
+
+1 The ideas in this chapter are based on Tymoczko 2006 and 2008b, which are in turn inspired by
+earlier geometrical work on “chord-type spaces,” including Roeder 1984, 1987, 1994, Cohn 2003, and Callender 2004. For a comprehensive account of a wide range of geometrical spaces, see Callender, Quinn,
+and Tymoczko 2008.
+
+66
+
+theory
+Figure 3.1.1 Two ways to represent the ordered pair (C4, E4). The ﬁrst uses two points in a
+one-dimensional space—here, the gray circle represents the ﬁrst note, and the black ball the
+second. The second uses a single point in a two-dimensional space.
+
+Figure 3.1.2
+A voice
+leading can be
+represented as a
+line segment in
+the plane. Here,
+the voice leading
+(C4, E4)®(E4,
+C4), in which the
+ﬁrst and second
+voices trade
+notes.
+
+In the one-dimensional space, progressions between objects are represented by
+collections of paths (cf. Figure 2.5.4). In
+the two-dimensional space, progressions
+can be represented by line segments such as
+that in Figure 3.1.2, which depicts a situation in which the voices trade notes. Figure
+3.1.3 uses line segments to model a twovoice passage from Josquin’s Missa l’homme
+armé. With a little practice, it becomes easy
+to translate two-voice music into a series of
+line segments in the space. Any two-voice
+passage of music, in any style whatsoever,
+can be depicted in this way.
+Horizontal and vertical line segments represent motion in a single voice (Figure
+3.1.4). Parallel motion, in which the two voices move in the same direction by the same
+amount, is represented by lines parallel to the 45° NE/SW diagonal, while perfect contrary motion—in which the voices move the same distance in opposite directions—is
+represented by lines parallel to the 45° NW/SE diagonal. It turns out to be somewhat
+more convenient to rotate the space clockwise by 45°, so that parallel motion is horizontal and perfect contrary motion is vertical. Chords on the same horizontal line
+now relate by transposition; chords on the same vertical line sum to the same value
+when pitches are represented numerically. (This follows from the fact that perfect contrary motion subtracts from one voice what it adds to the other.) Oblique motion
+now moves along the 45° diagonals: motion in the ﬁrst voice occurs along the NW/SE
+diagonal, while motion in the second occurs along the NE/SW diagonal. This rotation
+does not change the space in any way; we are simply changing our perspective on it.
+
+A Geometry of Chords
+Figure 3.1.3
+A passage from Josquin
+represented in twodimensional space.
+
+Figure 3.1.4 Rotating two-note ordered pitch space.
+
+Figure 3.1.5 depicts an extended portion of two-dimensional ordered pitch space,
+with the axes rotated as just described. The most striking feature of this graph is its
+periodicity: like a piece of wallpaper, it consists of a single pattern (or “tile”) that is
+repeated to cover the larger plane. The ﬁgure contains four complete tiles. The points
+in the lower left quadrant are related by octave transposition to the corresponding
+points in the upper right: the ﬁrst element in each pair is the same, while the second
+element in the lower left pair is one octave below the second element in the upper
+right pair. Moving from the lower left quadrant to the corresponding point in the
+upper right will therefore transpose the second note up by an octave. Similarly, moving from the upper left to the corresponding point in the lower right shifts the ﬁrst
+element up by an octave. Since any quadrant can be connected by a series of diagonal
+motions to one of the quadrants in Figure 3.1.5, and since diagonal motion between
+quadrants always corresponds to octave transposition in one voice, the rest of the
+inﬁnite space can be generated from this ﬁgure.
+
+67
+
+68
+
+theory
+
+Figure 3.1.5
+A portion of
+inﬁnite, twodimensional
+ordered pitch
+space.
+
+Figure 3.1.6
+Ordered pitch
+space is like
+a piece of
+wallpaper.
+
+What about the lower left and upper left quadrants? Here, the relationship is
+somewhat harder to grasp. Imagine that there were a hinge connecting them, so
+that the bottom-left quadrant could be lifted out of the paper and ﬂipped onto the
+upper left. This transformation maps each pair in the lower quadrant onto a pair
+with the same pitch content, but in the reverse order. Geometrically, the transformation is a reﬂection: a pair in the lower left quadrant gets sent to the spot where
+its reﬂection would appear if the common border were a mirror. When we move
+a dyad from the lower left quadrant to its reﬂected image in the upper left, we
+therefore switch the order of its notes. The two rightmost quadrants are related in
+exactly the same way.
+Figure 3.1.6 depicts symbolically the
+relationship between the four tiles, using a
+right-side-up human face to represent the
+lower left tile. The upper left quadrant is
+upside down relative to the lower left: if they
+were connected by a hinge along their common border, then either could be ﬂipped
+over so as to coincide with the other. Similarly, the lower right tile is upside-down relative to the upper right. The lower right tile
+is also upside-down relative to the lower left
+tile, but in this case they cannot be related by
+
+A Geometry of Chords
+
+69
+
+reﬂection along their common border—that process would exchange left and right,
+but not up and down.
+
+3.2
+
+the parable of the ant
+
+Imagine now that an ant is walking along the wallpaper in Figure 3.1.6. Suppose that
+you and I are gambling types and decide to bet on whether the ant will touch a pipe
+in the next 30 seconds. For the purpose of settling the bet, it does not matter which
+tile the ant is on; what matters is whether it touches any pipe in any tile. We could
+therefore represent the ant’s trajectory on a single tile, as in Figure 3.2.1. (Perhaps
+we use a single tile because we want to record our game for posterity while being
+environmentally conscious and using the minimum amount of paper.) That is, we
+arbitrarily select one tile from Figure 3.1.6 and take the ant’s position to be the point
+on this tile corresponding to its position on the tile it actually occupies.
+Figure 3.2.1
+An ant’s path can
+be represented
+on a single tile.
+
+Although the underlying idea is simple, the structure of the resulting single-tile
+space is complex. For example, at the point marked a, the ant disappears off the lower
+left edge, only to reappear on the upper right. This is reminiscent of early video games
+such as Asteroids or Pac-Man, in which objects could move off one side of the screen
+to reappear on the other. Unlike those games, however, the ant leaves the lower half
+of the ﬁgure only to reappear on the upper half and vice versa, as if the left edge were
+attached to the right in a twisted fashion. The mathematical name for such a space is
+a Möbius strip.
+Now consider point b in the ant’s trajectory. In the single-tile representation the
+ant appears to “bounce off ” the ﬁgure’s upper edge, as if it were a mirror, or the
+bumper of a pool table. But we can see from Figure 3.2.1a that the ant’s actual trajectory is straight. Nothing intrinsic to the ant’s motion produces the change in direction—rather, it is the structure of the wallpaper on which it walks. The ant, being
+unaware of the wallpaper pattern, would have no knowledge that anything unusual
+was occurring.
+Note that the placement of the left and right boundaries is essentially arbitrary.
+For the purpose of settling the bet, one could equally depict the ant’s trajectory on
+
+70
+
+theory
+Figure 3.2.2 (a) The choice of left and right boundaries is arbitrary. (b) We could even
+represent the wallpaper without any left and right boundaries at all, if we stretched it
+horizontally and used the third dimension to attach the two edges. (c) The choice of upper
+and lower boundaries is not arbitrary, since this ﬁgure has no pipe.
+
+Figure 3.2.2a, which contains two half faces, one upside down and the other right
+side up. Though bizarre from an artistic point of view, it is perfectly adequate for
+gambling, since all parts of the ﬁgure are represented. If we were to stretch the ﬁgure horizontally, forming a rectangle rather than a square, we could even represent
+the tile in three dimensions without any left or right boundaries whatsoever—as in
+Figure 3.2.2b.2 By contrast, the location of the upper and lower boundaries is not
+arbitrary. Figure 3.2.2c shows that we cannot settle our bet using the space consisting
+of two halves of two vertically adjacent tiles, since that space contains two copies of
+the top half of the ﬁgure but none of the lower half.
+All this talk about ants, wallpaper, and gambling may seem like a distraction from
+the serious goal of understanding music. But in fact, the Parable of the Ant has introduced the fundamental concepts needed in the rest of this chapter. The key idea is
+that we can form a similar structure by “folding up” the two-dimensional musical
+space in Figure 3.1.5. In this case, ignoring what tile we are on corresponds to ignoring the order and octave of a pair of notes. In other words, the resulting space represents two-note chords as musicians are accustomed to thinking of them. Thus the
+Parable of the Ant, rather than being a frivolous digression, has actually marked the
+beginning of our investigation into a remarkable convergence between music theory
+and contemporary geometry.
+
+3.3
+
+two-note chord space
+
+Our goal is to “fold” the inﬁnite space of Figure 3.1.5 so as to glue together all the
+different points representing the same chord: (C4, E4), (E4, C4), (E5, C2), and so on.
+The result will be a new geometrical space, analogous to our single tile of wallpaper,
+
+2 By using the third dimension, we can attach the ﬁgure’s boundaries in the appropriate, twisted way.
+However, the ﬁgure remains intrinsically two-dimensional, since the ant can move in just two perpendicular
+directions at any point. The fact that we represent it using three dimensions simply reﬂects the difﬁculty
+of embedding the two-dimensional space in a Euclidean world. For a good nontechnical introduction to
+these issues, see Weeks 2002.
+
+A Geometry of Chords
+Figure 3.3.1 Two-note chord space. The left edge is “glued” to the right, with a twist.
+
+in which points represent two-note chords—or unordered pairs of pitch classes—
+rather than ordered pairs of pitches.
+Happily, the detailed work has already been done. The “wallpaper space” described
+in the preceding section was modeled on Figure 3.1.5, and we can immediately adapt
+our earlier results.3 Since each of the quadrants in Figure 3.1.5 contains precisely one
+point for every unordered set of pitch classes, any of them can be used to represent
+two-voice music. The two-note chord space shown in Figure 3.3.1 consists in a single
+quadrant of Figure 3.1.5, with octave designations removed to reﬂect the fact that we
+have discarded octave information. Although the points are labeled using ordered
+pairs, this ordering is not signiﬁcant: the point CDf represents the ordering (Df, C)
+just as much as it represents the ordering (C, Df). Accordingly, I will sometimes refer
+to this point as {C, Df} or {Df, C}.
+In §3.1, we rotated the coordinate axes so that parallel musical motion is represented by horizontal geometrical motion. This is again true in our new, “folded”
+space: horizontal motion represents parallel motion in both voices, while vertical
+motion represents contrary motion in which the two voices move in opposite directions by the same distance. (Oblique motion, in which one voice stays ﬁxed, is again
+represented by the 45° diagonals.) It follows that chords on the same horizontal line
+of Figure 3.3.1 are related by transposition: the top edge of the ﬁgure, for example,
+contains unisons—two-note chords in which both voices sound the same pitch
+
+3 People sometimes wonder why two-note chord space is a Möbius strip rather than the surface of a
+doughnut (or “torus”). The answer is that a torus models the space you get when you ignore octave but not
+order. On a torus, the point (C, E) is different from the point (E, C). While there are some musical purposes
+in which it is useful to distinguish these two orderings, there are many more in which it is not.
+
+71
+
+72
+
+theory
+Figure 3.3.2 The boundary of two-note
+chord space is an (abstract) circle, since you
+can move in one direction to return to your
+starting point. The circle is very similar to
+pitch-class space.
+
+class.4 Unisons can also be found on the bottom edge of the ﬁgure, with two of
+them—{C, C} and {Fs, Fs}—appearing on both edges. (Chords on the right side of
+the ﬁgure are enclosed in brackets, indicating that they also appear on the left side.)
+These duplications are different representations of the same chord, artifacts of the
+doomed attempt to depict a Möbius strip in two Euclidean dimensions. Intrinsically,
+the Möbius strip has only one edge: what appear as distinct line segments containing
+unisons are actually two halves of an abstract “circle,” since horizontal motion along
+the edge eventually returns to its starting point (§2.2). Figure 3.3.2 shows that this
+abstract circle is very similar to pitch-class space, with the only difference being that
+its points represent not single pitch classes but musical states in which two voices
+articulate the same pitch class.
+The other intervals are also found on horizontal line segments, one in the top half
+of the ﬁgure and one in the bottom. The horizontal line segment just below the top
+edge, and just above the bottom edge, contains minor seconds. (Again, these apparently different line segments are attached at their endpoints, forming two halves of an
+abstract circle.) Major seconds are just below the minor seconds on the top half and
+just above the minor seconds on the bottom. As the interval between the two notes
+gets larger, dividing the octave more evenly, the lines representing them move toward
+the center. Consequently, the horizontal line at the midpoint of the ﬁgure contains
+tritones, which divide the pitch-class circle into two halves.5
+Chords on the same vertical line can be linked by exact contrary motion: for
+instance, the voice leading (C, Fs)®(Df, F) moves C up by semitone and Fs down
+by semitone, and joins two chords on the same vertical line. It follows that every
+dyad lies on the same vertical line as its tritone transposition.6 Since exact contrary
+
+4 In these geometrical spaces, it is convenient to represent chords as multisets that can have multiple
+copies of particular pitch classes (§2.4). From this standpoint {C, E, E} is different from both {C, C, E} and
+{C, E}. We will return to this point shortly.
+5 The (abstract) circle containing tritones is therefore half as long as the (abstract) circles containing
+the other intervals. This is the analogue, in continuous musical space, of the statement that there are half
+as many (twelve-tone equal-tempered) tritones as there are instances of the other (twelve-tone equaltempered) intervals.
+6 One can always connect tritone-related dyads by contrary motion: given the dyad {C, E}, one can
+move C up by tritone to Fs, and E down by tritone to As.
+
+A Geometry of Chords
+
+motion preserves the sum of a chord’s pitch classes, chords on the same vertical line
+always sum to the same value. Thus {C, Fs}, {G, B}, and {Af, Bf}, which lie on the
+vertical line at the center of Figure 3.3.1, all sum to six using pitch-class arithmetic.7 (Note: this fact will be important later on, so make sure you understand it.) The
+pitch classes on the left edge of Figure 3.3.1 sum to zero. The sum of the chords in
+the vertical cross section increases as one moves rightward until we reach the right
+edge, whose chords again sum to zero (equivalent to twelve in pitch-class arithmetic).
+Finally, motion along the 45° diagonals alters just one note, so that (Cs, E) lies 45°
+northeast of (C, E). (Note, however, that diagonal motion can no longer be thought of
+as moving the “ﬁrst note” rather than the “second note” because we are now neglecting order.8) It is worth emphasizing that two-note chord space is continuous, containing every conceivable chord in every conceivable tuning system. A chord like (Cμ, E)
+(C quarter-tone sharp, E), though not labeled on the example, lies 45° northeast of
+(C, E), halfway to (Cs, E).
+
+3.4
+
+chord progressions and voice
+leadings in two-note chord space
+
+Our Möbius strip can be used to represent any chord progression and any voice leading between two-note chords. To represent a progression like {C, E}Þ{F, A} simply identify the initial point, {C, E}, and the ﬁnal point, {F, A}. It is not necessary
+to choose any particular path between them, because a chord progression does not
+specify exactly how the individual notes move (§2.5). It is as if the music magically
+teleports, disappearing at {C, E} and instantaneously reappearing at {F, A}, without
+occupying any of the places in between.
+A voice leading, by contrast, is represented by a particular path between chords,
+with the size of the voice leading corresponding to the length of the path. The simplest
+way to ﬁnd this path is to imagine each voice making a continuous glissando, beginning and ending at the same time. For example, (C, E)®(Ef, G) moves each voice
+up by three semitones. If each voice made a continuous glissando, the music would
+pass through a series of major thirds: (Df, F), (D, Fs), and countless others not accessible with an ordinary piano. These all lie on the horizontal line segment shown on
+Figure 3.4.1. Similarly, the voice leading (B, D)®(Af, F) moves each voice by three
+semitones in contrary motion. This voice leading passes through the chords {Bf, Ef},
+{A, E}, and a variety of other non-equal-tempered chords. It is therefore represented
+by the vertical line segment on the ﬁgure.
+A little experimentation will show that the boundaries of the ﬁgure behave
+exactly like the boundaries of our earlier wallpaper space. To see this, imagine making a smooth glissando from (Ef4, G4) to (F4, A4). Figure 3.4.2 indicates that the
+7 The sum of the pitch classes {B, G}, or {11, 7}, is 6, because we add or subtract 12 from our result until
+we obtain a number in the range 0 £ x < 12; 11 + 7 = 18, and 18 − 12 = 6 (§2.3).
+8 Instead, we should think of it as moving particular notes: when we move northeast from {C, E}, we
+raise C to Cs. In actual musical contexts the C might belong to either voice, and might appear above or
+below the E.
+
+73
+
+74
+
+theory
+Figure 3.4.1
+Voice leadings are
+represented by line
+segments. Parallel
+motion is horizontal,
+while perfect contrary
+motion is vertical.
+The voice leadings
+(C, E)®(Ef, G) and
+(B, D) ® (Af, F) are
+shown.
+
+glissando is initially represented by rightward motion on the top half of the strip,
+from {Ef, G} to {E, Gs}. However, the point {E, Gs} is represented both on the top
+half of the right edge and on the bottom half of the left edge. As we move from
+(E4, Gs4) to (F4, A4), the glissando now appears on the bottom half of the ﬁgure,
+moving from the lower-left {E, Gs} to {F, A}. Thus, as in the Parable of the Ant, the
+music disappears off the upper right edge only to reappear on the lower left. Alternatively, consider the smooth glissando from (C4, D4) to (E4, D4)—in which the
+
+Figure 3.4.2
+The horizontal
+boundaries act like
+mirrors, whereas the
+vertical boundaries are
+glued together with a
+“twist.” Voice leadings
+thus disappear off the
+left edge to reappear on
+the right, and vice versa.
+Here, the voice leadings
+(Ef, G) ® (F, A) and
+(C, D) ® (E, D) are
+shown.
+
+A Geometry of Chords
+
+ﬁrst voice moves from C4 to E4 while the second voice remains ﬁxed. The resulting
+path, illustrated in Figure 3.4.2, is represented by a line segment that begins at {C, D}
+and moves diagonally northeast to {D, D}. (Recall that motion in just a single voice
+always lies along a 45° diagonal.) However, the second half of the path is represented
+by a line segment moving diagonally southeast from {D, D} to {E, D}. As in the Parable of the Ant, what causes the apparent “change in direction” is the structure of the
+underlying space: musically, the ﬁrst voice moves smoothly upward from C4 to E4,
+and does not do anything strange at D4.
+Voice leadings are therefore represented by what might be called “generalized line
+segments” that can bounce off a mirror boundary, or disappear off one side of the
+ﬁgure only to reappear on the other. There is, in fact, a one-to-one correspondence
+between these “generalized line segments” and voice leadings: for every generalized
+line segment there is a voice leading in pitch-class space, and for every voice leading
+in pitch-class space there is a generalized line segment. In principle, there can be inﬁnitely many generalized line segments linking any two chords, each represented by a
+different pattern of reﬂections off the horizontal boundaries and “disappearances”
+off the left and right edges.
+The total amount of horizontal motion in a voice leading can be calculated
+algebraically by adding the pitch-class paths in the two voices. A voice leading like
+2, 1
+(C, E) ⎯⎯→(D,
+F) moves its two voices by a total of 2 + 1 = 3 semitones, and is therefore represented by a generalized line segment whose horizontal component moves
+−7, − 2
+→(F, D) moves its voices by −7 + −2 = −9 semi3 units to the right.9 (C, E) ⎯⎯⎯
+tones, and therefore moves 9 units to the left (Figure 3.4.3). Similarly, if one writes
+the voice leading so that the ﬁrst two notes are in the same order as they are on Figure
+3.3.1, then the total amount of vertical motion can be determined by subtracting the
+2, 1
+second path from the ﬁrst. For example, (C, E) ⎯⎯→(D, F) moves by a total of 2 −
+−3, 3
+→(Af, F) moves its voices by −3 − 3 = −6 units
+1 = 1 unit upward, while (B, D) ⎯⎯⎯
+upward, or 6 units downward.10 (The ﬁrst of these voice leadings is shown in Figure
+3.4.3, the second in Figure 3.4.1.) However, contact with any of the four “edges” of the
+5, − 2
+→(F, D) moves its voices by
+strip exchanges “downward” and “upward”: (C, E) ⎯⎯⎯
+5 − (−2) = 7 upward units, but it reaches the upper mirror boundary after just four of
+these; the remaining three steps are therefore taken in a descending direction (Figure
+−7, − 2
+→(F, D) moves its voices by −7 − (−2)
+3.4.3). Similarly, the voice leading (C, E) ⎯⎯⎯
+= −5 units, but when the path disappears off the left edge to reappear on the right, the
+direction turns upward. These algebraic principles provide a more systematic alternative to the method of imagining each voice making a continuous glissando. For an
+even simpler method readers can download a free computer program that plots voice
+leadings on the Möbius strip automatically.11
+9 A “unit” is the distance between adjacent vertical cross sections containing equal-tempered chords.
+Since there are twelve of these, the Möbius strip has a width of 12 units.
+10 A “unit” is the distance between adjacent horizontal lines containing equal-tempered chords; again,
+the Möbius strip is twelve units high.
+11 See the companion website for links to the “ChordGeometries” program.
+
+75
+
+76
+
+theory
+
+Figure 3.4.3
+Four voice
+leadings between
+{C, E} and {D, F},
+as represented on
+the Möbius strip.
+The amount
+of rightward
+motion can be
+calculated by
+adding the paths
+in the two voices;
+the amount of
+upward motion
+can be calculated
+by subtracting
+the second path
+from the ﬁrst.
+
+3.5
+
+geometry in analysis
+
+Figure 3.5.1 uses the Möbius strip to graph the eighth phrase of the Allelujia Justus
+et Palma, one of the earliest examples of Western counterpoint. The music begins by
+tracing out a pair of triangles, each of which represents a four-chord unit that returns
+to its starting point. (The triangles share a side because the last two chords of the
+ﬁrst unit are also the ﬁrst two chords of the second.) Having completed the second
+triangle, the music moves back to the initial {G, D} dyad, disappearing off the left
+edge and reappearing on the right. The ﬁnal voice leading retraces the (G, D)®(E, E)
+motion that begins the phrase.
+All of this, I believe, is considerably easier to see in Figure 3.5.1b than in traditional musical notation. The geometrical patterns virtually jump off the page, without
+any effort or concentration on the analyst’s part, whereas the corresponding musical patterns are much harder to identify. This is largely because our visual system is
+optimized for perceiving geometrical shapes such as triangles, but not for perceiving
+musical structures as expressed in standard musical notation. Translating the music
+into geometry thus allows us to bring our formidable visual pattern-matching skills
+to bear on musical analysis.
+
+A Geometry of Chords
+
+77
+Figure 3.5.1
+Plotting a phrase
+from the Allelujia
+Justus et Palma
+(a) on the
+Möbius strip (b)
+reveals interesting
+musical structure
+(c).
+
+Figure 3.5.2 provides a more sophisticated example.12 We begin with four voice
+leadings from the opening of Brahms’ Intermezzo, Op. 116 No. 5. Figure 3.5.2b graphs
+the voice leadings in two-note chord space, representing each measure as a pair of line
+segments forming an open angle. We can imagine sliding the pair {X1, X2} so that X1
+nearly coincides with Y1, and X2 nearly coincides with Y2. This represents the most
+obvious analysis of the passage, according to which voice leading Y1 is a slight variation
+of X1, and Y2 is a slight variation of X2. (That is, X1 moves its two voices by semitonal
+contrary motion, whereas Y1 moves by slightly skewed contrary motion; X2 moves in
+a skewed fashion, while Y2 moves in pure contrary motion.) Geometrically, however,
+it is clear that (Y1, Y2) is also the mirror image of (X1, X2). Hence we can move the
+pair (X1, X2) off the left edge so that it exactly coincides with (Y1, Y2), as in Figure
+3.5.2c. (Remember that an upward-pointing arrow becomes a downward-pointing
+arrow when it moves off one side of the ﬁgure to reappear along the other.) On this
+interpretation, Y2 is exactly equivalent to X1, and Y1 is exactly equivalent to X2. Figure
+3.5.2d represents this musically, heightening the comparison by switching hands and
+reordering dyads. Now both pairs begin with perfect contrary motion and move to less
+perfectly balanced motion, with melodies in each staff being transpositionally related.
+
+12 This example ﬁrst appeared in Callender, Quinn, and Tymoczko 2008.
+
+78
+Figure 3.5.2
+(a) Two passages
+from Brahms’
+Op. 116 No. 5,
+as plotted on
+the Möbius strip
+(b). It is natural
+to view Y1 and
+Y2 as variants
+of X1 and X2,
+respectively.
+However, it is
+clear from the
+graph that Y2
+and Y1 are also
+mirror images
+of X1 and X2.
+This means we
+can move the
+pair {X1, X2}
+off the left edge
+of the ﬁgure so
+that it coincides
+with {Y1, Y2} (c).
+On this reading,
+Y2 is related to
+X1, and Y1 is
+related to X2 (d).
+Here, “P” and
+“N” stand for
+“perfect” and
+“near perfect”
+contrary motion.
+
+theory
+
+A Geometry of Chords
+
+Playing through Brahms’ piece, I have always been
+dimly aware of these relationships—you feel in your
+ﬁngers the difference between the precisely contrary
+motion and the less balanced motion, and you feel
+the purely semitonal motion in the right hand of
+measures 1–2 moving to the left hand of mm. 3–4.
+However, it is quite difﬁcult to see the relationship in
+the musical notation, and rather hard to describe it using traditional terminology. By
+contrast, Figure 3.5.2b makes it obvious that the passages are mirror images—a fact
+that Brahms, with all his love for invertible counterpoint and other forms of compositional trickery, would no doubt have enjoyed.
+In these sorts of cases, geometry can help to sensitize us to relationships that
+might not be immediately apparent in the musical score. Ultimately, this is because
+conventional musical notation evolved to satisfy the needs of the performer rather
+than the musical thinker: it is designed to facilitate the translation of musical symbols
+into physical action, rather than to foment conceptual clarity. This is precisely why
+one and the same chord can be notated in such a bewildering variety of different
+ways (Figure 3.5.3). Learning the art of musical analysis is largely a matter of learning
+to overlook the redundancies and inefﬁciencies of ordinary musical notation. Our
+geometrical space simpliﬁes this process, stripping away musical details and allowing
+us to gaze directly upon the harmonic and contrapuntal relationships that underlie
+much of Western contrapuntal practice.
+
+3.6
+
+harmonic consistency and
+efficient voice leading
+
+Let’s pursue this further by returning to a more abstract question. Suppose you are
+a composer who wants to write two-part note-against-note counterpoint, in which
+transpositionally related dyads are linked by “stepwise” voice leading (or voice leading
+in which no voice moves by more than two semitones). Under what circumstances
+is this possible? In other words, how can we combine harmonic consistency and efﬁcient voice leading with just two voices?
+The question can be answered simply by inspecting two-note chord space.
+Transpositionally related dyads can be found on two horizontal line segments, one
+in the lower half of the strip and one in the upper half, equidistant from the central
+line of tritones; we are therefore looking for short line segments connecting points
+on these line segments. One solution is immediately clear, since we can move any
+chord horizontally to its transpositions. Unfortunately, these voice leadings involve
+parallel motion in the two voices, and are therefore somewhat unsatisfactory. If the
+goal is to write contrapuntal music that suggests independent melodies, then it will
+not do to move the voices in the same direction all the time; this would sound like
+a single melody being doubled at two pitch levels, rather than two distinct melodic
+voices.
+
+79
+Figure 3.5.3
+There are many
+ways to notate a
+C major chord.
+
+80
+
+theory
+Figure 3.6.1 Even dyads
+and uneven dyads can
+both be connected to
+their transpositions by
+stepwise voice leading.
+
+A second solution involves nearly even chords, which occupy horizontal line
+segments near the center of the space. Thus tritone-related perfect ﬁfths can be
+linked by semitonal voice leading, represented geometrically by a vertical arrow
+(Figure 3.6.1, second line of music). In addition, they can be linked to their ﬁfth
+transpositions by oblique voice leading in which one voice moves by two semitones.
+Major thirds, since they lie farther away from the center of the ﬁgure, can be linked
+only to their tritone transpositions by stepwise voice leading. Analogous voice leadings are available for the non-twelve-tone-equal-tempered intervals larger than a
+major third: in each case, the voice leading between tritone-related chords is the
+shortest, and is represented by a vertical line, with the other acceptable transpositions represented by slightly diagonal lines.
+There is also a third and even less obvious possibility: chords that divide the
+octave very unevenly—such as minor and major seconds—can be linked to themselves by short line segments reﬂecting off the nearby mirror boundary. For instance,
+the voice leading (D, Ef)®(Ef, D) connects a minor second to itself by stepwise contrary motion, and is represented by a vertical arrow. (Analogous voice leadings again
+exist for any of the non-twelve-tone-equal-tempered intervals smaller than the major
+second.) Given any such voice leading, we can always transpose the second chord
+by a small amount without much increasing the voice leading’s size. Consequently,
+small dyads can also be connected by stepwise voice leading to their one-semitone (or
+
+A Geometry of Chords
+
+smaller) transpositions. For these chords the short vertical arrows connect a chord to
+itself, while for nearly even dyads the vertical arrows connect a chord to its tritone transposition (Figure 3.6.1). Geometrically, the clustered chords reach their nearby transpositions by bouncing off the mirror, while nearly even chords cross the center of the
+Möbius strip, thereby taking advantage of its “twist.”13 Thus we see that our earlier conclusions about symmetry are manifest in the structure of the two-dimesional space.
+

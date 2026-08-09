@@ -1,0 +1,1483 @@
+Gregory Shaw
+
+19
+
+19
+
+Archetypal Psychology, Dreamwork,
+and Neoplatonism
+
+I. Introduction
+Not easy this – and so esoteric, occult.
+James Hillman
+
+A
+
+ccording to James Hillman, archetypal psychology is rooted in the
+Neoplatonic tradition of Plotinus, Porphyry, Iamblichus and Proclus.1
+C.G.Jung, whom Hillman credits with being the “irst immediate fa­
+ther” of archetypal psychology,2 was inluenced by the Neoplatonists
+both directly and indirectly, while Henry Corbin, the “second immediate father”
+was even more directly inluenced by Neoplatonists as evidenced by his work
+on Suhrawardi, Avicenna, and Ibn Arabi who carried the voice and vision of
+earlier Platonists, including their emphasis on the reality of the imaginal world
+so central to archetypal psychology.3 If Jung’s psychology can be read as a kind
+of Christian (monotheistic) Neoplatonism, the Neoplatonism of archetypal psy­
+chology understands itself to be more polytheistic, relecting more directly the
+thinking of Plotinus and other non-Christian Neoplatonists.
+Since archetypal psychology sees itself as rooted in, or at least inspired by Ne­
+oplatonism, a closer examination of the currents of thought among the Neoplaton­
+ists should shed light on certain characteristics of archetypal psychology. Specii­
+cally, I will argue that the theurgical Neoplatonism of Iamblichus (c. 245–c.325)
+shares many theoretical assumptions developed by Hillman and that the theurgical
+rites advocated by Iamblichus bear remarkable similarities to the “dreamwork” of
+Robert Bosnak, a Dutch psychologist and student of Hillman, who developed a
+ritual practice of encountering imaginal entities. Yet before fruitful comparisons
+can be made between Iamblichean Neoplatonism and its contemporary expres­
+sions, a signiicant misunderstanding by Hillman must be addressed.
+1
+
+2
+3
+
+James Hillman, “Plotino, Ficino and Vico as Precursors of Archetypal Psychology,” in
+Loose Ends (Dallas: Spring Publications, 1975), 148–49; 162, fn. #6. Cf. Hillman, Archetypal Psychology (Dallas: Spring Publications, 1983), 2–5.
+Archetypal Psychology, 3.
+Ibid., 4–5.
+
+328
+
+GreGory SHAw
+
+In “The Pandaemonium of Images: C. G. Jung’s Contribution to Know Thy­
+self,”4 Hillman distinguishes Jung’s practice of active imagination from the en­
+counters with divine images seen in Neoplatonic theurgy. As a term, “theurgy”
+was coined by 3rd century Platonists to describe divine activity as distinct from
+human activity; theurgy was ritual action that allowed human beings to enter the
+activity (ergon) of a god (theos), hence the term theourgia, divine action.5 Distin­
+guishing theurgy from active imagination, Hillman writes:
+Active imagination is not a psychological activity in the transpersonal sense
+of theurgy (ritual magic), the attempt to work with images by and for the human will … Active imagination as theurgic divination would work on the Gods
+rather than recognize their workings in us (my emphases).6
+
+Hillman here repeats the Christian polemic against Platonic theurgy irst articu­
+lated by Augustine and continued by classical scholars who misconstrued the­
+urgy as manipulative magic, as a form of sorcery (goeteia). Yet anyone who reads
+Iamblichus’s explanation of theurgy in On the Mysteries will recognize that it
+aims at precisely the opposite of what Hillman says.7 The goal of theurgy was
+not to “work on the Gods” but to conform human action to divine action, and
+Iamblichus ridicules as absurd the notion that human beings could work on the
+gods in any way.8 In Hillman’s defense, he was not a historian of philosophy and
+his understanding of theurgy was inluenced largely by E.R. Dodds, probably
+the greatest classical scholar of the 20th century and gifted with rare psychologi­
+cal insight. But Dodds was simply incorrect in his characterization of theurgy
+as superstitious magic,9 and this has now been recognized by most scholars of
+Neoplatonism, particularly by those who have studied Iamblichus.10 Hillman’s
+Hillman, Healing Fiction (Dallas: Spring Publications, Inc., 1994); irst published as “The
+Pandaemonium of Images: C.G.Jung’s Contribution to Know Thyself,” New Lugano Review, III, 3/4 (1977).
+5 For the history of this term in later Platonism, see Hans Lewy, Chaldean Oracles and Theurgy, ed. by M. Tardieu (Paris: Etudes Augustiniennes, 1978), 461–66.
+6 Hillman, Healing Fiction (Dallas: Spring Publications, Inc., 1994), 79.
+7 emma C. Clark, John M. Dillon, and Jackson P. Hershbell, Iamblichus, On the Mysteries,
+translated with introduction and notes (Atlanta: Society of Biblical Literature, 2003). All my
+translations of On the Mysteries are based on this translation; in several instances I have
+changed their translation slightly. Passages from On the Mysteries (De Mysteriis = DM) will
+be followed with the Parthey pagination they provide.
+8 DM 146.5–147.1.
+9 E.R.Dodds, “Theurgy and its Relation to Neoplatonism,” Journal of Roman Studies 37 (1941);
+cf. The Greeks and the Irrational (Berkeley: University of California Press, 1973), 288.
+10 Jean Trouillard, “La theurgie,” L’Un et l’âme selon Proclos (Paris: Les Belles Lettres, 1972),
+171–89; Andrew Smith, Porphyry’s Place in the Neoplatonic Tradition (The Hague, 1974),
+81–99; Garth Fowden, The Egyptian Hermes: A historical approach to the late pagan mind
+(London: Cambridge University Press, 1986), 131–41; Gregory Shaw, “Rituals of Uniica­
+tion in the Neoplatonism of Iamblichus,” Traditio 41 (1985), 1–28; Polymmnia Athanassia­
+di, “Dreams, Theurgy and Freelance Divination: The Testimony of Iamblichus,” Journal of
+4
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+329
+
+understanding of active imagination may still need to be distinguished from Iam­
+blichean theurgy but for different reasons, and, I will argue, in most respects their
+approaches to images bear remarkable similarities, especially in the context of
+dreamwork.
+By misunderstanding theurgy, I believe that Hillman overlooked a deep and
+central current in Neoplatonism, one that he found necessary to reinvent by de­
+veloping aspects of Plotinus’s thought in the style of the Renaissance Neoplaton­
+ist, Marsilio Ficino, not realizing, however, that Ficino’s richly embodied Neo­
+platonism exempliies Iamblichus’s theurgical principles.11 To understand the
+different schools of Neoplatonism and their relevance for archetypal psychology
+we need to step back, briely, to consider the important issues for the Neoplaton­
+ists of the 3rd and 4th centuries.
+In the late 3rd century a pointed debate took place among Platonists and Py­
+thagoreans over the soul’s place in the cosmos. Some claimed the essence of the
+human soul was so high and pure that it remained undisturbed and unchanged de­
+spite its appearance in a body. These Platonists believed they possessed a divine
+and higher eye that remained untouched by the material world and from which
+they could rationally evaluate the traditional rituals of the Mediterranean world
+that exhibited an unenlightened groping for the gods. The Syrian Platonist Iam­
+blichus was profoundly opposed to this elevated view of the soul and he blamed
+these “Greeks” (his fellow Platonists) for promoting an excessive intellectualism
+that was ruining the religion and piety of his day. In On the Mysteries he writes:
+At the present time I think the reason everything has fallen into a state of decay –
+both in our words and prayers – is because they are continually being changed by
+the endless innovations and lawlessness of the Greeks. For the Greeks by nature
+are followers of the latest trends; they are eager to be carried off in any direction
+and possess no stability. Whatever wisdom they receive from other traditions
+they do not preserve; even this they immediately reject and change everything
+through their unstable habit of seeking the latest terms (DM 259.4–10).
+
+Although Plato himself had censured the Greeks with nearly identical charg­
+es, this condemnation by Iamblichus – one of the most respected Platonist and
+Pythagoreans of his time – may seem harsh, even if he was writing under the
+pseudonym of Abamon, an Egyptian priest.12 By contrast, consider Iamblichus’s
+Roman Studies, 83 (1993), 115–30; and G. Shaw, Theurgy and the Soul: the Neoplatonism of Iamblichus (University Park, PA: Penn State Press, 1995).
+11 See Hillman’s discussion of Plotinus’ reception by those who have emphasized the “Chris­
+tianity-conforming aspects of his work.” Hillman, in contrast, emphasizes those aspects of
+Plotinus focused on the “embodied” psyche, precisely those elements of Plotinus’ philoso­
+phy developed by Iamblichus; J. Hillman, “Plotino, Ficino, and Vico,” in Loose Ends: Primary Papers in Archetypal Psychology (Dallas: Spring Publications 1975; 1991), 150–154.
+12 Plato’s critique of the “Greeks” immaturity is spoken by an Egyptian sage to the wise So­
+
+330
+
+GreGory SHAw
+
+high regard for the “Egyptians,” one of the sacred barbarian races with whom he
+compares the Greeks:
+… since the Egyptians were irst to be allotted participation in the Gods, the
+Gods are pleased when invoked according to the custom of the Egyptians (DM
+258.3–6) … The barbarians, since they are ixed in their manners, irmly con­
+tinue to employ the same words. Thus, they are beloved by the Gods and offer
+invocations pleasing to them. To no man is it permitted to change these prayers
+in any way (DM 259.14–19).
+
+Ah, but those Greeks, so enamored of their intellectual brilliance, were willing
+to change even sacred liturgical words and phrases because they understood their
+conceptual meanings and were therefore able to replace old words with new and
+better ones. In the case of barbarian prayers, these same Greeks translated the
+archaic terms into their own more sophisticated jargon. The Greeks condemned
+by Iamblichus were the philosophic trendsetters of his time, those who disdained
+traditional cults – Greek or barbarian – as somehow unworthy of their intellectual
+status, and this hubris was no more evident than in Iamblichus’s own Platonic
+tradition as he received it from Porphyry, the student of Neoplatonism’s founder,
+Plotinus.
+The Greeks that Iamblichus criticizes so harshly through “Abamon” were
+his own Platonic predecessors, and in both On the Mysteries and his philosophic
+commentaries Iamblichus criticized the kind of Platonism promoted in Porphy­
+ry’s transmission of Plotinus’s teachings. Speciically, Iamblichus disagreed with
+Plotinus’s views concerning the soul and the material cosmos, and he lamented
+their practical consequences. Although Plotinus had condemned the Gnostics for
+denying the divinity of the cosmos,13 his own descriptions of the soul betray a
+Gnostic inluence, even to the point of using Gnostic terminology to describe the
+soul’s relation to the body.14 In an attempt to convey the depth of his contempla­
+tive experiences, Plotinus told his students that he never really entered a body,
+that the embodiment of the soul was only an appearance for its “head” remains
+in heaven, never descending into the lesh.15 What his students saw before them
+was not the real Plotinus but his “inferior companion,” the mere simulacrum or
+statue of the true man.16
+
+13
+14
+15
+16
+
+lon: “for you Greeks have in your souls no old opinion stemming from ancient oral tradition”
+(Timaeus 22B–23B).
+Ennead II.9; see A.H. Armstrong, Plotinus Enneads I–VI. Translation and commentary
+(Cambridge: Harvard University Press, 1966–1988).
+Ennead I.1.12.25–29 for the soul’s descent; Enn. II.9.10.25–27 for Plotinus’s description of
+the fall of the Gnostic Sophia.
+Enn. IV.3.12.1–5.
+Enn. I.2.6.28.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+331
+
+Porphyry had the privilege of attending Plotinus’s seminars where he and
+other students were entranced by the beauty of their master’s voice and his vivid
+images of an unfallen soul. Porphyry, however, translated the visionary poetry
+of Plotinus’s experience into prose, into what became known as the doctrine of
+the undescended soul. The consequence of making a teaching out of Plotinus’s
+evocative images was signiicant. For if the soul never truly enters the material
+cosmos, there is no need to honor its generative powers, and to the degree that
+the soul worships the gods of the cosmos, it remains alienated from its true stat­
+ure above the cosmos. According to Porphyry, the undescended soul is identical
+to the divine Nous,17 a view consistent with Plotinus’s remark when asked by a
+disciple to join him in worshiping the gods: “It is more itting for them to come
+to me than for me to come to them.”18
+Such a doctrine and attitude were entirely new and unorthodox for Platon­
+ists.19 Traditional Platonic paideia had encouraged the soul to become divine by
+assimilating itself to the gods of the visible cosmos,20 but there was no need for
+this if the soul was only under the illusion of embodiment. If matter, as Plotinus
+said, was “evil in itself,”21 then the soul should escape from it: one’s body and
+even the activities that unite us to the gods of the material world would prevent
+the soul from recovering its divine status. In Porphyry’s On the Abstinence of
+Animal Food, for example, he condemned animal sacriice and claimed – to the
+delight of Christians – that the fumes of burning lesh did not contact real gods
+but fed blood­thirsty and malevolent daimons!22 He encouraged the soul to fore­
+go all such rites in order to make its escape from the cosmos, “never again to ind
+itself held and polluted by the contagion of the world.”23
+All of this anti­cosmicism was unacceptable to Iamblichus, and the doctrine
+of the undescended soul was at the heart of his objection to Plotinian Platonism:
+it made the soul too high, the world too low, and left nearly all human beings cut
+off from the gods. In a pointed critique of Porphyry’s view of sacriice and the
+soul Iamblichus gloomily says:
+This doctrine spells the ruin of all holy ritual and theurgic communion between
+Gods and men since it places the presence of superior beings outside this earth.
+17 Porphyry, Porphyrye: De L’Abstinence Vol. I.29.4, tr. and introduction by Jean Bouffartigue
+and Michel Patillon (Paris: Les Belles Lettres, 1977).
+18 Porphyry, The Life of Plotinus 10; see Armstrong, op.cit.
+19 Plotinus himself says his notion of the undescended soul goes against the received opin­
+ion of his tradition; Enn. IV.8.8.1–2.
+20 Plato, Timaeus 90; a position also endorsed by Plotinus, Enn. II.9.18.31–35.
+21 Plotinus, Enn. I.8.3.38–40.
+22 Porphyry, Porphyrye: De L’Abstinence II.42.1.
+23 Porphyry, De regress animae 40, 15–16, in J. Bidez, Vie de Porphyre (Hildesheim: Georg
+olms, 1964).
+
+332
+
+GreGory SHAw
+
+For it amounts to saying that the divine is at a distance from the earth and can­
+not mingle with men and that this lower region is a desert, without Gods (DM
+28.6–11).
+
+In contrast to the Platonism of Porphyry and Plotinus, Iamblichus employed Py­
+thagorean principles to argue for the divinity of the material world and for the
+necessity of the soul to descend into a body and a mortal life. Following the
+Timaeus, Iamblichus deined the soul as a mediating activity bridging the oppo­
+sites of sameness/difference, indivisible/divisible, rest/motion, and rhythmically
+weaving the cosmos into existence.24 Mediating opposites was the soul’s only
+way to enter the hidden activity of the One which, according to Iamblichus, was
+an entirely ineffable principle “known” only through the mixing of its equally
+unknowable derivatives: the Limit and the Unlimited, from which all number and
+existence derive. Yet for the soul, its participation in the One causes it to experi­
+ence an ontological rupture unique among divine beings, for in order to mediate
+between the immortality of the gods and the mortality of generated beings, the
+immortal soul had to become mortal. As Iamblichus puts it:
+… the soul is a mean, not only between the divided and the undivided, the
+remaining and the proceeding, but also between the ungenerated and the gener­
+ated … Wherefore, that which is immortal in the soul is illed completely with
+mortality and no longer remains only immortal.25
+
+Iamblichus’s understanding of the soul stands in sharp contrast to that of Ploti­
+nus. Plotinus and Porphyry maintained that the essence (ousia) of the soul never
+descends but remains unchanged when the soul animates a body. The soul itself
+does not descend but merely illuminates its body;26 mortal activities, therefore,
+cannot affect the soul’s ousia. For Iamblichus, however, not only does the soul’s
+ousia undergo change in embodiment, the multiplicity of its activities suggests
+to him that the soul’s essence becomes fragmented into “essences (ousiai) of the
+soul.” He says: “Our soul remains one yet is multiplied at the same time in its
+inclination to the body.” For Iamblichus, the soul’s ousia is “one and many.”27
+Mortal and immortal, one and many, uniied and divided … obviously, such para­
+doxes do not allow for discursive clarity or closure. The psychology of Porphyry
+24 Iamblichus, De Anima 30, 19–23, text and translation by John Finamore and John Dillon
+(Leiden: Brill, 2002).
+25 Simplicius, De Anima [DA] 89, 33–37; 90, 21–23, ed. M. Hayduck (Berlin: B. Reimeri, 1882).
+26 See Enn. I.1.12.25–29.
+27 For citations in Iamblichus see Carlos Steel, The Changing Self: A Study on the Soul in
+Later Neoplatonism: Iamblichus, Damascius and Priscianus, tr. by E. Haasl (Brussels: Pa­
+leis der Academien, 1978), 61–63.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+333
+
+and Plotinus allowed for a soteriology much easier to imagine: the soul escapes
+from the material world and ascends “alone to the Alone.”28 For Iamblichus, how­
+ever, the soul’s salvation depends not only on its unity and immortality but on its
+dividedness and mortality as well, for only by mediating the opposites could the
+soul truly function as soul. By ritually engaging the powers of the material world,
+the Iamblichean soul transformed the suffering and chaos of its embodiment into
+a cosmos. The soul became divine not by escaping from the world but by sharing
+in its creation through the performance of cosmogonic rituals: theurgies (theia
+erga = divine acts), which were the necessary complement to Iamblichus’s less
+exalted psychology and less dualistic cosmology.
+Theurgy was necessary, Iamblichus believed, because of the limitations
+caused by embodiment, the most signiicant being the self-alienation (allotriō­
+then) that deined the soul’s essence as human.29 Although immortal, the soul be­
+comes mortal and is estranged not only from the gods but from its own divinity.
+It becomes constitutionally unable to return to the divine because its essence has
+become mortal; an “I” deined by its particular mortal life. To return to the gods
+Iamblichus says the soul irst must recognize the “nothingness” (oudeneia)30 of
+its identity and then ritually conform itself to the signatures of the gods present
+in the visible world. Like the god Dionysus dismembered by the Titans, the
+embodied soul gradually recollects its immortal identity by discovering its frag­
+ments in nature.31 These acts of recollection, or theurgies, allow the presence of
+the gods in the world to awaken their corresponding presences in the soul, and
+through a life-long process of engaging these divinities the soul reconigures its
+subtle body (ochēma). Theurgy, in effect, was a form of demiurgy, and the soul’s
+deiication was realized when the world and the soul became transparent to the
+gods within them.
+Iamblichus has been viliied by Christians and ridiculed by classicists for
+his willingness to use stones, plants, and animals in theurgic rituals, but if the
+world is a visible divinity as Iamblichus believed, then each of its elements has
+the power to lead the soul back to its source. As Henry Corbin put it: “… each
+28 Enn. VI.9.11.51: phugē monou pros monon.
+29 Simplicius, DA 223.26; Iamblichus also says that the embodied soul is also “made other to
+itself” (heteroiousthai pros heautēn 223.31.
+30 DM 47.13–48.4.
+31 For the later Platonists Dionysus represents collectively all souls who descend into the
+sublunary world. Damascius explains how the soul’s descent into a body is effected by the
+mirror of Dionysus and how souls (= Dionysus) recover their divinity: “The myth describes
+the same events as taking place in the prototype of the soul. when Dionysus projected his
+relection into the mirror, he followed it and was thus scattered over the universe. Apollo
+gathers him and brings him back to heaven, for he is the purifying God and savior of Dio­
+nysus” Damascius Commentary on Plato’s Phaedo 129.1–4, tr. by L.G. westerink (Dilton
+Marsh: The Prometheus Trust, 2009; 1977). The gathering of the god by Apollo is effected
+by theurgic rites.
+
+334
+
+GreGory SHAw
+
+sensible thing or species is the ‘theurgy’ of its Angel … the sensible species does
+not divert from the Angel but leads to the ‘place’ of the encounter, on condition
+that the soul seeks the encounter.”32 In this sense, theurgy is a ritualization of
+Platonic recollection, employing the traces of divinity in the world to awaken the
+soul to its divine inheritance. What allows the sensible thing to be experienced
+as theurgy is the inner disposition of the soul that feels called by the god through
+the sensible image: the soul’s eros awakened by the beauty of the god calling to
+the soul. Yet this theurgic union with the god does not sever the soul’s connection
+with the material world – it conirms it, and it is this emphasis on the soul return­
+ing to the gods by going outside itself and into the world that most distinguishes
+the Neoplatonism of Iamblichus from that of Plotinus. It is this world-afirming –
+and theurgical – Neoplatonism of Iamblichus that informed the Florentine school
+of Ficino and is relected in archetypal psychology’s effort to return the soul to
+the world.33
+Before shifting our focus to consider archetypal psychology and dreamwork
+against the background of Iamblichean theurgy, it may be helpful to summarize
+theurgy’s guiding principles, some of which have not yet been discussed but will
+be referred to later in the paper.
+1. Theurgy was not (pace St. Augustine, E.R. Dodds, Hillman et. al.) an at­
+tempt to manipulate the gods. It is the work of the gods on us and through us, not
+vice versa. Iamblichus is unambiguous about this point in On the Mysteries and
+saves his harshest criticism for sorcerers (goētes) who use their knowledge of the
+gods for personal ends.34 The purpose of every theurgy, Iamblichus says, is the
+puriication, liberation, and salvation of the soul.35
+2. Theurgy allows the soul to share in the cosmogonic activity of the gods,
+seen in the power of nature to reveal the invisible powers of the gods through vis­
+ible shapes and images.36 In terms of experience, all theurgy is dual in the sense
+that although those who perform the rite remain human beings, yet in theurgic
+ritual they take on the shape of the gods.37
+3. Souls perform different kinds of theurgy according to their needs and
+capacities. Without a proper “receptacle” (hupodochē) the soul would lack the
+32 Henry Corbin, Avicenna and the Visionary Recital, tr. by willard Trask (Dallas: Spring Pub­
+lications, 1980), 115–116.
+33 The Iamblichean inluence is seen particularly in Ficino‘s On Making Your Life Agree with
+the Heavens where Iamblichus is often cited as an authority; see Marsilio Ficino: The Book
+of Life, tr. by Charles Boer (Dallas: Spring Publications, Inc. 1980). on Hillman’s dependence on Ficino’s world-afirming Neoplatonism, see James Hillman, “Anima Mundi: The
+return of the Soul to the world,” Spring (1982), 71–93.
+34 DM 193.15–194.7; 182.13–16.
+35 DM 293.5–8.
+36 DM 249.14–250.7.
+37 DM 184.1–8.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+335
+
+capacity to receive the god.38 Therefore, a careful diagnosis of the soul and its
+capacity should precede the ritual act.
+4. The gods appear to the soul as symbols and sunthēmata (“tokens”) in vari­
+ous forms and through various media: animals, plants, stones, images, letters,
+sounds, music, names, and geometric shapes. Each of these symbols is the god in
+an activity (theurgy), veiling and revealing its divinity.
+5. Although the soul must prepare itself, the theurgic symbol works on us
+without our interpretation or understanding. In an often quoted passage Iambli­
+chus says, “we don’t perform these acts intellectually, for then their energy would
+be intellectual and depend on us, which is not at all true. In fact, these symbols,
+by themselves, perform their own work, and the ineffable power of the Gods with
+which these symbols are charged, itself, recognizes, by itself, its own images. It
+is not awakened to this by our thinking.”39
+6. Through the performance of theurgic rites, the soul restores and strength­
+ens its subtle body (ochēma) – disoriented by embodiment – through which it
+is reunited with the gods. This subtle or imaginal body is the place of the soul’s
+transformation.
+7. All theurgy must begin with the material gods in order to establish a foun­
+dation for encounters with the gods who rule over immaterial reality. The material
+gods have jurisdiction over all experiences of growth and decay and the agonies
+of material life. The attempt to worship immaterial gods without irst establishing
+a foundation with the material gods cuts the soul off from all gods for it would
+have no way to contain them.40 To think otherwise is hubris and self-deception.
+
+II. Archetypal Psychology: Recovering the Gods
+He who has not distributed to all these Powers what is itting
+and in accord with the appropriate honor that each is worthy to receive
+will depart imperfect and deprived of participation in the Gods.
+Iamblichus
+
+Once we know at whose altar the question belongs,
+then we know better the manner of proceeding.
+James Hillman
+
+Iamblichus’s dark prophecy that Porphyry’s theology would remove the divine
+from the earth and “leave this lower region a desert, without gods,” was eventu­
+38 DM 233.7–16.
+39 DM 97.2–9.
+40 DM 228.19–229.7; 227.6–13.
+
+336
+
+GreGory SHAw
+
+ally fulilled. After the gods and the undescended soul were exiled into heaven,
+this lower world lost its connection with divine powers and with them its living
+spirit. Later, the ineffable divinity of the Neoplatonists – revealed only in the
+multiplicity of gods – was confused by Christians with their One Triumphant
+God, a mistake that Corbin describes as a “metaphysical catastrophe.”41 It was
+inevitable, Corbin argues, that this God of monotheism would eventually be
+exposed as an idol created by human insecurities: the God elevated above the
+world and cast in the image of our Uniied and Transcendental Self. Iamblichus
+had warned Porphyry that his inlated notion of the soul would lead to this:
+For being unable to lay hold of the knowledge of the Gods through reasoning,
+but believing they are able to do so, men are entirely carried away by their hu­
+man passions and make assertions about divine things drawn from personal
+feelings (DM 65.16 – 66.2).
+
+As a Neoplatonist and Pythagorean, Iamblichus was well trained in the dialec­
+tics of the One. Like other Neoplatonists who had relected on the function of
+Socratic unknowing (aporia), he knew that the One was ineffable and that Plato
+had already demonstrated in the Parmenides that the One itself never is, that the
+One does not exist.42 For the Neoplatonists, however, this realization marked the
+beginning of genuine theological relection, the subtlety of which is captured by
+the Proclus scholar Jean Trouillard:
+If one tries to afirm pure unity this very afirmation, in effect, destroys it be­
+cause one may only posit and think in relations, in dualities. Pure simplicity [the
+Limit] blinds us as does pure diversity [the Unlimited]. If we try to realize the
+absolute we abolish it as absolute, for meaning occurs only in a context of rela­
+tions to which the absolute presents itself as the negation. But this impossibility
+of afirming is not an ordinary negation, since the One that we posit as relative
+to the Many itself implies another unity which sustains them both, but which we
+may not describe. It is necessary, then, after avoiding the afirmation, to deny
+the negation itself and enter into the ineffable.43
+
+Damascius, the 6th century master of apophatic discourse, said that the One is
+simply a symbol for the ineffable,44 what Egyptians call “unknowable darkness”
+41 See Henry Corbin‘s discussion in his Prefatory Letter to David Miller, The New Polytheism:
+Rebirth of the Gods and Goddesses (Dallas: Spring Publications Inc., 1981), 2–3.
+42 Parmenides, 141d–142.
+43 Jean Trouillard, “Néo-platonisme,” Encyclopedia Universalis 11 (Paris, 1968), 682 (my trans­
+lation).
+44 Damascius, Traité des Premiers Principes, Vol. 2: “De la triade et de l’uniié,” westerink
+and Combes (Paris: Les Belles Lettres, 1989), 30.3–8.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+337
+
+(skotos agnōston).45 It made no sense, then, to speak of the One God as if it ex­
+isted or were capable of being known, for it was neither. Yet, despite (and perhaps
+because of) their aporia in the face of ineffability, the Neoplatonists experienced
+the ineffable One revealing itself as unifying activities: the activities of the Gods
+in their daimonic expression of creating the world. The goal of the later Neopla­
+tonists, therefore, was not to reach the One, since it doesn’t exist, but to enter its
+ineffable and unifying activities, the theurgies of the One, in whatever context
+the soul inds itself.
+The tendency to transform apophatic discourse or any transformative dis­
+course into an orthodoxy of memorized rules or concepts seems to be inherent
+in our need for security. Even a discourse designed to subvert this habit of selfdeception can become the most subtle and eficient way to indulge it. This is why
+even in apophatic Neoplatonism there is a need for rigorous self­criticism which
+attempts to rediscover those moments of genuine transformation revealed by a
+seminal thinker, whether it is a Plato, a Plotinus, or, more recently, the Swiss
+psychologist Carl Jung.
+As the Neoplatonists interpreted Plato according to their apophatic princi­
+ples, seeing the One and the Forms not as ideal entities or objects but as patterns
+of activity and manifestation, so James Hillman, in a effort to circumvent a ven­
+eration (and reiication) of Jungian archetypes (akin to the Platonic Forms of the
+psyche), speaks not of archetypes, but of archetypal images, changing the “what”
+of an archetype into a “how,” into an activity experienced by the soul.46 Hillman’s
+desubstantiating and deliteralizing move, like the apophatic move of the Neopla­
+tonists, means that the archetypes are not conined to a metaphysical space or an
+abstract empyrean outside this earth. Archetypal images, like the gods of Iambli­
+chus, must be found in this lower region. “All images,” Hillman says, “can gain
+this archetypal sense,”47 and in the same way that theurgic symbols penetrate the
+soul and work on us independently of our thinking, so archetypal images work
+on us without our interpretation. Hillman writes:
+We learn from the alchemical psychologists to let the images work upon the
+experimenter; we learn to become the object of the work – even an object, or
+objectiied image, of the imagination.48
+
+I believe that the Neoplatonism to which archetypal psychology is most akin
+is not, as Hillman thinks, the high-souled Neoplatonism of Plotinus but that of
+the Syrian theurgist Iamblichus. Hillman looks to Plotinus to ind parallels with
+45 Ibid., 30.8–9.
+46 James Hillman, “An Enquiry into Image,“ Spring (1977), 82–83; Hillman, Archetypal Psychology (Dallas, Spring Publications, Inc., 1983), 12–14.
+47 Hillman, “An Enquiry.” Spring, 83.
+48 Hillman, Re-Visioning Psychology (San Francisco: Harper & Row, 1975), 40.
+
+338
+
+GreGory SHAw
+
+archetypal psychology, not, he says, the Plotinus that has been appropriated by
+Christian philosophers and theologians with their “inherent tendency to bring
+out, or read in, the inspiring and inlating and Christianity-conforming aspects
+of his work …,”49 but with the Plotinus who describes the soul struggling with
+pleasures, fears and other emotions of embodied existence. Granted that Plotinus
+was a masterful thinker with acute insight into the soul, there is nevertheless, a
+reason that Christian theologians have been attracted to Plotinus’s Neoplatonism
+and, largely, have been repelled by Iamblichus and theurgy. The theory of the
+undescended soul and the evilness of the material world can be found in Ploti­
+nus, not in Iamblichus. And in Plotinus’s personal rejection of traditional pagan
+worship and Porphyry’s condemnation of blood sacriice Christians found pow­
+erful allies in their battle against the worship of the pagan gods. Iamblichus, on
+the other hand, by providing a philosophic rationale for traditional pagan cults,
+became a demonic igure for Christians and later, a target of ridicule for scholars
+who feel greater afinity for the “rational” Neoplatonism of Plotinus.50
+A. H. Armstrong noted, however, that “it is possible to develop a theory of
+theurgy from one side of the thought of Plotinus,”51 and that is precisely what
+Iamblichus did. It happens that the side to which Armstrong refers is also the side
+attractive to Hillman. For Hillman is interested in Plotinus’s grasp of the soul’s
+paradoxes, its multiplicities, imagination, and complexities, not in his exhorta­
+tions to escape from the world. With archetypal psychology Hillman follows a
+trajectory of Plotinus’s thought that was developed by Iamblichus into theurgy:
+the recognition that the soul in the body is fragmented and needs to recover itself
+not by withdrawal, introspection, and escape but by creating proper receptacles
+to contain the gods, to give these deepest impulses of the soul a divine shape. In
+Re­Visioning Psychology, Hillman cites a passage from this theurgical side of
+Plotinus describing a technique for ritually containing the gods. Plotinus says:
+I think, therefore, that the ancient sages, who sought to secure the presence of
+divine beings by the erection of shrines and statues, showed insight into the na­
+ture of the All; they perceived that though this soul is everywhere tractable, its
+presence will be secured all the more readily when an appropriate receptacle is
+elaborated, a place especially capable of receiving some portion or phase of it,
+something reproducing it, or representing it and serving like a mirror to catch
+an image of it.52
+49 Hillman, Loose Ends, op. cit., 150.
+50 See Shaw, Theurgy and the Soul: The Neoplatonism of Iamblichus (Kettering, oH: An­
+gelico Press, 2014; 1995), 1–18.
+51 A.H. Armstrong, “Tradition, Reason, and Experience in the Thought of Plotinus,“ Plotinian
+and Christian Studies 17 (London: Variorum reprints, 1979), 187.
+52 Hillman, Re-Visioning, 14.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+339
+
+These recommendations form an integral part of the theurgical art as described
+by Iamblichus, speciically, providing a receptacle (hupodochē) in which divine
+activity may be fruitfully contained and engaged.53 Later, Hillman returns to the
+theme of receptacles and the dangers of facing the depths of the soul without
+them. He writes:
+To let the depths rise without our systems of protection is what psychiatry calls
+psychosis: the images and voices and energies invading the emptied cities of
+reason which have been depersoniied and demythologized and so have no containers to receive the divine inluxes.54
+
+Hillman recognizes the truth of Iamblichus’s prophecy: this “lower world” has
+become a demythologized desert, without gods, and its corollary for the human
+soul is that without “containers” to properly receive the gods outside us – in
+shrines, rituals, statues or prayers – they appear as psychic imbalances. As Jung
+put it, “the gods have become diseases; Zeus no longer rules Olympus but rath­
+er the solar plexus, and produces curious specimens for the doctor’s consulting
+room.”55
+Here, it seems, is where archetypal psychology differs most markedly from
+Iamblichean theurgy. For Iamblichus, the gods could still be met, contained, and
+acted with through various forms of worship and divination. Theurgists like Iam­
+blichus and Ficino could diagnose psychic imbalances and prescribe rituals to
+align the soul with its god, for they still had gods, rituals, and shrines to which
+they could refer. In our terms, they had a way to contain the pathologies of the
+soul. We do not. Yet, Hillman argues, our lack of containers and the debilitating
+experience of having gods as diseases may have a useful function, for it strips the
+ego of its illusion of power and control. He claims
+… that it is mainly through the wound in human life that the Gods enter (rather
+than pronouncedly sacred or mystical events), because pathology is the most
+palpable manner of bearing witness to the powers beyond ego control and the
+insuficiency of the ego perspective.56
+
+Despite the cultural differences between archetypal psychology and the theurgy
+of the Platonists, Hillman’s emphasis on working with pathological images is
+consistent with the principles of Iamblichean theurgy especially as they relate
+to the soul’s embodied experience. For when the soul enters a body, its essence
+(ousia) is broken apart; it becomes intertwined with mortal lives (the material
+
+53
+54
+55
+56
+
+Shaw, Theurgy and the Soul, 53–54.
+Hillman, Re-Visioning, 224.
+Cited by Hillman in Archetypal Psychology op. cit., 37.
+Hillman, Archetypal Psychology, 39.
+
+340
+
+GreGory SHAw
+
+daimons) and is made subject to fate and suffering.57 The soul is identiied by the
+Neoplatonists with the dismembered Dionysus, and in exact proportion to its di­
+videdness and identiication with mortal lives, it requires rituals speciic to each
+kind of rupture and embodied agony that it experiences. These rituals, provided
+they are appropriate to its needs, contain the agonies of the soul and allow it to re­
+cover its divine body. Iamblichus insists, however, that the soul begin its theurgy
+with the material gods who, he says, preside over the suffering of all
+… material phenomena: division, collision, impact, reaction, change, genera­
+tion, and the corruption of all material bodies … and in worship we offer what is
+appropriately related to them. In the sacriices, therefore, dead bodies and things
+deprived of life, the blood of animals, the consumption of victims, their diverse
+changes and destruction, and in short, the breakdown of the matter offered to
+the Gods is itting – not for the Gods themselves – but for the matter over which
+they preside.58
+
+Iamblichus explains that the power of ire to consume and assimilate matter to
+itself initiates the assimilation of the soul to the divine ire.59 Like the mortiica­
+tions of alchemical materia or the tortured images in the art of memory which,
+Hillman says, free the soul of its “literal perspective,” stuck in the coagulations of
+matter,60 so the material rites of theurgy release the soul from its embodied ixa­
+tions through giving ritual expression to the material daimons. Iamblichus insists
+that it is necessary to begin theurgy with the material gods in order to build a
+foundation for the soul’s subsequent contacts with divine powers, and he specii­
+cally criticizes Porphyry for trying to return to the immaterial gods without irst
+honoring their material counterparts. Yet Porphyry, believing that his soul was
+undescended, perhaps did not feel the need to ritually honor material gods and
+daimons that he had never really encountered. This hubris, according to Iambli­
+chus, makes the soul blindly subservient to the material gods and daimons that it
+ignores and prevents any possibility of uniting with the immaterial gods.
+The divinities which the soul recollects in theurgy by engaging their traces
+in nature seem to grow uglier through our neglect: the gods truly have become
+diseases. But despite their grotesque and repulsive appearance, these pathologi­
+cal symptoms have become our only means to return to the cosmos of the Neo­
+platonists. Iamblichus would tell us that our illnesses are not themselves the gods
+but indicate our failure to receive and contain the gods properly,61 and Hillman
+57 Iamblichus explains that daimons oversee nature and bind souls to their mortal bodies: DM
+67.1–68.2.
+58 DM 217.10–218.8.
+59 DM 214.14–215.5.
+60 Hillman, Re-Visioning, 90f.
+61 Shaw, Theurgy and the Soul, op. cit., 60–61.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+341
+
+seems to agree, for he encourages us to elaborate – like theurgists – “appropriate
+receptacles” in order to better contain our divine inluxes.62
+Iamblichus and Hillman both emphasize the importance of our not knowing
+and not controlling the gods when they appear and for the same reason. When
+challenged by Porphyry to explain why theurgists chant “meaningless” god
+names, Iamblichus tells him “to remove all conceptions and logical deductions
+from divine names”63 and concludes by asserting that “even if it is unknowable
+to us, this very thing is its most venerable aspect.”64 The embodied soul, identi­
+ied with a particular “self” is not capable of intellectually grasping the audible
+bodies of the gods, and to think it could, Iamblichus argues, keeps us from being
+able to receive them. It is through recognition of our “nothingness” that we are
+drawn to receive the gods.65 Once freed of our pretensions to know, the soul can
+be moved in theurgy “to another order, having entirely abandoned its former
+existence.”66 For Iamblichus, the doctrine of the undescended soul, untouched
+and unperturbed by the lower powers of the cosmos, is the functional equivalent
+of archetypal psychology’s “heroic ego” which similarly prevents us from en­
+tering the darkness and meeting the gods. Like Iamblichus, Hillman values the
+pathological symptom because it is unknowable: “that thing so foreign to the
+ego, that thing which ends the rule of the hero … [and] moves the myth of the
+individual onward by moving him irst of all out of the heroic ego …”67 and into
+death, which is the theme developed by Hillman in the Dream and the Underworld. Both Hillman and Iamblichus also insist that we must begin with patho­
+logical images: the “breakdown of matter offered to the Gods,” and I believe that
+both share a similar motivation.
+Behind the psychologies of Iamblichus and Hillman is a protest, a reaction
+against the titanic self-deception that invites us to see ourselves as self-sufi­
+cient and god-like: a disease speciically of our discursive power that has not
+yet learned – in Neoplatonic terms – to limit its propensity to the Unlimited.
+Iamblichus attacked the doctrine of the undescended soul because it invited the
+kind of hubris and self-deception he perceived in Porphyry’s questions and in
+Plotinus’s psychology. Hillman, for his part, seeks to undermine what he calls
+the heroic ego, our “heroic attitude toward all events, an attitude now so habitual
+that we have come to call it the ‘ego.’”68 Since this heroic mode dominates our
+consciousness today far more than the doctrine of the undescended soul did in
+62
+63
+64
+65
+66
+67
+68
+
+Hillman, Re-Visioning, 225.
+DM 255.5–6.
+DM 255.9–10.
+DM 47.13–48.3.
+DM 270.10–14.
+Hillman, Re-Visioning, op.cit., 89.
+Ibid., xiv.
+
+342
+
+GreGory SHAw
+
+Iamblichus’s time, Hillman is proportionately more passionate and careful to dis­
+cern the subtle forms of self­deception that the “hero” invites. While Iamblichus
+could speak of “taking on the shape of the Gods” in theurgic ritual,69 Hillman
+would likely suspect it to be “but another heroic voyage of the ego now translated
+into interior space.”70 So long as the hero lives, has not been initiated into death,
+into the realm of Hades, then all transformations of the soul are nothing more
+than heroic self-deceptions. The task, then, is to enter the darkness, to experience
+our soul as “illed completely with mortality,”71 to recognize, as Iamblichus puts
+it, our nothingness. Hillman rejects the “grand shamanic journey”72 and prefers
+the soul to be broken down, aflicted, and depressed: “the pathological image
+held solemnly is what moves the soul.”73 He is so acutely on guard against heroic
+inlation that even such a standard notion as self-transformation is viewed with
+suspicion: “I prefer to speak of transformation,” Hillman says, “only when I can
+point at its actually happening,”74 and the experience of transcendence, which
+was important to all Neoplatonists, is even more suspect for Hillman, who writes:
+There may well be more psychopathology actually going on while transcending
+than while being immersed in pathologizing. For any attempt at self-realization
+without full recognition of the psychopathology that resides, as Hegel said, inherently in the soul is itself pathological, an exercise in self­deception.75
+
+Hillman’s vigilance against self­deception might lead one to suspect that he dis­
+counts the validity of any form of transcendence, but his insistence on recogniz­
+ing our pathologies before transcending is similar to Iamblichus’s insistence that
+we honor the material gods before proceeding to the immaterial gods. Hillman
+does acknowledge the validity of transcendence as described by Henry Corbin,
+who spoke of the soul’s ascent to the divine, called epistrophē (return) by the
+Neoplatonists and ta’wil by Shi’ite Muslims. Quoting Corbin, Hillman says that
+“one must carry sensible forms back to imaginative forms and then rise to still
+higher meanings …”76 For the Persian Neoplatonists of Corbin the theurgic mo­
+ment that transforms the sensible into symbols occurs in the mundus imaginalis,
+a realm of images where the soul’s desire for epistrophē enters into theurgies
+emanating from the One, a meeting, Corbin says, that effects an ecstatic encoun­
+ter with one’s Angel, an event in which the soul experiences its ascent to the
+69
+70
+71
+72
+73
+74
+75
+76
+
+DM 184.1–8.
+Re-Visioning, 93.
+The Iamblichean vision of the embodied soul: Shaw, Theurgy and the Soul, 110–120.
+Re-Visioning, 93.
+Re-Visioning, 93.
+Hillman, “Further Notes on Image,“ op. cit., 175.
+Re-Visioning, 70.
+Hillman, Loose Ends, op. cit., 50.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+343
+
+Angel as the Angel’s descent to the soul. This Angel, Corbin writes, is “itself the
+ekstasis, the ‘displacement’ or departure from ourselves that is a ‘change of state’
+from our [habitual] state.”77 For such a mysterious encounter to be received prop­
+erly we need containers, the sunthēmata of theurgy: shrines, myths, images, and
+perhaps even stones that can hold more of the ineffable than our thinking. And
+for each soul the intensity of its encounter is measured by its capacity to receive
+the divinity through the theurgic symbol.
+The Corbin scholar Christian Jambet insists that the mundus imaginalis must
+be rooted in the apophatic Neoplatonism in which it developed for the imaginal
+world to link the sensible realm to the paradoxes of the ineffable One. He warns
+that if we abstract the imaginal world from this function and place it in a merely
+psychological context, we risk losing its signiicance and power.78 The imaginal
+then would be reduced to personal imagination and become subordinate to sen­
+sate experience; as such it could no longer function as the place where the inef­
+fability of the One and the “one in the soul” are metamorphosed into an erotic
+bi­unity, a reciprocating desire and angelic encounter.79
+Following Corbin, Hillman explains that the imaginal world is deined nei­
+ther by our subjectivity nor by what is sensibly external; it is, rather, a third place
+made up of images external to us yet intimately related to our heart’s most ardent
+desire.80 Despite Jambet’s concerns, Hillman seems to have lifted the imaginal
+out of its context in the apophatic metaphysics of the Neoplatonists. His touch­
+stone for the imaginal world was Corbin himself, who seems to have functioned
+for Hillman as a theurgic sunthēma, opening him to the mysteries of the mundus
+imaginalis. Shortly after Corbin’s death Hillman writes:
+In him imagination was utterly presence. One was in the presence of imagination itself, that imagination in which and by which the spirit moves from the
+heart towards all origination … the invisible Henry Corbin is among us.81
+
+For his part, Corbin said that it was precisely in his effort to restore the mundus
+imaginalis that his work coincided with that of Hillman whom he praises for his
+courage and originality.82 The gods that Hillman discerns in our diseases and in­
+77 Corbin, Swedenborg and Esoteric Islam, tr. Leonard Fox (west Chester, PA: Swedenborg
+Foundation, 1995), 32. of this encounter Corbin says: “The reciprocity that lowers in the
+mystery of this divine depth cannot be expressed save by a symbol.” (Corbin, Avicenna
+and the Visionary Recital, op.cit., 203). Each of these symbols, like theurgic receptacles,
+would relect the capacity of each soul to contain the divine inlux.
+78 Christian Jambet, La logique des Orientaux: Henry Corbin et la science des formes (Paris:
+editions due Seuil, 1983), 41.
+79 Ibid. 40–41; cf. Corbin, Creative Imagination in the Suism of Ibn Arabi, fn. 32, 333.
+80 Hillman, The Thought of the Heart (Dallas: Spring Publications, Inc., 1981), 2–3.
+81 Ibid. 1–2.
+82 David Miller, The New Polytheism, op. cit., 4.
+
+344
+
+GreGory SHAw
+
+luxes can again be reborn “as gods” Corbin said, in the imaginal world, that is,
+in the epistrophē of the soul toward its origins. The context, then, of Hillman’s
+archetypal psychology is the apophatic Neoplatonism of Plotinus, Iamblichus and
+Damascius – not as a metaphysical system – but as an imaginal experience embodied and communicated through the living presence and voice of Henry Corbin.83
+Like the theurgists of Iamblichus’s era, Corbin’s Persian Neoplatonists had
+receptacles and the imaginal capacity to contain invisible powers. The arts of
+theurgic divination were still alive in the medieval world, but today our “world”
+has largely been drained of its imaginal richness, its soul, so the only imaginal
+experience that remains to us is the dream. Dreams, therefore, have become the
+containers for the “gods” of archetypal psychology through which the soul can
+still be initiated to see through its self-alienation and make its epistrophē to the
+gods. The importance of dreams as a place to meet the gods was also recognized
+by the Neoplatonists. Iamblichus spoke of dreams as the most effective way to
+contact the divine for, he says: “in sleep we are completely liberated, freed as it
+were, from certain bonds closely held on us, and we employ a life separated from
+generation” (DM 106.7–9). It seems that today the imaginal vessels of the theur­
+gic art: the sacred animals, stones, plants, music and incantations are accessible
+to most of us only in our dreams. The dream has become the breathing place for
+the imaginal soul.
+Because of the importance of dreams to depth psychology and the treasury of
+images they provide for imaginal experience, it is not surprising that Hillman was
+provoked to perhaps his greatest insights in his highly acclaimed work, The Dream
+and the Underworld.84 Here, Hillman plays on the two themes discussed above: (1)
+the necessity of seeing through the heroic ego and its “self” importance, and (2) the
+power of dream images to work on us independently of our thinking. In this latter
+respect, Hillman’s method is a reaction both to Freud, who wanted to interpret the
+dream in the language of waking life, and to Jung, who saw dreams as compensat­
+ing for conscious attitudes. Following Corbin, Hillman argues that the dream is
+a reality of its own and should not be reduced to the concerns of waking reality.
+Hillman understands that to tap the imaginal capacities in dreams we must resist
+the assumptions of both Freud and Jung that “the dream requires translation into
+waking language …”85 He encourages us to go dark, into the dream and away from
+the literal view of a dayworld that cannot see, in Corbin’s terms, sensible things as
+83 Subsequently, Hillman recognized his need to elaborate a metaphysics (“I have known this
+for some time …”), discusses the importance of Corbin, and begins imagining a “psycho­
+logical cosmology” following Bachelard‘s commentaries on Plato‘s Timaeus. See Hillman,
+“Back to Beyond: on Cosmology,” in Archetypal Process: Self and Divine in Whitehead,
+Jung and Hillman, ed. by David Ray Grifin (Evanston, Illinois: Northwestern University
+Press, 1989), 214–224.
+84 The Dream and the Underworld (New york: Harper & Row, 1979).
+85 Ibid., 12.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+345
+
+the theurgies of Angels. To the rational mind, to the heroic ego, Hillman’s move is
+madness and he dares to make his intentions plain. He announces that
+...we must sever the link with the dayworld, foregoing all ideas that originate
+there – translation, reclamation, compensation. We must go over the bridge and
+let it fall behind us, and if it will not fall, then let it burn.86
+
+Several archetypal psychologists have walked over this bridge and into the dark
+world of dreaming. Mary Watkins described her journey in a raw and brilliant
+study, Waking Dreams,87 and, in a more practical context, Robert Bosnak, who
+was also touched deeply by Corbin, has developed a method of group dreamwork
+that enacts the principles outlined by Hillman in The Dream and the Underworld.
+It is in the praxis of Bosnak’s dreamwork that the theoretical similarities between
+Iamblichean theurgy and archetypal psychology are most vividly revealed, yet be­
+cause the praxis in both theurgy and dreamwork is based on experiential knowing,
+it does not translate easily into the clarity of academic discourse. To equate theur­
+gic rites with contemporary dreamwork is a conjecture, but one that I think may
+shed light on the existential requirements of theurgy as well as establish dream­
+work more clearly in the Neoplatonic tradition as a praxis or theurgy required by a
+rigorously apophatic theology. In effect, I believe that the techniques of Bosnak’s
+dreamwork ensure that Hillman’s theoretical insights into imaginal reality do not
+become merely brilliant speculations but remain – as Jambet insisted – imaginal
+experiences mysteriously linked to the ineffable paradoxes of the One.
+
+III. Dreamwork and the Archai
+… the Gods are seen, yet not seen at all.
+Proclus
+
+… meeting with primordial consciousness is frightening.
+It threatens to burn the straight white mind.
+Robert Bosnak
+
+Robert Bosnak’s Tracks in the Wilderness of Dreaming88 is not a scholarly book.
+It has no footnotes, no index, and the author does not try to establish the validity
+of his claims against recognized positions in the scholarship on dreams. Along
+with Bosnak’s earlier work, A Little Course in Dreams,89 his books read like the
+86
+87
+88
+89
+
+Ibid., 13.
+Mary watkins, Waking Dreams (Dallas: Spring Publications, 1984; 1976).
+Robert Bosnak, Tracks in the Wilderness of Dreaming (New york: Delacorte Press, 1996).
+Robert Bosnak, A Little Course in Dreams (Boston: Shambhala Press, 1988).
+
+346
+
+GreGory SHAw
+
+ield notes of an ethnographer except the natives Bosnak studies inhabit another
+reality altogether: the imaginal world of Henry Corbin. In his dreamwork Bos­
+nak does not approach dreams as day-residues of the objective reality of waking
+life (Freud) nor does he treat dream images subjectively as different parts of the
+psyche awaiting understanding and integration (Jung). The people of our dreams,
+Bosnak insists, are autonomous entities with a will and intentionality of their own;
+they are not our “sub­personalities.”90 To meet these dream entities on their own
+terms requires a slow and careful descent into their world, and it is the method
+of this descent and the subtle etiquette of encountering dream igures that allows
+Bosnak’s work to fulill Corbin’s criteria for entering the mundus imaginalis.
+Bosnak has led dream groups into this alien world of dreams for over 30
+years, so he is well aware of the obstacles that confront us when we try to cross
+over into the darkness of dreaming.91 He highlights two episodes from Jung’s
+autobiography to exemplify the dificulties we all face when we enter imaginal
+reality.
+During Jung’s travels in Africa, he recounts a powerful moment when, alone
+in nature, with “the world as it has always been,” he felt himself drawn into a
+timeless reverie, as if he were “the irst human being to recognize that this was
+the world, but who did not know that in this moment he had irst really created
+it.”92 Relecting on his awareness of nature, Jung continues: “Man, I, in an invis­
+ible act of creation, put the stamp of perfection on the world by giving it objective
+existence … Human consciousness created objective existence and meaning, and
+man found his indispensable place in the great process of being …”93 Despite
+Jung’s considerable experience with the unconscious, in this episode he seems
+to exemplify the characteristics of the heroic ego criticized by Hillman, claiming
+that his subjective awareness has created the world!
+After his remarkable “confrontation with the unconscious” in 1913, Jung
+visited “primitive” peoples whose containers for the unconscious were still ex­
+plicit and functioning in their cultures. They served Jung as a conirmation and
+continuation of his own internal discoveries, yet in the face of a truly archaic
+reality, his habitual North European mentality reduced the signiicance of nature
+and all creation to human proportions, imagining that “man” put the “stamp of
+90 Bosnak, Tracks, 50.
+91 I spent several years as a member of Robert Bosnak’s dreamwork group in Boston, be­
+ginning in 1992. My research into Iamblichean theurgy happened to coincide with my
+participation in Bosnak’s group. My comments about the nature of dreamwork and the
+imaginal world relect my experience for over a decade of working with dreams. It led to the
+publication of a previous article comparing theurgy to archetypal dreamwork, “Containing
+Ecstasy: The Strategies of Iamblichean Theurgy,” Dionysius, Vol. XXI, Dec. 2003, 53–88;
+this article stands alone but shares some elements with the 2003 publication.
+92 Cited by Bosnak, Tracks, 91–92.
+93 Ibid., 92.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+347
+
+perfection on the world” by recognizing it objectively in his mind. Later, when
+Jung encounters one of the inhabitants of this archaic world, he has a profoundly
+different experience. During his entire African trip Jung says that on only one
+occasion did he dream of a “Negro,” and he was not an African but an American
+who had once cut Jung’s hair in Chattanooga, Tennessee. He explains:
+In the dream he was holding a tremendous, red­hot curling iron to my head,
+intending to make my hair kinky – that is to give me Negro hair. I could already
+feel the painful heat, and awoke with a sense of terror.94
+
+Jung says that he realized then that he was “all too close to ‘going black,’” and
+compares his experience to those of soldiers in the First World War who were
+“pulled out the front lines when [they] started dreaming too much of war scenes,
+for that meant [they] no longer possessed any psychic defenses against the impressions from outside.”95 Bosnak explains that when one of the inhabitants of
+this primordial reality was about to penetrate Jung’s armor and share his “head,”
+his curly and black way of envisioning the world, Jung is terriied and interprets
+his situation in terms of combat with an alien intruder – he was in danger of “go­
+ing black.”96
+Bosnak made his own journey to a “primitive” culture among the Aboriginals
+of Australia, and he highlights the Aboriginals’ view of nature and uses it as a
+metaphor for his approach to dreams. Instead of imagining that human beings
+bring the world into existence through our objective relection, the Aboriginals
+fuse their awareness of nature with the speciic intelligence and intentionality of
+the Ancient Beings who are – even now – dreaming the world into existence, into
+what the Aboriginals call “songlines,” the landscape revealing the traces of this
+“dreaming,” the physical world being their song. As Bruce Chatwin put it, in the
+Dreaming, in the primordial time
+[t]he Ancients sang their way all over the world. They sang the rivers and ranges,
+salt-pans and sand dunes. They hunted, ate, made love, danced, killed: wherever
+their tracks led they left a trail of music … They wrapped the whole world in a
+web of song …97
+
+A song the Aboriginals participate in directly in their dances, chanting, and care
+of the land. Bosnak reports that his Aboriginal hosts tend a speciic songline, that
+94 Ibid., 98.
+95 Ibid., 94.
+96 Ibid., 95. If one considers “blacks” in dreams, not sociologically but archetypally – as Hill­
+man suggests – they may be seen as shades of the underworld menacing the ego with
+death; in this light, it is no wonder that Jung was terriied. See Hillman, The Dream and the
+Underworld, 144–46.
+97 Bruce Chatwin, The Songlines (New york: Penguin Books, 1988), 73.
+
+GreGory SHAw
+
+348
+
+of the lizard Ngintaka, and he shares his struggle to enter into the dreaming of
+this Ancient Being. Bosnak writes:
+Who enters the landscape enters its imagination, its story. We will follow Peren­
+tie lizard, Ngintaka, inding ourselves inside the dreaming of Ngintaka. We are
+part of his dreaming. He is the dreaming “I” who lives the story we will partici­
+pate in for forty kilometers … My Western ego protests. It has always been the
+center of its own dreaming, its perspective the one from which dreaming was
+experienced. Who wants to be an extra in the imaginings of a lizard? Haven’t I
+been contracted for the lead?98
+
+How different this sounds from Jung’s African reverie! And in the same way
+that the Aboriginals enter into the atmosphere and presence of their Ancients
+through the “songlines” so, Bosnak explains, in dreamwork we enter into the
+intelligence and intentionality of dream images. Though our “gods” may no
+longer be contained for us in the landscape, they still reveal themselves in our
+dreaming, inviting us to participate in their presences, however much I suppose
+that “my” dreams refer only to me. After all, it is dificult to see through the
+habit of feeling that my subjective awareness brings “reality” to the world. Not
+only have we been contracted for the lead but we also believe that we’re sitting
+in the director’s chair.
+Bosnak continues the efforts of Hillman to undermine our habit of conscious­
+ness that always sees itself as the lead, the center of signiicance and arbiter of
+reality. In our heroic ixation we fear to lose control, to be penetrated by the other,
+to “go black.” Like the Greeks of Iamblichus, like Jung in the barber chair, we
+have become caught up in our self­importance and fear to re­enter the archaic
+way, to feel our awareness curled back in epistrophē to the primordial rhythm of
+the Egyptian, the African, the Aboriginal … not that we should try to mimic them
+literally, but to encounter them theurgically, as symbols of what is most archaic
+in the soul and most alien to our habitual consciousness.
+Since 1979, Bosnak has been leading groups into these archaic and alienat­
+ing experiences that form an essential part of his dreamwork. While “archaic
+and alienating” sound mildly unappealing in the abstract, when we re­renter a
+dream and descend into its atmosphere to feel its images viscerally, when we ind
+ourselves inside the dream and it is no longer “in my head,” we are subjected to
+much greater anxiety, vulnerability and pressure than we are accustomed to. Put­
+ting a body on the ineffable paradoxes of the One can be nothing short of terrify­
+ing. The irst principle in Bosnak’s work, therefore, is to create a vessel to contain
+the pressure provoked by re-entering the dream. According to Bosnak, when a
+group descends together into the atmosphere of a dream and is able to absorb
+98 Bosnak, Tracks, 98.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+349
+
+the density of its images, the increased pressure is contained, and this allows the
+dreamer and the dreamworkers to be penetrated, or “cooked” as Bosnak puts it,
+by the atmosphere of the dream. This “pressure cooking” loosens our heroic ixa­
+tion and gradually allows awareness to be distributed into several parts – deined
+by the dream images – rather than remaining ixed and defended in our singular
+daytime self­consciousness.
+The loosening of the ego’s centrality in dreamwork corresponds to a funda­
+mental principle in Iamblichean theurgy. Since our embodied identity is funda­
+mentally alienated from the soul’s original nature, Iamblichus maintained that we
+must conform ourselves to divinities that seem to come to the soul from the outside (exōthen) in order to recover the “more ancient” presence within the soul.99
+The form the encounter takes is always relative to the capacity of the soul, yet
+whether it comes in the form of animal sacriice, burning incense or chanting the
+names of the gods, the soul is awakened to its lost divinity by immersing itself
+in the ritual. To neglect these rites condemned the soul to a blind subservience to
+those very powers that – if they were given containers – could awaken the soul to
+its divinity. In fact, the soul’s disorders indicated to the theurgist what god needed
+to be propitiated theurgically and given a ritual receptacle. In every theurgy, Iam­
+blichus emphasized that our self-identity had to be suficiently drawn into the rite
+to allow our awareness to fuse with the ritual actions and participate directly in
+the activity of the god. As Iamblichus put it:
+All of theurgy has a dual character. One is that it is a rite conducted by men
+which preserves our natural order in the universe; the other is that it is empow­
+ered by divine symbols (sunthēmata), is raised up through them to be joined
+on high with the Gods, and is led harmoniously round to their order. This latter
+aspect can rightly be called taking the shape of the Gods (DM 184.1–8).
+
+Allowing for changes in culture and rhetorical style, the same process occurs in
+dreamwork. Like theurgy, “all of dreamwork” is dual and in precisely the same
+way. If we do not reduce dream images to external reality or to aspects of my
+“self” but see them as autonomous entities, then we can appreciate that their of­
+ten familiar appearances in dreams are shaped by our own receptivity and despite
+the personal context from which the image is drawn, its essence remains inde­
+pendent of my subjectivity. Rather than seeing the dream as a commentary on the
+day, Hillman prefers to see it as a digestion of the dayworld,100 transforming it
+into an imaginal reality and, in the process, drawing our day life ever closer to the
+imaginal. “In dreams,” Hillman writes, “we are visited by the daimons, nymphs,
+
+99 DM 165.14; cf. Shaw, Theurgy and the Soul, op. cit., 138–139.
+100 Hillman, The Dream and the Underworld, 96.
+
+350
+
+GreGory SHAw
+
+heroes and Gods shaped like our friends of last evening.”101 So in dreamwork,
+although the dreamer’s associations to a dream igure may reveal characteristics
+useful for the dreamworker’s sensitivity to the image and may provide emotional
+texture to help strengthen the vessel of the dreamwork, the image itself is never
+taken literally as the dreamer’s mother, father, sister, etc. Each is an imaginal
+entity who takes on the shape of a familiar igure.
+In dreamwork, to the degree that we are able to enter the atmosphere and ac­
+tivity of the images, we become that atmosphere and can sense what the images
+want, we feel their voice and their will lead us, inhabit us, possess us, and yet
+we remain a small group of people sitting in a dimly lit ofice doing dreamwork.
+Dreamwork shares theurgy’s duality: on the one hand the rite is conducted by
+people with identities in this world, yet on the other hand, by means of the dream
+images we are led into another reality, become possessed by its igures and, like
+Iamblichus’s theurgists, “we take on the shape of the gods.” Just as the theurgic
+sunthēma does its work on the soul without our thinking, so the dream images
+inluence us to enter their dreaming, to participate in their world.
+Lest “taking on the shape of the Gods” sounds too elevating and heroic, it is
+important to remember that the shapes the gods most often present to us relect
+the pathologies of the soul in the material order: the corruptions, ruptures, colli­
+sions and decay of generated life. It is one thing to write about this process, quite
+another to experience it: to feel involuntary spasms and contractions in the gut,
+breathless constriction, quivering of limbs and the desperate panic of the mind.
+Like Iamblichean theurgy, dreamwork too, begins with the material gods and the
+pathological habits in which we have become coagulated and ixed. Like theurgy,
+dreamwork also requires a irm foundation in those very elements we most abhor
+and try to rise above: the shit, the mud, the ugliness of our existence.102 To con­
+tain the pressure of these encounters requires great precision and care on the part
+of dreamworkers. They must lead the dreamer slowly into the atmosphere of the
+image at a pace determined both by the image and by the dreamer’s resistance
+to the image. This process often requires drawing emotionally charged associa­
+tions from the dreamer’s dayworld in order to strengthen the vessel of the work.
+Bosnak provides an example.
+He refers to the dream of a middle­aged man to show that associations from
+the dayworld can be used to serve the nightworld. At the same time, he dem­
+onstrates how a pathological image, properly contained, allows the dreamer to
+reach the “god” who resides in the image. The dream:
+101 Hillman, The Dream and the Underworld, 62.
+102 Iamblichus speaks of the hieratic value of the image of mud in the egyptian symbol of the
+lotus holding the god Harpokrates; see Shaw, Theurgy and the Soul, 63; Hillman, The
+Dream and the Underworld, 183–85; Bosnak, Tracks, 47–59.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+351
+
+A middle­aged man dreams that he is sitting by a refrigerator. He feels lonely
+and rejected. His wife has left. The refrigerator is empty.103
+
+Through re-entering the dream and making a slow descent into this cold and
+lonely place, the dreamer is led into the icy atmosphere of the refrigerator. He
+remembers, by association, the coldness of his mother, the fears of being alone
+as a child and now again as an adult. Rather than draw the dream images out
+of the dark to focus on personal problems, Bosnak uses the emotions released
+by the associations to strengthen the vessel of the work and move into a deeper
+identiication with the dream image, importing the emotions of daily life to serve
+the soul’s dreaming rather than exporting imagery out of the dream to serve the
+dreamer’s “self-development.” Bosnak describes this deepening:
+As we make this importing move, the feelings in the dream are magniied: he
+suddenly feels himself in a deep freeze. A spontaneous transit has taken place to
+the interior, frigid core of the freezer. The deep freeze pervades his entire body.
+He begins to feel a drugged glow of well­being … He has been moved to the
+core of cold. The feeling of isolation has been essentialized into a concentrated
+emotional substance through distillation … The dreamer knows the essence of
+coldness (my emphases).104
+
+By penetrating to the essence of coldness, the dreamer begins to feel his loneli­
+ness turn into “an ability to be alone,” clinging less to the warmth of his wife, and
+in turn, the dream wife feels less constricted by the husband. The man’s dread
+of loneliness and coldness which had poisoned him has been intensiied in the
+pressure-cooking of dreamwork into its own antidote, a process Bosnak com­
+pares to homeopathic distillation where the pharmakon as poison is transformed
+into medicine: the dreadful coldness of the refrigerator becomes, in its essence, a
+cure, allowing the dreamer to contain the “concentrated emotional substance” of
+cold. In theurgic terms, the dreamer, plagued by daimons of loneliness, isolation
+and cold, reconigures his awareness into a receptacle of the god who has author­
+ity over these congealing and isolating powers. By properly receiving the god,
+the dreamer is cured of its ill effects: loneliness, frigidity, and rejection.
+This god, Iamblichus would tell us, is Kronos, whose ancient power “stabiliz­
+es” the soul, but when improperly (unconsciously) received he is experienced as
+“rigidity and coldness.”105 Ficino, similarly speaks of the power of Saturn (Kro­
+nos) to effect a frozen experience like death.106 The arts of theurgy and dream­
+work allow the soul to receive the god, to contain the “concentrated emotional
+103 Bosnak, Tracks., 53.
+104 Ibid., 53–54.
+105 DM 55.5–10.
+106 Thomas Moore, The Planets Within (Great Barrington, MA: Lindisfarne Books, 1990), 170.
+
+352
+
+GreGory SHAw
+
+substance,” through a ritual in which the god reveals himself as “Refrigerator”:
+the sunthēma of Kronos in his crystalizing power.
+Clearly, there can be no map or guide book for these excursions into imagi­
+nal reality. Abstract schemes, for example, that would equate refrigerators with
+Kronos cannot help the dreamworker. The next refrigerator, after all, might be
+full of cool, moist fruit, thus creating an atmosphere entirely foreign to Kronos­
+The-Deep-Freezer. Similarly, the dreamworker cannot know how she will enter
+the dream, but must learn how to trust her not-knowing and be willing to follow
+the dreaming of imaginal beings, guided often only by the affects aroused by her
+resistance to those beings. Bosnak admits to experiencing “a not-knowing so
+profound that it makes me shiver. I passionately don’t know,” he says.107 Yet, like
+the theurgists who share in this not-knowing, he enters the activity and atmos­
+phere of dream images and learns how to swim in their currents. After a number
+of such excursions, the dreamworker begins to recognize changes in the texture
+and density of atmospheres in the imaginal realm, but this can only be learned
+in increments of experience, not by theoretical study. Similarly, Iamblichus ex­
+plains to Porphyry that knowledge of the gods in theurgy can only be learned by
+experience. He says:
+Only theurgists know these things in a precise way since they have experienced
+these activities. Only they are able to know what the perfection of the sacred
+operation is (DM 229.17–230.2).108
+
+One element that may distinguish dreamwork from Neoplatonic theurgy is the
+degree to which the participants are possessed by the images. In theurgy, the pos­
+session was occasionally total and the theurgist sometimes entered a trance that
+entirely obliterated discursive awareness.109 In dreamwork the participants ordi­
+narily remain awake, and however much they are possessed by the atmosphere
+of imaginal beings, they remain lightly tethered to this world. This is also what
+distinguishes Jung’s active imagination from theurgic work with images, not – as
+Hillman argued – that theurgy attempted to work on the gods and coerce spirits
+to serve human desires. Perhaps because the cultural context of late antiquity
+presented less resistance to the imaginal world, the trances that occurred in the­
+urgy simply relect a cultural difference in boundaries with imaginal beings. As
+regards such trances, I suspect the possessions in theurgy were different in de­
+107 Bosnak, Tracks, 11.
+108 Compare also his response to Porphyry’s theoretical approach to theurgy: “Some of these
+[questions], such as require experience of actions for their accurate understanding, will
+not be possible [to explain] by words alone (DM 6.6–7) … [I]t is not enough simply to learn
+about these things, nor would anyone who simply knows these things become accom­
+plished in the divine science” (DM 114.1–2).
+109 DM 110.12–111.2.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+353
+
+gree, but not in kind, from the possessions in dreamwork. In fact, Iamblichus
+maintains that the deepest contact with the gods come when the soul is in a hyp­
+nagogic state, “between waking and sleeping” (DM 103.13), the kind of aware­
+ness exercised in dreamwork.
+Bosnak’s dreamwork may be described as a collective form of Jungian active
+imagination. The difference in Bosnak’s method is that a group of participants
+can intensify and contain images that might otherwise overwhelm an individu­
+al and, more importantly, without the help of dreamworkers, it is unlikely that
+dreamers could overcome their unconscious resistances to the dream. Before the
+middle­aged man was able to enter the deep freeze, the participants in his dream
+had probably already entered the frozen atmosphere and had begun to feel its
+affects in their bodies, noting, through its location and intensity, resistances to
+the image but not-knowing if this was their own resistance, that of the dreamer,
+or both. This symbiotic capacity allows the dreamworker to use physical affects
+as guides to gently ask the dreamer how his body or parts of his body feel, us­
+ing whatever sensate image the dreamworker feels most likely to intensify the
+affect in the dreamer’s body and deepen his experience of the image.110 By al­
+lowing themselves to carry the affect of the refrigerator, the dreamworkers help
+the dreamer do something he could not consciously will to do – experience an
+identiication with the freezer.111 For someone who is terriied of the cold, this
+transit would be impossible without the support of other “containers” sharing the
+load, so to speak, so that he could experience the distillation of his fear and dread
+into the essence of coldness.112
+Identifying with refrigerators may seem to have very little to do with Neopla­
+tonic theurgy, but that perception only relects our own literalness and rigidity as
+regards the gods of Platonism. The Neoplatonists knew that no one has ever seen
+the gods despite the abundance of theophanies reported in the literature. The gods
+are entirely ineffable and invisible, so if they are seen, even in visions or dreams,
+they are clothed in the imagination of the dreamer. Proclus explains this:
+… the Gods are seen, yet not seen at all. In fact, those who see the Gods witness
+them in the luminous garments of their souls … Each God is formless, even if
+he is seen with a form. For the form is not in him but comes from him due to the
+incapacity of the viewer to see the formless without a form. Rather, according
+to his nature he sees by means of forms.113
+
+110 Bosnak, Tracks, 21–26.
+111 Ibid., 31.
+112 Ibid., 59.
+113 Cited in Shaw, Theurgy and the Soul, 246–247; from Proclus Commentary on the Republic
+I.39.5–27; 28–40.
+
+GreGory SHAw
+
+354
+
+The luminous garments described by Proclus refer to the soul’s ochēma, our
+subtle vehicle or body which is intimately tied to the soul’s phantastikon, our
+image-making power: the imagination. Since the ineffable symbols of the gods
+are clothed “in accord with our nature,” then it should not be surprising if these
+long-forgotten powers would appear to us, as Hillman says, shaped like familiar
+friends, lovers, relatives, or even refrigerators! Our imaginal experiences today
+tend to be restricted to dreams while in Iamblichus’s time daytime experiences
+were also common, yet the soul’s imaginal body, its ochēma was, and continues
+to be, the vehicle in which we encounter the gods. Hillman recognized the con­
+nection between his imaginal work and the Neoplatonic ochēma for he writes,
+describing dream images:
+[They] become the means of translating life-events into soul, and this work,
+aided by the conscious elaboration of the imagination, builds an imaginal vessel
+or “ship of death” (a phrase taken from D. H. Lawrence), that is similar to the
+subtle body, or ochēma of the Neoplatonists …114
+
+Bosnak’s dreamwork is just such a labor, building a vessel of the imagination,
+and while it would be unreasonable to think that dreamwork reproduces the the­
+urgical art in an explicit way, it clearly follows the seven principles central to
+Neoplatonic theurgy enumerated above:
+1A. Just as theurgy was not an attempt to manipulate the gods, so dreamwork
+is not so much our work on dreams as it is a discipline that allows dreams to
+work on us.
+2A. In each session of dreamwork, the group enters a trance-like state deined
+by the contours of the dream. Although the dreamworkers become “possessed”
+by the images of the dream, they remain tethered to their awareness that they are
+doing dreamwork. Like theurgists, they inhabit two worlds.
+3A. The descent into dream reality provokes intense emotional reactions that
+would push us outside the dream unless a vessel is carefully built by the group
+within the texture of the dream images. Like the theurgic hupodochē, the strength
+of this vessel is determined by the capacity of the dreamer and of the group to
+contain the intensity of emotions released.
+4A. In dreamwork the “gods” appear in a variety of forms, veiling (and revealing) themselves through images of friends, relatives, or even household
+appliances. Like the theurgic sunthēmata, these images allow us to contact the
+depths hidden in the soul.
+5A. Perhaps the most important and certainly the most dificult principle of
+dreamwork is that dreamworkers do not know what the dream means nor what
+114 Hillman, Archetypal Psychology, 28.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+355
+
+they will do with the dream until they are in it. As Iamblichus said of theurgy,
+“we don’t perform these acts intellectually [i.e., interpretively] for then their en­
+ergy would be intellectual and depend on us....”(DM 96.11–13). In the same way,
+dreamwork is determined by the images and the subtle atmospheres in which
+they are received. This follows Hillman’s appeal in Dream and the Underworld
+to sever the link with the dayworld and resist our habit of translating the dream
+into waking language.115
+6A. Dreamwork is a discipline of the imagination and a way of consciously
+re­entering a world where images “do not depend on us” but act on us, affecting
+our mood and activity. The capacity to endure the pressures released in dream­
+work is a function of the strength of our ochēma, a body of imagination that,
+according to the Neoplatonists, endures the brokenness of embodied dismember­
+ment as well as the beatitude of a uniied multiplicity.
+7A. Hillman, following Jung, asserts that today the “gods have become dis­
+eases” and that we must now recover the gods in our pathologies. To seek tran­
+scendence prior to a full recognition of our psycho­pathology, Hillman says, is
+“an exercise in self­deception.”116 Just as theurgy required a preliminary worship
+of material gods who preside over the suffering of generated lives, so dreamwork
+involves an encounter with these pathologies and understands that each agony,
+each poison of the soul, is also a medicine, a god waiting to be properly received
+in the pressure-cooking container of dreamwork.
+Of course, there are also signiicant differences between contemporary dream­
+work and theurgy. Iamblichus had the cultural support of well-respected tradi­
+tions of worshipping the gods in sacriices and divination to which he could re­
+fer. This provided a familiarity that archetypal psychologists lack, for they are
+limited to dreams and illnesses as the only archaic and uncontrolled experiences
+that we must, reluctantly, recognize in our psyche. It is, therefore, more dificult
+today to draw people into imaginal reality because of the terror we feel in the face
+of the unfamiliar, the other, the alien. Bosnak must therefore work through much
+denser emotional resistance to the “other” than the theurgists of Iamblichus’s or
+Ficino’s time. Because of our heroic resistance to darkness, the work must go
+very slowly. Bosnak explains:
+In dreamwork we constantly modulate pressure in order to keep a balance be­
+tween the imperative of dreamwork to press deeper into the sensitive areas that
+repel consciousness and the need of the dreamer to feel safe (my emphasis).117
+
+115 James Hillman, The Dream and the Underworld, 13.
+116 James Hillman, Re-Visioning Psychology, op. cit., 70.
+117 Bosnak, Tracks, 73.
+
+GreGory SHAw
+
+356
+
+To press too hard or too fast breaks the vessel and we rise to the surface, out of
+the imaginal and into our opinions about the dream. Then we are no longer in the
+dream, but the dream is in us and subject to our control. Iamblichus may have
+spoken of similar details to his students, but we have no knowledge of it. He may
+also have recognized a symbiotic way of knowing through a kind of physiologi­
+cal grammar that Bosnak describes,118 but our evidence is too meagre to pursue it.
+
+IV. Conclusion: Hailing Hermes
+Our ancestors dedicated the discoveries of their
+wisdom to this deity, inscribing all their own
+writings with the name of Hermes.
+Iamblichus
+
+I have attempted to show that archetypal psychology and dreamwork in particu­
+lar follow the trajectory of the theurgic Neoplatonism initiated by Iamblichus. By
+reversing Plotinus’s disembodied psychology, Iamblichus was able to recover the
+great wealth of Plotinus’s insights into our awareness of the gods in the material
+world. Iamblichus elaborated these insights, and in theurgy he developed a praxis
+that coordinated the needs of souls with appropriate ritual vessels to mediate the
+presence of the gods and bring the soul back into their company. Because Hill­
+man misread theurgy as an attempt to manipulate the gods he did not draw deeply
+from Iamblichus’s insights but developed his own psychological praxis that coor­
+dinates our psychic needs with images that contain the “gods” in a theurgic way
+and effect the soul’s deepening. Following the ground-breaking work of Jung,
+Hillman’s archetypal psychology is a brilliant contemporary expression of Neo­
+platonic epistrophē, drawing the soul back to its archetypal roots, but the effect of
+Hillman’s theoretical insights might be short­lived and the epistrophē perverted
+if the principles of archetypal psychology are left in the hands of intellectuals,
+who, like Iamblichus’s “Greeks”, worship at the altar of discursive brilliance.
+Iamblichus was by no means anti­intellectual, but he understood the titanic
+impulse of the discursive mind and knew that it needed to ind its limits, to be
+contained. The praxis of theurgy provided that container. In a similar way, Robert
+Bosnak’s dreamwork provides a container for the theoretical insights of Hill­
+man’s archetypal psychology. Dreamwork moves intellectual insight into imme­
+118 The symbiotic and telepathic knowing Bosnak reports among his Aboriginals (Tracks,
+20–22) sound remarkably like the reports of supernatural powers attributed to the later
+Platonists; see G. Shaw, “Platonic Siddhas: Supernatural Philosophers of Neoplatonism,”
+in Beyond Physicalism, ed. by E. Kelly, A. Crabtree, P. Marshall (Lanham, Maryland: Row­
+man & Littleield, 2014), 275–314.
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+357
+
+diate experience, ensuring that the understanding so necessary for epistrophē is
+not co­opted immediately by our discursive ability and the hubris that so often
+attends it. The mysteries, Aristotle tells us, are not a matter of knowledge but
+experience,119 and dreamwork is a contemporary expression of initiation into the
+mysteries, the Neoplatonic mustagogia. If we wish to be more than intellectually
+entertained at Hillman’s call to burn the bridge to the dayworld; if we dare to no
+longer face and relect only the light of our habitual daytime knowing; if we are
+willing to encounter shadows in darkness and become a shade ourselves, then we
+must accept the unglamorous discipline exempliied in dreamwork.
+The theurgists were right, I think, in attributing all their intellectual discov­
+eries to Hermes, to a god capable of containing unbearable things, mysteries
+that would inlate us. It seems that Hermes/Mercury must also be credited for
+Bosnak’s discovery, for it was in an encounter with this god that he “stumbled
+upon an insight speciic to my work.”120 While dreaming of his native Holland,
+Bosnak inds himself near Leiden University, his alma mater. He notices an an­
+cient statue in the canal and dives in the water to pull it up. “It is Mercury,” he
+says exaltedly, “the one of the winged feet, carrying his staff with the two snakes,
+his left hand up in the air in the way you would hail a cab in New York City (my
+emphasis).”121 After a solemn struggle to pull the statue out of the water Bosnak
+stands to look at it. He says:
+It is at this point that I realize I am dreaming. I look at the bridge and see that
+it is entirely real. I feel the ground under my feet and know it is irm. I look at
+the sky and observe the clouds. This world is absolutely real, and yet I know for
+sure that I am dreaming …122
+
+Excited to share this knowledge with someone, Bosnak rushes out to the street to
+stop a taxi. He continues:
+The cabdriver lowers his window and looks at me, a questioning look on his face.
+I yell at him, “I’m dreaming. This is all a dream. You are part of my dream!”
+At irst the cabdriver looks incredulous. Suddenly he seems to realize that I
+must be some kind of lunatic, and the expression on his face is a combination of
+boredom and slight disgust. He rolls the window up and drives off.123
+
+119 Describing the Eleusinian mysteries, Aristotle said those who enter the initiations “do not
+learn anything (ou mathein ti ) but experience (pathein ) something by being put into a
+changed state of mind (diatethenai )” Aristotle in Synesius Dio 10; cited by Marvin Meyer,
+The Ancient Mysteries (New york: Harper Collins, 1987), 12.
+120 Bosnak, Tracks, 50 (his emphasis).
+121 Ibid., 11.
+122 Ibid., 12.
+123 Ibid., 12.
+
+358
+
+GreGory SHAw
+
+We don’t know precisely how the face of this cabdriver affected Bosnak, but it
+was enough to throw him out of the hubris of seeing dream igures as parts of his
+personality. The “lucidity” Bosnak describes has become a much sought for ex­
+perience by those wanting to control their dreams. Fortunately, in this initiatory
+dream into the world of Hermes, Bosnak receives a profoundly different experi­
+ence and lesson: the dream images are real, entirely real in the imaginal world of
+dreams. The taxi driver is not part of me.
+Hermes is the god who escorts the dead into the underworld, the winged god
+who takes souls across the bridge into the world of dreams and shadows. Did
+this wily god, the “very crafty, super subtle Hermes”124 appear twice for Bosnak?
+Once in his traditional form, the Great Archetype pulled out of the waters to the
+surface, and then later, after Bosnak looks at the god and his own surface aware­
+ness is pulled into the dream, when Bosnak wants to announce his god-likeness
+to someone, again Hermes appears, but now in the form of the taxi driver, the one
+who takes us over the bridge. It is this living Hermes, hidden­and­revealed in his
+archetypal activity, who teaches Bosnak with a wordless gesture that the entities
+of the imaginal world are not sub-personalities, not parts of his dream. Dream
+images must not be met while wearing our heroically inlated armor. Shades must
+be met by a shadowy, imaginal ego. It was this taxi driver, Bosnak says, that
+provided him with the key, his sunthēma to the imaginal world. Fortunately, this
+cabdriver was just a bit disgusted with his discoverer, enough to allow Bosnak to
+realize the autonomy and reality of dream images.
+
+124 The Homeric Hymn to Hermes, 22–23, tr. by Charles Boer (Asphodel Press, 2006).
+
+ARCHETyPAL PSyCHoLoGy, DREAMwoRK, AND NEoPLAToNISM
+
+359
+
+Gregory Shaw
+is Professor of Religious Studies at Stonehill College, Massachusetts.
+He is the author of Theurgy and the Soul: The Neoplatonism of Iamblichus
+and a number of articles on the later Neoplatonists and on Iamblichus in particular.
+He is currently working on a manuscript that explores the embodied aspects of
+later Platonic philosophy and its similarity to the tantric traditions of South Asia.
+Theurgy is an embodied Platonism very much at odds with the dualism
+that has been identiied with Platonic philosophy.
+gshaw@stonehill.edu
+
+

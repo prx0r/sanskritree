@@ -1,0 +1,822 @@
+[
+  {
+    "passage_id": "bhairavastava.1",
+    "track": "a_known",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "lemmas": [
+      "hfd",
+      "vand",
+      "maya",
+      "cit2"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1\n\nLEXICAL EVIDENCE:\n  hfd: heart\n  vand: to praise\n  maya: [unrecognized: maya]\n  cit2: [unrecognized: cit2]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  hfd: heart\n  vand: to praise\n  maya: [unrecognized: maya]\n  cit2: [unrecognized: cit2]",
+    "llm_output_a2": "I praise in my heart Lord Bhairava, the refuge of the helpless, with my mind absorbed in you.",
+    "llm_output_b2": "[Instruction] hfd vand maya cit2",
+    "llm_cost": null,
+    "llm_tokens": 144,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhairavastava.4",
+    "track": "a_known",
+    "source": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+    "lemmas": [
+      "SaNkara",
+      "sevana1",
+      "cintana",
+      "DI2",
+      "iras"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4\n\nLEXICAL EVIDENCE:\n  SaNkara: [unrecognized: SaNkara]\n  sevana1: [unrecognized: sevana1]\n  cintana: [unrecognized: cintana]\n  DI2: [unrecognized: DI2]\n  iras: [unrecognized: iras]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  SaNkara: [unrecognized: SaNkara]\n  sevana1: [unrecognized: sevana1]\n  cintana: [unrecognized: cintana]\n  DI2: [unrecognized: DI2]\n  iras: [unrecognized: iras]",
+    "llm_output_a2": "I am steadfast in devotion to Sankara, filled with the fearsome power of Bhairava.",
+    "llm_output_b2": "[Instruction] SaNkara sevana1 cintana DI2 iras",
+    "llm_cost": null,
+    "llm_tokens": 138,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhairavastava.6",
+    "track": "a_known",
+    "source": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+    "lemmas": [
+      "BAva",
+      "parA",
+      "aha",
+      "a",
+      "nirvf",
+      "i"
+    ],
+    "frame": "IdentityClaim",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6\n\nLEXICAL EVIDENCE:\n  BAva: [unrecognized: BAva]\n  parA: [unrecognized: parA]\n  aha: [unrecognized: aha]\n  a: [unrecognized: a]\n  nirvf: [unrecognized: nirvf]\n  i: to go\n\nFRAME: IdentityClaim\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  BAva: [unrecognized: BAva]\n  parA: [unrecognized: parA]\n  aha: [unrecognized: aha]\n  a: [unrecognized: a]\n  nirvf: [unrecognized: nirvf]\n  i: to go",
+    "llm_output_a2": "In you, who are full of the nectar of being, in you my very self, I find peace.",
+    "llm_output_b2": "[IdentityClaim] BAva parA aha a nirvf i",
+    "llm_cost": null,
+    "llm_tokens": 142,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.1.1",
+    "track": "a_known",
+    "source": "taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+    "lemmas": [
+      "tad",
+      "Sakti",
+      "cakra",
+      "viBava"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ\n\nLEXICAL EVIDENCE:\n  tad: that\n  Sakti: Sakti/power\n  cakra: wheel\n  viBava: manifestation\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  tad: that\n  Sakti: Sakti/power\n  cakra: wheel\n  viBava: manifestation",
+    "llm_output_a2": "We praise that Sankara, the source of the power of the wheel of energies.",
+    "llm_output_b2": "[Instruction] tad Sakti cakra viBava",
+    "llm_cost": null,
+    "llm_tokens": 92,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.1.5",
+    "track": "a_known",
+    "source": "na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ",
+    "lemmas": [
+      "mUDa",
+      "tad"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ\n\nLEXICAL EVIDENCE:\n  mUDa: [unrecognized: mUDa]\n  tad: that\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  mUDa: [unrecognized: mUDa]\n  tad: that",
+    "llm_output_a2": "There is no state of delusion here; that exists in the ultimate sense.",
+    "llm_output_b2": "[DevotionalAct] mUDa tad",
+    "llm_cost": null,
+    "llm_tokens": 88,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.2.6",
+    "track": "a_known",
+    "source": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+    "lemmas": [
+      "tadAtmatAsamApattiH",
+      "iz1",
+      "sADaka"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tadātmatāsamāpattir icchataḥ sādhakasya yā",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tadātmatāsamāpattir icchataḥ sādhakasya yā\n\nLEXICAL EVIDENCE:\n  tadAtmatAsamApattiH: [unrecognized: tadAtmatAsamApattiH]\n  iz1: [unrecognized: iz1]\n  sADaka: [unrecognized: sADaka]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  tadAtmatAsamApattiH: [unrecognized: tadAtmatAsamApattiH]\n  iz1: [unrecognized: iz1]\n  sADaka: [unrecognized: sADaka]",
+    "llm_output_a2": "[Translation of: tadātmatāsamāpattir icchataḥ sādhakasya yā...]",
+    "llm_output_b2": "[DevotionalAct] tadAtmatAsamApattiH iz1 sADaka",
+    "llm_cost": null,
+    "llm_tokens": 84,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhagavad_gita.x.47.41e7",
+    "track": "a_known",
+    "source": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+    "lemmas": [
+      "aDikf",
+      "tA",
+      "mA",
+      "Pal",
+      "katT",
+      "mA",
+      "Pal",
+      "BU",
+      "mA",
+      "tA",
+      "akarman"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||\n\nLEXICAL EVIDENCE:\n  aDikf: [unrecognized: aDikf]\n  tA: [unrecognized: tA]\n  mA: not/my\n  Pal: [unrecognized: Pal]\n  katT: [unrecognized: katT]\n  mA: not/my\n  Pal: [unrecognized: Pal]\n  BU: to become\n  mA: not/my\n  tA: [unrecognized: tA]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  aDikf: [unrecognized: aDikf]\n  tA: [unrecognized: tA]\n  mA: not/my\n  Pal: [unrecognized: Pal]\n  katT: [unrecognized: katT]\n  mA: not/my\n  Pal: [unrecognized: Pal]\n  BU: to become\n  mA: not/my\n  tA: [unrecognized: tA]",
+    "llm_output_a2": "[Translation of: bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā kar...]",
+    "llm_output_b2": "[DevotionalAct] aDikf tA mA Pal katT mA Pal BU mA tA akarman",
+    "llm_cost": null,
+    "llm_tokens": 224,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhagavad_gita.x.45.c4b1",
+    "track": "a_known",
+    "source": "bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||",
+    "lemmas": [
+      "yadi",
+      "mA",
+      "aprati",
+      "Sastra",
+      "aS",
+      "raRvi",
+      "han",
+      "tan",
+      "mA",
+      "BU"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||\n\nLEXICAL EVIDENCE:\n  yadi: [unrecognized: yadi]\n  mA: not/my\n  aprati: [unrecognized: aprati]\n  Sastra: [unrecognized: Sastra]\n  aS: [unrecognized: aS]\n  raRvi: [unrecognized: raRvi]\n  han: [unrecognized: han]\n  tan: [unrecognized: tan]\n  mA: not/my\n  BU: to become\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  yadi: [unrecognized: yadi]\n  mA: not/my\n  aprati: [unrecognized: aprati]\n  Sastra: [unrecognized: Sastra]\n  aS: [unrecognized: aS]\n  raRvi: [unrecognized: raRvi]\n  han: [unrecognized: han]\n  tan: [unrecognized: tan]\n  mA: not/my\n  BU: to become",
+    "llm_output_a2": "[Translation of: bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhār...]",
+    "llm_output_b2": "[DevotionalAct] yadi mA aprati Sastra aS raRvi han tan mA BU",
+    "llm_cost": null,
+    "llm_tokens": 224,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.28",
+    "track": "a_known",
+    "source": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "lemmas": [
+      "dvi"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ\n\nLEXICAL EVIDENCE:\n  dvi: [unrecognized: dvi]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  dvi: [unrecognized: dvi]",
+    "llm_output_a2": "One should contemplate her dissolving at the end of the twelve, and the arising of Bhairava occurs.",
+    "llm_output_b2": "[Instruction] dvi",
+    "llm_cost": null,
+    "llm_tokens": 98,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.55",
+    "track": "a_known",
+    "source": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "lemmas": [],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt\n\nLEXICAL EVIDENCE:\n[No lexical evidence available]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "[No lexical evidence available]",
+    "llm_output_a2": "Having entered the heart and meditating, liberated, one attains freedom.",
+    "llm_output_b2": "[Instruction] [unable to translate — no lexical evidence]",
+    "llm_cost": null,
+    "llm_tokens": 100,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v1.34.9bf9",
+    "track": "b_untranslated",
+    "source": "१५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या परा कला ।। ३४ ।।",
+    "lemmas": [
+      "as",
+      "ca",
+      "sA",
+      "kal",
+      "saMsf",
+      "vft",
+      "tasmAt",
+      "taraMgiRI",
+      "parA",
+      "kal"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: १५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या परा कला ।। ३४ ।।",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: १५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या परा कला ।। ३४ ।।\n\nLEXICAL EVIDENCE:\n  as: to be\n  ca: and\n  sA: [unrecognized: sA]\n  kal: [unrecognized: kal]\n  saMsf: [unrecognized: saMsf]\n  vft: [unrecognized: vft]\n  tasmAt: [unrecognized: tasmAt]\n  taraMgiRI: [unrecognized: taraMgiRI]\n  parA: [unrecognized: parA]\n  kal: [unrecognized: kal]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  as: to be\n  ca: and\n  sA: [unrecognized: sA]\n  kal: [unrecognized: kal]\n  saMsf: [unrecognized: saMsf]\n  vft: [unrecognized: vft]\n  tasmAt: [unrecognized: tasmAt]\n  taraMgiRI: [unrecognized: taraMgiRI]\n  parA: [unrecognized: parA]\n  kal: [unrecognized: kal]",
+    "llm_output_a2": "[Translation of: १५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तत...]",
+    "llm_output_b2": "[DevotionalAct] as ca sA kal saMsf vft tasmAt taraMgiRI parA kal",
+    "llm_cost": null,
+    "llm_tokens": 194,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v3.50.2ae8",
+    "track": "b_untranslated",
+    "source": "तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥",
+    "lemmas": [
+      "tan",
+      "tu",
+      "na",
+      "mah"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥\n\nLEXICAL EVIDENCE:\n  tan: [unrecognized: tan]\n  tu: [unrecognized: tu]\n  na: not\n  mah: [unrecognized: mah]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  tan: [unrecognized: tan]\n  tu: [unrecognized: tu]\n  na: not\n  mah: [unrecognized: mah]",
+    "llm_output_a2": "[Translation of: तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्ति...]",
+    "llm_output_b2": "[DevotionalAct] tan tu na mah",
+    "llm_cost": null,
+    "llm_tokens": 172,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v1.6.d902",
+    "track": "b_untranslated",
+    "source": "श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमानन्दशक्तिस्तु ँ सा शक्तिर्भीषण कथम् ।। ६ ॥",
+    "lemmas": [
+      "SrInATa",
+      "vac",
+      "maRqala",
+      "tu",
+      "kas",
+      "kati",
+      "tu",
+      "BU",
+      "sA",
+      "kaTam"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमानन्दशक्तिस्तु ँ सा शक्तिर्भीषण कथम् ।। ६ ॥",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमानन्दशक्तिस्तु ँ सा शक्तिर्भीषण कथम् ।। ६ ॥\n\nLEXICAL EVIDENCE:\n  SrInATa: glorious lord\n  vac: to speak\n  maRqala: mandala\n  tu: [unrecognized: tu]\n  kas: [unrecognized: kas]\n  kati: [unrecognized: kati]\n  tu: [unrecognized: tu]\n  BU: to become\n  sA: [unrecognized: sA]\n  kaTam: [unrecognized: kaTam]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  SrInATa: glorious lord\n  vac: to speak\n  maRqala: mandala\n  tu: [unrecognized: tu]\n  kas: [unrecognized: kas]\n  kati: [unrecognized: kati]\n  tu: [unrecognized: tu]\n  BU: to become\n  sA: [unrecognized: sA]\n  kaTam: [unrecognized: kaTam]",
+    "llm_output_a2": "[Translation of: श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमा...]",
+    "llm_output_b2": "[DevotionalAct] SrInATa vac maRqala tu kas kati tu BU sA kaTam",
+    "llm_cost": null,
+    "llm_tokens": 204,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v1.14.6f6f",
+    "track": "b_untranslated",
+    "source": "एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” कथं ज्ञास्यन्ति पुत्रकाः ॥ १४ ॥",
+    "lemmas": [
+      "etad",
+      "samas",
+      "jYA",
+      "putraka"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” कथं ज्ञास्यन्ति पुत्रकाः ॥ १४ ॥",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” कथं ज्ञास्यन्ति पुत्रकाः ॥ १४ ॥\n\nLEXICAL EVIDENCE:\n  etad: [unrecognized: etad]\n  samas: [unrecognized: samas]\n  jYA: to know\n  putraka: [unrecognized: putraka]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  etad: [unrecognized: etad]\n  samas: [unrecognized: samas]\n  jYA: to know\n  putraka: [unrecognized: putraka]",
+    "llm_output_a2": "[Translation of: एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” ...]",
+    "llm_output_b2": "[DevotionalAct] etad samas jYA putraka",
+    "llm_cost": null,
+    "llm_tokens": 182,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.79",
+    "track": "b_untranslated",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "lemmas": [
+      "kakza",
+      "kurvat"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: kakṣavyomni manaḥ kurvan śamam āyāti tallayāt\n\nLEXICAL EVIDENCE:\n  kakza: [unrecognized: kakza]\n  kurvat: [unrecognized: kurvat]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  kakza: [unrecognized: kakza]\n  kurvat: [unrecognized: kurvat]",
+    "llm_output_a2": "Placing the mind in the armpit-space, one attains peace through dissolution in that.",
+    "llm_output_b2": "[Instruction] kakza kurvat",
+    "llm_cost": null,
+    "llm_tokens": 90,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.102",
+    "track": "b_untranslated",
+    "source": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "lemmas": [
+      "Bramat",
+      "paS"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ\n\nLEXICAL EVIDENCE:\n  Bramat: [unrecognized: Bramat]\n  paS: [unrecognized: paS]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  Bramat: [unrecognized: Bramat]\n  paS: [unrecognized: paS]",
+    "llm_output_a2": "Meditating on the whirling, or perceiving everything, the arising of bliss occurs.",
+    "llm_output_b2": "[Instruction] Bramat paS",
+    "llm_cost": null,
+    "llm_tokens": 102,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.132",
+    "track": "b_untranslated",
+    "source": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "lemmas": [
+      "pratikṣaṇa",
+      "kṛta",
+      "kfta"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ\n\nLEXICAL EVIDENCE:\n  pratikṣaṇa: [unrecognized: pratikṣaṇa]\n  kṛta: [unrecognized: kṛta]\n  kfta: [unrecognized: kfta]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  pratikṣaṇa: [unrecognized: pratikṣaṇa]\n  kṛta: [unrecognized: kṛta]\n  kfta: [unrecognized: kfta]",
+    "llm_output_a2": "Meditating on sounds moment by moment, one is fulfilled according to the meaning.",
+    "llm_output_b2": "[Instruction] pratikṣaṇa kṛta kfta",
+    "llm_cost": null,
+    "llm_tokens": 100,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.3.19",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "lemmas": [
+      "ni-yacCat"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: niyacchan bhoktṛtām eti tataś cakreśvaro bhavet\n\nLEXICAL EVIDENCE:\n  ni-yacCat: [unrecognized: ni-yacCat]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  ni-yacCat: [unrecognized: ni-yacCat]",
+    "llm_output_a2": "Restraining the enjoyership, one goes to the lord of the wheel.",
+    "llm_output_b2": "[DevotionalAct] ni-yacCat",
+    "llm_cost": null,
+    "llm_tokens": 94,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.3.19",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "lemmas": [
+      "ni-yacCat"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: niyacchan bhoktṛtām eti tataś cakreśvaro bhavet\n\nLEXICAL EVIDENCE:\n  ni-yacCat: [unrecognized: ni-yacCat]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  ni-yacCat: [unrecognized: ni-yacCat]",
+    "llm_output_a2": "Restraining the enjoyership, one goes to the lord of the wheel.",
+    "llm_output_b2": "[DevotionalAct] ni-yacCat",
+    "llm_cost": null,
+    "llm_tokens": 94,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhairavastava.9",
+    "track": "b_untranslated",
+    "source": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+    "lemmas": [
+      "prI",
+      "Ap",
+      "sudarSana",
+      "eka",
+      "dus",
+      "aYji",
+      "samayajYa",
+      "samaya",
+      "jYa"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9\n\nLEXICAL EVIDENCE:\n  prI: [unrecognized: prI]\n  Ap: to obtain\n  sudarSana: [unrecognized: sudarSana]\n  eka: [unrecognized: eka]\n  dus: [unrecognized: dus]\n  aYji: [unrecognized: aYji]\n  samayajYa: [unrecognized: samayajYa]\n  samaya: [unrecognized: samaya]\n  jYa: [unrecognized: jYa]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  prI: [unrecognized: prI]\n  Ap: to obtain\n  sudarSana: [unrecognized: sudarSana]\n  eka: [unrecognized: eka]\n  dus: [unrecognized: dus]\n  aYji: [unrecognized: aYji]\n  samayajYa: [unrecognized: samayajYa]\n  samaya: [unrecognized: samaya]\n  jYa: [unrecognized: jYa]",
+    "llm_output_a2": "Having attained you, the beloved, the beautiful vision, the one difficult for others to reach, knower of the right time.",
+    "llm_output_b2": "[DevotionalAct] prI Ap sudarSana eka dus aYji samayajYa samaya jYa",
+    "llm_cost": null,
+    "llm_tokens": 156,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v1.10.0d90",
+    "track": "c_adversarial",
+    "source": "मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमारं तथा वृद्धक्रमं कथम् ।। १० ।।",
+    "lemmas": [
+      "tad",
+      "mudra",
+      "f",
+      "kIdfS",
+      "ca",
+      "taTA",
+      "kaTam"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमारं तथा वृद्धक्रमं कथम् ।। १० ।।",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमारं तथा वृद्धक्रमं कथम् ।। १० ।।\n\nLEXICAL EVIDENCE:\n  tad: that\n  mudra: gesture\n  f: [unrecognized: f]\n  kIdfS: [unrecognized: kIdfS]\n  ca: and\n  taTA: [unrecognized: taTA]\n  kaTam: [unrecognized: kaTam]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  tad: that\n  mudra: gesture\n  f: [unrecognized: f]\n  kIdfS: [unrecognized: kIdfS]\n  ca: and\n  taTA: [unrecognized: taTA]\n  kaTam: [unrecognized: kaTam]",
+    "llm_output_a2": "[Translation of: मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमार...]",
+    "llm_output_b2": "[DevotionalAct] tad mudra f kIdfS ca taTA kaTam",
+    "llm_cost": null,
+    "llm_tokens": 180,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "mbt.v3.67.34bc",
+    "track": "c_adversarial",
+    "source": "ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।",
+    "lemmas": [
+      "IS",
+      "jYA",
+      "vac",
+      "guru",
+      "kf",
+      "hati",
+      "ca",
+      "punar",
+      "punar",
+      "vA",
+      "pArTiva",
+      "kula",
+      "tad",
+      "jagannATa",
+      "tva"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।\n\nLEXICAL EVIDENCE:\n  IS: [unrecognized: IS]\n  jYA: to know\n  vac: to speak\n  guru: teacher\n  kf: to do\n  hati: [unrecognized: hati]\n  ca: and\n  punar: [unrecognized: punar]\n  punar: [unrecognized: punar]\n  vA: [unrecognized: vA]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  IS: [unrecognized: IS]\n  jYA: to know\n  vac: to speak\n  guru: teacher\n  kf: to do\n  hati: [unrecognized: hati]\n  ca: and\n  punar: [unrecognized: punar]\n  punar: [unrecognized: punar]\n  vA: [unrecognized: vA]",
+    "llm_output_a2": "[Translation of: ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्...]",
+    "llm_output_b2": "[DevotionalAct] IS jYA vac guru kf hati ca punar punar vA pArTiva kula tad jagannATa tva",
+    "llm_cost": null,
+    "llm_tokens": 422,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.11",
+    "track": "c_adversarial",
+    "source": "na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+    "lemmas": [
+      "triSirA",
+      "śakti"
+    ],
+    "frame": "DevotionalAct",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: na cāsau triśirā devo na ca śaktitrayātmakaḥ\n\nLEXICAL EVIDENCE:\n  triSirA: [unrecognized: triSirA]\n  śakti: [unrecognized: śakti]\n\nFRAME: DevotionalAct\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  triSirA: [unrecognized: triSirA]\n  śakti: [unrecognized: śakti]",
+    "llm_output_a2": "That one is not three-headed, not consisting of three powers.",
+    "llm_output_b2": "[DevotionalAct] triSirA śakti",
+    "llm_cost": null,
+    "llm_tokens": 88,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "lemmas": [
+      "anAvfta",
+      "rUpatva",
+      "anna"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit\n\nLEXICAL EVIDENCE:\n  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]",
+    "llm_output_a2": "[Translation of: tasyānāvṛtarūpatvān na nirodho'sti kutracit...]",
+    "llm_output_b2": "[Instruction] anAvfta rUpatva anna",
+    "llm_cost": null,
+    "llm_tokens": 86,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.61",
+    "track": "c_adversarial",
+    "source": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "lemmas": [
+      "yugapad"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate\n\nLEXICAL EVIDENCE:\n  yugapad: [unrecognized: yugapad]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  yugapad: [unrecognized: yugapad]",
+    "llm_output_a2": "Releasing both simultaneously, reality is revealed in the middle.",
+    "llm_output_b2": "[Instruction] yugapad",
+    "llm_cost": null,
+    "llm_tokens": 100,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "lemmas": [
+      "anAvfta",
+      "rUpatva",
+      "anna"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit\n\nLEXICAL EVIDENCE:\n  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]",
+    "llm_output_a2": "[Translation of: tasyānāvṛtarūpatvān na nirodho'sti kutracit...]",
+    "llm_output_b2": "[Instruction] anAvfta rUpatva anna",
+    "llm_cost": null,
+    "llm_tokens": 86,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.36",
+    "track": "c_adversarial",
+    "source": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "lemmas": [],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ\n\nLEXICAL EVIDENCE:\n[No lexical evidence available]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "[No lexical evidence available]",
+    "llm_output_a2": "When the bindu is seen and gradually dissolves, in its middle is the supreme state.",
+    "llm_output_b2": "[Instruction] [unable to translate — no lexical evidence]",
+    "llm_cost": null,
+    "llm_tokens": 98,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "bhairavastava.1",
+    "track": "c_adversarial",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "lemmas": [
+      "hfd",
+      "vand",
+      "maya",
+      "cit2"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1\n\nLEXICAL EVIDENCE:\n  hfd: heart\n  vand: to praise\n  maya: [unrecognized: maya]\n  cit2: [unrecognized: cit2]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  hfd: heart\n  vand: to praise\n  maya: [unrecognized: maya]\n  cit2: [unrecognized: cit2]",
+    "llm_output_a2": "I praise in my heart Lord Bhairava, the refuge of the helpless, with my mind absorbed in you.",
+    "llm_output_b2": "[Instruction] hfd vand maya cit2",
+    "llm_cost": null,
+    "llm_tokens": 144,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "lemmas": [
+      "anAvfta",
+      "rUpatva",
+      "anna"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: tasyānāvṛtarūpatvān na nirodho'sti kutracit\n\nLEXICAL EVIDENCE:\n  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  anAvfta: [unrecognized: anAvfta]\n  rUpatva: [unrecognized: rUpatva]\n  anna: [unrecognized: anna]",
+    "llm_output_a2": "[Translation of: tasyānāvṛtarūpatvān na nirodho'sti kutracit...]",
+    "llm_output_b2": "[Instruction] anAvfta rUpatva anna",
+    "llm_cost": null,
+    "llm_tokens": 86,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  },
+  {
+    "passage_id": "vb.79",
+    "track": "c_adversarial",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "lemmas": [
+      "kakza",
+      "kurvat"
+    ],
+    "frame": "Instruction",
+    "a2_prompt": "You are a Sanskrit translation assistant. Translate the following Sanskrit verse into accurate English. Do not add commentary or explanation. If the text is unclear or contains vocabulary you do not recognize, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "b2_prompt": "You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state \"Uncertain: [your best attempt]\" rather than inventing a meaning.\n\nSANSKRIT: kakṣavyomni manaḥ kurvan śamam āyāti tallayāt\n\nLEXICAL EVIDENCE:\n  kakza: [unrecognized: kakza]\n  kurvat: [unrecognized: kurvat]\n\nFRAME: Instruction\n\nTranslate the verse using the provided evidence. Do not add unsupported content.",
+    "frozen_config": {
+      "model": "to_be_set",
+      "provider": "to_be_set",
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "version": "v0.4"
+    },
+    "evidence_bundle": "  kakza: [unrecognized: kakza]\n  kurvat: [unrecognized: kurvat]",
+    "llm_output_a2": "Placing the mind in the armpit-space, one attains peace through dissolution in that.",
+    "llm_output_b2": "[Instruction] kakza kurvat",
+    "llm_cost": null,
+    "llm_tokens": 90,
+    "llm_timestamp": "2026-07-24T12:00:00Z"
+  }
+]

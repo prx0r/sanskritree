@@ -1,0 +1,1488 @@
+chapter 2
+
+Harmony and Voice Leading
+The enterprise of “musical set theory” aspires to catalogue all the chords available
+to contemporary composers. Unfortunately, this project turns out to be more complicated than one might imagine. This is, ﬁrst, because chords have an intrinsic and
+sophisticated geometry, with distance being determined by voice-leading size. Second, basic musical concepts such as “transposition,” “inversion,” “triad,” and “chord
+type” can all be relativized to scales; thus two chords may belong to the same category
+relative to one scale but not another. (To make matters worse, we can also do set
+theory in an unquantized space that admits a continuous inﬁnity of notes between B
+and C. This perspective can even teach us useful lessons about the discrete world of
+ordinary musical experience.) Third, chord tones themselves can be differentiated in
+terms of their importance, leading to phenomena such as rootedness and centricity.
+Finally, in the most sophisticated versions of set theory, the objects of comparison
+may themselves be chord progressions, with musical categorization proceeding ﬂexibly and according to an ever-changing variety of symmetry operations (to be discussed shortly).
+The next four chapters will try to address these issues, describing a new approach
+to chords and rebuilding “musical set theory” from the ground up. This chapter
+introduces the basic concepts and deﬁnitions. We begin with elementary geometrical
+models of musical structure, representing notes as points on a line (pitch space) and
+on a circle (pitch-class space). We then turn to higher-order objects—chord progressions and voice leadings—that describe motion through time. (Because this formalism sets the stage for much of the rest of the book, I encourage you to work through
+the study questions in Appendix F.) Next we consider the importance of symmetry in music theory, asking under what conditions harmonic consistency and conjunct melodic motion can be combined. This leads to our ﬁrst signiﬁcant theoretical
+result: a general understanding of the interdependence between acoustic consonance,
+efﬁcient voice leading, and harmonic consistency.
+
+2.1
+
+linear pitch space
+
+Sound consists of small ﬂuctuations in air pressure, akin to changes in barometric
+pressure. These ﬂuctuations are heard as having a deﬁnite pitch when they repeat
+themselves (at least approximately) after some period of time t (Figure 2.1.1). The
+
+Harmony and Voice Leading
+Figure 2.1.1 Pitched sounds are periodic. The fundamental frequency is equal to
+1/t, where t is the duration of the cycle.
+
+reciprocal of the period, 1/t, is the fundamental frequency of the sound—a number
+that measures how many repetitions occur per unit of time. Musicians without absolute pitch are sensitive not to fundamental frequencies as such, but rather to the ratios
+between them. Suppose, on Tuesday, a typical person whistles a tune whose pitches
+have frequencies f, g, h,. . . . On Wednesday, if asked to reproduce the tune, she is likely
+to whistle the frequencies cf, cg, ch, . . ., where c is some number close to one. Musicians
+say that the whistler has transposed the notes, changing their fundamental frequencies
+so as to preserve the ratios between them. This suggests that frequency ratios represent a kind of musical distance, and that listeners are more attuned to the distances
+between notes than to their absolute positions in frequency space.1
+Musicians do not like to work with fundamental frequencies, since ratios are awkward and division is hard; furthermore, we typically measure numerical distances
+using subtraction rather than division. It is useful, therefore, to relabel pitches by
+mapping every fundamental frequency f onto a number p according to an equation
+of the form
+p = c1 + c2log2 ( f/440)
+Don’t be put off by the logarithm: the important point is that in the new system,
+the whistler whistles the pitches p, q, r, . . . on Tuesday, and p + x, q + x, r + x, . . . on
+Wednesday. The distance between two pitches p and q is now calculated by subtraction (|p − q|) rather than division ( f/g).
+The equation in the preceding paragraph has two constants, c1 and c2, the ﬁrst of
+which determines the number corresponding to the frequency A440, and the second
+of which determines the size of the octave. In this book, I will always choose c1 = 69
+and c2 = 12. This creates a linear pitch space in which the unit of distance is the semitone
+and middle C is (arbitrarily) assigned the number 60. (Note that the term “semitone”
+is deﬁned in continuous space, without presupposing any particular temperament or
+chromatic scale.) As shown in Figure 2.1.2, labels for familiar equal-tempered pitches
+
+1 Transposition preserves these distances, since f/g = cf/cg. McDermott and Hauser (2005) suggest that
+this measure of musical distance is innate and that it is common to at least some nonhuman animals.
+Dowling and Harwood (1986) suggest it is a musical universal.
+
+29
+
+30
+
+theory
+Figure 2.1.2 Linear pitch space is a continuous line, containing a
+point for every conceivable pitch.
+
+can be determined by counting keys on an ordinary piano, so that the Cs above middle C is 61, the D above that is 62, and so on. Since the space is continuous, we can
+use fractional numbers, labeling the pitch 17 hundredths of a semitone (or cents)
+above middle C as 60.17. In principle, we could eschew letter-names for the remainder of this book, conducting the discussion entirely in numerical terms. For clarity,
+however, I will use familiar letter names whenever possible. These should be taken as
+shorthand for numerical pitch labels: “Cs4” and “61,” like “Bob Dylan” and “Robert
+Zimmerman,” are different ways of referring to the same thing.
+
+2.2
+
+circular pitch-class space
+
+In linear pitch space octaves are not special, and the distance 12 is no different from
+any other. However, human beings hear octave-related pitches as having the same
+quality, color, or—as psychologists call it—chroma.2 (As Maria puts it in The Sound
+of Music, the note “Ti” brings us back to “Do.”) Music theorists express this by saying
+that two pitches an octave apart belong to the same pitch class. Geometrically, pitch
+classes can be represented using a circle (Figure 2.2.1). A single point in this space
+
+Figure 2.2.1 Circular pitch class space. The
+number 0.17 refers to the pitch class seventeen
+cents above the pitch class C, while the number
+2.5 refers to the pitch class Dμ, or D quartertone sharp, halfway between D and Ef.
+
+2 Octave equivalence seems to be nearly universal in human cultures (Dowling and Harwood 1986),
+and there is some evidence for it in nonhuman animals (Wright et al. 2000).
+
+Harmony and Voice Leading
+
+corresponds to the quality that is common to all the pitches sharing the same chroma:
+thus, the point “2” represents the quality (“D-ishness”) that is shared by the pitches
+D0, D1, D2, D3, and so on.3 Alternatively, we can take points on the circle to represent
+categories of notes all sharing the same chroma.
+It is important to understand that pitch and pitch-class space are not separate
+and independent: pitch-class space is formed out of pitch space when we choose to
+ignore, or abstract away from, octave information.4 As a result, many properties of
+linear pitch space are transferred to circular pitch-class space. For example, it is not
+necessary to devise a new system of naming pitch classes, as we can simply use pitch
+names in the range 0 £ x < 12 to refer to the chromas they possess (Figure 2.2.1). The
+terms “above” and “below” also inherit their meaning from pitch space: the phrase
+“the pitch class a quarter tone above pitch class D” simply refers to the chroma possessed by any pitch a quarter tone above any pitch with chroma D. (Of course, since
+pitch-class space is circular, it is not meaningful to say that one pitch class is absolutely above or below another; the pitch class E is both two semitones above D and
+ten semitones below it.) Finally, the distance between two pitch classes can be deﬁned
+as the shortest distance between any two pitches belonging to those pitch classes.
+Thus, when a musician says “pitch class E is four semitones away from C,” this means
+that for every pitch with chroma C, the nearest pitch with chroma E is precisely four
+semitones away.
+Ultimately, pitch classes are important because they provide a language for making
+generalizations about pitches. The statement “pitch class E is four semitones above C”
+implies the statements “E4 is four semitones above C4,” “E5 is four semitones above
+C5,” and so on. Since it would take too long to list these statements individually, musicians instead use the convenient shorthand that pitch classes provide. Readers may
+ﬁnd it useful here to consider the analogy between pitch class and time of day. The
+question “what’s the distance from C to Cs?” is exactly analogous to “how long is it
+from 8 am to 9 am?” The answer “there is one hour between 8 am and 9 am,” means
+that on any given day, 9 am occurs precisely one hour after 8 am. (Similarly, we can
+say “9 am is one hour after 8 am” or even “9 am is 23 hours before 8 am,” much as
+we might observe that pitch class A is both one semitone above and eleven semitones
+below Gs.) Here we use time of day to summarize inﬁnitely many facts about times:
+the statement “there is one hour between 8 am and 9 am” implies that there is one
+
+3 Here I am using scientiﬁc pitch notation, in which numbers refer to octaves, with octave 4 ranging
+from middle C to the B above and with octave 5 starting at the next C. (Thus B4 is a semitone below C5.)
+Note that there is a subtle difference between the languages of psychology and music theory: psychologists say that the pitches D3 and D4 possess the same chroma (“D-ishness”), while music theorists say that
+the pitches belong to the same category (“the pitch class D”). The difference is analogous to the contrast
+between whiteness (a property) and the collection of all white things (a group). Points in pitch-class space
+can be taken to represent either of these.
+4 Consequently, pitch-class space is circular only in an abstract sense. One shouldn’t think of it as being
+embedded in a larger two-dimensional space, the way an ordinary circle exists on a two-dimensional piece
+of paper. Instead, one should think of it as a one-dimensional space unto itself. Here it can be useful to imagine a pointlike inhabitant of the space: from its perspective, “circularity” consists in the fact that a “straight
+line”—for example, a counterclockwise path—eventually returns to its starting point.
+
+31
+
+32
+
+theory
+
+hour between 8 am and 9 am on Monday, August 8, 2006, one hour between 8 am and
+9 am on Tuesday, August 9, 2006, and so on ad inﬁnitum.
+One unusual feature of this book is that I use paths in pitch-class space to represent
+intervals, or particular ways of moving from one pitch class to another.5 The motivation here is that progressions like the ﬁrst three in Figure 2.2.2 are closely related: in
+each case a C moves up by four semitones to an E, with the only difference being the
+octave in which the motion occurs. In the ﬁnal three cases, C also moves to E, but
+differently—by eight descending semitones or 16 ascending semitones. We can capture what is similar about the ﬁrst three cases, and their difference from the others, by
+modeling intervals using phrases such as “start at C and move up by four semitones.”
+These combine an initial pitch class (C), a direction (up), and a distance (4), and
+can be notated C ±› E. Geometrically, these phrases correspond to ways of moving
+around the pitch-class circle: C ±› E is represented by a four-semitone clockwise
+(ascending) path, whereas C —° E is represented by an eight-semitone counterclockwise (descending) path. (Motions can even wrap around the circle one or more times,
+as shown on the ﬁgure.) By contrast, music theorists have traditionally represented
+motion in pitch-class space using phrases like “start at C and move to E however you
+
+Figure 2.2.2 The passages in (a)−(c) are similar in that they move C to E by four ascending
+semitones. The passages in (d)−( f ) also move C to E, but differently—by eight descending
+semitones or by sixteen ascending semitones. We can capture what is similar about (a)−(c)
+by modeling these progressions as paths in pitch-class space. The progressions in (a)−(c)
+move C to E clockwise by four semitones along the pitch-class circle; (d) and ( f ) move eight
+semitones counterclockwise, and (e) moves sixteen clockwise semitones.
+
+5 For more on paths in pitch-class space see Tymoczko 2005 and 2008b. Mazzola 2002 contains related
+ideas.
+
+Harmony and Voice Leading
+
+want.” This gives us no way to formalize the elementary musical observation that the
+ﬁrst three progressions in Figure 2.2.2 are particularly closely related.6
+
+2.3
+
+transposition and inversion as
+distance-preserving functions
+
+Since musicians are primarily sensitive to the distances between notes, we have reason
+to be interested in the distance-preserving transformations of musical space. It turns
+out that there are only two of these—transposition and inversion, corresponding to
+the geometrical operations of translation and reﬂection. These transformations play
+an important role in many different musical styles, and are central to contemporary
+music theory.
+Transposition, discussed in §2.1, moves every pitch in the same direction by the
+same amount: the transposition of pitch p by x semitones, written Tx(p), is equal
+to p + x (Figure 2.3.1). The distance moved represents the size of the transposition:
+virtually any listener can immediately distinguish a passage of music from its transposition by ﬁve octaves, while even the most subtle absolute-pitch listeners, extensively trained at the best conservatories, cannot discern the effects of transposition by
+0.00001 of a semitone.
+The second type of distance-preserving transformation, inversion, turns musical
+space upside-down. (Warning: music theorists use the term “inversion” in two unrelated senses, which go by the names of “registral inversion” and “pitch-space inversion”; I am talking about the second of these.7) Figure 2.3.2 depicts inversion as it
+operates on the theme of Bach’s A minor prelude from Book II of the Well-Tempered
+Clavier. Where the left hand of (a) begins with an ascending octave leap, followed by
+a series of descending semitones, the left hand of (b) begins with a descending octave
+leap followed by a series of ascending semitones. In other words, the direction of
+motion has changed while the distances remain the same. (The passages in the upper
+
+Figure 2.3.1 Transposition moves every point in the same
+direction by the same amount. Here, the arrows indicate ascending
+transposition by two semitones.
+
+6 Traditional pitch-class intervals can sometimes be useful, however—for instance when we would like
+to categorize root progressions in functionally tonal music (§7.1).
+7 Registral inversion changes the octave in which notes appear (for instance, transforming a root position chord C4-E4-G4 into a ﬁrst-inversion E4-G4-C5). In §2.4 I call this “the O symmetry.” Pitch-space
+inversion turns all of pitch space upside-down (for instance, transforming a major chord C4-E4-G4 into a
+minor chord G4-Ef4-C4). In §2.4 I call this “the I symmetry.”
+
+33
+
+34
+
+theory
+Figure 2.3.2 (a−b) Inversionally related passages in Bach’s A minor prelude, WTC II.
+(c) Inversion as reﬂection in pitch space. Here, the note A3 is unaltered by the inversion, so
+the inversion can be written I A3
+A3. All other notes move by twice their distance from A3.
+
+staff are also related by inversion, although the Figure 2.3.3 The chords in each
+ﬁrst and last notes are altered slightly.) Because measure are inversionally related,
+they are direction reversing, inversions change the and sound more similar to each
+other than to either of the chords
+character of musical passages more dramatically
+in the other measure.
+than transpositions: nobody would ever mistake
+the inverted form of Bach’s theme for the original.
+Nevertheless, inversionally related chords often
+sound reasonably similar, at least in the grand
+scheme of things: the chords in Figure 2.3.3a contain a minor third, a minor seventh, and a perfect ﬁfth, and sound reasonably restful,
+while those in (b) contain a perfect ﬁfth, a tritone, and a minor second, and have
+a distinctive, dissonant “bite.”8 For this reason, many twentieth-century composers
+consider inversionally related chords to be similar.
+Inversion can be represented mathematically by subtraction from a constant value:
+the inversion that maps pitch x to pitch y, written I xy (p), is (x + y) − p.9 Geometrically,
+inversion corresponds to reﬂection: if we were to place a two-sided mirror at point
+A3 on Figure 2.3.2c, then every pitch would be sent to the place where its reﬂection
+
+8 Major and minor triads are of course importantly different, even though they are related by inversion; nevertheless, they are more similar to one another than to three-note chromatic clusters. With other
+chords, inversional relationships are even more striking: in informal tests with undergraduate music
+majors, students could easily distinguish the two categories of chords in Figure 2.3.3, but had much more
+trouble distinguishing the inversionally related chords within each category.
+9 The notation is a tad confusing, since the variables x and y serve to label the function I xy (p). For a
+particular choice of x and y, we get a general function that takes any pitch p as input, and outputs another
+A3
+(p) is a function acting on any pitch p; when p = A3, the function outputs B3.
+pitch. Thus IB3
+
+Harmony and Voice Leading
+
+would be. The point A3 is a ﬁxed point of the
+inversion, since it is unaltered by the reﬂection.
+Every inversion has a ﬁxed point, although it
+may lie between piano keys: for instance, the
+inversion that maps E4 to F4 has a ﬁxed point
+at Eμ4—the E quarter-tone sharp halfway
+between E4 and F4.10 (Note that inversions
+move each pitch by twice its distance to this
+ﬁxed point.) Inversions, unlike transpositions,
+cannot be distinguished by their size, since for
+any distance x, an inversion will move some
+pair of pitches by that amount.
+Transposition and inversion can also be
+deﬁned in pitch-class space. Figure 2.3.4 shows
+that transposition is represented by rotation
+while inversion is represented by reﬂection:
+the inversion around C sends every pitch class
+to the point where its image would appear, if there were a pointlike mirror at C. Note
+that every pitch-class inversion ﬁxes two antipodal points on the circle, whereas pitch
+inversion ﬁxes only a single point.11 Our earlier mathematical formulas continue to
+apply: if p is a pitch class, then its transposition by x semitones is p + x, while the
+inversion that sends x to y is (x + y) − p. However, when operating with pitch classes
+we should always add or subtract 12 until the result lies in the range 0 £ x < 12. This
+can lead to odd-looking equations like 6 + 3 + 1.5 + 1.5 = 0, since 12 and 0 are equivalent in pitch-class arithmetic.12
+Figure 2.3.4 In circular pitch class
+space, transposition corresponds to
+rotation, while inversion corresponds
+to reﬂection.
+
+2.4
+
+musical objects
+
+Understanding music is a matter of ignoring, or abstracting away from, information:
+we interpret the violinist’s C4 and the cellist’s C4 to be two instances of the same
+pitch, ignoring subtle differences in timbre and instrument. Similarly, we conceptualize the violinist’s note, a little sharp and ever-so-slightly before the beat, as an
+in-tune note played on the beat. We can model this process using the mathematical
+concept of symmetry: to abstract away from musical information is to deﬁne a collection of symmetry operations that leave the object’s “essential identity” unchanged.
+Mathematicians say that objects related by a symmetry operation belong to the
+same equivalence class—the group of objects that are mutually “equivalent” under
+10 The ﬁxed point of I xy is (x + y)/2.
+11 Pitch inversion around middle C sends Fs4 to Fs3, preserving the chroma of the note, but changing
+its register. If we ignore octaves, Fs becomes a second ﬁxed point of the inversion.
+12 Pitch-class arithmetic is simply a continuous version of what mathematicians call “modular” (or
+“clock”) arithmetic. Transposing pitch class 2.5, or Dμ, by −5 semitones produces 2.5 − 5 = −2.5. To move
+this pitch into the range 0 £ x < 12, we add 12, shifting the octave. The result is the pitch class 9.5, or Aμ.
+
+35
+
+36
+
+Figure 2.4.1
+The basic
+musical object
+(C4, E4, G4) can
+appear either
+harmonically or
+melodically.
+
+theory
+
+the effects of the symmetry operation. These equivalence classes can in turn be taken
+to represent the properties or attributes the objects share, much as the group of all
+white things can be taken to represent the property of whiteness. As we will see, many
+different music-theoretical concepts can be understood in this way.
+We can begin by deﬁning a basic musical object as an ordered series of pitches,
+uncategorized and uninterpreted.13 Basic musical objects can be ordered in time or
+by instrumental voice: thus the object (C4, E4, G4) could represent an ascending C
+major arpeggio or a simultaneous chord in which the ﬁrst instrument plays C4, the
+second E4, and the third G4 (Figure 2.4.1). (Instruments can be labeled arbitrarily;
+what matters is simply that we distinguish them somehow.) Basic musical objects are
+so particular as to be uninteresting. Until we have deﬁned some symmetry operations, some way of grouping objects into larger categories, the object (C4, E4, G4)
+is absolutely different from and absolutely unrelated to (E4, C4, G4). Of course, the
+fact that we instinctively consider them to be similar
+shows that we categorize musical objects unthinkingly;
+indeed, it is difﬁcult to conceive of music without
+grouping objects together in some way.
+During the early eighteenth century, Jean-Philippe
+Rameau articulated the modern notion of a chord, classifying basic musical objects based on their pitch-class
+content rather than their order or registral arrangement.14 Rameau implicitly suggested that three basic operations preserve the “chordal”
+or “harmonic” identity of a musical object: octave shifts, permutation (or reordering),
+and cardinality change (or note duplication). For instance, one can transform (C4, E4,
+G4) by reordering its notes to produce (E4, G4, C4), transposing the second note up
+an octave to produce (C4, E5, G4), or duplicating the third note to produce (C4, E4,
+G4, G4)—all without changing its right to be called a “C major chord.” Furthermore,
+as shown in Figure 2.4.2, these transformations can be combined to produce an endless collection of objects, all representing the same chord: (E4, G4, C5), (G3, G4, C5,
+E4), (E2, G3, C4, E4, E5), and so on. To be a C major chord is simply to belong to this
+equivalence class—or in other words, to contain all and only the three pitch classes
+C, E, and G. We can therefore represent the C major chord as the unordered set of
+pitch classes {C, E, G}. (Note that I use curly braces to represent unordered collections,
+reserving parentheses for ordered collections.) Geometrically, chords correspond to
+particular collections of points on a circle, as in Figure 2.4.2.
+Traditional theory uses terms like “major chord” and “minor chord” to represent
+chord types, or collections of transpositionally related chords. We can interpret these
+terms as referring to equivalence classes formed by four symmetry operations: octave
+shifts, permutations, cardinality changes, and transpositions (Figure 2.4.3).15 (Note
+
+13 For more on this general approach to chord classiﬁcation, see Callender, Quinn, and Tymoczko 2008.
+14 See Lester 1974 and Rameau 1722/1971.
+15 Octave shifts allow us to change the octave of just one note in an object. Transposition, by contrast, moves all the notes in an object in exactly the same way. (If we were to let transposition act on just
+
+Harmony and Voice Leading
+Figure 2.4.2 (a) All of these musical objects represent the C major chord, and are related
+by some sequence of octave shifts, permutations (or rearrangement of voices), and note
+duplication. (b) The C major chord can be represented by an unordered set of points in
+pitch-class space.
+
+Figure 2.4.3 (a) All of these musical objects represent major chords, and are related by
+some combination of octave shifts, reordering of voices, note duplication, and transposition.
+(b) Any two major chords relate by rotation on the pitch-class circle and divide the pitch
+class circle into arcs that are 4, 3, and 5 semitones large, moving clockwise from the root. The
+ﬁgure shows the C and D major triads.
+
+that contemporary music theorists sometimes prefer the term transpositional set class
+to the more colloquial “chord type.”) Geometrically, two chords belong to the same
+type if one can be rotated into the other in circular pitch-class space (Figure 2.4.3b).
+Such chords will share the same sequence of distances between their adjacent notes:
+
+one of the notes in an object, then we could transform any n-note object into any other, and we would no
+longer be able to make any distinctions among them.) It is also worth noting that the “cardinality change”
+operation is rather delicate mathematically; for details, see Callender, Quinn, and Tymoczko 2008.
+
+37
+
+38
+
+theory
+
+for example, major chords divide the pitch-class circle into arcs of four, three, and ﬁve
+semitones, reading clockwise from the root.
+Since inversionally related chords share many properties (and sound reasonably
+similar), contemporary theorists often group them together as well. Music theorists
+say that two objects belong to the same set class if they are related by any combination of ﬁve symmetry operations (the “OPTIC” symmetries): octave shifts (O), permutations (P), transpositions (T), inversions (I), and cardinality changes (C) (Figure
+2.4.4).16 Figure 2.4.5 shows that the C major chord divides pitch-class space into arcs
+that are four, three, and ﬁve semitones large, reading clockwise from C, while its inversion, the C minor chord, divides the pitch-class circle into arcs that are four, three,
+Figure 2.4.4 (a) Each of the ﬁve OPTIC operations allows you to transform a musical object
+in some way. Musical objects belong to the same set class if they can be transformed into each
+other (or into some third chord) by some sequence of OPTIC transformations. (b) These
+objects all belong to the same set class, and relate to the initial (C4, E4, G4) by octave shift,
+reordering of voices, transposition, inversion, or cardinality change.
+Operation
+
+Allowable Action
+
+Octave
+
+Move any note
+into a new octave.
+
+Permutation
+
+Reorder the object, changing
+which voice is assigned to
+which note.
+
+Transposition
+
+Transpose the object, moving
+all of its notes in the same
+direction by the same amount.
+
+Inversion
+
+Invert the object by turning it
+“upside down.”
+
+Cardinality change
+
+Add a new voice duplicating
+one of the notes in the object.
+
+16 Huron (2007, p. 121) expresses some doubt about the musical signiﬁcance of both chord types and
+set classes; however, in my experience students readily confuse inversionally related three-note chords such
+as those in Figure 2.3.3. Furthermore, when listening to sequences such as Figure 1.2.1c I can easily determine what set class is being used, though I sometimes have trouble identifying which inversion is present.
+
+Harmony and Voice Leading
+
+and ﬁve semitones large reading counterclockwise from G. Chords belonging to the same set
+class will always share the same sequence of arc
+lengths, although this sequence may progress
+either clockwise or counterclockwise around
+the pitch-class circle.
+A speciﬁc example will help reinforce this
+approach to chord classiﬁcation. Figure 2.4.6
+begins with the basic musical object (E4, G4,
+Bf4, D5)—a half-diminished chord starting
+on the E above middle C. We then exploit the
+octave symmetry to produce (E3, G4, Bf3,
+D4). The permutation symmetry then rearranges the voices in which the notes appear,
+transforming (E3, G4, Bf3, D4) into (E3, Bf3, D4, G4); now the order of the voices
+corresponds to their registral order. We then use the transposition symmetry to
+shift the entire object up by semitone, giving (F3, B3, Ds4, Gs4)—recognizable
+as the ﬁrst chord in Wagner’s Tristan. Next, we apply the I symmetry to invert the
+chord around the point halfway between A3 and Bf3, transforming (F3, B3, Ds4,
+
+39
+Figure 2.4.5
+Major and minor
+chords relate by
+inversion, and
+divide the pitchclass circle into
+arcs that are 4, 3,
+and 5 semitones
+large, proceeding
+either clockwise
+(major) or
+counterclockwise
+(minor).
+
+Figure 2.4.6
+Using OPTIC
+operations
+to transform
+musical objects.
+
+40
+
+theory
+
+Gs4) into (D4, Gs3, E3, B2). The octave and permutation symmetries can then be
+used to give us (E3, Gs3, D4, B4), which is the second chord in Tristan. Finally, we
+can use cardinality changes to create additional voices that double notes already
+in the chord.
+Musical classiﬁcation thus proceeds by the progressive discarding of information. When we understand music as a sequence of pitches, we disregard many speciﬁc features of the acoustic signal, such as timbre, vibrato, duration, and rhythm.
+When we think in terms of pitch classes, we disregard the particular octave in which
+notes appear. To form chords, we ignore even more information, considering only the
+pitch-class content of a group of notes, rather than their order or multiplicity. Finally,
+we form chord types (or set classes) by focusing on the distances between a chord’s
+notes rather than its pitch classes. Thus when we say that an object is a major chord,
+we are neglecting an enormous number of musical details, leaving behind something
+that is very abstract—an ordered sequence of clockwise distances around the pitchclass circle.
+Although chords, chord types, and set classes are central to contemporary theory,
+they are not the only possibilities to consider. In certain situations it may be useful to
+talk about unordered sets of pitches rather than pitch classes (“chords” of pitches), or
+to distinguish the multiset {C, C, E, G}, which contains two copies of the pitch class C,
+from {C, E, G}, which contains only one C. We may at other times want to consider
+“tone rows” or ordered sequences of pitch classes, such as (C, E, G). (Order is particularly important when modeling melody, of course.) As shown in Figure 2.4.7, each
+of these terms corresponds to a unique combination of the ﬁve OPTIC symmetries.
+These alternatives all represent potentially useful ways of classifying musical objects,
+and there is no one optimal degree of abstraction: since different musical purposes
+require different kinds of information, we need to remain somewhat ﬂexible about
+how we conceptualize music. To this end, it can be quite instructive to work out the
+musical signiﬁcance of all 32 combinations of the OPTIC symmetries.
+
+Figure 2.4.7 Music-theoretical terms and the symmetry operations to which they
+correspond. A “chord” is a group of musical objects related by octave shifts, permutations,
+and note-duplications, while a “multiset” is a group of objects related by octave shifts and
+permutation. (Thus, when we are talking about multisets, the number of times a note appears
+is important; when we are talking about chords it is not.) In a “tone row,” as deﬁned by
+Schoenberg, order is important: we are permitted only to shift octaves and introduce note
+duplications.
+Term
+
+Symmetry
+
+chord
+
+OPC
+
+“chord type” or transpositional set class
+
+OPTC
+
+set class
+
+OPTIC
+
+multiset of pitch classes
+
+OP
+
+chord (of pitches)
+
+PC
+
+“tone row” (ordered set of pitch classes)
+
+OC
+
+Harmony and Voice Leading
+
+2.5
+
+voice leadings and chord progressions
+
+Having reviewed some basic objects of music theory, our next task is to consider
+progressions, or sequences of musical objects, as musical entities in their own right.
+In other words, we will shift from an object-based approach (whose subject is single
+chords such as {C, E, G}) to a transformational approach (whose subject is progressions such as “C4, E4, G4 followed by C4, F4, A4”).17 This increased level of abstraction can be a little confusing, and readers may want to brace themselves for a slight
+uptick in the level of theoretical difﬁculty.
+We can classify progressions using the very same OPTIC symmetries described in
+the preceding section. The main complication is that progressions are “higher-order”
+constructions containing multiple individual objects, which means that each symmetry can be applied in two different ways: we can either apply the exact same operation to
+each object in a progression or we can use different versions of the same symmetry on
+the progression’s two objects. Take the progression (C4, E4, G4)–(C4, F4, A4), whose
+ﬁrst object is (C4, E4, G4) and whose second is (C4, F4, A4). To apply the permutation symmetry uniformly is to reorder each of the two objects in precisely the same
+way, for instance producing (E4, G4, C4)–(F4, A4, C4) (Figure 2.5.1). (Here we have
+moved the ﬁrst note in each object to the end.) Individual permutations apply different reorderings to the two objects in the progression, and can produce results such as
+(C4, E4, G4)–(F4, C4, A4). (Here we leave the ﬁrst object unchanged, while switching
+the ﬁrst two notes in the second object.) The distinction between “individual” and
+“uniform” can be applied to the other symmetries as well: the progression (C4, E4,
+G4)–(C4, F4, A4) can be transposed uniformly to produce (D4, Fs4, A4)–(D4, G4, B4)
+and individually to produce (D4,
+Fs4, A4)–(Ef4, Af4, C5). Since Figure 2.5.1 (b) relates to (a) by uniform
+each of the ﬁve OPTIC symmetry permutation. To get from (a) to (b) move all notes
+operations can be applied uni- downward by one staff, shifting the bottom staff to
+formly, individually, or not at all, the top. (c) relates to (a) by individual permutation,
+there are many more categories since it applies different permutations to each chord.
+Similarly, (d) and (e) relate to (a) by uniform and
+of progressions than there are of
+individual transposition, respectively.
+individual objects.
+Of these, two are particularly
+important for our purposes:
+voice leadings, which describe
+how individual musical “voices”
+move from chord to chord,
+and chord progressions, which
+describe successions of harmonies with no regard for musical
+
+17 The shift from objects to transformations is central to Lewin 1987, though he favors group-theoretical models of harmonic relationships, whereas I am oriented toward geometrical models that represent
+counterpoint as well. For more, see Tymoczko 2007, 2008a and 2009b.
+
+41
+
+42
+
+Figure 2.5.2
+Three voice
+leadings between
+G7 and C.
+
+theory
+
+voices. Intuitively, voice leadings can be represented by phrases such as “move the
+C major triad to a Cs diminished triad by shifting the note C up by semitone,”
+while chord progressions correspond to phrases such as “move the C major triad
+to the Cs diminished triad however you want.” Mathematically, it turns out that
+voice leadings arise from uniform applications of the permutation symmetry, while
+chord progressions arise from individual applications of the permutation and cardinality-change symmetries. (These individual transformations destroy the identity of musical “voices,” since they change the two chords in different ways.) One
+way or another, voice leadings and chord progressions will occupy us for the rest
+of the book.
+We’ll begin with voice leadings in pitch space, which represent mappings from one
+collection of pitches to another.18 For example, Figure 2.5.2a presents the voice leading (G2, G3, B3, D4, F4)®(C3, G3, C4, C4, E4), in which the voice sounding G2 in the
+ﬁrst chord moves to C3 in the second chord, the voice sounding G3 in the ﬁrst chord
+continues to sound G3 in the second, the voice sounding B3 moves up to C4, and so
+on. (Note that I use an arrow to represent voice leadings.) Since the overall order in
+which the voices are listed is not signiﬁcant, one could also represent this voice leading as (F4, D4, G2, B3, G3)®(E4, C4, C3, C4,
+G3); what matters is simply that we describe
+how the notes in one chord move to those in
+the next.19 Voice leadings are like the atomic
+constituents of musical scores, the basic building blocks of polyphonic music.
+Clearly, the voice leading in Figure 2.5.2b
+is closely related to that in Figure 2.5.2a;
+all that has changed is the octave in which
+some voices appear. We can represent what is common to them by writing
+5, 0, 1, -2, -1
+
+(G, G, B, D, F) ¾¾¾¾¾® (C, G, C, C, E). This indicates that one of the voices
+containing G, whatever octave it may be in, moves up ﬁve semitones to C; the other
+voice containing G is held over into the next chord; the B moves up by semitone to
+C; and so on. I will refer to such octave-free voice leadings as voice leadings between
+pitch-class sets or pitch-class voice leadings.20 The numbers above the arrow, here (5, 0,
+1, −2, −1), are paths in pitch-class space that describe how the voices move (§2.2).
+The two pitch-space voice leadings in Figure 2.5.2a–b are both instances of the pitch5, 0, 1, -2, -1
+
+class voice leading (G, G, B, D, F) ¾¾¾¾¾® (C, G, C, C, E). Figure 2.5.2c is
+
+18 More formally, voice leadings in pitch space are equivalence classes of pairs of basic musical objects
+(ordered pitch sets) generated by uniform applications of the permutation symmetry.
+19 In other words, we do not change the voice leading when we apply permutation uniformly.
+20 Mathematically, voice leadings in pitch-class space are equivalence classes of progressions generated
+by uniform applications of the octave and permutation symmetries. Previous theorists (Roeder 1984, 1987,
+1994, Lewin 1998, Morris 1998, Straus 2003) deﬁne voice leadings using traditional pitch-class intervals
+rather than “paths in pitch-class space” (§2.2). Hence they do not, for instance, distinguish one-semitone
+ascending motion from eleven-semitone descending motion. For more, see Tymoczko 2005, 2006, 2008b,
+and Callender, Quinn, and Tymoczko 2008.
+
+Harmony and Voice Leading
+
+not an instance of this voice leading, since G moves to C by seven descending semitones rather than ﬁve ascending semitones. (The speciﬁc path matters!) For simplicity, I will omit the numbers over the arrow when the number of semitones moved
+by each voice lies in the range −6 < x £ 6. Thus I will write (G, G, B, D, F)®(C, G,
+C, C, E) for the pitch-class voice leading in Figures 2.5.2a–b. This indicates that each
+voice moves by the shortest possible path to its destination, with the arbitrary convention being that tritones ascend.
+Pitch-class voice leadings are abstract schemas that are central to the enterprise
+of Western composition. Without them, a composer would need to conceptualize
+the voice leadings in Figure 2.5.3 as being entirely unrelated, and this would pose
+overwhelming burdens on his or her memory. It is far simpler, and more practical, to
+understand the two voice leadings as examples of a single principle: you can transform
+a C major triad into an F major triad by moving the E up by semitone and the G up by
+two semitones. The concept “pitch-class voice leading” is simply a tool for formalizing
+such principles, and thus for modeling one important aspect of the composer’s craft.
+Of course, in actual compositions voice leadings are always represented by speciﬁc
+pitches, and composers always think very carefully about register. Nevertheless, it is
+also true that composition requires a general sense of the various “routes” from chord
+to chord, and these routes are precisely what pitch-class voice
+leadings describe.
+Geometrically, a pitch-space voice leading corresponds to
+a collection of paths in linear pitch space. Figure 2.5.4a represents the pitch-space voice leading in Figure 2.5.2a, with the
+dotted lines showing how each pitch moves to its destination.
+Similarly, a pitch-class voice leading can be represented as a
+
+Figure 2.5.4
+(a) Voice leadings in
+pitch space can be
+represented as paths on
+a line. (b) Pitch-class
+voice leadings can be
+represented as paths on
+a circle. These paths can
+move in either direction
+by any distance, and
+may complete one or
+more circumferences of
+the circle.
+
+43
+
+Figure 2.5.3
+Two instances of
+the same voiceleading schema.
+
+44
+
+theory
+
+collection of paths in circular pitch-class space. In principle these paths can be arbitrarily long, with notes taking one or more complete turns around the pitch-class
+circle. Indeed, any collection of paths on the pitch-class circle, between any points
+whatsoever, deﬁnes a voice leading in pitch-class space. In some cases, it can be useful to represent voice leadings by a continuous process (which could be shown as a
+movie) in which each note glides along the appropriate path to its destination, beginning and ending at the same time.21
+By contrast, chord progressions (as I deﬁne them) are simply successions of
+chords, with no implied mappings between their notes. Typically, the term “chord
+progression” is understood to refer to a sequence of unordered pitch-class sets.
+Thus {C, E, G, Bf}Þ{E, Gs, B}, or C7ÞE, is a chord progression whose ﬁrst chord
+is {C, E, G, Bf} and whose second chord is {E, Gs, B}, but which does not associate the note C with any particular note in the second chord.22 (Note that I use the
+double arrow for chord progressions, reserving the single arrow for voice leadings.)
+However, we could also deﬁne a pitch-space chord progression as a pair of unordered
+pitch sets, as in {C4, E4, G4}Þ{C4, F4, A4}. Again, there is no implication that
+the note E4 moves to F4 or to any other pitch in the chord. (When we are talking
+about chord progressions in pitch or pitch-class space, we are focusing on the
+harmonies and ignoring how individual voices might happen to move.) Figure
+2.5.5 shows that chord progressions can be modeled as successions of unordered
+points in either linear pitch space or circular pitch-class space. Geometrically, we
+can imagine each chord occupying its own individual frame of a movie, with the
+motion between them being instantaneous and giving us no reason to associate any
+pair of notes.
+Figure 2.5.6 summarizes this discussion, showing that each of these different theoretical concepts applies the ﬁve OPTIC symmetries in different ways.
+
+Figure 2.5.5 The chord progression {C, E, G, Bf}Þ{E, Gs, B}.
+
+21 On the companion website I have provided a series of movies of this sort.
+22 Mathematically, chord progressions result from the individual application of the octave, permutation, and cardinality-change symmetries.
+
+Harmony and Voice Leading
+
+2.6
+
+Term
+
+Symmetry
+
+voice leading in pitch space
+
+uniform P
+
+voice leading in pitch-class space
+
+uniform OP
+
+pitch-space chord progression
+
+individual PC
+
+chord progression
+
+individual OPC
+
+path in pitch-class space
+
+uniform O
+(one-note progressions only)
+
+45
+Figure 2.5.6
+Musictheoretical terms
+for progressions,
+along with the
+symmetries that
+generate them.
+
+comparing voice leadings
+
+We’ll now start to think about how voice leadings relate to one another. The
+interesting wrinkle is that we’ll consider not just uniform relationships, in which the
+same operation applies to both objects in a voice leading, but also their individual
+counterparts.
+
+2.6.1 Individual and Uniform Transposition
+The voice leadings (C, E, G)®(C, F, A) and (G, B, D)®(G, C, E) are very similar,
+exhibiting the same musical pattern at different transpositional levels: each holds the
+root of a major triad ﬁxed, moves the third up by semitone, and the ﬁfth up by two
+semitones (Figure 2.6.1). Since we transpose both chords in the same way, the two
+voice leadings are uniformly transpositionally related, or uniformly T-related. The voice
+leadings (C, E, G)®(C, F, A) and (G, B, D)®(Fs, B, Ds) are also similar, albeit slightly
+less so; each maps the root of the ﬁrst chord to the ﬁfth of the second, the third of
+the ﬁrst chord to the root of the second, and the ﬁfth of the ﬁrst chord to the third of
+the second. Figure 2.6.1b
+shows that one voice leading can be transformed
+into the other by applying a different transposition to each chord: (C,
+E, G) is seven semitones
+away from (G, B, D), but
+(C, F, A) is six semitones
+away from (Fs, B, Ds).
+These voice leadings can thus be said to be individually transpositionally related, or
+individually T-related.
+
+2.6.2 Individual and Uniform Inversion
+The distinction between individual and uniform relatedness extends naturally to inversion. Figure 2.6.2a shows that (C, E, G)®(C, F, A) can be inverted to produce (G, Ef,
+C)®(G, D, Bf). These are uniformly inversionally related (or uniformly I-related) voice
+
+Figure 2.6.1
+Uniformly and
+individually
+T-related voice
+leadings.
+
+46
+
+theory
+Figure 2.6.2 Uniformly and individually I-related voice
+leadings. Here, pitch-space inversion around Eı 4 (E quartertone ﬂat, halfway between Ef4 and E) sends C4 to G4, E4 to
+Ef4, F4 to D4, G4 to C4 and A4 to Bf3.
+
+leadings. By contrast, (C, E, G)®(C, F, A) and (G, Ef, C)®(Gs, Ds, B) are individually
+inversionally related, or individually I-related, since it takes two different inversions to
+transform the ﬁrst into the second. (Figure 2.6.2b inverts the ﬁrst chord around Eı4,
+or E quarter-tone ﬂat, while inverting the second around E4.) Note that as I am using
+the term, “individual I-relatedness” requires that each chord in the ﬁrst voice leading
+be related by some inversion to the corresponding chord in the second voice leading;
+it is not permissible to invert only one of the two chords.
+The signiﬁcance of uniform transposition is clear, as it moves the same musical
+pattern to a different transpositional level. Uniform I-relatedness is somewhat more
+abstract: (C, E, G)®(C, F, A) sounds rather different from (C, Ef, G)®(Bf, D, G),
+which is uniformly I-related to it. Note however that the two voice leadings are mirror images of each other: the ﬁrst moves one voice by zero semitones, one voice up by
+one semitone, and one voice up by two semitones; the second moves one voice by zero
+semitones, one voice down by one semitone, and one voice down by two semitones.
+The distances are the same but the directions have been reversed. Some theorists have
+asserted that individually I-related voice leadings are perceptually or metaphysically
+similar.23 From our perspective, what is more important is that the answers to theoretical questions often come in I-related pairs. For example, suppose we want to catalogue
+voice leadings between major and minor triads in which no voice moves by more than
+a semitone; since the inversion of any such “semitonal” voice leading is also semitonal,
+each of these voice leadings has an inversionally related partner (Figure 2.6.3). This
+makes it much easier to conceptualize and remember them.
+The musical signiﬁcance of individual T and I relationships is perhaps even less
+0, 1, 2
+clear, since the voice leading (C, E, G) ¾¾¾
+® (C, F, A) sounds like a standard I–IV
+-1, 0, 1
+chord progression, while (C, E, G) ¾¾¾
+®(B, E, Gs), individually T-related to it,
+evokes Schubertian chromaticism. Nevertheless, there is a sense in which the two are
+similar: each relates structurally analogous notes (moving the root of the ﬁrst chord
+
+23 These include Hauptmann, Riemann, and contemporary “neo-Riemannians.” For more discussion,
+see Tymoczko 2008b and forthcoming.
+
+Harmony and Voice Leading
+Figure 2.6.3 The semitonal voice leadings between major and minor triads. Since
+inversion preserves the distance moved by each voice, these voice leadings can be
+grouped into uniformly I-related pairs.
+
+to the ﬁfth of the second, the third of the ﬁrst chord to the root of the second, and the
+ﬁfth of the ﬁrst to the third of the second); and the voices in the second voice leading
+end up exactly one semitone lower than in the ﬁrst (moving by −1, 0, and 1 semitones
+rather than 0, 1, and 2). Very similar points can be made about individually I-related
+voice leadings.24 We will see that it is often advantageous to focus on these sorts of
+relationships, as they allow us to make interesting analytical observations that would
+otherwise be very hard to express.
+For example, Figure 2.6.4 compares the opening progressions in Wagner’s Tristan,
+Brahms’ Op. 76 No. 4, and Debussy’s Prelude to “The Afternoon of a Faun.”25 I think
+it is likely that both Brahms and Debussy, despite their ambiguous feelings about
+Wagner, had Tristan somewhere in the backs of their minds: the opening gesture, by
+which a half-diminished seventh chord slides chromatically to a dominant seventh,
+is unmistakably Tristanesque. (Note that Brahms’ opening chord even uses the same
+pitch classes as Wagner’s.) But rather than blatantly copying Tristan, both Brahms
+and Debussy do something similar to yet different from the earlier piece. The concept
+of individual T-relatedness provides a precise way to describe this sense of “similarity-with-difference”: what Brahms and Debussy did, essentially, was transpose the second chord in Tristan up by semitone. (In Debussy’s case, he also transposes the entire
+voice leading by tritone, rearranging the voices somewhat.) In all three cases, the
+result is a two-semitone voice leading between half-diminished and dominant seventh chords, an unfamiliar chromatic motion linking familiar chords. Furthermore,
+
+24 Individual transposition adds a constant to the numbers representing the paths in a voice leading;
+individual inversion subtracts these numbers from a constant (see Tymoczko 2008b).
+25 I have removed Wagner’s “voice crossings,” as will be discussed in Chapter 8.
+
+47
+
+48
+
+theory
+
+all three voice leadings move root to root, third to third, ﬁfth to ﬁfth, and seventh to
+seventh. Yet at the same time, the connection to Tristan has been disguised: what has
+been borrowed is not the progression itself, but
+Figure 2.6.4 The opening
+rather something more abstract—a general
+progressions in Wagner’s Tristan (a),
+voice-leading schema rather than a particular
+Brahms’ Intermezzo Op. 76 No. 4
+(b), and Debussy’s Prelude to “The
+way of resolving the half-diminished chord.
+Afternoon of a Faun.”
+(Thus we see how theoretically savvy composers can steal without getting caught!) Whether
+this is a matter of defusing, one-upping, or
+“correcting” Wagner is an interesting critical
+question.
+In classical music, individually T-related
+voice leadings often appear in sequential contexts. Figure 2.6.5a presents a nice example
+from the opening of Mozart’s C minor Fantasy,
+K. 475. The music invokes a relatively standard chromatic sequence in which iv6–V7
+chord progressions move downward by major second: beginning with A7, we have
+f 6–G7 followed by what we expect to be ef6–F7. But Mozart transposes the last chord
+up by semitone so that the ﬁnal pair is individually T-related to the pair preceding it,
+with the sequence ending on Fs7 rather than the expected F7. This maneuver, which
+transforms a minor-key iv6–V7 progression into a major-key iii6–V7 progression, is
+reasonably common in tonal music. Figure 2.6.5b cites an analogous progression
+from the recapitulation of the ﬁrst movement of Beethoven’s Ef major Piano Sonata,
+Op. 31 No. 3.26 Here the sequence moves downward by diatonic thirds, with each
+chord preceded by its applied dominant. If the passage were strictly sequential, it
+would cycle through all seven diatonic triads before returning to the tonic Ef; however, Beethoven arranges an earlier return by inserting a descending diatonic second
+into the sequence of thirds. Once again, the structural similarity of the voice leadings
+
+Figure 2.6.5 Individually T-related voice leadings in sequential passages from
+Mozart (a) and Beethoven (b).
+
+26 A very similar sequence appears at m. 45 of the ﬁrst movement of Beethoven’s F major piano sonata,
+Op. 54.
+
+Harmony and Voice Leading
+
+masks the deviation from strict sequential procedure: we hear successive voice leadings as being similar, even though they are not related by exact transposition. Again,
+the concept of “individual T-relatedness” provides a precise tool for describing this
+sort of similarity.
+
+2.7
+
+voice-leading size
+
+Polyphonic music uses independent melodies to articulate efﬁcient voice leadings
+between meaningful harmonies (Figure 2.7.1). To be sure, it also involves following many other rules that are particular to speciﬁc styles and time periods: in some
+genres, for example, parallel perfect ﬁfths are forbidden, while in others they are
+allowed. (Similarly, in some genres the bass is more likely to move by leap, while in
+others the bass is essentially similar to the other voices.) Later chapters will deal with
+these style-speciﬁc nuances. For now, I want to focus on the basic conditions under
+which polyphony itself is possible.
+Clearly, to write this sort of music, composers need to be able to compare the
+overall efﬁciency, or “size,” of different voice leadings. But how is this done? In
+some situations, comparisons seem unproblematic: for instance, a voice leading
+that moves just one note by just one semitone seems obviously smaller than a voice
+leading that moves three notes by six semitones each. But other cases are considerably more difﬁcult. Is (C, E, G)®(Df, F, Af) larger or smaller than (C, E, G)®(C,
+E, A)? The ﬁrst voice leading moves its voices by a greater total distance (three semitones vs. two semitones), while in the second, the largest distance moved is greater
+(two semitones vs. one semitone). Which is more important? Is the smaller voice
+leading the one that minimizes the total amount of motion or the largest distance
+moved by any voice?
+Although pedagogues have long enjoined their students to use small voice leadings, they have never bothered to provide speciﬁc answers to these sorts of questions.
+(Students, it seems, are supposed to intuit which of the available voice leadings is the
+smallest.) More recently, theorists have proposed a variety of very precise methods
+of measuring voice-leading size. Unfortunately, musical practice does not allow us
+to adjudicate between these different proposals, leaving us with many plausible but
+incompatible solutions to the same problem. Rather than adopting one of these, my
+strategy here is to try to remain as neutral as possible about the issue. (Precision is a
+virtue only when it is not arbitrarily imposed!) Happily, it turns out that “reasonable”
+measures of voice-leading size agree about a number of important cases.
+
+Figure 2.7.1 The opening phrase of the Bach chorale
+“O Herzensangst.” This music can be represented as the
+sequence of voice leadings (Ef, G, Ef, Bf)®(Ef, Bf,
+-7,-2,0,5
+®(Af, Af, Ef, C)®(Af, F, D, Bf). I have
+Ef, G) ¾¾¾¾
+ignored the starred (“nonharmonic”) note at the end of
+the ﬁrst measure.
+
+49
+
+50
+
+theory
+
+I consider a measure of voice-leading
+size to be “reasonable” if it satisﬁes two basic
+requirements: ﬁrst, it should depend only
+on how far the individual voices move, with
+larger motion leading to larger voice leadings; and second, it should judge voice leadings with voice crossings to be larger (or at
+the very least, no smaller) than their natural
+uncrossed alternatives. This is illustrated by
+Figure 2.7.2. The ﬁrst requirement is basic to the very notion of voice-leading size;
+the second mandates a kind of musical “division of labor,” according to which it is
+preferable to have more voices moving by small amounts, rather than fewer voices
+moving by larger amounts. (The connection between avoiding voice crossings and
+the division of musical labor is not obvious, although it can be proved mathematically.27) Thus Figure 2.7.3a, in which two voices move by three and four semitones,
+should be at least as small as Figure 2.7.3b, in which one voice moves by seven
+semitones. Both principles are consistent with Western musical practice, and to my
+knowledge no composer, theorist, or pedagogue has ever proposed a method of
+measuring voice leading that violates either principle.28
+Appendix A summarizes the technical
+Figure 2.7.3 Generally speaking, Western
+issues involved in measuring voice leadcomposers prefer smaller amounts of
+ing. For our purposes, the important point
+motion in more voices (a) to larger
+is that the two constraints are powerful
+amounts of motion in fewer voices (b).
+enough to imply a number of theoretical
+The pattern in (a) is common in the inner
+voices in classical music; (c) provides an
+results: for instance, they imply that the
+example from the Bach chorale “Nun lob’
+more evenly a chord divides the octave,
+mein’ Seel’ den Herren.”
+the smaller the voice leadings to its various transpositions; they also imply that E
+and Af major triads can be linked to the
+C major triad by smaller voice leadings
+than any other major triads. Indeed, the
+constraints are so powerful that, in many
+contexts, it is unnecessary to specify a particular method of measuring voice leading,
+because all reasonable metrics will agree. For most of this book, we will therefore be
+able to speak of “large” and “small” voice leadings without getting into the details of
+how to measure voice leading. Readers should feel comfortable trusting their musical intuitions, interpreting the term “efﬁcient voice leading” as a synonym for “voice
+leadings in which all voices move by short distances.”
+Figure 2.7.2 The principle of avoiding
+crossings tells us that (a) should be no
+larger than (b) and (c) should be no
+larger than (d).
+
+27 See Tymoczko 2006.
+28 It bears repeating that this notion of voice-leading size is meant to model composers’ behavior
+rather than listeners’ experience. See Callender and Rogers 2006 for some work on listeners’ judgments of
+voice-leading distance.
+
+Harmony and Voice Leading
+
+2.8
+
+near identity
+
+So far we have grouped chords into categories based on transpositional and inversional equivalence. But this insistence on exact equivalence is actually quite restrictive: in many contexts, it is useful to describe two chords as being similar even though
+they are not exactly the same.29 This is particularly important when investigating
+matters of intonation and tuning: for instance, music theorists might speak about
+the “acoustically pure perfect ﬁfth {C, G},” the “equal-tempered ﬁfth {C, G},” the
+“quarter-comma meantone perfect ﬁfth {C, G}” and so on. The language suggests
+that these different tunings are variations on the same object, which may come in
+a variety of closely related forms. Yet from our perspective the different tunings of
+{C, G} belong to different chord types, since no transposition or inversion relates
+them. Thus there is a mismatch between ordinary musical thinking and the extremely
+precise terminology we have been developing.
+The problem is not limited to matters of tuning and intonation. The dominant
+seventh chord {C, E, G, Bf} is in the grand scheme of things rather similar to the
+minor seventh {C, Ef, G, Bf}, which differs only in that it has an Ef rather than En.
+Although they do not belong to the same set class, the two chords are clearly more
+similar to each other than either is to the dissonant cluster {Fs, G, Af, A}. Consequently, {C, E, G, Bf}Þ{C, Ef, G, Bf} feels like a progression between two more-orless similar chords, while {C, E, G, Bf}Þ{Fs, G, Af, A} is quite jarring, connecting
+very different harmonies. Our discussion, rather than trying to model to this fact, has
+instead treated harmonic identity as an all-or-nothing affair.
+It therefore seems that exact identity stands at one end of a continuum of musical
+relatedness. The equal-tempered chord {C, E, G, Bf} is exactly identical to itself, and
+is very closely related to the just-intonation chord {C, E, G, Bf}. Both of these chords
+are somewhat related to the minor-seventh chord {C, Ef, G, Bf}, and are not very
+similar at all to the chromatic cluster {Fs, G, Af, A}. Notice that these “degrees of
+relatedness” seem to mirror facts about voice leading: there is a very small voice leading from the equal-tempered {C, E, G, Bf} to its just-intonation counterpart, and
+a reasonably small voice leading from {C, E, G, Bf} to {C, Ef, G, Bf}, but it takes a
+relatively large voice leading to get from {C, E, G, Bf} to {Fs, G, Af, A}. This suggests
+that we may be able to use voice leading to model at least some of our intuitions of
+musical similarity.30
+Metaphors of distance are useful here. We can think of the acoustically pure perfect ﬁfth {0, 7.01} as being close to the equal-tempered ﬁfth {0, 7}, as if the two chords
+were nearby in some abstract “space of all chords.” Conversely, the chord {3, 4} is
+
+29 The notion of similarity is central to the work of Ian Quinn (1996, 2001, 2006).
+30 In principle, voice leading provides just one of many possible notions of musical distance. We might
+sometimes want to conceive of musical distance harmonically (based on common tones or shared interval
+content), or in a way that privileges membership in the same diatonic scale—so that the F major triad is
+closer to C major than E major is. (See, for example, Quinn 2001, 2006, and 2007, and Tymoczko, forthcoming.) However, we will see that conceptions based on voice leading are extremely versatile and can be
+useful in a wide range of contexts.
+
+51
+
+52
+
+theory
+
+much farther from {0, 7} than {0, 7.01} is, since it takes a larger voice leading to
+connect {3, 4} to {0, 7}. Chapter 3 will show that this talk of distance is not just a
+metaphor: it is possible to describe geometrical spaces containing all chords with a
+particular number of notes, and in which the distance between any two chords corresponds to the size of the minimal voice leading between them. Musical “similarity” can therefore be represented by distance in these spaces. In anticipation of this
+discussion, I will say that chords are “near” or “close to” each other when they can be
+linked by efﬁcient voice leading.
+We can extend these ideas to chord types as well. Two chord types can be said
+to be similar if there is a relatively small voice leading between their transpositions.
+Thus the diminished triad is closer to the minor triad than to the chromatic cluster,
+since there is a very small voice leading taking C diminished to C minor, but no similarly small voice leading connecting any diminished triad to any chromatic cluster.31
+Another way to make the point is to say that any particular diminished triad is nearly
+transpositionally related to any minor triad: for example, C diminished is nearly transpositionally related to F minor, since {C, Ef, Gf} is near {C, Ef, G} which is in turn
+transpositionally related to {F, Af, C}. In the same spirit, we could say that {C, Df, G}
+is nearly inversionally related to {Ef, G, A}, meaning that {C, Df, G} is near {C, D, Fs},
+which is inversionally related to {Ef, G, A}. What results is a more ﬂexible conception
+of harmonic similarity: rather than considering two chords to be similar only when
+they are exactly related by transposition or inversion, we can consider them similar
+when they are nearly (or approximately) related by these same transformations. This
+is useful insofar as actual composers are often more concerned with approximate
+than with exact musical relationships.
+
+2.9
+
+harmony and counterpoint revisited
+
+In Chapter 1, we observed that Western music has a kind of two-dimensional coherence: vertical or harmonic principles dictate that chords should be audibly similar,
+while horizontal or contrapuntal principles dictate that chords should be connected
+by efﬁcient voice leading. Figure 2.9.1 shows these constraints operating in a wide
+range of different Western styles, including classical music, contemporary jazz, latenineteenth-century chromaticism, and even modern atonality. To be sure, composers
+often deviate from these norms for expressive reasons—just as, when driving, one
+sometimes takes a scenic detour rather than following the most direct route. And to
+be sure, different styles always involve additional constraints over and above these
+very basic norms. But the norms themselves are relatively robust, shared by a wide
+range of styles spanning several centuries.
+
+31 The single-semitone voice leading (C, Ef, Gf)®(C, Ef, G) links diminished to minor, but it takes at
+least four semitones to link a diminished triad to a chromatic cluster.
+
+Harmony and Voice Leading
+Figure 2.9.1 Harmonic consistency and efﬁcient voice leading in a range of styles. (a) A
+common upper-voice pattern for the classical I–IV–I–V–I chord progression. (b) A common
+jazz-piano “left-hand voicing” for the descending-ﬁfths progression D7–G7–C7–F7. The voicings
+add ninths and thirteenths and omit roots, ﬁfths, and elevenths, as is common in jazz. (c) Two
+celebrated examples of Wagnerian chromaticism; the ﬁrst is a simpliﬁcation of the opening of
+Tristan and the second is the opening of The Ring’s “Tarnhelm” motif. (d) Chromatic clusters
+of the sort often found in late twentieth-century music, particularly in the music of Ligeti and
+Lutosławski.
+
+So under what circumstances is it possible to ﬁnd an efﬁcient voice leading
+between nearly transpositionally or inversionally related chords? In other words, how
+is it possible to write music that is both harmonically and melodically coherent?
+Chapter 1 noted that this is possible when a chord divides the octave very evenly
+or very unevenly. Here I want to replace the contrast “even/uneven” with the more
+powerful concept of near symmetry. It turns out that one can combine harmonic
+consistency and efﬁcient voice leading only by using nearly symmetrical chords,
+which are typically near chords that are completely symmetrical under transposition,
+inversion, or reordering. Nearly even chords (such as the major triad) are near the
+symmetrical chords that divide the octave perfectly evenly (such as the augmented
+triad). Clustered chords (such as {B, C, Cs}) are near the symmetrical chords that
+contain many copies of one speciﬁc pitch class (such as the “triple unison” {C, C,
+C}). But there are other symmetrical chords as well: transpositionally symmetrical
+chords such as {C, Cs, Fs, G}, which do not divide the octave particularly evenly,
+and inversionally symmetrical chords such as {C, D, E}, which are neither particularly even nor particularly uneven. Thus an approach based on symmetry leads to a
+much deeper understanding of the fundamental connection between harmony and
+counterpoint—opening our eyes to new compositional possibilities and revealing
+regularities latent in the music of the past.
+We will begin by considering efﬁcient voice leading between chords exactly related
+by transposition or inversion; then, at the end of the section, we will broaden the
+discussion to include near transposition or near inversion.
+
+2.9.1 Transposition
+A chord is transpositionally symmetrical if it is unchanged by some transposition.
+Thus, when we transpose an augmented triad by a major third, we produce the same
+pitch classes we started with. Figure 2.9.2 shows that there are two kinds of transpositionally symmetrical chords, those that divide the pitch-class circle evenly and those
+
+53
+
+54
+
+theory
+Figure 2.9.2 Transpositionally symmetrical chords either divide the octave evenly (a), or can
+be decomposed into equal-size subsets that themselves do so (b). Here, the transpositionally
+symmetrical chord {C, F, Fs, B} can be decomposed into tritones {C, Fs} and {B, F}.
+
+that can be decomposed into equal-size subsets that do so.32 For example, {B, C, F, Fs}
+does not divide the circle into four even parts, but it can be decomposed into a pair
+of tritones that each divide the circle in half.
+If a chord is near one of these symmetrical chords, then it can be linked by efﬁcient voice leading to some of its transpositions. Consider {C, E, G}, which is near
+{C, E, Gs} since the voice leading (C, E, G)®(C, E, Gs) is small. It follows that the E
+major chord must also be near the C augmented triad. This is because we can transpose the small voice leading (C, E, G)®(C, E, Gs) uniformly by ascending major
+third, obtaining (E, Gs, B)®(E, Gs, C). This is an efﬁcient voice leading from E major
+to C augmented. Figure 2.9.3 shows that we can retrograde this second voice leading
+and attach it to the earlier one, producing (C, E, G)®(C, E, Gs)®(B, E, Gs). Here
+we have the conjunction of two small voice leadings. Removing the middle chord will
+give a small voice leading from C major to E major: (C, E, G)®(B, E, Gs). In other
+words, if C major is close to an augmented triad, then its major third transposition
+must also be close to that same augmented triad, and since C and E major are both
+close to the same chord, they must also be close to each other.
+Of course, there is nothing particularly special about major or augmented chords.
+Take any chord A close to a symmetrical chord S that is unchanged by transposition Tx. Then Tx(A) will also be close to Tx(S), which is the same as S; and since A
+and Tx(A) are both near S, they are also near each other. Speaking somewhat metaphorically, the symmetrical chord passes on its symmetry to nearby chords in the
+form of efﬁcient voice leading. These nearby chords are not themselves symmetrical,
+but they are nearly so, which is to say that they can be linked to their x-semitone
+transpositions by efﬁcient voice leading. It follows that transpositional symmetry is
+
+32 See Starr and Morris (1977).
+
+Harmony and Voice Leading
+Figure 2.9.3 Any chord that is near an augmented triad can be connected to its major-third
+transposition by efﬁcient voice leading.
+
+a limiting case of efﬁcient voice leading: as chord A moves closer and closer toward a
+transpositionally symmetrical chord, the size of the minimal voice leading between
+A and Tx(A) decreases, reaching zero when the chord is exactly symmetrical.
+Let’s consider a second example. The chord {B, C, E, Fs} appears commonly in
+jazz, but does not divide the octave particularly evenly. However, it is near the transpositionally symmetric {B, C, F, Fs}, which contains two separate tritones. Beginning
+with the small voice leading (B, C, E, Fs)®(B, C, F, Fs), we transpose by tritone to
+produce (F, Gf, Bf, C)®(F, Gf, B, C) (Figure 2.9.4). Retrograding this and gluing it
+to the original voice leading, we obtain (B, C, E, Fs)®(B, C, F, Fs)®(Bf, C, F, Gf).
+Removing the middle chord gives (B, C, E, Fs)®(Bf, C, F, Gf), which efﬁciently links
+tritone-related chords. Chapter 10 will show that this sort of voice leading plays a role
+in jazz “tritone substitutions.” For now, however, the focus should be on the general
+form of the argument: since chord
+Figure 2.9.4 Since both {C, E, Fs, B} and its tritone
+A is close to the tritone-symmetritransposition are close to {B, C, F, Fs} (a−b), they
+cal chord S, then so is the tritone are close to each other. In (c), we retrograde the
+transposition of A; and since A and voice leading in (b) and attach it to (a). Removing
+its tritone transposition are close to the middle chord gives us the voice leading in (d).
+the same chord, they must also be
+close to each other.
+There is one complication that
+should be mentioned here. Suppose a three-note chord, such as
+{C, F, Fs}, is near a transpositionally
+
+55
+
+56
+
+theory
+Figure 2.9.5 A larger chord can take advantage of the symmetries of a smaller chord, but it
+requires additional voices.
+
+symmetrical two-note chord, such as {C, Fs} (Figure 2.9.5). Proceeding as we did earlier, we begin with the three-voice voice leading (C, F, Fs)®(C, Fs, Fs); retrograding
+and transposing by tritone we obtain (Fs, C, C)®(Fs, B, C). Note that we cannot
+simply glue these two voice leadings together, since (C, Fs, Fs) is not the same as (Fs,
+C, C). However, if we double a voice in each voice leading, we can attach them. What
+results is a four-voice voice leading between {C, F, Fs} and its tritone transposition, (C,
+C, F, Fs)®(C, C, Fs, Fs)®(B, C, Fs, Fs) or (C, C, F, Fs)®(B, Cs, Fs, Fs) upon removing the middle chord. The fourth voice is the price the three-note chord has to pay
+for exploiting the symmetry of a two-note chord. In general, extra voices will always
+be necessary whenever a larger chord exploits the symmetries of a smaller chord. In
+Chapter 7 we will see that there are common tonal routines, such as the voice leading
+(C, C, E, G)®(A, C, F, F), which exploit this very procedure (§7.2). It follows that the
+familiar major triad is special not just because it divides the octave into three nearly
+even parts, but also because it is reasonably close to the tritone.
+
+2.9.2 Inversion
+A chord will be unchanged by inversion if its notes are arranged symmetrically
+around an “axis of symmetry” crossing the pitch-class circle at two antipodal points,
+with tones placed freely on either of these points. For example, Figure 2.9.6 shows
+that the axis of the inversionally symmetrical {C, D, E} contains the notes D and Af;
+since C and E are arranged symmetrically around this axis, inversion around D leaves
+the chord unchanged.
+The nonsymmetrical chord {C, Ds, E} is near {C, D, E}, since the voice leading
+(C, Ds, E)®(C, D, E) is small. Inverting this entire voice leading around the ﬁxed
+
+Harmony and Voice Leading
+Figure 2.9.6 To form an inversionally symmetrical
+chord, choose two antipodal points to act as an
+axis of symmetry—here, {D, Af}. One can place
+notes on either axis point (or both), as they will
+be unaffected by the inversion. For any points
+not lying on the axis, such as a, one must also
+add its inversional partner, symmetrically placed
+on the other side of the axis. Here, a is 60°
+counterclockwise from the upper axis point, while
+a' is 60° clockwise from that point. The antipodal
+points can also lie between equal-tempered pitch
+classes.
+Figure 2.9.7 Any chord that is near an inversionally symmetrical chord can be connected
+to its inversion by efﬁcient voice leading.
+
+point D produces (C, Df, E)®(C, D, E). Reversing this voice leading and gluing it
+to the earlier one produces (C, Ds, E)®(C, D, E)®(C, Df, E). Removing the middle
+chord gives us a small voice leading between inversionally related chords: (C, Ds,
+E)®(C, Df, E) (Figure 2.9.7). As in the transpositional case, the inversionally symmetrical chord passes its symmetry on to nearby chords: if chord A is near a chord S
+that is invariant under some inversion I xy , then I xy (A) will also be near S, and hence A
+and I xy (A) can be linked by efﬁcient voice leading.
+Figure 2.9.8 provides a real-world example. We begin with the efﬁcient voice
+leading (F, Af, Cf, Ef)®(F, Af, Cf, D), which uses a single-semitone motion to
+transform the F half-diminished chord into a fully diminished seventh. The next
+voice leading inverts the ﬁrst uniformly around A4/Bf4, producing an efﬁcient voice
+
+57
+
+58
+
+theory
+Figure 2.9.8 The F half-diminished chord is close to a diminished seventh chord (a).
+Inverting this voice leading uniformly around A4/Bf4, we get an efﬁcient voice leading from
+E7 to the same diminished chord. In (c), we retrograde the voice leading in (b) and attach it
+to (a). Removing the middle chord (d ) gives us an efﬁcient voice leading from the
+F half-diminished chord to E7, a voice leading that plays a central role in Wagner’s Tristan.
+
+leading from the E dominant seventh to the same diminished seventh chord. In
+Figure 2.9.8c we reverse this and glue it to the ﬁrst voice leading. Removing the
+symmetrical chord gives us an efﬁcient voice leading from F half-diminished to E7,
+strongly reminiscent of the opening of Tristan. We conclude that this celebrated
+nineteenth-century progression exploits the near I-symmetry of the half-diminished
+and dominant seventh chords.
+
+2.9.3 Permutation
+The third symmetry is a little bit different from the others. Suppose we model chords
+as multisets that may contain multiple copies of a single note. From this point of view,
+the chord {C, C, C} is different from {C, C}, since they have a different number of copies of the note C. Let’s also imagine that (contrary to fact) we could somehow keep
+track of these different copies, which we can represent with subscripts like {Ca, Cb, Cc}.
+Now consider (Ca, Cb, Cc)®(Cc, Ca, Cb), a voice leading that permutes the notes in the
+chord {C, C, C}. Since none of the voices in this voice leading actually moves, we can
+say that {C, C, C} is permutationally symmetrical. “Permutation symmetry” is just a
+fancy synonym for “has multiple copies of one or more of its notes.”
+Permutationally symmetrical chords are themselves rather boring, but the nearby
+chords are quite interesting. The chromatic cluster {B, C, Df} is near {C, C, C} since
+(B, C, Df)®(C, C, C) is small. Retrograding and reordering voices, we obtain (C, C,
+C)®(C, Df, B). Gluing the two voice leadings together gives us (B, C, Df)®(C, C,
+C)®(C, Df, B); upon removing the middle chord, we obtain (B, C, Df)®(C, Df,
+B), a small voice leading from {B, C, Df} to itself. (Figure 2.9.9 attempts, somewhat
+lamely, to illustrate.) Once again, the symmetrical chord passes its symmetry on to
+nearby chords: given a small voice leading A®S, from chord A to the permutationally symmetrical chord S, we can permute both chords uniformly to obtain the small
+voice leading P(A)®P(S), or P(A)®S, since S is permutationally symmetrical. Retrograding and gluing together gives us A®S®P(A); upon removing the middle chord,
+we have A®P(A), an efﬁcient voice leading between A and itself. The general procedure here is precisely the same as in the cases of transposition and inversion; the only
+difference is the nature of the symmetry.
+
+Harmony and Voice Leading
+Figure 2.9.9 Any chord that is near a chord with pitch-class duplications can be connected
+to its untransposed form by efﬁcient voice leading.
+
+It may seem surprising to place permutation alongside transposition and inversion, since we are accustomed to thinking of chords as inherently unordered objects.
+But the discussion in §2.4 should ameliorate any feelings of unease: we form chords
+by abstracting away from the order of the notes in a musical object, just as we form
+set classes by abstracting away from the distinction between transpositionally and
+inversionally related objects. And just as transpositionally symmetrical chords are
+special (because there are fewer transpositions to abstract away from) so too are permutationally symmetrical chords (because there are fewer orderings to abstract away
+from). Voice leading reveals this “specialness” by providing a musical mechanism for
+rearranging the notes in an unordered chord. As a result, it should not be too surprising that there is a close analogy between permutational symmetry and the more
+familiar symmetries considered previously. Transpositional near-symmetry guarantees efﬁcient voice leading between transpositionally related chords; inversional nearsymmetry guarantees efﬁcient voice leading between inversionally related chords; and
+permutational near-symmetry guarantees efﬁcient voice leading between a chord and
+itself. Here we see the advantages of a more ﬂexible approach to chord classiﬁcation,
+in which we embrace a wide variety of musical transformations. From our point of
+view, permutation is just another kind of symmetry, with its own distinctive collection of musical consequences.
+The arguments in this section show that if a chord is near a symmetrical chord
+then it will inherit this symmetry in the form of efﬁcient voice leadings. One might
+also wonder whether the converse is true: is it the case that if there is an efﬁcient
+voice leading from a chord A to one of its transpositions or inversions, then chord
+A is nearly symmetrical under transposition, inversion, or permutation? That is, is it
+
+59
+
+60
+
+theory
+
+the case that our three symmetries are the only symmetries there are—the only symmetries we need to understand if we want to know how to combine efﬁcient voice
+leading with harmonic consistency? Basically, the answer is “yes,” at least insofar as
+we understand the term “harmonically consistent” to mean “using chords that are
+approximately related by transposition or inversion.”33 It follows that every instance
+of efﬁcient voice leading between structurally similar chords—in any scale or tuning
+system—can be understood in terms of the three basic symmetries we have just discussed. This is precisely what will allow us, in Part II, to interpret a large number of
+Western musical practices as variations on the same basic techniques.
+It is very important to realize that the symmetrical chords relevant to voice leading will not necessarily lie on the ordinary piano keyboard. The familiar pentatonic
+scale, {C, D, F, G, Bf} or {0, 2, 5, 7, 10}, is quite close to the chord that divides the
+octave into ﬁve equal pieces: {0, 2.4, 4.8, 7.2, 9.6}. Consequently, the pentatonic scale
+can be efﬁciently linked to its transpositions, as in (C, D, F, G, Bf)®(C, D, F, G, A).
+While both of these chords belong to the equal-tempered universe, and can be played
+on an ordinary piano, the perfectly even ﬁve-note chord does not. Yet this missing
+chord nevertheless exerts its inﬂuence on twelve-tone equal-tempered music; indeed,
+twelve-tone equal-tempered ﬁve-note chords can be linked to their transpositions by
+efﬁcient voice leading only if they are close to this phantasmic and elusive chord. This
+is just one of many cases where a deep understanding of the discrete musical universe
+requires us to think in continuous terms. Even though we are ultimately concerned
+with equal-tempered music, we ﬁnd that we can understand this music best when we
+consider the continuous space in which equal temperaments are embedded.34
+
+33 It is relatively easy to demonstrate the connection between efﬁcient voice leading and near symmetry; the harder point is to explain the circumstances under which nearly symmetrical chords are near
+chords that are perfectly symmetrical. (This becomes clear only when we examine the geometrical spaces
+described in Chapter 3.) With respect to the ﬁrst issue, here is a simple argument connecting efﬁcient voice
+leading and near symmetry. Suppose there is some function F over the pitch classes, which could be a
+transposition or an inversion or something else altogether. Now let us suppose that there is some efﬁcient
+voice leading between chords A and F(A). We can therefore represent A®F(A) as the product of two separate voice leadings (ai, aj, ak, . . .)®(ax, ay, az, . . .)®(F(ax), F(ay), F(az), . . .). The ﬁrst of these rearranges the
+notes of A while the second simply applies F to each note. (The ﬁrst voice leading need not be a permutation, and it may involve doublings.) Now consider (ax, ay, az, . . .)®(ai, aj, ak, . . .) and (ax, ay, az, . . .)®(F(ax),
+F(ay), F(az), . . .). These voice leadings must be approximately equal. (This follows from the fact that the
+original voice leading is efﬁcient, and hence moves none of its voices very far.) The ﬁrst rearranges the
+notes of A, the second applies F to each note; hence there is some rearrangement that is approximately
+equal to applying F. This is just what it means to be nearly symmetrical under F.
+34 John Clough (in unpublished work) and Rick Cohn (1996, 1997) articulated a special case of the
+central claim of this section, observing that major and minor triads are a semitone away from augmented
+chords, and that this allows them to be connected by efﬁcient chromatic voice leading. (Cohn further
+generalizes to chromatic scales whose size is divisible by three, and speculates that analogous claims can
+be made about tetrachords and hexachords in the standard chromatic scale.) This section generalizes this
+important observation by articulating a somewhat broader principle: if a chord A is near a chord that is
+F-symmetrical, then A and F(A) can be connected by efﬁcient voice leading. I also observe that the converse of this statement is true: if A and F(A) can be connected by efﬁcient voice leading, then A is nearly
+symmetrical under F (see the preceding note). Furthermore, my notion of “nearness” is somewhat more
+general, since I consider chords like {C, E, G} to be “near” {C, Fs}. I also show that the symmetrical chord
+need not appear in the relevant scale—for instance, the diatonic collection is near the equiheptatonic collection, which does not appear in the twelve-tone chromatic scale.
+
+Harmony and Voice Leading
+
+Finally, note that nothing really changes when we adopt the more ﬂexible notion
+of harmonic relatedness discussed in §2.8. For suppose we would like to ﬁnd an
+efﬁcient voice leading between two chords A and B that are nearly—rather than
+precisely—transpositionally or inversionally related. Since A is nearly transpositionally or inversionally related to B, there is a small voice leading F(A)®B, where F is
+some transposition or inversion. And if the voice leading A®B is small, then the voice
+leading A®F(A) must also be small, as both A and F(A) will be close to B. In the
+cases of musical interest, F will be some nonzero transposition or inversion, which
+means that A is itself nearly symmetrical.35 (The same argument shows that B must
+also be nearly symmetrical.) Thus, expanding our notion of “harmonic consistency”
+does not expand the realm of musical possibilities: a chord A can be linked by efﬁcient voice leading to one of its near-transpositions or near-inversions only if A is
+itself nearly symmetrical under transposition, inversion, or permutation.
+
+2.10
+
+acoustic consonance and near
+evenness
+
+We now return to acoustic consonance, the second of our ﬁve basic components of
+tonality. Recall that Western listeners tend to agree that certain chords sound stable
+and restful, or consonant, while others sound unstable and harsh, or dissonant. Many,
+though not all, Western styles exploit this difference: consonant sonorities tend to
+appear as musical destinations or at points of rest, while dissonant sonorities tend to
+be more active and unstable. To be sure, the distinction between consonance and dissonance is extremely complex, and it maps only indirectly onto the concept of musical stability. (There are situations when an acoustically consonant sonority behaves as
+if it were musically unstable.) But to a ﬁrst approximation, it is reasonable to say that
+in many musical styles, dissonant sonorities tend to resolve to consonant sonorities.
+Acoustic consonance is somewhat imperfectly understood, and there are a number of theories about what produces it.36 Nevertheless, there is broad agreement on
+some basic principles. The eighteenth-century mathematician Jean-Baptiste Fourier
+showed that any periodic mathematical function can be represented as the sum of
+sine and cosine waves whose frequencies are integer multiples of a single frequency
+f (Figure 2.10.1). In the case of a musical sound, these sine waves are called partials.
+
+35 There are some subtleties here that I am glossing over. More precisely, the cases of musical interest
+are those where F is either an inversion or nontrivial transposition, or where F is the identity operation
+and the voice leading F(A)®B involves some nontrivial permutation. When these conditions are not met,
+then our argument simply records the boring fact that any chord can be transformed into some other
+chords by moving its notes by small distances: for example, that a major triad can be transformed into a
+minor triad by lowering its third. The musically interesting cases are those in which small voice leadings
+lead to an interesting reshufﬂing of the resulting notes. For instance, if we think of a minor triad as a major
+triad with lowered third, then the voice leading (C, E, G)®(B, E, G) is interesting because it does not simply
+lower the third; instead, it is an efﬁcient voice leading in which the root of the major triad becomes the ﬁfth
+of the minor triad. Here, we are exploiting the near symmetries of the underlying chords.
+36 Helmholtz (1863/1954), Terhardt 1974, Burns 1999, Sethares 1999, Cariani 2001, Tramo et al. 2005.
+
+61
+
+62
+
+theory
+Figure 2.10.1 The periodic sound on the left has frequency f. (Two repetitions of the
+waveform are shown.) This sound can be analyzed as the sum of the sine waves on the right,
+with periods f, 2f, and 6f.
+
+The nineteenth-century German psychologist Hermann von Helmholtz proposed
+that two pitches are consonant if their partials are aligned, or else are sufﬁciently far
+apart so as not to interfere. Dissonance is caused when partials are close together, but
+not perfectly aligned; this creates a sense of “roughness” or harshness. (Twentiethcentury auditory physiologists have shown that the ear’s basilar membrane decomposes incoming sound waves into sine waves, more or less as Fourier described.)
+Although there is much disagreement about just how complete this story is, most
+contemporary psychologists believe that it is at least partly right.37
+Western instruments typically produce periodic sounds that, when analyzed as
+Fourier described, have relatively strong lower partials ( f, 2f, 3f, 4f, etc.). The partials
+of several such “harmonic” sounds will match when their fundamental frequencies
+are related by simple whole-number ratios.38 Consequently, as Pythagoras discovered
+roughly 2700 years ago, the most consonant intervals have fundamental frequencies
+in simple ratios: 2:1 (octave), 3:2 (perfect ﬁfth), 4:3 (perfect fourth), 5:4 (major third),
+and 6:5 (minor third). A larger chord will be consonant when it contains a preponderance of consonant intervals, and this in turn requires that its notes be relatively
+evenly distributed in pitch-class space.
+For small chords there is a particularly elegant connection between near evenness
+and acoustic consonance. The most consonant three-note chord, the major triad,
+contains the ﬁrst three distinct pitch classes in the harmonic series, with fundamental
+frequencies in a 3:4:5 ratio. Figure 2.10.2 shows that the triad divides the frequencyspace octave into three exactly equal pieces. When we take the logarithm of these
+frequencies, passing from frequency space into pitch space (§2.1), we move from
+an equal division of the (frequency-space) octave into a nearly even division of the
+
+37 In particular, writers such as Tramo et al. (2005) have suggested that the relevant neural circuitry
+may involve timing information rather than spatial information.
+38 The consonance of an interval therefore depends on the timbre (or overtones) of the sound. Sethares
+(1999) provides compelling examples of this phenomenon.
+
+Harmony and Voice Leading
+Figure 2.10.2 The frequencies {330, 440, 550} divide a frequency-space octave (between
+330 and 660) perfectly evenly. In pitch space, the chord divides the octave nearly evenly, into
+pieces that are approximately 5, 4, and 3 semitones large. Note that the acoustically pure Cs
+(72.9) is not quite the same as the equal-tempered Cs (73).
+
+Figure 2.10.3 Highly consonant chords divide the octave nearly evenly.
+
+(log-frequency, pitch-space) octave. (A similar point holds for the perfect ﬁfth, which
+contains the ﬁrst two distinct pitch classes in the harmonic series and evenly divides
+the frequency-space octave.) Thus, for small chords, maximal consonance directly
+implies near evenness. And though the situation is somewhat more complicated in
+the case of larger chords, it remains true that highly consonant chords always divide
+the octave relatively evenly (Figure 2.10.3).39
+In other words—and this being one of the most important ideas in the entire
+book, it is worth a little interjective buildup—the basic sonorities of Western tonal
+music are optimal for two distinct reasons: considered as individual sonic objects,
+
+39 With four notes, the dominant seventh chord divides the frequency-space octave precisely evenly,
+but is not maximally consonant. However, it is fairly consonant, and the more consonant chords (such as
+the major triad with added sixth) are also quite even. Huron (1994) estimates the most common twelvetone equal-tempered chords of various sizes; his maximally consonant chords are always nearly even.
+
+63
+
+64
+
+theory
+
+they are acoustically consonant and hence sound pleasing in their own right; but
+since they divide the pitch-class circle nearly evenly, they can also be connected to
+their transpositions by efﬁcient voice leading. Any composer who cares about harmonic consistency would therefore have reason to choose these chords, even if he or
+she did not care a whit about acoustic consonance. Or to put the point in the form
+of a parable: suppose God asked you, at the dawn of time, to choose the chords that
+humanity would use in its music. There are two different choices you might make.
+You might say, “Well, God, I’m a somewhat cerebral type and I’d like to combine efﬁcient voice leading and harmonic consistency, since this will allow me to praise You
+with glorious polyphony.” And God would hand you a suitcase containing nearly even
+chords, including the perfect ﬁfth, the major triad, and dominant seventh chord.40 On
+the other hand, you might say, “You know, God, I’m kind of a hedonist, and at the
+end of a hard day of hunting and gathering I’d really like to hear chords that sound
+good—chords whose intrinsic consonance will put a smile on my face.” And in this
+case, God would hand you a suitcase containing . . . the perfect ﬁfth, the major triad,
+the dominant seventh chord. In other words, he would hand you the very same chords,
+no matter which choice you made.
+It follows that the development of Western counterpoint is something of an amazing accident. No doubt musicians originally chose consonant chords because they
+“sounded good” in some primary sense—they were acoustically consonant and hence
+felt restful and harmonious. But during the early history of Western music it gradually
+became apparent that these chords were special in another way as well: they could be
+used to write contrapuntal music that was also harmonically consistent. This realization led to the marvelous efﬂorescence of Western contrapuntal technique, as composers over the centuries explored an ever-increasing range of voice-leading possibilities
+between an ever-increasing range of consonant chords. (This efﬂorescence, and its
+numerous variations and ramiﬁcations, is the subject of Part II.) Ultimately, this was
+possible because of the nonobvious connection between efﬁcient voice leading, harmonic consistency, and acoustic consonance—a connection that we now understand
+as a simple consequence of the hidden symmetries of circular pitch-class space.41
+
+40 This suitcase might contain some other chords as well: consonance implies near evenness, but not
+the reverse. However, in the twelve-tone equal-tempered system, the most nearly even chords are reasonably consonant.
+41 It bears repeating that I am generalizing claims made by Eytan Agmon and Richard Cohn. Agmon
+(1991) notes that the diatonic triad is special because it can be connected to each of its diatonic transpositions by particularly efﬁcient voice leadings; Cohn (1996, 1997) notes that the chromatic major triad is capable of participating in “parsimonious” voice leadings to three separate minor triads. (“Parsimonious” voice
+leadings, in Cohn’s parlance, are voice leadings in which just one voice moves and it moves by just one or
+two semitones.) Here I extend these points in several ways. First, rather than limiting myself to Cohn’s parsimonious voice leadings, I consider efﬁcient voice leading more generally. Second, while Agmon and Cohn
+focus on the triad as an object in some particular scale, my point is true of chords in any scale whatsoever—
+diatonic, chromatic, or even in continuous unquantized space. Third, I point out that analogous facts hold
+for acoustically consonant sonorities more generally: while Agmon and Cohn seem to privilege the triad
+even in comparison to the perfect ﬁfth, dominant seventh chord, and diatonic scale, I suggest that the consonant sonorities are all essentially in the same boat. Finally, I show that acoustic consonance implies near
+evenness, which in turn implies the ability to move by efﬁcient voice leading to all of a chord’s transpositions
+or inversions; for Agmon and Cohn, these are separate properties that sometimes happen to coincide.
+

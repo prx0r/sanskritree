@@ -1,0 +1,1394 @@
+Containing Ecstasy: The Strategies of
+Iamblichean Theurgy*
+Gregory Shaw
+STONEHILL COLLEGE
+“I spoke a different language? But I didn’t realize—how can I speak a language without
+knowing I can speak it?”—Harry Potter in Harry Potter and the Chamber of Secrets
+“The method of active imagination … is not a plaything for children.”—Carl Jung
+
+Late Antiquity’s definitive text on divination, sacrifice, and spirit possession must have been missing from the library at Hogwarts School of Witchcraft and Wizardry, or left unread. For if Harry Potter and his friends had
+studied Iamblichus’ De Mysteriis,1 they would have understood what happened when Harry involuntarily moved across a room “as though he were
+on castors” and spoke Parseltongue (snake language) to prevent a giant snake
+from attacking a classmate.2 What remained a mystery to Harry, and made
+him suspect in the eyes of his classmates, is explained by Iamblichus as a
+form of divination, for which, he says, “the more simple and the young have
+a greater aptitude.”3 He also explains that the causes of divine possession are
+lights and spirits that descend from gods. When they penetrate us, he says,
+we are entirely under their domination and control: “[T]hey surround everything in us and completely expel our own thinking and movement, speaking words that are not understood by those who pronounce them.” 4 Harry’s
+disturbing sensation of being involuntarily moved and spoken through was
+an experience of otherness and displacement that was quite familiar to antiquity’s theurgists.
+
+* I would like to thank Peter Durigon and Richard Frankel for their comments and questions. Most especially thanks to Dan Merkur for his editorial suggestions; all flaws and errors in
+the essay are my own.
+1. The standard edition is E. des Places, Jamblique: Les mystères d’Égypte (Paris: Les Belles
+Lettres, 1966). It will be cited as DM with the Parthey pagination supplied in des Places’ text.
+2. J.K. Rowling, Harry Potter and the Chamber of Secrets (London: Bloomsbury, 1998) 145–
+46.
+3. DM 157,16–20.
+4. DM 117,4–7.
+Dionysius, Vol. XXI, Dec. 2003, 53–88.
+
+54
+
+GREGORY SHAW
+
+Explanations cannot remove the terror of being invaded and possessed by
+an invisible presence, but they do provide a theoretic context to help contain
+the trauma of such events. In the De Mysteriis Iamblichus not only provides
+an outline of ecstasies and states of spirit possession, he also provides guidance to distinguish true possession from false and outlines an itinerary for
+those who are attracted, or forced, to experience such mysteries. In the following essay I will examine the role of ecstasy and possession in Iamblichus’
+theurgic itinerary and explore how his doctrines on the embodied soul and
+his theurgic practices allowed theurgists to contain these radical shifts in
+consciousness and—by enduring them—to deepen their spiritual practice.
+In this regard, I will conclude by comparing Iamblichus’ theurgical practices
+to contemporary dreamwork, specifically to disciplines that employ Carl
+Jung’s practice of active imagination.
+I. ECSTASY AND THEURGIC DIVINATION
+The De Mysteriis, Iamblichus’ masterwork on theurgy, was written in response to a series of questions posed by his former teacher, Porphyry. This
+exchange, which occurred sometime between 280 and 300,5 not only reflects fundamental differences in their respective spiritual itineraries, it also
+reveals critical issues concerning the role and significance of ritual for all
+thinkers in Late Antiquity.6 The methods adopted by Iamblichus incorporated traditional forms of divination and sacrifice that Porphyry deemed
+unworthy of a philosopher. Drawing support from Plotinus’ evocative portrayals of an essentially undescended human soul, Porphyry challenged the
+necessity and legitimacy of performing traditional rites. He posed a series of
+pointed questions to which Iamblichus replied at length, explaining the science of sacrifice and divination, and chastising Porphyry for his spiritual and
+philosophical ineptitude. Iamblichus called traditional rituals “theurgy”
+(qeourgi/a), borrowing a term from second-century Chaldeans to designate
+the “work of god” (e0/rgon qeou=)7 and to distinguish this work from merely
+human rituals and especially from the work of sorcerers.
+At the heart of the disagreement between these leading Platonists was the
+question that faced young Harry Potter or anyone who suffers the profound
+disruption of being possessed: What happened to me? How can I speak
+5. Iamblichi Chalcidensis: In Platonis Dialogos Commentariorum Fragmenta, ed. with trans.
+and commentary by John Dillon (Leiden: E.J. Brill, 1973) 18; Emma C. Clarke, Iamblichus’ De
+Mysteriis: A Manifesto of the Miraculous (Burlington, VT: Ashgate Press, 2001) 6–7.
+6. Naomi Janowitz, Icons of Power: The Pragmatics of Ritual in Late Antiquity (University
+Park: Penn State Press, 2002) 5–12.
+7. Hans Lewy, Chaldean Oracles and Theurgy, ed. by M. Tardieu (Paris: Etudes Augustiniennes,
+1978) 461–66.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+55
+
+languages I do not know? How did I do things I did not choose to do? The
+answer, both Platonists knew, was to be found in the uniquely powerful
+experience of ecstasy, an experience rejected by Porphyry and embraced by
+Iamblichus. Literally meaning “to stand outside oneself ” or to be removed
+from oneself, ecstasy (e0/kstasij) describes the eclipse of personality that
+occurred to all theurgists of Late Antiquity. For Iamblichus, ecstasy was required for making legitimate contact with the gods, so Porphyry’s remarks
+about it and Iamblichus’ response are of critical importance for understanding the role of ritual among later Platonists.
+Porphyry’s critique of ecstasy and divination (mantikh/) follows two trajectories familiar to late antique philosophers. He suggests, on the one hand,
+that the source of mantikh/ is entirely human, the result of disturbances in
+the soul or, more positively, the inductive art of dream interpreters or astrologers.8 On the other hand, Porphyry suggests that mantikh/ and the states
+of possession accompanying it are caused by evil daimones.9 In either case
+divination is, at best, a human skill or folly and, at worst, the misguided
+attempt to attract the influence of demonic powers. Although Iamblichus
+argues extensively and coherently against both the human and demonic interpretations, theurgy has been understood almost exclusively in these
+Porphyrian categories. Augustine, who accepted Porphyry’s definition, condemned theurgy as a form of demon worship, and after the fifth century the
+Church characterized theurgical mantikh/ as a demonic practice, one of the
+dark arts.10 Until recently, classical scholars have followed Porphyry’s other
+trajectory, explaining theurgy as a form of superstition and folly; they have
+contrasted the irrationalism of Iamblichus with the preferred rational mysticism of Plotinus who disdained the divinational practices that Iamblichus
+embraced.11
+According to Iamblichus, theurgical mantikh/ requires the human soul to
+be eclipsed by the descending god, but for Porphyry e0/kstasij was merely a
+symptom of psychic illness. The diviner’s consciousness is not eclipsed by a
+god but by an irrational passion or delirium that replaces his own mind with
+
+8. DM 158,3–10; 158,13–16; 278,15–18. Porphyry’s letter is reproduced in the De Mysteriis
+and will be cited according to des Places’ text.
+9. DM 179,13–15. Iamblichus replies that this is opinion “of the atheists” (i.e., Christians)
+and is not worth addressing. See J. Carlier, “Science divine et raison humaine,” Divination et
+Rationalité, ed. by J.P. Vernant (Paris: Éditions du Seuil, 1975) 252–54.
+10. Augustine, City of God, Book 10. It would be more accurate to say that the Church
+considered its own rituals to be the acts of god (qeourgi/a), while rites performed outside
+ecclesiatical authority were considered demonic.
+11. The most articulate spokesman for this view was E.R. Dodds, The Greeks and the Irrational (Berkeley: U of California Press, 1941/1949) 238–311, esp. 288.
+
+56
+
+GREGORY SHAW
+
+an inferior mental state.12 Ecstatic possession, Porphyry says, is a delusion
+like that caused by an “excess of black bile, the aberrations of drunkenness,
+and the raging fury caused by rabid dogs.”13 Porphyry’s etiology draws from
+cultural associations far different from our own, but his reduction of ecstatic
+states to causes found in psychic or chemical imbalance is entirely consistent
+with our current psychiatric manuals which employ terms like “depersonalization disorder” or “dissociative identity disorder” to describe the eclipsing
+of the self that occurs in ecstasy.14
+Iamblichus recognizes the aberrations associated with some forms of ecstasy but distinguishes these from the theurgic. He explains:
+From the beginning it is necessary to divide ecstasy into two species: some are turned
+toward the inferior [and some reach up to the superior]; some are filled with foolishness
+and delirium, but others impart goods more honorable than human wisdom. Some
+degenerate to a disorderly, confused, and material movement, but others give themselves to the cause that rules over the order of the cosmos. The former are separated
+from understanding because they are deprived of knowledge, but the latter are separated from understanding because they are attached to Beings that transcend all human
+understanding. The former are unstable, the latter unchangeable; the first are counter
+to nature (para\ fu/sin), the latter are beyond nature (u9per th\n fu/sin); the former
+make the soul descend, the latter raise it up; and while the former entirely separate the
+soul from a share in the divine, the latter connect the soul with the divine.15
+
+Iamblichus’ distinctions were surely familiar to Porphyry since they elaborate the distinction already made by Plato in the Phaedrus. “There are two
+kinds of madness (mani/a),” Socrates says, “one resulting from human illness, the other from a divine disruption of our codes of conduct.”16 Plato
+suggested an etymological link between mani/a and mantikh/ and argued
+that divine mani/a comes from the gods and is superior to reasoning, which
+comes from men.17 In the De Mysteriis Porphyry is portrayed like the “merely
+clever” man of the Phaedrus, using human reason, while Iamblichus—under
+the pseudonym of an Egyptian seer Abamon—assumes the role of wise spokesman for theurgy, the qei=a mani/a of the fourth century.18
+
+12. DM 158,4–7.
+13. DM 158,7–10.
+14. Quick Reference to the Diagnostic Criteria from DSM-IV-TR (Washington, DC: American Psychiatric Association, 2000) 240–41.
+15. DM 158,11–159,6.
+16. Phaed. 265a,9–11.
+17. Phaed. 244d,3–5.
+18. Phaed. 244d,1–4. Iamblichus goes so far as to employ Plato’s term: qei=a mani/a, to
+characterize theurgic mantikh/ (DM 117,1).
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+57
+
+While acknowledging that many forms of ecstasy are precisely as Porphyry has described, Iamblichus contrasts them with ecstasies that lift the
+soul above nature (u9per fu/sin),19 attach us to beings that transcend human
+understanding, and unite the soul with the gods. From Iamblichus’ point of
+view, Porphyry was not only ill-informed concerning the details of ecstatic
+practices, he was ignorant of their purpose so asked questions about their
+material and mundane aspects while overlooking their essential function. To
+Porphyry’s request that he explain how divination could foresee the future,
+Iamblichus sharply replies:
+What you seek to learn is impossible! For you think—following the sense of your question—that prognosis is something that can be developed, something that exists among
+things in nature. But it doesn’t belong to the generated world, nor is it effected by a
+physical change, nor is it an artifice invented to improve our life. It is not a human work
+at all but divine and supernatural and sent down to us from heaven.20
+
+For Iamblichus, ecstatic mantikh/ has only one purpose: to deify the soul,
+so Porphyry’s interest in foreknowledge is misdirected; knowledge of the
+future is merely incidental to divination, or irrelevant.21 The sole purpose of
+mantikh/ is to unite the soul with the gods, something that human reason
+cannot do. Iamblichus explains: “Only divine mantikh/ unites us with the
+Gods, for it genuinely gives us a share in the divine life; it shares in prognosis
+and divine intellections and makes us truly divine.”22
+While Porphyry imagines mantikh/ as a human art designed to improve
+our existence, Iamblichus sees it as a supernatural gift of the gods, bestowed
+only upon those prepared to receive the divine efflux. Iamblichus, therefore,
+
+19. Its cognate, u9perfu/hj, is accurately translated as “supernatural,” but the Iamblichean
+supernatural should not be confused with its later Christian expression. As a Pythagorean,
+Iamblichus’ u9perfu/hj was never removed from nature but was invisibly present in it as its
+principle. Indeed, material nature is rooted in the immaterial even as it unfolds its powers into
+temporal reality. I therefore disagree with A.H. Armstrong’s characterization of u9perfu/hj because he interprets its use by Iamblichus through the lens of the Christian myth, reading back
+into Iamblichus’ Pythagorean metaphysics a decidedly Christian understanding of the “supernatural” with all its metaphysical and social consequences (A.H. Armstrong, “Iamblichus and
+Egypt,” Les Etudes philosophiques 2–3 [1987]: 186–87). See my remarks on the Christian and
+Pythagorean uses of u9perfu/hj in Shaw, “Neoplatonic Theurgy and Dionysius the Areopagite,”
+Journal of Early Christian Studies 7:4 (1999): 595–99.
+20. DM 100,1–9.
+21. Knowledge of the future was not essential to theurgic mantikh/. Iamblichus says: “Whenever it is necessary for the soul to exercise virtue, and ignorance of the future contributes to this,
+the Gods conceal the things that will happen in order to make the soul better” (DM 289,17–
+290,1).
+22. DM 289,3–6.
+
+58
+
+GREGORY SHAW
+
+dismisses all forms of human divination as “false and deceptive”23 while “the
+divine kind of divination” precedes our very existence and engages “a certain
+divine good pre-established as more ancient (presbu/teran) than our nature.”24 To participate in this “more ancient” presence through ecstatic
+mantikh/ is to become possessed by the god, a condition that Iamblichus
+says should not be confused with any kind of human accomplishment or
+even daimonically inspired thought. “For if one is truly possessed,” he says,
+“human thinking is not stirred and the inspiration (e0pipnoi/a) comes not
+from daimones but from the Gods.”25 In a state of enthusiasm the soul is
+lifted into the god and transformed into a vehicle (o0/xhma) or organ
+(o0/rganon) of the deity.26
+How does the soul enter this condition and become possessed? Iamblichus
+tells Porphyry that he will never grasp this unless he enacts the rites himself,27 for theurgy can be understood only through practical experience. It is,
+in fact, a central thesis of Iamblichus that Porphyry and other Greek philosophers had become far too cerebral and conceptually oriented to be able
+to understand this ancient practice. According to Iamblichus, the Greeks
+had become masters of discursive complexities and subtle philosophic terminology, but at a high cost. In their attraction to the latest intellectual
+fashions they became spiritually shallow and lacked the depth and stability
+to recognize—let alone contain—the power of theurgic rites.28 This,
+Iamblichus believed, was because the Greeks presumed themselves intellectually self-sufficient and had forgotten the divine presence that pre-exists in
+the soul. It is only by entering this pre-conceptual level, however, that the
+soul may recover its connection with the presence “more ancient” than
+thought, and an intellectual like Porphyry was unlikely to understand this.
+For the theurgist, it is not what we know, it is not our thinking that unites us
+
+23. DM 165,2–3.
+24. DM 165,18–19.
+25. DM 114,7–9.
+26. DM 109,13; 115,3–7; 157,8–15.
+27. DM 6,7–8; 114,3–5.
+28. See Iamblichus’ tirade against the Greeks and his praise of ancient barbarian practices
+(DM VII,5). The sixth-century Neoplatonist Damascius, who followed Iamblichus’ teachings,
+reiterates this critique: “I have indeed chanced upon some who are outwardly splendid philosophers in their rich memory of a multitude of theories; in the shrewd flexibility of their countless
+syllogisms; in the constant power of their extraordinary perceptiveness. Yet within they are poor
+in matters of the soul and destitute of true knowledge” (my emphasis). Damascius, The Philosophical History (frag.14), text, trans. and commentary by Polymnia Athanassiadi (Athens: Apamea
+Cultural Association, 1999).
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+59
+
+with the gods but our capacity to enter states of not-knowing receptivity: an
+almost impossible task for those who pride themselves on intellectual sophistication.29
+Iamblichus’ critique of Porphyry’s intellectual approach makes it clear
+that theurgy was not something one could conceptually grasp; it was transmitted only in the experience of those who performed the rites and had,
+themselves, become vehicles of the gods. Knowledge was nevertheless important for theurgists. Apart from knowing the order and mechanics of the
+ritual process, the theurgist required an acute awareness of his or her impulse
+to direct the outcome of the ritual, for it was precisely this impulse that
+could subvert the work. Iamblichus explains:
+Divine possession is not a human action nor does its power rest in human attributes or
+actions, for these are otherwise receptively disposed, and the God uses them as instruments (o0rga/noij). The God completes the entire work of divination by himself, and
+being separated from other things and unmixed—with neither the soul nor the body
+being moved at all—the God acts by himself.… But whenever the soul takes the initiative or is moved during the rite or the body interrupts and disturbs the divine harmony,
+the divinations become turbulent and false and the divine possession is no longer true
+nor genuinely divine.30
+
+The specific skill required of the theurgist is the ability to enter a state of
+quiet receptivity—like the primal matter that receives the Forms31—and to
+surrender every impulse that would pre-empt the god’s orchestration of the
+rite. As long as the soul attempts to direct or take the initiative, the divination reflects only the impulses of the soul, or worse: it attracts like-minded
+and impulsive spirits. Iamblichus insists that rituals of ecstatic possession
+require long training and perseverance, and those who neglect such preparations fail to accomplish anything.32 Those who recklessly perform these rites,
+he says, “become wicked and unholy, glutted with undisciplined pleasures,
+filled with evil, and affect habits foreign to the Gods.”33
+
+29. This may be why Iamblichus and theurgical Neoplatonism remain elusive subjects,
+especially for those who find themselves described in Iamblichus’ tirade against the Greeks.
+30. DM 115,3–15; see also the translation and explanation by E. Clarke, op. cit., 71.
+31. See Timaeus 49a–b; 52a for the receptacle as a “space” (xw/ra) that receives and transmits the Forms. At DM 86.6 the verbal cognate xwrei=n is used to describe how theurgists
+“receive” the light of the gods; cf. 87,7; 125,7; 173,5 all in reference to receiving the gods or
+divine power in a divinational context. See E.C. Clarke for references to xwrei=n and discussion, op. cit., 86, n.4. Cf. G. Shaw, Theurgy and the Soul (University Park, PA: Penn State Press)
+55.
+32. DM 131,3–132,2.
+33. DM 177,1–4.
+
+60
+
+GREGORY SHAW
+
+Those who successfully persevere develop the capacity (e0pithdeio/thj)
+to become vehicles of the god,34 and theurgists can discern both the deity
+who possesses—by its effects on the soul—and the degree to which the soul
+is held by the god. Iamblichus says:
+For either the God possesses us, or we become wholly the property of the God, or we
+act in common with him. Sometimes we participate in the last power of the God,
+sometimes in the middle power, and sometimes in the final power. And of these
+enthusiasms, sometimes it is a bare participation, sometimes a communion, and sometimes even union.35
+
+Emma C. Clarke has noted the parallels between these degrees of possession and the stages of prayer discussed by Iamblichus in the De Mysteriis V,
+26.36 Iamblichus distinguishes three levels of prayer with each degree expressing an increasing intensity of communion with the gods. The first stage
+is called “gathering together” which establishes contact with and awareness
+of the gods. The second stage, called “binding together,” brings the soul into
+a common mind with the gods and provides divine gifts even before we
+think of them. The third and highest stage is called “ineffable union” which
+establishes all power in the gods and allows the soul to rest in them perfectly.37 Iamblichus then describes the benefits of prayer: “The time we spend
+in prayer nourishes our intuitive mind, greatly enlarges the soul’s receptacle
+(u9podoxh\n) for the Gods … and accustoms our eyes to the flashing of
+divine light.”38
+Prayer, therefore, plays an essential role in a divinational itinerary.
+Theurgists must present the gods with a receptacle both subtle and strong
+enough to contain their light, for only with a properly prepared receptacle
+does the soul have the capacity (e0pithdeio/thj) to experience the divine
+efflux without distortion.
+With this ecstatic capacity developed, theurgists used various forms of
+sacrifice and divination to enter into communion with the gods. Each soul
+performed rites commensurate to its capacity, and Iamblichus outlines an
+itinerary of worship from material to immaterial rites corresponding to the
+different capacities of souls to receive the divine light. In every case, however, it is not our thinking that initiates contact with the gods but the gods
+34. On the role of e0pitheio/thj in theurgy, see Shaw, Theurgy and the Soul 87.
+35. DM 111,9–15.
+36. Clarke, op. cit., 93, n.76.
+37. DM 237,16–238,6; See John Dillon, “‘A Kind of Warmth’: Some Reflections on the
+Concept of ‘Grace’ in the Neoplatonic Tradition,” The Passionate Intellect: Essays on the Transformation of Classical Tradition (London: Transaction Publications, 1995) 331.
+38. DM 238,15–239,2.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+61
+
+themselves awakening the older (presbu/teran) presence in the soul. Referred to by Iamblichus as “the one of the soul,” 39 “another principle of the
+soul,”40 or “the one in us,”41 this divine presence is connected with the soul’s
+“innate knowledge” (e0/mfutoj gnw=sij)42 of the gods and exists prior to
+self-consciousness. For Iamblichus, this divine element reveals itself in our
+“essential desire (e0fe/sij) for the Good,”43 a desire which the Chaldean Oracles say is implanted in us by the Demiurge prior to our embodiment.44
+The most spectacular possession in the De Mysteriis describes entranced
+subjects who become insensitive to fire, to water, and to knife wounds because they no longer “live a human or animal life … but have taken in exchange a more divine life from which they are inspired and perfectly possessed.”45 This dramatic possession exemplifies what occurs in every theurgic
+ecstasy: the soul, having attained a sufficiently receptive state, takes in the
+power of the god and is made other to itself, indicated in Iamblichus’ use of
+the verb a0lla/ssw in middle voice, meaning “to be made other,” “altered,”
+or “take in exchange.” In a divine ecstasy and possession, Iamblichus says:
+“The soul is entirely separated from those things that bind it to the generated world. It flies from the inferior and exchanges (a0lla/ttetai) one life
+for another, having entirely abandoned its former existence.”46
+Among the most objectionable theurgic practices to Porphyry was chanting the names of barbarian gods or unintelligible sounds. Yet, for Iamblichus
+it was precisely the strangeness of these names that made them valuable.
+“This very unknowableness,” he says, “is its most venerable aspect, for it is
+too excellent to be divided into knowledge.”47 Preserved by ancient theurgists,
+these invocations awaken the “deep eros” seeded by the Demiurge and lift
+the soul into the activity of the gods. “At the moment of prayer,” Iamblichus
+says, “the divine itself is truly joined with itself, and it is not as one person
+speaking with another that the God shares in the thoughts expressed in
+39. In Phaedrum 6; Iamblichi Chalcidensis, trans. by Dillon, 96–97.
+40. DM 270,9.
+41. DM 46,13.
+42. DM 7,14
+43. DM 8,1–2.
+44. They refer to a “deep desire” (baqu/j e0/rwj) implanted in souls by the Creator to stir
+our desire for him. Chaldean Oracles, frag. 43, text, trans. and commentary by Ruth Majercik
+(Leiden: E.J. Brill, 1989).
+45. DM 110,5–111,2.
+46. DM 270,15–19.
+47. DM 255, 12–14; cf. 42,9–14: “[An invocation] does not, as the name seems to indicate, incline the intellect of the Gods to men, but according to the truth … the invocation
+make the intelligence of men fit (e0pithdei/an) to participate in the Gods, elevates it to the
+Gods, and harmonizes it with them through orderly persuasion.”
+
+62
+
+GREGORY SHAW
+
+prayer.”48 To invoke the ancient names of the gods does not call the divine to
+us but awakens the “one in the soul” so that the god reunites with itself
+through us. The soul’s role in this theurgic union requires a receptive capacity
+to contain the divine power and allow the “one in us” to awaken the soul
+from the slumber of habitual self-consciousness. Exchanging “one identity
+for another” (a0lla/ttetai)—human for divine—the soul then becomes a
+vehicle for the will and the activity of the gods. Without this receptivity and
+the ekstasis of habitual self-consciousness no theurgy was possible.
+Despite Iamblichus’ emphasis on ecstatic self-displacement, when the
+divine lights descend a residual awareness may follow what happens. In several rites of divination, which Iamblichus describes as techniques of “light
+gathering” (fwtagwgi/a), the soul remains aware while its imagination
+becomes filled with light and moved by the will of the gods. He explains:
+This [light-gathering] occurs in two ways: either the Gods are present in the soul or
+they shine an advance light from themselves into the soul. In each case, the divine
+presence and the illumination are both separate [from our control]. The attention and
+awareness of the soul follow what happens since the divine light does not touch them,
+but the imagination is divinely inspired for it is stirred into modes of imagination from
+the Gods, not from itself, and it is utterly changed from what is ordinarily human.49
+
+Of the two kinds of possession: conscious or unconscious, Iamblichus
+says the “more perfect” occurs “when the sound mind follows the events,”
+attending to the visual and auditory images inspired by the gods.50 Consistent with this distinction is Iamblichus’ reply to a question about dream divination where he says that theurgic, or god-sent dreams come not when we
+are unconscious but when we are “between waking and sleeping,” that is, in
+a hypnagogic state.51 This “in-between” awareness is conscious but not active, it perceives but does not analyze or evaluate, and while being extensive
+it does not focus on specific objects or exert its will.
+What kind of awareness is this? For theurgists of Late Antiquity it is both
+the awareness necessary to receive the gods in ecstatic mantikê and—in its
+most developed form—the awareness needed to perceive the divine Intelligible. Fragment 1 of the Chaldean Oracles states:
+48. DM 47,9–11.49.
+49. DM 133,19–134,8.
+50. DM 104,10–11, trans. by E. Clarke (83). Clarke (83–86) has carefully examined this
+distinction in the De Mysteriis and has demonstrated its importance for understanding how
+Iamblichus conceived of theurgic possession, including his differences with Proclus and Plotinus
+on the role of self-consciousness in one’s contact with the divine. For unconscious possession see
+DM 109,16–110,2.
+51. DM 103,13. See Clarke, op. cit., 81.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+63
+
+There exists a certain Intelligible which you must perceive with the flower of mind. But
+if you turn your mind to it and perceive it as a specific thing you will not perceive it….
+You must not perceive that Intelligible with vehement effort but with the extended
+flame of an outstretched mind that measures all things except that Intelligible. I ask you
+to perceive this in a simple and direct way: bring back the sacred eye of your soul and
+extend an empty mind into that Intelligible to know it, for it exists outside the grasp of
+mind.52
+
+For Iamblichus, the abstract speculations of philosophy converge with the
+practice of theurgic divination, for in his commentary on Plato’s Parmenides
+he reiterates these restrictions and emphasizes even more than the Oracles
+our inability to grasp the Intelligible. Iamblichus says:
+Neither by opinion, nor by discursive reasoning, nor by the intellectual element of the
+soul nor by intellection accompanied by reason is the Intelligible to be comprehended,
+nor yet is it to be grasped by the perfect contemplation of the intellect, nor by the
+flower of the intellect, nor is it knowable by a mental effort at all, neither along the lines
+of a definite striving, or by a grasping, or by any means such as this ….” 53
+
+For Iamblichus, philosophic reflection can never grasp the Intelligible but it
+can lead the soul to a profound and creative aporia that culminates in theurgic
+union.54 No longer distracted by abstract formulations or the seductions of
+discursive thought, our “sacred eye” turns back to its deeper affinity with the
+gods. Yet this contact with the divine occurs only with an ecstatic exchange
+that transforms our imagination into an organ of the god while the soul—
+with empty mind—follows the visions and witnesses the divine reunions.
+Iamblichus’ philosophic commentaries are therefore not at odds with his
+theurgic practice but play an essential role in preparing the soul for theurgy.
+If, as Iamblichus maintained, an excessive dependence on thinking alienates
+us from the gods, it is essential to engage our discursive capacity in order to
+address this. Iamblichus’ doctrines on the embodied soul, therefore, form an
+important part of his philosophic and theurgic itinerary, and his disagreement with Porphyry on the status of the soul directly reflects their disagreement concerning theurgy.
+52. Chaldean Oracles frag. 1, text, trans. and commentary by Ruth Majercik (Leiden: Brill,
+1989). I have drawn from Majercik’s translation as well as from Sara Rappe’s; see Rappe, Reading Neoplatonism: Non-discursive Thinking in the Texts of Plotinus, Proclus, and Damascius (New
+York: Cambridge U Press, 2000) 224.
+53. In Parm. frag. 2A, translation by Dillon (modified slightly) in Iamblichi Chalcidensis,
+op. cit., 209. Dillon (300) explains that the contradiction concerning the capacity of the flower
+of the mind with the fragment from the Oracles is “more apparent than real, and … depends
+on the text which Iamblichus is commenting on in each instance.”
+54. See Shaw, “After Aporia: Theurgy in Later Platonism,” The Journal of Neoplatonic Studies V.1 (1996): 3–41.
+
+64
+
+GREGORY SHAW
+
+II. EMBODIMENT AS SELF-ALIENATION
+In the De Mysteriis Iamblichus reprimands Porphyry for posing questions
+about the gods and theurgy as if they could be explained conceptually. Even
+Porphyry’s initial concession that the gods exist 55 is considered inappropriate since it implies that the existence of the gods could be questioned and
+examined in the style of a philosophic exercise. This is not possible, Iamblichus
+says, “[because] an innate knowledge (e0/mfutoj gnw=sij) of the Gods exists
+in our very essence, and it is superior to all judgment and choice and prior to
+reasoning and logical demonstration.”56 Iamblichus criticizes Porphyry for
+applying contrary and logically opposed terms to the gods, for they cannot
+be understood “by opinion or any deductive reasoning process”57 but only
+by participation in their undivided sameness. Iamblichus continues:
+You seem to think that the same knowledge exists for divine things as for any other sort
+of thing, and that one may deduce some part of the answer from contraries, as is the
+habit in dialectical propositions. But there is no resemblance whatsoever! For knowledge of the Gods is completely different and is removed from all opposition; it does not
+subsist by our granting that it exists now or will exist, but from eternity it has uniformly
+co-existed in the soul.58
+
+While granting that Iamblichus writes in a polemical tone and is eager to
+take advantage of Porphyry’s questions to further his arguments, there is a
+profound difference in their in their views of philosophy and the spiritual
+life. In Iamblichus’ estimation, Porphyry was wedded to habits of discursive
+reason that are dangerously misleading if one does not recognize their limitations. Iamblichus’ critique of the Greeks for their shallowness and instability—always shifting from one side of an argument to another—is an apt
+description of the soul caught in the dyadic oppositions of discursive thought,
+and Iamblichus clearly thinks that Porphyry fits the description. There is
+some irony in this, because Porphyry’s master Plotinus was well aware of
+how discursive thinking counterfeits intelligible realities. Discussing this in
+his treatise on intelligible beauty, Plotinus says:
+… you can explain the reason why the earth is in the middle, and round, and why the
+ecliptic slants as it does; but it is not because you can do this that things are so…the
+[beauty of the world] is not the result of following out a train of logical consequences
+and purposive thought: it is prior to consequential and purposive thinking, for all this
+comes later ….59
+55. DM 7,12.
+56. DM 7,13–16.
+57. DM 9,14.
+58. DM 10,1–9.
+59. Ennead V.8.7. 37–43, trans. by Armstrong (modified slightly). Those who are satisfied
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+65
+
+The priority of the Intelligible, Plotinus argues, is accessible to us only by
+freeing ourselves from the lure of discursive thinking and entering a state
+that no longer sees one thing after another, i.e., discursively, but sees “all
+together at once” as do Egyptian wise men who enter the “non-discursiveness of the intelligible world” through the images engraved in their temples.60 Sounding very much like Iamblichus, Plotinus says that this intelligible knowing “exists before research and before reasoning”61 and he insists that
+we engage it through the soul’s “more ancient, unperceived desire (e0/fe/sij)
+of the Good.” 62
+Plotinus’ descriptions of being lifted by this desire into union with the
+One are among the most arresting mystical testimonies of antiquity or of
+any age.63 The result was a divine dissociation which estranged Plotinus
+from his embodied self, for after dwelling in the divine realm he says: “Then
+after that rest in the divine, when I have come down from Intellect to discursive reasoning, I am puzzled how I could, even now, descend, and how my
+soul has come to be in the body.”64
+Plotinus’ response to these experiences was Platonically unorthodox but
+poetically compelling. He imagined himself to have two identities: one in
+the body, the “inferior companion,” 65 and the other, his true self, outside
+the body in the intelligible world. Plotinus proposed that “our soul does not
+altogether come down, but there is always something of it in the Intelligible,”66 and he shared the intensity of this divine identity with his students,
+inviting them to experience their “head in heaven,” “illuminating” the body
+from above.67 Porphyry attended the seminars of Plotinus, whom he revered
+as an enlightened sage, and was deeply moved by his master’s evocations of
+divine experience.68 Yet these poetic images were received by Porphyry, if not
+by Plotinus himself, as doctrine, and it is with the doctrine of an undescended
+soul that Iamblichus disagreed. The specifics of Iamblichus’ psychology are
+with descriptions of intelligible reality, Plotinus says, are “like people at [religious] festivals who
+by their gluttony stuff themselves with things which it is not lawful for those going in to the
+Gods to take, thinking that these are more obviously real than the vision of the God” (Enn.
+V.11.12–15, trans. by Armstrong, modified).
+60. Ennead V.8.6.8–9; on Plotinus’ critique of discursive thinking see Rappe, 104.
+61. Ennead V.8.6.18–19.
+62. Ennead V.5.12.17–19; cf. the soul’s “essential desire (e0fe/sij) for the Good” (DM 8.1–
+2).
+63. Ennead VI.7.35.20–28.
+64. Ennead IV.8.1.8–10
+65. Ennead I.2.6.28.
+66. Ennead IV.8.8.2–4.
+67. Ennead IV.3.12.5–6; I.1.12.25–29.
+68. See Porphyry’s adoring comments in his Life of Plotinus 13.
+
+66
+
+GREGORY SHAW
+
+detailed and complex, but the difference between Plotinus and Iamblichus
+on the soul’s status may be characterized quite simply: what Plotinus came to
+identify with as his own undescended soul, Iamblichus left as the property of the
+gods to be received—in ecstatic exchange—in theurgic ritual.
+Porphyry appropriated Plotinus’ rhapsodic testimony as fact; he assumed
+that the soul and the Intellect were essentially identical and, consequently,
+the philosopher’s task was simply to withdraw into himself, to return “alone,
+through himself, to God alone.”69 Divinational rites and sacrifices were still
+useful, but only as a means to purify the lower (inferior) soul and were eventually discarded because they kept the soul bound to daimones who feed off
+the vapors of blood sacrifice. Expressing an attitude that is the antithesis of
+Iamblichus’ position, Porphyry says: “In every respect, the philosopher is the
+savior of himself.”70
+The hubris and impiety that Iamblichus recognized in Greek intellectuals could not find a clearer expression. In contrast, Iamblichus paints a picture of the human soul that emphasizes our difference from the gods: “The
+human race is weak and small, it sees but little and is possessed by a congenital nothingness … when compared to the divine, the human race is ugly, of
+no value, a mere toy.”71 Iamblichus strongly objected to the notion of an
+undescended soul and argued that the soul comes down completely and is
+confined to the single form of its physical body.72 In the De Anima, Iamblichus
+criticizes those who disregard the ontological distinction between the soul
+and the gods. Discussing the soul’s essence (ou0si/a), he says:
+There are some who maintain that all parts of this essence are one and the same, so that
+the whole exists in any part of it. They even place in the individual soul the Intelligible
+World, Gods, Daimones, the Good, and all Races superior to the soul …. According to
+this view, the soul, considered in its entire essence, is in no way different from the
+Intellect, the Gods and the Superior Races.73
+
+Iamblichus says that Numenius held this opinion, while Plotinus was drawn
+to it and the unstable Porphyry sometimes rejected it, sometimes revered
+it.74 Iamblichus, however, maintained that because of its mediating function
+in the cosmos, the human soul, although divine, has the burden of identify69. Porphyry, On the Abstinence from Animal Food II.49.1 in Porphyre. De l’abstinence, text,
+trans. and intro. by J. Bouffartique and M. Patillon (Paris: Les Belles Lettres, 1977).
+70. Ibid. II.49.2
+71. DM 144,12–14; 146,10–12.
+72. DM 148,12–14; in his De Anima Iamblichus says individual souls are “confined to a
+single form and divided out among bodies” (Stob. I.373,5–8).
+73. Stobaeus I.365,7–21.
+74. Ibid. I.365,14–21.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+67
+
+ing with a mortal life. Distinguishing the soul from superior races, Iamblichus
+defines its essence as
+either the mean (me/son) between divisible and indivisible, corporeal and incorporeal
+beings; or the totality of the universal ratios (lo/goi); or that which, after the Forms,
+serves the work of creation; or that Life which, having proceeded from the Intellect, has
+life itself; or the procession of the classes of Real Being as a whole to an inferior status.75
+
+Iamblichus believed that his definition accurately reflected Plato’s account
+in the Timaeus (34c–36e) where the World Soul functions as a cosmogonic
+mean that unites opposites in mathematical proportions (lo/goi). In the
+case of human souls, however, the trauma of embodiment severs their continuity with the Forms and the divine lo/goi are unknowingly discharged
+into the material world. Embodied souls lose awareness of this projection,
+become self-alienated, and identify with a single mortal body; to deny this,
+as the doctrine of the undescended soul seems to do, would deny to the soul
+its cosmogonic and mediating function.76 For Iamblichus, the dividedness
+and mortality of the embodied soul was not an error that could be erased by
+spiritual insight, for embodiment was the expression of divine activity. To
+escape from the body and the material world, therefore, was to forfeit one’s
+participation in cosmogony. In Iamblichus’ psychology the condition of mortality and self-alienation constitute the soul’s very essence as human.
+Iamblichus’ teachings on the soul were admired for their subtlety and
+were often cited by later commentators. Priscian reports that according to
+Iamblichus,
+the soul is a mean (me/son), not only between the divided and undivided, the remaining
+and the proceeding, the noetic and the irrational, but also between the ungenerated and
+the generated…. Thus that which is immortal in the soul is filled completely with
+mortality and no longer remains only immortal.77
+75. Ibid. I.365,25–366,5; trans. by John Dillon, modified slightly, “Iamblichus of Chalcis,”
+Aufsteig und Niedergang der Römischen Welt, Part II, 36.2 (New York: de Gruyter, 1987) 893.
+This teaching, Iamblichus said, was shared by “Plato, Pythagoras, Aristotle, and all of the Ancients .…” (I.366,6–8).
+76. It should be noted that Iamblichus characterized Plotinus’ position on the undescended
+soul in a one-sided way, as if Plotinus defined each human being entirely by its unfallen essence,
+but there are many passages of the Enneads that do not allow for this view. As Carlos Steel puts
+it, “Plotinus always attempts to express simultaneously both the immanence and transendence
+which constitute the relationship between the higher and the lower orders of being” (Steel, 31;
+cf. 44–45). Plotinus says that the Intellect “is ours and not ours” (Enn. V,3,3,27–28), so there is
+a tension and subtlety in Plotinus’ psychology that Iamblichus’ polemic does not take into
+account. The author is indebted to Peter Durigon for pointing this out.
+77. Simplicius [Priscian], In De Anima [DA] 89,33–37; 90,21–23. Carlos Steel has argued
+persuasively that the author of the Simplicius commentary on Aristotle’s De Anima [CAG XI]
+
+68
+
+GREGORY SHAW
+
+He adds that for Iamblichus although the soul is “self-alienated” in embodiment,78 it “can never become entirely self-alienated or it would cease to be
+soul.”79 This identity-in-alienation, in which the soul’s immortality is accessible only in mortality, suggests the difficult and paradoxical nature of
+Iamblichus’ teaching.
+Because the embodied soul is not only alienated from the gods but from
+its own divinity, all contact with the divine must come to it from “outside”
+(e0/cwqen) itself,80 and this is why ecstasy was necessary for the soul to recover
+its divinity. As self-alienated, the soul requires an exchange of identity to
+recover its divine self: theurgic ecstasies, therefore, were visionary retrievals
+of the divine lo/goi projected in the soul’s descent. Since these lo/goi become embedded in the orders of time and generation, the soul must recover
+them in the form of symbols or tokens (sunqh/mata) drawn from the natural world and empowered by the gods.81 As these sunqh/mata are ritually
+engaged, the self-alienation of the particular soul is gradually over-shadowed
+by its identity with the Demiurge and the soul recovers the “totality of the
+universal lo/goi” that it unknowingly projected (and lost) in its descent.
+In every case, the effectiveness of the rite depends on the soul’s receptivity
+to the sunqh/mata. This was not sheer passivity but a receptive capacity
+(e0pithdei/othj) awakened and sustained by the soul’s awareness of its “nothingness” (ou0denei/a) when compared to the gods.82 Whether performing
+
+was Priscian. See C. Steel, The Changing Self, trans. by E. Haasl (Brussels: Paleis der Academien,
+1978) 16–20. For a recent argument against Steel’s view see Ilsetraut Hadot, “Simplicius or
+Priscianus? On the Author of the Commentary on Aristotle’s De Anima (CAG XI): A Methodological Study,” trans. by Michael Chase, Mnemosyne LV (2002): 159–99.
+78. [Priscian], De Anima 223,26.
+79. Ibid. 241,10–11.
+80. Throughout the De Mysteriis Iamblichus insists that the divine must enter the soul
+“from without” (exôthen): 24,4; 30,16–19; 127,10; 167,2.
+81. Sunqh/mata were embedded in the natural world and could be discovered in animals
+or plants (DM 235,5–9; 136,6–10), incantations and concoctions (133,18), characters traced
+on the ground (129,15–17), and in ineffable names chanted by theurgists (157,13-16). For
+their origin in the context of second-century Platonism and the Chaldean Oracles, see Shaw,
+Theurgy and the Soul, op. cit.,162–66.
+82. DM 47,13–48,4. For a discussion of the importance of feeling one’s nothingness
+(ou)denei/a), see Shaw, “After Aporia,” op. cit., 29–30. To Porphyry’s remark that divination
+makes the soul passive, Iamblichus replies, “… on the contrary, it transforms us, who are subject to passivity due to our birth, into pure and unchangeable beings” (DM 42,2–5). Henry
+Corbin sees the same distinction made in the visionary recitals of Muslim mystics who use the
+metaphor of two kinds of “darkness” or “night” to describe the difference between the sheer
+passivity of an enmattered soul and the developed receptivity of the visionary. Corbin speaks of
+the “luminous Night of superconsciousness and the dark Night of unconsciousness” (The Man of
+Light in Iranian Sufism [New Lebanon, NY: Omega Publications, 1994] 7).
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+69
+
+animal sacrifices or the rare immaterial worship where theurgists “extend a
+subtle flame of an outstretched and empty mind,” 83 all contact with the gods
+was effected by means of this nothingness. If a receptacle was required to
+contain the god, it was a receptacle defined by this emptiness, and its strength
+was proportional to the depth of the soul’s longing for its lost divinity. In
+turn, the soul’s possession was proportional to its ecstatic receptivity. By
+giving up its willfulness and propensity to know and by identifying with its
+poverty and emptiness, the Iamblichean soul reversed the alienating magnetism of its descent and offered the gods a receptacle (u9podokh\) vast enough
+to contain them. Yet, Iamblichus reminds Porphyry, the soul’s only contribution to creating this vessel is the acute awareness of its deficiency. Explaining the role of this nothingness in theurgic prayer, Iamblichus says: “For the
+awareness of our own nothingness (ou0denei/a), when we compare ourselves
+to the Gods, makes us turn spontaneously to prayer, and from our supplication, in a short time we are led up to that one to whom we pray …”.84
+One consequence of Iamblichus’ psychology is that there is no personal
+immortality. As individuals, we must come to terms with our mortality and
+recognize that self-consciousness is simply the awareness intrinsic to the soul’s
+mediating function, but to recover our divinity the most we can do is to
+recognize the depth of our longing for the divine and the utter hopelessness
+of all plans or designs to reach it. Here the simple or the young may, indeed,
+be more skilled than the intellectually brilliant who, like Iamblichus’ “Greeks,”
+might find it difficult to accept the worthlessness (ou0denei/a) of their wisdom. The philosopher/theurgist of Iamblichus’ school must learn to exercise
+his or her intellectual powers but, at the same time, keep them placed in a
+deeper itinerary where discursive skills are used to limit the soul’s titanic
+impulses 85 and to offer the gods a container. The soul meets the gods not as
+an individual escaping from the cosmos but as an agent of cosmogenesis
+through whom the gods express themselves in the soul’s theurgic activity,86 and
+the specific faculty of the soul in which these theurgies occur is the
+fantastiko/n, the soul’s power of imagination.
+83. Chaldean Oracles Frag. 1, Majercik, op. cit.
+84. DM 47,16–48,1.
+85. Damascius discusses the titanic element in the soul in his commentary on the Phaedo.
+See sections 1–9 in The Greek Commentaries on Plato’s Phaedo, ed. and trans. by L.G. Westerink,
+vol. 2 (New York: 1977) 32–33. The limiting of the soul’s titanic impulses is portrayed in the
+punishment inflicted on the Titans; their “shackles” (desmo/i) return the Titans (and the soul’s
+titanic impulses) to the order of the gods.
+86. The theurgic itinerary of Iamblichus reflects the erotic itinerary of Plato’s Symposium
+where Eros, who combines poverty (peni/a) and resourcefulness (po/roj), leads souls into encounters with Beauty culminating in the soul’s participation in cosmogenesis: “The act of creation,” Diotima says, “is the one deathless and eternal element in our mortality” (206e7–8).
+
+70
+
+GREGORY SHAW
+
+III. IMAGINATION AND THEURGIC EPIPHANIES
+This power of imagination, which Iamblichus calls fantastiko/n or
+fantasi/a, was instrumental in fixing the soul to a mortal body, through its
+attraction to sensate images, and in leading the soul back to its collaboration
+with the Demiurge in ecstatic visions. For Iamblichus, the fantastiko/n
+has a dual function: it mirrors sensate phenomena and our concepts about
+it, and it functions as a medium for the appearances (fa/smata) of the
+gods. Iamblichus’ understanding of imagination (fantasi/a) is reported by
+Priscian as follows:
+[Imagination] rouses up images from sense perception to opinion and extends images
+from Intellect down to opinion as it receives these images (fanta/smata) from
+wholes.87 And imagination (fantasi/a) is uniquely characterized by this two-fold assimilation: as both producing and receiving likenesses that are appropriate, either to
+intelligible powers or to materially generative powers, or to those in the middle, fitting
+the outside with the inside and establishing the images that descend from the Intellect
+upon the lives extending down around the body.88
+
+As there are two kinds of ecstasy, so there are two kinds of fantasi/a, one
+reflecting physical sensations, the other clothing intelligibles in visible images (fanta/smata). In the De Mysteriis, Iamblichus distinguishes the
+fantasi/a of an individual soul from the fantasi/a received from the
+gods. These “divine imaginations” (qei/a qantasi/ai), like god-sent dreams,
+should not be confused with imaginations caused by human illness or conjecture,89 and just as the soul remains aware in the hypnagogic experience of
+god-sent dreams, it also remains conscious during imaginative possessions.
+Iamblichus says:
+The attention and awareness of the soul follow what takes place since the divine light
+does not possess them, but the imaginative faculty (fantastiko/n) is divinely inspired,
+since it is awakened into modes of imagination that come from the Gods, not from
+itself, and it is utterly removed from what is ordinarily human.90
+
+Imagination is therefore the medium that effects both the soul’s attachment
+to a body and its return to the gods, so theurgists had to become adept at
+distinguishing merely human images from the variety of divine images.
+
+87. From “wholes,” that is to say, from the noetic realm which is defined by undivided
+unity.
+88. Prisican, On Theophrastus’ On Sense Perception, trans. by Pamela Huby (Ithaca, NY:
+Cornell U Press, 1997) 23,16–23 (translation modified slightly).
+89. DM 160,8–12.
+90. DM 133,3–8.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+71
+
+A method of discernment is clearly evident in Iamblichus’ catalogue of
+divine appearances in the De Mysteriis II.3–9. To Porphyry’s question of how
+theurgists distinguish among invisible entities, Iamblichus provides a diagnostic guide of appearances (fa/smata), describing in the following order:
+gods, archangels, angels, daimones, heroes, souls, and archons. Employing
+Aristotle’s principle that the activity (e0ne/rgeia) of an entity reveals the power
+(du/namij) of its essence (ou0si/a), Iamblichus reads the fa/smata as indices
+of their sources.91 He lists twenty criteria that distinguish each luminous
+appearance in terms ranging from uniformity and brilliance, to beauty, magnitude, and stability: it is, in sum, a taxonomy of visionary light. For example, if the magnitude of an epiphany “covers the whole sky, the sun and the
+moon, and the earth is no longer able to stand still” 92 this indicates that a
+god has descended, but if the light is “more divided” and its magnitude
+differs with each appearance, the entity is a daimon.93
+In addition to purely descriptive criteria, Iamblichus also distinguishes
+epiphanies according to their effects on the soul. To cite one example,
+Iamblichus says:
+At the moment of the epiphany, souls who invoke the Gods are lifted above their passions and their own habits are removed in exchange (e0chllagme/nhn)94 for a vastly
+better and more perfect activity, and they participate in divine love (qei=on e0/rwta) and
+experience amazing happiness.95
+
+In contrast, when daimones appear, the soul reflects the influence of daimones
+who draw invisible principles into particulars and “lead souls down into
+nature.”96 Iamblichus explains:
+When Daimones are seen, souls are filled with an urge toward the generated world, a
+desire for nature and to fulfill the workings of fate, and they receive a power to complete these kinds of activities.97
+
+Since contact with divinities is determined by the soul’s receptivity,
+Iamblichus’ catalogue of epiphanies is as much an index of the imaginative
+capacities of the soul as it is an index of divine attributes. And although
+Iamblichus insists that the soul contributes nothing to ecstatic visions, it is
+91. DM 70,12–13.
+92. DM 75,12–15.
+93. DM 76,1–3.
+94. Iamblichus again uses the verb (e0c) + a0lla/sw to describe the ecstatic exchange of
+human for divine.
+95. DM 87,14–18.
+96. DM 79,9–10. On the role of daimones in creation, see Shaw, Theurgy and the Soul 40.
+97. DM 88,5–8.
+
+72
+
+GREGORY SHAW
+
+clear that the theurgist’s fantastiko/n is an acutely sensitive instrument,
+able to mirror 140 kinds of fa/smata corresponding to 140 receptive states.98
+Yet, when Iamblichus refers to the invocations and appearances of gods we
+should not understand him to mean that the theurgist commands them to
+appear, for this would contradict the principle that superior orders are not
+influenced by inferiors. Called or not called, the gods were never absent: the
+theurgic art simply crystalized their invisible presence in a form corresponding to the receptive capacity of the soul.99
+The visible appearance of the god required the cooperation of the theurgist
+who clothed the epiphany in the subtle matter of imagination. As Iamblichus
+puts it, the presence of the god “reveals the incorporeal as corporeal to the
+eyes of the soul by means of the eyes of the body.”100 Proclus elaborates on
+this point and explains the epiphanies as follows:
+The Gods themselves are incorporeal but since those who see them possess bodies, the
+visions which issue from the Gods to worthy recipients possess a certain quality from
+the Gods who send them but also have something connatural with those who see them.
+This is why the Gods are seen yet not seen at all. In fact, those who see the Gods witness
+them in the luminous garments of their souls ….101 Each God is formless even if he is
+seen with a form. For the form is not in him but comes from him because of the
+incapacity of the viewer to see the formless without a form; rather, according to his
+nature he sees by means of forms.102
+
+The luminous garments of the soul refer to what Iamblichus calls our “vehicle of light” (au0goeide\j o0/xhma), created by the Demiurge and intimately
+tied to the imagination.103 As the fantasi/a is gradually cleansed of the
+alienating compulsions of sensate imagery, it becomes fit (e0pithdeio/thj)
+to reflect the intelligible light of the gods, and it is in this body of light that
+theurgists enter the activities of the gods.
+It is important to recognize, however, that since the soul is embodied and
+self-alienated its habits are determined by daimonic urges that attach the
+soul’s divine lo/goi to material images, and it is this attachment that causes
+the soul to suffer. The gradual cleansing of the imagination, therefore, must
+address this pathology and allow souls to recover their lo/goi in the material
+forms in which they are daimonically fixed. It was not possible to think one’s
+98. Since Iamblichus outlines twenty criteria to distinguish seven invisible orders.
+99. Henry Corbin accurately captures the divine role of the imagination among Persian
+Neoplatonists. See H. Corbin, Creative Imagination in the Sufism of Ibn Arabi, trans. by Ralph
+Mannheim (Princeton: Princeton U Press, 1969) 270.
+100. DM 82,1–2.
+101. Proclus, In Rem. Pub. II 39,5–11.
+102. Ibid. II 39,28–40,4.
+103. DM 132,11–13; 125,5–7; see Shaw, Theurgy and the Soul 221.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+73
+
+way out of this. It was not possible to escape the daimones or their effects,
+for they manifested the divine will, the work of the Demiurge. To assume
+that one could forego the material realm and go straight to the Intelligible
+was a conceptual mirage that, in Iamblichus’ estimation, had lured Porphyry
+and the Greeks away from a living and embodied engagement with the gods
+and their daimones.
+Iamblichus’ psychology of the completely descended soul provided a rationale that perfectly complemented his theurgic practice. This required that
+the soul honor the divine powers that produce its material body and the
+physical world. Because Porphyry believed that the essence of the human
+soul is never embodied and never suffers the self-alienation described by
+Iamblichus, it was not necessary to engage the gods in their material forms,
+i.e., in the sunqh/mata of theurgy. If the soul is not truly embodied it does
+not need to honor material daimones nor to undergo an ecstasy to recover
+its divinity; it can simply “save itself,” as Porphyry put it, through contemplation. Iamblichus believed that to deny the soul’s self-alienation and embodiment, to seek transcendence without first recovering the logoi projected
+into material nature, was an escapist fantasy. He tells Porphyry: “According
+to the art of the priests, it is necessary to begin sacred rites from the material
+Gods. For the ascent to the immaterial Gods will not otherwise take
+place.”104 Souls that have not first coordinated themselves with the daimones
+and gods of the material world cannot possibly contain the presence of the
+intelligible gods. Without this preparation, Iamblichus says, “they will utterly fail to attain immaterial or material blessings.”105
+In our fascination with the spiritual transcendence seen in the writings of
+Plotinus and other Neoplatonists we have failed to appreciate the consequences of Iamblichus’ psychology. In its descent into a body, the soul is
+fundamentally torn in pieces and distributed into the material world. This
+psychic dismemberment requires rituals of recovery that answer to each kind
+of rupture and embodied agony that the soul undergoes. Theurgic rites contain these traumas and allow the soul to gradually recover its divine body,
+but the process must begin, Iamblichus insists, with the material gods who
+preside over the suffering of all
+… material phenomena: division, collision, impact, reaction, change, generation, and
+the corruption of all material bodies … and in worship we offer what is appropriately
+related to them. In the sacrifices, therefore, dead bodies and things deprived of life, the
+blood of animals, the consumption of victims, their diverse changes and destruction,
+and in short the breakdown of the matter offered to the Gods is fitting—not for the
+Gods themselves, but for the matter over which they preside.106
+104. DM 217,8–11.
+105. DM 220,5.
+106. DM 217,14–218,9.
+
+74
+
+GREGORY SHAW
+
+And the matter over which these gods preside includes the material forms
+and daimonic patterns whose shape the soul’s lo/goi have assumed. In effect, the blood and consumption of animals, the dead bodies, and the “breakdown of matter offered to the gods” all reflect the degree to which the soul
+has become identified with the fate of generated lives. And as these lives are
+offered back to the gods, the divine lo/goi of the soul attached to them are
+recovered, allowing the soul to re-member its divine body.
+Iamblichus, therefore, insists that the soul’s journey to the gods begin
+with our wounds: the pathological complexes with which the soul has become identified, for skipping over these pathologies would deny to the soul
+its cosmogonic role as the link between noetic and material realms. In this
+context, Iamblichus’ diagnostic guide of appearances (fa/smata) may be
+appreciated as much for its description of daimones as of gods, for daimones
+“lead souls into nature,” and when the soul practices theurgic divination
+and sacrifice it engages the daimonic powers that fix the soul to the material
+world. Since the soul’s lo/goi have been projected into the material order,
+the soul cannot initially receive divine light in its purity but must recover it
+through the filters of material life. These receptions are distorted, Iamblichus
+says, due to the imperfect capacity of secondary lives to participate in the
+wholeness of primary causes. He explains:
+The cause for the many differences in secondary lives is participation: the mixing of
+material lives with immaterial emanations; again, what is given in one manner [from
+above] is received in another manner by things below. For example, the emanation of
+Kronos is stabilizing and that of Ares is kinetic, but in material lives our passive and
+generatively geared receptacle receives the former as rigidity and coldness and the latter
+as inflammation beyond measure…. Thus, the weakness of material and earthly places,
+being unable to contain the purest life of aetherial beings, transfers its own passion to
+the first causes.107
+
+These pathological receptions of the gods are traces of the soul’s universal
+lo/goi filtered through the flux of matter, the distorted reflections of an
+embodied soul attempting to receive wholes using the receptive capacity of a
+part. Yet, Iamblichus says, this is where we must begin: in the ecstatic encounters of imagination we learn to accept and to honor the disturbing,
+dark, even terrifying daimonic images that form part of the soul’s itinerary
+to recover its wholeness. If properly endured, the agonizing image reveals its
+underlying principle and becomes part of the soul’s vessel to contain the
+god. Addressing the importance of including all powers in theurgic worship,
+Iamblichus says:
+107. DM 55,3–56,1.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+75
+
+He who celebrates all these powers and offers to each gifts that are pleasing and honors
+that are as similar to them as possible will always remain secure and infallible, since he
+has properly completed, perfect and whole, the receptacle of the divine choir (u9podoxh\n
+tou= qei/ou xorou=).108
+
+The soul’s encounters with enmattered lo/goi was necessary, for without
+them the soul would never recover the divine proportions hidden in our
+corporeal pathologies. This recovery was essential to the art of theurgy, and
+Iamblichus maintained that the Egyptians communicated these insights
+through images. The Egyptian symbol of the lotus, Iamblichus explains,
+portrays an immaterial god seated upon a circle of petals, yet below the
+water its roots lie in the mud (i0lu\j) which represents corporeal life and is
+also the foundation (puqme/n) of the plant.109 So it is with the soul. To recover its divinity the soul must first recognize and honor its corporeality, the
+mud of human experience, before it can become the receptacle of the god.
+In the theurgic itinerary it is not possible to skip over the darkness of embodiment. Our reception of the god depends upon it.
+IV. DREAMWORK AS THEURGY?
+I have examined two central elements of Iamblichus’ Neoplatonism to
+clarify the role of ecstasy in theurgy: (1) the soul’s embodiment, which requires its pathologies to be honored as ways (however distorted) through
+which the soul may recover its participation in the gods; and (2) the role of
+imagination: since the soul’s return to the gods is effected through ecstatic
+encounters in the imagination, Iamblichus makes a critical distinction between merely human fantasi/a and the fantasi/a inspired by the gods. I
+find it significant that both elements also play a central role among contemporary archetypal psychologists, and in conclusion I will briefly examine the
+development of these themes and evaluate the depth of their similarity to
+Iamblichean theurgy.
+To begin, Iamblichus’ distinction between human and divine imagination is remarkably similar to the distinction made by archetypal psychologists between the imagination and the imaginal. Iamblichus’ intention was
+to distinguish the images projected by the human soul from the divinely
+empowered fa/smata that descend from the gods; to confuse human with
+divine images would divert the soul from the deep eros that unites it with
+divine activity. The distinction made by archetypal psychologists is framed
+differently but answers to the same concern.
+Drawing largely from Carl Jung’s experiments in “active imagination,”
+James Hillman and other archetypal psychologists distinguish the fantasies
+108. DM 229,2–7.
+109. DM 250,17–251,5.
+
+76
+
+GREGORY SHAW
+
+of the ego from the autonomous imagery arising from the unconscious which
+they call “imaginal.” Based on his encounters with autonomous images, Jung
+described the technique of engaging these images “active imagination” to
+distinguish it from passive day-dreaming and to emphasize the autonomy
+and reality of the imagined figures. As Jung put it:
+Active imagination, as the term denotes, means that the images have a life of their own
+and that the symbolic events develop according to their own logic—that is, of course, if
+your conscious reason does not interfere.110
+
+Hillman claims Jung as archetypal psychology’s “first immediate father,”111
+yet the importance of “imaginal” as a critical term does not derive from Jung
+but from Henry Corbin whom Hillman claims as the “second immediate
+father” of his tradition.112 A friend and contemporary of Jung, Corbin’s publications elucidate the visionary practices of Muslim mystics such as
+Suhrawardi and Ibn Arabi who were deeply influenced by theurgical
+Platonists,113 and it is from Henry Corbin that archetypal psychologists derive the terms “imaginal” and “mundus imaginalis.”
+To explain the ecstasies of his Muslim visionaries, Corbin introduced the
+term “imaginal” to avoid confusing their visions with mere imaginative projections of the psyche and to assert the reality of a visionary world that is
+neither material nor intelligible but in-between, a “place” where the invisible
+is made visible in the form of empowered angelic images. Addressing the
+problem of terminology, Corbin says:
+Our language of today, even philosophical, is so unfit to describe this world of the
+Imagination as a perfectly real world that a satisfactory term is lacking here. We must
+avoid all confusion with simple “fantasy”; “imaginable” too particularly indicates possibility. We need some such adjective as imaginal to qualify everything related to this
+intermediate universe (dimensions, figures, landscapes, and so on). Then we would
+have Imaginalia (as original, not as mere “effigies” of sensory things), just as we have
+110. C.G. Jung, The Symbolic Life 171; cited by Dan Merkur, Gnosis: An Esoteric Tradition
+of Mystical Visions and Unions (Albany: State U of New York, 1993) 43. Compare Jung’s warning for the conscious reason not to interfere with Iamblichus’ remark that the soul must not
+take the initiative in divination (DM 115,3–15).
+111. James Hillman, Archetypal Psychology (Dallas: Spring Publications, 1983) 3.
+112. Ibid. 3.
+113. Suhrawardî’s philosophy of illumination (ishraq) was influenced by the Theology of
+Aristotle (actually sections of Plotinus) and the Liber de Causis (sections from Proclus’ Elements
+of Theology), and his spiritual discipline, while expressed in mythic imagery different from
+Iamblichean theurgy, requires the same discipline of discursive thinking combined with the
+purification of the soul. Suhrawardi’s theology of light might profitably be compared to
+Iamblichus’ taxonomy of divine fa/smata in DM II. For the influence of Neoplatonism on
+these Muslim mystics see Seyyed Hossein Nasr, Three Muslim Sages (Delmar, NY: Caravan
+Books, 1964) and Henry Corbin, Creative Imagination in the Sufism of Ibn Arabi, op. cit.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+77
+
+Divinalia. And imaginal is no more to be confused with imaginary than original with
+originary.114
+
+For Corbin’s Muslim visionaries and for Iamblichean theurgists the imaginal world is firmly rooted in the Intelligible, and the soul’s encounter
+with divine images effects a possession in which the soul enters the paradoxes of the One as it simultaneously reveals and veils itself in the imaginal
+realm. The influence of the ecstatic practices of Iamblichean theurgy is clearly
+evident in the visionaries studied by Corbin.115 As in Iamblichean theurgy,
+the soul rises to meet its divinity in ecstatic visions that begin in the sensible
+world. As Corbin put it, describing Persian Avicennism: “… each sensible
+thing or species is the ‘theurgy’ of its Angel … the sensible species does not
+divert from the Angel but leads to the ‘place’ of the encounter, on condition
+that the souls seeks the encounter.”116 This place in which sensible objects are
+transformed into theurgic symbols is the mundus imaginalis, where the soul’s
+desire to return to the divine is united with the theurgies that emanate from
+the One. In Iamblichean terms this unification allows the soul to enter the
+creative activity of the Demiurge. Corbin’s visionaries describe this unification in terms of meeting one’s angel, an event in which the soul experiences
+its ascent to the angel as the angel’s descent to the soul. Echoing, in soteriological
+terms, the paradoxes of Iamblichus’s psychology, Corbin writes: “This Angel
+is itself the ekstasis, the ‘displacement’ or departure from ourselves that is a
+‘change of state’ from our [habitual] state.”117 This “philosopher’s Angel,”
+says Corbin, sees us through our own ecstatically displaced eyes, a seeing in
+114. Henry Corbin, Spiritual Body and Celestial Earth, trans. by Nancy Pearson (Princeton:
+Princeton U Press, 1977) 294.
+115. There is a fascinating story to be told of the hermetic, gnostic, and neoplatonic influences on Muslim mystics through the school of Harran in northern Syria. For a description of
+this hermetic tradition as passed into Sufi brotherhoods see Peter Kingsley, Ancient Philosophy
+Mystery, and Magic: Empedocles and the Pythagorean Tradition (Oxford: Oxford U Press, 1995)
+esp. chapter 24: “From Empedocles to the Sufis: ‘The Pythagorean Leaven’” 371–91; see also
+John Walbridge, The Leaven of the Ancients: Suhrawardi and the Heritage of the Greeks (Albany:
+SUNY Press, 2000).
+116. Henry Corbin, Avicenna and the Visionary Recital (Dallas: Spring Publications, 1980)
+115–16. The practice of uniting with one’s angel in Avicennan doctrine requires the same
+restriction on our will and discursive thinking seen in Iamblichean theurgy. Corbin writes: “ the
+human intellect does not abstract Forms; it can only prepare itself, make itself fit, by perception
+of the sensible, for the Angel to illuminate the intelligible Form upon it.… No sooner is the
+Angel’s intervention replaced by abstraction by the intellect than direct, immediate contact
+with the ‘celestial’ world of the Angel is broken off ” (Ibid. 105).
+117. Henry Corbin, Swedenborg and Esoteric Islam, trans. by Leonard Fox (West Chester,
+PA: Swedenborg Foundation, 1995) 32. Of this encounter Corbin says: “The reciprocity that
+flowers in the mystery of this divine depth cannot be expressed save by a symbol.” (Corbin,
+Avicenna and the Visionary Recital [Dallas: Spring Publications, 1980] 203.)
+
+78
+
+GREGORY SHAW
+
+which the ineffability of the One and the “one in the soul” are transformed
+into an erotic bi-unity, a reciprocating desire and angelic encounter.118 These
+Sufi visionaries developed Iamblichean principles in distinct ways reflecting
+their specific cultural contexts, yet the necessity of the soul’s ecstasy from its
+habitual state remains constant, as does the paradox found at the heart of the
+soul and in the One itself.
+The Corbin scholar, Christian Jambet, insists that the place of these
+theurgic encounters, the mundus imaginalis, cannot be uprooted from its
+neoplatonic context without making it into a projection of the psyche and
+reducing the imaginal into mere imagination. This, Jambet maintains, is
+what Jungians have done by stripping the imaginal of its cosmogonic function of clothing intelligibles in sensible forms. Jambet argues that because
+Jungians lack a foundation in the metaphysics of the Muslim Neoplatonists,
+they have profoundly misunderstood Corbin and have misused his terms.
+He quotes Corbin’s warning that “if anyone uses the term [imaginal] to refer
+to anything other than the mundus imaginalis and the Imaginal Forms …
+there is great danger that the term will be debased and lose its meaning.”119
+“This is why,” Jambet continues, “every Jungian reading [of Corbin’s mundus
+imaginalis] misses the point.”120
+I believe that Jambet’s critique is valid: despite Hillman’s profound admiration for Corbin himself and Corbin’s support for Hillman’s work,121 archetypal psychologists remain largely ignorant of the subtleties of neoplatonic
+metaphysics and have removed the imaginal from its traditional context:
+“the apophatic theology of Neoplatonism.”122 Following Jambet’s critique,
+they run the risk not only of confusing the imaginal with the imaginary but
+of inflating personal imagination with the archetypal power and authority
+of the imaginal realm, an error that Paracelsus characterized as “the cornerstone of the insane.”123
+118. Christian Jambet, La logique des orientaux: Henry Corbin et la science des formes (Paris:
+Editions du Seuil, 1983) 140–41; cf. Henry Corbin, Creative Imagination in the Sufism of Ibn
+Arabi, trans. by Ralph Mannheim (Princeton: Princeton U Press, 1969) 333, fn. 432.
+119. Jambet, op. cit., 44.
+120. Ibid. 41. Jambet maintains (43) that the Jungian archetypal realm should not be confused with the Imaginal. In metaphysical terms, he explains that the Imaginal is not derived
+from a therapy of the soul (as it was for Jung): for Muslim visionaries the soul is the alter-ego of
+the World Soul which is the manifestation of the Imaginal, therefore, the Imaginal is not a
+product of the soul but the soul is the product of the Imaginal.
+121. For Hillman’s admiration of Corbin see Hillman, The Thought of the Heart (Dallas:
+Spring Publications, 1984) 1–2; for Corbin’s approbation of Hillman see David Miller, The
+New Polytheism; preface by Henry Corbin (Dallas: Spring Publications, 1981) 4.
+122. Jambet, op. cit., 41.
+123. For Paracelsus’ quotation see Henry Corbin, Swedenborg and Esoteric Islam 17.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+79
+
+What archetypal psychologists share with Iamblichus and Muslim visionaries is a belief in the autonomy of images, yet as Jambet rightly insists, these
+images remain subjective fantasies if they lack the noetic orientation that is
+the magnetic pole of traditional theurgy.124 Despite Jambet’s valid critique
+and despite Hillman’s misreading of theurgy as manipulative magic,125 I believe that his instincts in developing archetypal psychology may be in more
+profound accord with the principles of Iamblichean theurgy and Corbin’s
+visionaries than Jambet (or Hillman) realize. I will argue that when Hillman’s
+theories are seen against the background of Iamblichean theurgy and are
+complemented by practice, exemplified in the dreamwork of Robert Bosnak
+(a former student of Hillman), the imaginal realities of Henry Corbin are
+both engaged and contained in rites that resemble the ecstatic theurgies of
+Iamblichus.
+In his ground-breaking work, Re-Visioning Psychology,126 Hillman introduces the concept of the “heroic ego” to describe the kind of psychology
+against which he stands. The heroic orientation, as described by Hillman, is
+an egocentricism afraid of losing control in the deeper waters of the psyche,
+and this orientation, he argues, has become pervasive in our culture, even
+among his Jungian contemporaries. In this orientation, all mythic journeys
+and moments of transcendence are translated by our habitual heroic stance
+into credentials of transformation or, in Jungian terms, tokens of our
+“individuation.” Encounters that for Jung had been genuinely transformative
+were—in Hillman’s estimation—being abstracted from a context of psychic
+depth and appropriated as fantasies of the ego’s empowerment.
+Jung had written that because our culture no longer has religious rituals
+to contain the powers of the unconscious they are involuntarily encountered
+in our illnesses: “The gods,” he said, “have become our diseases.”127 For
+Hillman, therefore, it is not through heroic spirituality but through our
+pathologies that we are led back to an encounter with the gods. He writes:
+… it is mainly through the wound in human life that the Gods enter (rather than
+pronouncedly sacred or mystical events), because pathology is the most palpable manner of bearing witness to the power beyond ego control and the insufficiency of the ego
+perspective.128
+124. Charles Boer, without criticizing Hillman’s archetypal psychology, maintains that the
+central problem in many appropriations of Corbin’s work is that imagination is severed from
+intellect (the neoplatonic nous) and so creates fantastic, but absurd phenomena, i.e., imaginative but not imaginal. See “Confessions of an Altar Boy,” The Salt Journal 2.5 (July/August
+2000): 25–30.
+125. James Hillman, Healing Fiction (Dallas: Spring Publications, 1994) 79. Hillman follows Augustine’s and E.R. Dodds’ mistaken characterization of theurgy as manipulative magic.
+126. James Hillman, Re-Visioning Psychology (New York: Harper & Row, 1975).
+127. Cited by Hillman in Archetypal Psychology 37.
+128. Ibid. 39.
+
+80
+
+GREGORY SHAW
+
+Hillman rejects the “grand shamanic journey” and prefers the soul to be
+broken down, afflicted, and depressed: “the pathological image held solemnly is what moves the soul.”129 Hillman is so acutely on guard against
+heroic inflation that he views all forms of transformation with suspicion: “I
+prefer to speak of transformation only when I can point at its actually happening.”130 For those possessed with a heroic stance, Hillman suggests, transcendence is merely the spiritualized wrapping of self-deception:
+There may well be more psychopathology actually going on while transcending than
+while being immersed in pathologizing. For any attempt at self-realization without full
+recognition of the psychopathology that resides, as Hegel said, inherently in the soul is
+itself pathological, an exercise in self-deception.131
+
+This self-deception to which Hillman alerts us is the very much like the
+self-deception and hubris that Iamblichus perceived in “the Greeks.” Indeed, I believe that Hillman’s critique of the heroic ego is functionally equivalent to Iamblichus’ critique of the undescended soul, but Hillman offers no
+explicit practice such as theurgy that would address our incapacity to receive
+the gods. He acknowledges the inadequacy of discursive thinking for this
+and recognizes the dangers of releasing the unconscious. He says:
+To let the depths rise without our systems of protection is what psychiatry calls psychosis: the images and voices and energies invading the emptied cities of reason which have
+been depersonified and demythologized and so have no containers to receive the divine
+influxes.132
+
+Archetypal psychologists point to dreams as containers for these influxes,
+but Hillman is careful to distance himself from those who would translate
+dream images into theoretical models or reduce their meaning to objective
+(Freud) or subjective (Jung) causes. In The Dream and the Underworld,
+Hillman argues against all forms of theoretical reduction and says that we
+must follow the dream image down into the world of shadows, leaving our
+daytime thinking behind. He declares:
+… we must sever the link with the dayworld, foregoing all ideas that originate there—
+translation, reclamation, compensation. We must go over the bridge and let it fall behind us, and if it will not fall, then let it burn.133
+
+129. Hillman, Re-Visioning Psychology op. cit., 93.
+130. Hillman, “Further Notes on Image,” Spring (1978): 175.
+131. Hillman, Re-Visioning Pyschology op. cit., 70.
+132. Ibid. 224.
+133. Hillman, The Dream and the Underworld (New York: Harper & Row, 1979) 13.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+81
+
+Robert Bosnak, a Dutch psychologist now living in the United States,
+has followed this exhortation and developed a practice of working with dream
+images that bears a remarkable resemblance to the techniques of Iamblichean
+theurgy. Within the tradition of archetypal psychology, Bosnak’s dreamwork
+ensures that Hillman’s theoretical insights are deepened into imaginal experiences that resemble those described by Iamblichus. Bosnak’s Tracks in the
+Wilderness of Dreaming and his earlier work, A Little Course on Dreams, are
+not recognized in most scholarship on dreams.134 His texts have few footnotes, no indices, and he does not try to validate his claims against recognized positions in the academic study of sleep and dreams. His books simply
+report what he has experienced in dreamwork and how he has learned to
+work both with imaginal entities and with our resistances to these presences.
+If we were to place Bosnak in the world of late antiquity, he would resemble
+the magician more than the abstract philosopher, for he is immersed in a
+practical knowledge of the spirit world, and it is no more possible to understand Bosnak’s dreamwork without practice than it is to understand
+Iamblichus’ theurgy. In what follows, I will briefly outline several resemblances between the two practices.
+Bosnak’s dreamwork may be described as a collective form of Jungian
+active imagination. In Bosnak’s method, it is assumed that a group of participants can intensify and contain images that might otherwise overwhelm
+an individual and, more importantly, without the help of these participants
+it is unlikely that dreamers could overcome their unconscious resistances to
+the dream. The dream images often appear in forms drawn from the dreamer’s day life, but these images are assumed to hold imaginal depth, and their
+appearances, while having very real associations to natural life, are not
+literalized. As Iamblichus and Proclus said, formless and incorporeal beings
+are seen in corporeal forms in accord with our own nature.135 The otherness of
+the imaginal world must first appear to us wearing a familiar face, and in the
+careful reception of these images the unfamiliar presence is gradually intensified and contained. To the degree that the group is able to enter the atmosphere and activity of these images, they become saturated with their ambiance and begin to sense what the images want, to feel their voice and to
+follow their will. The group enters into a trance-like state defined by the
+parameters of the dream; they experience a kind of voluntary ekstasis and
+become possessed by the images, yet at the same time they remain tethered to
+ordinary reality, aware that they are sitting in a dimly lit office doing
+“dreamwork.” This dual orientation is not unlike the condition described by
+134. Robert Bosnak, Tracks in the Wilderness of Dreaming (New York: Delacorte Press, 1996);
+A Little Course in Dreams (Boston: Shambhala Publications, 1983; 1998).
+135. Iamblichus, DM 82,1–2; Proclus, In Rem Pub. II 39,28–40,4.
+
+82
+
+GREGORY SHAW
+
+Iamblichus when the fantasi/a is possessed by the gods but discursive
+awareness remains attentive. Iamblichus explains this duality in theurgy as
+follows:
+All of theurgy has a dual character. One is that it is a rite conducted by men which
+preserves our natural order in the universe; the other is that it is empowered by divine
+symbols (sunqh/mata), is raised up through them to be joined on high with the Gods,
+and is led harmoniously round to their order. This latter aspect can rightly be called
+taking the shape of the Gods.136
+
+Lest “taking the shape of the Gods” sounds too elevating and heroic, it is
+important to remember that the shapes the gods most often present reflect
+the pathologies of the soul in the material order: the corruptions, ruptures,
+collisions, and decay of generated life. It is one thing to write about this
+process, quite another to experience it, to feel involuntary spasms and contractions, breathless constriction, quivering, and the panic of losing one’s
+habitual awareness.137 Dreamwork, like Iamblichean theurgy, begins with
+the material realm and the pathological habits in which souls have become
+coagulated and fixed. To contain the pressure of these encounters requires
+great precision and care on the part of the participants. They must lead the
+dreamer slowly into the atmosphere of the image at a pace determined both
+by the image and by the dreamer’s resistance to the image. Bosnak provides
+an example.
+He refers to the dream of a middle-aged man to show that associations
+from the dayworld can be used to serve the nightworld. At the same time, he
+demonstrates how a pathological image, properly contained, allows the
+dreamer to reach the “god” who resides in the image. The dream: A middleaged man dreams that he is sitting by a refrigerator. He feels lonely and
+rejected. His wife has left. The refrigerator is empty.138 Through re-entering
+the dream and making a slow descent into this cold and lonely place, the
+dreamer is led into the icy atmosphere of the refrigerator. He remembers, by
+association, the coldness of his mother, the fears of being alone as a child and
+now again as an adult. Rather than draw the dream images out of the dark to
+focus on personal problems, Bosnak uses the emotions released by the associations to strengthen the vessel of the work and move into a deeper identification with the dream image, importing the emotions of daily life to serve
+the soul’s dreaming rather than exporting imagery out of the dream to serve
+the dreamer’s “self development.” Bosnak describes this deepening:
+136. DM 184,1–8.
+137. The author has had the opportunity to work with Robert Bosnak in this practice since
+1988.
+138. Bosnak, Tracks 41.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+83
+
+As we make this importing move, the feelings in the dream are magnified: he suddenly
+feels himself in a deep freeze. A spontaneous transit has taken place to the interior, frigid
+core of the freezer. The deep freeze pervades his entire body. He begins to feel a drugged
+glow of well-being.… He has been moved to the core of cold. The feeling of isolation
+has been essentialized into a concentrated emotional substance through distillation.… The
+dreamer knows the essence of coldness (my emphasis).139
+
+By penetrating to the essence of coldness, the dreamer begins to feel his
+loneliness turn into “an ability to be alone,” clinging less to the warmth of
+his wife, and in turn, the dream wife feels less constricted by the husband.
+The man’s dread of loneliness and coldness which had poisoned him has
+been intensified in the pressure-cooking of dreamwork into its own antidote, a process Bosnak compares to homeopathic distillation where the
+pharmakon as poison is transformed into medicine: the dreadful coldness of
+the refrigerator becomes, in its essence, a cure, allowing the dreamer to contain the “concentrated emotional substance” of cold.140 In theurgic terms,
+the dreamer, plagued by daimones of loneliness, isolation and cold,
+reconfigurates his awareness into a receptacle of the god of these congealing
+and isolating powers. By properly receiving the god, the dreamer is cured of
+its ill effects: loneliness, frigidity, and rejection.
+This god, Iamblichus would tell us, is Kronos, whose ancient power “stabilizes” the soul, but when improperly received he is experienced as “rigidity
+and coldness.”141 Ficino, similarly speaks of the power of Saturn (Kronos) to
+effect a frozen experience like death.142 The arts of theurgy and dreamwork
+both allow the soul to receive the god, to contain the “concentrated emotional substance” through a ritual in which the god reveals himself as “Refrigerator”: the su/nqhma of Kronos in his crystalizing power.
+Clearly, there can be no map or guide book for these excursions into
+imaginal reality. Abstract schemes, for example, that would equate refrigerators with Kronos cannot help the dreamworker. The next refrigerator, after
+all, might be full of cool, moist fruit, thus creating an atmosphere entirely
+foreign to Kronos the Deep Freezer. Similarly, the dreamworker cannot know
+how she will enter the dream, but must learn how to trust her not-knowing
+and be willing to follow the dreaming of imaginal beings, guided often only
+by the affects aroused by her resistance to those beings. Bosnak admits to
+experiencing “a not-knowing so profound that it makes me shiver. I passionately don’t know,” he says.143 Yet, like the theurgists who share in this not139. Ibid. 53–54.
+140. Ibid. 54.
+141. DM 55,4–11.
+142. Thomas Moore, The Planets Within: The Astrological Psychology of Marsilio Ficino (Great
+Barrington, MA: Lindisfarne Press, 1990) 170.
+143. Bosnak, Tracks 11.
+
+84
+
+GREGORY SHAW
+
+knowing, he enters the activity and atmosphere of dream images and learns
+how to swim in their currents. After a number of such excursions, the
+dreamworker begins to recognize changes in the texture and density of atmospheres in the imaginal realm, but this can only be learned in increments
+of experience, not by theoretical study. Similarly, Iamblichus says that knowledge of the gods in theurgy can only be learned by experience. He says:
+“Only theurgists know these things in a precise way since they have experienced these activities. Only they are able to know what is the perfection of
+the sacred operation.”144
+In Bosnak’s dreamwork the role of participants in helping to intensify
+and contain the images is crucial. Before the middle-aged man was able to
+enter the deep freeze, the participants in his dream had probably already
+entered the frozen atmosphere and had begun to feel its affects in their bodies, noting, through its location and intensity, resistances to the image but
+not-knowing if this was their own resistance, that of the dreamer, or both.
+This symbiotic capacity allows the dreamworker to use physical affects as
+guides to gently ask the dreamer how his body or parts of his body feel, using
+whatever sensate image the dreamworker feels most likely to intensify the
+affect in the dreamer’s body and deepen his experience of the image.145 By
+allowing themselves to carry the affect of the refrigerator, the dreamworkers
+help the dreamer do something he could not consciously will to do—experience an identification with the freezer.146 For someone who is terrified of
+“coldness,” this transit would be impossible without the support of other
+containers sharing the load, so to speak, so that he could experience the
+distillation of his fear and dread into the essence of coldness.147
+Those who equate Neoplatonism with the spiritual imagery found in
+Plotinus and later absorbed into forms of Christian piety, might find the
+comparison between theurgy and dreamwork inappropriate. Indeed, identifying with refrigerators may seem to have very little to do with neoplatonic
+theurgy, but such a judgment merely reflects our own literalness regarding
+the gods of Platonism. Despite the abundance of theophanies reported in
+the literature, the Neoplatonists knew that no one has ever seen the gods; if
+they are seen, even in visions or dreams, they are clothed in the imagination
+of the dreamer. Our cultural expressions, understanding, and terminology
+pertaining to the gods certainly have changed, but ecstatic encounters and
+possessions are present in both theurgy and contemporary dreamwork. What
+Iamblichus objected to was not the differences in cultural expressions of
+contacting the divine but the hubris of believing that our ability to concep144. DM 229,17–230,2.
+145. Bosnak, Tracks 21–26.
+146. Ibid. 31.
+147. Ibid. 59.
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+85
+
+tualize spiritual realities was equivalent to experiencing them. The same hubris exists among academics today who presume to have no need of practicing
+material theurgies in order to make judgments about the most elevated forms
+of immaterial theurgy or Plotinian contemplation.148 But unless we learn to
+endure the disorienting ecstasies from our habitual identity and to recognize
+the presence of a different center (or centers) of awareness, we simply lack
+the capacity (e0pithdeio/thj) to understand the Neoplatonism of either
+Iamblichus or Plotinus. The ecstasies of theurgic visions may have occurred
+in a profoundly different culture than Bosnak’s dreamwork, but the loss of
+our habitual orientation is required for both, and in both practices this ekstasis
+must be contained in order to be effective.
+In conclusion, I will compare the following elements of dreamwork with
+the techniques of theurgy described in the De Mysteriis.
+1. Just as theurgy was not an attempt to manipulate the gods, so dreamwork
+is not so much our work on dreams as it is a discipline that allows dreams to
+work on us.
+2. In each session of dreamwork, the group enters a trance-like state defined by the contours of the dream. Although the participants become “possessed” by the images, they remain tethered to their awareness that they are
+doing dreamwork.149
+3. Like the hypnagogic state in which theurgists received god-sent dreams
+and divine images in the fantasi/a, dreamwork requires an awareness that
+hovers between waking and sleeping.150
+4. The descent into dream reality provokes intense emotional reactions
+that would push us “outside” the dream unless a vessel is carefully built by
+the group within the texture of the dream images. Like the theurgic u9podoxh\,
+the strength of this vessel is determined by the capacity of the dreamer and
+of the group to contain the intensity of emotions released.151
+5. In dreamwork the gods appear in a variety of forms, veiling and revealing themselves through images of friends, relatives or inanimate objects.152
+Like theurgic sunqh/mata, these images allow us to contact the depths hidden in the soul.
+6. Perhaps the most important and most difficult principle of dreamwork
+is that dreamworkers do not know what the dream means nor what they will
+do with the dream until they are in it. As Iamblichus said of theurgy: “we
+148. Plotinus’ contemplative exercises or “thought experiments” were close to Iamblichean
+theurgy in both theory and practice. See G. Shaw, “Eros and Arithmos: Pythagorean Theurgy
+in Iamblichus and Plotinus,” Ancient Philosophy 19 (1999): 121–43.
+149. Bosnak, Tracks 34–35.
+150. Ibid. 35.
+151. Ibid. 149.
+152. Hillman, The Dream and the Underworld op. cit., 62.
+
+86
+
+GREGORY SHAW
+
+don’t perform these acts intellectually, for then their energy would be intellectual and depend on us.…”153 In the same way, dreamwork is led by the
+images and the subtle atmospheres in which they are received.
+7. Dreamwork is a discipline of the imagination and a way of consciously
+re-entering a world where images “do not depend on us” but act on us,
+affecting our mood and activity. The capacity to contain the pressures released in dreamwork is a function of the strength and elasticity of our body
+of imagination, what Iamblichus called the “luminous vehicle” (au0goeide\j
+o0/xhma).
+8. Just as theurgy required a preliminary worship of material gods who
+preside over the suffering of generated lives, so dreamwork involves an encounter with these pathologies and understands that each agony, each poison of the soul, is also a medicine, a god waiting to be properly received and
+contained in the work on dreams.154
+The crucial question is whether the ecstasies that draw participants outside their habitual awareness in dreamwork are similar to the ecstasies discussed by Iamblichus and, if so, whether they are—in Iamblichus’ terms—
+divine or delusional. Do these ecstasies form part of an itinerary to recover
+our noetic identity, as exemplified by Corbin’s visionaries, or are they exercises in self-deception, filling the soul with “foolishness and delusion,” or
+worse. Although Bosnak and Hillman lack a metaphysics to respond to such
+questions, I believe that their emphasis on containing divine influxes is of
+central importance.155 An ecstasy contained by the imaginative receptacle of
+the soul was the precondition for theurgists to recover their noetic identity.
+Yet this recovery must begin with the material gods who reveal themselves in
+the traumas and pathologies of embodied life. In Iamblichus’ era these
+pathologies were contained primarily through blood sacrifices and visionary
+encounters with daimones. Today, the same pathologies are revealed in our
+dreams and, as Jung noted, our illnesses, and may be encountered in active
+imagination. Hillman learned from Plotinus and Ficino the importance of
+having containers for these encounters, yet Hillman—wary of metaphysical
+systems156—left his sources largely unexplored and thus misunderstood.
+153. DM 97,2–9. Cf. Bosnak’s remarks about “not-knowing” in the work with dreams,
+Tracks op. cit., 11.
+154. See Bosnak’s discussion, “The Imagination as Healing Poison,” in A Little Course in
+Dreams op. cit., 113–18.
+155. Ibid. 113–18; Hillman, Re-Visioning Psychology op. cit., 224.
+156. Recently, Hillman has recognized the need to develop a metaphysics and admits that
+he shunned metaphysics as a ploy of the heroic ego. He discusses the importance of Corbin as
+a metaphysician and begins imagining a “psychological cosmology” following Bachelard’s commentaries on Plato’s Timaeus. See Hillman, “Back to Beyond: On Cosmology,” Archetypal Process: Self and Divine in Whitehead, Jung and Hillman, ed. by David Ray Griffen (Evanston, IL:
+
+CONTAINING ECSTASY: THE STRATEGIES OF IAMBLICHEAN THEURGY
+
+87
+
+Bosnak’s work with dreams now makes it clear that if the dreamwork of
+archetypal psychologists aims to be imaginal and not merely imaginative, if
+archetypal psychologists desire to practice more than the subjective and personal fantasizing condemned by Jambet, they must return to the roots of
+their imaginal practice. These roots, I suggest, lead directly back from Corbin
+and the Renaissance Neoplatonists to the ecstatic practices of Iamblichus.
+
+Northwestern U Press, 1989) 213–15. See also Hillman, “Cosmology for Soul: From Universe
+to Cosmos,” Sphinx 2 (1989): 17–33. Bosnak also credits Corbin as an important influence on
+his work (Tracks 48–49).
+
+

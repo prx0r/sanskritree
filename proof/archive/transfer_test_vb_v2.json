@@ -1,0 +1,145 @@
+[
+  {
+    "verse": 28,
+    "source": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "actions": [
+      "ATTEND_TO"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.741,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.35
+  },
+  {
+    "verse": 36,
+    "source": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "actions": [
+      "ENTER_INTERVAL"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.75,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.4
+  },
+  {
+    "verse": 47,
+    "source": "vibhāvayet tatas tasya bhāvanā sā sthirā bhavet",
+    "actions": [
+      "ATTEND_TO",
+      "VISUALIZE"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.741,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.35
+  },
+  {
+    "verse": 55,
+    "source": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "actions": [
+      "ATTEND_TO"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.741,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.35
+  },
+  {
+    "verse": 61,
+    "source": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "actions": [
+      "ENTER_INTERVAL"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.75,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.4
+  },
+  {
+    "verse": 71,
+    "source": "ānandam udgataṃ dhyātvā tallayas tanmanā bhavet",
+    "actions": [
+      "ATTEND_TO",
+      "DISSOLVE"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.736,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.325
+  },
+  {
+    "verse": 79,
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "actions": [],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.668,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": 0.0
+  },
+  {
+    "verse": 87,
+    "source": "taimiram bhāvayan rūpam bhairavaṃ rūpam eṣyati",
+    "actions": [
+      "ATTEND_TO",
+      "VISUALIZE",
+      "RECOGNIZE_IDENTITY"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.724,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.2667
+  },
+  {
+    "verse": 102,
+    "source": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "actions": [
+      "ATTEND_TO"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.741,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.35
+  },
+  {
+    "verse": 132,
+    "source": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "actions": [
+      "ATTEND_TO",
+      "VISUALIZE"
+    ],
+    "frame_selected": "Instruction",
+    "frame_beliefs": {
+      "Instruction": 0.741,
+      "DevotionalAct": 0.475,
+      "IdentityClaim": 0.426
+    },
+    "energy": -0.35
+  }
+]

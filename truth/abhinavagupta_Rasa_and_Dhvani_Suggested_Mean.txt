@@ -1,0 +1,1212 @@
+METHOD
+
+&THEORY in the
+STUDY OF
+RELIGION
+
+Method and heory in the Study of Religion 19 (2007) 134-162
+
+www.brill.nl/mtsr
+
+Metaphor, Rasa, and Dhvani:
+Suggested Meaning in Tantric Esotericism1
+Sthaneshwar Timalsina
+San Diego State University
+
+Abstract
+Indian aesthetics provides a framework for reading Tantric traditions. Tantras describe the public
+and private domains of ritual in language that grounds esoteric experience while referring to
+commonsense entities. heir language is highly metaphoric, and uses conceptual blend, indication, and indirect suggestion. he experience transformed through meditation and ritual practice
+in this depiction parallels aesthetic bliss, and the theme of this description is the recognition of
+the true nature of the self, considered as concealed in mundane experience. he central argument
+of this paper is that the application of the aesthetic theories of rasa and dhvani to a reading of
+Tantra allows a deeper insight into Tantric rituals, their mystical writings, and esoteric practices.
+By studying two select cases of the description of esoteric bliss and consciousness, this essay
+contextualizes two aspects of aesthetics, rasa and dhvani, as tools for deciphering esoteric Tantric
+literature.
+Keywords
+Tantra, metaphor, blend, rasa, dhvani, ānanda, cit, Abhinavagupta
+
+Introduction
+his essay examines two aspects of classical Indian literature: esoteric Tantric
+materials and classical Indian aesthetics. Tantras have developed their own
+ontology and epistemology in the presentation of private and public rituals.
+he ritual dimension of Tantra is wide. It not only embraces the subject matter
+of Hinduism, but also includes Buddhist or Jain traditions. hrough yogic
+practices and through dance, possession, and other forms of rituals, Tantra plays
+a direct role in common religious experience. he diversity of Tantric visualization, architecture, and its philosophy deﬁes commonsense interpretation.
+1
+I am very grateful to Professors Rebecca Moor and David Gordon White for valuable corrections and suggestions.
+
+© Koninklijke Brill NV, Leiden, 2007
+
+MTSR 19,1-2_134-162.indd 134
+
+DOI: 10.1163/157006807X224404
+
+8/24/07 1:52:52 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+135
+
+Classical Indian aesthetics emerge from the interpretation of dance and
+drama performed primarily in ritual settings. In addition to analysis of the
+metaphoric and literal dimensions of language, this aesthetic model relies on an
+understanding of psychological moods that are identiﬁed as rasa. Select Indian
+philosophers advanced this theory by propounding the doctrine of dhvani, by
+which the highest aesthetic bliss is experienced through suggestion.
+he central argument of this paper is that the application of these aesthetic
+theories allows a deeper insight into Tantric rituals, their mystical writings,
+and esoteric private and public practices. he scope of this essay, therefore, is
+the cognitive and psychological aspects of ritual behavior, with the objective of
+interpreting religious experience through the lens of aesthetics. In order to
+ground the argument, this paper explores the scope of religious experience
+theorized in Tantras, speciﬁcally in the Trika doctrine of Kashmir, and the
+cognitive models found in classical Indian philosophy of aesthetics and utilizes
+the latter as a tool to interpret the ﬁrst.
+
+he Problem of Interpretation
+Esoteric texts are notoriously cryptic. Unlike those describing phenomenal
+reality, these texts take for granted a subject matter rather unknown to the
+ordinary senses. If the scope of esoteric texts is nothing other than commonsense experience, it does not deserve a separate treatment. On the other hand,
+if it is suggested that these texts are describing something beyond the realm of
+mundane experience, this thesis has to confront multiple challenges, one being,
+is there really something to be described out of the range of ordinary experience? Even when metaphoric expression of something uncommon is considered possible, the description of mystical experience will be something similar
+to describing ‘sweet’ love to someone who is aware of only sweet mangos.
+he issue can be framed in the following question: Does language reproduce, remind, or grant recognition of something already known, or can language break the barrier of that what is already experienced and touch something
+new? If language were to not grant new knowledge, the very application of
+language to describe esoteric experience would bear no fruit, and the above
+question is moot. he Tantric Trika doctrine, the philosophy under discussion,
+negotiates the ground by adopting the doctrine of recognition (pratyabhijñā)
+where ‘reality’ is something already known. It is immediately cognized as the
+ground of cognition, hidden due to ignorance and revealed in self-reﬂective
+meditation by recognizing the essential nature of awareness. he problem,
+
+MTSR 19,1-2_134-162.indd 135
+
+8/24/07 1:52:53 PM
+
+136 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+then, is, how can this inner core of awareness be revealed? he application of
+metaphors and the aesthetic approach of suggestion (dhvani) allow negotiation between the realms of reality and appearance. Following this approach,
+that which is visible or the source, is capable of suggesting, if not referring to,
+the invisible. Although recognition may often be identiﬁed as a non-cognitive
+mode of awareness, the description of this ground reality utilizes multiple cognitive processes, fusing and blending diﬀerent metaphors and thoughts.
+Contemporary cognitive theories, particularly metaphor theory and conceptual blending, have opened the space that allows for interpretation of the
+creativity and ingenuity of human consciousness that elevates it above a simple
+functioning of neurons. Conceptual mapping, according to Fauconnier and
+Turner, includes aspects of integration, sculpting, compression, and inference.2
+Fauconnier and Turner also tell us that metaphors involve more than mapping
+or blending between two spaces. “hey involve many spaces, and they involve
+emergent structure in the network.”3 hese cognitive theories also bring into
+the paradigm that the structured distinction between the ‘subjective’ and the
+‘objective’ disintegrates when dealing with the cognitive process, and that consciousness itself is not disembodied as presented in the dualistic models.
+his paper does not intend to examine or elaborate upon the contemporary
+cognitive theories. Utilizing some tenets of these concepts as tools to excavate
+the classical Indian rasa and dhvani doctrines, this paper intends to examine
+the parameters of metaphor in Tantric literature, seeking the possibility of
+deconstructing these esoteric texts by applying the doctrine of suggestion
+(dhvani). Again, it is not possible to analyze the nature and scope of metaphors, rasa and dhvani in overall Tantric literature in one paper. herefore, the
+scope here is to examine some central concepts and the application of metaphors in light of the doctrine of dhvani. he above-described cognitive theories of metaphor and blending dismantle the polarity imagined between literal
+meaning and metaphorical language. Conceptual blending, along the same
+lines, appears to be a normal phenomenon. he central argument of this
+paper lies in application of the doctrine of suggestion for revealing psychological aspects of experiencing aesthetic bliss (rasa), and the cognitive process
+
+2
+See Ray Gibbs (ed.). For contemporary metaphor theory, see George Lakoﬀ (1990), and
+George Lakoﬀ & Mark Johnson (1980).
+3
+Gibbs (ed.) (2003: 5; pagination according to the web). his aphoristic statement allows us
+to later explain the concepts of megablend and the dracula network. See chapters 8 and 9 in
+Gilles Fauconnier & Mark Turner (2002).
+
+MTSR 19,1-2_134-162.indd 136
+
+8/24/07 1:52:53 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+137
+
+of recognition through the application of suggestion (dhvani). hese two
+aspects will be addressed by primarily examining the Tantric metaphors for
+describing bliss (ānanda) and awareness (cid).
+Tantric texts are enticing: hey intoxicate, drunk whichever way. he ﬂuids,
+the mouth of yoginī, the substance of the clan, the union and the churning, the
+throbbing sound, to name a few: all of these can give literal meaning, and
+along these lines, reading texts as metaphors by uncovering the layers of conceptual blends and deciphering what is suggested may not be necessary. Tantric tradition, however, does not support the linear construction of meaning,
+with diﬀerent Tantric sub-sects utilizing similar texts that generate diﬀerent
+understandings. Reading texts such as ‘Moonlight in the Sky of Consciousnes
+s’(Cidgaganacandrikā), ‘he Bouquet of Great Meaning’ (Mahārthamañjarī),
+or ‘he Waves of Beauty’(Saundaryalaharī) dismantle the boundary between
+the poetic and philosophical, and compel a reader to accept the metaphorical
+as an inseparable aspect of this esoteric literature.
+he argument here is not to establish that the unconscious and non-systematic ﬂow of metaphors and blends found in everyday life also pervades the
+classical Indian Tantric texts. he point is to demonstrate a conscious, intentional application of metaphors in the mystical writings of scholars/mystics
+such as Abhinavagupta who, on one hand, is one of the central ﬁgures of Tantric writings, and on the other hand, synthesized the Indian aesthetic doctrine
+of suggestion (dhvani). By establishing the theoretical link between classical
+aesthetic theory and esoteric Tantric literature, we will be able to access the
+overlapping domain between the doctrine of dhvani and the doctrine of selfrecognition (pratyabhijñā). he imprint of the doctrine of recognition is
+unmistakable in the dhvani-literature.4 he scope here, then, is to analyze the
+application of suggestion as a tool to open the otherwise ‘hidden’ meaning of
+Tantric texts as applied by the exegetes such as Abhinavagupta, and to demonstrate a conscious application of suggestion as a tool to ‘lock’ the meaning by
+the composers of these texts.
+It is traditionally claimed and easily noticeable that Tantric texts hide their
+real meaning with the overlay of apparent, alternative meanings. Metaphors,
+the application of rasa, and the meaning derived through suggestion (dhvani)
+open the path for the ﬂow of meaning in both directions, allowing an exegete
+to discover what is hidden by the mystical writer that has used these literary
+tools to encode their hidden meaning. In our context, recognition of the self
+
+4
+
+See, pratyabhijñāta . . . in Dhvanyāloka . . . ātmapratyabhijñāpanā, in Locana. (Pathak, 1987: 75)
+
+MTSR 19,1-2_134-162.indd 137
+
+8/24/07 1:52:53 PM
+
+138 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+(pratyabhijñā) is the prominent category to discover meaning: we are left alone
+in the forest of metaphors to discover our true identity. As in the case of experiencing the sweetness of love and that of a mango, it is suggested that we, the
+speaker and hearer, live in two diﬀerent realms. A mystic and an ordinary
+person are at odds: what is primary to ‘his’ experience is suggested for us, as
+that is not what our senses experience, or what we know our senses experience,
+and what we consider as suggested is primary to ‘his’ experience. Literal meaning cannot capture the sense when the hearer and speaker are negotiating a
+ground to share something unique to the speaker alone. Regarding the case of
+experiencing the sweetness of love and that of a mango, it is suggested that we,
+the speaker and hearer, live in two diﬀerent realms. A mystic and an ordinary
+person are at odds: what is primary to ‘his’ experience is suggested for us, as
+that is not what our senses experience, or what we know our senses experience,
+and what we consider as suggested is primary to ‘his’ experience. Literal meaning cannot capture the sense when the hearer and speaker are negotiating a
+ground to share something unique to the speaker alone.
+Reading mystical writings has revealed two distinct scholarly tendencies:
+one, the absolute is inexpressible in language and beyond concept, and so the
+appropriation of mystical experience in language is insuﬃcient, or even radically inappropriate. he second tendency, with a focus upon the metaphors
+that refer to bodily-felt emotions, allows some scholars to ﬁnd mystical experience bound within the body and so limit the horizon of metaphoric thinking.
+In this paradigm, transcendent and immanent are conceived of as two opposite binaries that never meet and never overlap. he contemporary concept
+that consciousness is ‘embodied’ has its own historical paradigm: it emerges
+from the Cartesian mind-body dualism. Classical Indian theory of suggestion
+(dhvani) and the doctrine of recognition (pratyabhijñā) arise in their own historical context. If the concept of viśvamayatā is interpreted as extrovertive,
+expanded consciousness that infuses the body and the mind with a mystic
+experiencing his self-experience enveloping the entire existence, and viśvottīrṇa
+as a transcendental experience, then self-recognition (pratyabhijñā) is something that blends both. In the same way, suggested meaning spans the dichotomy found between the literal and the metaphoric.
+Tantric Trika philosophy grounds itself on the very premise that the highest
+Bhairava experience or self-awareness is simultaneously resting (śānta) and rising (udita),5 combining the experience of the transcendent (viśvottīrṇa) and
+
+5
+
+MTSR 19,1-2_134-162.indd 138
+
+For reference, see Tantrāloka (TĀ) 5.36; 29.126.
+
+8/24/07 1:52:53 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+139
+
+immanent (viśvamaya).6 he negotiated meaning of the apparently paradoxical statement of ‘Bhairava experience’ can be found through the application of
+suggestion (dhvani). he doctrine of dhvani allows the claim that texts speak
+for more than what is apprehended in the ﬁrst reading. In essence, contradictions function as a hermeneutical tool directing the reader to discover something more. And, that which cannot be expressed in commonsense language
+can nonetheless be suggested. his is the assumption in which the doctrines of
+recognition (pratyabhijñā) and suggestion (dhvani) interplay.
+
+Aesthetic Framework
+Before utilizing the classical Indian aesthetic concepts of metaphor, rasa, and
+dhvani in interpreting the rather esoteric Tantric literature, it is important to
+introduce these concepts in brief. It is also relevant to examine how these doctrines successively blend the concepts as a process of churning older meanings
+in order to reveal the essential experience. However, it is not the scope of this
+essay to examine these aesthetic theories in detail.7
+Analogy or metaphoric expression maps diﬀerent domains. Analyzing metaphors allows us to explain ‘how’ diﬀerent concepts interact in a single expression. Suggestion (dhvani), on the other hand, allows us to unravel the deeper
+cognitive processes that provide the reasoning that underlies metaphoric
+thinking. he suggestibility of language unleashes it from the boundary of
+reproducing already cognized instances and opens anew horizon for language
+to interplay with metaphors, metonyms, and conceptual blends. An example
+found in classical Indian literature to describe upamā or analogy is that of
+candramukhī (moon-faced) which refers to a beautiful maiden. In this analogy,
+there are two domains, the moon and the face. he generic space that provides
+an interface between moon and face is the soothing beauty (kamanīyatva) that
+is felt in seeing moon or face. Within the framework of conceptual mapping,
+there is a blended space, the ‘moon-face’. his is not the end of meaning, if this
+expression of ‘moon-face’ is to be interpreted through suggestion. he moon
+is too far away to be embraced and kissed. It is after all merely an icy rock. Two
+diﬀerent domains discovered through the literal horizon are not suﬃcient to
+
+6
+For treatment of the concepts of the transcendent (viśvottīrṇa) and the immanent
+(viśvamaya), see TĀ, Chapter 11.
+7
+For discussion of classical Indian aesthetic theories, see P. V. Kane (1994); K. C. Panedy
+(1963); G. T. Deshpande (1992); J. L. Masson and M. V. Patwardhan (1969).
+
+MTSR 19,1-2_134-162.indd 139
+
+8/24/07 1:52:53 PM
+
+140 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+establish this additional meaning. Suggestion or dhvani, along the line of this
+example, taps into the hidden spheres of meaning. his process of unraveling
+layered meaning allows the surge of aesthetic bliss experienced in successive
+levels of aesthetic experience.
+Before entering into the theoretical domain of rasa and dhvani, one more
+aspect to consider is the application of multiple metaphors. In examples such
+as ‘the master (guru) opens the eyes of one blinded by ignorance with the
+medicine of wisdom’,8 the eyes, blindness, and medicine are metaphorically
+referring to the eye of wisdom, ignorance, and knowledge. hese all share
+generic space: just like ignorance and the dark have the same eﬀect of not
+allowing one to properly see, the eye and wisdom allow the truth to be apprehended, and medicine and wisdom both have a healing eﬀect in allowing one
+to see the reality. A single expression using multiple metaphors with multiple
+domains can map diﬀerent aspects of one entity, or demonstrate the interface
+between multiple domains. Limiting literary meaning to metaphors, however,
+cannot unravel the suggested meaning that is realized in the very awareness of
+multiple, possible meanings. Texts overﬂow with meaning and a reader is
+always challenged to uncover the deeper meaning. Like the classical example
+of a pearl hunter, diving deep into the text allows one to collect precious meaning. his openness to the possibility of greater meaning allows the reader to
+discover his own true nature, awareness itself.
+In the above examples, each of the metaphors is mapping its own entity. In
+other instances, multiple metaphors may describe the diﬀerent generic spaces
+of a single entity. his phenomenon can be widely found: guru is not ‘heavy’,
+aesthetic ‘rasa’ is not juice, suggestion (dhvani) is not ‘sound,’ neither is tantra
+‘spinning’. his is to say that suggested meaning can be found even at the level
+of the words themselves: what is considered as literal actually gives some other
+suggested meaning that can itself be an exalted meaning.
+Let us examine another example: ‘If there were anything devoid of you, that
+would be non-substantial.’9 he non-existent entity (x) is counterfactual in this
+conceptual blend, and therefore constitutes a new paradigm.10 he objective of
+the statement is not to describe the hypothetical non-substantial entity where
+there is no presence of the divine, but rather to aﬃrm the all-pervasiveness of
+the divine through exclusive terms, creating a hypothetical domain of two
+8
+Ajñānatimirāndhasya jñānāñjanaśalakayā / caksur unmīlitaṃ yena tasmai śrī gurave namaḥ //
+Rudrayāmalatantra, Uttarakhanda, chapter 2.23.
+9
+Nissāram eva nikhilaṃ tvad ṛte yadi syāt / Rudrayāmalatantra, Uttarakhaṇdạ , chapter 2.23.
+10
+See Fauconnier & Turner (2002: 226-229).
+
+MTSR 19,1-2_134-162.indd 140
+
+8/24/07 1:52:54 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+141
+
+non-existents. Metaphor, in these examples, describes something unique to
+the domain that is being mapped.
+It has been established that mystical language is merely a part of daily language that utilizes complex metaphors. he goal of language is not merely to
+reproduce similar thought-patterns. Language can also produce a new experience. More relevant to our discussion is that language can stimulate feelings
+that produce sensation. his stimulation of inner emotion, however, is not a
+precondition for linguistic comprehension. A sentence, ‘Your wife died,’ has
+the potential to generate grief in the intended listener. he feeling of grief,
+however, is not a precondition of syntactic understanding. his experiential
+domain of awareness can be mapped through rasa, the aesthetic theory.
+Rasa can mean many things: sap, juice, liquid, ﬂuid, water, liquor, drink,
+potion, taste, ﬂavor, relish, an object of taste, love, pleasure, beauty, sentiment,
+and so on. When used in the aesthetic sense, this term is less related to its literal meaning than to what it suggests: ultimately, an aesthetic bliss. In both
+juice or liquor and aesthetic sentiment, there is enjoyment, a relishing factor,
+which is the generic space that allows the conceptual blend and the metaphoric understanding of rasa as aesthetic mood. he polyvalence of the term
+rasa allows exegetes to compare aesthetic rasa with the absolute experience.11
+A later classical aesthete, Jagannātha, deﬁnes rasa as cidāvaraṇabhaṃ ga,12 or
+the removal of (bhaṃ ga) the cover to consciousness. In his opinion, neither is
+the true nature of consciousness revealed, nor is the blissful state always experienced in ordinary experience. he experience of aesthetic bliss (rasa), on the
+other hand, breaks this barrier, allowing the individual to be in his true nature,
+the essential self, identiﬁed as awareness-in-itself.
+Before entering into the possibility of an application of rasa in reading
+Tantra, it is contextual to demonstrate the parallel between the aesthetics of
+rasa and the doctrine of Tantric philosophy. Rasa utilizes bodily-felt moods,
+systematizes aesthetic bliss experienced through a particular rasa experience,
+and grounds aesthetic bliss in commonsense experience. Tantra, on the other
+hand, although utilizing the same bodily-felt moods, nonetheless grounds the
+esoteric experience. his seeming incongruity diminishes when we understand esoteric experience as not out of the domain of the body. he alternative
+11
+Mahārthamañjarī Parimala, in verse 58. Mahesvarānanda interprets the term rasa as the
+very Absolute, following the upanisadic passage, raso vai sa. In his opinion, the rasas included
+above such as erotic, comic, tragic, cruel, are considered as rasa only in the upacāra or accessory
+sense.
+12
+Sanskrit transliteration note: velar nasal has been rendered as ṃ throughout.
+
+MTSR 19,1-2_134-162.indd 141
+
+8/24/07 1:52:54 PM
+
+142 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+solution to this conundrum is that the rasa-experience is uncommon and
+transcendent (lokottara). Either of these alternatives can be a response to the
+question surfaced above, although both options, that esoteric experience is
+corporeal and aesthetic experience is transcendental, cannot be simultaneously applied for the same purpose. his is only to say that rasa theory can rise
+above its overtly physical connection, and the mystical literature can shed its
+transcendental grandeur.
+he rasa-experience and esoteric bliss have something in common: its generation is not bound by causal conditions. hese experiences depend upon
+subjects. A play, a prayer, a song, or an eﬀort of meditation: these have the
+potency to elevate one from normal consciousness to an aesthetic or mystical
+realm. But just as an aesthetic experience relies on a tender heart (sahṛdaya), so
+does the esoteric experience. Language can only ‘suggest’ bliss,1315 whether it
+is of an aesthetic or an esoteric nature. he non-dual experience of awarenessonly (cinmātra), as propounded in the Trika texts, is not a precondition of
+syntactic comprehension.
+he famous deﬁnition of experiencing rasa runs as:
+Vibhāvānubhāvavyabhicārīsamyogād raṣanispattiḥ /14
+Rasa is derived by the union of [the speciﬁc moods identiﬁed as] determinants
+(vibhāva), consequents (anubhāva), and transient moods (vyabhicārin)[bhāva].
+
+We learn from this aphorism that rasa experience is already a fusion of multiple moods. In the rasa experience, determinants, consequents, and transient
+moods become one, giving rise to a single aesthetic bliss. hrough the perspective of rasa-experience, this is an ah-hah!-moment, a non-dual experience
+where the mode of subjective awareness of the form of enjoyer and the mode
+of awareness of the form of an object (prameya caitanya) that is being enjoyed
+in the rasa experience break their barrier and become one in the aesthetic
+bliss-experience. his non-dual experience, however, is not identical to the
+concept of embodiment that arises in dismantling the dichotomy of the mind
+and the body. his is the non-duality of the awareness of object and the awareness of subject. he connection of this aesthetic experience with the esoteric
+
+13
+See Sāhityadarpaṇa 5.270, and the commentary thereon. he psychological aspect of ‘suggestion’ is examined by Lalita Pandit in her “Dhvani and the ‘Full Word’: Suggestion and
+Signiﬁcation from Abhinavagupta to Jacques Lacan.”
+14
+Nātỵ aśāstra, chapter 6.32.
+
+MTSR 19,1-2_134-162.indd 142
+
+8/24/07 1:52:54 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+143
+
+experience of self-recognition will become clearer when we discuss abhivyakti,
+or the doctrine of the revelation of rasa.
+Classical Indian aesthetes identify eight or nine primary rasas.15 here are
+eight permanent moods (bhāva) that give rise to eight rasas.16 Of these determinant moods, two aspects, the objective (ālambana), and the stimulative
+(uddīpana), are associate moods. In experiencing love, two lovers are the objective determinants, and space, time, and condition all function as stimulative
+determinants. Scholars discussing rasa have counted 33 transient moods and
+eight physical symptoms; these are identiﬁed as sāttvika bhāvas. Rasa is experienced in the proper fusion of all of these constituents.17
+his classical rasa theory comes from the traditional Indian theatre and
+drama. he proponent of rasa, Bharata, composed his text Nāt ̣yaśāstra (scripture of dance) where nāt ̣ya primarily refers to aesthetic experience in the context of drama. Linking the theatrical with the spiritual implies a real connection
+between these two spheres, and highlights their diﬀerences. he theatrical
+experience is staged, while the esoteric experience of the divine or of the self is
+considered to be a direct encounter with the reality itself. Furthermore, rasa
+experience appears to be a blend of multiple moods, whereas the experience of
+the self is supposed to be fundamental, the bedrock of all other experiences.
+hese critiques, however, do not appear to shake the ground of the Tantric
+understanding of esoteric experience. Let us contemplate a few aphorisms
+from the Śiva Sūtras:
+“he self is the dancer”18
+“he inner self is the stage”19
+
+15
+See he Number of Rasa-s, by V. Raghavan (194). Madras: he Adyar Library and Research
+Center. he standard eight rasas are: erotic (śṛṃ gāra), the comic (hāsya), the tragic (karuṇa), the
+furious or cruel (raudra), the heroic (vīra), the fearful or timorous (bhayānaka), the loathsome
+(vībhatsa), and the wondrous (adbhuta). Bharata, the ﬁrst Indian aesthete, explains that among
+these rasas, four (śṛṃ gāra, raudra, vīra, and vībhatsa) are considered to be the causal rasas and the
+other four are considered to arise successively from each of the previous four rasas. Ānandavardhana
+and particularly Abhinavagupta tend to accept a ninth, peaceful or śānta. Later dualistic and
+Bhakti traditions tend to accept religious devotion or bhakti as a separate rasa.
+16
+he eight rasas have eight permanent bhāvas or moods. he vibhāvas and anubhāvas are instrumental to the experience of the permanent moods (which are identical to the associated rasa).
+17
+he Dhvanyāloka of Anandavardhana with the Locana of Abhinavagupta by Ingalls, Masson,
+and Patwardhan, Dhvanisiddhānta tathā tulanīyasāhityacintana (in Hindi); Indian Literary Criticism G. N. Devy (ed.) are few examples in this ﬁeld.
+18
+nartaka ātmā Śivasūtra (SS) 3.9.
+19
+raṃ go ’ntarātmā SS 3.10.
+
+MTSR 19,1-2_134-162.indd 143
+
+8/24/07 1:52:54 PM
+
+144 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+“he senses are the spectators”20
+“Accomplishment in inborn disposition is through the control of intelligence”21
+
+he overlap between the two spheres continues: he Lord that Tantric practitioners worship is the Lord of dance (Natẹ śa, Nat ̣arāja). In Tantra, the eight
+rasas are associated with eight speciﬁc Deities.22 he Pāupatas (one of the
+sectarian groups) carry out all life as a kind of drama: ‘act’ insane, the pretend
+to be a seducer, or behave stubbornly. Śaivites imitate the form of lord Śiva by
+wearing earrings, smearing ashes on their bodies or by carrying tridents. he
+very prayer to Lord Bhairava presents itself as ‘Imitating Bhairava’.23 Bondage
+and liberation, following these ascetics, are self-suggestions alone: in reality,
+there is neither bondage nor liberation. In all of these contexts, religious practices are dramatic or theatrical behaviors.
+he Tantric use of meditation, or the use of liquor and sex, demonstrates
+that, instead of Tantra being only an intellectual property, aspects of Tantra
+pursue methods of altering states of consciousness. he meditation practices
+range from a focus on deities that demonstrate śṛṃ gāra, an aesthetic mood of
+‘beauty’, to attention on the fearsome Bhairava or Cāmuṇdā, deities that generate fear and disgust. Tantric rituals have aspects of generating the heroic
+mood (vīrabhāva) as well as other emotions, suggesting the validity of applying rasa to interpret Tantric experience.
+he presence of rasa in religious experience becomes pronounced when
+analyzing the later classical Bhakti tradition. his devotional theism, while
+accepting other rasas, propounds devotional love (bhakti) as an additional
+rasa. Actually, the divine love becomes the predominant aesthetic mood in
+this theology. he other rasas are auxiliaries, applicable if they are functioning
+as an instrument for the emergence of divine love, and negligible, if obstructing this experience. here may be some naturally devoted people; nonetheless,
+Bhakti tradition does not reject fostering devotional love. Actually, the whole
+purpose of listening to divine names and acts, singing songs of love, going on
+pilgrimage, or dancing and drumming are in order to stimulate the mood of
+devotion.
+prekṣakāṇīndriyāṇi SS 3.11.
+dhīvaśāt sattvasiddhiḥ SS 3.12.
+22
+Eight deities Viṣṇu, Pramatha, Yama, Rudra, Mahendra, Kāla, Mahākāla, and Brahman are
+associated with these eight rasas in sequence. he Nāt ̣yaśāstra also correlates colors with speciﬁc
+rasa: smoky (śyāma), white, brown (kapota), red, gaura, black, blue, and yellow colors are associated with eight rasas. Nātỵ aśāstra 6.42-45.
+23
+I am referring to the Bhairavānukaraṇastava of Kṣemarāja.
+20
+
+21
+
+MTSR 19,1-2_134-162.indd 144
+
+8/24/07 1:52:54 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+145
+
+he most serious criticism is, whether this esoteric experience, identiﬁed as
+self-recognition, is produced. Certainly, the theatrical experience is artiﬁcially
+produced by a skilled performer. Tantrics tend to believe that even a dramaturgical experience can reproduce real experience. As mentioned above, selfawareness is limited due to the conviction of the self as bound. Liberation or
+the recognition of completeness arises with the conviction of completeness.
+Furthermore, the esoteric experience of the Lordship of the self (pratyabhijñā)
+is not something newly generated. his is considered as the bedrock of all
+other experiences. Following this position, although the self-awareness in its
+real sense is not produced, a similar experience can be produced, and the dramaturgical (if this identiﬁcation appeals) experience allows the experiencer to
+realize what the reality is like.
+One of the most striking elements in this discussion is the generation of a
+speciﬁc bhāva or mood in the course of Tantric practice. A Bhairava practitioner imitates the moods that lead to āveśa, or possession by the deity, wherein
+the practitioner recognizes himself as Bhairava.24 One meditating upon a
+beautiful deity will experience a diﬀerent mood corresponding to the central
+mood that the deity depicts. A Tantric dictum urges that “one should worship
+a deity by becoming the deity.”25 Apparently, diﬀerent moods are induced during the course of practice with an intention to experience the deity that the
+speciﬁc mood is representing.26 he artiﬁcially-generated mood is supposed to
+transform into the real experience, and this time, to the divine experience.
+What is metaphoric becomes literal in its culmination. he mood that is
+bodily felt, in its suggested level of consciousness, is the deity, or the true
+nature of the self.
+However, this is only a part of what Tantra has to oﬀer. Tantric experience
+dismantles the boundary between this-worldly and that-worldly, between the
+spiritual and the corporeal. For the bound individual, there is just this world,
+for those who are liberated, there is reality shining in all instances of cognition:
+the dichotomy of aesthetic bliss and spiritual bliss, or the aesthetic awareness
+and self-awareness is for those unwilling to shatter mental constructions and
+recognize the magnitude of reality. hrough the aesthetic perspective, rasa
+
+Paul Muller-Ortega (2002: 213-230).
+devo bhūtvā yajed devaṃ . nādevo devaṃ arcayet /
+26
+For the practice of diﬀerent bhāvas, see Puraścaryārṇava, vol. 3: 248-290. his topic is
+widely addressed in other Tantras such as Cīnācāratantra, Gandharvatantra, Nīlācāratantra, and
+Śaktisaṃ gamatantra. All of these Tantras appear to be of later medieval times.
+24
+25
+
+MTSR 19,1-2_134-162.indd 145
+
+8/24/07 1:52:55 PM
+
+146 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+refers to two states, one the absolute experience of reality, and two, the aesthetic experience of diﬀerent moods. he second type of experience is explained
+as the grandeur of self-awareness. Aesthetic and mystical, in this sense, do not
+pose a distinction but rather function as diﬀerent dimensions.
+he Tantric proposition that self-awareness is at the core of all experience
+ﬁts with the concept of the abhivyakti or revelation of rasa.27 his revelation
+(abhivyakti) corresponds to the Trika Śaiva doctrine and is the point of agreement for both Tantric and aesthetic literature in Kashmir. Following the concept of abhivyakti, ‘rasa’ is dormant within individuals and is easily experienced
+by those whose heart is tender (sahṛdaya). Śaiva doctrine and is the point of
+agreement for both Tantric and aesthetic literature in Kashmir. Following the
+concept of abhivyakti, ‘rasa’ is dormant within individuals and is easily experienced by those whose heart is tender (sahṛdaya).28 What is unique to the
+aesthetic theory of revelation is that it accepts rasa as dormant and revealed
+when the causal conditions are met. he causal conditions are complex, as rasa
+arises with the blend of multiple moods. However, rasa is the essential foundation of all sensation. It is not created by any one speciﬁc act or accessory, but
+only revealed through the completeness of the theatrical production. his concept of rasa ﬁts with the doctrine of self-recognition in the sense that the self,
+following the pratyabhijñā doctrine, is revealed in its real magnitude, although
+there is always an experience of the self in its limited and bound form. he
+description of the rasa experience as a fusion of multiple moods reveals that all
+the psychological states are not the rasa experience. In the complex causal
+condition of the fusion of diﬀerent moods, the veil that hides the essential
+nature of awareness is removed, and the ‘real’ self is directly felt in the domain
+where the two modes of subjective and objective awareness are united in one
+camatkāra, or the ah hah!-moment.
+
+27
+here are four standard theories concerning the experience of rasa: 1. Utpattivāda: In Lollata’s theory of the origination or ‘arousal’ of rasa, rasa is identical with the permanent mood and
+vibhāva causes its origination. his rasa is experienced by anubhāva, and is sustained by vyabhicārin
+mood. he identiﬁcation of niṣpatti, as found in the original deﬁnition of the experience of rasa
+given by Bharata, with utpatti or origination, is not acceptable to many other critics. 2.
+Anumitivāda: According to this doctrine of Śaṃ kuka, rasa is not directly known, but rather it is
+experienced through inference by the person who experiences it. 3. Bhuktivāda: According to
+this doctrine attributed to Bhatṭ ạ Nāyaka, rasa is ‘consumed’ (bhukti). Rasa is considered as a
+permanent mood because it is originated (bhāvita) by literature. 4. Abhivyaktivāda: he doctrine
+that rasa is ‘revealed’ (abhivyakta) was adopted by those propounding Dhvani, including
+Ānandavardhana and Abhinavagupta.
+28
+For the Tantric understanding of the heart, see Paul Muller-Ortega (1989).
+
+MTSR 19,1-2_134-162.indd 146
+
+8/24/07 1:52:55 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+147
+
+Following the abhivyakti doctrine of rasa: the experience of rasa results in
+the generalization of diﬀerent moods.29 In the state of aesthetic bliss engendered through the rise of rasa, diﬀerent determinant and subsidiary moods are
+generalized, merging the subjective and objective horizons of experience.
+Except for the experience of rasa, there lies nothing else in this state. his aesthetic bliss envelops both the enjoyer and what is enjoyed. From the perspective of the external elements found in the rise of the rasa experience, this can be
+interpreted in terms of fusion or blend, as this is the state where all individualities are found in their generic form. On the experiential level, however, the
+rasa experience transcends these cognitive and psychological states. Although
+the constituents and the conditions of rasa experience are complex, the aesthetic bliss in itself revealed through these means is basic and all-embracing.
+he abhivyakti concept considers the experience of rasa as lokottara or transcendental. his term lokottara needs to be understood on its own terms. he
+aesthetic experience of rasa is somehow diﬀerent from common experiences:
+rasa exists within the parameter of the moods identiﬁed as vibhāva and so on,
+and rasa is revealed collectively by all these domains. he moment of this aesthetic experience is distinct also in a sense that, in the actual moment of this
+experience, there is as if the aesthetic bliss is ﬂowing around in all directions,
+as if entering into heart, as if embracing the whole body, and as if subsuming
+all other experiences than that of rasa itself.
+his model of transcendence also aligns with the Tantric doctrine of Pratyabhijna. he experience of the self diﬀers from other common-sense experiences, which are described in similar terms: entering into the heart, embracing
+the entire body, subsuming all the rest in the natural ﬂow of unsurpassable
+bliss. he bodily connection in the language of both the interpretation of rasa
+and also the interpretation of the self-experience is quite striking. he metaphors of embracing, subduing, entering or penetrating are commonly found
+in both the literature on aesthetics explaining the Abhivyakti of rasa and in the
+Tantric Kula and Trika writings. his model of transcendentalism is supported
+by this Abhivyakti doctrine.
+his type of transcendentalism emerges against the backdrop of the aesthetic theory that accepts the actual causality (kārakatva) of the instruments
+of aesthetic experience in generating rasa. here are two ways this kāraka or
+causality is interpreted: as cause and eﬀect, and as identiﬁer (jñāpaka).
+
+29
+his sādhāraṇikaraṇa, or generalization, is of the primary bhāvas, vibhāva, anubhāva, and
+vyabhicārin.
+
+MTSR 19,1-2_134-162.indd 147
+
+8/24/07 1:52:55 PM
+
+148 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+Instruments such as stick or clay are ‘causes’ for making a pot and in the case
+of ‘knowing’ ﬁre, smoke can be the identiﬁer. In the case of the rasa experience, the causality of both of these instruments is not acceptable to those
+following the concept of abhivyakti. he rasa state is innate and so is not
+generated, and neither is it inferred by the identifying elements, in this case,
+the moods such as vibhāva.
+he relevant question then is, how does this form of transcendentalism
+diﬀer from any other form of transcendentalism? We argue, this application of
+lokottara in the aesthetic sense and viśvottīrṇa in the Tantric sense, both translated as ‘transcendent’, does not negate the existence of the world or of corporeality, as the world is where this reality is found and the body is where the
+aesthetic or the esoteric bliss is felt. his application only identiﬁes the uniqueness of this experience, having nothing parallel to the aesthetic moment of
+bliss or the state of recognizing one’s self-nature.
+his transcendentalism rejects the early objection that the fundamental
+experience is a fusion in itself. his fusion is a precondition for a conscious
+manifestation of that particular moment. Or, when the causal conditions are
+met, the aesthetic bliss or the esoteric state of self-awareness is self-revealed. By
+adopting this stream of argument, although reality is not identiﬁed as the literal reference of language, the suggestibility of ordinary language to express
+something beyond its common reference has been established.
+
+he Scope of Suggestion (dhvani)
+he very assumption of the concept of suggestion (dhvani) is that there is
+something more than literal meaning to be found in language.30 his can be
+compared with the beauty that cannot be reduced to the bodily parts of a
+beautiful maiden.31 his metaphor describes two aspects of suggestion, 1) its
+holistic nature, and 2) its ability to provide new understanding without diminishing anything of the source. In other words, the experience of ‘beauty’ cannot be reduced to physiological knowledge. When something is seen as
+‘beautiful’, this experience does not rise at the cost of the knowledge of the
+object itself.
+
+30
+dhvanir nāma arthāntaram | See Kāvyaprakāśa 3.2. For an introduction to dhvani, see V. K.
+Chari.
+31
+his example is borrowed from Dhvanyāloka 1.4.
+
+MTSR 19,1-2_134-162.indd 148
+
+8/24/07 1:52:55 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+149
+
+In contrast, in the case of indication (lakṣaṇā), the direct meaning comes
+into crisis and so a secondary meaning is naturally expected. If someone says,
+‘his boy is a real lion,’ the hearer is not expecting a ﬁerce, four-footed beast.
+he hearer immediately brings to mind the generic qualities such as strength
+and courage that can describe both the lion and the boy. On the contrary, in
+understanding the suggested meaning, ‘literal’ is subordinated, as the ‘literal’,
+in this case, does not directly align with the facts.3235 Indication is considered
+to be located in the “intermediate sense” (sāntarārthaniṣtḥ a). he scope of suggestion is not the same. According to Abhinavagupta, the regulative principles
+of the suggestive function are: a further meaning, relationship to the secondary meaning, and the inadequacy of the conventional meaning.33
+here are two major distinctions within the category of suggestion: 1)
+avivakṣitavācya, and 2). vivakṣitānyaparavācya. he ﬁrst, where the actual
+meaning is not what is spoken by language (avivakṣitavācya), is identiﬁed as
+lakṣaṇāmulā dhvani or suggestion grounded on indication (lakṣaṇā). his subcategory of suggestion based on indication can be further explained as having
+two distinct applications: when what is referred to transfers into another
+meaning (arthāntarasaṃ kramitavācya), or what is referred to is completely
+subordinated (atyantatiraskṛtavācya). Because each of these two can describe a
+word or a sentence, the suggestion based on indication is generally analyzed in
+four categories.
+he second major distinction within the category of suggestion, referring to
+that which is directly said while additionally addressing something else
+(vivakṣitānyaparavācyā dhvani), is identiﬁed as the suggestion that relies on
+literal meaning (abhidhāmūlā). his is primarily categorized into two: the suggestion where the meaning is cognized in sequence (lakṣakramavyaṃ gya),
+and the suggestion where the meaning is cognized without any sequence
+(asaṃ lakṣakrama-vyaṃ gya).
+he central argument of this article is the application of ‘suggestion’ in
+order to unlock esoteric Tantric texts. In deconstructing textual meaning, it is
+not inextricably essential to establish that the text being explained relies on the
+philosophy that has been applied as a tool for deconstruction: we can apply
+Freud or Foucault to read medieval court poetry. he case here is not to make
+an alternative approach supporting an agnostic or transcendental hypothesis
+that situates the text and its interpreter at permanent odds. he conjunction
+
+32
+33
+
+his is identiﬁed as upasarjanībhāva or guṇībhāva.
+Locana of Abhinavagupta in Dhvanyāloka 3.33.
+
+MTSR 19,1-2_134-162.indd 149
+
+8/24/07 1:52:55 PM
+
+150 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+of aesthetic theory and Trika philosophy strives to speak more than that: it
+becomes its ﬁrst voice. his can be compared with an application of existentialism to reading the novels of Jean Paul Sartre. First of all, Tantric Trika
+philosophy relies on the doctrine of Ābhāsa, or appearance. Following this
+doctrine, reality itself appears in manifoldness due to its intrinsic powers. In
+this understanding, what appears is not false or illusory. Borrowing this understanding, what is being suggested (pratīyamāna) in the case of experiencing
+rasa through dhvani, is the suggested meaning, which in itself is real. he
+power of ‘word’ in this case can be compared with the cosmic power, inﬁnite
+and unbound.
+Trika doctrine accepts that knowledge of the self is a form of ‘recognition’
+(pratyabhijñā). his is not cognition of something new: knowledge of the self
+is ever-present, hidden due to ignorance and revealed by self-recognition.
+Ānandavardhana, while describing the suggestive nature of dhvani, states
+that:
+his meaning and whatever particular word has the capability of conveying it are the
+meaning and the word which should be carefully scrutinized (or recognized, pratyabhijñeya) by a great poet. (Ingalls, Massion, Patwardhan, 124)
+
+he process of revealing the suggested meaning is identiﬁed in this statement
+as recognition (pratyabhijñā).
+he following example from the writing of Utpala demonstrates the interconnectedness of the doctrines of suggestion and self-recognition:
+Just as a very lovable man, earnestly desired by a beautiful maiden as her lover, being
+urged on by her profusely eager yearnings, comes to her and stands by her side, but is
+not recognized and consequently appears [to her] just like any ordinary person, [and
+so] does not provide her with the immensely desired taste of mutual union, [just] so,
+the Self of a person, even though being Almighty God Himself, is not able to taste his
+own divine grandeur, just because he does not recognize [himself ]. (Pandit, 207).
+
+his single example of Utpala reveals multiple suggestions: the recognition of
+the self is interpreted in terms of union that is expressed as the physical union
+of two lovers; the self, deluded, being unable to recognize his true nature is the
+female partner unable to identify her lover and experience the bliss of union.
+he ‘taste of mutual union’ in this passage is a metaphor that suggests the
+recognition of the self, when the self in delusion recognizes its grandeur.
+he metaphors applied here, like many other metaphors, have the same
+limitation: the source and the target are in two diﬀerent realms. he inability
+
+MTSR 19,1-2_134-162.indd 150
+
+8/24/07 1:52:56 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+151
+
+to identify oneself as ‘lover,’ and the recognition of the self as the ‘lover’ are the
+domains where this metaphor ﬁts. here is, otherwise, no actual union possible of the self with itself in the process of self-recognition. Understanding the
+process of metaphoric thinking is not suﬃcient to reveal the highest possible
+meaning, or multiple meanings layered upon each other that cannot be
+reduced to a single understanding. his thirst for additional understanding is
+quenched through suggested meaning, as, ‘what is being revealed’ or suggested
+can be explained by utilizing ‘suggestion’ and rasa, that the language, while
+utilizing commonsense metaphor, is describing self-recognition. As experiencing oneself in love is subjective, so is self-recognition.
+
+Two Esoteric Experiences
+We have said that metaphors, as a part of esoteric language, can function
+through suggestion to refer to the unique experience of a mystic. While blending concepts through metaphors or moods in the aesthetic experience of rasa,
+common language does not lack the suggestibility of something beyond its
+common reference. Neither does common-sense experience lack its essential
+nature of being awareness itself. On these assumptions, we will examine two
+modes of esoteric experience: the experience of bliss (ānanda) and that of
+awareness (cid ). Trika philosophy describes the self as of the essential nature of
+bliss and awareness alone. his is to say that the true nature of bliss and awareness is the self itself, or there is no other self than the very experience of bliss
+and awareness. In the following examples, we will examine how the texts utilize metaphors in order to suggest the esoteric self-nature.
+While the experience of the bliss described in Tantric texts alludes to the
+mystical state of awareness, the metaphors used to describe this are bodily
+felt:
+At the time of sexual union with a woman, an absorption into her is brought about by
+excitement, and the ﬁnal delight that ensues at orgasm betokens the delight of Brahman. his delight is (in reality) that of one’s own Self. (Vijñānabhairava 69).
+
+his description can be taken literally. One can explain this as a metaphorical
+expression of the experience of the Absolute. One can argue, speciﬁcally following the lines of Lakoﬀ and Johnson, that this description cannot escape
+bodily experience while describing something that is transcendental. Applying
+the theory of blending metaphors, one can take this as an example where ‘the
+
+MTSR 19,1-2_134-162.indd 151
+
+8/24/07 1:52:56 PM
+
+152 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+bliss’ is generic, in both corporeal or sexual experience and the experience of
+the absolute, and so this detail blends two experiences. hese theories either
+eliminate an alternative reading, or lead to an impasse demonstrating the limitations of language in revealing a possible meaning, and support one or
+another form of transcendentalism.
+What is the nature of the self-experience following the Trika doctrine? K.
+emaraja describes that the highest reality is both transcendent (viśvottīrṇ a) and
+immanent (viśvamaya).34 he all-embracing singular reality, while remaining
+unstained by the limited vision found in the world, is nonetheless present and
+can be grasped. Instead of entering into a theological debate of how can something embrace both contradictory aspects, I would like to place the abovedescribed experience within the contours of this doctrine: the experience of
+the Absolute does not preclude the corporeal experience of bliss one can have
+in the process of sexual union.
+Reading a text only in a literal sense limits it to a level of meaning with
+which the very author of the text would not agree. Reading these descriptions
+as metaphors brings the text to another extreme, one in which the literal is
+rejected. A possible reason why classical Indian aesthetes proposed the doctrine of suggestion (dhvani) in addition to the doctrine of indication (lakṣaṇā)
+is that it exactly balances the two extremes of empiricism and transcendentalism; it creates a negotiated ground where both aspects can interplay. In the
+above example, the power of suggestion embodies both realms: it describes the
+absolute while embodying the corporeal.
+Another example for the experience of bliss:
+When one experiences the expansion of joy of savour arising from the pleasure of eating and drinking, one should meditate on the perfect condition of this joy, then there
+will be supreme delight. (Vijñānabhairava 72).
+
+he situation posed by the text is that sensual pleasure is the only pleasure that
+is commonly known. he approach of the text is to describe this mystical bliss
+by utilizing the physical pleasure that is commonly shared by both a mystic
+and his audience.
+A text cannot be silent. Even silence, if it is textualized, becomes one language: it speaks for something. Whether the texts tend to reject language, or
+
+34
+viśvottīrṇaṃ viśvamayañ. ceti trikādidarśanavidaḥ / Pratyabhijñāhṛdaya 8. auto-commentary
+of Kṣemarāja.
+
+MTSR 19,1-2_134-162.indd 152
+
+8/24/07 1:52:56 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+153
+
+use metaphor or some other verbal form, it is used in the context of encountering something, confronting something that may have not have been experienced by the reader. he worst-case scenario, and the most likely scenario, is
+that this experience may be subjective or even solipsistic. However, while
+rejecting the applicability of language in describing mystical experience, what
+has been ignored is that language is always conventional and there can never
+be a language that is non-conventional. here may be shared subjective experience integrated within language, but it is not as objective as some would like
+to ﬁnd it. he words ‘pain’ or ‘love’ may evoke some resonance in the hearer;
+however, by hearing the word ‘pain’ the hearer will not panic, or by hearing
+‘love’, the listener will not swoon. What speciﬁc words meant to Abhinavagupta, for example, may never be known.
+Can language refer to something that is beyond concepts? he response to
+this question can be found in the Advaita position that accepts the concept of
+the form of the absolute (brahmākāravṛtti) that one can consciously generate:
+this concept mediates the absolute and the concepts. his (although itself a
+concept) relates to all the other concepts and integrates them. Finally, this
+mode dissolves in absolute awareness. Mental modiﬁcation, in conclusion,
+mediates the phenomenal world and absolute reality.
+he context here is the description of ‘bliss’. his bliss is not only a process,
+a rapture of revealing the truth, or a momentary pleasure experienced when
+getting rid of mental clutter. he context here of describing the bliss is that
+this very bliss that is considered as Brahman is identiﬁed as located within the
+body:
+ānando brahmaṇo rūpaṃ tac ca dehe vyavasthitam /35
+Bliss is the form of the Brahman [itself ], and this is located in the body.
+
+he bliss that has been identiﬁed with the Brahman is corporeally experienced
+and found in physical pleasure. However, to say that this is all the bliss that
+this text describes violates the text twice over, by not extracting the meaning
+to which the text refers, and by not considering the two domains, the Brahman and the bliss, that the text identiﬁes: the extension of the text is in describing something generic to both Brahman and the corporeal experience of bliss.
+he most appropriate hermeneutical approach to these descriptions may be one
+where what is apparent in the text is not negated while the text is nonetheless
+
+35
+
+Cited in TĀ, Viveka 1.242; 3.72; 3.93; 4.139; 28.332; 29.98; 29.128.
+
+MTSR 19,1-2_134-162.indd 153
+
+8/24/07 1:52:56 PM
+
+154 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+understood as describing something beyond what appears in the literal reading. he doctrine of suggestion is the most appropriate tool for us to deconstruct these texts. It has been mentioned that the meaning derived through
+suggestion is not identical to ﬁnding multiple meanings of a term, and what is
+etymological is not what is derived through suggestion. Furthermore, the
+approach of suggestion is not to accept indication by negating the literal. As in
+the cases such as ‘I am under ﬁre’ or ‘She is all over me,’ the literal is not possible: the narrator is neither literally under ﬁre nor is she literally over him. In
+the case of indication (lakṣaṇā), the literal is simply impossible. he description of corporeal bliss, in some instances the analogy of orgasmic rapture,
+is not literal, as this literal understanding violates the very presumption of
+the text; nor is this an indication, a metaphoric expression of something that
+is not corporeal, as that a gain violates the instances described in this context.
+It is neither limited to corporeal, nor is transcendental. Dhvani is the bestnegotiated ground where meanings can interplay from literal to metaphoric:
+describing something beyond while embracing what is phenomenal.
+What is the Tantric hermeneutics of bliss? Tantras, speciﬁcally the text
+Mālinīvijayottara-tantra (MVT) and Abhinavagupta’s Vārttika upon MVT
+(MVV) . . .36 categorize bliss in seven levels:
+1. nijānanda (the bliss pertaining to the self (i.e., the body)): his is the ﬁrst level of
+bliss. his bliss is experienced when the individual feels emotion in his own heart.
+(TĀ 5.44)
+2. nirānanda (transcendental bliss): his bliss is experienced when there is an experience of the void. In other words, when the subjective experience rests on void and
+there is no object to be cognized, this state is considered nirānanda. (TĀ 5.44)
+3. parānanda (supreme bliss): his bliss is described as arising when there is the rise of
+the cognition of objects along with the rise of prāṇa. (TĀ 5.45) In this state, one
+is engaged in ﬁlling inﬁnite parts of cognized objects in the apāna breath, and
+one reaches to the bliss identiﬁed as parānanda endowed with the moon of apāna.
+(TĀ 5.45-46)
+4. brahmānanda (the bliss of the absolute): his bliss occurs when one reaches to the
+ground of the pranic ﬂow of samāna where all the manifesting objects of cognition
+are united while the subject is experiencing the awareness that is devoid of any
+content. (TĀ 5.46-47)
+5. mahānanda (great bliss): After the rise of brahmānanda, one willing to burn down
+the limitations of the collection of the means of knowledge and the objects of cog-
+
+36
+For further discussion on the hierarchy of bliss that culminates with jagadānanda, see
+MVV 1. 14-50; 1. 146-149; 1. 153-156; 1. 272; and 1. 280-281.
+
+MTSR 19,1-2_134-162.indd 154
+
+8/24/07 1:52:56 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+155
+
+nition rests on the ﬁre of udāna breath, experiences the bliss identiﬁed as mahānanda.
+(TĀ 5.47-48)
+6. cidānanda (the bliss of awareness): Having achieved repose on mahānanda, when
+one paciﬁes the great ﬁre, [there arises] the completeness that is free from all the
+̣ ̣ hita) by an
+conditions. hen there rises cidānanda, which is not occupied (upabrm
+unconscious object. (TĀ 5.48-49)
+
+he seventh bliss, jagadānanda (the collective bliss), is supposedly the ultimate
+bliss that one can experience in the ecstatic state. In this state, there is no
+limitation; it is experienced as ‘surrounding’; it is endowed with the supreme
+nectar of the awareness of unstruck sound; in this state, there is no prominent
+sequence (saṃ gati) of the meditation (bhāvanā) and so forth. (TĀ 5.50-51) In
+this supreme state of bliss, all other six states of bliss identiﬁed such as nijānanda
+are collectively found in the essential nature of the self of the form of awareness alone.
+his presentation of the hermeneutics of bliss in this context serves two
+purposes: 1) with an understanding of the terms used, language can explain
+something that may not be present in form of experience; 2) language performs the same role when describing something that is paradoxical as it functions in describing a linear reality; 3) the rapture Abhinavagupta is describing
+here is esoteric; it is more than what is commonly found incorporeal bliss; and
+4) this bliss is directly addressed as found in diﬀerent pranic positions and are
+corporeal. Furthermore, the common description that the transcendental experience is closer to the absolute reality does not make sense to Abhinavagupta
+who positions multiple other levels of bliss above nirānanda and parānanda.
+he experience of void according to Abhinavagupta, is merely a level, a grade
+of which a practitioner seeking the true jagadānanda must rise above.
+First of all, jagadānanda cannot be described without blending the multiple
+concepts identiﬁed as nijānanda and so on. Jagadānanda, as well as other levels
+of bliss, are not metaphoric expression of something that is beyond words or
+something that cannot be described by language. his concept allows us to
+describe esoteric bliss as something found in everyday experience, but with
+more to it. All experiences of bliss are the very experience of the self. Without
+prāṇa returning to heart, without the subjective being addressed in its subjective form, bliss is not experienced. However, the higher form of bliss is revealed
+when awareness, the self in itself, is manifest in its true form, enveloping both
+the domains of the subject and object of experience.
+What is meant here by ānanda can be understood by exploiting literal
+meaning at the same time as utilizing the doctrine of dhvani. his approach
+also allows a negotiation between the transcendent and corporeal: something
+
+MTSR 19,1-2_134-162.indd 155
+
+8/24/07 1:52:56 PM
+
+156 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+that is more than bodily is found within the body. By creating the hierarchy of
+bliss, Tantric polemicists are negotiating the ground of that which is conceived
+of in opposite terms: the highest reality that can be found is not transcendental: transcendental experience is one step closer to the corporeal, but what
+exactly is the highest is that which embodies both. hat which is conceived of
+as transcendental and beyond the body is found within the body; that which
+is conceived of as impossible to express in language is expressed, not only
+through negation, but also through suggestion.
+he next metaphor to be analyzed is that of consciousness as ﬁre. he
+supreme reality identiﬁed in Tantric literature, which corresponds to the
+description found in upanisadic traditions, is the self as of the character of bliss
+and awareness. Besides the metaphor of ﬁre to describe consciousness, another
+term used in Tantric literature is cid as sky (gagana, ākāsa). hese two metaphors, the metaphor of ﬁre and that of sky, are not identical. hese serve two
+diﬀerent purposes in describing consciousness.
+In the above application of dhvani, we have mainly experimented with one
+model of Indian aesthetic theory, vivakṣitānyaparavācya, one in which the reference is both explicit and implicit. Another type of dhvani, avivakṣitavācya,
+identiﬁes the reference that is not explicit or literal. In examining the metaphor of consciousness, it is more appropriate to apply the second category of
+dhvani. If only the terms, ﬁre, sky, or other metaphors are used, this metaphoric expression is not referring to both ﬁre and the self, or sky and consciousness, but rather the literal, ﬁre or sky, is abandoned and the referent of
+the metaphoric expression is recognized through dhvani. However, what is
+suggested is the property that ﬁre or the sky has the property to incinerate, and
+the property of having no property, having no form.
+hese metaphors, ﬁre, sky, ﬂuid, if compared, do not share anything in common. Or, at least, what they commonly share is not what is referred to when
+these metaphors are applied in order to describe the self. Fire is not sky, neither
+is sky juicy. heir referent, awareness (cid), on the other hand, shares these
+properties when describing the role of consciousness in Tantric literature. hese
+metaphors independently describe diﬀerent aspects of the self or awareness.
+It is contextual to cite some examples before proceeding further. Abhinavagupta writes that bhāva or entities are incinerated in the ﬁre of awareness
+(bodhāgni).writes that bhāva or entities are incinerated in the ﬁre of awareness
+(bodhāgni).37 his internalized form of ﬁre-oblation is found everywhere in
+
+37
+
+MTSR 19,1-2_134-162.indd 156
+
+TĀ 4,202. For additional ﬁre metaphors, see Samvitprakāśa 1.10.
+
+8/24/07 1:52:56 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+157
+
+Tantric literature. Jayaratha, while commenting upon this passage, cites
+another text: “Oblation into ﬁre is incineration of the group of entities in the
+ﬁre identiﬁed as awareness entangled in the web of the ﬂames of seven
+senses.”38
+Here, in order to ﬁt with the metaphor of ﬁre whose ﬂames are depicted as
+tongues, the author describes seven sense organs, although there are only ﬁve
+sense organs found in the body.39 What is signiﬁcant in this metaphor is the
+application of ﬂames and ﬁre to ﬁt with awareness and senses. As the seven
+ﬂames are not an illusory appearance of the ﬁre, but rather, these are the very
+being, the essence of ﬁre, this metaphor turns back, describing consciousness
+functioning through senses, and revealed through senses. In this depiction,
+sensory experience is not negated in describing self-awareness. he cognitive
+process that gives rise to knowledge of an object is compared with ﬁre oblation, as the external entities are transformed into awareness in this process. In
+a metaphoric sense, the objective world turns into awareness through the ritual
+oblation of cognition.
+Explaining the ﬁve sequential functions of awareness, Jayaratha describes
+vilāpana, or dissolution of the world, in terms of cidagnisādbhāva, or turning
+into the ﬁre of awareness.40 he metaphor of ﬁre to describe the role of awareness is more vivid in another of his aphorisms:
+citivahnir avarohapade channo ’pi mātrayā meyendhanaṃ pluṣyati / PH 14.
+he ﬁre of awareness, though covered in the stage of descent, partly burns the fuel of
+the objects of cognition.
+
+Jayaratha justiﬁes the metaphor of ﬁre to describe awareness by saying that
+awareness is of the character of devouring the world.41 his character of consciousness of consuming external entities is also found, the author writes, in
+the limited subjective state bound by illusion. his is to say that the subjective
+
+Cited in TĀ Viveka 4.202.
+he depiction of seven tongues of ﬁre is found in the Vedic texts. he Muṇdạ ka Upaṇiṣaḍ
+identiﬁes Kālī, Karalī, Manojavā, Sulohitā, Sudhumravarṇā, Sphulaṃ ginī, Viśvarucī, Lelāyamānā
+as seven tongues of ﬁre. Some of these names are identical to those of Tantric divinities.
+40
+PH 11, autocommentary of Kṣemarāja.
+41
+citir eva viśvagrasanaśīlatvāt vahniḥ . Autocommentary of Kṣemarāja in PH 14. See also
+cidagninaikyam . . . in TĀ 15.413; the commentary of Kṣemarāja on the Śivasūtra 2.8; . . . atidīptasaṃ vijjvalane . . . (Paramārthasāra 76); and Cidagnisaṃ hāramarīci-mantraḥ . . . Stotrabhat ̣t ̣āraka,
+cited in Mahārthamañjarī Parimala 49.
+38
+
+39
+
+MTSR 19,1-2_134-162.indd 157
+
+8/24/07 1:52:57 PM
+
+158 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+awareness in the state of bondage does have some characters or powers that the
+self, free from bondage, is endowed with. However, this common-sense awareness does not fully incinerate the ‘externals’, as there exists externality when an
+object is cognized: either awareness is in its non-dual state with no distinction
+between subject and object or there is an awareness found in the dichotomy in
+form of subject and object. By the metaphor of ﬁre, what has been described
+is that awareness has the character to turn the external phenomena to its nature
+whether it is in its pure nature or in the conditioned state.
+When this awareness is acknowledged as ﬁre, the oblation into ﬁre can be
+performed internally. In the Śrī-Vidyā texts, this internalized ﬁre oblation
+comes with description such as:
+In the ﬁre of awareness burning constantly inside without any fuel which is the opposite of the darkness of delusion, in the land of the expansion of the wonderful rays, I
+oblate the world, starting from earth and ending with Shiva . . ..42
+
+In retracing the history of the application of ﬁre as a metaphor for awareness,
+the Bhagavadgīta, in one instance, states that the ﬁre of knowledge incinerates
+all actions.43 In another instance, the ﬁre of yoga is identiﬁed as kindled by the
+light of knowledge.44
+Besides awareness as ﬁre, it is described as light. he self as light and awareness as light are the metaphors found in the Upaniṣads. Tantric texts elaborate
+upon this metaphor, iterating that this ‘light’ not only describes the illuminating nature of consciousness, but also expresses the triad of subject, object, and
+cognition; the sequence of letters that gives rise to mantras; the sequence of the
+deities that correspond to the sequence of the triad of subject, the means of
+knowledge, and object of cognition; to describe the ritual diagram; the preparation of the ﬂuid of libation; to name a few. In a graphic depiction of light,
+the light of ﬁre refers to the self, identiﬁed as awareness; the light found in the
+sun corresponds to the means of cognition; and the moon refers to the objects
+of knowledge. he ﬁre, in this metaphor, is the cosmic ﬁre that gives rise to the
+sun, as even the sun is not in existence without the ﬁre in it. he metaphors of
+moon and sun play the same role: as the light found in the moon is a reﬂection
+of the light of the sun, so is consciousness reﬂected in objects that are grasped
+
+Cited in Setubandha, Yoginīhṛdaya 3.108-11.
+Bhagavadgītā (BG) 4.19, 4.37.
+44
+See BG 4.27.
+
+42
+
+43
+
+MTSR 19,1-2_134-162.indd 158
+
+8/24/07 1:52:57 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+159
+
+in the process of cognition.45 Abhinavagupta describes this grasping of objects
+in terms of pratibimba (counter-image).46
+he awareness-in-itself, described in terms of light, is identiﬁed with the
+deities in sequence of twelve Kālīs. he subjective awareness, identiﬁed with
+ﬁre, is of the character of “I”-awareness alone. his, in process of cognizing
+objects, is found in twelve forms, with ten senses, mind, and cognition. his
+group of twelve, identiﬁed as the means of knowledge, is depicted by the sun.
+While in the rise of the objects of cognition, as the light of the sun is found
+reﬂected in the moon so is awareness of the senses found in the form of external objects.47 he metaphor of a wheel with twelve spokes on one hand
+describes the twelve senses in the limited subjective state (māyāpramātṛ), on
+the other hand, it describes the ritual wheel of twelve Kālīs. he senses, or
+precisely, the awareness found when the senses function, is the meeting ground,
+or the conﬂuence of the external and inner, the object and the self.48
+he context here is the deconstruction of the metaphors. In order to actually discover the meaning of the text that describes self-awareness with the
+metaphors of light and explains the sequence of cognition with the metaphors
+of the ﬁre, sun, and moon, both strategies are required. First, what is literally
+referred to by the terms ﬁre, sun, and moon, is not what is described:
+avivakṣitāvācya, or the model of aesthetic theory in which the reference is suggested, not explicit or literal. Second, what is suggested by the term is not
+ﬁxed, but rather, is ﬂuid. It can suggest the sequence of letters, the sequence of
+maṇḍala,49 60 or the sequence of the deities identiﬁed as Kālīs. he suggested
+meaning, in this case, can be identiﬁed, as the deity is the letters, the maṇḍala
+is the deity, and so on. Although in the primary sense, a maṇḍala, for instance,
+is not a mantra, in the suggested level, however, all these refer to the same reality. In this case, when letters or maṇḍala are described, this description can
+
+45
+For the metaphor of sun for awareness, see Saṃ vitprakāśa 1.39. For identiﬁcation of the sun
+as the means of knowledge, moon as the objects of cognition and the ﬁre as the subject of cognition, see TĀ 3.121-123; Cidgaganacandrikā 37. For the rise of the triad of the ﬁre, sun and
+moon, see TĀ 5.22-25. For identiﬁcation of the triad of ﬁre, sun, and moon with letters, see TĀ
+3.131-134; Cidgaganacandrikā 40-41. For the parallel made with the moonlight coming from
+the sunlight with the letters identiﬁed by moon, see TĀ 3.185-86. For identiﬁcation of the moon
+and sun for prāṇa and apāna, see the passage ūrdhve . . . layātmaka, cited in Viveka, TĀ 3.170.
+46
+TĀ 3.46.
+47
+See TĀ 3.122-126, and the Viveka commentary of Jayaratha thereon.
+48
+For the description of the rise of twelve Kālīs, see TĀ 4.148-176. For the description of the
+ﬁre-oblation with the depiction of the triad of ﬁre, sun, and moon, see TĀ 5.22-25.
+49
+See TĀ 4.127-130.
+
+MTSR 19,1-2_134-162.indd 159
+
+8/24/07 1:52:57 PM
+
+160 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+function as vivakṣitānyaparavācya, which is the alternate model of aesthetic
+theory wherein the reference is both explicit and implicit. In this complicated
+picture of deciphering the metaphors, meaning can be derived by both
+approaches of dhvani simultaneously, where the primary is abandoned and not
+abandoned. When the terms refer to the physical moon and sun, the primary
+meaning is abandoned. When these terms describe one of the esoteric aspects
+such as maṇḍala, this meaning is not abandoned while exploiting additional
+meaning of the deity and so on.
+Just as the metaphor of ﬁre to describe awareness explains the nature of
+awareness to grasp objects and transform them into its own pure nature, the
+metaphor of sky or of avoid explains its natural state of having no objects, or
+its empty nature in relation to the world.50 In the same way, the metaphor of
+‘ﬂuid’ used to describe awareness functions to demonstrate the nature of
+awareness with no ﬁxed form of its own that naturally takes the shape of the
+object it grasps.51
+
+Conclusion
+he above discussion establishes multiple points. he ﬁrst and foremost is the
+need for a proper hermeneutic tool capable of deciphering texts and the cultures that sustain, and are sustained by, these texts. Speciﬁcally, in the case of
+Tantras, as the term suggests, the rituals, the text itself, the various esoteric
+practices, are ‘woven’ together, or in other words, harmoniously blended. he
+theories that emerged in classical India, in the process of speculating about
+these phenomena, still have much to oﬀer. he limitation of the application of
+other perspectives can be considered valid as long as they do not interfere with
+the inherent structure of meaning and contradict the central premise of the
+text.
+Rasa and dhvani theories, developed by classical Indian exegetes, are tools
+provide a means to understand Tantric texts and practices. he textual link,
+the historical fact of their interconnectedness, and the common cultural
+
+50
+For consciousness as sky, see ‘cidgagana’ in the Pratyabhijñāhṛdaya, autocommentary 19;
+cidvyoman in the Cidgaganacandrikā 1; ‘cidgagana’ in the very title of the book and also in verse
+3 of Cidgaganacandrikā. See also cidākāśa in Spandakārika, Viveka 1.11, and 1.25. For application of ‘vyoman’ in order to describe the self-nature, see Cidgaganacandrikā 54, 107, 195, 197,
+202. For the visualization of the self of the form of void (vyoman), see Vijñānabhairava 92.
+51
+See cidrasa in Pratyabhijñāhṛdaya, autocommentary on 4 and 19.
+
+MTSR 19,1-2_134-162.indd 160
+
+8/24/07 1:52:57 PM
+
+S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+
+161
+
+ground allow a deeper reﬂection into the cultural phenomena. his approach
+does not limit these theories to a reading of Indian culture, or speciﬁcally,
+Tantric culture.
+Metaphoric thinking and conceptual blend is a cross-cultural phenomenon.
+hese cognitive tools allow the further deconstruction of otherwise complex
+and opaque symbols. he speciﬁc analysis of two modes, the expression of
+‘awareness’ and ‘bliss’ support the arguments discussed in this paper. Application of ‘suggestion’ (dhvani) as a tool to deconstruct meaning properly ﬁts
+with the discussion above: Tantric literature is highly suggestive; esoteric experience deﬁes ordinary expression and requires diﬀerent cognitive tools to be
+deciphered; and esoteric experience, unique in itself, begs for a diﬀerent language for its description.
+his application of rasa and dhvani for reading esoteric texts and mystical
+writings is an approach that can be tested in the broader cross-cultural context.
+Mystical writings commonly describe something rather uncommon to ordinary experience. Mystics utilize metaphors and blend multiple concepts to
+convey the rapture or the awareness that they experience in their inward cognitive states. he uniqueness of these experiences lies on their ability to change,
+enlarge, and alter subjective states. he “recognition of the self ” (pratyabhijñā)
+is a theory that allows us to interpret the impact of esoteric experience. In both
+subjective and objective cognitive modes, the experience of bliss and awareness
+determine the validity of any cognition. As these two modes are experienced
+as one, bliss is identical with awareness; there appear to be no horizon left that
+can be divided as ‘subjective’ and ‘objective’ in the realm of this experience.
+he consequence of reading texts through the lens of rasa and dhvani is to
+accept a text similar to living organism with the potency to reveal new meaning for diﬀerent context and for diﬀerent reader. his is to allow the unending
+possibility of newness in the ﬂow of meaning. he soteriological and hermeneutic consequence of this liquidation of texts is to open a reader of awareness
+and not of one understanding. his approach allows the reader to open for
+unending possibility of suggestion encoded in language. Recognizing meaning itself becomes a meditative process for revealing awareness unbound in
+perspectives.
+
+References
+Chari, V. K. he Indian theory of suggestion (dhvani). Philosophy East and West. Vol. 27, no. 4:
+391-399.
+Deshpande, G. T. (1992). Abhinavagupta, New Delhi: Sahitya Academy.
+
+MTSR 19,1-2_134-162.indd 161
+
+8/24/07 1:52:57 PM
+
+162 S. Timalsina / Method and heory in the Study of Religion 19 (2007) 134-162
+Fauconnier, Gilles, & Mark Turner, he Way We hink: Conceptual Blending and the Mind’s Hidden Complexities, New York: Basic Books, 2002.
+Gibbs (ed.) (2003). Rethinking metaphor. In Cambridge Handbook of Metaphor and hought.
+Cambridge: Cambridge University Press.
+Kane, P. V. (1994). History of Sanskrit Poetics. Benares: Motilal Banarsidass.
+Lakoﬀ, George (1990). Woman, Fire, and Dangerous hings: What Categories Reveal About the
+Mind. Chicago: University of Chicago Press.
+Lakoﬀ, George, & Mark Johnson (1980). Metaphors We Live By. Chicago: University of Chicago
+Press.
+Masson, J. L. & M. V. Patwardhan (1969). Santarasa and Abhinavagupta’s Philosophy of Aesthetics.
+Poona: Bhandarkar Oriental Research Institute.
+Muller-Ortega, Paul (2002). Becoming Bhairava. In Katherine Anne Harper and Robert L.
+Brown (eds.), he Roots of Tantra. New York: State University of New York Press, 213230.
+——— (1989). he Triadic Heart of Siva: Kula Tantricism of Abhinavagupta in the Non-dual
+Shaivism of Kashmir. Delhi: Satguru Publications.
+Nagar, Ravishankar (ed.) (1981). Nātỵ aśāstra of Bharatamuni. With the commentary
+Abhinavabhāratī by Abhinavagupta, vol. 1. Delhi: Parimal Publications.
+Panedy, K. C. (1963). Abhinavagupta, Varanasi: Chowkhamba Sanskrit Series.
+Pathak (ed.) (1987). Dhvanyaloka with the Locana of Abhinavagupta, Translated into Hindi by
+Jagannath Pathak, Varanasi: Caukhamba Vidyabhāvan.
+Tripathi, Bhagirath Prasad (ed.) (1980). Rudrayāmalatantra. Varanasi: Sampurnananda University.
+——— (ed.) (1993). Saṃ vitprakāśa. Varanasi: Sampurnananda University.
+
+MTSR 19,1-2_134-162.indd 162
+
+8/24/07 1:52:57 PM
+
+

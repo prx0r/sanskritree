@@ -1,0 +1,679 @@
+Biernacki International Journal of Dharma Studies (2017) 5:4
+DOI 10.1186/s40613-016-0043-7
+
+RESEARCH
+
+International Journal of
+Dharma Studies
+
+Open Access
+
+Imagining the body in tantric
+contemplative practice
+Loriliai Biernacki
+Correspondence:
+loriliai.biernacki@colorado.edu
+University of Colorado, 292 UCB,
+Eaton Humanities, Boulder, CO
+80309-0292, USA
+
+Abstract
+This paper addresses imagination, focusing on two words, bhāvana and vikalpa, both
+frequently translated as "imagination," and addresses the connections imagination has
+with the body, specifically within the context of contemplative practices. Drawing
+primarily from the 10th and 11th century philosophical school of the Pratyabhijñā of
+Abhinavagupta and Utpaladeva, this paper proposes a more complex understanding of
+imagination as consisting of different forms, some connected with the body, others not.
+This paper suggests that the medieval Indian understanding of imagination as linked to
+the body allows this term for imagination to side-step much of our current philosophical
+difficulty within contemporary coginitive science regarding the mind-body problem.
+Keywords: Imagination, Meditation, Contemplative practice, Abhinavagupta, Body,
+Cognitive Science, Philosophy of mind
+
+“Once imagined, objects exist.”
+David Shulman, More than Real
+"sa naisargika evāsti vikalpe svairacāriṇi |
+yathābhimata saṃsthānābhāsanād buddhigocare || 10 ||"
+"In the imagination, which moves according to its own will, the [object] arises naturally,
+appearing in the intellect in just the particular way it is conceived."
+Utpaladeva, 1.6.10 IPK
+
+Introduction
+Imagination, the problem
+
+This paper addresses imagination as a component of Tantric contemplative practice. I will
+start by pointing out that imagination is foundational for contemplative practice, inescapable
+particularly in Tantric practice, but also for Hinduism more generally and for Buddhism as
+well. In these traditions, the use of the imagination shows up everywhere as it is employed
+in visualizations of the deity, of the cakras (the subtle energy centers in the body), in bhakti
+or devotion, which conjures the form of the deity to be near (not just visually, but emotionally as well), in mantra repetition, and in pūjā in its many formulations of ritualized
+offerings. I would be remiss however, if I did not point out the shadow side of imagination,
+an ambivalence that renders imagination suspect. That is, for Indian traditions generally,
+imagination can be a tricky business, capable of sending us to divine realms or leaving us
+trapped in hellish worlds of mental construction. How does one navigate the difference, and
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and
+indicate if changes were made.
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+what relevance does such a distinction bear for our contemporary times? I suggest a working
+distinction, parsed out by terminology, and thus this paper focuses on two words, bhāvana
+and vikalpa, both frequently translated as "imagination." As we will see, bhāvana is considered helpful for generating mental states conducive to the soteriological goals of meditation
+practices in Hindu and Buddhist traditions. Vikalpa, on the other hand, tends to be disparaged as a form of mental ideation disconnected from what actually exists. This has to do
+with the ways that vikalpa generates imaginative scenarios that lead us into mentally
+constructed worlds, multiplied upon each other in a non-ending fabrication. We see these
+ascriptions to vikalpa early in the yoga tradition. Patañjali’s Yoga Sūtra (2016) 1.9 defines
+vikalpa as a use of language that lacks a real object; it is “vastuśūnyo” “devoid of a real object” (Patañjali Yoga Sūtra 1.9). Vyāsa’s commentary on this sūtra adds that vikalpa offers
+knowledge which is neither correct (sa na pramāṇopārohī); nor is it incorrect (na viparyayopārohī ca). Rather, it functions as a conventional and ordinary use of language (vyavahāra),
+which has no world referent, even as it conveys meaning (PYS 1.9) Vikalpa, then, expressly
+takes on the connotation we find in uses of the word “imagination” in English when, for instance, one says, “it’s only imaginary.”I suggest that a big part of the problem with vikalpa as
+imagination is that it is not connected to our embodied experience. Drawing primarily from
+the 10th and 11th century philosophical school of the Pratyabhijñā of Abhinavagupta and
+Utpaladeva, I propose that the distinction we see supporting imagination as bhāvana, but
+not vikalpa, has to do with the links bhāvana has to the body. I suggest that bhāvana’s links
+to the body are precisely what allows this term for imagination to side-step much of our
+current philosophical angst regarding the mind-body problem.1
+Bhāvana references the imagination in a way that relies upon being embodied,
+using the sensory capacities available to bodies. Rather than transcending the body,
+bhāvana uses the body in meditation practices and extends the body through its
+stereotyped physicality into a conception of body as a subtle body (puryaṣṭaka,
+sūkṣma śarīrā, liṅga śarīra). Moreover, this extension is not merely imaginary. The
+imagination, when it is connected to meditation praxis, has also a generative capacity to make real objects. As Sthaneshwar Timalsina observes in his superb study
+on imagination in Tantra, the use of imagination in visualization practices is not
+simply a rote mental practice; rather it engenders a new, external engagement, with
+“gods seen laughing, crying, singing, dancing, exploding, sweating, opening and
+closing their eyelids, and walking” (Timalsina 2015a, 2015b, 22–25).2 Similarly, as
+David Shulman points out with respect to the larger Indian literary tradition,
+“Once imagined, objects exist” (Shulman 2012: 112). Bhāvana is thus a potent
+component of Indian religiosity. On the other hand, the term vikalpa points to the
+kind of imagination that generates objects through breaking things down into their
+parts and rearranging. This type of imagination relies on a multiplication of binaries that sees the world in opposing categories. Vikalpa works against the soteriological aims of meditative practice, and in this regard, Abhinavagupta points out:
+“in vikalpa conceptualization the Self shines as “this”, not I, whereas when the root
+awareness is only in “I-ness” then the Self rests in the unity of subject on the highest
+level”
+bhavati ātmā vikalpajñāna idam iti prakāśamāno mūla-parāmarśe > hantātmani
+eva pramātṛtaikaparamārthe viśrāmyati” (IPVV v.3, 295).
+
+Page 2 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+In what follows below, I first discuss Utpaladeva’s assessment of imagination as vikalpa; I
+then address differences between vikalpa and bhāvana. Following this I note the links
+between vikalpa and contemporary understandings of information as comprising consciousness, particularly in relation to the mind-body problem. I also note that some contemporary
+proposals to resolving the mind-body problem wind up with similar conceptual understandings of consciousness as foundational and intimately embedded in matter as we see in
+Utpaladeva in the 10th century and his 11th century commentator Abhinavagupta. Following this, I discuss bhāvana, how it works, and its connections to the body and especially to
+the subtle body as an intermediary point between mind and matter. Finally, I conclude with
+some thoughts on contemporary practices of yoga and meditation in relation to both
+embodiment and transcendence.
+
+Vikalpa and Bhāvana
+
+Utpaladeva’s quote above describing the operation of imagination comes from his 10th
+century philosophical treatise on how to recognize God, or more precisely how to
+recognize that one’s own self is really just only the divine extended into form, not different
+from God (Utpaladeva 1994). The context is a discussion where Utpala reflects on the difference between vikalpa as disembodied imagination and another capacity, vimarśa, or
+self-reflective awareness, which is the key to what makes us sentient beings. Particularly,
+he notes that vikalpa as imagination in this case is very much like memory, but has also a
+special quality. It is capable of generating new things that one has never seen before, like a
+white elephant with two trunks and a hundred tusks. This imaginative capacity, signaled
+by the word vikalpa here, stands in contrast to the kind of insight that vimarśa, the inward self-reflection, delivers.
+This is, Utpaladeva tells us, because this kind of imagination ultimately relies on a kind of
+negation and contrast, knowing things by chopping up the world into various opposing conceptions, even if one then puts them back together in novel ways (Torella 2002: 129). He
+then gives us a prescription which is designed to undercut his Buddhist philosophical opponents’ ideas of no-self, the Buddhist idea of identity as a product of difference, apoha.3
+Namely, Utpaladeva tells us that Recognition, in contrast, does not need the violence of
+exclusion, does not need that kind of thought predicated on chopping up the world, because
+instead it relies on the awareness of the ever-present reality of consciousness, a consciousness that undergirds the unifying sense of self. So we see imagination (by the way, along with
+memory) as a secondary operation enacted by a self hopelessly mired in a duality. This
+chopping up the world to fashion new things does not actually help, in Utpala’s estimation,
+on a path towards really recognizing one's own real self.
+On the other hand, however, the word bhāvana indicates a use of imagination in
+line with the goals of self-recognition, the goal of Utpala’s Pratyabhijñā teaching.
+Abhinavagupta, who writes commentaries on Utpaladeva’s seminal text on how to
+recognize God, i.e., the Self, the Īśvarapratyabhijñākārikā (Abhinavagupta 1985), includes
+this imagination as a component of advanced spiritual practice. For instance in describing
+the benefits of Utpaladeva’s teaching on action in the Īśvara Pratyabhijñā Vivṛti Vimarśinī,
+where Utpala tells us that the divine is not the action-free spirit (puruṣa) that Sāṃkhya
+presumes, Abhinava notes: “With this teaching, which is useful for meditation/imagination
+(bhāvana)…” (IPVV vol.3 p. 257). Here Abhinavagupta uses the word bhāvana
+
+Page 3 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+synonymously with meditation. He understands it as a privileged form of spiritual practice;
+one might venture a kind of meditative imagination.4
+So what is the difference between vikalpa and bhāvana? I propose that the usefulness of
+bhāvana as imagination has to do with its connection to the body. Unlike vikalpa which
+operates through mentally-oriented processes, reducing the components of the mind’s
+awareness to manipulable objects, the “idam,” “this,” we saw in the quote from
+Abhinavagupta above, bhāvana instead eschews the mind’s capacity to cut things apart and
+rearrange them. Bhāvana points to an embodiment that embraces the body’s affects and
+emotions as a holistic habitus.5 For Tantra particularly, this attention to the body is a fundamental part of its pushback against the world-denying asceticism of traditions like Advaita
+Vedānta, and to some extent, forms of Buddhism, which advocate transcendence at the
+expense of the body. In a passage offering a rationale for engaging the world, for not simply
+opting for an exclusionary transcendence, Abhinavagupta employs this same stem word,
+bhāva, as a way of linking the body and world to the self as knower. He says:
+Now, it would not be correct to say that for our present topic – i.e., to convey the
+recognition of the Lord– it is not necessary to establish the knowability of everything,
+[since all we really need to be concerned with is the highest, the recognition of the Lord.
+However this is not correct, because] only to the extent that one makes the world into an
+object, to the extent that it is known, can one then transcend the level of object, of thing
+to be known and allow the true sense of the knower (pūrṇa bhāvā satya pramātṛtā) to
+take root in the heart, its fullness being grasped by the inner organ [mind, intellect and
+ego] as beyond the realm of the knowable.
+[Na ca viśva prameyatā pādanam na upayogi prakṛtāyām Īśvara
+pratyabhijñāpanāyām. Viśva prameyīkaraṇe hi tāvat prameya padottīrṇā tāvad
+antaḥkaraṇa pratilabdha pūrṇa bhāvā satya pramātṛtā hṛdayaṅgamīkṛtā bhavet.
+(IPVV v.3: 255)]
+Even as the goal of this Tantric path is still a transcendence into a pure subjectivity, still,
+there is no direct path that can afford to bypass the world. The world must be known and
+embraced fully (pūrṇa bhāvā) within. This is not a simple mental or intellectual knowing,
+but rather a fullness of being as a vital step in this process of transcendence. Thus bhāva,
+from the root bhū, “to be” understands this being as located within the world, within a
+body. The fullness of being (pūrṇa bhāvā) with its invocation of the world supplies the
+link between the materiality of the world and its transmutation,6 its absorption within the
+heart as the subjectivity of the self. It is not an accident that we see this use of the body
+elsewhere in Tantra, such as in its use of transgressive ritual, which, for instance, precisely
+incorporates impure bodily substances, since the use of impure bodily substances highlights this theme of corporeality (Sanderson 1988: 671). We also find this use of the body
+in Tantra’s assertion of a subtle body counterpart to the physical body, as well as in Utpala’s and Abhinavagupta’s frequent formulations of the divine as the “body” of consciousness, or “body” of the world. Indeed the very opening of the teachings on Recognition
+begin with “Oṃ namaḥ saṃvidvapuṣe śivāya,” “honor to Śiva, who is the body of
+consciousness.”7
+Shulman, discussing the understanding of bhāvana in 17th century poetics, notes,
+
+Page 4 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+“bhāvana has a marked personal and individual quality: each of us imagines his or
+her own world into being, not ex nihilo, of course, but on the basis of a particular
+subjective experience” (Shulman 2012: 103).
+Here he gestures toward embodiment as a component of imagination, even if he does
+not explicitly take this direction as he theorizes the imagination. For our own purposes, I
+suggest it may make sense to keep in mind cognitive science linguists George Lakoff’s and
+Mark Johnson’s proposals that metaphors, both primary and complicated secondary metaphors, and in Lakoff and Johnson’s view, even complex philosophical systems, all derive
+from embodiment. The way we see the world arises out of our bodies’ location in space,
+the way our arms and legs move, the kinds of neuronal connections the brain’s synapses
+take. Metaphor, that perennial tool of the imagination, the force that lifts thought into its
+spectacular flights of creativity, the poet’s best friend, these cognitive scientists tell us, is
+intimately connected to being in a body. With this, it should come as no surprise to find
+imagination within the context of meditation for these thoughtful medieval Indian
+thinkers as also deriving from our lived engagement with the body, our personal and subjective experiences, even if as a culture today we tend to think of meditation popularly as
+bringing us to transcendent, bodiless spaces (Lakoff and Johnson, 1999).
+
+Information and Vikalpa
+
+Those interested in contemporary cognitive science may have also noted that two features of
+vikalpa turn out to be fairly important features for cognitive science studies of the mind and
+brain. These two features, generating new objects and the capacity to address memory, are
+used to quantitatively assess and classify other species’ levels of consciousness. As Merlin
+Donald points out, we can catalogue these operational capacities along a variety of scales
+and these two capacities tend to put various species, chimpanzees for instance, solidly in the
+camp of what he dubs the “consciousness-club” (Donald 2002: 123–5). In other words, for
+contemporary cognitive science, species that display a capacity for generating new objects
+and the capacity to employ memory in cognitive processes rank more highly on a quantitative scale that hierarchically classifies species on a gradient of more or less conscious. When
+a given species demonstrates a capacity for generating new objects and employing memory
+in cognitive tasks beyond a particular threshold, that species is classified under the rubric of
+possessing consciousness. This is a way of admitting the possibility of consciousness for a
+dog or a chimpanzee, while denying it to other life forms, such as amoebas or bacteria. This
+particular criteria, a capacity to generate new objects and the capacity to employ memory in
+cognitive processes is also what some technologically-forward-looking-proponents of artificial intelligence, such as Ray Kurzweil, propose will demonstrate the eventual incursion of
+computers as conscious or sentient beings on a level comparable to humans. Yet, Utpala
+and Abhinavagupta do not think these capacities (i.e., imagination in the sense of vikalpa as
+a capacity to generate new objects and memory) to be germane to what consciousness is.
+Rather, as we saw above, Utpaladeva points to vimarśa, a self-reflective awareness as the defining element in consciousness. The imaginative generative capacity of vikalpa, in contrast,
+is rejected since, as Abhinavagupta points out, it relies on objectification, making things
+“this” “idam” instead of I. In this respect, vikalpa’s propensity to make things idam, “this,”
+tends to lead away from what is primary for consciousness, namely, subjectivity (ahantā),
+
+Page 5 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+which is consciousness in essence. Abhinavagupta at one point even glosses consciousness
+(cit) as subjectivity, literally “I-ness” (ahantā), telling us, “the word ‘consciousness’ refers to
+subjectivity, I-ness” (IPVV v.3: 273 “citāv iti ahantā”). Moreover, as we saw with the Yoga
+Sūtra 1.9 commentary, this capacity to generate new objects remains fundamentally disembodied, untethered to the world because vikalpa is fundamentally vastuśūnyo, lacking a realworld referent and not connected with any real object. Instead, bhāvana, with its links to an
+embodied being as meditation practice is more useful than vikalpa’s imaginative capacity to
+put together new things.
+So what do we make of this disjunction between what our medieval Tantric philosophers understand as the driver for consciousness, vimarśa rather than vikalpa, and
+what so many contemporary western thinkers—from futurist Ray Kurzweil to roboticist
+Hans Moravec to neuroscientist David Eagleman—think, in terms of the presence of a
+capacity to generate new objects as a way of measuring levels of consciousness? Who is
+right? Is the defining feature of consciousness a capacity to generate new objects, the
+free-floating and unruly vikalpa that Utpaladeva rejects? —even as it functions as a decisive signal for a contemporary promise of immortality in a disposable and manufactured silicon-metal body?
+Certainly, even among the choir of futurists and epiphenomenalist materialists, there
+has been a healthy skepticism and pushback against this mechanistic hopefulness, perhaps best exemplified in Daniel Dennett’s humorous “brain in a vat” thought experiment (Dennett 1981: 310–324). The larger question is: how did we get here? In a
+seminal work, N. Katherine Hayles maps our modern transformation of the body into
+its new algorithm-centered conception as information patterns (Hayles 1999). This view
+of bodies as arrangable codes winds its way into a world that can imagine the body as
+so many bits for Scotty to beam up; the information code is key and its materialization
+and de-materialization is simply a matter of a few more centuries of technology to help
+us along. This imaginative transformation of consciousness into writable and erasable
+code is what Hayles characterizes as “how information lost its body” (Hayles 1999: 5).
+In How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and
+Informaticsʼ, Hayles traces the previously described understanding of consciousness to
+post-World War II explorations into cybernetics, with the 1940s Macy conferences in
+particular playing a decisive role in forging a new paradigm for thinking about communication (Hayles 1999: 7). A consequence of the expanding role of “information”—information
+as an essentially atomistic conception of knowledge: chopped up and counted, as “bits” that
+can be quantified and rearranged—is that it sparked the successful use of computers as
+calculating machines. The power of a metaphor shows up here as the adoption of computer
+models of bits of information as a schematic for biological systems, namely, us. The computer with its binary code becomes a model for how consciousness works in the human
+brain. In this model, information is just information, bits of data that exist independently of
+the medium of communication. Transferring a song’s data from a phonograph to a cd to
+your hard disk to the “cloud” does not change the song. Like James T. Kirk, the song can
+materialize and dematerialize from the “cloud” of nowhere.
+The discovery of DNA reinforces this model of information as a replicable and, significantly, a quantifiable code. One might perhaps even wonder if DNA’s discovery is
+not in part predicated on assuming a model that quantifies information. In any case,
+what the notion of information does is to take an already widely embraced mechanistic
+
+Page 6 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+understanding of matter—matter as object and of the body as matter to be
+manipulated—and to extend this mechanistic conception of the body beyond its
+traditional provenance of flesh and bones into new, untrod territory - into the
+realm of thought and mind. The 20th century conception of information allows a
+new niche for calculation. The mechanistic view of the body that generates knowledge by chopping it up and calculating can now be applied to consciousness as
+well. Descartes’ neat bifurcation of the world into res cogitans and res extensa
+collapses and the previously sacrosanct realm of mind slides into the res extensa,
+into the category of what can be quantified.
+This understanding of consciousness as “information” has substantially influenced
+how much of contemporary cognitive science thinks in relation to the mind-body connection and this model has become a dominant, if not the primary, model for scientific
+consensus on how consciousness functions. As Hayles has pointed out (1999: 5–24), its
+historical contingency tends to be neglected, even with philosophers and scientists who
+push back against a facile mechanistic view of how consciousness operates. In any case,
+a number of contemporary cognitive scientists and philosophers of mind are beginning
+to advocate for a changed model.
+Along these lines, David Chalmers’ articulation of the problems with our current
+dominant mechanistic model of the mind has been particularly influential. In his explication of the “hard problem” of how it is that we are conscious at all, Chalmers has
+suggested that a better model might be a kind of panpsychism, which proposes an incipient consciousness to even the barest, smallest forms of matter (Chalmers 1996).
+Similarly, Thomas Nagel’s provocative clarion call against materialism, Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly
+False, opts also in its final constructive moments for a kind of panpsychism, which understands consciousness as a fundamental feature of matter (Nagel 2012). The problem
+for both Nagel and Chalmers is the difficulty in quantifying qualia—the “what’s it like
+to be a bat” (Nagel 1974).
+What these rejections of our current mechanistic model of mind and brain have in
+common is that they both point out that our current mechanistic model is flawed because it has no real way of taking into account a subjective perspective. The idea of
+qualia—what it’s like to be a person or a bat—is not derivable from any external observation. The “what’s it like to be x” ultimately devolves on a phenomenologically
+centered experience and as such is fundamentally derived from a subjective perspective. Our contemporary model of information, on the other hand, is embedded in
+third-person objectivity—this is how it brings in the scientific capacity for quantification.8 In any case, for our purposes here, these models pointing to the importance of
+qualia share with Utpaladeva and Abhinavagupta an emphasis on subjectivity. We
+can recall here Abhinavagupta’s linkage of consciousness (cit) with “I-ness” (ahantā),
+an essential subjectivity.
+Moreover, these panpsychist proposals also share with the Tantric cosmologies that
+Utpaladeva and Abhinavagupta settle on for their body-embracing Tantra an incipient
+attention to the pervasiveness of consciousness in matter. Like these contemporary
+panpsychisms, Utpala’s and Abhinavagupta’s panentheism suggest that matter is nowhere bereft of consciousness; consciousness pervades all through matter. For instance,
+quoting from a scriptural text to reinforce his point, Abhinavagupta tells us that
+
+Page 7 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+everything in the cosmos has the nature of consciousness, even that which appears unconscious. He says:
+We read in the Nareśvara Vivekaḥ9:
+Bound souls are both conscious and unconscious in form. Because of the quality of
+consciousness the great Lord is only one. With this there can’t be anything at all
+which is lacking consciousness.
+(Yat nareśvaravivekaḥ
+"aṇavaścidacidrūpāścittvād eko maheśvaraḥ |
+tena kecid acittvāt tu katham ākṣepabhūmayaḥ ||" iti)
+(IPVV v.3: 260)
+For our purposes, leaving aside the theological implications of deity with this medieval
+text’s “great Lord” (maheśvara), Abhinavagupta underwrites his non-dualism with a pervasive consciousness that forms the substrata of all that is. Like Nagel and Chalmers who
+stumble towards a panpsychism with consciousness everywhere, so also Abhinavagupta’s
+Tantra uses a pervasive consciousness as the glue that holds together a complex external
+world in relation to a mind that cognizes it. In one sense, this philosophical system operates
+by assuming a position quite far, if not nearly diametrically opposite, from our currently
+dominant mechanistic scientific model, which, as Hayles has pointed out (1999: 9–12), understands information as atomistic “bits” of knowledge that can be chopped up and counted
+and divorced from the embodied experience of a subject experiencing the world in a body.
+The practice of dividing into binaries and opposing bits for our medieval thinkers is the operation of vikalpa. As such, it is understood as a habit of mind imposed upon us by a
+fathomless, if creative, ignorance—Māyā. Meditation frees us from this unconscious compulsion and restores the deeper holistic awareness of pervading consciousness.
+This deeper holistic awareness is for us mostly counter-intuitive. Without relaxing
+into a practice of subjectivity, we will tend to miss it. Abhinavagupta explains the operative mechanism of Māyā in a typology of mis-seeing, fundamentally caused by our
+mental habits. He tells us, “and here, even though in reality pure consciousness alone
+exists, when it appears as some external object, then it is said to be the first type of
+misapprehension caused by Māyā” [Atra ca cinmātratāparamārthe ‘pi yat vedyatābhāsanam, etad ādyaṃ viparyāsaṃ māyīyam (IPVV: 280)]. We should keep in mind also
+that for Abhinavagupta and Utpaladeva, Māyā is not, as so often depicted, the maligned mirage that leads us astray, but rather a fundamentally creative power of divinity.
+Abhinavagupta tells us, “The Archetype of Māyā, is not accepted merely as the material
+cause in the body and as separate [from the Lord], but rather is considered as the inseparable Energy (śakti) of the Supreme Lord” (IPVV: 270).10
+What trips us up as we lapse into mis-seeing is our propensity to ignore our subjective and unmediated awareness in favor of a third person objectification of the world,
+which ultimately limits us. A kind of self-alienation arises from chopping up and counting our thoughts, and by extension, the world. This particular propensity to mis-see,
+Māyā’s power over us, as one might guess, operates specifically through the imagination as vikalpa, chopping up the world to make an expanding multiplication of
+external objects.11
+
+Page 8 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+Abhinavagupta and Utpala thus steer us away from vikalpa’s imaginative dissection of
+the world by shifting away from an objective appraisal of the world; instead they begin
+from a position of subjectivity. Rather than locating truth, i.e., an accurate assessment
+of the world, in objectivity, in a model that divides up the world into objects and bits,
+instead this medieval philosophical system prioritizes the perspective of subjectivity as
+foundational and more closely capable of determining what really is. In its own historical context, a key novel philosophical corrective of this Tantric school is to connect
+this foundational subjectivity to materiality—to link it to bodies.
+In a sense, one might read Abhinavagupta and Utpala in relation to Nagel and Chalmers
+as starting at opposite ends, and moving to similar middle points. Nagel and Chalmers
+both begin from a premise of matter as foundational and within an objective, third-person
+centered system; from this position, they both move to recognize a need to intimately link
+matter to a subjective mind-centered perspective. Nagel points out the incommensurability of qualia within an objectively oriented system (Nagel 1974: 437–42; Nagel 2012: 44).
+Chalmers focuses particularly on isolating the element of subjectivity that cannot be reduced to an objective perspective, what he calls the phenomenal concept of mind in contrast to the psychological (Chalmers 1996: 11–18). Abhinavagupta and Utpala, on the
+other hand, start from a mind-centered idealism found also in the Vijñānavāda Buddhism
+and Śaṅkara’s Advaita Vedanta, and then, in a Tantric move, recognize the need to encompass the materiality of the body.
+Curiously, we might suggest that a conceptual understanding of information as not
+connected to the body, as Hayles puts it, “how information lost its body,” oddly looks
+like the kinds of transcendence we find in Indian religious theories of soul that have
+the soul disconnected from the body, with the body functioning as just mere vessel. For
+instance, when the Bhagavad Gītā tells us that the soul (dehin12) casts off worn out
+bodies and takes on new ones the way we throw away old clothes (Bhagavad Gītā
+2.22), its picture of the mind-body relationship sounds strangely not so far off from
+Kurzweil’s proposal for downloading his consciousness into robot bodies, which can be
+easily tossed aside and replaced as they wear out.
+Abhinavagupta’s conception of the mind-body relation works against this model. Rather than a multiplication of disposable bodies, which in the Gītā’s Sāṃkhyan view sees
+all these body replacements as insentient matter (prakṛti), the physical body here in
+Abhinavagupta’s model is instead an outflow of a deeper subtle body (puryaṣṭaka,
+sūkṣma śarīrā), which is simply consciousness, allowing itself to condense into physical
+matter. As Abhinavagupta tells us, “In fact the categories of earth and so on are only
+just forms of the Energy of the supreme Lord.”13 So pure consciousness, which is deity,
+the supreme Lord, goes through a process of becoming increasingly dense, more distinctly outlined. An intermediary stage in the process is the subtle body, which is what
+reincarnates. This subtle body carries the template that ultimately condenses into the
+physical body. The movement is from subjectivity to objectivity, so the physical body
+arises as consciousness moves from understanding itself as “I” into understanding itself
+as the “it” of the object, the materiality of the body. The subtle body, and by extension
+the physical body that arises out of it, are never bereft of the underlying, pervasive
+panentheist consciousness (cit, samvid) that contracts itself in becoming a physical and
+a subtle body.14 Abhinavagupta’s view is panentheist rather than panpsychic, since that
+element of divine transcendent awareness never quite abandons even the most dense
+
+Page 9 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+expressions of physicality. Philosophically, this allows Abhinavagupta and Utpaladeva
+to avoid the ‘two kinds of stuff’, the intractable dualism that plagues any easy resolution
+of the mind-body problem. This problem of dualism is what both Nagel and Chalmers
+try to get around by proposing their respective panpsychisms.
+One might also venture that a key Tantric divergence from the transcendencefocused models of the ascetic traditions like Advaita Vedanta has to do precisely with
+the use of a kind of embodied imagination, bhāvana to generate a quasi-hybrid spirit
+body, the subtle body, to keep one foot, pun intended, still in the world of matter here.
+In this sense, imagination as bhāvana is key to meditative practice in part because it
+opens into this quasi-materiality. It affords a capacity to navigate into realms of spirit
+that are partially still material and at the same time of a rarefied non-corporeal materiality. While it sounds like an oxymoron to have a non-corporeal materiality, it precisely
+describes the subtle and spirit realms so prevalent across religious folk traditions (and
+contemporary Western pop culture), but absent15 in current theorizing of the
+mind-body relationship. The subtle body is still a body, still composed of a kind of
+materiality, even if this materiality is not perceptible by our normal sensory capacities. Philosophically it also functions to link the realm of mind with the realm of
+matter and body. It is an Indian Tantric response to the mind-body problem.
+
+Bhāvana
+
+If bhāvana functions to generate the subtle body, how does it work? The word bhāvana comes from the root bhū which means “to exist, to be, or to become.” Bhāvana
+typically entails an emotion-laden affect practice involving the mind and the body and
+the spirit. The English language does not really have a comparable word to match this
+idea. It is not quite the same thing as emotion, since it points to a much more deeply
+felt, in-depth experience than emotion. Specifically, bhāvana’s links to embodiment afford a lived and subjectively enriched imaginative process.
+As I mentioned above, in meditative practice, bhāvana especially is invoked as a
+way of interfacing between a material, physically present reality and a noncorporeal spirit-based reality. Bhāvana draws from our familiar solidity of physicality, familiar images and objects as a springboard for an imaginative entrance into a
+kind of space that houses intentionalities and entities lacking the kinds of bodies
+we are used to. The bhāvana one carries, an emotion-laden affect, can push in
+one direction or another the shape and quality of the subtle body, which then
+eventually shows up in the comport of the physical body. The idea here is that the
+subtle body carries with it the signatures, the traces of our various life experiences.
+The body is not just a physical object unconnected to the mind or to one’s memories. Rather the body, especially the second, subtle body, carries with it a history
+of the person’s experiences, emotional and physical. The bhāva is the mood or
+affect this embodied condensation of a life-history generates. A place can also have
+a particular mood or affect, a bhāva. And this also becomes an important term for
+art; a bhāva can describe the mood of a scene in a play.
+Bhāvana, the verbal noun indicating an action for this root word, is then a kind of
+imaginative practice to generate this affective field for the body. The Pratyabhijñā
+system proposes to use the imagination employed in bhāvana to steer this multiply
+
+Page 10 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+oriented body towards an expansive sense of subjectivity. As a practice it also tends to
+be connected across Indian traditions with bhakti, devotion, since one imagines the
+deity or teacher/guru as present through a bodily, sensory imagination. For instance,
+cultivating an affect, a particular bhāva, is key for the success of meditative practice
+more broadly in Tantric contexts, as we see, for instance, in a 16th-century text, the
+Great Blue Tantra (Bṛhannīlatantra) 1984:
+“Even if one does 100 complete rituals and 10 million recitations of the mantra, there
+will be no attainment (siddhi) if one doesn't have bhāva.” kalpakoṭijapenāpi pūjāyāḥ
+śatakena ca |na siddhirjāyate subhru yadi bhāvo na jāyate (Bṛhannīla Tantra: 4.113)
+And also:
+One can do a lot of mantra recitation, perform many fire sacrifices and engage in
+difficult and painful austerities for the body. But without bhāva, the mantras don't
+give fruit. And then why do such difficult practices?
+bahujāpāt tathā homāt kāyakleśādivistaraiḥ |na bhāvena binā devi mantravidyā
+phalapradā (Bṛhannīla Tantra: 21.24)
+So this imaginative meditative practice involves something more than a mere rote exercise
+of ritual performance; it requires also an emotional, devotional (bhakti) component as well.
+Bhāvana also references a difference in practice than what we find in classical yoga.
+Abhinavagupta links bhāvana to the classical three elements of meditation in the yogic
+tradition, dhāraṇa (concentration), dhyāna (meditation) and samādhi (deep meditative
+trance). In this case bhāvana is a separate practice added to these three well-known
+elements of Patañjali’s yoga, and it entails a kind of imaginative feeling into a state of
+being, which incorporates the physical, emotional, and subtle body. Abhinavagupta says:
+And from the force of imagining (bhāvana) and appropriating within one’s self the
+innate nature of the puruṣa (spirit, person) who is Alone, who is stated in the
+Bhagavad Gītā (2016) to be one who is free of the bondage of having to do works,
+and from the force of concentration (dhāraṇa), meditation (dhyāna), and samādhi,
+which is the culmination of that pathway, he obtains that [state of vijñānakevala16]
+and experiences its special benefits.
+[gītādy uktakārmabandhavandhyakevalapuruṣasvarūpabhāvanābalāt
+tadantādhvadhāraṇādhyānasamādhibalāt ca labhyate iti (IPVV v.3: 322)].
+So the creative imagination of bhāvana is used in conjunction with meditative practices prescribed by earlier yogic traditions and complements them. With bhāvana one
+appropriates into one’s sense of self a kind of feeling-being state that imagines what it’s
+like to be free of bondage. In some sense this recalls Nagel’s “what it’s like to be a bat”,
+but in this case, rather than bat or wasp, one uses this embodied imagination to tap
+into what it’s like to be a liberated puruṣa, someone free of karma. This feeling into
+“what it’s like to be x” also entails that this imaginative practice, carries a capacity to
+mold and transform the body, first the subtle body and then following on this, the
+
+Page 11 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+physical body. In this respect this is more than mere empathy, feeling what it’s like to
+be another, bat or person. It entails also an embodied habitus, a whole identity as being
+in the world which bhāvana addresses and attempts to transform and direct. Just as
+Nagel’s formulation entails an assumed embodiment, so also does bhāvana, and
+bhāvana in this case proposes the possibility of transforming this embodiment.
+
+The easy path
+
+I opened with Utpaladeva’s discussion of the distinction between imagination as vikalpa
+and bhāvana. In the final verse to this text Utpala describes this path of Recognition as
+the easy path (sulabho).17 What makes it easy? Our medieval thinkers lean on the
+familiarity of everyday embodiment. It puts to good use our already well-trod habits of
+being in our bodies, in our ordinary worlds. The path delineated here is meant as a
+kind of everyday, ordinary sort of sādhana, something universally available to everyone,
+not just to the monk meditating in a cave.
+Moreover, Abhinavagupta tells us that the result of this particular path, which focuses
+on one’s already, always near sense of “I” is able to remove delusion (mohāpasāraṇa
+phalaṃ). So, Abhinava says, he “points out this teaching as a demonstration of everyday sādhana, everyday practice (vyavahārasādhana).”18 The easy practice that anyone
+can do any time is simply to pay attention to what is already always present, one’s own
+natural subjectivity. The word used here, as I note, is “vyavahārasādhana,” hinting towards a kind of practice that involves worldly transactions. To appreciate the radical
+gesture here we should keep in mind that the idea of vyavahāra, daily life, gets short
+shrift elsewhere in Indian prescriptions for mokṣa, enlightenment. For instance, in the
+Buddhist Nāgārjuna’s verses on the middle way (Garfield 1995), and also with Śaṅkara’s
+adoption of this Buddhist conceptual schema of two realities, vyavahāra signifies the
+lower, unavoidable entanglements of worldly life. In other words, it points to embodiment. It references the necessity for falling in line with the world in a practical way,
+adopting the dualities of good and bad, pain and pleasure, just to get by with our
+bodies. It insinuates a kind of fall from grace out of the highest understanding of
+reality, into the unfortunate messy reality of stuff here. All tinged with a sort of
+commercialism.
+Now, despite the authors’ assurances of its ease as a spiritual practice, we should
+note, this practice of Recognition has not so far been so readily adopted by 21st century
+Westerners, despite the stereotype of commercialization and ease attached to contemporary new-age spiritual pursuits. Rather, the trends we see in terms of meditation
+practices in the US related to Hinduism derive in large part from the very popular network of yoga studios, devoted to haṭha yoga, a number of which are now incorporating
+attention to meditation practices as well. No doubt there have been numerous voices of
+complaint regarding the commercialization of yoga, the tendency to make it a little too
+easy and this-worldly (Jain 2014).
+In this respect, however, one could also make a cogent case arguing that the commercialism thrives at least in part precisely because of a dualist dialectic that yoga in the
+West espouses. It may be no accident our culture can sustain both a futurist’s promise
+of downloading consciousness into a mechanical robot-computer body and a yoga that
+speaks about consciousness that, following the Gītā, takes birth in new bodies like so
+
+Page 12 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+many clothes. Of course the irony of this not lost in a consumerist culture with a proliferation of pricey designer clothes designed especially for attaining transcendent states
+in yoga class.19
+The purveyors of yoga in the West have leaned on a model of yoga as transcendence
+instead of this “easy path” of embodiment that Utpaladeva gives, perhaps precisely
+because of a still embedded incommensurable split between mind and body in the
+contemporary West. The transcendent, bodiless spaces of meditation conceived in our
+current popular imagination are of a piece with our current conceptualization of
+consciousness as information—dissectable, atomized and ready to beam us up.
+
+Endnotes
+1
+I want to thank Chris Miller for suggesting this explicit link between the mindbody problem and the differences between bhāvana and vikalpa. I also want to thank
+the anonymous reviewer for their thoughtful comments.
+2
+See also Sthaneshwar Timalsina, Tantric Visual Culture: A Cognitive Approach.
+New York: Routledge, 2015.
+3
+This representation, strikingly similar to some of Derrida’s conceptualizations of
+difference is one that the Pratyabhijñā writers focus on extensively in the formulation
+of a unifying self that persists independently of memory.
+4
+IPVV vol.3 p. 257: “bhāvanādy upayogitayā upadeśena…” Bhāvana has this meaning
+again at IPVV vol.3 p. 273 (Ahmed 2010).
+5
+Here, by “habitus” I suggest the kind of inarticulate, affectively embraced mode of
+being that we find, for instance, in Sara Ahmed’s discussion of happiness as a kind of
+affective being in the world, in her “Happy Objects.”
+6
+Note the cvi compound in hṛdayaṅgamīkṛtā.
+7
+IPVimarśinī p.1.Also, IPVV p.vol 3, p.257: “Consciousness, which has a form
+possessing attributes, with a body made of the energy of knowledge” “jñānaśaktivapuṣā
+dharmirūpaḥ.” Elsewhere, just by way of a few more instances, but not thorough, see IPVV
+vol. 1, p.7, the opening verse of the IPVV Kriyādhikāra, vol. 3, p.1, to mention just a few. I
+argue as well, but not in the short space of this paper, that a key component of Utpala’s and
+Abhinava’s philosophy, freedom, “svātantrya” fundamentally hinges upon inclusion of the
+body through the incorporation of kriyā, action as a component of knowledge, jñāna.
+8
+Or, one might see this as merely a veneer of objectivity.
+9
+This lost text should not be confused with the dualist-oriented āgama, Nareśvara
+Parīkṣā.
+10
+IPVV: 270: “Māyātattvaṃ dehe na upādānakāraṇamātratvena pṛthaktvena saṃmatam, api tu parameśvaraśaktitayā.”
+11
+Abhinavagupta describes the process in relation to memory in Ipvv vol. 3, p. 348.
+He says: “For the sake of addressing the idea that dualistic thinking in this way precedes
+remembering, he now will say, ‘remembering occurs within dualistic thinking’. Andin
+dualistic thinking the Self also falls to the level of intellect. Consequently, the object becomes a separate creation [from the Self] and the same thing occurs in relation to happiness, etc. So, because dualistic thinking occurs first, [the object] is remembered as
+separate, just as it was initially experienced, [as a separate object].”—“smaraṇasya
+abhidhātum adhunā eva vakṣyati "vikalpyamāne smaryamāṇa" iti. Vikalpane ca ātmā api
+buddhibhūmipatitaḥ pṛthak sṛṣṭa eva vedyas tādṛśam eva ca sukhādi, iti pṛthagasya
+
+Page 13 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+smaraṇaṃ vikalpanapūrvatvāt yathānubhavam eveti.” Note here that the word Abhinavagupta uses for what I translate as “dualistic thinking” is the same “vikalpa” discussed
+earlier as an imagination that chops up the world.
+12
+Dehin is, literally, the one who possesses a body.
+13
+IPVV p.270: Tathā hi mṛdādiḥ padārthaḥ parameśvaraśaktirūpa eva.”
+14
+Abhinavagupta concludes the previous quote with, “Hence in this way all beings
+have Śiva as their inherent nature,” IPVV 270: “Ata eva sarvabhāvānāṃ śivaḥ svabhāvas,”
+pointing back to the supreme Lord, Śiva who is pure consciousness as always present.
+15
+Repressed? Jeff Kripal (2016) suggests with Whitley Strieber in The Super
+Natural: A New Vision of the Unexplained (New York: Tarcher Penguin 2016) that our
+current conceptions of the mind-body relationship ignores an overwhelming accumulation of evidence suggesting other forms of non-corporeal materiality.
+16
+Vijñānakevala is a particular state, also referencing a level of self-awareness that
+some entities have—but not most of us humans who are embodied here. In this state, the
+entity or person who reaches this state demonstrates a species of enlightenment that the
+Gītā encourages, where the person has no sense of duality and no sense of a distinction
+between self and other. For Abhinavagupta’s system this particular state does not have a
+capacity to effect things in the world, which makes it not less desirable.
+17
+IP vṛtti 4.18: “ayatna siddhir,” “attainment without effort,” and Utpala adds in his
+auto commentary, “sulabho,” “easy.”
+18
+IPVV vol.1 p.20: śāstrakāraḥ iti, parapratipādanopāyarūpaṃmohāpasāraṇaphalaṃ
+svasaṃvitsiddhe svaprakāśe'pi pramātṛtattve maheśvare smāryate sa paraṃ paro dṛṣṭasādharmyāt |iti nyāyena vyavahārasādhanaṃ pramāṇaṃ śāstrarūpaṃ ya upadiśati. See also
+Torella discussing this p. 173 IPvr and this phrasing as well on IPVV vol.1, p.39.
+19
+Not to mention the irony of designer clothes designed to wear out quickly to fuel
+the market for more clothes.
+Competing interests
+The author declares that he/she has no competing interests.
+Received: 31 August 2016 Accepted: 7 December 2016
+
+References
+Abhinavagupta. Īśvara Pratyabhijñā Vivṛti Vimarśinī, (IPVV) 3 vols. Edited by Paṇḍit Madhusudan Kaul Shāstrī.
+Delhi: Akay Reprints, 1985
+Ahmed, Sara. “Happy Objects” in Melissa Gregg and Gregory Seigworth, eds., The Affect Theory Reader. Durham, North
+Carolina: Duke University Press. 2010
+Bhagavad Gītā. 2016. Text based on the BORI edition of the Mahābhārata. On the basis of the text entered by Muneo
+Tokunaga et al., revised by John Smith, Cambridge, Revised GRETIL version. url: http://gretil.sub.uni-goettingen.de/
+gretil/1_sanskr/2_epic/mbh/ext/bhgce__u.htm Accessed: 15 June 16.
+Brhannīla Tantra. Edited by Madhusudhana Kaul. Delhi: Butala and Co. 1984
+Chalmers, David. 1996. The conscious mind: in search of a fundamental theory. New York: Oxford University Press.
+Dennett, Daniel. 1981. Brainstorms: philosophical essays on mind and psychology. Boston: MIT Press.
+Donald, Merlin. 2002. A mind So rare: the evolution of human consciousness. New York: W.W. Norton.
+Garfield, Jay L. 1995. The fundamental wisdom of the middle Way: Nagarjuna's mulamadhyamakakarika, translation and
+commentary. New York: Oxford University Press.
+Hayles, N. Katherine. 1999. How We became posthuman: virtual bodies in cybernetics, literature and informatics.
+Chicago: University of Chicago Press.
+Jain, Andrea. 2014. Selling yoga: from counter-culture to Pop culture. New York: Oxford University Press.
+Kripal, Jeffrey, and Whitley Strieber. 2016. The super natural: a New vision of the unexplained. New York: Tarcher Penguin.
+Lakoff, George, and Mark Johnson. 1999. Philosophy in the flesh: the embodied mind and its challenge to western thought.
+New York: Basic Books.
+Nagel, Thomas. 2012. Mind and cosmos: Why the materialist Neo-darwinian conception of nature is almost certainly false.
+New York: Oxford University Press.
+Nagel, Thomas. 1974. What is it like to Be a Bat?”. Philosophical Review 83(4): 435–450.
+
+Page 14 of 15
+
+Biernacki International Journal of Dharma Studies (2017) 5:4
+
+Page 15 of 15
+
+Patanjali: Yogasutra with Bhasya (=Pātañjalayogaśāstra) (PYS) Based on the edition by Kāśinātha Śāstrī Āgāśe:
+Vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni Pātañjalayogasūtrāṇi, tathā
+bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni pātañjalayogasūtrāṇi. sūtrapāṭhasūtravarṇānukramasūcībhyāṃ ca
+sanāthīkṛtāni… Pune : Ānandāśramamudraṇālaye 1904 (Ānandāśrama Sanskrit Series, 47). Input and proof reading
+by Philipp A. Maas. Url: http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/yoga/patyogbu.htm.
+Access dates 15 Oct 2016 through 2 Nov 2016
+Sanderson, Alexis. “Śaivism and the Tantric Traditions,” in The World’s Religions, ed. Stewart Sutherland et al. London:
+Routledge, 1988
+Shulman, David. 2012. More than real: a history of the imagination in south India. Boston: Harvard University Press.
+Timalsina, Sthaneshwar. 2015a. Language of images: visualization and meaning in tantras, Asian thought and culture, 71.
+New York: Peter Lang.
+Timalsina, Sthaneshwar. 2015b. Tantric visual culture: a cognitive approach. New York: Routledge.
+Torella, Rafaele. 2002. The Īśvarapratyabhijñākārikā of Utpaladeva with the Author’s vṛtti. Critial Edition and annotated
+translation. Delhi: Motilal Banarsidass.
+Utpaladeva, Īśvarapratyabhijñākārikā with vṛtti. Based on the edition by Madhusudan Kaul Shastri, Srinagar 1921.
+(Kashmir Series of Texts and Studies ; 34). Revised according to the edition by Raffaele Torella, Roma 1994 (Serie
+Orientale Roma ; 71). In Gottingen Register of Electronic Texts in Indian Languages, input by Somadeva Vasudeva.
+Url: http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/utipk_au.htm. Accessed 10 July 16.
+
+Submit your manuscript to a
+journal and beneﬁt from:
+7 Convenient online submission
+7 Rigorous peer review
+7 Immediate publication on acceptance
+7 Open access: articles freely available online
+7 High visibility within the field
+7 Retaining the copyright to your article
+
+Submit your next manuscript at 7 springeropen.com
+
+

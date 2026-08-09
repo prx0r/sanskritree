@@ -1,0 +1,1058 @@
+Harmonic Society
+
+Harmonic Society: 8 Models of Art for a Scientific Paradigm
+of Aesthetic Qualia
+Andrés Gómez Emilsson
+Qualia Research Institute
+San Francisco, CA
+algekalipso@gmail.com
+
+Contents
+1 Introduction
+
+2
+
+2 The 8 Models
+
+3
+
+3 Semantic Deflation
+
+4
+
+4 Cool Kid Theory
+
+5
+
+5 Schelling Point Creation
+
+6
+
+6 Creating Sacred Experiences
+
+8
+
+7 State-Space Exploration
+
+12
+
+8 Energy Parameter Modulation
+
+15
+
+9 Valence Modulation
+
+20
+
+10 Affective Language: Harmonic Society
+
+23
+
+11 Conclusion
+
+25
+
+Glossary
+
+26
+
+1
+
+Gómez Emilsson
+
+Contemporary writing about art is in exactly the same place as writing about
+nature was before Darwin came along. Before Darwin there was no single intellectual matrix upon which to fix all of these impressions and ideas. There was
+no way of organizing all of that information. And this seems to me to be the
+situation we are in with the arts, as well
+—Brian Eno [19]
+
+Abstract
+We start by assuming that there are real stakes in art. This motivates the analysis of this
+subject matter, and it focuses where we place our gaze. We examine a total of eight models
+for “what art might be about”, divided into two groups. The first group of four are some
+of the most compelling contemporary models, which derive their strength from fields such
+as philosophy of language, economics, evolutionary psychology, and anthropology. These
+models are: (1) art as a word only definable in a family resemblance way with no necessary
+or sufficient features, (2) art as social signaling of desirable genetic characteristics, (3) art
+as Schelling point creation, and (4) art as the cultivation of sacred experiences. These four
+models, however enlightening, nonetheless only account for what David Marr might describe
+as the computational level of abstraction while leaving the algorithmic and implementation
+levels of abstraction unexamined. They explain what art is about in terms of why it exists
+and what its coarse effects are, but not the nature of its internal representations or its
+implementation. Hence we propose a second group of four models in order to get a “fullstack” view of art. These models are: (5) art as a tool for exploring the state-space of
+consciousness, (6) art as a method for changing the energy parameter of experience, (7) art
+as activities that induce neuronal annealing (which implements novel valence modulation,
+i.e., surprising pain/pleasure effects), and (8) art as an early prototype of a future affective
+language that will allow diverse states of consciousness to make sense of each other. These
+frameworks address how art interfaces with consciousness and how its key valuable features
+might be implemented neurologically. We conclude with a brief look at how embracing
+these new paradigms could, in principle, lead to the creation of a society free from suffering
+and interpersonal misunderstanding. Such a society, aka. Harmonic Society, would be
+designed with the effect of guaranteeing positive valence interactions using principles from
+a post-Galilean science of consciousness.
+
+1. Introduction
+We shall start this essay by making the assumption that there are real and substantial
+stakes when it comes to art. Not all of my readers will agree with this point, and those who
+do might in fact secretly worry that they are overvaluing art for selfish reasons. I come here
+to suggest that there could be very real and substantial stakes in art, and that to realize
+this you do not need to buy into sentimentalism, fanaticism, wishful thinking, or traditionalist attitudes. You could start with the sheer amount of human attention that is devoted
+to art in one way or another. Art seems to make a lot of people do things, and do them
+with a lot of their energy and focus. Indeed, many people point at their intimations with
+art as personally defining moments. Some say their best self is expressed in their creation,
+consumption, or participation in art. So what is all of this fuss about?
+Alas, most things of grand significance have been analyzed by countless people. The sheer
+magnitude of certain human activity is not a justification for caring about it at the margin,
+2
+
+Harmonic Society
+
+considering the often corresponding sheer magnitude of other people already analyzing and
+scientifically probing the field. That is, of course, unless you have a reason to think that
+you have something that everyone else has been missing all this time. And this is the case
+for you and me right now. The new perspectives on art on this essay come from thinking
+very deeply about consciousness, qualia, and the possible implementations of the pleasurepain axis, aka. valence. We will see how investigating these questions cashes out in novel
+insights about art. In turn, these models, as well as the empirically testable predictions
+they generate, might have the ability to reframe what is going on with art in a way that
+allows us to predict how and when it will bring about good and desirable effects.
+
+2. The 8 Models
+1. Art as family resemblance (Semantic Deflation)
+2. Art as Signaling (Cool Kids Kid Theory)
+3. Art as Schelling-point creation (a few Hipster-theoretical considerations)
+4. Art as cultivating sacred experiences (self-transcendence and highest values)
+5. Art as exploring the state-space of consciousness
+6. Art as something that mess with the energy parameter of your mind
+7. Art as puzzling valence effects (emotional salience and annealing as key ingredients)
+8. Art as a system of affective communication: a protolanguage to communicate information about worthwhile qualia (which culminates in Harmonic Society)
+Models 1 through 4 are already present in the memetic ecosystem of today. They focus
+on external aspects of art, such as why it reproduces and how it impacts social behavior.
+From the point of view of Marr’s levels of analysis, these four models focus on the behavioral/computational level of analysis1 . Namely, what art looks like from the outside, and
+how it reproduces. Models 5 through 8 are novel perspectives that arise out of examining
+artistic experiences in light of Marr’s algorithmic and implementation-level accounts of consciousness. That is, how the internal information-processing and implementational features
+of brains give rise to art. In turn, these four models give rise to a new understanding for
+when art does or does not do its job.
+1. Marr’s levels of analysis is a framework to analyze information-processing systems. First we have the
+computational level, which describes what the system does from a third-person point of view. This level
+is concerned with questions like what the system is capable of, and how quickly it can succeed at it.
+Second is the algorithmic level of analysis, which focuses on the internal representations and operations
+used to transform the inputs into the outputs. And third is the implementation level of analysis, which
+is concerned with the physical realization of the algorithms described in the second level.
+
+3
+
+Gómez Emilsson
+
+3. Semantic Deflation
+This model says that asking “what is art?” is, more often than not, an utterly confused
+question. Perhaps in antiquity it would make sense to talk about the essence of art, expecting there to be a set of necessary and sufficient conditions for something to be art.
+According to the semantic deflation model of art, starting out with the expectation of
+finding a crisp set of requirements for something to be art is starting off on the wrong
+foot, for believing that there is an essence of art is to simply not pay attention to the large
+set of inconsistent use cases for that word, which challenges the existence of such an essence.
+The semantic deflation model is supported by key insights from 20th Century philosophy of
+language, such as found in the works of Russell, Frege, Carnap, Quine, and especially those
+of the late Wittgenstein. Of particular relevance when it comes to defining art we could
+point at Wittgenstein’s concept of family resemblance. Developed in his book Philosophical
+Investigations, the concept of family resemblance posits that many words which seem at
+first to point at something with a core essence are, in fact, pointing to referents which have
+overlapping similarities but no universally shared attributes.
+Like the concept of a game, which refers to activities as diverse as checkers and cellular
+automata, and which cannot be easily defined in terms of, e.g., point systems, physical
+movement, number of players, etc., we likewise cannot expect art to be definable in terms
+of media, intent, social effects, or craft. All we can aspire to is to identify common and
+characteristic features.
+According to this view, the models of art that take objective beauty seriously on Platonic
+or traditionalist grounds are fundamentally misguided. Callbacks to retraditionalize society
+to preserve its past–more genuine–aesthetics are perceived as parodies of themselves, trying to undo an intrinsically irreversible process of cultural learning. Nowadays few people
+seriously believe that art should be conceived of as a tool exclusively for the glorification of
+traditional values and religious symbolism. It is also not fashionable to think of art in sincere non-ironic ways. Those who wish to earnestly engage with art must remind themselves
+that the days in which its meaning could be grounded on universally agreed definitions is
+gone.
+Although sobering and clarifying, I argue that this view leaves a lot of value on the table.
+Sure, art has no common essence, but that does not mean that all of the uses of the word
+are pointing at things of equal value. Semantic deflation does not provide us with guidance
+for identifying and promoting good art. Indeed, as Wittgenstein might put it, “[p]hilosophy
+may in no way interfere with the actual use of language, it can in the end only describe it.
+For it cannot give it any foundation either. It leaves everything as it is.” [33]
+Interestingly, the semantic deflation model of art can itself be conceived of as an aesthetic.
+This aesthetic rewards those who can help others transcend narrow conceptions of what art
+is. Exemplary movements like Dadaism and Pop Art could be thought of as pushing the
+aesthetic of semantic deflation to the limit.
+4
+
+Harmonic Society
+
+“Art is what you can get away with.” –Andy Warhol.
+But what if there is something worth preserving, reifying, and defining clearly in art?
+Semantic deflation should perhaps be thought of as a first step in figuring out what is
+valuable about art, rather than a final destination. To move beyond it, one should avoid
+reviving a naive essentialist view of art, and instead identify conceptual focal points that
+genuinely enrich our conception of art. Rather than destroying preconceptions, we could
+instead refactor, discover, and build new and enlightened ones. Transcending absolutist
+deflationary views of art is indeed more appealing when there is an alternative in sight that
+is both better and more real than what you get by merely deconstructing and breaking
+down naive views. And this is what we will attempt to do as we move on to other models
+of art.
+
+4. Cool Kid Theory
+In his book The Mating Mind, Geoffrey Miller discusses art in light of evolutionary psychology. In this view, art, rather than being a thing, is a culturally sanctioned activity devised
+to allow people to display their genetic fitness, by showing off Nerd features of their phenotypes. Art is, in this view, at its core, an outlet for courtship. Incredible performances
+like those of Liszt and Rachmaninoff are not just for the pleasure of music. The incredible
+difficulty of performing the musical compositions is itself the show. The difficulty is not a
+side-effect of discovering new soundscape frontiers that produce blissful and extraordinary
+experiences to degrees that couldn’t be possible without the difficulty of execution. Rather,
+the difficulty of performing the musical pieces is part and parcel of what makes them so
+extraordinary. They are indeed erotic displays of fitness traits (cf. Lisztomania [5]) crafted
+to cause an impression in fertile ground.
+Indeed, we are constructed in such a way that we can emotionally hack and be hacked by
+others to assess each others’ suitability as potential family, friends, and neighbors. Unfakeable fitness displays typically require prodigious amounts of waste. As Geoffrey puts it:
+“Every sexual ornament in every sexually reproducing species could be viewed as a different style of waste” [28]. [16] Only extremely fit organisms can afford to spend resources on
+non-survival tasks.
+Minimax art strategies, too, in this light, is a sort of collective activity of systematic waste.
+Keeping up with the latest trends shows that you have a lot of free time (which, contrary
+to popular belief, is perceived as more sexy than the alternative). Only the wealthy, disciplined, or well-organized can manage to sustain energy-and time-consuming hobbies for
+years and years.
+This theory of art has a problem, though, which is that on its own it does not explain art as
+a cultural institution. We could very well imagine that aesthetics-based displays of genetic
+fitness would be circumscribed to individual efforts but in practice we see groups of people
+coming together to work out the potentialities, possibilities, limits, and implications of particular aesthetics. We don’t only generate extraordinarily wasteful works of art ourselves,
+5
+
+Gómez Emilsson
+
+but do so contextually within art movements and aesthetic languages. Why is this?
+I believe there is a layer of organization above individual signaling displays. To fully grasp
+it, we need to talk about what I have named “Cool Kid Theory”. This theory postulates
+that above-average and particularly well-rounded individuals, aka. Cool Kids, figure out
+ways of enticing others to show their peacock feathers, so to speak. Being a Cool Kid is
+not to excel oneself, but rather, to have the precise kind of L1/L2 normalization that gives
+others the urge to show how they can improve upon your craft. At its extreme, a Cool
+Kid commands a group of people who practice a particular type of craft, which ultimately
+becomes an artistic gang. If you are a Cool Kid you can decide who is cool and who is not
+by choosing what challenges to measure the performance of people with.
+Who wants to be a Cool Kid? The answer is, for the most part, anyone who can get away
+with it. It is so evolutionarily adaptive to be a Cool Kid that we have a number of psychological programs that can be triggered with a sequence of social cues that can make almost
+anyone into a Cool Kid.
+Part and parcel of being a Cool Kid is to know how to induce the fear of missing out in
+others. It is about detecting when a particular challenge is headed towards an imminent
+dead end and course-correct to keep people engaged.
+Here is an example. If you ever encounter a group of dancers in public transportation, you
+will notice that there is a Cool Kid who binds them together. The Cool Kid selects for
+people who have unique talents, and collectively accumulates a solidly impressive bag of
+tricks. Everyone in the group takes turns showing their best trick. For instance, the group
+might have someone who sings, someone who plays an instrument, and someone who owns
+a subwoofer (sometimes that’s all it takes). You might also see that there is a guy who can
+do the weird elbow twist thingy, the one who can break dance and do nine spins on his
+back, the one who can beat-box to the tune of the song, and the one who moonwalks while
+playing a harmonica. An effective Cool Kid is one who can corral all of these specialists
+and be the artistic glue who controls the overarching aesthetic. And this aesthetic is what
+defines a set of challenges used for impressive fitness displays.
+The art world can be thus conceived of as a large super-cluster of Cool Kid gangs cornering
+the economy of attention. The competitive nature of Cool Kids is sure to produce a constant stream of novel stimuli, endlessly varied trends and fashions, as well as competitive
+and indeed sometimes even virulent attacks between aesthetics. For he who controls the
+aesthetic, controls your ability to be popular.
+
+5. Schelling Point Creation
+When somebody complains, always be careful and try to find, identify, what
+type of additional pleasure, satisfaction, does the act of complaining itself bring
+to you. We all, when we complain, almost always, find a perverse satisfaction
+in the act of complaining itself.
+6
+
+Harmonic Society
+
+–Slavoj Zizek [34]
+I certainly feel compelled to complain about the tyranny of genetic fitness signaling in art.
+That said, people who excel at games who are not played by many people will have an
+incentive to undermine the popular games and frame their favorite game as somehow superior. Why are Hipsters and Nerds allied against Cool Kids? Because the Cool Kids can
+decide on a whim that the games the Hipsters and Nerds play are uncool and not worthy
+of public fitness displays. Even if they happen to be of superb quality!
+In many cases, the exploration of uncommon games can give rise to major innovations, so
+there is a utilitarian reason to promote some degree of exploration outside of the aesthetics
+that most people can enjoy.
+This line of reasoning gives rise to a new interpretation for what a Hipster is. To be a
+Hipster is not, as popularly believed, to merely desire the uncommonly desired. The whole
+thrust of hipsterism is a promise of superior quality in at least some actually relevant area,
+even at the cost of severely reduced quality across the board. (Using an analogy from the
+field of statistics: Cool Kids favor L2 normalization2 as it signal-boosts people who are wellrounded, whereas Hipsters and Nerds favor L1 normalization which improves the outlook
+for imbalanced minimax strategies).
+Many people believe that all Hipsters are Cool Kids. Many believe something slightly
+weaker, which is that to be a Cool Kid you also need to be a Hipster. But in fact this
+is absolutely not the case, and it is a category error to think otherwise. Cool Kids and
+Hipsters were correlated when being Hipster had mainstream appeal. That is, Hipsters
+were cool when Cool Kids used to challenge people to show how Hipster they could be. But
+this should not be in any way an indication that Hipster aesthetics are intrinsically related
+to Cool Kids, for the same reason that, e.g., Country Music, Normcore, or Bolshevik aesthetics are not intrinsically invented by Cool Kids. Hipsters are individual contributors to
+the frontier of culture. Indeed, it is rare to find a place that produces genuinely innovative
+content while also being saturated with Cool Kids.
+Cool Kids, in large quantities, eventually form cliques that become voting blocs. These
+frustrate innovation by fully orthogonalizing what is socially cool from what is socially
+valuable. A Hipster under those circumstances tends to feel stifled. Cool Kids tend to be
+above-average in openness to experience, but they are rarely in the top 2% of openness to
+experience–more like one standard deviation above the mean. This is because they need to
+be open enough to look at new trends but also sufficiently closed to be able to relate to the
+bulk of the consumers of new trends. Genuine Hipsters are usually above the 98th percentile
+of openness to experience. In turn, the sexual attraction of some people is focused on this
+2. L1 and L2 normalization are ways of talking about how to describe the distance between points in a
+given space. L2 takes into account the mean squared difference along each dimension, whereas L1 simply
+uses the average difference in each dimension. If one is thinking about an ideal art piece within a given
+aesthetic, then using L2 would penalize very heavily exemplars that deviate from the archetype and
+generally favor well-roundedness, whereas an L1 normalization would accept large differences from the
+ideal along several dimensions as long as at least a fraction of the dimensions are very good.
+
+7
+
+Gómez Emilsson
+
+particular trait, and Hipsters compete at signaling it to the highest extent possible. In the
+process, they discover interesting things. But this does not mean they can sustainably stay
+cool in the eyes of the average person.
+High openness to experience allows you to appreciate minimax players. It allows you to
+accept artists who are ridiculously good at making a specific point but lack talent in every
+other respect. Ultimately, the innovations produced by these extreme artistic explorations
+sometimes radically transform social reality.
+In Ads Don’t Work That Way, Kevin Simler discusses how advertisement’s power is not
+through direct persuasion, but through shaping the landscape of cultural meaning [31]. You
+don’t bring a 6-pack of Coronas to a party because the ads have subconsciously conditioned
+you to think that this beer in particular is more likely to make you and your friends feel like
+you are a chill group. Rather, you buy it in order to signal the fact that you see yourself as
+a chill person, and to bring that mindset to those who see you bring the product. It is by
+virtue of common knowledge that ads can do this; if every single person received a different
+custom-made AI-powered neural net ad, ads would stop having the function of shaping the
+landscape of cultural meaning, and perhaps lose a significant portion of their power.
+Art, likewise, can also change the landscape of cultural meaning. In contrast to ads,
+art might perhaps be described as high-bandwidth low-distribution as opposed to highdistribution low-bandwidth. And to the extent that Hipsters discover new aesthetics, they
+are a big source of novel cultural Schelling points for subcultures to form around.
+
+6. Creating Sacred Experiences
+Art could be the next religion. —Alex Grey
+Below you will find an example of a piece that aims to create a sacred experience, which
+I recently encountered at the Santa Cruz Regional Burn. It is called Mementomorium [3],
+and it is a mixture of a sensory-deprivation-chamber and a symbolic self-burial experience
+crafted in order to simulate your own death and to attempt to see your life in its finitude.
+This art piece plays with one’s experience of time and sense of mortality, and helps you cut
+through delusion in order to re-interpret one’s time on earth as finite and priceless.
+Why is the below art? Cool Kids might find this too morbid, and Hipsters are likely to see
+it as too real. So what is the thrust behind artistic visions like the above?
+Sacred experiences are an aspect of social and phenomenological reality. Art, it turns out,
+is deeply entwined with such sacredness. Now, much has been said about the sublime in
+relation to art. What else is there to say?
+Life isn’t about finding yourself. Life is about creating yourself.
+Bernard Shaw
+
+—George
+
+Contrary to the three previous models, here the culminating emotion that is sought is not
+the vindication of self, but rather, the elicitation of a sense of self-transcendence. This 4th
+8
+
+Harmonic Society
+
+model would say that art creates some of the most valuable experiences there are, because
+it makes us experience a sense of transcendence. And relative to the previous three models,
+this model is the first to consider art as involved in the quest of finding the ultimate answer,
+as opposed to merely providing incremental benefits to humanity.
+Cutting to the chase, let us jump right into a list of possible intentional sources for phenomenal sacredness (i.e., the possible targets of art according to this model). From John
+Lilly’s “Simulations of God”, below you find the most common types of self-transcendence
+catalogued [27]:
+1. God As the Beginning
+2. I Am God
+3. God Out There
+4. God As Him/Her/It
+5. God As The Group
+6. God As Orgasm and Sex
+7. God As Death
+8. God As Drugs
+9. God As the Body
+10. God As Money
+11. God As Righteous Wrath
+12. God As Compassion
+13. God As War
+9
+
+Gómez Emilsson
+
+14. God As Science
+15. God As Mystery
+16. God As the Belief, the Simulation, the Model
+17. God As the Computer
+18. God Simulating Himself
+19. God As Consciousness-without-an-Object
+20. God As Humor
+21. God As Superspace, the Ultimate Collapse into the Black Hole, the End.
+22. The Ultimate Simulation
+23. God As the Diad
+According to John Lilly’s view, each of us lives in a world simulation (whether this is generated by our brains or by a higher power is something Lilly himself went back and forth
+on for decades). He makes the case that our world simulation is run by a hierarchical chain
+of programs and meta-programs. One’s locus of control3 is what he calls the Self MetaProgrammer, which is roughly equivalent to the ego (or at least a healthy one with high
+levels of self-control). Implicitly, however, the Self Meta-Programmer is subordinated to
+something higher, something he calls the Supra-Self Meta-Programmer (SSMP for short;
+see: “Programming and Metaprogramming in the Human Biocomputer”).4 Our SSMPs
+are responsible for our notions of a higher power, higher values, and higher purpose. One’s
+religion is determined by the SSMPs to which one is subordinated. In Lilly’s view, it is one’s
+SSMPs that give rise to one’s understanding of God. And as the list above shows, there are
+many possible versions of God. That is, there are many possible meta-programmings for
+what the highest power, value, and purpose might be. In light of this, art as the pursuit of
+sacred experiences would not be restricted to a particular view of God. Rather, it encapsulates every possible notion of God–where the art that hits hardest is the art that resonates
+the most with one’s implicit conception of God.
+A parallel here could be made with adult developmental models (such as those of Wilber’s
+Integral Theory [32], Kegan’s Evolving Self [23], Common’s and Richard’s Model of Hierarchical Complexity [9], etc.). At each level of development, one’s conception of the highest
+3. One’s locus of control is the part of our experience that comes with a felt sense of agency. That is, what
+feels like is in charge of determining the direction of one’s attention, intention, and behavior. Typically,
+a person’s locus of control is tied to their sense of self–or ego–but this is not true in the general case
+(as demonstrated by the shattered locus of control present in schizophrenia, and absent locus of control
+during states of depersonalization and derealization).
+4. According to John Lilly, a Supraself-Metaprogramer is an agent outside our locus of control that
+runs below our threshold of awareness and which ‘codes’ Supraself-Metaprograms. In turn, SupraselfMetaprograms are the mental “programs” that determine our sense of the highest values, which we
+typically inherit from our culture, influence from others, implicit historical beliefs, and so on.
+
+10
+
+Harmonic Society
+
+value transcends and includes those of the developmental stages below. Let’s take for example Integral Theory’s levels 4, 5, and 6. Level 4, aka. “Amber” (ethno- or nation-centric,
+values rules, discipline, faith in transcendent God or preordained high- er order, socially
+conservative, etc.) would derive a sense of sacredness from religious imagery, a nationalist
+spirit, and art that fosters traditional values. Level 5, aka. “Orange” (values science and
+rationality, democracy, individualism, materialism, entrepreneurship, etc.) gets off on experiences that bring about a reductionist scientific world picture compatible with self-reliance
+(“the world is made of atoms, and this, rather than being tragic, is an opportunity to have
+fine-grained control over the elements”). And Level 6, aka. “Green” (values pluralism and
+equality, multiple points of view, no true reality, embraces paradox, considers civil rights
+and environmentalism to be the frontier of culture, etc.) would find art projects that highlight the multiplicity of perspectives to be key to a sense of the sacred.5 In this framework
+we can explain people’s negative reaction to art as a misfit between the developmental level
+of the target audience and the developmental level of the person who gets to experience it.
+Art targeted to people in a higher level of development than oneself will be perceived as
+heretical (e.g., postmodern art from the point of view of a traditionalist monotheist), while
+art targeted to people on a lower level of development than oneself will be perceived as
+childish or naive e.g., traditional religious iconography from the point of view of a scientific
+rationalist humanist). We could thus predict that if there are even higher developmental
+levels above ours, we will most likely think of the art targeted to them as deeply troubling.
+The core quality of the experience is the feeling and recognition that oneness is
+truth. —Martin Ball on 5-MeO-DMT
+At the upper levels of development, one could argue, we find sacredness based on concepts
+like pure consciousness, emptiness, and the clear white light of the void, etc. Famously,
+psychedelics, and in particular 5-MeO-DMT, seem to trigger direct experiences of this type
+of sacredness, which, according to its proponents, encapsulates all other kinds of transcendence within. If this is so, then we could anticipate that agents like 5-MeO-DMT will play
+an important role in the future of art as more people climb the ladder of adult psychological
+development.
+On a social level, art as the pursuit of the sacred can be interpreted as an adaptive behavior aimed at taming envy. “Keeping up with the Joneses” is (artistically or other- wise)
+capable of diverting a group’s energy away from tasks that need to be done for individual
+and collective survival. When done in excess, wasteful displays of fitness make communities
+suffer. Runaway signaling [10] has serious drawbacks, and sacred experiences seem to calm
+people down a bit, especially if the sense of sacredness comes along with social reassurance
+in the form of being able to hang out together without having to compete all the time, for
+5. The colors of Integral Theory: Ken Wilber’s Integral theory was developed by identifying the commonalities among many different types of adult developmental models, spiritual stage maps, and meditation progression systems. The progression could broadly be described as a generalized expansion of the circle of
+compassion and increased acceptance of complexity. The color associated with each level is arranged from
+low-frequency to high-frequency parts of the spectrum. Specifically, infrared–archaic, magenta–tribal,
+red–warrior, amber–traditional, orange–modern, green–postmodern, teal/turquoise–integral, ultraviolet–
+post-integral.
+
+11
+
+Gómez Emilsson
+
+Christ’s sake! Ahem. To be chill with one another.
+As we saw with the previous models, this one, too, has its own aesthetic. The aesthetic of the
+model would perhaps manifest in the form of a museum that caters to every possible sense
+of sacredness. From aboriginal shamanism to monotheistic conservativism to punk rock
+concerts to transhumanism, this aesthetic recognizes the fact that sacredness is catalyzed
+by many different inputs depending on the psychological traits of the people who consume
+it.
+
+7. State-Space Exploration
+The elucidation of the origin of qualia-rich subjectivity is important not only as
+an activity in the natural sciences, but also as a foundation and the ultimate
+justification of the whole world of the liberal arts. Bridging the gap between the
+two cultures is made possible only through a clear understanding of the origin
+of qualia and subjectivity.
+Qualia symbolize the essential intellectual challenge for humanity in the future.
+The impact of its elucidation will not be limited to the natural sciences. The
+liberal arts, religion, and the very concept of what a man is will be reassessed
+from their very foundations.
+–Ken Mogi [29]
+Is there anything beyond the sacred? Yes. This model of art posits that one key feature
+of art is the pursuit of novel experiences that challenge preconceptions of what is possible
+to experience. The state-space6 of possible experiences is unfathomably vast, and mundane
+everyday human experiences are restricted to a tiny corner of this enormous behemoth.
+As they say, “you won’t know if you like it until you try it”. Applying that logic to the
+exploration of the state-space of consciousness would encourage us to open our horizons
+and become receptive to the possibility that there are true gems of experience waiting to
+be found in exotic regions of this space.
+Now, it is easy for some people to fetishize the exotic for novelty’s sake. But contrary to
+popular belief, novelty is not intrinsically valuable. Taking into account previous discussions (especially models 2 and 3 above), we can interpret artistic explorations that push the
+boundary of our knowledge about what can be experienced as a sophisticated form of signaling genetic fitness. In particular, mastery over novel modes of experience shows that you
+have the mental and physical power to devote copious amounts of resources to exploration,
+for only one in a thousand attempts at discovering something new results in something that
+other people can appreciate. It is thus the case that a lot of novelty creation is aimed at
+courtship rather than being driven by a genuine passion for knowledge.
+6. The term “state-space” refers to a very general concept that identifies the set of all possible configurations
+of a given system (of equations, machines, experiences, etc.) and the ways in which these configurations
+can transition from to another.
+
+12
+
+Harmonic Society
+
+Figure 1: Left style source: Adrian Regnier Chavez [1].Right style source: Carpet by ALGE
+
+That said, what is out there hidden in the state-space of consciousness beggars belief. Anyone who is exploring that vast space in an intelligent way will sooner or later find incredible
+things. But how do we explore this space intelligently? A systematic exploration of possible
+images, for instance, could involve taking a picture and changing one pixel at a time. But
+as we all know, the Library of Babel is almost completely devoid of meaningful books. At
+least relative to its size. A much better way of exploring the space (inspired by Steerable
+Pyramid and Deep Dream-type algorithms) would be to sample possible images with an
+intelligent method, such as training generative neural networks on previous works of art,
+and then asking them to hallucinate possible images while constraining the neural layers
+you identify with the aesthetic quality of the images. Style transfer techniques and similar
+methods can result in images sampled from a given aesthetic, rather than from e.g. a particular low-level feature set (e.g., a type of edges) or a set of high-level semantic content
+(e.g., cars, people, dogs, etc.).
+Exploring the space of possible images is an extremely small sub-problem of exploring the
+state-space of consciousness. But I think the analogy is useful as a general idea. Now, how
+vast is the state-space of consciousness? Well, it tends to be larger than you think, even
+when you take that fact into account. I will coin that fact as Gomez-Emilsson’s Law. Every
+time you think you know how vast the state-space of consciousness is, you will be surprised
+to find out you are wrong if you choose to dig deeper.
+Consider what happens when someone takes LSD. Most people expect that they will simply
+get to experience new sensations like brighter colors, tracers, or synesthesia. This is true to
+a point, for light doses. But on medium doses, in addition to exploring the state-space of
+sensory configurations, one also experiences new aesthetics, which this model would define
+as ways of organizing a lot of sensations in ways that feel right. More so, an aesthetic is
+also a way of delivering uninhibited sensations in a way that feels good at the level of the
+whole experience, from moment to moment. Most people have no clue that there is a vast
+space of possibilities here.
+
+13
+
+Gómez Emilsson
+
+Figure 2: Left style source: blue balloons in a living room. Right style source: collection of
+blankets by ALGE
+
+On higher doses, people are surprised to find an even more general way of exploring the
+state-space of consciousness. Namely, one instantiates alternate games. The DMT “vibe”
+that people report can be thought of as more than a “context switch”. It is, rather, a
+more radical change that we could describe as a “game switch”. The “Jester” that people talk about regarding DMT experiences is an archetype that the mind uses to signal
+the “rule violation” quality of the state. There is so much going on that one’s experience
+splits into multiple games at once trying to find some common ground, and this feeling of
+game-incompatibility feels very alien. A sort of anti-virus system in the mind is triggered
+at that point, and labels the inconsistency with a feeling of weirdness so that you know not
+to update your actions based on the (currently globally inconsistent) experience of multiple superimposed games. Rule violation through fast changes in implicit games of social
+status causes you to interpret what is going on as having extreme stakes. Interacting with
+DMT Aliens, Gods, Elves, etc. feels like the upper limit of potential social status transfer
+that your world simulation affords (like meeting a president or a king). The state-space of
+consciousness contains all of these alternate games and metagames, and we have not even
+begun to catalogue them. This is all to say: seen in this light, the era of art has just begun.
+Like the previous models, this one also gives rise to an aesthetic of its own. I call this the
+aesthetic of “Rainbow God” [14]. This is the meta-belief that we gain value by understanding and experiencing extremely novel states of consciousness. Ultimate bliss, according to
+this aesthetic, is not a bland monotone state, but rather, is a state that incorporates within
+14
+
+Harmonic Society
+
+it an extraordinary variety of types of qualia. Posthuman aesthetics will not only show up
+in the form of intense feelings, but also in the form of extremely “rainbow-ey” experiences.
+The concept of a full-spectrum intelligence (an intelligence capable of instantiating any
+qualia at will) [30] plays an important role in this aesthetic. Thus, the full-spectrum artists
+of the future will have access to a qualia pallet in an experience editor 7 that includes human
+qualia like sight, touch, scent, emotions, thought-episodes, etc. It will also include qualia
+only found in insects, fish, mollusks, people tripping, people having seizures [18], novel
+neurocircuitry, etc. The asymptote of incorporating all possible varieties of qualia into a
+single experience is the final realization of Rainbow God, the ultimate state of knowledge
+and beauty according to this aesthetic.
+
+8. Energy Parameter Modulation
+
+Figure 3: Seifert Surfaces by Paul Nylander [4]
+People say they have weird and novel experiences with art, but by a large margin, the
+novelty itself is not the focus of what matters in people’s reports. Rather, people especially
+talk about having experiences that are not only novel and unusual, but also characterized
+by heightened states of consciousness. For example, when people “get art” they report
+being inspired, amazed, surprised, enthralled, or even shocked. These states seem to have
+in common a quality of high-energy in one form or another. Although possible, it is rare
+to talk about art as purposefully sedating, boring, anesthetizing, or numbing. That’s the
+exception. In general, art as diverse as Japanoise and Jodorowsky have in common the
+quality of heightening, and not only changing, one’s state.
+At the Qualia Research Institute (QRI) we take very seriously the notion that experience
+has an energy parameter. In psychology-speak, nearby concepts include emotional arousal
+and activation level, though these tend to have more physiological than phenomenological
+connotations. In contrast, we hold that you can indeed experience very high levels of con7. As a proof of concept: According to cognitive scientist Steven Lehar, combining LSD, Ketamine, and
+THC can give rise to a “free-wheeling hallucination” [15], which is a state of mind where one gains the
+ability to edit the contents of one’s experience at will (“You can say ‘give me a table’ and a table will
+appear right in front of you as real as a solid table”).
+
+15
+
+Gómez Emilsson
+
+scious energy without at the same time experiencing the physiological responses that are
+usually associated with high arousal (such as high heart-rate, high breath-rate, high blood
+pressure, sweating, etc.). Likewise, it is not the case that only traditionally high-arousal
+emotions (such as being excited, thrilled, fearful, anxious, etc.) come in high-energy forms.
+Indeed, it is possible to experience states of relaxation, serenity, equanimity, and peacefulness in extremely energetic forms(!), as happens in the concentration-based altered states
+of consciousness called “Jhanas” in the Buddhist tradition.
+Here it is relevant for me to bring up the fact that my colleague Mike Johnson recently wrote
+about the neuroscience of meditation [22]. He discussed how to make sense of the acute and
+long-term effects of meditation through the lens of modern neuroscience paradigms, and
+then found a way to tie them together into an overarching theory. For the sake of brevity
+I will schematically outline some of the key features of the paradigms he integrated:
+1. Free Energy Principle [20]:
+• the brain is trying to minimize expected future surprise by building high-level
+models of sensory input
+• When a model says that the input is very unlikely, our brain propagates an error
+signal in the form of excess energy
+• This energy motivates the search for a better model, for which the previously
+surprising input is now expected
+2. Entropic Disintegration [8]:
+• Psychedelics elevate the “neural temperature” of the brain, meaning that they
+increase the entropy/disorder present in neural circuits
+• One’s everyday mode of consciousness relies on learned neural patterns solidified
+over years, which at times can be chronically maladaptive
+• By “raising the temperature” of our neural circuits, maladaptive neural circuits,
+especially “egoic structures” in the default-mode network (DMN), disintegrate
+• This enables you to “start from scratch” and form new, more adaptive, neural
+patterns
+3. Connectome-Specific Harmonic Waves [6]:
+• Physical systems with excitation-inhibition wavefronts have harmonic modes
+• By mapping out the connectome of a brain (white and grey matter tracks) and
+using empirically-derived excitation-inhibition differential equations of neural activity, one can infer the electromagnetic resonant modes of a given brain
+• Using this technique, it was found empirically that psychedelics increase the
+amplitude of connectome-specific harmonic waves across the spectrum, and in
+particular, the amplitude delta is higher on the upper ranges of the spectrum
+[11]
+16
+
+Harmonic Society
+
+Tying together these frameworks we see that (a) the brain responds to surprise in an excitatory way which gives rise to a process of search for better models, (b) there is a sense
+of neural energy for which increasing it gives rise to the disintegration of pre-existing patterns, and (c) there is a sense of actually physical energy in the brain tied together with its
+resonant modes, which are variable depending on one’s state of consciousness. To bring all
+of these frameworks together, we can interpret them in terms of energy sources and energy
+sinks:
+1. Energy Sources: surprises, sensory stimulation.
+2. Energy Sinks: passage of time (decay factor), semantic content (crystallization around
+explanatory representations), pre-existing attitudes.
+At a high-level, we could describe the relevance of these frameworks for art as follows: For
+art to energize you it needs to either reduce the influence of energy sinks and/or increase
+the amount of energy from energy sources.
+The numerous tricks of the craft of different kinds of art can be reinterpreted in this framework. For example, a lot of artistic advice for a broad audience focuses on making sure that
+there is a twist you are introducing in an otherwise familiar space. Even subtle surprises
+(colors being out of place, unusual garments, implausible actions, perspective mixups, etc.)
+will propagate a prediction error and heighten the energy available in one’s state. This will
+make you experience the rest of the piece in a more energized and impactful form. Now,
+to sustain the heightened energy parameter, it is important to avoid making it easy for the
+brain to redirect the energy to a large energy sink. If the perceptual mistake one makes
+is one you are familiar with and have experienced before, you might end up diverting the
+newly available energy towards reinforcing an attitude you developed about that perceptual
+mistake (e.g. word tricks could trigger anxiety about not being a good reader rather than
+helping you stay in an energized state).
+This paradigm also puts in a different light, and makes sense of, the criticisms often raised
+against pieces perceived as Kitsch, Camp, and Cliche, or other aesthetics centered around
+the over-use of a given artistic trick. Art can fail to sufficiently energize your state by
+failing to introduce a large enough surprise. If you can immediately grasp the full scope
+of the novelty introduced by a given piece (even if you are misapprehending the input!)
+you can quickly categorize your experience into a pre-existing bucket and skip the intended
+energized state. This functions as an energy sink, and hence you fail to stay energized.
+This is just a piece of the full story here, for energy sinks are not completely reliable. There
+is a phenomenon called semantic satiation, where a pattern of rapid and regular repetition
+of words, images, and concepts makes them feel meaningless. So even the most cliche of
+art can indeed get the job done of energizing your state of consciousness, by presenting
+many versions of the same thing in flashes at a sufficiently high rate (I’m not saying this
+is necessarily pleasant, but it might be effective!). On the flip side, if what you are after
+is the maximization of a particular meaning in e.g. a commercial, you will find there is
+a Goldilocks Zone for the number of times you should present the core concept/image to
+17
+
+Gómez Emilsson
+
+the audience; too few and the meaning will be weak, too many and you’ll trigger semantic
+satiation by overwhelming the energy sinks of the audience.
+Schematically, there are three broad ways of inhibiting energy sinks to allow the buildup of
+what we call “semantically neutral energy”. You can:
+
+1. Disable,
+
+2. Overwhelm, or
+
+3. Avoid them
+
+Let me elaborate. First, you can disable energy sinks by switching to unfamiliar contexts
+(e.g. it is harder worrying about work while on a screen-free beach, at a museum. . . or
+at Burning Man). Also, disabling energy sinks can happen in states of exhaustion, fasting, intoxication, or other states of mind that impair some of the normal functions of the
+brain. Second, as we saw, semantic satiation would be an example of overwhelming energy
+sinks, but there are many other ways of doing so, such as increasing the intensity of input
+above a certain threshold. And third, avoiding energy sinks involves things like setting the
+intention to focus your attention on a meditation object and refocus on it every time you
+get distracted. Alternatively, one can load a given energy sink with negative implications
+and learn to avoid it via negative feedback (e.g., when a standard interpretive framework
+is frowned upon by a social group).
+Most drugs and activities could be described in terms of their characteristic effect on energy sources and sinks.8 But only some of these drugs and activities are “broadband energy
+enhancers”, in the sense that the energy they give rise to is transferable to a broad range of
+mental and physical activities. This is what sets meditation, trance-inducing music/dancing,
+psychedelics, philosophy, and art apart from other energizing activities. Those methods in
+particular allow energized states to be sustained for long periods of time, and they give rise
+to novel sensations exclusive to the high-energy regions of the state-space of consciousness.
+
+8. For example, anti-psychotic drugs are broad-band energy sink enhancers, psychedelics are broad-band
+energy source enhancers, classic stimulants (such as amphetamines) are narrow-band energy source
+enhancers, classical depressants (such as benzodiazepines) are narrow-band energy sink enhancers.
+
+18
+
+Harmonic Society
+
+A note on psychedelics here is in order. There is indeed something very peculiar that
+psychedelics do to the energy sources that to my knowledge is not done by the other broadband energy enhancers. Psychedelics make energy sources echo! They change the neuroacoustics of the brain, which favors temporally repeating patterns in a delayed-echo fashion
+along with a slower decay function for experience over time.9 Thus, visual tracers and the
+amplification of music appreciation during a psychedelic trip are both expressions of the
+same underlying principle: the brain is more resonant. The fact that this effect is distinct
+from what art, meditation, philosophy, or strobes have to offer makes psychedelics synergistic and complementary with the other methods. After all, it is hard to ignore the gazillion
+subjective reports of enhanced aesthetic appreciation experienced on even small doses of
+9. In one account proposed by “Psychedelic Information Theory” [25], psychedelics achieve the tracing/echo
+effect by disabling an energy sink. The control interrupt model of psychedelic action [24] says that there
+are natural inhibitory processes that prevent features of our current experience from building up over
+time. Psychedelics are thought to chemically interrupt inhibitory control signals from the cortex, which
+are constantly preventing the build-up of qualia. In this account, what you are paying attention to is in
+fact the part of the sensory input that is being inhibited the least. Interrupting the inhibitory “control
+signal” gives rise to echoes of previous states across the board that you intrinsically attend to whether
+you like it or not.
+
+19
+
+Gómez Emilsson
+
+psychedelics.
+For the above reasons, I think this model has a lot of explanatory power. To recap, this
+model of art says that increasing the energy parameter of one’s consciousness is the success
+condition of art. It explains the repeating trance-inducing quality of music, the need for
+balance between predictability and surprise, common craft advice, and the existence of
+higher aesthetics. In turn, this model implies that art can be done in a wrong way. Art
+that is uninspiring, insipid, unexciting, irrelevant, etc. could be understood as art that fails
+to raise the energy parameter of those who experience it. And indeed, the higher the form
+of the art, the more it allows for the buildup of semantically-neutral energy.
+
+9. Valence Modulation
+What is the difference between indifference and interest, boredom and thrill,
+despair and bliss? Pleasure! A few grains of this magic ingredient are dearer
+than a king’s treasure, and we have it a plenty here in Utopia. It pervades into
+everything we do and everything we experience. We sprinkle it in our tea.
+The universe is cold. Fun is the fire that melts the blocks of hardship and creates
+a bubbling celebration of life.
+It is the birth right of every creature, a right no less sacred for having been
+trampled upon since the beginning of time.
+–Nick Bostrom. [17]
+We are now approaching the point at which we will finally start cooking with peanut oil, so
+to speak. We will finally start thinking about how to build extremely good art from first
+principles. The ‘Art as Valence Modulation’ model builds on top of the previous model
+where art involves messing with the brain’s energy parameter. To explain this model we
+need to introduce two additional concepts:
+1. Neural Annealing [13], and
+2. The Symmetry Theory of Valence (STV) [21]
+Neural annealing is a concept we developed at QRI to extend the entropic disintegration
+framework10 11 . Namely, the most beneficial use of ‘energy’ is to direct it towards the
+brain’s natural harmonics in order to carve out the presence of a naturally blissful state in
+everyday life. This process works on a progression that goes like this:
+1. Energy application
+10. It is worth mentioning that Steven Lehar used annealing to describe the subjective progression of his
+ketamine experiences in his book The Grand Illusion: A Psychonautical Odyssey Into the Depths of
+Human Experience [26].
+11. Carhart-Harris and Friston wrote a paper together in which they discussed annealing in the context of
+psychedelic research [7]. The paper was published in July, two months after I submitted this essay to
+Art Against Art in May of 2019 [2]. We are delighted to see independent convergence on this concept
+and its importance.
+
+20
+
+Harmonic Society
+
+2. Entropic disintegration
+3. Search/self-reorganization
+4. Neural annealing
+
+Together with neural annealing, STV provides an answer for why we experience intensely
+rewarding states of consciousness from art. Here is where some of the theories that we have
+been working on come into play. In particular, we hypothesize that when highly-energized
+states of consciousness follow an adequate cooling schedule, they can give rise to highly
+ordered states that are experienced as very pleasant and which can carve good attractor
+states into the brain in the long term. Making an analogy with metallurgy, with annealing,
+you can increase the regularity of the microscopic structure of metal by heating it above
+the recrystallization temperature and letting it cool. This results in changed material properties (such as reduced hardness and increased ductility). We hypothesize that something
+along these lines also takes place in brains. Neural annealing facilitates solving complex
+constraint satisfaction problems at the perceptual, emotional, and conceptual level. The
+higher energy enables quick search between possible configurations that satisfy as many
+constraints as possible (over- stepping the local maxima we are usually stuck within normal
+energy ranges), while the cooling process solidifies the best constraint satisfaction solutions.
+Critically, here the STV comes into play by proposing that the more regular the resulting
+neural structures are, the better they feel. Annealing smooths out inconsistencies and irregularities, which according to the STV are key sources of discomfort. Symmetry, in the
+form of smoothness and harmony, is why the process of annealing leaves you feeling great.
+In this light, art with lasting desirable mood effects does not only need to increase the
+energy parameter, but it also needs to know how to lower it at the right schedule in order
+to leave people annealed to a given desirable mindset. A lot of art that successfully raises
+the energy parameter nonetheless does not succeed in the ecosystem of human attention,
+because it does not let people cool off in the right way. More so, an excessively competitive
+memetic landscape that incentivizes maximum surprise tends to train people to experience
+too much fear of missing out to let them adequately consume art at the pace needed to
+leave you better off emotionally. There is genuine wisdom in going to museums with one’s
+smartphone turned off.
+Where do we draw the line between healthy recreation and distraction? Some might say
+that art in the form of pictures is fine, but audiovisual is too much. Some may be fine with
+movies but not with VR. Others would be ok with videogames but perhaps not with drugs.
+Others perhaps would be ok with drugs but not with genetic modification of neuronal gene
+expression. Some would be ok with that but not with neural dust rewiring, and so on. The
+format, we would argue, is not what matters. But rather, what the annealing pattern is,
+which is actually what makes the effects of art stick in the long run (or not).
+
+21
+
+Gómez Emilsson
+
+Figure 4: Very high-valence annealed states of mind feel cosmic and profound in significance. Images by Adrian Regnier Chavez [1]
+
+This way of seeing art is highly generative. It gives us a research lead for how to construct
+new grandiose and highly-effective art. More so, the model can itself be developed as an
+aesthetic of its own. Perhaps we could call it the aesthetic of the meta-aesthetic. That is,
+an aesthetic that rewards distilling the essential reason why any aesthetic can feel good and
+meaningful. In the future, we might expect to see in stores “Hedonium Magazine”–which
+catalogues all of the peak-valence states that can be achieved with any method whatsoever,
+and sees the craft of perfecting neural annealing as itself the highest form of art. Here we
+transcend the post-modern ethos of giving each aesthetic its place in the garden of paradoxes. Yes, give each aesthetic its place, but do not let that prevent you from building a
+meta- narrative that ties together and clarifies the value-add of each aesthetic. No aesthetic
+is above being examined in terms of how it achieves neural annealing in those who consume
+it.
+In turn, this model gives us a new understanding of what an “aesthetic” even is. According
+to it, an aesthetic is a system for long-term neural annealing. A one-off weird art piece
+might give rise to annealing and solidify random structures in your brain. An aesthetic is
+22
+
+Harmonic Society
+
+more than that. It is a collection of generator seeds for art pieces that give rise to a coherent
+form of neural annealing that is reinforced with each piece, no matter how different they
+may seem from one another on the surface.
+A further property of neural annealing is that it is what enables you to fully experience a
+self-consistent worldview as if true. This bridges the gap between meaning and pleasure,
+and is at the core of the connection between valence and the experience of sacredness we
+discussed in model 4. According to model 7, sacred experiences are the result of driving the
+energy parameter of the brain above the recrystallization threshold and then having it cool
+down as it reorganizes the elements of a given target ontology and worldview. The result
+is an annealed mental state optimized to represent that worldview. The sense of global
+consistency makes the worldview feel good and true, almost as if you were able to smell
+truth with it. This model would say, thus, that the core mechanism behind every kind of
+sacred experience is the same. Which emotions, ontologies, and worldviews get annealed
+is what is different depending on set, setting, and aesthetic (i.e., how the energy sources
+and sinks were modified). But deep down, it is successful annealing that makes sacred
+experiences feel so compelling and good.
+
+10. Affective Language: Harmonic Society
+An idealised full-spectrum superintelligence will indeed be capable of an impartial “view from nowhere” or God’s-eye-view of the multiverse, a mathematically
+complete Theory Of Everything–as does modern theoretical physics, in aspiration if not achievement. But in virtue of its God’s-eye-view, full-spectrum
+superintelligence must also be hypersocial and supersentient: able to understand all possible first-person perspectives, the state-space of all possible minds
+in other Hubble volumes, other branches of the universal wavefunction (UWF)
+– and in other solar systems and galaxies if such beings exist within our cosmological horizon. Idealized at least, full-spectrum superintelligence will be able to
+understand and weigh the significance of all possible modes of experience irrespective of whether they have hitherto been recruited for information-signalling
+purposes.
+—David Pearce [30]
+If we succeed at developing a science of art built on top of a modern science of consciousness,
+what should we do with it? What would the art of a wise post-scarcity and post-suffering
+society look like? As far I can tell, Utopia consists of both having the system in place to
+keep the lights on, while being able to use the surplus energy to power blissful experiences
+beyond the bounds of our current conceptions.
+The vision of Harmonic Society is that of a particular type of post-suffering utopia that
+resolves to optimize for good art. Referencing the models of art we’ve built upon so far:
+Harmonic Society (1) knows there are stakes in art and hence sidesteps the traps of semantic deflation, (2) avoids runaway signaling and Cool Kid gridlock, (3) utilizes Hipsters to
+explore promising new frontiers, (4) has mastery over a diverse range of conceptions of the
+23
+
+Gómez Emilsson
+
+sacred, (5) systematically explores the state-space of consciousness, (6) has a scientific and
+precise understanding of the energy parameter of experience, and (7) has deep knowledge
+of how to induce arbitrary types of neural annealing. In addition to all of this, Harmonic
+Society has (8) a map of all high-level aesthetics, knows what they are useful for, and can
+instantiate them at will.
+
+Figure 5: Harmonic Society by ALGE
+In Harmonic Society there is always a way to smoothly transition between seemingly irreconcilable aesthetics. It deeply understands the pros and cons of different aesthetics and
+knows how to apply them optimally both for instrumental purposes and hedonic value.
+Nowadays a lot of people who could benefit from, e.g., going to art festivals, taking acid,
+subpack cuddle parties, participating in plays (i.e,. exposing themselves to high-end aesthetic experiences), find it hard to do so, because it is difficult to get back to work once
+the weekend is over after experiencing incredible bliss. A rough solution to avoid residual
+incompatibility between the state you annealed over on the weekend with the mindset you
+need today for work would be to develop a mood organ12 that instantly puts you into any
+mindset you want. But perhaps a more elegant solution is to have such an advanced and
+detailed map of the state-space of mindsets that smooth, painless, and synergistic transitory
+states between arbitrary modes of being are discovered.
+12. The Penfield Mood Organ [12] is a technology described in Do Androids Dream of Electric Sheep?
+by Philip K. Dick that allows the user to instantly tune into any of hundreds of possible moods via
+direct cerebral stimulation. Some example moods include “3. The desire to dial other moods”, “481.
+Awareness of the manifold possibilities open to me in the future”, “594. Pleased acknowledgment of
+husband’s superior wisdom in all matters”, and “888. The desire to watch TV, no matter what’s on it”.
+
+24
+
+Harmonic Society
+
+Thus, one could one minute be on a 5-MeO-DMT-type white light conscious void ultrablissful state, the next minute be on a perfectly functional MDMA-like state useful for
+socializing, the minute after moving to a highly-focused nootropic-like systematizing state,
+and so on. The aesthetic to foster here is a meta-aesthetic of avoiding sharp discontinuities
+between mindsets, and allowing you to transition between all known awesome aesthetics.
+In Harmonic Society the entire state-space of consciousness is your oyster.
+A further thought about Harmonic Society is that a sufficiently advanced understanding of
+aesthetic experience might even revolutionize our understanding of identity. For instance,
+a non-trivial sense of personal diachronic identity could arise if everyone starts to identify
+with, e.g., a different person-specific song. If we truly understood how valence works and
+we had full access to our neurocircuitry, we could in a way embody a given work of art and
+interact with others in a way that is consistent with the artistic degrees of freedom our
+identity allows. This way, people’s interactions could perhaps be guaranteed to be positive.
+The combinatorial space of possible back-and-forth interactions does not need to be small,
+since high-energy allows for incredibly varied states. But nonetheless we could get to a
+point of understanding how valence works such that we could provably demonstrate that
+two persons with the right neural implementations will always have positive-sum interactions
+no matter what.
+
+Figure 6: Identity in Harmonic Society: The aesthetic of understanding the valence of every possible state of consciousness and how to translate what matters between
+them. (Picture: Symbol of Open, Empty, Closed Individualism from Burning
+Man Theme-Camps of the Year 2029 [14], Continuity Camp).
+
+11. Conclusion
+As the guiding premise of this essay we started out assuming that there are real and substantial stakes in art. It sure is all fun and games to think that anything goes in art until your
+25
+
+Gómez Emilsson
+
+landscape of cultural meaning is polluted with replicator strategies and attention-zapping
+exploits that lead to long-term neuropsychological problems and anneal false and neurotic
+metaphysics. Understanding art matters.
+I would make the claim that a new science of valence, i.e., a new science of pleasure,
+pain, love, hate, and indeed transcendent bliss, can be a new rallying flag for cultural value.
+Rather than the messy consilience patchwork between different aesthetics we have today, we
+might in the future indeed find a true and real grounding for the meaning of beauty and bliss.
+Contrary to the conservative spirit often associated with calls to reinvigorate an objective
+sense of beauty, here we arrive at a theory of art that would very well appreciate experiences
+as outlandish as DMT breakthroughs. This theory of art appreciates such states not “just
+as much” as fine art, but indeed as far more valuable and implicated in what matters than
+most of everyday life. For art, meditation, psychedelics, and philosophy all share the fact
+that they are messing with the energy parameter of experience in powerful ways that can be
+used to achieve much better and globally-consistent brain states. Understanding that the
+effects of art can be very strong and life-changing is one thing, but knowing the mechanism
+of action behind those changes comes with entirely new possibilities and responsibilities.
+We invite you to consider what this entails, and to join us in envisioning a future Harmonic
+Society constructed with full knowledge of neural annealing.
+
+Acknowledgments
+Special thanks to: Michael Johnson, Romeo Stevens, Liam Brereton, Duncan Wilson, Victor
+Ochikubo, and David Pearce for their thoughts and feedback.
+
+Glossary
+Cool Kids Someone who is well-rounded and uses strategic mediocrity in order to entice
+people to show their peacock feathers. At its extreme, Cool Kids become the leaders
+of artistic gangs who corner the marketplace of aesthetic attention.. 3
+
+Hipster Someone who enjoys art and media that seems too obscure to care about. Typically, the preferred aesthetics of a Hipster are highly detailed and focus on specific
+favored attributes at the expense of well-roundedness. A Hipster does not only have
+opinions about what is enjoyable, but also about how to enjoy it and why.. 3
+
+L1/L2 normalization Using mean absolute error (L1) favors minimax strategies vs. using
+mean squared error (L2) which favors well-rounded strategies.. 6
+
+Minimax art strategies A strategy for making art that tries to be the best on a narrow
+set of attributes while neglecting well-roundedness. This is sometimes adaptive and
+some- times maladaptive.. 5
+26
+
+Harmonic Society
+
+Nerd Someone who wants to figure out what is true, especially as it applies to technical
+and formal systems. A philosophy nerd, for instance, compulsively tries to figure out
+ultimate truth.. 5
+
+References
+[1] Adrián Regnier, . URL https://www.adrianregnier.com.
+[2] Art Against Art #6, . URL https://www.artagainstart.com/p/issue-6.html.
+[3] Mementomorium, . URL https://sites.google.com/view/mementomorium.
+[4] Paul Nylander’s Web Site, . URL http://bugman123.com/.
+[5] Lisztomania, May 2020. URL https://en.wikipedia.org/w/index.php?title=Lis
+ztomania&oldid=958461203. Page Version ID: 958461203.
+[6] S. Atasoy, I. Donnelly, and J. Pearson. Human brain networks function in connectomespecific harmonic waves. Nature Communications, 7(1):1–10, Jan. 2016. ISSN 20411723. doi: 10.1038/ncomms10340. URL https://www.nature.com/articles/ncom
+ms10340.
+[7] R. L. Carhart-Harris and K. J. Friston. REBUS and the Anarchic Brain: Toward a
+Unified Model of the Brain Action of Psychedelics. Pharmacological Reviews, 71(3):
+316–344, July 2019. ISSN 0031-6997, 1521-0081. doi: 10.1124/pr.118.017160. URL
+http://pharmrev.aspetjournals.org/content/71/3/316.
+[8] R. L. Carhart-Harris, R. Leech, P. J. Hellyer, M. Shanahan, A. Feilding, E. Tagliazucchi, D. R. Chialvo, and D. Nutt. The entropic brain: a theory of conscious
+states informed by neuroimaging research with psychedelic drugs. Frontiers in Human Neuroscience, 8, 2014. ISSN 1662-5161. doi: 10.3389/fnhum.2014.00020. URL
+https://www.frontiersin.org/articles/10.3389/fnhum.2014.00020/full.
+[9] M. L. Commons. Introduction to the Model of Hierarchical Complexity and Its Relationship to Postformal Action. World Futures, 64(5-7):305–320, Oct. 2008. ISSN
+0260-4027, 1556-1844. doi: 10.1080/02604020802301105. URL https://www.tandfo
+nline.com/doi/full/10.1080/02604020802301105.
+[10] A. G. Emilsson. Avoid Runaway Signaling in Effective Altruism, Oct. 2017. URL
+https://qualiacomputing.com/2017/10/24/avoid-runaway-signaling-in-effe
+ctive-altruism/.
+[11] A. G. Emilsson. Connectome-Specific Harmonic Waves on LSD, June 2017. URL
+https://qualiacomputing.com/2017/06/18/connectome-specific-harmonic-wa
+ves-on-lsd/.
+[12] A. G. Emilsson. The Penfield Mood Organ, May 2017. URL https://qualiacomput
+ing.com/2017/05/15/the-penfield-mood-organ/.
+27
+
+Gómez Emilsson
+
+[13] A. G. Emilsson. What is Love? Neural Annealing in the Presence of an Intentional
+Object, Dec. 2018. URL https://qualiacomputing.com/2018/12/22/what-is-lov
+e-neural-annealing-in-the-presence-of-an-intentional-object/.
+[14] A. G. Emilsson. Burning Man Theme-Camps of the Year 2029: From Replicator to
+Rainbow God (1/2), Feb. 2019. URL https://qualiacomputing.com/2019/02/24/b
+urning-man-theme-camps-of-the-year-2029-from-replicator-to-rainbow-god
+-1-2/.
+[15] A. G. Emilsson. Free-Wheeling Hallucinations, Jan. 2019. URL https://qualiacomp
+uting.com/2019/01/06/free-wheeling-hallucinations/.
+[16] A. G. Emilsson. An Infinite Variety of Waste, May 2019. URL https://qualiacomp
+uting.com/2019/05/01/an-infinite-variety-of-waste/.
+[17] A. G. Emilsson. “Letter from Utopia” and Other Triple-S Transhumanist Media, Mar.
+2019. URL https://qualiacomputing.com/2019/03/02/letter-from-utopia-an
+d-other-triple-s-transhumanist-media/.
+[18] A. G. Emilsson. Logarithmic Scales of Pleasure and Pain: Rating, Ranking, and Comparing Peak Experiences Suggest the Existence of Long Tails for Bliss and Suffering,
+Aug. 2019. URL https://qualiacomputing.com/2019/08/10/logarithmic-scale
+s-of-pleasure-and-pain-rating-ranking-and-comparing-peak-experiences-s
+uggest-the-existence-of-long-tails-for-bliss-and-suffering/.
+[19] B. Eno. ’What is Art actually for?’, Feb. 2012. URL https://www.youtube.com/wa
+tch?v=XIVfwDJ-kDk.
+[20] K. Friston. The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2):127–138, Feb. 2010. ISSN 1471-0048. doi: 10.1038/nrn2787. URL
+https://www.nature.com/articles/nrn2787.
+[21] M. Johnson. Symmetry Theory of Valence “Explain Like I’m 5” edition, Apr. 2017.
+URL https://opentheory.net/2017/04/stov-explain-like-im-5-edition/.
+[22] M. Johnson. The Neuroscience of Meditation: Four Models, Dec. 2018. URL https:
+//opentheory.net/2018/12/the-neuroscience-of-meditation/.
+[23] R. Kegan. The evolving self: problem and process in human development. Harvard
+University Press, Cambridge, Mass, 1982. ISBN 9780674272309.
+[24] J. L. Kent. The Control Interrupt Model of Psychedelic Action, 2010. URL http:
+//psychedelic-information-theory.com/The-Control-Interrupt-Model-of-Ps
+ychedelic-Action.
+[25] J. L. Kent. Psychedelic information theory: Shamanism in the age of reason. PIT
+Press/Supermassive, Seattle, WA, 2010. ISBN 9781453760178. OCLC: 706697031.
+[26] S. Lehar. The Grand Illusion: A psychonautical odyssey into the depths. URL http:
+//slehar.com/wwwRel/GrandIllusion.pdf. original-date: 2010.
+28
+
+Harmonic Society
+
+[27] J. C. Lilly. Simulations of God: the science of belief. Ronin Pub, Berkeley, CA, 2nd
+ed edition, 2012. ISBN 9781579511579.
+[28] G. F. Miller. The mating mind: how sexual choice shaped the evolution of human
+nature. Doubleday, New York, 1st ed edition, 2000. ISBN 9780385495165.
+[29] K. Mogi. The Qualia Manifesto, 1998. URL http://www.qualia-manifesto.com/m
+anifesto.html.
+[30] D. Pearce. The Biointelligence Explosion: How recursively self-improving organic robots
+will modify their own source code and bootstrap our way to full-spectrum superintelligence. URL https://www.biointelligence-explosion.com/. original-date: 2012.
+[31] K. Simler. Ads Don’t Work That Way. URL https://meltingasphalt.com/ads-d
+ont-work-that-way/.
+[32] K. Wilber. The spectrum of consciousness. A Quest book. Theosophical Pub. House,
+Wheaton, Ill, 1977. ISBN 9780835604956.
+[33] L. Wittgenstein. Philosophical investigations. Basil Blackwell, Oxford, 1968. ISBN
+9780631119005.
+[34] S. Zizek. Slavoj Zizek on #MeToo movement, Jan. 2019. URL https://www.youtub
+e.com/watch?v=ai UAPaoEW4.
+
+29
+
+

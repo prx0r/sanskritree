@@ -1,0 +1,1287 @@
+Text as the Metaphoric Body: Incorporation of Tripurā
+in Saundaryalaharī
+Sthaneshwar Timalsina
+Abstract:
+
+Saundaryalaharī is a classical Sanskrit text in one hundred stanzas dedicated
+to the goddess Tripurasundarī. The central argument of this paper is that this
+devotional hymn – a textual body comprised of metaphor and aesthetic suggestion – mirrors the deity being praised, as she is the goddess of beauty.
+The author efectively introduces an embodied Tantric theology that places
+sensory experience at the center of mystical and transformative experience.
+With select examples from the text, this essay analyzes the varieties of literary suggestion utilized by the poet to depict the transcendent experience.1
+Anatomy of the Text:
+
+Saundaryalaharī (SL), a devotional poem traditionally attributed to Śaṅkara,2 is one of the most revered and widely read texts with Tantric content.
+The multiple commentaries that accompany it, the wide distribution from
+north to south of the Indian sub-continent,3 the multiple translations into
+
+1
+
+2
+
+3
+
+I am thankful to Dr. Jürgen Hanneder, Dr. Francis X. Clooney, and Dr. Walter Slaje for
+closely reading the document and providing valuable insight. I am also thankful to Mrs.
+Mary Hicks for editorial support.
+The text is most likely composed after 11th but prior to 15th Century. The use of nine rasas
+is not common in classical aesthetics before Abhinavagupta (950-1020 CE), and SL explicitly mentions it (AL 41, 50). The text integrates aspects of Kubjikā practice while addressing Tripurā. These two practices have remained prevalent successively in North and
+South of the Indian sub-continent in early times. For discussion on Abhinava, see Pandey
+1963; Ingalls and Holmes 1990. For discussions on Kubjikā, see dyczkowskI 1987, 2000,
+2009; and on Tripurā, see Brooks 1990.
+For my analysis, I am using the kuPPuswamI (1991) edition, which comes with ten diferent classical commentaries. Follow Brown (1958) for a critical edition. See edgerton
+(1959) and Hacker (1962) for Scholarly reviews on Brown (1958). There are a number of
+unpublished commentaries in libraries and private collections. For instance, kuPPuswamI
+(1991, v) identiies 36 commentaries. The Gopālasundarī commentary is an example of
+the popularity of the text outside the Śaiva-Śākta households. This commentary interprets
+every single verse as praise to both Viṣṇu and Tripurā. Later-medieval Tantric texts identify a Tripurā mantra as Gopālasundarī that combines the 18 syllable Kṛṣṇa mantra with
+the 15-syllable Tripurā mantra.
+
+Zeitschrift für Indologie und Südasienstudien 32 (2015)
+
+2 | Sthaneshwar Timalsina
+
+English and various other regional languages,4 and the frequent recitations
+in temple and house rituals demonstrate its popularity. The text is composed
+in one hundred verses,5 in the Śikhariṇī meter, with seventeen syllables in
+each quarter of the verse.6 It is divided into two sections: the irst, identiied
+as Ānandalaharī, consists of forty-one verses, and the second, Saundaryalaharī, of the remaining verses. The irst section relates to the philosophy
+and ritual visualization of Tripurā while the second is speciically dedicated to describing the physical beauty of the goddess, also called Sundarī, or
+the beautiful one. The text exempliies a fusion of Tantric Śaiva and Śākta
+elements and Advaita philosophy.7 SL is a ine example of the fusion of aesthetics and Tantra.8
+The text is essentially Tantric,9 with its central theme being the gloriication of the goddess Tripurā.10 Composed in light of Śākta non-dualism, the
+text integrates elements from Kubjikā practice into Tripurā worship.11 The
+4
+
+5
+
+6
+7
+
+8
+
+9
+
+10
+11
+
+One of the most noteworthy studies on SL is that of norman Brown (1958). Besides the
+latest study by clooney (2005), there are a number of other translations in English. A few
+among the translations I have scanned through include kuPPuswamI 1991, guru 1988,
+sastrI and garu 1957, and suBraHmanIan 1977.
+Most of the commentators consider the text complete in one hundred verses. In the 100th
+verse, a colophon sentence appears at the end of each of the commentaries (collected in
+kuPPuswamI 1991). However, the text in the Kuppuswami edition continues until verse 103.
+The verse 101 in the text comes with Saubhāgyavardhinī, Ānandagirīyā, Tātparyadīpinī,
+and Kaivalyavardhinī commentaries. In verse 102 and 103, all these commentaries and
+the additional Padārthacandrikā, Ḍiṇḍima, and Gopālasundarī are available.
+Composing a Śataka or a prayer in one hundred verses is one of the genres of classical Sanskrit poetry. The most exemplary is the Sūryaśataka of Mayūra or Caṇḍīśataka of Bāṇa.
+The name of the meter also suggests the sweet made of yoghurt and spices.
+Commentaries on the text clearly display traits of diferent traditions. It is possible that
+both Lakṣmīdharā and Gopālasundarī come from the Vaiṣṇava background.
+This is not the place to discuss in detail the historical relation of Tantric scholars with
+classical Indian aesthetics. The following few examples demonstrate this fusion. Abhinavagupta, the foremost Tantric philosopher, was also the author of the Abhinavabhāratī
+commentary upon the Nāṭyaśāstra and the Locana commentary upon Dhvanyāloka. Jayaratha wrote a commentary upon both the Tantrāloka, a Tantric text by Abhinavagupta, and
+the Alaṅkārasarvasva of Ruyyaka. Lakṣmīdhara, a commentator upon Saundaryalaharī, is
+also known as the author of Alaṅkāramuktāvalī and Rasamañjarī. Amṛtānandayogin, the
+commentator upon Yoginīhṛdaya, one of the foundational texts of the Tripurā tradition,
+was also the author of Alaṅkārasaṅgraha.
+When SL (verse 31) mentions sixty-four Tantras, the unstated premise is that the mantra
+of Tripurā supercedes the ritually impure Tantras. Commentaries imply that SL itself is the
+sixty-ifth Tantra.
+For discussion on Tripurā, see Brooks 1990.
+Verse 14 explicitly enumerates the ‘rays’ (raśmi) found in the six cakras. This relates to the
+raśmividyā concept that refers to Ṣaḍanvayaśāṃbhavavidyā, central to Kubjikā practice.
+Verse 34 identiies the practice of Pareśvara, one of the Śāṃbhava Vidyās that is visualized in the Ājñā cakra. Verse 40, the inal verse of the six-cakra practice that concludes
+
+Reading Tripura Literature Through the Lens of Rasa | 3
+
+text traditionally comes with a manual where each verse is assigned with its
+own magical formula and geometric design. Whether through ritual transformation of self-awareness (the primary focus of the irst section of SL) or
+through embodying the divine in her corporeal form (the focus of the second section), the centrality of physical experience is apparent throughout the
+text, and it is in this embodied spirituality that the integration of the aesthetic
+domain occurs within Tantric practice. The term Tripurā, referring to the
+central goddess described in the text, demonstrates a luidity that embraces
+immanence and transcendence at the same time. Even the name relects this,
+as the term can be analyzed etymologically as both ‘before or beside the
+triad’ (tribhyaḥ purā), and as ‘she who dwells in three cities’ (trisu pūrṣu
+bhavā).12 The goddess is simultaneously addressed as Sundarī, the beautiful
+one, invoking her association with aesthetic beauty. The combination of both
+these names, Tripurasundarī, indicates an integration of the mystical and
+aesthetic aspects.
+The philosophical foundation for the rise of this Śākta paradigm breaks
+the dichotomy between the immanent and transcendent. Tripurā is beyond
+the triad and thus transcendent, while dwelling in all three cities. The formless in this depiction is latent with forms, and when given form, they eventually dissolve into the very awareness nature of the body of the goddess.
+Rather than being exclusive, these transcendent and immanent modes are
+considered here as interdependent. With the coalesced identity of Tripurā
+and Sundarī, encountering the divine implies the recognition of aesthetic
+beauty. This integration highlights the role of language, as the poetic description woven throughout the text is inseparable from the linguistic body
+of the goddess. Like mantra language that cannot be translated, SL cannot
+be fully deciphered, with its aesthetic domain layered within the form of the
+text, as has been recognized by the classical commentators.13 This understanding displaces the commonsense comprehension of language as corresponding to reality; reality and language are not binary opposites here. To
+ground some of these arguments, this paper explores the link between mys-
+
+12
+
+13
+
+with the Mūlādhāra, explicitly refers to Navātman, the Vidyā practiced in the base cakra in
+the Kubjikā tradition. For discussions on Kubjikā see dyczkowskI 1987, 2000, 2009. Since
+the text combines both Śrīvidyā and Kubjikā practices, it outlines both the ascending and
+descending orders of Kuṇḍalinī. See verse 9 for the ascending order and verses 34-40 for
+the descending order.
+The mythological connection of Śiva as Tripurāntaka or the destroyer of the demon Tripura and the goddess as his consort is most likely the primary reason for this name. Tripurā
+texts exploit the concept of the goddess dwelling in three cities, making the three states of
+waking, dreaming, and the deep sleep as the stations of the self. For further discussion on
+the etymology and the concepts behind the term Tripurā, see dvIvedI 1984, 85-86.
+For discussion on the nature of mantra language, see tImalsIna 2010; staal 1989.
+
+4 | Sthaneshwar Timalsina
+
+tical and aesthetic language.14 In addition, rather than comprehending textual
+meaning in the minimal sense, I also explore in this paper the ways classical
+commentators opened up the text for a broader hermeneutics.
+Pioneered by Bharata, the classical aesthetic tradition was advanced with
+the writings of Tantric aesthetes such as Abhinava or Jayaratha. The central
+literary devices in this system include ‘ornamentation’ (alaṅkāra), rasa or
+aesthetic relish, and dhvani, indirect suggestion.15 Alaṅkāra involves both
+the form of expression, the very language a poet uses that has characteristics such as rhyming, and literary tropes that relate to content, such as
+metaphoric and metonymic expressions.16 Rasa, central to classical Indian
+aesthetics since Bharata’s writings, identiies the psychological states ingrained with experience, such as erotic, comic, heroic, etc. Bharata outlines
+eight rasas that emerge with the integration of the emotional states (bhāva).
+There are eight emotions categorized as ‘dormant’ (sthāyin) and thirty-three
+collectively addressed as transient (vyabhicārin). In addition to these, there
+are also some psycho-physical conditions (sāttvika). All of these fall under
+the category of emotional states (bhāva). To this structure, Abhinava adds
+‘peaceful’ (śānta) as an additional rasa.17 Dhvani or the suggested meaning,
+on the other hand, relates to the structure of poetic meaning, and is found in
+the domains of both alaṅkāra and rasa. While one can read SL as a Tantric
+text, one can also read it as a sublimely nuanced aesthetic document. Every
+single verse in the text displays one or another literary trope, and many of
+them are exemplary in their integration of multiple devices. The author of
+SL, in his efort to materialize the beauty of the goddess Sundarī, creates in
+words the aesthetic ‘body’ of goddess, replete with devices central to Sanskrit poetics.
+The central argument of this paper is that the process of describing the
+beauty of the goddess is a technique for transforming a commonsense awareness into a mystical one. Language mediates this process: the select poetic
+expression, with the beautiful body of the goddess as the target, does not
+end in mere depiction of her physical beauty, as it culminates with the poetic
+14
+
+15
+16
+
+17
+
+For discussion of the link between Tantra and aesthetics in classical India, see tImalsIna
+2007.
+For discussion on classical Indian aesthetics, see devy 2002; Ingalls 1990; warder 1972.
+I am using the term ‘metaphor’ in a loose sense. When metaphors are understood broadly, the alaṅkāras such as arūpaka, heturūpaka, rūpaka, sakalarūpaka, samādhāna, saviśeṣaṇa, tattva, upacāra, or utprekṣā are considered metaphors. Besides these, V. S. Apte
+also translates lakṣaṇā as a metaphor. A similar understanding is also found in gerow
+1971. The term metaphor is similarly used in Western literature in a varied sense, and
+it sometimes has involved various igures of speech such as hyperbole, metonymy, and
+simile. It would be misleading to understand any speciic alaṅkāra as a metaphor.
+For discussion on the number of rasas, see ragHavan 1967.
+
+Reading Tripura Literature Through the Lens of Rasa | 5
+
+beauty (saundarya) of the text. This is exactly where the aesthetic domain
+meets the esoteric domain, with ‘aesthetic beauty (saundarya) being a means
+to reach to the ‘beautiful one’ (Sundarī). In this process, the text mirrors the
+divine body by incorporating the aesthetic beauty.
+This argument relies on textual analysis iltered through the aesthetic
+viewpoint, as the efort of the author of SL clearly intends to match the beauty of the goddess with his poetic genius. The description of the beautiful
+one (Sundarī), along these lines, mirrors the inner beauty of Tripurā. In this
+process of describing her beauty with an incorporation of the qualities of
+beauty outlined by classical aesthetes, the text transforms into the body of
+the goddess. The embodiment of divinity, vivid in this depiction, embraces
+both emotional and cognitive domains. Language and sensory modalities are
+very much active and creative in this process of experiencing the divine that
+is both transcendent and immanent. Even recitation of the verses illed with
+literary tropes that describe the divine in the lesh, the very process through
+which the divine form is grasped and experienced, is entwined with language
+and somatic experience. The distilled beauty expressed in the stanzas that
+refer speciically to the limbs of the goddess’s body are themselves the limbs
+of the text. In this way the text transforms into the divine body.
+Based on this assumption of the integration of the esoteric and aesthetic,
+this paper grounds the argument that the centrality of embodiment in both
+Tantric and aesthetic systems is at the core of this melding of the two systems. Transformation of commonsense experience to a transcendent bliss
+may be achieved by devotees through devotion, through self-realization by
+the Tantrics, and through aesthetic experience by the connoisseurs of literary
+tropes and layers of suggested meaning. In this respect, generating the body
+of bliss parallels the constructive visualization of the body of the goddess
+that integrates the aesthetic experience. In essence, SL is exemplary in combining both esoteric and aesthetic experiences.
+The integration of beauty and bliss in SL corresponds to the practice of
+Tripurā. Tripurā demonstrates her lavish nature and the practices centered
+on her are identiied with the order of the Gandharvas that involves the assertion of pleasure, ornamentation and fragrances, and contemplation instead of
+asceticism.18 The ritual manuals explicitly state that not only is the goddess
+sensuous, even her practice involves sensuality. This physicality is fundamental to constructing the divine image as the aesthetic beauty materialized,
+18
+
+For the reference on gandharvakrama, see Puraścaryārṇava (PA), vol. 3, 259-263. The
+mahārājakrama of Mātaṅgī, the other goddess of the Sundarī order, demonstrates similar
+traits (ibid. 270-71). There is also a text titled Gandharvatantra that is dedicated to the
+order of Tripurā.
+
+6 | Sthaneshwar Timalsina
+
+and parallels the construction of SL as an embodiment of the divine beauty
+in poetic language. This position opens up the possibility of self-recognition through the bliss experienced in realizing the corporeal beauty of the
+goddess. Just as the language describing the beauty of the goddess and the
+metaphors suggesting aesthetic bliss parallel esoteric experience, these qualities are integral to ‘experience’ itself. In this depiction, just as all cognitive modes are permeated with awareness, all instances of cognition in the
+same way involve the sense of aesthetic pleasure. The two names of the text,
+“waves of bliss and beauty,” describe this very intertwined nature of Tripurā
+practice.
+The objective of the SL is not only to depict the body of the goddess.
+While describing the beauty of the divine body, the text aims to transform
+the experience of the reader/practitioner both aesthetically and mystically.
+The term to properly describe this transformation is sāmarasya, which, in its
+aesthetic sense, means ‘having identical taste,’ and in the esoteric sense of
+Tantra and Haṭhayoga, refers to the ‘mingling of luids.’ Both the mystical
+and aesthetic experiences become a single targeted ‘meaning’ of the text,
+and the device of literary suggestion (dhvani) becomes the means to access
+this experience. While the use of rasa or aesthetic ‘juice’ is consonant with
+the concept of sāmarasya, the poetic ornaments (alaṅkāra) parallel the physical ornaments adorning the body of the goddess.
+This fusion of Tantra and poetics becomes possible with the airmation
+of the body, and inding the divine as immanent and the self as embodied.
+Encountering the dazzling form of Tripurā in SL parallels the recognition
+of the self: in essence, the self that is the heart of aesthetic experience is in
+itself the fundamental nature of beauty. Here the boundary of inside and outside dissolves, as the beautifully described form of the goddess mirrors the
+beauty within, and what constitutes the sacred is the pristine and beautiful
+aspect of the self.
+Encountering the Divine Body of Bliss
+
+The signiicance and centrality of the divine body in SL is vivid, particularly in the second part, where the limbs and ornaments of the goddess are
+recounted. Reading SL thus engages multiple strategies of grounding the sacred within the body. The author draws upon a wide range of aesthetic tools
+and concepts in developing this paper. In order to analyze the literary tropes
+that are at the center of this composition, I am primarily using three commentaries: Lakṣmīdharā (LD), Aruṇāmodinī (AM), and Saubhāgyavardhinī
+
+Reading Tripura Literature Through the Lens of Rasa | 7
+
+(SV). Because it is not possible to analyze all the verses in this short paper, I
+will limit myself to a comparison of ten select verses. However, the literary
+tropes and suggestion are common throughout the text.
+It is not diicult to ind examples in SL for discussing the integration of the
+aesthetic and mystical, as this fusion is present in every single verse of the
+text. The very irst verse clearly elucidates this point:
+śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavitum |
+na ced evaṃ devo na khalu kuśalaḥ spanditum api ||
+atas tvām ārādhyāṃ hariharaviriñcyādibhir api |
+praṇantuṃ stotuṃ vā katham akṛtapuṇyaḥ prabhavati || 1 ||
+Translation:
+If Śiva is associated with Śakti, [he] is able to become the Lord/to
+come into being. If this is not [the case], Śiva [lit. (Mahā-)deva] is not
+even capable of pulsation. Hence, how can one bow on or pray to you
+without having earned virtue, as you are to be served even by the gods
+of creation, sustenance, and re-absorption?
+Comments:
+There are two central problems in translating this text. One, commentators
+attribute multiple meanings to this single verse,19 and any literal translation
+will necessarily fail to fathom all these meanings in a single translation.
+Two, the meaning of the text, or what the text refers to and suggests, is not
+conined to its conceptual references alone. Meaning is embedded within the
+text, and this cannot be dissociated from its Sanskrit language.
+Throughout the text, suggestion (dhvani) is crucial not only for aesthetic
+presentation but also for esoteric designation. Commentators often use the
+terms ‘indicated’ (sūcita)20 or suggested (dhvanita) in order to imply this
+esoteric meaning. In this process of unpacking meaning, the terms or the
+entire passage of the text refer simply to another term or a single letter of a
+19
+
+20
+
+The commentary AM gives fourteen meanings of this verse. This relects a classical tendency to write commentaries that go beyond the literal meaning (bhāvārtha) of the text.
+Between the commentarial literature, ṭīkā generally describes the literal interpretation and
+the bhāṣya stands for an exposition. In the case of SL, some ṭīkās such as Lakṣmīdharā or
+Aruṇāmodinī provide lengthy (and mostly creative on the part of the commentator) exposition while others, such as Padārthacandrikā or Kaivalyavardhinī, provide only the literal
+meaning.
+For instance, AM uses the term sūcita 12 times in a single verse (verse 6), along with terms
+such as pratīyate, or abhiprāya, all suggesting indirect meaning.
+
+8 | Sthaneshwar Timalsina
+
+mantra. For instance, LD derives śrīcakra as one of the designated meanings
+of this verse, Saubhāgyavardhinī (SV) derives Prāsāda, Anuttara, Vāgvādinī,
+the Śiva mantra of ive letters, and the three letter Pāśādi mantra. Besides
+deriving the śrīyantra from this verse, AM inds fourteen diferent meanings
+of the verse which are related to deriving mantras through suggestion.
+Some of these meanings are purely analytical. The irst and second meanings of the verse suggested in AM follow the Advaita and Sāṅkhya paradigms. However, other meanings are speculative and one can derive those
+meanings only through assigning words or letters to the speciic letters of a
+mantra. For instance, the tenth, eleventh, and twelfth meanings given in AM
+relate to the Kādi and Hādi mantras of Tripurā.
+AM suggests that there are two literary tropes of ‘insinuator’ (parikara)
+and the ‘seed of insinuator’ (parikarāṅkura) in this verse because all the
+terms applied here suggest that Śiva has hidden intentions. gerow (1971:
+203) summarizes this trope as “a igure in which the adjectival qualiications or epithets of a thing are multiplied with a view to re-enforcing the
+distinctiveness of that thing.” When the attributes used in the epithet suggest the speciic action for which the subject is being invoked, these tropes
+are found.21 What is meant, in this trope, is suggested through the attribute. Through the allusion of the eternal bond of Śiva and Śakti, the rasa of
+śṛṅgāra (meaning) is suggested (pratīti), and within this, another trope of
+‘model metaphor’ (samāsokti) is nested. In this metaphor, the character of
+one is ascribed to another based on action, sex, or attribute.22 gerow (1971:
+316) deines this as “a igure in which the descriptive qualiications of an
+explicit subject suggest an implicitly comparable object to which they likewise apply.” Since there is a cause-and-efect relation between the lines 1-2
+and 3-4, designated by the term ‘therefore’ (ataḥ), commentaries suggest
+that two further literary tropes of kāvyaliṅga and śleṣa23 can be found in this
+verse. When the meaning of a term refers to a second meaning, this is the
+literary trope of kāvyaliṅga. For instance, the term trinetra refers to Śiva,
+but if it is used to indicate ire, as Śiva has ire in his third eye, the trope
+there will be kāvyaliṅga.24 According to gerow (1971: 174), this trope is
+“a igure in which a metaphorical relation of cause and efect is expressed
+21
+
+22
+
+23
+24
+
+Jayadeva deines parikara as: alaṅkāraḥ parikaraḥ sābhiprāye viśeṣaṇe | sudhāṃśukalitottaṃsas tāpaṃ haratu vaḥ śivaḥ || Candrāloka 5.39. For further discussion, see Sāhityadarpaṇa 10.57.
+Jayadeva deines samāsokti as: samāsoktiḥ parisphūrtiḥ prastute’prastutasya cet | ayam
+aindrīmukhaṃ paśya raktaś cumbati candramāḥ || Candrāloka 5.62. For discussion, see
+Sāhityadarpaṇa 10.56.
+The commentary AM also outlines the kaiśikī vṛtti and vaidarbhī rīti in this verse.
+For discussions on kāvyaliṅga, see CĀ 5.38; SD 10.62.
+
+Reading Tripura Literature Through the Lens of Rasa | 9
+
+conventionally either as intention or rationale.” Paronomasia (śleṣa) refers
+to “the expression of more than one meaning by words naturally, or literally,
+bearing one signiication,”25 that is, a play on words particularly a pun.
+AM also points out that there are three types of suggested meaning (dhvani) in this irst verse. The irst kind, the suggestion of an idea (vastu) refers
+to evocation derived from the literal meaning (DĀ 1.4). This suggestion of
+an entity may be of a prohibition, an injunction, a fact, or a situation (Ingalls
+1990, 82:18-19). Also, the suggestion generated by alaṅkāra falls under the
+category of primary indication. In the case of alaṅkāra, ‘what is suggested
+seems to be a igure of speech’ (Ingalls 1990, 82:21-22). The highest mode
+of suggestion is when rasa is derived through suggestion (dhvani). The perfect embrace of Śiva and Śakti designates aesthetic beauty (śṛṅgāra) through
+suggestion.
+The following verse relates to the Ardhanārīśvara form of Śiva. This is
+quite a common image wherein the divine couple is depicted in a single
+body, with the right half as Śiva and the left half as Śakti:
+tvayā hṛtvā vāmaṃ vapur aparitṛptena manasā |
+śarīrārdhaṃ śambhor aparam api śaṅke hṛtam abhūt ||
+yad etat tvadrūpaṃ sakalam aruṇābhaṃ trinayanam |
+kucābhyām ānamraṃ kuṭilaśaśicūḍālamakuṭam || 23 ||
+Translation:
+Having not been content with your appropriation of the left half of
+Śiva’s body, I suppose you appropriated also the remaining half of it.
+This is because your entire form is shining red, endowed with three
+eyes, slightly bent with your breasts, and the crown on your hair has
+the crescent moon.
+Comments:
+The commentary Saubhāgyavardhinī (SV) points out that this verse has a
+trope that highlights within it another trope, that of concealment (apahnuti).26
+In this poetic device, what is real is denied and what is fancied is ascribed.27
+The suggestion that the remaining half of the body be that of the goddess
+is thus congruent with this interpretation. The shift in the form of goddess
+depicted here, from a goddess with two eyes and wearing a crown to a god25
+26
+
+27
+
+SD 10.57, translation by Ballantyne and mItra 1994, 401.
+gerow (1971: 109) translates apahnuti as ‘denial’ and deines it as “a igure in which the
+object of comparison is airmed in place of the subject of comparison.”
+For discussion on apahnuti, see SD 10.38-39. Jayadeva gives four varieties of apahnuti.
+See CĀ 5.24-28.
+
+10 | Sthaneshwar Timalsina
+
+dess with three eyes and wearing a crescent moon, indicates the fusion of the
+attributes of Śiva within the body of the goddess. SV suggests that there is
+no explicit concealment to be derived literally. Therefore, this alaṅkāra has
+been derived through suggestion (dhvani). There is also the suggestion of an
+entity (vastu), the condition of being identical with Śiva through the identity
+with the goddess. This suggestion rests on meaning, as this comes from the
+conclusion of the transformation of the body of Śiva to that of Śakti.
+Not all commentators agree in the assignment of speciic tropes to each
+of the verses. This distinction primarily rests on the ways the tropes are
+described by diferent aesthetes. AM suggests that the literary trope in this
+verse is that of fancy (utprekṣā).28 In general, ‘fancy’ relates to imagining
+an object within the character of another.29 This verse explicitly highlights
+the appropriation of the other’s properties. Following AM, this trope is supported by another literary device of kāvyaliṅga, discussed above (verse 1).
+ĀG, on the other hand, suggests that this is not just fanciful (utprekṣā), as the
+properties of Śiva are in fact actualized by the goddess and so this is ‘real’
+(vāstava); this aligns with SV in identiication of the poetic device.
+This verse is an example for how the poetic device functions in describing the mystical experience. The passage presents that the goddess has appropriated Śiva’s body. The commentary SV suggests the possibility of the
+practitioner’s intimate union with Śiva through his union with the goddess.30
+According to the commentary LD, this verse propounds the Uttara-Kaula
+doctrine following which there exists no category that transcends Śakti.31 In
+any case, it is not possible to fathom the suggested meaning of the primacy
+of the goddess without recognizing the literary device.
+The fusion of physical and aesthetic ‘ornaments’ is vivid in verse 42 where
+the golden diadem of the goddess is described applying multiple tropes.
+
+28
+
+29
+
+30
+31
+
+gerow (1971: 131) translates utprekṣā as ‘ascription’ and deines it as “a igure in which a
+property or mode of behavior is attributed to a subject literally incapable of sustaining that
+property, whereby an implicit simile is suggested whose subject (upameya) is the subject
+receiving the attributed property and whose object (upamāna) is the real basis of that property.”
+There are many varieties of utprekṣā. First based on explicit (vācya) or understood
+(pratīyamāna), this is divided into two, and they are further analyzed into ifty-six and
+thirty-two (collectively 88) varieties. This is further multiplied by two, based on whether
+or not the subject of the fancy is mentioned. SD, thus, describes a total of 176 varieties of
+utprekṣā. For discussion, see SD, chapter 10, verses 40-45.
+tvatsāyujyam eva śivasāyujyam iti dhvaniḥ | SV in SL 23.
+yad vā uttarakaulasiddhāntapratipādako ’yaṃ ślokaḥ | uttarakaulasiddhānte śaktitattvād
+anyat śivatattvaṃ nāsti | ataś ca śivatattvaṃ śaktitattva antarbhūtam iti tadevopāsyam iti
+prastutam | LD in SL 23.
+
+Reading Tripura Literature Through the Lens of Rasa | 11
+
+gatair māṇikyatvaṃ gaganamaṇibhiḥ sāndraghaṭitaṃ |
+kirīṭaṃ te haimaṃ himagirisute kīrtayati yaḥ ||
+sa nīḍeyacchāyācchuraṇaśabalaṃ candraśakalaṃ |
+dhanuḥ śaunāsīraṃ kim iti na nibadhnāti dhiṣaṇām || 42 ||
+Translation:
+Daughter of the snow mountain! He who sings [the glory] of your golden crown bedecked with the gems of the sky transformed to jewels,
+will have a doubt whether the crescent moon, spotted by the dazzling
+light of the gems32 is [in fact] the bow of Indra.
+Comments:
+The description of the golden diadem of the goddess in verse 42 utilizes
+four diferent literary devices of fancy (utprekṣā),33 concealment (apahnava),
+doubt (sandeha), and hyperbole (atiśayokti).34 By referring to the bow of
+Indra (also ‘rainbow’) as the crescent moon, the writer utilizes metaphorical
+fancy (utprekṣā). This same metaphor also falls under the device of hyperbole (atiśaya), as it employs the crescent moon to describe the bow of Indra as having an excessive nature. Through rejecting the crescent moon and
+referring to the bow of Indra, this also indicates the device of concealment
+(apahnava). By creating doubt as to whether this is the crescent moon or
+the bow of Indra, the metaphor also functions as doubt (sandeha). The AM
+commentary also identiies the trope of commixture (saṅkara).
+Following the commentators, two phonetic and corporeal bodies of the goddess are depicted in this verse. While the meticulous choice of words functions at the aesthetic level to suggest literary tropes, the same words also
+indicate esoteric mantras. Just a few examples from the commentaries upon
+this verse will suice to demonstrate that the text SL can be considered as
+a hypertext, with parallel readings possible. At the esoteric level, the commentary SV extracts the Kirīṭa mantra from this verse, saying: “With this,
+
+32
+
+33
+34
+
+I am translating nīḍeya as ‘gems,’ relying on Lakṣmīdhara’s (in SL 42) interpretation of
+the term as ‘. . . nīḍaṃ golaṃ tatra khacitaṃ nīḍeyaṃ ratnajātam. . .’ Aruṇāmodinī’s commentary explains the term nīḍa as: nīḍaṃ rathasthāpanārthaḥ kulāyaḥ golakam iti yāvat |
+Even this interpretation supports the same understanding.
+For discussion on 64 varieties of utprekṣā, see SD 10.40-46.
+See the commentary of Lakṣmīdhara on SL, verse 42.
+
+12 | Sthaneshwar Timalsina
+
+the Kirīṭa mantra, “haimakirīṭāya sahasrādityatejase namaḥ,” is deciphered.
+The speciic Kirīṭa mantra should be learned through the mouth of the preceptor.”35
+Ānandagiri, in his commentary, identiies two diferent mantras and justiies
+his reading as follows:
+“The verse refers to the Vāgīśvarī mantra with a single syllable. Accordingly, [within the term] himagirisute, [the letter] ‘ha’ stands for
+[the word ‘ha’ that means] ‘for sure.’ Aiṃ [refers to] the seed syllable
+[identiied as] vāgvabha. . . What is the character of the mantra? This
+is the kirīṭa or the crown of all the mantras.”36
+Ānandagiri further explains:
+“The esoteric meaning of the verse [starting with] gatairmāṇikya [is
+as follows]: [The word] gagana refers to [the letter] ‘ha’. [The word]
+māṇikyatvaṃ [refers to] ‘ra.’ ‘Maṇibhiḥ’ [suggests] ‘ī.’ ‘Sāndram’
+[refers to] the anusvāra or the phoneme ‘ṃ.’ ‘himagirisute’ [relates
+to] ‘nityaklinne.’ ‘yacchāyāchhuraṇaśabalaṃ’ [refers to] ‘madadrave.’ ‘Candraśakalam’ [refers to the word] ‘svāhā.’ Here those who
+come in the lineage [of Tripurā] understand the words [in the SL] as
+mantras by convention. Śaṅkarācārya, who is a siddha with the mastery [over both poetry and mantras] has the proiciency [and] after
+making a reference (saṅketana) [to this], hid the terms [of the words]
+and also the [speciic] letters related to mantras for the grace of the
+disciples. You should have no doubt here. This indication has come
+following the lineage. This is not to be reached by intellect. What the
+guru has said is as [I have] written.”37
+
+35
+
+36
+
+37
+
+etāvatā haimakirīṭāya sahasrādityatejase nama iti kirīṭamantra udāhṛtaḥ | kirīṭamantraviśeṣo gurumukhād avagantavyaḥ | SV on SL, verse 42.
+athavaikākṣaravāgīśvarīmantraparatayā padyam | tathā himagirisute ha iti niścaye | aiṃ
+vāg-bhavabījam . . . kiṃ lakṣaṇaṃ mantraṃ, kirīṭaṃ sakalamantramakuṭabhūtam | Ānandagirīyā, SL 42.
+gatair māṇikyeti padyasya rahasyārthaḥ - gatair iti | gagana ha, māṇikyatvaṃ ra, maṇibhir
+īkāraḥ, sāndraṃ anusvāraghaṭitaṃ, himagirisute nityaklinne, yacchāyāchuraṇaśabalaṃ
+madadrave candraśakalaṃ svāhā | atra paraṃparāgatānāṃ saṅketamantrapadagrahaṇam
+| nanu vyutpattyā svatantrasiddhaḥ śaṅkarācāryaḥ svayaṃ saṅketanaṃ kṛtvā padānām
+anabhivācyānāṃ ca śiṣyānugrahāyācīkḷpat | tava nātra kvāpi śaṅkā | paraṃparāsamāgato
+hy ayaṃ saṅketaḥ | na tu buddhigamyaḥ | gurūktaṃ yathālikhitam eva | Ānandagirīyā, SL
+42.
+
+Reading Tripura Literature Through the Lens of Rasa | 13
+
+Following the commentary AM, the verse also refers to the thousand petalled lotus in the body of the practitioner. The implicit meaning is that the
+description of the limbs of the goddess correlates to the corporeal limbs of
+the practitioner. The examples above have highlighted the mantra body of
+the goddess. What is explicit in the passage, the divine body, becomes one
+among many other understandings that are implicit, and according to Ānandagiri, this hidden meaning emerges from the lineage. Just as the carnal presence of the goddess depends upon her exotic limbs and her blissful nature
+relies upon the aesthetic qualities of her beauty, so also does her mantra
+body require the presence of mantras embedded within her limbs. Just as
+multiple literary devices play together in describing the ornament, a series of
+suggestions are at work that bring the esoteric meaning to the understanding
+of the reader. Following this maxim, commentators decipher the mantras of
+the associate deities when explaining the verses that describe the limbs and
+ornaments of the goddess.
+Verse 47:
+bhruvau bhugne kiñcid bhuvanabhayabhaṅgavyasanini |
+tvadīye netrābhyāṃ madhukararucibhyāṃ dhṛtaguṇam ||
+dhanur manye savyetarakaragṛhītaṃ ratipateḥ |
+prakoṣṭhe muṣṭau ca sthagayati nigūḍhāntaram ume || 47 ||
+Translation:
+Umā! Fond of removing fear in the world! I think of your slightly curved eye-brows as the bow of Kāma which he carried in his left arm,38
+[and as if] the string [is] ixed by your eyes that shine like bees. [It is
+as if Kāma] hides the bowstring below the elbow and [the middle of
+the bow] into the ists.
+Comments:
+This verse extols the beauty of the eyebrows of the goddess. In his poetic
+imagination, the poet sees a parallel between the eyebrow of the goddess
+and the bow of Kāma, the god of passion. The verse actually says very little
+of this in a literal sense. What is suggested is what matters. For instance,
+Kāma carries the bow made out of sugarcane, not so useful for real warfare.
+LD identiies the literary trope of metaphor (rūpaka) in this presentation of
+
+38
+
+The term savya is used in Sanskrit for both right and left. In here, I am following the commentaries: ‘savyo dakṣiṇas taditaro vāmaḥ sa cāsau karaś ca’ (Lakṣmīdhara), and ‘savyo
+dakṣiṇas taditaro vāmaḥ karaḥ | dhanur hi vāmakareṇaiva dhriyate|’ (Ānandagiri).
+
+14 | Sthaneshwar Timalsina
+
+the eyebrow.39 Here, although the particular adjective is identiied as something that exaggerates the receiver of the qualities, neither the number nor
+the gender matches between the source and the target of the metaphor. The
+two eyebrows are compared with the single bow of Kāma. LD states that
+number and gender rules can be violated in an analogy and gives example
+of ‘mukhaṃ candraḥ’ (face is like the moon) as an example of gender violation. In this example, the target possesses the neuter gender and the source is
+in masculine gender. In another example, ‘kalaśaḥ stanau’ (breasts are like
+the vase), although the vase refers to both breasts, the term itself is singular,
+a clear violation of an agreement in number. LD compares the nose of the
+goddess to the left arm of Kāma that carries the bow, since her eyebrows
+are compared with the bow. With this comparison, LD indicates the literary
+trope of hyperbole (atiśayokti), suggesting that the nose of the goddess is so
+beautiful that it functions as an arm for the god of desire. LD also identiies
+the blend of diferent literary devices, which in itself demonstrates the trope
+of ‘commixture’ (saṅkara).
+Kāmeśvara, in his commentary AM, identiies the irst type of the literary
+trope of fancy in this case, as what is being compared is expressed and is
+explicit.40 The eyebrows and the nose of the goddess are explicitly compared
+to the bow and arm of Kāma. What has been suggested here is that the glance
+of the goddess functions as the bow of Kāma to arouse the passionate desire
+of Śiva. AM also argues that there is a suggestion resting on entity (vastu-dhvani), alluding to the power of the glance of the goddess in destroying
+obstacles. Ānandagiri, on the other hand, points out that the basic perception
+of the eyebrows of the goddess is abandoned in the process of suggesting it
+as a bow and so this verse is applying the trope of concealment (apahnuti).
+Verse 48:
+ahaḥ sūte savyaṃ tava nayanam arkātmakatayā |
+triyāmāṃ vāmaṃ te sṛjati rajanīnāyakatayā ||
+tṛtīyā te dṛṣṭir daradalitahemāmbujaruciḥ |
+samādhatte sandhyāṃ divasaniśayor antaracarīm || 48 ||
+Translation:
+
+39
+
+40
+
+Classical aesthetes do not agree on the varieties of rūpakas found in this verse. While
+Jayadeva identiies only four kinds (CĀ 5.18-21), the commentaries Kāvyaprakāśa and
+Sāhityadarpaṇa give eight varieties. Kuvalayānanda, on the other hand, names six varieties. Sarasvatīkaṇṭhābharaṇa expands the scope of rūpakas by identifying ifteen varieties.
+Between the two vācya and pratīyamāna varieties of utprekṣā, this falls under vācyotprekṣā.
+
+Reading Tripura Literature Through the Lens of Rasa | 15
+
+Your right41 eye gives rise to the day, since it is of the nature of the
+sun. Your left [eye] creates night, since it is [the moon,] the master of
+the night. Your third eye with the glow of a slightly opened golden
+lotus gives rise to the intermediate time between day and night.
+
+Comments:
+Verse 48 of SL describes the eyes of the goddess, linking their function of
+causing day, night, and the intermediate states of dusk and dawn to successively her right, left, and third eye. Lakṣmīdhara considers this as the most
+perfect kāvya because it suggests that the deity transcends time and is beyond
+the cycle of birth and death through this evocative metaphor with an application of suggested meaning (dhvani).42 The third eye is compared to a barely
+opened golden lotus, suggesting its potentiality. Lakṣmīdhara identiies this
+supporting dhvani as intermediate level poetry (madhyama kāvya) that allows the highest level poetry to manifest through relying only on suggestion.
+He thus inds a blend of two diferent kinds of suggestion (dhvani).43
+The author of SV also locates literary suggestion (dhvani) in this verse and
+attributes it instead to a diferent construction. He inds that the description
+of three eyes being parallel to the sun, moon, and ire establishes the identity
+of the goddess with Śiva. Kāmeśvara, on the other hand, inds this verse as an
+example of suggesting an entity (vastudhvani) through literary ornamentation (alaṅkāra). The transcendence of the goddess and her identity with Śiva
+are both suggesting the facts, one aspect of vastudhvani.
+At the esoteric level, the sun, moon, and ire not only describe the three
+channels of prāṇa in the subtle body but also identify the triadic body of
+Tripurā. Śivānanda praises the goddess as:
+
+41
+
+42
+
+43
+
+While the term savya is used to designate both right and left and there is a possibility to
+read the passage as ’savya, I am simply following the reading suggested by the commentators.
+bhagavatyā avayavaviśeṣeṇa . . . kālotpattikathanāt bhagavatyāḥ kālāvacchedyatvaṃ
+dūrata evāpāstam iti dhvanyate | idam uttamaṃ kāvyam | LD in verse 48.
+ayam anuprāṇanātmakaḥ madhyamottamakāvyaprayojakadhvanyoḥ saṃsṛṣṭiḥ | saṃsṛjyamānaṃ vyaṅgyadvayaṃ pradhānadhvaninā aṅgāṅgibhāvena saṅkīryata iti dik | LD in
+verse 48.
+
+16 | Sthaneshwar Timalsina
+
+“The supreme goddess! the radiance in your yonī [possesses] the glow
+of molten gold; in the heart is the brilliance of lightening, and in the
+ājñā is the hue of the moon.”44
+The poetic devices utilized here not only describe the corporeal beauty of
+the goddess, they are also the tools that point towards its esoteric meaning,
+in this case, the distinct channels and distinct manifestations of the goddess
+to be found in diferent corporeal centers of the practitioner. In this way,
+the target, the body of the goddess that is described with the use of multiple
+literary tropes, itself becomes the source to describe the body of the aspirant.
+Verse 50:
+kavīnāṃ sandarbhastabakamakarandaikarasikaṃ |
+kaṭākṣavyākṣepabhramarakalabhau karṇayugalam ||
+amuñcantau dṛṣṭvā tava navarasāsvādataralau |
+asūyāsaṃsargād alikanayanaṃ kiñcid-aruṇam || 50 ||
+Translation:
+Your [third] eye in the forehead is somewhat red due to envy, having
+seen two baby bees [lit. eyes], stretched due to the side glance [up to]
+the pair of ears that is lustful only to the nectar of the blossoms of the
+reference of the poets, [and thus] drunk with the taste of nine rasas.
+Comments:
+This verse gloriies the third eye of the goddess. In this depiction, the third
+eye is jealous, as the wide eyes of the goddess almost touch her ears that are
+enjoying the aesthetic bliss of rasas by listening to the poetry. Lakṣmīdhara
+states that this depiction embodies the suggestion of an entity (vastu-dhvani). He then points out ‘hyperbole’ (atiśayokti), since in this depiction,
+the eyes of the goddess are presented as enjoying the aesthetic bliss. He also
+indicates the trope of concealment (apahnava) when using the phrase, ‘baby
+bees’ (bhramarakalabha), since the phrase ‘baby bees’ in the passage substitutes for the eyes, denying that they are eyes but rather baby bees. In addition, Lakṣmīdhara also points out the application of the device of metaphor
+(rūpaka),45 with the depiction of her eyes suggested by her glance (kaṭākṣa).
+Although a bee and a lotus are not related in terms of enjoying the pollen,
+44
+
+45
+
+yonau kanakapuñjābhaṃ hṛdi vidyucchaṭojjvalam | ājñāyāṃ candrasaṅkāśaṃ mahas tava
+maheśvari || Saubhāgyahṛdayastotra, verse 6.
+gerow (1971: 239) translates rūpaka as a literary device having the form of metaphorical
+identiication. He deines it as “a igure in which the subject of comparison is identiied
+with its object by a speciic process of grammatical subordination.” For a varieties of rūpaka, see gerow 1971, 239-259.
+
+Reading Tripura Literature Through the Lens of Rasa | 17
+
+as it is the bee that enjoys the pollen, they are depicted as both enjoying in
+a metaphoric sense. Through establishment of this relation, there is also the
+device of hyperbole (atiśayokti).
+The SV commentary indicates that the literal meaning, the glow of the eyes
+of the goddess, becomes subordinated through the application of literary devices that are used in the process of revealing suggested meaning. The two
+tropes applied here, following SV, are metaphor (rūpaka) and reason (hetu),
+and the trope of concealment (apahnuti) is found through suggestion.46
+Kāmeśvara maintains that there is a literary device of suggestion resting on
+literary tropes (alaṅkāra dhvani) in this verse, saying that the description
+gives the appearance of concealing of the natural glow of the third eye of
+the goddess.
+Although commentators ofer no further interpretations of poetic license
+found in this verse to imply that the third eye of the goddess is jealous, the
+poet is clearly applying suggestion (dhvani). By indicating that the third eye
+of the goddess is reddish, this verse evokes the third eye of Śiva, and through
+establishment of the identity between Śiva and Śakti by means of describing
+the reddish third eye, the poet is placing himself to the position of Cupid. As
+he would not like to be burnt down, the third eye of the goddess is depicted
+only as ‘somewhat red’ (kiñcid-aruṇa).
+Verse 51:
+śive śṛṅgārārdrā taditarajane kutsanaparā |
+saroṣā gaṅgāyāṃ giriśacarite vismayavatī ||
+harāhibhyo bhītā sarasiruhasaubhāgyajayinī47 |
+sakhīṣu smerā te mayi janani dṛṣṭiḥ sakaruṇā || 51 ||
+Translation:
+Mother! Your glance is saturated with love towards Śiva, contemptuous towards others, wrathful towards Gaṅgā, astonished at the deeds
+of Śiva, frightened by the snakes of Śiva, victorious with the virtue
+of the lotus, comic towards companions, and illed with compassion
+towards me.
+Comments:
+46
+
+47
+
+Kavikṛtavastukṛtasaundaryayor abhedādhyavasāyād atiśayoktyor anuprāṇyānuprāṇaka-bhāvasaṃbandhaḥ | apahnavas tu aṅgāṅgibhāvena saṅkīrṇaḥ | SV in verse 50.
+Although LD reads this passage as ‘. . . jananī,’ I am preferring the reading ‘. . . jayinī,’
+as this reading is supported in the commentaries SV, AM, Ānandagirīyā, Tātparyadīpinī,
+Padārthacandrikā, Ḍiṇḍima, Gopālasundarī, and Ānandalaharīṭīkā.
+
+18 | Sthaneshwar Timalsina
+
+At its most esoteric level, this verse depicts various glances that generate
+the diferent magical efects of hypnosis, killing etc. On the poetic front, this
+verse expands the concept of rasas by evoking the basic emotions (sthāyibhāva). The description of the glance of the goddess thus provides the platform for both the esoteric and aesthetic expressions. The goddess, in this
+presentation, bestows a loving glance towards Śiva, a contemptuous gaze
+towards ordinary folk, a wrathful gaze towards Gaṅgā, and the glance of
+astonishment at Śiva’s exploits. She has the frightened look upon seeing Śiva’s snakes, while she bestows a gaze full of charm, compassion, and grace
+towards her devotee. This description of the gaze of the goddess thus evokes
+central basic emotions, and through the evocation of these emotions, suggests the rasas. Classical aesthetes disagree upon the number of rasas suggested in this verse. According to Lakṣmīdhara, there are only eight rasas
+indicated in this verse. AM, on the other hand, maintains that the peaceful
+(śānta) rasa is also suggested in the verse.
+Following the general depiction, the sentiment of love towards Śiva with
+her amorous look depicts erotic lavor (śṛṅgāra); the sentiment of contempt
+towards others depicts the aesthetic lavor of disgust (bībhatsa) for their impermanent nature. Her gaze towards Gaṅgā is illed with rage, indicating the
+lavor of fury (raudra rasa). She has a gaze of wonder, indicating the lavor
+of wonder (adbhuta rasa), when listening to the wonders of Śiva such as
+subduing Tripura. The goddess embodies the mood of fear (bhayānaka) with
+her trembling because of Śiva’s snakes. The rasa of heroism is depicted in
+her gaze that excels the charm of the lotus. Her gaze towards her attendants
+indicates the comic (hāsya) lavor. Her glance to her devotee indicates compassion.
+Kāmeśvara, in his commentary AM, while indicating the presence of the
+mood of composure (śānta), suggests that this mood is expressed through the
+gaze of the goddess to the third eye of Śiva that burnt down Kāma to ashes.
+Since the union of Śiva and Śakti is an essential victory of Kāma, this act revitalizes him and the process is considered as the compassion of the goddess.
+Following the rasa doctrine, the revelation of the aesthetic lavors rests on
+the presence of the abiding emotions (sthāyibhāvas). For example, in order
+to suggest the loathsome lavor (bībhatsa), the emotion of contempt has been
+introduced. In the same way, anger suggests the element of fury (raudra),
+as it is its dormant emotion. The problem is, not all the permanent emotions
+for aesthetic lavors are listed in this depiction. Lakṣmīdhara explains that
+heroic lavor is suggested (dhvanita) through the result of (anubhāva) her
+heroism in the presence of a red color in the lotus. The somatic symptoms,
+such as reddish eye, are considered sāttvika-bhāvas, and these, in gener-
+
+Reading Tripura Literature Through the Lens of Rasa | 19
+
+al, are discussed within the consequents.48 The comic gaze of the goddess
+suggests the lavor of hāsya in the same way. The success of the poet is in
+suggesting (dhvanita) the aesthetic lavors by describing the abiding moods
+and somatic symptoms.
+Furthermore, there is also a literary trope of contradiction (virodha), as
+the goddess is simultaneously experiencing lavors derived through positive
+and negative emotions. The commentary SV identiies the two sentiments
+of fury (raudra) and disgust (bībhatsa), as contradictory to the erotic lavor
+(śṛṅgāra), and these emotions should not be present at the same moment in
+the same subject. Following the argument of SV, these rasas have diferent
+supports and thus there is no contradiction. This cryptic justiication in SV
+fails to depict the sudden grasp of all the rasas and relies on sequential expression, as is the norm among human beings. He could simply say that this
+verse depicts the goddess as the support of various and sometimes contradictory emotions that eventually transform into rasa.
+There is yet another issue concerning this verse: all the commentators
+discuss two diferent readings, either with a term ‘giriśacarita’ (the deeds of
+Śiva), or with a term ‘giriśanayana’ (the eye of Śiva). When following the
+second reading, Kāmeśvara has indicated the presence of śānta rasa, as has
+been already discussed. He also inds the presence of this rasa even when
+the verse is read with the irst reading. In this case, the commentator explains
+that the acts of Śiva suggest dispassion, and through it, this verse indicates
+the peaceful lavor (śānta rasa).
+Kāmeśvara also suggests that the presence of erotic (śṛṅgāra) and peaceful (karuṇa) essences are permanently found in the goddess and therefore
+the verse literally spells out these two rasas. As the other rasas are indicated through ‘abiding’ moods or suggested through results (anubhāvas),
+Kāmeśvara indicates the presence of the literary trope of ‘impassioned ornament that appears as if a lavor’ (rasavad-alaṅkāra). Viśvanātha explains
+that when a lavor or an incomplete lavor suggests a resemblance or the
+quelling of a sentiment is reduced to a subordinate condition, they become
+ornamentation (SD 10.95-96).
+Ānandagiri adds further comments upon this issue. He brings the argument that according to Bharata, the experiences generated by diferent rasas
+are in opposition to each other. Following his theory, the pairs of erotic
+(śṛṅgāra) and loathsome (bībhatsa), heroic (vīra) and fearsome (bhayānaka), furious (raudra) and wonderment (adbhuta), and the lavors of comic
+
+48
+
+I am primarily relying on Sāhityadarpaṇa, chapter 3, for discussion on these moods.
+
+20 | Sthaneshwar Timalsina
+
+(hāsya) and compassion (karuṇa) are contradictory to each other.49 In this
+verse (SL 51), the two contradictory rasas, śṛṅgāra and bībhatsa, are found
+in the irst quarter, raudra and adbhuta are suggested in the second quarter;
+bhayānaka and vīra are in the third, and hāsya and karuṇa are situated in
+the inal quarter of the verse. Thus the poet has skillfully presented all the
+possible contradictions in arranging the rasas in four quarters of the verse.
+According to ĀG, the poet, by a conscious choice of the arrangement of contradictory rasas, is suggesting that the nature of the goddess embodies and
+dissolves contradictions. That all the contradictions are resolved in the body
+of the goddess is expressed through this depiction of all rasas.
+The ĀG commentary identiies additional interpretations concerning
+rasa. Accordingly, this verse culminates in evoking only the erotic lavor
+(śṛṅgāra), since other rasas are subordinate. He is most likely referring
+to the SV commentary in this statement, as this is the conclusion SV has
+reached in its discussion on the number of rasas described in this verse. The
+second position found in ĀG is that this verse does not stimulate any of the
+rasas.50 This verse is simply listing various rasas. Ānandagiri inally states
+that there is no contradiction in the rise of erotic lavor.
+Although the commentators do not highlight it, it is quite likely that the
+poet is only suggesting eight rasas here. It is not because he adheres to this
+position, as he has explicitly mentioned nine rasas elsewhere. Just like the
+poet describes two diferent orders of Kādi and Hādi mantras of the goddess
+(verse 32-33), or the two ascending and descending orders of Kuṇḍalinī, the
+poet synthesizes diferent positions within the text. The verse subsequent
+to this (SL 52) spells out the mood of peace (śānta) with the explicit use of
+paciication (praśama).
+Following the Ḍiṇḍima commentary, the eight rasas described in relation
+to a theatrical performance are applicable to the play of the Lord with the
+goddess, also identiied as Prakṛti, as the goddess or prakṛti is the foundation
+of the world identiied with drama. Lord Śiva is the substrate of complete
+indiference to worldly objects (nirveda), the permanent mood necessary for
+the rise of compassionate lavor. Following this argument, since the rise of
+śānta indicates the paciication of all eight rasas, this is why the poet is separately treating śānta.
+
+49
+
+50
+
+rasau śṛṅgārabībhatsau mitho vīrabhayānakau | raudrādbhutau tathā hāsyakaruṇau
+vairiṇau mithaḥ || Nāṭyaśāstra. Cited in ĀG in verse 51.
+vastutas tv ayaṃ śloko nīrasaḥ | atrāsmin śṛṅgārādau nirūpyamāṇe avyavadhānena tadvirodhinām api nirūpaṇāt | ĀG in verse 51.
+
+Reading Tripura Literature Through the Lens of Rasa | 21
+
+Where the mystical and aesthetic domains overlap in this verse is in the
+discourse on the number of rasas. This verse simultaneously evokes all the
+rasas while clearly some rasas contradict others and cannot be simultaneously evoked.51 AM argues, since the magnitude of the goddess is extraordinary, it is possible for all the rasas to reside together. He further argues that
+just like śṛṅgāra, other rasas are also instrumental to liberation and therefore
+there is a mutual compatibility.52 Two points are explicitly clear: (1) the body
+of the goddess is conceived of as an integration of rasas, and (2) the aesthetic
+relish that results is instrumental to liberation.
+Verse 55:53
+nimeṣonmeṣābhyāṃ pralayam udayaṃ yāti jagatī |
+tavety āhuḥ santo dharaṇidhararājanyatanaye ||
+tvadunmeṣāj jātaṃ jagad idam aśeṣaṃ pralayataḥ |
+paritrātuṃ śaṅke parihṛtanimeṣās tava dṛśaḥ || 55 ||
+Translation:
+Daughter of the king of mountains! Wise ones say that the rise and
+dissolution of the world relies on the opening and closing of your eyelids. I think your gaze is forbidden from being closed to protect the
+entire world from dissolution, as it is originated of the opening of your
+eyelids.
+Comments:
+This verse speaks of the eyelids of the goddess. The poet relates the rise
+and collapse of the world with the opening and closing of goddess’s eyelids. According to Lakṣmīdhara, this verse propounds the Advaita doctrine
+of dṛṣṭisṛṣṭivāda, following which the entities of perception appear and disappear corresponding to perception or its absence.54 There is a clear resemblance of this verse with the irst verse of the Spandakārikā.
+At the esoteric level, the rise and collapse of the world or the opening and
+closing of the eyelids relate to two diferent orders of creation (sṛṣṭi) and
+retrieval (saṃhāra), vivid in Śrīvidyā rituals where the irst order relates to
+51
+
+52
+
+53
+
+54
+
+AM cites a passage following which śṛṅgāra and bībhatsa are contradictory to each other
+and so is vīra to bhayānaka, raudra to adbhuta, and hāsya and karuṇa. See AM in SL 51.
+śṛṅgārasyevetararasānām api trivargopayogitvāt parasparasauhārdam asty eveti
+keṣāñcinmatena na virodhaḥ | AM in SL 51.
+This verse is numbered 56 in the critical edition. I am following the numbering according
+to Kuppuswami edition.
+For discussion on this Advaita doctrine, see tImalsIna 2006.
+
+22 | Sthaneshwar Timalsina
+
+initiating the ritual from the center of the maṇḍala and eventually coming out
+to the periphery. The retrieval order refers to the return from the periphery to
+the center. As far as the poetic devices are concerned, the LD commentary
+identiies the fancy of relying on ‘efect’ (phalotprekṣā). This speciic trope
+relates to the signiier aspect of expression, where terms such as ‘as if’ etc.
+are used. In this verse, the glance of the goddess is depicted as granting protection. LD also points out that there is a suggestion of this fact, a variety of
+the vastudhvani, evident when the verse depicts the glory of the goddess by
+describing the rise and collapse of the world as a result of the goddess opening and closing her eyes. Classical Indian aesthetics consider the application
+of alaṅkāra highly suitable in the case when it becomes the part of suggestion (dhvani), and this is also the case here.
+The SV commentary outlines that there is the literary device of concealment (apahnuti) in this verse, on the grounds that the blissful nature of the
+Brahman is described here under the guise of describing the blissful body
+of the goddess.55 Kāmeśvara rejects this identiication and states that there
+is no literary trope of fancy (utprekṣā) in this verse, the position also of the
+Ḍiṇḍima commentary. The argument is, this verse is simply stating the fact.
+In other words, the creation and dissolution of the world through the opening
+and closing of the petals of the goddess’s eyes is a literal depiction.
+Although the commentators do not suggest it, it is reasonable to relate
+this verse to SK, verse 1. In this case, the Śaivite paradigm is inverted, with
+the role of Śiva described in SK being attributed to the goddess. This attribution is supported by a meticulous efort to apply suggestion based on fact
+(vastudhvani).
+Verse 59:
+Sphuradgaṇdābhogapratiphalitatāṭaṅkayugalaṃ |
+catuścakraṃ manye tava mukham idaṃ manmatharathaṃ ||
+yam āruhya druhyaty avaniratham arkenducaraṇaṃ |
+mahāvīro māraḥ pramathapataye svaṃ jitavate56 || 59 ||
+
+55
+
+56
+
+Niratiśayānandamayyā eva brahmāvinābhūtacicchakteḥ devatāśarīropādhim avalambamānāyāḥ svābhāvikaṃ tad anyathā prastūyata ity apahnutir eva | SV in verse 55.
+Although some editions follow the reading sajjitavate, I have followed the reading svaṃ
+jitavate, that I think its within the context most appropriately. While LD reads it as sajjitavate, SV reads ‘asvaṃ paraṃ daityasaṅghaṃ jitavate’ or one who has conquered others,
+the demons. Although two additional commentaries, Padārthacandrikā and Gopālasundarī follow this line of reading, I see this as lengthy imagination. AM reads it as svam
+ātmānaṃ jitavate, or one who has conquered oneself, the reading I have preferred here.
+Ānandagirīyā, Tātparyadīpinī, and Ḍiṇḍima follow this same reading.
+
+Reading Tripura Literature Through the Lens of Rasa | 23
+
+Translation:
+I believe that your face is the chariot of Kāma with four wheels, having the pair of earrings relected in the shining mirror-like cheeks.
+Having mounted this [chariot], the great victor Kāma plots against the
+master of goblins who has conquered himself and whose chariot is the
+earth, with the sun and moon as two wheels.
+Comments:
+This verse gloriies the earrings (tāṭaṅka) of the goddess. Being relected
+upon her cheeks, these two rings give a glimpse of four wheels of the chariot
+of Kāma. In this depiction, Kāma is abiding in the face of the goddess in
+his battle with Lord Śiva, who has the earth as his chariot, with the sun and
+moon as its wheels. The face of the goddess is presented here as the chariot,
+with her earrings and their relections appearing as wheels.
+Lakṣmīdhara suggests that the irst part of the metaphor demonstrates the literary device of fancy (utprekṣā), with the face of the goddess being presented as the chariot. In the second part, Kāma is gloriied as a great victor for
+his ability to ride this glorious chariot and so it contains the literary trope of
+poetical reason (kāvyaliṅga). In this device, a reason is implied in a sentence
+or a word. The might of Kāma is due to his chariot, a reason that is applicable
+only in poetic imagination. Although there is not an actual battle between
+Śiva and Kāma, this verse depicts a battle, and so hyperbole (atiśayokti) is
+present. Due to the blend of diferent literary tropes, there is also the device
+of commixture (saṅkara). Literary fancy (utprekṣā), on the other hand, only
+sustains the metaphor of poetic reasoning (kāvyaliṅga) and therefore there is
+no separate integration of fancy and other literary tropes.
+The commentary SV points out that this verse demonstrates suggestion
+(dhvani) by identifying the face of the goddess as the chariot of Kāma. In
+other words, there is not much glory to be given to the so-called mighty victor for defeating Lord Śiva, for he has the face of the goddess as his vehicle.
+ĀL also indicates that there is a literary device of concealment (apahnuti),
+in which exaggeration overlays a simple description, for the earrings give a
+glimpse of a chariot, rather than the natural sight of the face. In addition, by
+suggesting that the splendor of Kāma’s chariot exceeds that of the chariot of
+Śiva, the earrings of the goddess are gloriied through suggestion (dhvani),
+with an application of hyperbole (atiśaya).
+Kāmeśvara, on the other hand, suggests that there actually is the trope of
+illuminator (dīpaka). This trope relates to the situation when two distinct entities — one connected to the subject and another unconnected — are associated with the same attribute, or when the same case is connected with more
+
+24 | Sthaneshwar Timalsina
+
+than one verb. In this situation, a single term fulils two diferent purposes
+by being related to two diferent metaphors. For instance, the term āruhya
+(having ridden) connects both Kāma and Śiva, where Kāma is positioned on
+the face of the goddess and Śiva is depicted as riding the chariot of the earth.
+ĀG identiies three diferent literary tropes of simile (upamā), metaphor
+(rūpaka), and concealment (apahnuti). Simile, following Viśvanātha, relates to a resemblance of two entities expressed by a single sentence that
+is not accompanied with a contrast or diference.57 The application of the
+term ‘manye’ (‘I think’), which is used in the meaning of iva (like), shows
+the trope of simile, and the identity made between the chariot and the face
+demonstrates a trope of metaphor (rūpaka).
+The poet reverses the Purāṇic heroism of Śiva in his conquest of Tripura,
+where his chariot is described vividly with the metaphors such as the sun and
+the moon as two wheels. In this depiction, Kāma has a chariot of four wheels
+(two being relection of the rings in the cheeks of the goddess). The poet is
+thus comparing Śiva’s victory over Tripura to Kāma’s victory over Śiva. In
+essence, with the assistance of the goddess, Tripurā, even Tripura’s victor is
+subdued. The victory of Kāma in this depiction reverses the Purāṇīc myth
+where Kāma gets incinerated merely by the glare of Śiva’s third eye. The
+poet attributes ‘the great victor’ (mahāvīra) to Kāma in order to emphasize
+the glory of the goddess that turns the defeat of Kāma into his victory. In
+essence, Śiva’s love for Pārvatī ampliies the victory of Kāma.
+At the esoteric level, the text conceals within itself the mantra of Bhoginī.
+For instance, the terms in the verse such as sphuradgaṇḍā and ābhoga are
+used to decipher the phonemes aiṃ and kliṃ, and the term tāṭaṅkayugala is
+used to decipher ‘kula.’58 If the mantras deciphered are considered a text, SL
+is a hypertext with the subtexts embedded within.
+Verse 68:
+bhujāśleṣān nityaṃ puradamayituḥ kaṇṭakavatī |
+tava grīvā dhatte mukhakamalanālaśriyam iyaṃ ||
+svataḥ śvetā kālāgurubahulajambālamalinā |
+mṛṇālīlālityaṃ vahati yad adho hāralatikā || 68 ||
+
+57
+
+58
+
+SD 10.14cd. For twenty-seven varieties of upamā, see SD 10.14-27. gerow (1971: 140)
+translates it as ‘comparison’ and deines it as “the comparison of one thing with a substantially diferent thing in terms of a property, quality, or mode of behavior which they share;
+simile.” For a detailed analysis, see gerow 1971, 140-170.
+ĀG deciphers two mantras in this verse: aiṃ klīṃ kulaphsauṃ and oṃ aiṃ hriṃ klinne
+klinnamadadrave hsauḥ | See ĀG in SL 59.
+
+Reading Tripura Literature Through the Lens of Rasa | 25
+
+Translation:
+Eternally thrilled by the embrace of the destroyer of Tripura, your
+neck bears the glory of the stalk of your lotus-face. The creeper-like
+chain below [your neck], although naturally white, is dulled by the
+very fragrant paste mixed of agallochum etc. that bears the beauty of
+the lotus root.
+Comments:
+Verse 68 describes the neck of the goddess that is thrilled with the embrace
+of Lord Śiva. Her neck is compared to the stalk of lotus that holds the lotus-like face of the goddess. Resembling the glory of lotus-stalk, her neck,
+although naturally white, is darkened by the use of the agallochum paste.
+Her garland of pearls gives a glimpse of the ibrous roots of the lotus-stalk.
+LD points out in the statement, ‘there is the glory of the stalk of lotus,’ that
+this expression has the literary device of illustration (nidarśana). This ornamentation is indicated in the case when a possible or even impossible connection of things implies a relation of type and prototype (SD 10.51). In this
+case, the counter-image of Śrī is indicated by the term Śrī that is used to
+describe the glory of the neck of the goddess. In the statement, ‘lotus-face,’
+is the presence of the literary device of metaphor (rūpaka) is indicated, as
+this establishes identity between the source (lotus) and the target (face). In
+the second part of the verse, when the neck enhanced by the application of
+aguru is described as having the shine of the lotus-stalk, there is again a
+trope of illustration (nidarśana). And since this metaphor is also dependent
+upon the previous depiction, it is related as body and part, giving rise to the
+commixture (saṅkara) of metaphors.
+The commixture of literary tropes comes to its pinnacle in this verse. SV
+points out that this verse contains the commixture (saṅkara) of metaphor
+(rūpaka), illustration (nidarśana), concealment (apahnuti), reason (hetu),
+and wonder (vismaya). The literary trope of concealment (apahnuti) is explicit here, since the lotus-stalk suggests the lotus, but what has been suggested is abandoned in order to derive what has been concealed (the face of
+the goddess).
+The Divine Body of Metaphors
+
+It is reasonable to conclude that SL constitutes three bodies of the goddess:
+the irst section identiied as Ānandalaharī generates the esoteric experience
+through ritual visualization, mantras and maṇḍalas, philosophical speculation, and the practice of cakras and Kuṇḍalinī. This section is linked with the
+
+26 | Sthaneshwar Timalsina
+
+surge of bliss that occurs through the rise of Kuṇḍalinī, and the relation of
+this passage to mystical bliss is explicit even in the very title of the text. We
+can consider this as the mantra body of the goddess which is concealed within. The constituents of this body are mantras and maṇḍalas. The second section of the text that is also identiied as Saundaryalaharī (the name through
+which the entire text is known) brings to prominence the corporeal presence
+of the goddess. Above all, the text, replete with literary ornaments, constitutes the aesthetic body of the goddess. By transforming ordinary language
+to the aesthetic one, the text thus mirrors Sundarī or the ‘Beautuful One,’ and
+in this sense, the text becomes the metaphoric body of the goddess. Furthermore, the text is not merely descriptive. It is performed, as singing in melody
+is inseparable from the process of comprehension. The text frequently acts
+as a hypertext, assuming divergent readings through adoption of mystical
+and literary perspectives. Above all, each of the verses is used as a mantra
+that cannot be reduced to its literal translation. In essence, the divine body
+depicted in the text is identical with the text itself.
+The process of integrating multiple metaphors establishes the divine
+body of unparalleled beauty. In this creative poetic vision, literary tropes
+constitute the divine body: the face of the goddess is a lotus, with the goddess’s neck being compared to its stalk; her ornaments are compared to the
+tangle of lotus roots. This depiction of beauty is inseparably linked to the
+text itself, as the poet’s choice of words not only allows him to weave the
+metaphors but also to inscribe the mantras. This piece represents the most
+perfect expression of language: it represents the absolute even when it says it
+cannot describe it. It is vividly demonstrated in the text by the application of
+suggestion (dhvani) in every mode of expression that language is not merely
+a device of literal representation. This depiction of language evokes an early
+representation, where word and meaning are compared to Śakti and Śiva.59
+In the case of LS, Śakti is both the source and the target: Śakti as speech is
+the source and Śakti in her esoteric form is the target. In this light, a new
+framework is needed to ground speech that deies conventional understanding.
+SL integrates mystical experience with the aesthetic one, as the same passage functions for both. While the mantric body of the goddess is linked to
+transforming commonsense experience to mystical one, the text itself that
+incorporates literary tropes and suggestions as a means to the desired end of
+aesthetic pleasure. The text is written for the connoisseur of both Tantra and
+59
+
+See the benedictory verse of Kālidāsa in Raghuvaṃśa 1.1. This concept is reiterated in
+Tantra in various ways. For instance: śaktis tu mātṛkā jñeyā sā ca jñeyā śivātmikā | Cited
+from Tantrasadbhāva in the Cidvallī commentary on Kamakalāvilāsa 11.
+
+Reading Tripura Literature Through the Lens of Rasa | 27
+
+aesthetics, and reading it just to serve a literary or Tantric purpose discredits
+its merits. On the surface, the poet praises the goddess through describing the
+divine limbs and ornaments. This process, however, is not distinct from of
+the metaphoric expression and the application of alaṅkāra or dhvani. When
+revealing multiple layers of meaning through primary or secondary indications or through suggestion, what is discovered is not just what is referred to,
+but also the innate experiencing mode of awareness. Since this realization
+underlies all the cognitive modes, there is no instance of cognition that is not
+endowed with self-awareness, the target meaning of the poem. This understanding cannot be reached without accepting the world-airming Śākta philosophy that grounds the embodied nature of mystical experience. Following
+this philosophy, all modes of bliss - not just the aesthetic bliss - are the
+manifestations of the very self described in terms of ‘awareness and bliss’
+(cidānanda).
+The poet’s application of alaṅkāra in describing the divine beauty while
+essentially composing poetry of suggestion (dhvani-kāvya) follows the
+classical comparison of alaṅkāra as the body and dhvani as the essential
+self of poetry.60 The text demonstrates the prominent among innumerable
+alaṅkāras,61 and both the tropes that rest on the form of language and those
+that reveal content are displayed again and again in the text. The poet skillfully crafts both in a single verse (for instance, verse 1), and to it the requirement of a poetry relying on suggestion (dhvani-kāvya), the literary devices are manifest as the second nature of the poet, without any intellectual
+gymnastics.62 This efort matches the poet’s quest of materializing the beauty
+of the goddess without any efort (sahaja, verse 43) with the self-realization
+described in Tantric literature as ‘born together’ (sahaja).63
+The poet utilizes the poetic device of ‘ornamentation’ (alaṅkāra) with the
+awareness that the classical aesthetes viewed poetry or drama speciically as
+the body and literary tropes its ornaments. Although not all aesthetes take
+this literally, Ānandavardhana does, comparing the poetic alaṅkāra with
+bracelets (DĀ 2.6), recommending that it should be subordinated in order
+for rasa to be expressed (DĀ 2.19). The same alaṅkāras, however, attain the
+status of the self, if they are not simply resting in the signifying words, but
+are expressed through suggestion (dhvani). As Ānandavardhana (DĀ 2.28)
+states:
+60
+
+61
+62
+63
+
+Ānandavardhana is the irst one to identify dhvani as the self (ātman) of poetry. For instance, see kāvyasyātmā dhvanir . . . Dhvanyāloka (DĀ) 1.1.
+. . . alaṅkārāṇām anantatvāt. . . Locana in DĀ 2.17.
+For the recommendation of alaṅkāra in dhvani-kāvya, see DĀ 2.16.
+For the early history of sahaja, BHattacHarya 1999 (ed.); davIdson 2002a; and davIdson
+2002b.
+
+28 | Sthaneshwar Timalsina
+
+“Those igures of speech which cannot be made into the body of a poem
+when they are directly expressed, attain the highest beauty when they form
+a part of dhvani.”64
+The centrality of the body metaphor in describing alaṅkāras is crucial for
+the discussion of the divine body.65 It is not coincidental in SL that the poetic
+alaṅkāras abound when describing the divine ornaments. For instance, verse
+42 describes the golden diadem with an application of the device of doubt
+(sandeha) and exaggeration (atiśayokti); verse 61 portrays the nose pearl
+through an application of rūpaka and upamā; the garland of pearls is depicted
+in verse 68 with an application of nidarśana, rūpaka, and the inter-mingling
+of both into a single ornamentation (saṅkara). Verse 74 again describes the
+garland of pearls with application of utprekṣā and upamā. Verse 91 portrays
+the anklets embedded with shining gems applying utprekṣā, atiśayokti, and
+the inter-mingling of both (saṅkara). The relation of two corporeal and poetic ornamentations are, however, marginal to the description of the body of
+the goddess where dhvani plays central role in elevating the status of ornaments to the very essential body of the goddess.
+Dhvani is at the center of the description of the divine body. The poet
+relies on alaṅkāra and rasa to reach to the suggested meaning (dhvani), and
+the text is saturated with examples of this application. Varied examples of
+dhvani can be gleaned from just the examples discussed above. In verse 23,
+the identiication with Śiva through the identity with the goddess is reached
+through dhvani, and the poet utilizes multiple alaṅkāras in this process. The
+description of the eyebrows in verse 47 suggests the power of the goddess to
+destroy obstacles, a ine example of the application of dhvani. Lakṣmīdhara
+considers verse 48 as a perfect example of poetry with two diferent types
+of dhvani playing a role in the description of the eyes of the goddess that
+suggests transcendence of time. The aurora of the third eye of the goddess
+described in verse 50 is an example of alaṅkāra-based dhvani, as it applies
+multiple alaṅkāras in the process of animating the third eye. In extolling the
+glory of the goddess, verse 55 is an example of vastu-dhvani, and demonstrates a subordinate utprekṣā in this case. It is thus vivid that through suggestion, the literary device of ornamentation (alaṅkāra) transforms into the
+essence of literature, and for our argument, it makes the linguistic body irreducible.
+Conclusion
+64
+65
+
+Ingalls, masson, PatwardHan 1990, 354.
+Alaṅkāras as the body of the higher self of rasa or dhvani is quite common in Sanskrit
+poetics. See also Kāvyādarśa 1.10.
+
+Reading Tripura Literature Through the Lens of Rasa | 29
+
+SL is thus poetry for aesthetic experience and an Āgama for esoteric Tantric
+practice. With its focus on Tantric yoga in the irst part identiied as ĀL,
+41 verses of the text elevate the experience of bliss from a limited bliss of
+self-awareness to the bliss that encompasses all that exists (jagadānanda).66
+This process coincides with spelling out the mantras, as conirmed by many
+classical commentaries. The esoteric domains involve the discourse on
+cakras and Kuṇḍalinī, integral to Tantric yoga. This meditative practice supports the inward low of the mind.
+The visualized body of the goddess, in this metaphysics, is not a device
+to reach to some transcendent experience that rests on rejecting language
+and form. On the contrary, the divine body and immanence as suggested by
+it, stand on their own as modes of the highest experience. This metaphysics
+does not reject transcendence. The text evolves on the framework of Trika,
+that the self or Śiva as simultaneously immanent and transcendent, the union
+of Śiva and Śakti in this depiction, or the transformation of Śiva to the body
+of the goddess, vividly exempliies this. The experience of bliss and beauty culminates in the experience of the goddess’s beautiful body, her carnal
+presence. Diferent mechanisms function in this transformative experience.
+While the experience of bliss unfolds the transcendent by means of a gradual
+low of bliss in diferent stages of mystical surge, the experience of beauty
+relies on immanence. On one hand, what is beautiful is the transcendent nature of the goddess Tripurā - she who is beyond the triad - while on the other,
+where the beauty is found is in the lesh. Instead of placing transcendent and
+immanent experiences as oppositional, this perspective views them as complementary and simultaneously possible. With the example of ‘waves’ found
+in this description, the experience of transcendence is compared with knowing the ‘ocean,’ and immanent experience is compared with seeing ‘waves.’
+Just as seeing the waves does not prevent knowledge of the ocean full of
+waves, in the same way, experiencing corporeal beauty does not preclude
+the highest esoteric experience. This position makes the dualism of mind
+and body irrelevant, grounding the transcendent self-experience within the
+periphery of embodied experience.
+The text, following this argument, does not just describe the goddess but
+instead embodies her. Rituals directed towards the goddess, along the same
+lines, do not invoke the deity but conirm her corporeal presence. In the
+case of SL, the language of the text and its conscious low of metaphors
+and metric articulation, are integral aspects of Trika, wherein the absolute
+66
+
+The name of the text is itself picked from a phrase in verse 5d, . . . cidānandalaharīm | The
+term parānanda in verse 34d and 99d evokes the levels of bliss outlined in Trika literature.
+
+30 | Sthaneshwar Timalsina
+
+is realized through both transcendent and immanent experience. What transforms the common words to the divine body is its aesthetic representation.
+The goddess is the beautiful one (Sundarī), and what embodies beauty (the
+words) stand for the divine body. Literary tropes of alaṅkāra and suggestion
+(dhvani) thus mirror the very body and the self of the goddess. This platform
+grounds both the aesthetic and esoteric experiences.
+
+Abbreviations
+
+ĀG
+ĀL
+AM
+CĀ
+DĀ
+
+LD
+PA
+SD
+SK
+SL
+SV
+
+Ānandagirīyā
+Ānandalaharī
+Aruṇāmodinī
+Candrāloka
+The Candrāloka of Jayadeva. Varanasi: Caukhamba Samskrit
+Series Oice, 1970.
+Dhvanyāloka
+The Dhvanyāloka of Ānandavardhana, with the Locana commen
+tary of Abhinavagupta. Varanasi: Chowkhamba VidyabhaVan,
+1987.
+Lakṣmīdharā
+Puraścaryārṇava, see Rana 1972
+Sāhityadarpaṇa
+The Sāhityadarpaṇa of Viśvanātha, with the commentary Lakṣmī.
+Chawkhambha Sanskrit Sansthan, 2007.
+Spandakārikā, see Singh 1980
+Saundaryalaharī, see kuppuSwami 1991
+Saubhāgyavardhinī
+
+Bibliography:
+
+apte, V. S. 2000 (1965). The Practical Sanskrit English Dictionary. Delhi
+2000.
+ballantyne, J. R. and pRamada daSa mitRa 1994. The Sāhityadarpaṇa or
+Mirror of Composition of Viśvanātha: A Treatise on Poetical Criticism.
+Delhi 1994.
+bhattaChaRya, N. N. (ed.). 1999. Tantric Buddhism: Centennial Tribute to
+Dr. Benoytosch Bhattacharyya. Delhi 1999.
+bRookS, douglaS 1990. The Secret of Three Cities: An Introduction to Hindu
+Śākta Tantrism. Chicago 1990.
+
+Reading Tripura Literature Through the Lens of Rasa | 31
+
+bRown, noRman 1958. The Saundaryalaharī, or The Flood of Beauty. Cambridge 1958.
+Clooney, FRanCiS X 2005. Divine Mother, Blessed Mother: Hindu Goddesses and the Virgin Mary. New York 2005.
+daVidSon, Ronald m. 2002a. “Reframing Sahaja: Genre, Representation,
+Ritual and Lineage,” Journal of Indian Philosophy. 30 2002, 45-83.
+- 2002b. Indian Esoteric Buddhism: A Social History of the Tantric Movement. New York 2002b.
+deVy, g. n. 2002. Indian Literary Criticism: Theory and Interpretation. Hyderabad 2002.
+dyCzkowSki, maRk 1987. The Canon of the Śaivāgama and the Kubjikā Tantras of the Western Kaula Tradition. Albany 1987.
+- 2000. Kubjikā, Kālī, Tripurā, and Trika. Kathmandu 2000.
+- 2009. Manthānabhairavatantra: Kumārikākhaṇḍa. New Delhi 2009.
+dViVedi, VindhyeSVaRi pRaSa (ed.). 1969. Sāṅkhyasaṅgraha. Varanasi 1984.
+dViVedi, VRaJa Vallabha (ed). 1984. Nityāṣoḍaśikārṇava: With the Commentaries Ṛjuvimarśinī and Artharatnāvalī. Varanasi 1984.
+edgeRton, FRanklin 1959. The Saundaryalaharī or Flood of Beauty. The
+Journal of Asian Studies, 18:3, 417-419.
+geRow, edwin 1971. A Glossary of Indian Figures of Speech. The Hague:
+Mouton.
+guRu, nataRaJa 1988. Saundaryalaharī: The Upsurging Billow of Beauty of
+Śaṅkarācārya. Kerala 1988.
+haCkeR, paul 1962. The Saundaryalaharī or Flood of Beauty. Orientalische
+Literaturzeitung, 57:1, 78.
+ingallS, daniel h. h., JeFFRey mouSSaieFF maSSon and m. V. patwaRdhan
+1990. The Dhvanyāloka of Ānandavardhana: With the Locana of Abhinavagupta. Cambridge 1990.
+kuppuSwami, appiah 1991. Saundaryalaharī: With Ten Diferent Commentaries. Delhi 1991.
+monieR-williamS, monieR 2005 (1899). A Sanskrit English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages. Delhi 2005.
+pandey, k. C. 1963. Abhinavagupta: An Historical and Philosophical Study.
+Varanasi 1963.
+RaghaVan, V. 1967. The Number of Rasa-s. Madras 1967.
+Rana, dhana ShamSeR 1972. (Ed.). The Puraścaryārṇava of Pratapa Siṃha.
+Kathmandu 1972.
+SaRaSVati, ChandRaSekhaRendRa 2001. Śrī Śaṅkarabhagavatpādācārya’s
+Saundaryalaharī. Mumbai 2001.
+
+32 | Sthaneshwar Timalsina
+
+Śāstrī, rangacharya raddi (ed.). 1938. The Kāvyādarśa of Daṇḍin. Poona
+1938.
+Saubhāgyahṛdayastotra. See Dvivedi 1984, 304-5.
+Singh, JaideVa 1980. Spandakārikā: The Divine Creative Pulsation. Delhi
+1980.
+Śṛṅgāratilaka. Rudraṭa’s Śṛṅgāratilaka and Ruyyaka’s Sahṛdayalīlā. Richard
+Pischel (ed.). Varanasi: Prachya Prakashan, 1968.
+Staal, FRitS 1989. Rules Without Meaning: Ritual, Mantras, and the Human
+Sciences. New York 1989.
+SubRahmanian, V. k. 1977. Saundaryalaharī: The Ocean of Divine Beauty of
+Śaṅkarācārya. Delhi 1977.
+timalSina, SthaneShwaR 2005. “Meditating Mantras: Meaning and Visualization in Tantric Literature.” Theory and Practice of Yoga: Essays in
+Honour of Gerard James Larson. Ed. JaCobSen, knut. Leiden 2005, 213236.
+- 2006. Seeing and Appearance. Aachen 2006.
+- 2007. “Metaphor, Rasa, and Dhvani: Suggested Meaning in Tantric Esotericism,” Method and Theory in the Study of Religion, 19: 134-162.
+- 2010. “Mantra,” Encyclopedia of Hinduism (Vol. 2). Ed. Knut Axel Jacobsen, Leiden 2010.
+waRdeR, a. k. 1972. Indian Kāvya Literature. Delhi 1972.
+
+

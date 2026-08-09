@@ -1,0 +1,17 @@
+{
+  "taxonomy_id": "checkpoint1_taxonomy_v1",
+  "outcome": ["SANSKRITREE_ERROR", "REFERENCE_ERROR_OR_WEAKNESS", "REFERENCE_INTERPRETIVE_EXPANSION", "BOTH_DEFENSIBLE", "TEXTUAL_VARIANT", "COMMENTARY_DEPENDENT", "UNRESOLVED"],
+  "cause": ["NORMALIZATION", "SEGMENTATION", "MORPHOLOGY", "COMPOUND", "SYNTAX", "COREFERENCE", "LEXICAL_SENSE", "TECHNICAL_TERM", "FRAME_SELECTION", "FRAME_ROLE", "SEMANTIC_PLAN", "RENDERER", "DISCOURSE_CONTEXT", "UNSUPPORTED_ADDITION", "OMISSION"],
+  "severity": ["MINOR", "MAJOR", "CRITICAL"],
+  "adjudication_fields": {
+    "verse_id": "string",
+    "sanskritree_output": "string",
+    "reference_output": "string",
+    "reference_id": "string (translator + edition)",
+    "span": "string (affected text span)",
+    "outcome": "enum from outcomes",
+    "cause": "enum from causes",
+    "severity": "enum from severity",
+    "notes": "string (free text justification)"
+  }
+}

@@ -1,0 +1,1180 @@
+Journal of Indian Philosophy
+https://doi.org/10.1007/s10781-020-09439-w
+
+(0123456789().,-volV)
+(0123456789().,-volV)
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy
+of Abhinavagupta
+Sthaneshwar Timalsina1,2
+
+© Springer Nature B.V. 2020
+
+Abstract This paper engages Abhinavagupta’s (11th C.) philosophy of “aham,” “I”
+or “I-am,” in a global philosophical platform. Abhinavagupta reads aham to ground
+speech in experiencing and expressing subjectivity. The aham, in this background,
+has three distinctive topographies: aham as the ego of the empirical subject, aham as
+the subject of experience that objectifies the ego, and aham as the ego that embodies
+the totality (It is generally problematic to assign any specific concept to a particular
+philosopher. For example, the all-embracing nature of aham is already found in
+Utpala’s writings (Dyczkowski 1990, p. 11). Nemec (2011, p. 42) reiterates the fact
+that the concept of pūrṇāhantā or the vocabulary to support this concept is absent in
+Somānanda. Besides Abhinava, I am incorporating later Śākta commentarial texts in
+this analysis. My justification for giving Abhinava main credit is that he formally
+established this concept and later commentators primarily expand upon his insights.
+See also Bäumer (2011, pp. 101–124). While aham in its most exalted sense relates
+to the absolute I-consciousness that embraces the totality, it immanently encloses all
+individualities within its embrace, enveloping all to find a singular identity through
+its transcendental gaze. Aham in this sense is the “I-am” in which all those within
+the parameters discover their individuality while also finding collectivity. It is the
+I-sense that determines or delimits the parameters of the body, and in this sense
+aham also stands for the embodied self-experience.
+Keywords aham · ego · subjectivity · ānanda · Abhinavagupta ·
+Finite element analysis
+
+& Sthaneshwar Timalsina
+samvidullasa@gmail.com;
+timalsin@sdsu.edu
+1
+
+San Diego State University, 11289 Silver Buckle Way, San Diego, CA 92127, USA
+
+2
+
+Department of Religious Studies, San Diego State University, San Diego, CA 92182, USA
+
+123
+
+S. Timalsina
+
+Abbreviations
+APS Ajadapramātrtāsiddhi
+˙
+˙
+PTV Parātrı̄śikāvivarana
+˙
+TĀ
+Tantrāloka
+YH Yoginı̄hrdaya
+˙
+
+Background
+The objective of this essay is to engage the concept of “aham,” “I” or “I-am,” in
+Abhinavagupta’s (11th C.) philosophy in a broader perspective.1 My approach is
+mostly exegetical.2 I read select examples from Utpaladeva (10th C.) and use other
+references only to buttress their arguments. My focus is on “aham,” acronymically
+read in triadic and dyadic forms. These philosophers read aham to ground speech in
+experiencing and expressing subjectivity.3 The aham, I argue, has three distinctive
+topographies: aham as the ego of the empirical subject, aham as the subject of
+experience that objectifies the ego, and aham as the ego that embodies the totality.
+Again, the word totality here is not to be read in the Hegelian sense, as this “aham”
+retains its generative power, it embodies diversity within, and in many regards is an
+assemblage of mutually exclusive-inclusive self-determining potentialities (śakti/
+mātṛkā). While aham in its most exalted sense relates to the absolute I-consciousness that embraces the totality, it immanently encloses all individualities within its
+embrace, enveloping all to find a singular identity through its transcendental gaze.
+Aham in this sense is the “I-am” in which all those within the parameters discover
+their individuality while also finding collectivity. It is the I-sense that determines or
+delimits the parameters of the body, and in this sense aham also stands for the
+embodied self-experience.
+
+1
+
+Dyczkowski in Self-awareness, own awareness, and egoity, © Author, 1990, p. 11). Nemec (The
+ubiquitous Śiva: Somānanda’s Śivadrsti and his tantric interlocutors, Oxford University Press, New York,
+˙˙˙concept of pūrṇāhantā or the vocabulary to support this concept is
+2011, p. 42) reiterates the fact that the
+absent in Somānanda. Besides Abhinava, I am incorporating later Śākta commentarial texts in this
+analysis. My justification for giving Abhinava main credit is that he formally established this concept and
+later commentators primarily expand upon his insights. See also Bäumer (Abhinavagupta’s Hermeneutics
+of the Absolute: Anuttaraprakriyā: An Interpretation of his Parātrı̄śikā Vivarana, D. K. Printworld, Delhi,
+˙
+2011, pp. 101–124.
+2
+
+If explored historically, this concept of affirmative “aham” is not just an evolution of ideas within
+Śaiva/Śākta monism but this is also a result of a sustained dialogue with the Buddhist philosophers. For
+the conversation of these ideas, see Eltschinger and Ratié (2007) and Ratié (2007). For a comparative
+approach, see Ganeri (2011) and MacKenzie (2011).
+3
+
+For this identification, see for example Parātrı̄śikāvivarana (PTV), pp. 4–5: sā ca śaktiḥ lokānugra˙
+havimarśamayī prathamataḥ parāmarśamayyā paśyantyā
+āsūtrayiṣyamāṇānantaśaktiśatāvibhinnā
+prathamataraṃ paramahāmantramayyām adeśakālakalitāyāṃ saṃvidi nirūḍhā, tāvat paśyantyudbhaviṣyaduktipratyuktyavibhāgenaiva vartate |. Read also Padoux in Vāc: The concept of the word in
+selected Hindu Tantras, Sri Satguru Publications, Delhi, 1990, pp. 190, 380, and 386. For the analysis of
+phonetic expression in light of triadic mysticism that becomes central to the analysis of aham, also see
+Tantrāloka (TĀ), Chapter 3, verses 66–234. For the expression of speech in accordance with the
+manifestation of aham, see TĀ, Chapter 3, verses 236–240.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+The more we read Utpala and Abhinava, the more we realize that the subject of
+experience in their system is plastic. Yogic practices are meticulously designed to
+reinforce the idea that one’s own sense of “I-am” is subject to expansion or
+blossoming. At the basic level, there is no categorical difference between human
+and animal ego-sense, as this is determined by the body. This also means that our
+primary sense of self-consciousness relates to our bodily consciousness and bodily
+being. The plasticity of the ego comes into play when we engage the way these
+philosophers understand speech: not just that our self-awareness has semanticity, it
+is also flexible.4 Mantric speech is utilized to reinforce the idea that one’s own sense
+of “I-am” is in fact the object to be constructed by meticulous visualization. While
+at times this speech is depicted as mantric, meaning it has transformative power,
+most often this remains secular speech, or the mechanism of conceptualization that
+constitutes the foundational concepts of the self and other. Reading aham, therefore,
+is not a project of taxonomy but of phenomenology.
+From an Abhinavaguptian perspective, the self has both transcendent and
+immanent domains. It can be expunged of horizon, or of the sense of interiority and
+exteriority, while retaining its dynamism. When consciousness is actualizing its own
+immanence, it is transcendent (viśvottīrṇa). This is because it is not expressing itself
+by means of the totality of the expressed entities. When consciousness transcends
+itself and encounters the other, it is explained in terms of immanence (viśvamaya) as
+this is where consciousness finds itself in the myriads of forms. This is not therefore
+contradictory for consciousness to manifest as expunged of conceptualization
+(nirāsaṃśa) while at the same time remain full (pūrṇa).5
+From the perspective of Abhinavagupta, the evolution of the ego begins from the
+self-actualization of aham as full, as the totality. This experience of allencompassing singularity of the self is not in negation of the other; the other has
+not emerged from within. The aham then unfolds itself, giving rise to the manifold,
+by the primordial division of subject and object. The aham, however, is not a
+monadic singularity as the freedom embedded within it is defined in terms of its
+mirroring or assuming the manifold. When the aham is merely gazing within, the
+polarities of illumination (prakāśa) and reflexivity (vimarśa) are homogenized. In
+other words, reflexivity grasps the illuminating aspect of itself while the
+illuminating aspect illuminates its own reflexivity. When reflexivity is externalized,
+there is the first expression of “this” (idam) and the absolute ego experiences its
+singular presence, with it being divided in terms of a mere illumination and a mere
+reflexivity. That is, consciousness itself constitutes its horizons and gives sense of
+something being out there and subject as spatially located within.
+On this backdrop, we can glean that the emergence of the embodied ego is a
+gradual process that begins with the absolute ego. While the absolute ego
+encompasses the totality, similar to the body determining its singular being, the
+4
+
+I am deriving this on the basis of a gradual evolution of the ego in the Trika system. Starting from an
+individual ego (sakala) to the absolute, Parama Śiva, this system provides seven stages for the surge of
+subjectivity.
+
+5
+Wenta (2016, pp. 364–367) interprets pūrṇa in Utpala’s writings in three distinctive senses of the
+fullness of sensory experience, the fullness of I-ness, and the composite of the transmental (unmanā) with
+the mind (samanā).
+
+123
+
+S. Timalsina
+
+individuated ego determines itself within the epidermis, like an organ discovering
+its own vitality. Just as a person can define himself based on his individual or
+collective identity, so too does this aham express itself in collective as well as
+individual forms. For Abhinavagupta, the real challenge is not of explaining or
+categorizing aham but in nurturing the aham from its fragmented actualization to
+the totalized realization. This totalization dawns with experiencing oneself as “I am
+this” (so ’ham) where that which is externalized and objectified becomes one and
+the subject and object interpenetrate and merge in a singular identity. The metaphor
+of sexual union to describe this homogenization further highlights that while the
+embrace gives the sense of oneness, this does not erase difference.6
+
+Aham and the Lacanian Ego
+Following Jacques Lacan, the jubilant moment of “aha” parallels virtual wholeness,
+but since this is experienced in the initial stage of mirroring, it is not possible for
+subjects to attain this wholeness again.7 That is, we are biologically conditioned in
+such a way that this primordial experience is not possible to repeat. We can find
+parallel to this “aha” in Abhinavagupta’s orgasmic expression of “ah,” as it is in this
+moaning (śītkāra)8 that the wholeness reveals itself, and the “m” added in the “ah”
+to compose “aham” or I-am, is merely the banging together (saṅghaṭṭa) of the two
+polarities of revealing and reflexivity. Subjectivity (pramātṛtā) is an aftermath of
+this experience. Just as aham swallows differences within, subjectivity designates
+the expunging of diversity. This subjectivity, for Abhinava, can have a course from
+the absolute aham to the embodied and spatio-temporally determined ahaṃkāra.
+The difference is, the integral experience in innate and retraceable for Abhinava.
+The freedom of consciousness, for Abhinava, lies in its capacity to remain in its
+own immanence even when it transcends itself and actualizes its horizons. The
+jubilant “aha” moment in Lacan or the orgasmic “aha” moment in Abhinava are not
+different in phenomenology. The difference is, while the orgasmic “aha,” or the
+primordial state of totality is achievable, Lacanian “aha” is biologically determined
+and is accessible only as an infant. Abhinava uses the embrace of the primordial
+couple, Śiva and Śakti as a metaphor to depict the mingled and as if inseparable
+relation of the two domains of consciousness: prakāśa, or illumination and vimarśa
+or reflexivity. Furthermore, Abhinavaguptian analysis culminates with an
+
+6
+
+This is one of the central themes of the Yāmala Tantras. I have addressed the dialogical aspect of
+consciousness elsewhere (Timalsina 2014). For example: rudrasya rudrāyāś ca yad yāmalaṃ saṅghaṭṭaḥ
+nirvibhāgapraśnottara-rūpasvarūpāmarśanaprasarād ārabhya yāvad bahir anantāparigaṇanīyasṛṣṭisaṃhārabhāsanaṃ yatrāntaḥ . . . PTV, p. 103, lines 2–4.
+7
+
+For basic Lacanian concepts, consult the entry by Adrian Jonston (2018), Jacques Lacan: https://plato.
+stanford.edu/entries/lacan/
+Also read Bruce 1995. Lawrence (2008, pp. 47–48, 143, 152) made first attempt to read cosmic I-sense
+of pūrṇāhantā in light of Lacan.
+
+8
+For Abhinava’s application of the term śītkāra, see TĀ 3.167, 5.112. For saṅghaṭṭa, see Tantrāloka
+28.47, 29.49,29.53, 29.49,29.53, 29.116, 29.136, 29.140, 29.144, 29.152, 32.56.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+actualization of “I am that” (so ’ham), as the moment of “ah” is not described
+merely in terms of rapture but as total awakening or the recognition of the self as the
+totality.
+When it comes to alienation and the discovery of moi or aham, I do find
+something that resonates with Lacan. Yet again, I am not reading ‘mirroring’ as with
+a fixed temporal location. On the contrary, I read mirroring as an internal property
+of consciousness that can manifest as the external conditions emerge. Basically,
+mirroring is not a singular event. It is inherent to consciousness and it is the aham
+that mirrors or simulates, both as a unitary whole that can grasp the totality of
+subject and object and also as the fragmented poles of subject and object. Aham
+therefore is constantly mirroring itself and this mirroring gives it diversity. For
+Abhinava, this mirroring is an expression of the inherent potency of being the
+manifold. The example of mirroring comes oftentimes to demonstrate a simultaneous presence of the entities that have been externalized. There is however,
+another dimension of mirroring: an inverse mirroring. Once the subject actualizes its
+mirror-like nature, it can trace the gaze back to its primordiality and rediscover its
+pristine form. The experience of “I am that” (so ’ham), for instance, describes this
+inverse mirroring where the subject takes control of the experience that is remote
+but not lost. The experience engendered in this process is therefore described in
+terms of “recognition” (pratyabhijñā) rather than fresh experience. That is, the
+experience of tracing back to this identity unfolds as being merged with recollection
+rather than in the form of pure experience.
+In terms of the discovery of the ego, I do not read a line between the imaginary
+and symbolic, as does Lacan. As far as the real ego is concerned, it is always in flux,
+constantly interacting between the imaginary and symbolic. Nevertheless, the ego is
+the sum of all possibilities and a constantly modifiable plastic entity. Abhinava uses
+this plasticity as an example for the potential of the ego for self-transcendence.
+Every new experience presents to the ego a new possibility and in every mode of
+transformation, the ego reconstitutes itself, discovering its new identity. Even
+though the transcendent self, nirāsaṃśa or devoid of concepts, is hardly given any
+constitutive role, it is reasonable that every new constitution of the ego rests on this
+self. It is because change implies difference and only the entity that transcends both
+the differing entities can be credited for maintaining the flow. It is the freedom
+inherent to consciousness that makes the shift in the ego as well as the
+transcendence of the ego possible.
+What is unique to Abhinava is, he does not conceive of consciousness expunged
+of the potentials that embody difference. There lies some form of speech in
+consciousness, even in its most pristine form, and it is for this reason that the ego
+recognizes itself and differentiates among each other. There is therefore, a subtle
+form of speech, even if merely in self-referential form, in the first initial gaze of the
+ego actualizing itself. This is where “aham” is expressed that is both “I am” and “I.”
+As “I am” it already has a semantic structure. If a line were to be drawn between
+Lacan and Abhinava with regard to their understanding of what constitutes “real,”
+that which is actually real for Abhinava is the pre-given, or pre-presented, preobjectified self. What Lacan calls “real,” in contrast, is a product of the imagination
+in collaboration with the symbolic to generate the sense of real ego. For both,
+
+123
+
+S. Timalsina
+
+phenomenal ego endures for a longer period of time, or at least maintains the
+illusion of being continuously identical, with similar ego-selves constantly
+modifying themselves and preserving homogeneity that is then translated into
+identity.
+Along these lines, the “recognition” in the initial stage that Lacan calls mirror
+stage is not “mis-recognition” in Abhinavaguptian terminology. The initial stage of
+fullness is “recognition” only in the sense that the nirāsaṃśa recognizes itself in
+terms of fullness, but it is not a real recognition because this is the first emergence of
+aham; the first encountering of the absolute ego, the first experience. It is therefore
+noteworthy that “mirroring” for Lacan and Abhinava are not the same. Mirroring,
+for Abhinava, is both the simulation of the ego as well as all that is externalized. It is
+in the externalized world that consciousness mirrors. For Abhinava, everything that
+can be objectified is objectified, including the very ego. Even the encountering of
+the ego, objectifying “I-am” is itself a mirror image. Abhinava’s use of the mirror
+metaphor is not an analysis of the ego per se. On the contrary, it is to explain
+teleology. It is to re-educate what he calls the aspectival (sakala) ego for the
+possibility of re-blossoming, or regaining fullness. This is where the philosophy of
+recognition comes into play.
+There is yet another dimension of the ego that Lacan does not address, the role of
+saṃskāras. This ego is not merely “extimité” or internal externally, crystalizing the
+desire of the other.9 For Abhinava, it primarily crystalizes its own desires from deep
+seated memories, and is on this basis that Abhinava acknowledges the chain of
+memory to transcend a particular embodiment. In other words, memory goes
+beyond a particular individuation. The moi of Abhinava is therefore both the finite
+ego that determines its extension within the body and the “aham” that circumscribes
+the totality. Moreover, the other in Abhinava’s philosophy is not the ultimate or
+absolute other. The parameters that determine the self and the other are not just
+negotiable but can also be subsumed within the overarching aham. This also is not
+the case that the ego is just the mirror of the other. The dialogical other is often the
+mirror of the ego, a mutual exchange of subjectivity that makes recognition of other
+egos possible even in the un-recognized state. But fundamentally, what Lacan
+would call the “absolute other,” the God, is the very self for Abhinava. In the full
+blossoming of the ego, the other is felt within the domain of the self. One can argue
+that this position threatens the privacy of the other, as in the recognized state, the
+domain of the other and that of the self are one and the same. In this sense, the
+transcendent absolute other is fully revealed not when it is exposed as the other but
+in the fullness of the ego. Even if the other is subsumed within the absolute ego,
+making it a room without walls, the potency for individuation is not erased.
+The same applies to desire. Desire in Abhinavagupta goes much deeper, as it lays
+the foundation for the emergence of subjectivity. The reflexivity that transforms into
+active agency, allowing the embodied ego to interact both inter-subjectively and
+with objects and things, for Abhinava, is inherent to consciousness, or the self that
+goes beyond the discovery of subjectivity. It is in the blueprint of consciousness that
+9
+
+The word icchā has a wide range of applications. For instance, volition, will, and desire. While I have
+read icchā in this paper as ‘desire,’ this is just to engage psychoanalytical theories.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+desire is imprinted. In other words, it is not possible to expunge desire from
+consciousness, only that the directionality of desire can be altered. Desire, in this
+account, is fundamental to reflexivity. Externality and objectivation are embedded
+within reflexivity, as what constitutes vimarśa is not just in being aware of itself, it
+is in discovering the other. In contrast to Lacan, Abhinavaguptian desire is not
+something determined by our need and demand. It is the desire that even desires the
+needs. Moreover, desire is not necessarily a relationship with other. In other words,
+desire is not constituted in reaction to other as even the very constitution of the
+other, the mirroring requires desire. Without denying the constructive nature of
+desire and also of the ego, this is to affirm that the ego and the desire that constitutes
+the ego are both dynamic but their possibility is pre-given in the very formation of
+the ego, which is then expressed in interaction with other subjects/objects.
+Abhinava is interested in developing a soteriology that makes it possible for the
+ego to rediscover itself, to rescue itself from being a simulation and actualize its
+fullness, reclaiming the absolute ego. When we discuss the authentic self in
+Abhinava, this is what it implies. It is the foundation wherein the ego is constituted
+and is constantly being remodified. This is where we can compare jouissance with
+ānanda, because just like Lacanian jouissance,10 orgasmic bliss for Abhinava is
+beyond the pleasure principle and is therefore not to be confused with mere sensory
+satisfaction. To extend further, ānanda retains the embodied “āhā” moment that is
+explained in terms of the orgasmic embrace. This is also where we can compare the
+ways transgression has been accommodated by both Abhinava and Lacan.
+Nevertheless, Abhinava’s ānanda is not to be conflated with the jouissance. To
+begin with, the jouissance that is beyond the pleasure principle is not ‘more
+pleasure,’ not the surge of ānanda that expands and encompasses the totality the
+way Abhinava would have, but instead pain. Both Lacan and Abhinava consider that
+there is a limit to which subjects can experience pleasure. However, Abhinava
+creates a hierarchy of subjects, successively transcending the horizons of each in
+their capacity to experience ānanda and their ability to expand and encompass the
+totality. For Lacan, the result of transgressing pleasure is pain. There is no growth,
+no expansion in the subject’s horizon of experience, but simply subject succumbs to
+pain at the apex of pleasure. This is why Lacan links jouissance to aggression of the
+death drive.
+For Abhinava, all drives are the drives to recognize the absolute ego, aham. Even
+abnegation of subjectivity results in this account of the discovery of foundational,
+overarching being, complete with bliss and awareness. It is therefore not to be
+conflated with an actual death drive. In every account of self-negation, what is
+confirmed is a foreground, some foundation, upon which subjectivity has exercised
+its freedom of self-annihilation. The fundamental telos of the individuated ego is
+therefore to “re-cognize” (pratyabhijñā) the oneness of the ‘I’ and ‘this,’ expressed
+in terms of “I am that” (so ’ham).
+
+10
+
+See Laplanche and Pontalis (1988) and Iversen (2007) for discussion on jouissance.
+
+123
+
+S. Timalsina
+
+I Am That: So ’Ham
+To say that the teleology for the ego is to discover itself as the absolute ego is to
+argue that every instance of consciousness is directed towards recognizing itself in
+terms of “I am that” (so ’ham). There is no categorical epistemic difference in the
+ego discovering objectivity and it recognizing itself as the totality. This is where
+Utpala’s phenomenology encounters his teleology:
+The reposing in its own essential nature or the reflexivity in the form of “I am
+that” is the fulfilment of the finite reflexivity, [expressed] as “this.”11
+“This,” or objectivity, according to Utpala, is a finite reflexivity, as consciousness
+discovers its own finiteness when manifesting the other. Utpala consistently
+describes objectivation in terms of being non-sentient (jaḍa). In other words, when
+consciousness constitutes something as its own other, it also determines that entity
+as non-sentient. This is why even the determination of another subjectivity relies
+upon either affirming it as an extension and expression of the very self, or
+ascertaining it in terms of an object. Following Bhartrhari’s treatment of the second
+˙
+person,12 Abhinava expands on this issue and addresses that the “you,” or second
+person, is a mingling of “I am” and “this.” It has both subjective and objective
+domains. The state of consciousness that recognizes “you” is distinct from the
+recognition of “I am that” (so ’ham), since in the latter recognition, what was
+objectivated before becomes one with the subject. Whereas, in the recognition of
+‘you,’ there is a recognition of something both as object and subject. Utpala explains
+this recognition further, saying, “that which manifests as this is myself, [as I] is
+manifest in the forms of every single entity,” (so ’yam aham eva tattadbhāvavaicitryātmanā prakāśe iti | Ajadapramātrtāsiddhi (APS), Vrtti, verse 15). When I and
+˙
+˙
+˙
+this become one, that is, in the phenomenology of the manifestation of an object
+when there is an intermingling of the subject and object, the reflexivity inherent to
+consciousness is bestowed upon the object for its self-recognition.13
+Utpala lays the foundation for two tiers of the ego in the following lines:
+This self is twofold, finite and infinite. One restricted by the life-force etc. is
+finite, and the absolute self is infinite. The resting ground of both [the egos]
+and also of the consciousness of all objects is singular, as is confirmed by
+synthesis. No other [foundational ground] is established.14
+11
+idam ity asya vicchinnavimarśasya kṛtārthatā | yā svasvarūpe viśrāntir vimarśaḥ so ’ham ity ayayam ||
+APS, verse 15.
+12
+If compared closely, Abhinavagupta’s treatment of three persons clearly follows the way Bhartrhari
+˙
+analyzes the grammatical persons in the chapter Puruṣasamuddeśa of the Vākyapadīya.
+13
+As Utpala adds further: caitanyaprakāśatādātmyād ahaṃpratyavamarśātmā jīvitasthānīyo yadāśrayāj
+jaḍam api vastu vimraṣṭṛsvabhāvapramātraikyād ahaṃbhāvaviśrānter ajaḍatvam āyāti | Vrtti of Utpala
+upon APS, 15. (I have read vimarṣṭṛ here instead of vimarśṣṭṭ as it appears in the print). ˙
+14
+
+dvidhā sa eṣa evātmā mito’parimitas tathā | prāṇādinā niruddho ’ṇuḥ paramātmā tv akhaṇḍitaḥ || APS
+16.
+ubhayo ’py eṣa paryantabhūmiḥ sarvārthasaṃvidām | eka evānusandhānād ato ’nyo nopapaddyate ||
+APS 17.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+My analysis of the hierarchy of the ego rests on above-mentioned parameters. Even
+with regard to the premise of the analysis of aham, it is not possible to exhaust the
+entire Abhinavaguptian literature in a single essay. I therefore focus primarily on the
+Parātrı̄śikā-vivarana (PTV). Even in this, I am primarily analyzing the two-tier
+˙
+structure of the ego with a particular focus on the semantic and speech domains of
+aham. Preliminarily speaking, aham stands for both “I” and “I am,” and as
+Abhinava explains, this also functions as an acronym for Sanskrit phonemes, /a/-/h/.
+This is to say that there is a verb expressing dynamism infused within the ego. In
+other words, ego is constantly in motion. Both the phenomenology and soteriology
+of ego in Abhinava follows the parameters laid out by Utpala. While this is a
+monistic picture, it is not a passive singularity. Neither is there negation of
+dichotomies. This actually is the singularity of contrasting and commingling
+potentialities, particularly epitomized by equating the ego with mātṛkās or the
+phonemes.
+Aham is presented here in various ways: it is a singular indivisible entity as I; it
+represents the dyad of “a” and “ha” representing the primordial couple and also
+explaining two properties of consciousness; and it also has a triadic structure
+explained in terms of /a/-/h/-/m/. Besides these, the term also resonates an orgasmic
+expression of “ah,” stressing bliss as foundational to self-awareness. Even the
+analysis of aham in dyadic terms grounds its singularity since “I” is singular, albeit
+expressed in terms of the dyad of subject and object, illumination (prakāśa) and
+reflexivity (vimarśa). If equated with the foundational triad of body, mind, and
+speech, the ego we encounter here, with aham, is radically different from the
+Cartesian ego, as this embodies both speech and the body. I have already argued for
+its plasticity. Now we encounter the ego as embodied. If “I” acronymically stands
+for all the phonemes and they in turn stand for all the potentialities of consciousness,
+we also encounter this “I” as synthetic. At the same time, it is the ego without a
+nucleus, as “I am” is identified with “I,” which in turn is a composite of all the
+potentialities. Manifold, in other words, is splashing within the ego to overflow,
+objectivity and manifold as its inherent nature. In essence, the ego in Abhinavaguptian paradigm is original. .
+Abhinavagupta correlates the three phonemes /a/-/h/-/m/ with the triadic deities
+of Parā, Parāparā, and Aparā, where the first and the last terms stand for the
+transcendent and immanent, while the middle term stands for their union. A problem
+with these anthropomorphized philosophical categories is that it becomes easier to
+engage theology but we miss phenomenology entirely. The ego that we encounter in
+light of this triad is the ego that is both transcendent and immanent, but also has a
+distinctive category of the fusion of both. This also explains the modes of
+consciousness that engage in a triadic parameter of inside-outside-middle, and also
+suggest full transcendence. The ego in this depiction not only transcends the
+manifold, it also is very much the manifold and the epistemic means to bridge the
+inside and the outside. This presents us with the ego both as the manifold and also as
+transcendence of the manifold, both as ontology and also as function. The
+subjectivity that is subsumed under this ego, therefore, is “dynamic subjectivity” or
+“subjectivity in the flux.”
+
+123
+
+S. Timalsina
+
+By borrowing Bhartrhari’s analysis of three grammatical persons, Abhinavagupta
+˙
+explains that these three persons are phenomenologically given in terms of subject,
+object, and the fusion of both. In other words, the ego or aham is a fusion of all, is
+an expression of the totality, and therefore is not just in its transcendent form but
+also in its most objectifiable form of the embodied ego. Abhinava explains this by
+alluding to Mātrkā, the matrixes, that represent the cosmic forces depicted in terms
+˙
+of the Sanskrit phonemes with initial ‘a’ and the final ‘ha.’ It is in this articulation of
+aham that the creative forces identified collectively in terms of Mātrkā are
+˙
+expressed. It is thus in the very encounter of the ego or aham that the totality is
+exposed in seminal form. In Abhinava’s terms:
+In this context {tatra}, that which is located exclusively in the self, that is
+yoked with the property of insentience, and is therefore of the form of “nara,”
+just as “the pot stays.” What is left is, this is the object of the first-person
+subject. On the other hand, that which is being manifest as “this” and that which
+is being summoned has the form of śakti in the sense that this is described by
+the term “you”, as in, “being this” circumscribed by the sense of “being I”,
+corresponding to the speaker. This is the meaning of you in the example of “you
+stay,” in addition to being summoned. That is, just as “I stay”, this stays the
+same way. [The subject] summons that with respect to having the form
+circumscribed by the form of I which is the relishing or the wonder of
+subjectivity [expressed as] freedom, as in the form of uninterrupted relishing of
+subjectivity. This is the all-surpassing luminosity {bhagavatī} of Parāparā.
+There then emerges the majestic Parā with the reflexive awareness of
+subjectivity that is not contingent upon anything else [as it is of the character
+of] uninterrupted relishing/wonder, as in “I stay.” This is where the
+transcendentality (uttamatva) of the purusa lies. . . Even while being of the
+˙
+character of Śiva, one enters the bodies as characterized by nara and śakti by,
+as if having consciousness expunged. In the examples such as “who am I?”, “I
+am this,” “Oh! Me”, “shame on me”, “bravo to myself”, for instance, freedom
+[that characterizes the self] is subordinated while what manifests as primary is
+“thisness” as being finite, wherein arises the all-surpassing luminosity
+{bhagavatī} Aparā.15
+The passage above needs further unpacking. First, it is easy to miss the
+phenomenological arguments in the thicket of tantric esotericism. Also, Abhinava
+15
+tatra yat kevalaṃ svātmany avasthitaṃ tat kevalaṃ jaḍarūpayogi mukhyatayā narātmakaṃ ghaṭas
+tiṣṭhati itivad eṣa eva prathamapuruṣaviṣayaḥ śeṣaḥ | yat punar idam ityapi bhāsamānaṃ yad
+āmantryamāṇatayā āmantrakāhaṃbhāvasamācchāditatadbhinnedaṃbhāvaṃ yuṣmacchabdavyapadeśyaṃ
+tacchāktaṃ rūpam, tvaṃ tiṣṭhasi it yatra hi eṣa eva yuṣmacchabdārthaḥ, āmantraṇatattvaṃ ca | tathā hi
+yathā ahaṃ tiṣṭhāmi tathaivāyam api iti | tasyāpi asmadrūpāvacchinnāhaṃbhāvacamatkārasvātantryam
+avicchinnāhaṃcamatkāreṇaiva abhimanvāna āmantrayate, yathārthena madhyamapuruṣeṇa vyapadiśati,
+seyaṃ hi bhagavatī parāparā | sarvathā punar avicchinnacamatkāranirapekṣasvātantryāhaṃvimarśe’haṃ
+tiṣṭhāmīti parābhaṭṭārikodayaḥ, yatra uttamatvaṃ puruṣasya | . . . śivasvarūpam api cojjhitacidrūpam iva
+naraśaktyātmakaṃ vapur āviśaty eva | ko ’haṃ, eṣo ’haṃ, aho ahaṃ, dhiṅ mām, aho mahyaṃ ityādau hi
+aham iti guṇīkṛtyāvicchinnaṃ svātantryaṃ, mukhyatayā tu vicchinnaiva idantā pratīyate yatra bhagavatyā
+aparāyā udayaḥ | PTV of Abhinavagupta, pp. 25–27 (Commentary upon verses 3–4).
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+does not like to repeat things that he has said elsewhere and we need to read this
+passage in light of the entire text. First of all, it is evident that “aham” is not merely
+the first person but the totality of subjectivity discovered in the subjective I and
+objectified “him” as well as in “you”, the fusion of both. While these three are
+separate egos, aham as a singular ego also stands for the collection of all three. The
+first person, in this account, is identified with the transcendent ego, as it is linked
+with Parā. Aparā, or ‘not-transcendent’ is likewise equated with the third person.
+Parāparā, referring to the state that stands for both the transcendent and immanent,
+is equated with the second person.
+As I have outlined earlier, the transcendence recognized in the state of Parā
+actually denotes the immanence of consciousness as it is in this stage that the gaze
+of consciousness reflexively returns to itself. The same applies to Aparā, as the
+immanence of Aparā is that of consciousness transcending itself and reaching out by
+both objectivating and objectifying. If we return back to aham, this is where the ego
+transcends itself and objectifies the other egos. These three stages are the modes of
+consciousness or the powers inherent in consciousness, expressed in terms of three
+different forms of subjects. This anthropomorphism now assists us in grounding
+embodied subjectivity which anticipates objectivity, and is determined in dialogue
+with objectivity. Parā, in this sense, is reflexively given and therefore immanent, but
+is transcendent as far as sensory perception is concerned. What constitutes the ego,
+aham, is not precisely in its transcendence nor immanence but in the totality of its
+expression since it is the very ego that assumes both these modalities. It is because it
+is not just Parā but also the other two, including Aparā, that is integral to the ego,
+aham. Borrowing from Bhartrhari, the scope of Parāparā assumes the middle
+˙
+ground, a compromise, between the subject and object, between exteriority and
+interiority, between transcendent and immanent. Once again, these three modes are
+expressions of the inherent potencies of consciousness or citi, anthropomorphized in
+terms of the triadic deities.
+The ego or the aham presented by Abhinava is therefore not to be reduced to how
+ego is analyzed by other philosophers.16 Most importantly, it is not in its
+subjectivity nor immediacy that the ego is constituted. It is not even in it being selfpresent or in sentience, as the other, the outside, is as much an integral part of aham
+as the inside, the subject. Additionally, he makes semantics inextricably essential to
+the ego. That is, “I am” presents itself as a subject and a predicate, and as immanent
+and transcendent. It is in this “I am” that the threefold grammatical persons are
+imprinted. Every experience in which the ego is confirmed has then two horizons of
+subject and object. That is, it is in being in the world or in directionality that the
+aham expresses or actualizes itself.
+What the first-person subject that has been objectified and treated as the third
+person lacks is reflexivity, the essential precondition for being a subject. On the
+other hand, if semantics bestow reflexivity upon inanimate objects, they relish
+subjectivity, that is, the experience of “so ’ham” or “I am that.” This is to say that
+16
+
+In particular, this is not the Cartesian or Husserlian Ego. While Freud’s analysis of the unconscious
+subverts the Cartesian ego as it rejects the equation among subject, ego, and consciousness, this also is not
+the Abhinavaguptian aham.
+
+123
+
+S. Timalsina
+
+when the other enters the periphery of self-awareness, it also borrows its
+subjectivity: the outside becomes the inside. But it is also where the inside
+becomes outside, or it objectifies itself in the midst of the myriad of things. The
+discovery of the absolute ego, therefore, is not in finding transcendental subjectivity
+—which does not exist, but in a dialogue that infuses the inside with the outside.
+The second person, “you” presents a unique case as this is not pure objectivity, it is
+not pure externality, but neither is this the subject in its immanence. The dialogical
+expression of consciousness grounds the second person “you,” as it is in this person
+that both horizons merge. When the “you” is objectified, there is already a semantic
+structure, as it is the subject of the speech act that makes the other subject as its
+object, calling him “you,” bringing the sheer invisible subject to its visibility,
+making it objectifiable.
+The plasticity that we find in consciousness expresses itself by means of pratibhā
+or creativity. This stands for inherent creativity and is a foreground for the
+emergence of the ego, aham. The triad explained above, both in deified form and in
+the triadic structure of grammatical persons, is this very pratibhā, the potential of
+self-expression. Here again, we have to separate the esoteric discourse and the
+anthropomorphized form of Pratibhā for any philosophical conversation. What we
+glean yet again from this is that externality and internality or being an object and
+subject are thus modes of the same ego, aham, and it is this euphoric expression of
+the ego that is what we call the manifold. Grasping of this manifold is possible when
+the consciousness manifests in the triadic form of subject, object, and their meeting
+ground, a state being inter-penetrated by both, a chiasm. Aparā literally translates as
+the “other.” Noteworthy here is, Aparā is as much an integral mode of
+consciousness as Parā, and she enjoys as much subjectivity as Parā does. It
+therefore makes sense to explain Aparā as the other subject, the subject that has
+been objectified. Rather than this being a state of materiality that has expunged
+consciousness from within, this is the subjectivity that has accomplished its process
+of externalizing itself and discovering its objectivity.
+What makes objectivity possible, then, is the very externalized subjectivity and it
+is in the absolute ego that all the opposite poles are subsumed. The second person,
+you, which the Sanskrit grammarians call the “middle person” (madhyama-puruṣa),
+is where both the subjectivity and objectivity are merged. And it is in you, the
+chiasm, that the fluidity of these two poles is epitomized. Consciousness,
+accordingly, is the foundation, with the potential of pratibhā or creativity that
+makes the “resting within” as well as “expressing” possible. Therein the selfexpression of consciousness first manifests as the absolute ego and then in the
+triadic form, gradually objectifying itself. Since “aham” is not an expression of
+difference, there is no categorical difference when it comes to consciousness that
+can be constituted as subject and object. In other words, subjectivity is not a
+precondition for consciousness and objectivity is not outside of its periphery. Just as
+both constitute two poles of the same ego, the very expression of the ego is a
+condition determined by the freedom inherent to consciousness. The experience of
+“I am,” therefore, is not a mere phenomenology, as the ego, or aham is both
+ontology and semantics. It embodies not just the transcendent pole of experience but
+also that what is experienced. At the same time this experience is not bereft of
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+speech, as aham or “I am” is given as semantically structured in the first
+encountering of the ego.
+There is no categorical difference between ātman or the self, which also
+describes ‘inherent nature’ and aham, the absolute ego. When a contrast is made, it
+is in relation to the embodied ego that determines self-experience within the
+epidermis. Abhinavagupta says with regard to the self that:
+The self is the life, the essence, devoid of any limitation, a unique form of
+experiencing within. This is the reflexive awareness in the form of “I” that has
+the character of resting on freedom that is characterized as not relying on
+anyone else.17
+Noteworthy here is, the experience of ego is not described in terms of bodha or
+jñāna or other similar terms to mean ‘awareness.’ It is rather explained in terms of
+parāmarśa. This term, along with others like pratyavamarśa are synonymous to
+vimarśa, reflexive awareness. In the case of parāmarśa, there are both the
+parameters of without and within (para + ā(ṅ)+ √mṛś), and therefore the
+consciousness identified in terms of parāmarśa encapsulates both the immanent
+and transcendent forms of experiences, the reflexivity that circumscribes itself in its
+exteriority and discovers itself within. There is a subtle form of recognition, a
+judgmental consciousness, on the foundation of parāmarśa.
+“I am that” (so ’ham), in this account, is the real parāmarśa, or reflexively being
+aware of one’s own ego. Consciousness in essence manifests as a loop in which
+there are not just objective and subjective poles but a dialogical middle ground
+where the ego is externalized and the object is subjectified. This is the triadic
+account of the ego.
+
+The Dyadic Structure of the Ego
+The above conversation has brought to light that the ego is an integral state of the
+triadic expression that accounts for the “middle ground” besides the two poles of
+subjectivity and objectivity. Sanskrit terminology of madhyamapuruṣa or the
+“middle person” explains this better than the term second person, as according to
+this depiction, “you” refers both to subject and object. Following this account,
+“you” is not just an objectivation of the other ego, it is also an acknowledgement of
+subjectivity. This triadic depiction is both a taxonomy as well as the functionalist
+account of the ego. As for its ontology, the dyadic structure explains it better.
+A superficial reading of the dyad is that /a/ and /a/ stand for the first and the last
+phonemes, and again acronymically the word aham stands for the totality that is
+expressed by means of prakāśa or illumination and vimarśa or reflexivity.
+Extending the earlier conversation further, this dyad stands for intersubjectivity
+between two dialogical subjects but it does not circumscribe that which has been
+expunged from the scope of the ego. The dyadic structure is therefore expressed
+17
+ātmā jīvitabhūtaḥ sārasvabhāvo vicchedaśūnyo ’ntarabhyupagamakalpo ’nanyamukhapre-ṣitatvasvātantryaviśrāntirūpo ’ham iti parāmarśaḥ | (Īśvarapratyabhijñā Vimarśinı̄, Vol. 1, pp. 302–303).
+
+123
+
+S. Timalsina
+
+before externality arises within the realm of consciousness. If this is a dialogue, it is
+between two coextensive subjects, between two subjects without boundaries. What
+is buried underneath the metaphor of two polarities is that /a/ and /h/ are not two
+ontologically distinctive categories, and that the primary aham antecedes the dyadic
+analysis of consciousness in terms of prakāśa and vimarśa. That is, the separation is
+merely an analytical device, a conceptual framework for analyzing properties of a
+single event, similar to breaking a word into prefix and the base and suffix. Just as in
+the triadic expression of the ego, there is no ontological division in this dyad that is
+collectively expressed in aham. Abhinava credits Somānanda for this dyadic
+interpretation when he cites a passage that identifies /a/ with Śiva.18 What goes
+without saying is that the second phoneme /h/ stands for Śakti. Abhinava’s
+contribution here is in the equation of the primordial dyad with two functions of
+consciousness. Abhinava explains aham by adopting this paradigm in the following
+lines:
+The reflexive consciousness (parāmarśa) when it is full (nirbhara) within the
+non-dual nature of śiva and śakti, having the character of the absolute
+[referring to the phoneme /a/] and the reflexive consciousness [referring to the
+phoneme /h/], is called “I am.”19
+Even terms such as samarasa or “mingling of the fluids” and yāmala, or pair, are not
+meant to establish an ontological divide. On the contrary, these tropes are there to
+reject fundamental dualism of what is phenomenologically presented in two poles of
+subject and object, or as illumination and reflexivity. Just as reflexive awareness is
+not a second order consciousness, or a higher gaze, objectivity is also not distinct
+from subjectivity: these two poles are constituted within the ego, aham, and they
+appear as opposites only in the post-experiential analytical mode of consciousness.
+This is to reject that pure phenomenology supports dualism.
+I have compared above the fragmenting of the ego in terms of the dyad and triad
+with grammatical analysis. This is to say that pure phenomenology reveals the
+absolute ego effulgent in its totality and what is given to us in dyadic and triadic
+structures are post-experiential, analytical states, similar to what the Sanskrit
+grammarians call prakriyā daśā or a “state of analysis,” a hypothesized state of
+morphing words where words are broken into prefix, base, and suffix, and where
+separate meanings are derived from each part. Even then, grammarians maintain
+that meaning is integral. It is the same consciousness that manifests and also
+reflexively grasps its own act of being manifest, and these two functions of
+consciousness inherently reveal dynamism. Once we acknowledge the ego with its
+own syntactic structure, we can easily derive the primacy of operation or the
+primacy of action because Sanskrit semantics confirm the primacy of the verb in a
+sentence. The ego is understood in this sense as an integral state that embodies both
+modes of consciousness. Along the same lines, subjectivity is subsumed within the
+18
+
+tad uktaṃ śrīsomānandapādair nijavivṛttau - a-bījaṃ śuddhaśivarūpam | PTV, p. 20:1–2.
+
+19
+
+anuttaravimarśātmaśivaśaktyadvayātmani| parāmarśo nirbharatvād aham ity ucyate tadā || TĀ III.203.
+tasya pratyavamarśo yah paripūrno ’hamātmakah | sa svātmani svatantratvād vibhāgam avabhāsayet || TĀ
+˙
+˙
+˙
+3. 235.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+absolute ego, maintaining that pramātṛtā or subjectivity as well as prameyatā or
+objectivity are circumscribed within aham. In this dyadic presentation, the phoneme
+/m/ depicts the seminal drop, the center, bindu, which in essence is the confluence of
+these two polarities. If this bindu is the center of a maṇḍala, this is not in addition to
+the polarities when we unpack the metaphor of the genesis of the drop. In a
+mandalic depiction, the drop stands for the subject with its periphery being
+˙ ˙˙
+compared to the body. Yet again, this neither gives primacy to the drop nor poses
+any form of dichotomy.
+
+The Morphology of the Ego
+As evident in the above conversations, tantric texts excavate deeper into the
+meaning of the ego by means of the morphology of “aham.” Most scholars fail to
+read the philosophical framework for such an analysis, as the depiction is rich with
+technical terminology and infused with tantric esotericism. With an intent to
+uncover philosophy buried under tantric esotericism, I read the following passage
+from Saṅketapaddhati:20
+[The phoneme] /a/ is the first among all the phonemes and is luminosity and
+the supreme Śiva. /h/ or the last [phoneme] is of the character of Śakti [or
+kalā], which is known in terms of reflexivity. . . The head of the first part [or
+the phoneme /a/] is identified as Raudrı̄, the face as Vāmā, arms as Ambikā,
+and Jyesthā relates to the tip of the nails. [With regard to the last phoneme /h/]
+˙˙
+desire (icchā) constitutes the head, action (kriyā) the torso, and cognition
+(jñāna) constitutes the feet. The resting energy (śāntā) [or the last aspect of /h/
+] is located in the middle of the heart.21
+If we ignore technical terms and anthropomorphized concepts, we derive the first
+phoneme /a/ and the last /h/ as integral wholes on their own that can be analyzed in
+four parts each. Aham, therefore, is the eleventh, if we consider this as yet another
+integral whole.22 Or, the ego is an emergent structure that has within it at first
+instance, illumination and reflexivity. Accordingly, both illumination and reflexivity
+have four aspects, expressed in terms of distinctive dynamic potencies.
+If we analyze the eight constituent potentialities that are morphed into the
+absolute ego, we derive a unique perspective. Ambikā, the last of the aspects within
+/a/ relates to seeing or actualizing the expression of the world and this is also
+identified as absolute speech that has not been objectified (parā vāc).23 Vāmā, the
+first of the aspects embedded within /a/, is defined as the force that emits or releases
+20
+
+This text is not currently available and I am using the passages based on citations.
+
+21
+
+akāraḥ sarvavarṇāgryaḥ prakāśaḥ paramaḥ śivaḥ | hakāro ’ntyaḥ kalārūpo vimarśākhyaḥ prakīrtitaḥ||.
+. . ādāv asya śiro raudrī vaktraṃ vāmā prakīrtitā | ambikā bāhur ity uktā jyeṣṭhā caiva nakhāgragā || icchā
+śiraḥpradeśasthā kriyā ca tadadhogatā | jñānā pādagatā hy asya śāntā hṛnmadhyagā bhavet ||
+Saṅketapaddhati. Cited in the Artharatnāvalı̄ commentary upon Nityāsodaśikārnava, p. 35.
+˙ ˙
+˙
+22
+For the elevenfold analysis of aham, see Vidyānanda’s Artharatnāvalı̄, Nityāsodaśikārnava, p. 35.
+˙ ˙
+˙
+23
+ātmanaḥ sphuraṇaṃ paśyed yadā sā paramā kalā | ambikārūpam āpannā parā vāk samudīritā ||
+Yoginı̄hrdaya (YH) I.36.
+˙
+
+123
+
+S. Timalsina
+
+(metaphorically “vomits”) the world out from within the belly of consciousness.24
+This is also the stage where the speech reflexively actualizes itself, or comes to the
+stage of paśyantī vāc or the speech that has not been separated from within
+consciousness. Two additional states of Jyesthā and Raudrı̄ relate to the further
+˙˙
+expressed forms of speech, madhyamā or the “middle” and vaikharī or the expressed
+25
+speech.
+Just as the aspects of /a/ are linked with speech, the aspects of /h/ explicitly relate
+to desire/volition (icchā), cognition (jñāna) and dynamism or action (kriyā).
+“Aham,” in this account, is both the speech in immanent and transcendent forms as
+well as the articulation of consciousness in terms of volition, emergence of
+consciousness with its directionality, and the dynamism where it incorporates
+physicality. Aham therefore is not just the consciousness directed towards the
+physical object, it also is physicality, as epitomized in embodiment. If we bracket all
+the technical terms, what we derive is that there is no ego in this paradigm in
+isolation from speech, desire and action. Ego, therefore, is the dynamic force that
+expresses itself or expunges from its transcendence toward objectivity. Desire is its
+integral form, as there is no ontology of the ego in isolation of desire. The potencies
+within the ego are called as such, following YH (I.41) because they “manifest the
+world within itself and also without.”26 The ego, then, is the totality, and it is within
+the ego that subjectivity and objectivity are carved. Even then, exteriority is first
+constituted within the ego, before the fragmentation or before being determined as
+the center and the periphery.
+When we reflect upon commonsense experience, we immediately encounter the
+bifurcation of subjectivity and objectivity. And this is what the division between /a/
+and /h/ relates to. The above passage dilutes even the distinction between prakāśa
+and vimarśa wherein externality is attributed to reflexive consciousness. It is
+because the two primary modes of the surge for externality both relate to the first
+phoneme /a/, also identified as prakāśa or illumination. These are:
+1 Seeing or actualizing the blossoming of oneself as the world, identified as
+Ambikā.
+2 The externalization of the world that first manifests within ego, identified as
+Vāmā.
+Accordingly, illumination or prakāśa is a synthetic unity of four distinctive
+functions, and this is the same case with reflexivity or vimarśa. What is lost in this
+exposition is that aham antecedes this bifurcation and all we can say is the analysis
+of the potentialities are similar to doing morphology for deriving a terminal
+meaning.
+
+24
+
+vāmā viśvasya vamanād aṅkuśākāratāṃ gatā || YH I.37.
+
+25
+
+jñānaśaktis tathā jyeṣṭhā madhyamā vāg udīritā ||YH I.38 . . . kriyāśaktis tu raudrīyaṃ vaikharī
+viśvavigrahā || YH I.40.
+26
+
+bhāsanād viśvarūpasaya svarūpe bāhyato ’pi ca| etāś catasra śaktyas tu. . . . || YH I.41.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+Ego Embodies Speech (vāc))",5,2,1,0,150mm,150mm,5mm,100mm>
+As we peel off layers from the text cited above, what we encounter is that aham or
+ego is the will that “sees” its own externalization or blossoming and that actualizes
+its othering by means of discovering a cognitive horizon and by exerting action that
+requires corporeality. This at the same time is an integral form of the speech that
+gradually morphs into the expressed words, starting from its absolute state of Parā
+that is identical to pure consciousness to its articulated form of vaikharī where
+corporeality and physical action are central. The body, mind and speech, are thus
+already interwoven within the very fabric of the absolute ego. Rather than it being a
+transcendent subjective pole, this is the potency that encloses within itself all the
+dichotomies. Ego therefore is both the potency and its expression, as this embodies
+both the speech and volition wherein corporeality is explained in terms of the
+morphing of volition.
+Parā, the latency identified in terms of speech, embodies both the signifier and the
+signified and is therefore the foreground for the speech to manifest. It is this
+foundation that has the zeal towards effulgence, a dynamism that finds its
+completion with externalization. The drive for differentiation is embedded within
+this seminal speech, as this is the first amongst the ripples within the absolute ego
+that emits the world outside, or more literally, vomits externality, making it possible
+for consciousness to constitute the other. This emergence of externality or the first
+mirroring of consciousness is identified with speech paśyantī, as this is where what
+has been externalized is being gazed upon. It is in this stage of speech that the
+expression and the expressed are inseparable. It is where sense and reference are not
+split apart. Moreover, it is where the self-seeing consciousness and its articulation in
+terms of speech are not separated. However, it is also the stage where the inside and
+outside are conceived upon. This also is the foundation where volition (icchā)
+emanates.
+The next stage of speech identified as madhyamā conceptually resonates the
+grammarian’s “middle person” (madhyama puruṣa) where subjective and objective
+commingle. It is because this “intermediate” speech retains its subjective character,
+its interiority, its immanence, as well as its exteriority, as this is fully objectified by
+the subject. This is also the stage of jñāna, cognition, of judgmental consciousness
+or of propositional knowledge. This is where conceptualization becomes manifest.
+Or, the subject can distinguish a concept as a concept and a reference as a reference.
+Finally, the most externalized form of speech is vaikharī which also is the
+articulation of the potencies for action. The fundamental divide between the
+signifier and the signified are thus subsumed within the absolute ego aham that
+embodies the potentialities constituting the fundamental divide of /a/ and /h/ which
+blossom in the form of articulated speech on one hand and dynamism and
+materiality on the other.
+Speech, in this paradigm, is not a vessel to carry meaning, as the objective world
+penetrates the very being of the speech. We cannot conceive of paśyantī without
+having the reference intermingled with the sign. There is no truth that transcends the
+absolute ego and there is no objectivity that is beyond the scope of speech. Both the
+
+123
+
+S. Timalsina
+
+propositions, that language is meaningful only in conveying the truth that escapes its
+grasp, or that there is no truth for language to describe since language is selfreferential, fail to recognize the embedded creative thrust that the vāc embodies.
+This is not about it referring itself or about signifying something else but it is in
+actively and agentively creating something that transcends the parameters of speech
+that the novelty of speech lies.
+Accordingly, the emergence of volition and speech are simultaneous. Volition,
+just like paśyantī, retains double intentionality, with it being directed towards
+objects while at the same time revealing itself to consciousness, which is its very
+inner fabric. The approach to exfoliate desire from consciousness, to trace back to
+pure consciousness, is futile in this paradigm, as desire is what constitutes
+consciousness; it is one of its inherent potentialities. There is always some form of
+intentionality, even in consciousness objectifying itself within this paradigm.
+Therefore, even to expunge consciousness of its intentionality is not possible.
+A question emerges, what is nirāśaṃśa, free of conceptualization then? I read
+this as identical to what Abhinava identifies as the state of Bhairava wherein the
+paradoxes reside not as paradoxes but subsumed under the gaze of Bhairava. This is
+fully blossomed active subjectivity that not only circumscribes the totality but also
+transcends the totality: it is both transcendent and immanent.
+This state is metaphorically described as empty (riktā) and full (pūrṇā). The gaze
+of Bhairava describes this state with his bulging eyes glaring outside while the gaze
+remains inward. The paradox intended here is that consciousness is simultaneously
+expressed in terms of the totality but is still retaining its pure phenomenology. Both
+speech and desire are inherent within the “I-am,” or consciousness affirming itself,
+depicted as Bhairava. Purity of consciousness is not therefore a lack of potentials, as
+all the horizons of consciousness merge in this inward gaze that circumscribes the
+totality and expresses itself as “I-am.” Just as paśyantī expresses the reflexive aspect
+of speech that is still object-directed, desire fulfils itself by means of intentionality
+or its object-directedness without being expunged of the foundational consciousness
+in the very fabric of being. This is to say that desire is expressed in a stage that is inbetween subjectivity and objectivity, a reflexive flash that grasps itself being
+objectified. There is no materialized desire that is expunged of reflexivity in this
+paradigm. This is because desire is the articulation of this very reflexivity.
+If speech is the means by which subjectivity is actualized, what is affirmed in this
+recognition is not something expunged of speech: this is the speech, knowing itself,
+that confirms subjectivity. Madhyamā, therefore, is not just a stage of speech
+manifest in the conceptual form, it is also the subject discovering its objectivation. It
+is in the concept or in the realm of immanence that the subject first encounters itself.
+With regard to the gazing subject, madhyamā is fully objectified, is external to the
+subject, or is phenomenologically given in its objectified form. However,
+madhyamā does not transcend itself by means of self-objectivation; it is still
+contained within the mind-body complex. This resonates the stage of subjectivity
+that has been objectified but not expressed outside.
+The objectivity that finds its first expression in paśyantī is fully blossomed in this
+“intermediate” ground while still being circumscribed within the periphery of
+subjectivity. The bodily subject confines the objectified consciousness in the form of
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+concepts even though this has been ejected outside of the horizon of the subject,
+with the subject splitting itself from the body, pulling as if outside and accessing the
+body as if from outside. The subject that was not separated from what was there to
+unfold as object under the state of paśyantī is now completely separated in this
+intermediate zone, creating for the first time an immanent horizon. While in
+paśyantī the very gaze is the speech and this is both subject and object, here in the
+intermediate zone, objectification has been accomplished, having the conscious gaze
+expunged from what now has been externalized.
+In all accounts, the inherent dynamism of consciousness is central to the analysis
+of the absolute ego. If we look for the defining terms to explain this state, what we
+encounter are the terms such as “throbbing” (sphurattā), “splendor” (ullāsa),
+“spreading” (vistāra), “wave” (ūrmi), or “blossoming” (vikāsa), each expressing
+some form of dynamism. Even in its singularity, the absolute ego is therefore
+teeming with the potentials of the manifold. This therefore is not the totality that
+absolves differences, but rather, this is the holographic singularity with each
+possibility replicating within. The manifold, in this account, is the aham actualizing
+itself: just as it regains its absolute ego by the recognition in terms of “I am that” (so
+’ham), it actualizes its potentials, or better put, the potentials recognize their being
+within the manifold. If we describe pure phenomenology as the absolute ego
+recognizing itself, the world is the śaktis or the potentials recognizing themselves. In
+other words, there is no state that is encompassed by the two modes of
+consciousness described in terms of illumination (prakāśa) and reflexivity
+(vimarśa).
+Creation or the expression of the inherent latencies is therefore to be understood
+as the “surplus” in the mode of transformation. Pariṇāma is not merely an alteration
+of the structure; there are new emergent properties that are additional to the
+potentials embedded within the cause. The point is, these properties do not exceed
+the latencies that are determined within the singularity of the absolute ego.
+Pariṇāma, therefore, is not merely a reassembly of the forms but of gaining
+something new. The metaphoric blossoming explains the fact that creation is not a
+mere alteration of the structure. There are no flowers in the seed but only potentials.
+Creation discovers newness in a way that every emergent structure is unique but at
+the same time there resides some form of homogeneity, identity, between the cause
+and the effect. What constitutes one as the cause and the other as effect is not the
+diametric opposition, but it is the surplus that the effect makes in being different.
+There never is a state in which aham is bereft of these powers. Nor is consciousness
+expunged of its power to express by means of speech. It is in this effulgence that the
+aham discovers its fullness.
+
+The Dynamism of the Ego
+What I need to reiterate before finishing this conversation is that both the aspects
+that constitute the ego are described in terms of potentialities, and this is the case
+with the potentialities that they do not rest in passivity. The aham or the ego, then, is
+not an object among objects, nor a pole against the other, an object. It is the
+
+123
+
+S. Timalsina
+
+constantly unfolding dynamism that is pre-given in the poles of subjectivity and
+objectivity. If we cannot conceive of aham without vimarśa, we cannot likewise
+conceive of vimarśa as passive. Aham, then, is dynamic, that the absolute ego is
+constantly unfolding itself and as it unfolds, the totality of being becomes equated
+with the totality of things. The essential fabric that constitutes the aham is its
+immanence, and so there is no moment when it manifests as fragmented. Even in it
+“splitting itself” and discovering the transcendental object, it retains to some extent
+the sense of fullness. The dynamic nature of aham does not preclude it from
+assuming spatio-temporality, neither does this mean that this is spatio-temporally
+finite. On the contrary, this dynamism as an inherent dimension of aham makes
+spatio-temporality possible, allowing directionality for consciousness. Aham, along
+these lines, is not a mere vimarśa, a mere reflexive mode, it is also parāmarśa, a
+consciousness that epitomizes an inverse gaze. It is in this bi-directional effulgence
+of consciousness that the concept of mantra is conceived in tantrism. Accordingly,
+just as speech expresses itself and divides itself as the signifier and the signified, it
+can trace itself back to its pristine state and this is what mantras are for. Speech,
+therefore, assumes both poles of uncovering the absolute ego by means of inward
+flow as well as projecting the external and being identified with it. Because every
+articulation has the same Parā as the foundation, the absolute ego is inscribed in
+every mode of expression. Since the absolute speech of Parā antecedes every
+instance of subjectivity, the vāc underscored here is not a mere vessel for meaning
+but an articulation of the absolute ego to express its manifold.
+The metaphors of the mirror image or simulation miss the point of the absolute
+ego confining itself within the body and turning into an embodied ego. A more
+suitable metaphor would be that of a hologram, for each and every ego retains every
+single potential, albeit in seminal form, of the absolute ego. Therefore, the
+embodied aham is not categorically distinct from the absolute aham. Just as being
+embodied and actualizing the manifold is an expression of the intrinsic potentials of
+the absolute aham, so also is the transformation or the evolution of the ego in
+different stages. Every single potential within the aham depicted above comes in
+iconic form; every aspect retains the potentials to be fully embodied. Returning to
+vāc, it is the very life that pulsates first in terms of speech and it is in this living that
+the being discovers the rapture of being: a circle completed in the act of selfrecognition. If “I am” incorporates both life and speech, living and self-expression
+that incorporate speech are not two distinctive modes of being.
+It is the very being that expresses itself through vitality and speech and these
+aspects are integral to the absolute ego. Therefore, it is while in the body that the
+ego discovers its felt and tangible domains and self-recognition is possible. It is not
+that embodied ego needs to be liberated from bodily bondage. If embodiment is one
+extreme of the expression of the being, reversing the gaze to the immanent, then
+absolute ego is the other. It is in materiality that the potentials are expressed and it is
+in this lived moment that the recognition of the self-embeddedness of the totality
+becomes possible. Every form of objectivity, every dust particle in a sense, is
+teeming with life in its potential form, and when it is expressed, vimarśa actualizes
+itself. Furthermore, there is no subjective experience removed from the dynamism
+expressed in the dichotomous yet complementary terms of prakāśa and vimarśa.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+
+When we synthesize all these aspects, we come to the conclusion that the self is
+inherently dynamic = saspandam ātmatattvam, rather than resting and expunged of
+creativity.
+Every mode of actualizing subjectivity implies recognizing this inherent
+dynamism within. Furthermore, experiencing the self-nature or encountering one’s
+own subjectivity equates with experiencing freedom, the freedom that demands its
+totalization, its enveloping all that is there, with it assuming externality and grasping
+that what has been externalized. Every instance of experiencing subjectivity is thus
+the expression of the powers inherent to consciousness and this expression includes
+actualization not just of the self as the self but also of what has been expunged from
+within the periphery of the ego; the world that manifests as something other is now
+recognized within the domains of the own expressive powers of the reflexively
+gazing self. Recognition of the self, in this reading, is not about negating
+subjectivity and one’s embodied being. On the contrary, it is experiencing the
+absolute ego within the embodied ego; it is allowing the totality to manifest while in
+the body. Therefore, to experience oneself as the pulsating heart in the dyadic form
+of Śiva and Śakti is diametrically different from the approach of expunging the self
+from within experience.
+The model of causality that explains the manifold while retaining the singularity
+of the absolute ego in this platform is that of expression (abhivyakti) combined with
+transformation (pariṇāma). While the second category in this explains the effect
+without making the cause irrecoverable, the first explains the emergence of the
+potentials that are latent in the cause but are not accessible without their expression
+in the form of the effect. Accordingly, the two poles of subjectivity and objectivity
+and their mingling in embodiment is an expression or blossoming of the ego, aham,
+that has all potentials in seminal form. Amrtānanda therefore explains that:
+˙
+atrotpādanaṃ nāma kāraṇe sata eva kāryasya sphuṭīkaraṇam |27
+Emergence here means the vivification of the effect that is already there in the
+cause.
+This understanding of the world or externality embedded within the ego is further
+confirmed in Amrtānanda’s statement:
+˙
+garbhabhāvenātmodaragatasya viśvasya bahir vamanād vāmā |
+Vāmā is called as such for expunging out the world that resides in her womb in
+an embryonic form.28
+To sum up, the inextricable connection between volition and speech, as is manifest
+in the reflexive mode of speech called paśyantī, and its emergence, either in the
+form of cognition and action or in the form of the intermediate and articulated forms
+of speech, lies at the heart of the ego that is in constant dynamism. Just as the
+expressed form of speech is inherently embodied within consciousness, so too is
+action (kriyā), identified as the force embedded within aham. Just as recognition
+(pratyabhijñā) implies a reflexive gaze upon the absolute ego, it also stands for the
+27
+
+Dı̄pikā on the YH I.40.
+
+28
+
+Dı̄pikā upon YH I.40.
+
+123
+
+S. Timalsina
+
+recognition of one’s own embodiment. When “I-am” manifests as “I-am-that” this is
+not a recognition of something other at the cost of the self but the fusion of two
+horizons of immanence and transcendence.
+Compliance with ethical standards
+Conflict of interest I as the sole author of the paper, Aham, Subjectivity and the Ego: Re-engaging
+Abhinavagupta, state that there is no conflict of interest.
+
+References
+Johnston, A. “Jacques Lacan”, The Stanford Encyclopedia of Philosophy (Fall 2018 Edition). E. N. Zalta
+(Ed.), https://plato.stanford.edu/archives/fall2018/entries/lacan/
+Bäumer, B. (2011). Abhinavagupta’s Hermeneutics of the Absolute: Anuttaraprakriyā: An Interpretation of
+his Parātrīśikā Vivaraṇa. Delhi: D. K. Printworld.
+Dyczkowski, M. (1990). Self-awareness, own awareness, and egoity. Author.
+Eltschinger, V., & Ratié, I. (2007). Self, no-self, and salvation: Dharmakīrti’s critique of the notions of self
+and person. Wien: Verlag der Österreischischen Akademie der Wissenschaften.
+Fink, B. (1995). The Lacanian subject: Between language and Jouissance. Princeton: Princeton
+University Press.
+Ganeri, J. (2011). “Subjectivity, selfhood and the use of the word ‘I’, in self, no self?: Perspectives from
+analytical, phenomenological, and indian traditions. New York: Oxford University Press.
+Īśvarapratyabhijñā. With the Vimarśinı̄ of Abhinavagupta. Ed. K. A. S. Iyer and K. C. Pandey. Delhi:
+Motilal Banarsidass, 1986.
+Iversen, M. (2007). Beyond pleasure: Freud, lacan, barthes (reﬁguring modernism). Pennsylvania: Penn
+State University Press.
+Laplanche, J., & Pontalis, J.-B. (1988 [1973]). Pleasure principle (pp. 322–325). In The language of
+psychoanalysis. London: Karnac Books.
+Lawrence, D. (2008). The Teachings of the odd-eyed one: A study and translation of the
+virūpākṣapañcāśikā, with the commentary of vidyācakravartin. New York: State University of
+New York Press.
+MacKenzie, M. (2011). Enacting the self: Buddhist and Enactivist approaches to the emergence of the
+self. In Self, no self?: Perspectives from analytical, phenomenological, and indian traditions. New
+York: Oxford University Press.
+Nemec, J. (2011). The ubiquitous Śiva: Somānanda’s Śivadṛṣṭi and his tantric interlocutors. New York:
+Oxford University Press.
+Nityāṣoḍaśikārṇava. With the commentaries Rjuvimarśinı̄ of Śivānanda and Artharatnāvalı̄ of
+˙
+Vidyānanda. Ed. Vrajavallabhava Dviveda. Sampurnanand
+Sanskrit University, Varanasi, 1984.
+Padoux, A. (1990). Vāc: The concept of the word in selected Hindu Tantras. Translated by Jacques
+Gontier. Delhi: Sri Satguru Publications.
+Parātrīśikāvivaraṇa of Abhinavagupta: The secret of Tantric Mysticism. Translation, Jaideva Singh.
+Delhi: Motilal Banarsidass, 2005.
+Siddhitrayī of Rājānaka Utpala Deva. With Hindi translation by Surya Prakash Vyas. Chaukhambha
+Sanskrit Sansthan, Varanasi, 1989.
+Tantrāloka of Abhinavagupta. With the commentary Viveka of Jayaratha. Ed. R. C. Dwivedi and
+Navajivan Rastogi. Delhi: Motilal Banarsidass, 1987.
+Ratié, I. (2007). Otherness in the Pratyabhijñā Philosophy. Journal of Indian Philosophy, 35, 313–370.
+Timalsina, S. (2014). The dialogical manifestation of reality in Āgamas. The Journal of Hindu Studies, 7,
+6–24.
+Vākyapadīya of Bhartrhari. Chapter III Part II. Ed. K. A. Iyer, with English translation and exegetical
+˙
+notes. Delhi: Motilal
+Banarsidass, 1974. For Purusasamuddeśa, see pp. 91–94.
+˙
+Wenta, A. (2016). Utpaladeva: Philosophy of recognition.
+Ed. Raffaele Torella, and Bettina Bäumer.
+Delhi: D. K. Printworld.
+
+123
+
+Aham, Subjectivity, and the Ego: Engaging the Philosophy of Abhinavagupta
+Yoginīhṛdaya. With the commentaries Dı̄pikā of Amrtānanda and Setubandha of Bhāskararāya. Ed.
+˙
+Gopinath Kaviraj. Sampurnanand Sanskrit University,
+Varanasi, 1979.
+
+Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+
+123
+
+

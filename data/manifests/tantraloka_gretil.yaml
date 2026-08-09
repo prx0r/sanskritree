@@ -1,0 +1,2521 @@
+edition:
+  editor: Jun Takashima
+  id: tantraloka.gretil
+  licence: CC-BY-SA
+  publication: GRETIL
+passages:
+- chapter: ''
+  id: ta.0
+  sanskrit: 'Abhinavagupta: Tantrāloka'
+  type: karika
+  verse: '0'
+- chapter: ''
+  id: ta.1
+  sanskrit: '- a pragmatic abbreviation of the title: Tantrāloka = AbhT,'
+  type: karika
+  verse: '1'
+- chapter: ''
+  id: ta.2
+  sanskrit: :t atha śrī tantrālokaḥ
+  type: karika
+  verse: '2'
+- chapter: ''
+  id: ta.3
+  sanskrit: vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuśca pañcamukhaguptarucirjanakaḥ
+    /
+  type: karika
+  verse: '3'
+- chapter: ''
+  id: ta.4
+  sanskrit: tadubhayayāmalasphuritabhāvavisargamayaṃ hṛdayamanuttarāmṛtakulaṃ mama
+    sasphuratāt // 1 AbhT_1.1
+  type: karika
+  verse: '4'
+- chapter: ''
+  id: ta.5
+  sanskrit: naumi citpratibhāṃ devīṃ parāṃ bhairavayoginīm /
+  type: karika
+  verse: '5'
+- chapter: ''
+  id: ta.6
+  sanskrit: mātṛmānaprameyāṃśaśūlāmbujakṛtāspadām // 2 AbhT_1.2
+  type: karika
+  verse: '6'
+- chapter: ''
+  id: ta.7
+  sanskrit: naumi devīṃ śarīrasthāṃ nṛtyato bhairavākṛte /
+  type: karika
+  verse: '7'
+- chapter: ''
+  id: ta.8
+  sanskrit: prāvṛṇmeghaghanavyomavidyullekhāvilāsinīm // 3 AbhT_1.3
+  type: karika
+  verse: '8'
+- chapter: ''
+  id: ta.9
+  sanskrit: dīptajyotiśchaṭāpluṣṭabhedabandhatrayaṃ sphurat /
+  type: karika
+  verse: '9'
+- chapter: ''
+  id: ta.10
+  sanskrit: stājjñānaśūlaṃ satpakṣavipakṣotkartanakṣamam // 4 AbhT_1.4
+  type: karika
+  verse: '10'
+- chapter: ''
+  id: ta.11
+  sanskrit: svātantryaśaktiḥ kramasaṃsisṛkṣā kramātmatā ceti vibhorvibhūtiḥ /
+  type: karika
+  verse: '11'
+- chapter: ''
+  id: ta.12
+  sanskrit: tadeva devītrayamantarāstāmanuttaraṃ me prathayatsvarūpam // 5 AbhT_1.5
+  type: karika
+  verse: '12'
+- chapter: ''
+  id: ta.13
+  sanskrit: taddevatāvibhavabhāvimahāmarīcicakreśvarāyitanijasthitireka eva /
+  type: karika
+  verse: '13'
+- chapter: ''
+  id: ta.14
+  sanskrit: devīsuto gaṇapatiḥ sphuradindukāntiḥ samyaksamucchalayatānmama saṃvidabdhim
+    // 6 AbhT_1.6
+  type: karika
+  verse: '14'
+- chapter: ''
+  id: ta.15
+  sanskrit: rāgāruṇāṃ granthibilāvakīrṇa yo jālamātānavitānavṛtti /
+  type: karika
+  verse: '15'
+- chapter: ''
+  id: ta.16
+  sanskrit: kalombhitaṃ bāhyapathe cakāra stānme sa macchandavibhuḥ prasannaḥ // 7
+    AbhT_1.7
+  type: karika
+  verse: '16'
+- chapter: ''
+  id: ta.17
+  sanskrit: traiyambakābhihitasantatitāmraparṇīsanmauktikaprakarakāntiviśeṣabhājaḥ
+    /
+  type: karika
+  verse: '17'
+- chapter: ''
+  id: ta.18
+  sanskrit: pūrve jayanti guravo guruśāstrasindhukallolakelikalanāmalakarṇadhārāḥ
+    // 8 AbhT_1.8
+  type: karika
+  verse: '18'
+- chapter: ''
+  id: ta.19
+  sanskrit: jayati gurureka eva śrīśrīkaṇṭho bhuvi prathitaḥ /
+  type: karika
+  verse: '19'
+- chapter: ''
+  id: ta.20
+  sanskrit: tadaparamūrtirbhagavān maheśvaro bhūtirājaśca // 9 AbhT_1.9
+  type: karika
+  verse: '20'
+- chapter: ''
+  id: ta.21
+  sanskrit: śrīsomānandabodhaśrīmadutpalaviniḥsṛtāḥ /
+  type: karika
+  verse: '21'
+- chapter: ''
+  id: ta.22
+  sanskrit: jayanti saṃvidāmodasandarbhā dikprasarpiṇaḥ // 10 AbhT_1.10
+  type: karika
+  verse: '22'
+- chapter: ''
+  id: ta.23
+  sanskrit: tadāsvādabharāveśabṛṃhitāṃ matiṣaṭpadīm /
+  type: karika
+  verse: '23'
+- chapter: ''
+  id: ta.24
+  sanskrit: gurorlakṣmaṇaguptasya nādasaṃmohinīṃ numaḥ // 11 AbhT_1.11
+  type: karika
+  verse: '24'
+- chapter: ''
+  id: ta.25
+  sanskrit: yaḥ pūrṇānandaviśrāntasarvaśāstrārthapāragaḥ /
+  type: karika
+  verse: '25'
+- chapter: ''
+  id: ta.26
+  sanskrit: sa śrīcukhulako diśyādiṣṭaṃ me gururuttamaḥ // 12 AbhT_1.12
+  type: karika
+  verse: '26'
+- chapter: ''
+  id: ta.27
+  sanskrit: jayatājjagaduddhṛtikṣamo@sau bhagavatyā saha śaṃbhunātha ekaḥ /
+  type: karika
+  verse: '27'
+- chapter: ''
+  id: ta.28
+  sanskrit: yadudīritaśāsanāṃśubhirme prakaṭo@yaṃ gahano@pi śāstramārgaḥ // 13 AbhT_1.13
+  type: karika
+  verse: '28'
+- chapter: ''
+  id: ta.29
+  sanskrit: santi paddhatayaścitrāḥ srotobhedeṣu bhūyasā /
+  type: karika
+  verse: '29'
+- chapter: ''
+  id: ta.30
+  sanskrit: anuttaraṣaḍardhārthakrame tvekāpi nekṣyate // 14 AbhT_1.14
+  type: karika
+  verse: '30'
+- chapter: ''
+  id: ta.31
+  sanskrit: ityahaṃ bahuśaḥ sadbhiḥ śiṣyasabrahmacāribhiḥ /
+  type: karika
+  verse: '31'
+- chapter: ''
+  id: ta.32
+  sanskrit: arthito racaye spaṣṭāṃ pūrṇārthā prakriyāmimām // 15 AbhT_1.15
+  type: karika
+  verse: '32'
+- chapter: ''
+  id: ta.33
+  sanskrit: śrībhaṭṭanāthacaraṇābjayugāttathā śrībhaṭṭārikāṃghriyugalādgurusantatiryā
+    /
+  type: karika
+  verse: '33'
+- chapter: ''
+  id: ta.34
+  sanskrit: bodhānyapāśaviṣanuttadupāsanotthabodhojjvalo@bhinavagupta idaṃ karoti
+    // 16 AbhT_1.16
+  type: karika
+  verse: '34'
+- chapter: ''
+  id: ta.35
+  sanskrit: na tadastīha yanna śrī-mālinīvijayottare /
+  type: karika
+  verse: '35'
+- chapter: ''
+  id: ta.36
+  sanskrit: devadevena nirdiṣṭaṃ svaśabdenātha liṅgataḥ // 17 AbhT_1.17
+  type: karika
+  verse: '36'
+- chapter: ''
+  id: ta.37
+  sanskrit: daśāṣṭādaśavasvaṣṭabhinnaṃ yacchāsanaṃ vibhoḥ /
+  type: karika
+  verse: '37'
+- chapter: ''
+  id: ta.38
+  sanskrit: tatsāraṃ trikaśāstraṃ hi tatsāraṃ mālinīmatam // 18 AbhT_1.18
+  type: karika
+  verse: '38'
+- chapter: ''
+  id: ta.39
+  sanskrit: ato@trāntargataṃ sarva saṃpradāyojjhitairbudhaiḥ /
+  type: karika
+  verse: '39'
+- chapter: ''
+  id: ta.40
+  sanskrit: adṛṣṭa prakaṭīkurmo gurunāthājñayā vayam // 19 AbhT_1.19
+  type: karika
+  verse: '40'
+- chapter: ''
+  id: ta.41
+  sanskrit: abhinavaguptasya kṛtiḥ seyaṃ yasyoditā gurubhirākhyā /
+  type: karika
+  verse: '41'
+- chapter: ''
+  id: ta.42
+  sanskrit: śrīśambhunāthabhāskaracaraṇanipātaprabhāpagatasaṃkocam /
+  type: karika
+  verse: '42'
+- chapter: ''
+  id: ta.43
+  sanskrit: abhinavaguptahṛdambujametadvicinuta maheśapūjanahetoḥ // 21 AbhT_1.21
+  type: karika
+  verse: '43'
+- chapter: ''
+  id: ta.44
+  sanskrit: iha tāvatsamasteṣu śāstreṣu parigīyate /
+  type: karika
+  verse: '44'
+- chapter: ''
+  id: ta.45
+  sanskrit: ajñānaṃ saṃsṛterheturjñānaṃ mokṣaikakāraṇam // 22 AbhT_1.22
+  type: karika
+  verse: '45'
+- chapter: ''
+  id: ta.46
+  sanskrit: malamajñānamicchanti saṃsārāṅkurakāraṇam /
+  type: karika
+  verse: '46'
+- chapter: ''
+  id: ta.47
+  sanskrit: iti proktaṃ tathā va śrīmalinīvijayottare // 23 AbhT_1.23
+  type: karika
+  verse: '47'
+- chapter: ''
+  id: ta.48
+  sanskrit: viśeṣaṇena buddhisthe saṃsārottarakālike /
+  type: karika
+  verse: '48'
+- chapter: ''
+  id: ta.49
+  sanskrit: saṃbhāvanāṃ nirasyaitadabhāve mokṣamabravīt // 24 AbhT_1.24
+  type: karika
+  verse: '49'
+- chapter: ''
+  id: ta.50
+  sanskrit: ajñānamiti na jñānābhāvaścātiprasaṅgataḥ /
+  type: karika
+  verse: '50'
+- chapter: ''
+  id: ta.51
+  sanskrit: sa hi loṣṭādike@pyasti na ca tasyāsti saṃsṛtiḥ // 25 AbhT_1.25
+  type: karika
+  verse: '51'
+- chapter: ''
+  id: ta.52
+  sanskrit: ato jñeyasya tattvasya sāmastyenāprathātmakam /
+  type: karika
+  verse: '52'
+- chapter: ''
+  id: ta.53
+  sanskrit: jñānameva tadajñānaṃ śivasūtreṣu bhāṣitam // 26 AbhT_1.26
+  type: karika
+  verse: '53'
+- chapter: ''
+  id: ta.54
+  sanskrit: caitanyamātmā jñānaṃ ca bandha ityatra sūtrayoḥ /
+  type: karika
+  verse: '54'
+- chapter: ''
+  id: ta.55
+  sanskrit: saṃśleṣetarayogāśyāmayamarthaḥ pradarśitaḥ // 27 AbhT_1.27
+  type: karika
+  verse: '55'
+- chapter: ''
+  id: ta.56
+  sanskrit: caitanyamiti bhāvāntaḥ śabdaḥ svātantryamātrakam /
+  type: karika
+  verse: '56'
+- chapter: ''
+  id: ta.57
+  sanskrit: anākṣipraviśeṣaṃ sadāha sūtre purātane // 28 AbhT_1.28
+  type: karika
+  verse: '57'
+- chapter: ''
+  id: ta.58
+  sanskrit: dvitīyena tu sūtreṇa kriyāṃ vā karaṇaṃ ca vā /
+  type: karika
+  verse: '58'
+- chapter: ''
+  id: ta.59
+  sanskrit: bruvatā tasya cinmātrarūpasya dvaitamucyate // 29 AbhT_1.29
+  type: karika
+  verse: '59'
+- chapter: ''
+  id: ta.60
+  sanskrit: dvaitaprathā tadajñānaṃ tucchatvādbandha ucyate /
+  type: karika
+  verse: '60'
+- chapter: ''
+  id: ta.61
+  sanskrit: tata eva samucchedyamityāvṛttyānirūpitam // 30 AbhT_1.30
+  type: karika
+  verse: '61'
+- chapter: ''
+  id: ta.62
+  sanskrit: svatantrātmātiriktastu tuccho@ tuccho@pi kaścana /
+  type: karika
+  verse: '62'
+- chapter: ''
+  id: ta.63
+  sanskrit: na mokṣo nāma tannāsya pṛthaṅnāmāpi gṛhyate // 31 AbhT_1.31
+  type: karika
+  verse: '63'
+- chapter: ''
+  id: ta.64
+  sanskrit: yattu jñeyasatattvasya pūrṇapūrṇaprathātmakam /
+  type: karika
+  verse: '64'
+- chapter: ''
+  id: ta.65
+  sanskrit: taduttarottaraṃ jñānaṃ tattatsaṃsāraśāntidam // 32 AbhT_1.32
+  type: karika
+  verse: '65'
+- chapter: ''
+  id: ta.66
+  sanskrit: rāgādyakaluṣo@smyantaḥśūnyo@haṃ kartṛtojjhitaḥ /
+  type: karika
+  verse: '66'
+- chapter: ''
+  id: ta.67
+  sanskrit: itthaṃ samāsavyāsābhyāṃ jñānaṃ muñcati tāvataḥ // 33 AbhT_1.33
+  type: karika
+  verse: '67'
+- chapter: ''
+  id: ta.68
+  sanskrit: tasmānmukto@pyavacchedādavacchedāntarasthiteḥ /
+  type: karika
+  verse: '68'
+- chapter: ''
+  id: ta.69
+  sanskrit: amukta eva muktastu sarvāvacchedavarjitaḥ // 34 AbhT_1.34
+  type: karika
+  verse: '69'
+- chapter: ''
+  id: ta.70
+  sanskrit: yattu jñeyasatattvasya jñānaṃ sarvātmanojjhitam /
+  type: karika
+  verse: '70'
+- chapter: ''
+  id: ta.71
+  sanskrit: avacchedairna tatkutrāpyajñānaṃ satyamuktidam // 35 AbhT_1.35
+  type: karika
+  verse: '71'
+- chapter: ''
+  id: ta.72
+  sanskrit: jñānājñānasvarūpaṃ yaduktaṃ pratyekamapyadaḥ /
+  type: karika
+  verse: '72'
+- chapter: ''
+  id: ta.73
+  sanskrit: dvidhā pauruṣabauddhatvabhidoktaṃ śivaśāsane // 36 AbhT_1.36
+  type: karika
+  verse: '73'
+- chapter: ''
+  id: ta.74
+  sanskrit: tatra puṃso yadajñānaṃ malākhyaṃ tajjamapyaya /
+  type: karika
+  verse: '74'
+- chapter: ''
+  id: ta.75
+  sanskrit: svapūrṇacitkriyārūpaśivatāvaraṇātmakam // 37 AbhT_1.37
+  type: karika
+  verse: '75'
+- chapter: ''
+  id: ta.76
+  sanskrit: saṃkocidṛkkriyārūpaṃ tatpaśoravikalpitam /
+  type: karika
+  verse: '76'
+- chapter: ''
+  id: ta.77
+  sanskrit: tadajñānaṃ na budghyaṃśo@dhyavasāyādyabhāvataḥ // 38 AbhT_1.38
+  type: karika
+  verse: '77'
+- chapter: ''
+  id: ta.78
+  sanskrit: ahamitthamidaṃ vedmītyevamadhyavasāyinī /
+  type: karika
+  verse: '78'
+- chapter: ''
+  id: ta.79
+  sanskrit: ṣaṭkañcukābilāṇūtthapratibimbanato yadā // 39 AbhT_1.39
+  type: karika
+  verse: '79'
+- chapter: ''
+  id: ta.80
+  sanskrit: dhīrjāyate tadā tādṛgjñānamajñānaśabditam /
+  type: karika
+  verse: '80'
+- chapter: ''
+  id: ta.81
+  sanskrit: bauddhaṃ tasya ca tatpauṃsnaṃ poṣaṇīyaṃ ca poṣṭṛca // 40 AbhT_1.40
+  type: karika
+  verse: '81'
+- chapter: ''
+  id: ta.82
+  sanskrit: kṣīṇe tu paśusaṃskāre puṃsaḥ prāptaparasthiteḥ /
+  type: karika
+  verse: '82'
+- chapter: ''
+  id: ta.83
+  sanskrit: vikasvaraṃ tadvijñānaṃ pauruṣaṃ nirvikalpakam // 41 AbhT_1.41
+  type: karika
+  verse: '83'
+- chapter: ''
+  id: ta.84
+  sanskrit: vikasvarāvikalpātmajñānaucityena yāvasā /
+  type: karika
+  verse: '84'
+- chapter: ''
+  id: ta.85
+  sanskrit: tadbauddhaṃ yasya tatpauṃsnaṃ prāgvatpoṣyaṃ ca poṣṭṛ ca // 42 AbhT_1.42
+  type: karika
+  verse: '85'
+- chapter: ''
+  id: ta.86
+  sanskrit: tatra dīkṣādinā pauṃsnamajñānaṃ dhvaṃsi yadyapi /
+  type: karika
+  verse: '86'
+- chapter: ''
+  id: ta.87
+  sanskrit: tathāpi taccharīrānte tajjñānaṃ vyajyate sphuṭam // 43 AbhT_1.43
+  type: karika
+  verse: '87'
+- chapter: ''
+  id: ta.88
+  sanskrit: bauddhajñānena tu yadā bauddhamajñānajṛmbhitam /
+  type: karika
+  verse: '88'
+- chapter: ''
+  id: ta.89
+  sanskrit: vilīyate tadā jīvanmuktiḥ karatale sthitā // 44 AbhT_1.44
+  type: karika
+  verse: '89'
+- chapter: ''
+  id: ta.90
+  sanskrit: dīkṣāpi bauddhavijñānapūrvā satyaṃ vimocikā /
+  type: karika
+  verse: '90'
+- chapter: ''
+  id: ta.91
+  sanskrit: tena tatrāpi bauddhasya jñānasyāsti pradhānatā // 45 AbhT_1.45
+  type: karika
+  verse: '91'
+- chapter: ''
+  id: ta.92
+  sanskrit: jñānājñānāgataṃ caitaddvitvaṃ svāyambhuve rurau /
+  type: karika
+  verse: '92'
+- chapter: ''
+  id: ta.93
+  sanskrit: mataṅgādau kṛtaṃ śrīmatkheṭapālādidaiśikaiḥ // 46 AbhT_1.46
+  type: karika
+  verse: '93'
+- chapter: ''
+  id: ta.94
+  sanskrit: tathāvidhāvasāyātmabauddhavijñānasampade /
+  type: karika
+  verse: '94'
+- chapter: ''
+  id: ta.95
+  sanskrit: śāstrameva pradhānaṃ yajjñeyatattvapradarśakam // 47 AbhT_1.47
+  type: karika
+  verse: '95'
+- chapter: ''
+  id: ta.96
+  sanskrit: dīkṣayā galite@pyantarajñāne pauruṣātmani /
+  type: karika
+  verse: '96'
+- chapter: ''
+  id: ta.97
+  sanskrit: dhīgatasyānivṛttatvādvikalpo@pi hi saṃbhaveta // 48 AbhT_1.48
+  type: karika
+  verse: '97'
+- chapter: ''
+  id: ta.98
+  sanskrit: dehasadbhāvaparyantamātmabhāvo yato dhiyi /
+  type: karika
+  verse: '98'
+- chapter: ''
+  id: ta.99
+  sanskrit: dehānte@pi na mokṣaḥ syātpauruṣājñānahānitaḥ // 49 AbhT_1.49
+  type: karika
+  verse: '99'
+- chapter: ''
+  id: ta.100
+  sanskrit: bauddhājñānanivṛttau tu vikalponmūlanāddhruvam /
+  type: karika
+  verse: '100'
+- chapter: ''
+  id: ta.101
+  sanskrit: tadaiva mokṣa ityuktaṃ dhātrā śrīmanniśāṭane // 50 AbhT_1.50
+  type: karika
+  verse: '101'
+- chapter: ''
+  id: ta.102
+  sanskrit: vikalpayuktacitastu piṇḍapātācchivaṃ brajet /
+  type: karika
+  verse: '102'
+- chapter: ''
+  id: ta.103
+  sanskrit: itarastu tadaiveti śāstrasyātra pradhānataḥ // 51 AbhT_1.51
+  type: karika
+  verse: '103'
+- chapter: ''
+  id: ta.104
+  sanskrit: jñeyasya hi paraṃ tattvaṃ yaḥ prakāśātmakaḥ śivaḥ /
+  type: karika
+  verse: '104'
+- chapter: ''
+  id: ta.105
+  sanskrit: nahyaprakāśarūpasya prākāśyaṃ vastutāpi vā // 52 AbhT_1.52
+  type: karika
+  verse: '105'
+- chapter: ''
+  id: ta.106
+  sanskrit: avastutāpi bhāvānāṃ camatkāraikagocarā /
+  type: karika
+  verse: '106'
+- chapter: ''
+  id: ta.107
+  sanskrit: yatkuḍyasadṛśī neyaṃ dhīravastvetadityapi // 53 AbhT_1.53
+  type: karika
+  verse: '107'
+- chapter: ''
+  id: ta.108
+  sanskrit: prakāśo nāma yaścāyaṃ sarvatraiva prakāśate /
+  type: karika
+  verse: '108'
+- chapter: ''
+  id: ta.109
+  sanskrit: anapahnavanīyatvāt kiṃ tasminmānakalpanaiḥ // 54 AbhT_1.54
+  type: karika
+  verse: '109'
+- chapter: ''
+  id: ta.110
+  sanskrit: pramāṇānyapi vastūnāṃ jīvitaṃ yāni tanvate /
+  type: karika
+  verse: '110'
+- chapter: ''
+  id: ta.111
+  sanskrit: teṣāmapi paro jīvaḥ sa eva parameśvaraḥ // 55 AbhT_1.55
+  type: karika
+  verse: '111'
+- chapter: ''
+  id: ta.112
+  sanskrit: sarvāpahnavahevākadharmāpyevaṃ hi vartate /
+  type: karika
+  verse: '112'
+- chapter: ''
+  id: ta.113
+  sanskrit: jñānamātmārthamityetanneti māṃ prati bhāsate // 56 AbhT_1.56
+  type: karika
+  verse: '113'
+- chapter: ''
+  id: ta.114
+  sanskrit: apahnutau sādhane vā vastūnāmādyamīdṛśam /
+  type: karika
+  verse: '114'
+- chapter: ''
+  id: ta.115
+  sanskrit: yattatra ke pramāṇānāmupapattyupayogite // 57 AbhT_1.57
+  type: karika
+  verse: '115'
+- chapter: ''
+  id: ta.116
+  sanskrit: kāmike tata evoktaṃ hetuvādavivarjitam /
+  type: karika
+  verse: '116'
+- chapter: ''
+  id: ta.117
+  sanskrit: tasya devātidevasya parāpekṣā na vidyate // 59 AbhT_1.59
+  type: karika
+  verse: '117'
+- chapter: ''
+  id: ta.118
+  sanskrit: parasya tadapekṣatvātsvatantro@yamataḥ sthitaḥ /
+  type: karika
+  verse: '118'
+- chapter: ''
+  id: ta.119
+  sanskrit: anapekṣasya vaśino deśakālākṛtikramāḥ // 60 AbhT_1.60
+  type: karika
+  verse: '119'
+- chapter: ''
+  id: ta.120
+  sanskrit: niyatā neti sa vibhurnityo viśvākṛtiḥ śivaḥ /
+  type: karika
+  verse: '120'
+- chapter: ''
+  id: ta.121
+  sanskrit: vibhutvātsarvago nityabhāvādādyantavarjitaḥ // 61 AbhT_1.61
+  type: karika
+  verse: '121'
+- chapter: ''
+  id: ta.122
+  sanskrit: viśvākṛtitvāccidacittadvaicitryāvabhāsakaḥ /
+  type: karika
+  verse: '122'
+- chapter: ''
+  id: ta.123
+  sanskrit: tato@sya bahurūpatvamuktaṃ dīkṣottarādike // 62 AbhT_1.62
+  type: karika
+  verse: '123'
+- chapter: ''
+  id: ta.124
+  sanskrit: bhuvanaṃ vigraho jyotiḥ khaṃ śabdo mantra eva ca /
+  type: karika
+  verse: '124'
+- chapter: ''
+  id: ta.125
+  sanskrit: bindunādādisaṃbhinnaḥ ṣaḍvidhaḥ śiva ucyate // 63 AbhT_1.63
+  type: karika
+  verse: '125'
+- chapter: ''
+  id: ta.126
+  sanskrit: yo yadātmakatāniṣṭhastadbhāvaṃ sa prapadyate /
+  type: karika
+  verse: '126'
+- chapter: ''
+  id: ta.127
+  sanskrit: vyomādiśabdavijñānātparo mokṣo na saṃśayaḥ // 64 AbhT_1.64
+  type: karika
+  verse: '127'
+- chapter: ''
+  id: ta.128
+  sanskrit: viśvākṛtitve devasya tadetaccopalakṣaṇam /
+  type: karika
+  verse: '128'
+- chapter: ''
+  id: ta.129
+  sanskrit: anavacchinnatārūḍhāvavacchedalaye@sya ca // 65 AbhT_1.65
+  type: karika
+  verse: '129'
+- chapter: ''
+  id: ta.130
+  sanskrit: uktaṃ ca kāmike devaḥ sarvākṛtirnirākṛtiḥ /
+  type: karika
+  verse: '130'
+- chapter: ''
+  id: ta.131
+  sanskrit: jaladarpaṇavattena sarvaṃ vyāptaṃ carācaram // 66 AbhT_1.66
+  type: karika
+  verse: '131'
+- chapter: ''
+  id: ta.132
+  sanskrit: na cāsya vimutādyo@yaṃ dharmo@nyonyaṃ vibhidyate /
+  type: karika
+  verse: '132'
+- chapter: ''
+  id: ta.133
+  sanskrit: eka evāsya dharmo@sau sarvākṣepeṇa vartate // 67 AbhT_1.67
+  type: karika
+  verse: '133'
+- chapter: ''
+  id: ta.134
+  sanskrit: tena svātantryaśaktyaiva yukta ityāñjaso vidhiḥ /
+  type: karika
+  verse: '134'
+- chapter: ''
+  id: ta.135
+  sanskrit: bahuśaktitvamapyasya tacchaktyaivāviyuktatā // 68 AbhT_1.68
+  type: karika
+  verse: '135'
+- chapter: ''
+  id: ta.136
+  sanskrit: śaktiśca nāma bhāvasya svaṃ rūpaṃ mātṛkalpitam /
+  type: karika
+  verse: '136'
+- chapter: ''
+  id: ta.137
+  sanskrit: tenādvayaḥ sa evāpi śaktimatparikalpane // 69 AbhT_1.69
+  type: karika
+  verse: '137'
+- chapter: ''
+  id: ta.138
+  sanskrit: mātṛklṛpte hi devasya tatra tatra vapuṣyalam /
+  type: karika
+  verse: '138'
+- chapter: ''
+  id: ta.139
+  sanskrit: ko bhedo vastuto vahnerdagdhṛpaktṛtvayoriva // 70 AbhT_1.70
+  type: karika
+  verse: '139'
+- chapter: ''
+  id: ta.140
+  sanskrit: na vāsau paramārthena na kiṃcidbhāsanādṛte /
+  type: karika
+  verse: '140'
+- chapter: ''
+  id: ta.141
+  sanskrit: nahyasti kiṃcittacchaktitadvadbhedo@pi vāstavaḥ // 71 AbhT_1.71
+  type: karika
+  verse: '141'
+- chapter: ''
+  id: ta.142
+  sanskrit: svaśaktyudrekajanakaṃ tādātmyādvastuno hi yat /
+  type: karika
+  verse: '142'
+- chapter: ''
+  id: ta.143
+  sanskrit: śaktistadapi devyevaṃ bhāntyapyanyasvarūpiṇī // 72 AbhT_1.72
+  type: karika
+  verse: '143'
+- chapter: ''
+  id: ta.144
+  sanskrit: śivaścāluptavibhavastathā sṛṣṭo@vabhāsate /
+  type: karika
+  verse: '144'
+- chapter: ''
+  id: ta.145
+  sanskrit: svasaṃvinmātṛmakure svātantryādbhāvanādiṣu // 73 AbhT_1.73
+  type: karika
+  verse: '145'
+- chapter: ''
+  id: ta.146
+  sanskrit: tasmādyena mukhenaiṣa bhātyanaṃśo@pi tattathā /
+  type: karika
+  verse: '146'
+- chapter: ''
+  id: ta.147
+  sanskrit: śaktirityeṣa vastveva śaktitadvatkramaḥ sphuṭaḥ // 74 AbhT_1.74
+  type: karika
+  verse: '147'
+- chapter: ''
+  id: ta.148
+  sanskrit: śrīmatkiraṇaśāstre ca tatpraśnottarapūrvakam /
+  type: karika
+  verse: '148'
+- chapter: ''
+  id: ta.149
+  sanskrit: anubhāvo vikalpo@pi mānaso na manaḥ śive // 75 AbhT_1.75
+  type: karika
+  verse: '149'
+- chapter: ''
+  id: ta.150
+  sanskrit: avijñāya śivaṃ dīkṣā kathamityatra cottaram /
+  type: karika
+  verse: '150'
+- chapter: ''
+  id: ta.151
+  sanskrit: kṣudhādyanubhavo naiva vikalpo nahi mānasaḥ // 76 AbhT_1.76
+  type: karika
+  verse: '151'
+- chapter: ''
+  id: ta.152
+  sanskrit: rasādyanadhyakṣatve@pi rūpādeva yathā tarum /
+  type: karika
+  verse: '152'
+- chapter: ''
+  id: ta.153
+  sanskrit: vikalpo vetti tadvattu nādabindvādinā śivam // 77 AbhT_1.77
+  type: karika
+  verse: '153'
+- chapter: ''
+  id: ta.154
+  sanskrit: bahuśaktitvamasyoktaṃ śivasya yadato mahān /
+  type: karika
+  verse: '154'
+- chapter: ''
+  id: ta.155
+  sanskrit: kalātattvapurārṇāṇupadādirbhedavistaraḥ // 78 AbhT_1.78
+  type: karika
+  verse: '155'
+- chapter: ''
+  id: ta.156
+  sanskrit: sṛṣṭisthititirodhānasaṃhārānugrahādi ca /
+  type: karika
+  verse: '156'
+- chapter: ''
+  id: ta.157
+  sanskrit: turyamityapi devasya bahuśaktitvajṛmbhitam // 79 AbhT_1.79
+  type: karika
+  verse: '157'
+- chapter: ''
+  id: ta.158
+  sanskrit: jāgratsvapnasuṣuptānyatadatītāni yānyapi /
+  type: karika
+  verse: '158'
+- chapter: ''
+  id: ta.159
+  sanskrit: tānyapyamuṣya nāthasya svātantryalaharībharaḥ // 80 AbhT_1.80
+  type: karika
+  verse: '159'
+- chapter: ''
+  id: ta.160
+  sanskrit: mahāmantreśamantreśamantrāḥ śivapurogamāḥ /
+  type: karika
+  verse: '160'
+- chapter: ''
+  id: ta.161
+  sanskrit: akalau sakalaśceti śivasyaiva vibhūtayaḥ // 81 AbhT_1.81
+  type: karika
+  verse: '161'
+- chapter: ''
+  id: ta.162
+  sanskrit: tattvagrāmasya sarvasya dharmaḥ syādanapāyavān /
+  type: karika
+  verse: '162'
+- chapter: ''
+  id: ta.163
+  sanskrit: ātmaiva hi svabhāvātmetyuktaṃ śrītriśiromate // 82 AbhT_1.82
+  type: karika
+  verse: '163'
+- chapter: ''
+  id: ta.164
+  sanskrit: hṛdisthaṃ sarvadehasthaṃ svabhāvasthaṃ susūkṣmakam /
+  type: karika
+  verse: '164'
+- chapter: ''
+  id: ta.165
+  sanskrit: sāmūhyaṃ caiva tattvānāṃ grāmaśabdena kīrtitam // 83 AbhT_1.83
+  type: karika
+  verse: '165'
+- chapter: ''
+  id: ta.166
+  sanskrit: ātmaiva dharma ityuktaḥ śivāmṛtapariplutaḥ /
+  type: karika
+  verse: '166'
+- chapter: ''
+  id: ta.167
+  sanskrit: prakāśāvasthitaṃ jñānaṃ bhāvābhāvādimadhyataḥ // 84 AbhT_1.84
+  type: karika
+  verse: '167'
+- chapter: ''
+  id: ta.168
+  sanskrit: svasthāne vartanaṃ jñeyaṃ draṣṭṛtvaṃ vigatāvṛti /
+  type: karika
+  verse: '168'
+- chapter: ''
+  id: ta.169
+  sanskrit: viviktavastukathitaśuddhavijñānanirmalaḥ // 85 AbhT_1.85
+  type: karika
+  verse: '169'
+- chapter: ''
+  id: ta.170
+  sanskrit: grāmadharmavṛttiruktastasya sarvaṃ prasiddhyati /
+  type: karika
+  verse: '170'
+- chapter: ''
+  id: ta.171
+  sanskrit: ūrdhva tyaktvādho viśetsa rāmastho madhyadeśagaḥ // 86 AbhT_1.86
+  type: karika
+  verse: '171'
+- chapter: ''
+  id: ta.172
+  sanskrit: gatiḥ sthānaṃ svapnajāgradunmeṣaṇanimeṣaṇe /
+  type: karika
+  verse: '172'
+- chapter: ''
+  id: ta.173
+  sanskrit: dhāvanaṃ plavanaṃ caiva āyāsaḥ śaktivedanam // 87 AbhT_1.87
+  type: karika
+  verse: '173'
+- chapter: ''
+  id: ta.174
+  sanskrit: buddhibhedāstathā bhāvāḥ saṃjñāḥ karmāṇyanekaśaḥ /
+  type: karika
+  verse: '174'
+- chapter: ''
+  id: ta.175
+  sanskrit: eṣa rāmo vyāpako@tra śivaḥ paramakāraṇam // 88 AbhT_1.88
+  type: karika
+  verse: '175'
+- chapter: ''
+  id: ta.176
+  sanskrit: kalmaṣakṣīṇamanasā smṛtimātranirodhanāt /
+  type: karika
+  verse: '176'
+- chapter: ''
+  id: ta.177
+  sanskrit: dhyāyate paramaṃ dhyeyaṃ gamāgamapade sthitam // 89 AbhT_1.89
+  type: karika
+  verse: '177'
+- chapter: ''
+  id: ta.178
+  sanskrit: paraṃ śivaṃ tu vrajati bhairavākhyaṃ japādapi /
+  type: karika
+  verse: '178'
+- chapter: ''
+  id: ta.179
+  sanskrit: tatsvarūpaṃ japaḥ prokto bhāvābhāvapadacyutaḥ // 90 AbhT_1.90
+  type: karika
+  verse: '179'
+- chapter: ''
+  id: ta.180
+  sanskrit: tadatrāpi tadīyena svātantryeṇopakalpitaḥ /
+  type: karika
+  verse: '180'
+- chapter: ''
+  id: ta.181
+  sanskrit: dūrāsannādiko bhedaścitsvātantryavyapekṣayā // 91 AbhT_1.91
+  type: karika
+  verse: '181'
+- chapter: ''
+  id: ta.182
+  sanskrit: evaṃ svātantryapūrṇatvādatidurghaṭakāryayam /
+  type: karika
+  verse: '182'
+- chapter: ''
+  id: ta.183
+  sanskrit: kena nāma na rūpeṇa bhāsate parameśvaraḥ // 92 AbhT_1.92
+  type: karika
+  verse: '183'
+- chapter: ''
+  id: ta.184
+  sanskrit: nirāvaraṇamābhāti bhātyābṛtanijātmakaḥ /
+  type: karika
+  verse: '184'
+- chapter: ''
+  id: ta.185
+  sanskrit: āvṛtānāvṛto bhāti bahudhā bhedasaṃgamāt // 93 AbhT_1.93
+  type: karika
+  verse: '185'
+- chapter: ''
+  id: ta.186
+  sanskrit: iti śaktitrayaṃ nāthe svātantryāparanāmakam /
+  type: karika
+  verse: '186'
+- chapter: ''
+  id: ta.187
+  sanskrit: icchādibhirabhikhyābhirgurubhiḥ prakaṭīkṛtam // 94 AbhT_1.94
+  type: karika
+  verse: '187'
+- chapter: ''
+  id: ta.188
+  sanskrit: devo hyanvarthaśāstroktaiḥ śabdaiḥ samupadiśyate /
+  type: karika
+  verse: '188'
+- chapter: ''
+  id: ta.189
+  sanskrit: mahābhairavadevo@yaṃ patiryaḥ paramaḥ śivaḥ // 95 AbhT_1.95
+  type: karika
+  verse: '189'
+- chapter: ''
+  id: ta.190
+  sanskrit: viśvaṃ bibharti pūraṇadhāraṇayogena tena ca śriyate /
+  type: karika
+  verse: '190'
+- chapter: ''
+  id: ta.191
+  sanskrit: savimarśatayā rava rūpataśca saṃsārabhīruhitakṛcca // 96 AbhT_1.96
+  type: karika
+  verse: '191'
+- chapter: ''
+  id: ta.192
+  sanskrit: saṃsārabhītijanitādravātparāmarśato@pi hṛdi jātaḥ /
+  type: karika
+  verse: '192'
+- chapter: ''
+  id: ta.193
+  sanskrit: prakaṭībhūtaṃ bhavabhayavimarśanaṃ śaktipātato yena // 97 AbhT_1.97
+  type: karika
+  verse: '193'
+- chapter: ''
+  id: ta.194
+  sanskrit: nakṣatraprerakakālatattvasaṃśoṣakāriṇo ye ca /
+  type: karika
+  verse: '194'
+- chapter: ''
+  id: ta.195
+  sanskrit: kālagrāsasamādhānarasikamanaḥsu teṣu ca prakaṭaḥ // 98 AbhT_1.98
+  type: karika
+  verse: '195'
+- chapter: ''
+  id: ta.196
+  sanskrit: saṃkocipaśujanabhiye yāsāṃ ravaṇaṃ svakaraṇadevīnām /
+  type: karika
+  verse: '196'
+- chapter: ''
+  id: ta.197
+  sanskrit: antarbahiścaturvidhakhecaryādikagaṇasyāpi // 99 AbhT_1.99
+  type: karika
+  verse: '197'
+- chapter: ''
+  id: ta.198
+  sanskrit: tasya svāmī saṃsāravṛttivighaṭanamahābhīmaḥ /
+  type: karika
+  verse: '198'
+- chapter: ''
+  id: ta.199
+  sanskrit: bhairava iti gurubhirimairanvarthaiḥ saṃstutaḥ śāstre // 100 AbhT_1.100
+  type: karika
+  verse: '199'
+- chapter: ''
+  id: ta.200
+  sanskrit: heyopādeyakathāvirahe svānandaghanatayocchalanam /
+  type: karika
+  verse: '200'
+- chapter: ''
+  id: ta.201
+  sanskrit: krīḍā sarvotkarṣeṇavartanecchā tathā svatantratvam // 101 AbhT_1.101
+  type: karika
+  verse: '201'
+- chapter: ''
+  id: ta.202
+  sanskrit: vyavaharaṇamabhinne@pi svātmani bhedena saṃjalpaḥ /
+  type: karika
+  verse: '202'
+- chapter: ''
+  id: ta.203
+  sanskrit: nikhilāvabhāsanācca dyotanamasya stutiryataḥ sakalam // 102 AbhT_1.102
+  type: karika
+  verse: '203'
+- chapter: ''
+  id: ta.204
+  sanskrit: tatpravaṇamātmalābhātprabhṛti samaste@pi kartavye /
+  type: karika
+  verse: '204'
+- chapter: ''
+  id: ta.205
+  sanskrit: bodhātmakaḥ samastakriyāmayo dṛkkriyāguṇaśca gatiḥ // 103 AbhT_1.103
+  type: karika
+  verse: '205'
+- chapter: ''
+  id: ta.206
+  sanskrit: iti nirvacanaiḥ śivatanuśāstre gurubhiḥ smṛto devaḥ /
+  type: karika
+  verse: '206'
+- chapter: ''
+  id: ta.207
+  sanskrit: śāsanarodhanapālanapācanayogātsa sarvamupakurute /
+  type: karika
+  verse: '207'
+- chapter: ''
+  id: ta.208
+  sanskrit: tena patiḥ śreyomaya eva śivo nāśivaṃ kimapi tatra // 104 AbhT_1.104
+  type: karika
+  verse: '208'
+- chapter: ''
+  id: ta.209
+  sanskrit: īdṛgrūpaṃ kiyadapi rudropendrādiṣu sphuredyena /
+  type: karika
+  verse: '209'
+- chapter: ''
+  id: ta.210
+  sanskrit: tenāvacchedanude paramamahatpadaviśeṣaṇamupāttam // 105 AbhT_1.105
+  type: karika
+  verse: '210'
+- chapter: ''
+  id: ta.211
+  sanskrit: iti yajjñeyasatattvaṃ darśyate tacchivājñayā /
+  type: karika
+  verse: '211'
+- chapter: ''
+  id: ta.212
+  sanskrit: mayā svasaṃvitsattarkapatiśāstratrikakramāt // 106 AbhT_1.106
+  type: karika
+  verse: '212'
+- chapter: ''
+  id: ta.213
+  sanskrit: tasya śaktaya evaitāstisro bhānti parādikāḥ /
+  type: karika
+  verse: '213'
+- chapter: ''
+  id: ta.214
+  sanskrit: sṛṣṭau sthitau laye turye tenaitā dvādaśoditāḥ // 107 AbhT_1.107
+  type: karika
+  verse: '214'
+- chapter: ''
+  id: ta.215
+  sanskrit: tāvānpūrṇasvabhāvo@sau paramaḥ śiva ucyate /
+  type: karika
+  verse: '215'
+- chapter: ''
+  id: ta.216
+  sanskrit: tenātropāsakāḥ sākṣāttatraiva pariniṣṭhitāḥ // 108 AbhT_1.108
+  type: karika
+  verse: '216'
+- chapter: ''
+  id: ta.217
+  sanskrit: tāsāmapi ca bhedāṃśanyūnādhikyādiyojanam /
+  type: karika
+  verse: '217'
+- chapter: ''
+  id: ta.218
+  sanskrit: tatsvātantryabalādeva śāstreṣu paribhāṣitam // 109 AbhT_1.109
+  type: karika
+  verse: '218'
+- chapter: ''
+  id: ta.219
+  sanskrit: ekavīro yāmalo@tha triśaktiścaturātmakaḥ /
+  type: karika
+  verse: '219'
+- chapter: ''
+  id: ta.220
+  sanskrit: pañcamūrtiḥ ṣaḍātmāyaṃ saptako@ṣṭakabhūṣitaḥ // 110 AbhT_1.110
+  type: karika
+  verse: '220'
+- chapter: ''
+  id: ta.221
+  sanskrit: navātmā daśadikchaktirekādaśakalātmakaḥ /
+  type: karika
+  verse: '221'
+- chapter: ''
+  id: ta.222
+  sanskrit: dvādaśāramahācakranāyako bhairavastviti // 111 AbhT_1.111
+  type: karika
+  verse: '222'
+- chapter: ''
+  id: ta.223
+  sanskrit: evaṃ yāvatsahasrāre niḥsaṃkhyāre@pi vā prabhuḥ /
+  type: karika
+  verse: '223'
+- chapter: ''
+  id: ta.224
+  sanskrit: viśvacakre maheśāno viśvaśaktirvijṛmbhate // 112 AbhT_1.112
+  type: karika
+  verse: '224'
+- chapter: ''
+  id: ta.225
+  sanskrit: teṣāmapi ca cakrāṇā svavargānugamātmanā /
+  type: karika
+  verse: '225'
+- chapter: ''
+  id: ta.226
+  sanskrit: aikyena cakrago bhedastatra tatra nirūpitaḥ // 113 AbhT_1.113
+  type: karika
+  verse: '226'
+- chapter: ''
+  id: ta.227
+  sanskrit: catuṣṣaḍdvirdvigaṇanāyogāttraiśirase mate /
+  type: karika
+  verse: '227'
+- chapter: ''
+  id: ta.228
+  sanskrit: ṣaṭcakreśvaratā nāthasyoktā citranijākṛteḥ // 114 AbhT_1.114
+  type: karika
+  verse: '228'
+- chapter: ''
+  id: ta.229
+  sanskrit: nāmāni cakradevīnāṃ tatra kṛtyavibhedataḥ /
+  type: karika
+  verse: '229'
+- chapter: ''
+  id: ta.230
+  sanskrit: saumyaraudrākṛtidhyānayogīnyanvarthakalpanāt // 115 AbhT_1.115
+  type: karika
+  verse: '230'
+- chapter: ''
+  id: ta.231
+  sanskrit: ekasya saṃvinnāthasya hyāntarī pratibhā tanuḥ /
+  type: karika
+  verse: '231'
+- chapter: ''
+  id: ta.232
+  sanskrit: saumyaṃ vānyanmitaṃ saṃvidūrmicakramupāsyate // 116 AbhT_1.116
+  type: karika
+  verse: '232'
+- chapter: ''
+  id: ta.233
+  sanskrit: asya syātpuṣṭirityeṣā saṃviddevī tathoditāt /
+  type: karika
+  verse: '233'
+- chapter: ''
+  id: ta.234
+  sanskrit: dhyānātsaṃjalpasaṃmiśrād vyāpārāccāpi bāhyataḥ // 117 AbhT_1.117
+  type: karika
+  verse: '234'
+- chapter: ''
+  id: ta.235
+  sanskrit: sphuṭībhūtā satī bhāti tasya tādṛkphalapradā /
+  type: karika
+  verse: '235'
+- chapter: ''
+  id: ta.236
+  sanskrit: puṣṭiḥ śuṣkasya sarasībhāvo jalamataḥ sitam // 118 AbhT_1.118
+  type: karika
+  verse: '236'
+- chapter: ''
+  id: ta.237
+  sanskrit: anugamya tato dhyānaṃ tatpradhānaṃ pratanyate /
+  type: karika
+  verse: '237'
+- chapter: ''
+  id: ta.238
+  sanskrit: ye ca svabhāvato varṇā rasaniḥṣyandino yathā // 119 AbhT_1.119
+  type: karika
+  verse: '238'
+- chapter: ''
+  id: ta.239
+  sanskrit: dantyauṣṭhyadantyaprāyāste kaiścidvarṇaiḥ kṛtāḥ saha /
+  type: karika
+  verse: '239'
+- chapter: ''
+  id: ta.240
+  sanskrit: taṃ bījabhāvamāgatya saṃvidaṃ sphuṭayanti tām // 120 AbhT_1.120
+  type: karika
+  verse: '240'
+- chapter: ''
+  id: ta.241
+  sanskrit: puṣṭiṃ kuru rasenainamāpyāyaya tarāmiti /
+  type: karika
+  verse: '241'
+- chapter: ''
+  id: ta.242
+  sanskrit: saṃjalpo@pi vikalpātmā kiṃ tāmeva na pūrayet // 121 AbhT_1.121
+  type: karika
+  verse: '242'
+- chapter: ''
+  id: ta.243
+  sanskrit: amṛteyamidaṃ kṣīramidaṃ sarpirbalāvaham /
+  type: karika
+  verse: '243'
+- chapter: ''
+  id: ta.244
+  sanskrit: tenāsya bījaṃ puṣṇīyāmityenāṃ pūrayetkriyām // 122 AbhT_1.122
+  type: karika
+  verse: '244'
+- chapter: ''
+  id: ta.245
+  sanskrit: tasmādviśveśvaro bodhabhairavaḥ samupāsyate /
+  type: karika
+  verse: '245'
+- chapter: ''
+  id: ta.246
+  sanskrit: avacchedānavacchidbhyāṃ bhogamokṣārthibhirjanaiḥ // 123 AbhT_1.123
+  type: karika
+  verse: '246'
+- chapter: ''
+  id: ta.247
+  sanskrit: ye@pyanyadevatābhaktā ityato gururādiśat /
+  type: karika
+  verse: '247'
+- chapter: ''
+  id: ta.248
+  sanskrit: ye bodhādvyatiriktaṃ hi kiṃcidyājyatayā viduḥ // 124 AbhT_1.124
+  type: karika
+  verse: '248'
+- chapter: ''
+  id: ta.249
+  sanskrit: te@pi vedyaṃ viviñcānā bodhābhedena manvate /
+  type: karika
+  verse: '249'
+- chapter: ''
+  id: ta.250
+  sanskrit: tenāvicchinnatāmarśarūpāhantāprathātmanaḥ // 125 AbhT_1.125
+  type: karika
+  verse: '250'
+- chapter: ''
+  id: ta.251
+  sanskrit: svayaṃ-prathasya na vidhiḥ sṛṣṭyātmāsya ca pūrvagaḥ /
+  type: karika
+  verse: '251'
+- chapter: ''
+  id: ta.252
+  sanskrit: vedyā hi devatāsṛṣṭiḥ śakterhetoḥ samutthitā // 126 AbhT_1.126
+  type: karika
+  verse: '252'
+- chapter: ''
+  id: ta.253
+  sanskrit: ahaṃrūpā tu saṃvittirnityā svaprathanātmikā /
+  type: karika
+  verse: '253'
+- chapter: ''
+  id: ta.254
+  sanskrit: vidhirniyogastryaṃśā ca bhāvanā codanātmikā // 127 AbhT_1.127
+  type: karika
+  verse: '254'
+- chapter: ''
+  id: ta.255
+  sanskrit: tadekasiddhā indrādyā vidhipūrvā hi devatāḥ /
+  type: karika
+  verse: '255'
+- chapter: ''
+  id: ta.256
+  sanskrit: ahaṃbodhastu na tathā te tu saṃvedyarūpatām // 128 AbhT_1.128
+  type: karika
+  verse: '256'
+- chapter: ''
+  id: ta.257
+  sanskrit: unmagnāmeva paśyantastaṃ vidanto@pi no viduḥ /
+  type: karika
+  verse: '257'
+- chapter: ''
+  id: ta.258
+  sanskrit: taduktaṃ na vidurmāṃ tu tattvenātaścalanti te // 129 AbhT_1.129
+  type: karika
+  verse: '258'
+- chapter: ''
+  id: ta.259
+  sanskrit: calanaṃ tu vyavacchinnarūpatāpattireva yā /
+  type: karika
+  verse: '259'
+- chapter: ''
+  id: ta.260
+  sanskrit: devāndevayajo yāntītyādi tena nyarūpyata // 130 AbhT_1.130
+  type: karika
+  verse: '260'
+- chapter: ''
+  id: ta.261
+  sanskrit: nimajjya vedyatāṃ ye tu tatra saṃvinmayīṃ sthitim /
+  type: karika
+  verse: '261'
+- chapter: ''
+  id: ta.262
+  sanskrit: viduste hyanavacchinnaṃ tadbhaktā api yānti mām // 131 AbhT_1.131
+  type: karika
+  verse: '262'
+- chapter: ''
+  id: ta.263
+  sanskrit: sarvatrātra hyahaṃśabdo bodhamātraikavācakaḥ /
+  type: karika
+  verse: '263'
+- chapter: ''
+  id: ta.264
+  sanskrit: sa bhoktṛprabhuśabdābhyāṃ yājyayaṣṭṭatayoditaḥ // 132 AbhT_1.132
+  type: karika
+  verse: '264'
+- chapter: ''
+  id: ta.265
+  sanskrit: yājamānī saṃvideva yājyā nānyeti coditam /
+  type: karika
+  verse: '265'
+- chapter: ''
+  id: ta.266
+  sanskrit: na tvākṛtiḥ kuto@pyanyā devatā na hi socitā // 133 AbhT_1.133
+  type: karika
+  verse: '266'
+- chapter: ''
+  id: ta.267
+  sanskrit: vidhiśca noktaḥ ko@pyatra mantrādi vṛttidhāma vā /
+  type: karika
+  verse: '267'
+- chapter: ''
+  id: ta.268
+  sanskrit: so@yamātmānamāvṛtya sthito jaḍapadaṃ gataḥ // 134 AbhT_1.134
+  type: karika
+  verse: '268'
+- chapter: ''
+  id: ta.269
+  sanskrit: āvṛtānāvṛtātmā tu devādisthāvarāntagaḥ /
+  type: karika
+  verse: '269'
+- chapter: ''
+  id: ta.270
+  sanskrit: jaḍājaḍasyāpyetasya dvairūpyasyāsti citratā // 135 AbhT_1.135
+  type: karika
+  verse: '270'
+- chapter: ''
+  id: ta.271
+  sanskrit: tasya svatantrabhāvo hi kiṃ kiṃ yanna vicintayet /
+  type: karika
+  verse: '271'
+- chapter: ''
+  id: ta.272
+  sanskrit: taduktaṃ triśiraḥśāstre saṃbuddha iti vetti yaḥ // 136
+  type: karika
+  verse: '272'
+- chapter: ''
+  id: ta.273
+  sanskrit: jñeyabhāvo hi ciddharmastacchāyācchādayenna tām // 136c / AbhT_1.136
+  type: karika
+  verse: '273'
+- chapter: ''
+  id: ta.274
+  sanskrit: tenājaḍasya bhāgasya pudgalāṇvādisaṃjñinaḥ /
+  type: karika
+  verse: '274'
+- chapter: ''
+  id: ta.275
+  sanskrit: anāvaraṇabhāgāṃśe vaicitryaṃ bahudhā sthitam // 137 AbhT_1.137
+  type: karika
+  verse: '275'
+- chapter: ''
+  id: ta.276
+  sanskrit: saṃvidrūpe na bhedo@sti vāstavo yadyapi dhruve /
+  type: karika
+  verse: '276'
+- chapter: ''
+  id: ta.277
+  sanskrit: tathāpyāvṛtinirhāsatāratamyātsa lakṣyate // 138 AbhT_1.138
+  type: karika
+  verse: '277'
+- chapter: ''
+  id: ta.278
+  sanskrit: tadvistareṇa vakṣyāmaḥ śaktipātavinirṇaye /
+  type: karika
+  verse: '278'
+- chapter: ''
+  id: ta.279
+  sanskrit: samāpya paratāṃ sthaulyaprasaṃge carcayiṣyate // 139 AbhT_1.139
+  type: karika
+  verse: '279'
+- chapter: ''
+  id: ta.280
+  sanskrit: ataḥ kaṃcitpramātāraṃ prati prathayate vibhuḥ /
+  type: karika
+  verse: '280'
+- chapter: ''
+  id: ta.281
+  sanskrit: pūrṇameva nijaṃ rūpaṃ kaṃcidaṃśāṃśikākramāt // 140 AbhT_1.140
+  type: karika
+  verse: '281'
+- chapter: ''
+  id: ta.282
+  sanskrit: viśvabhāvaikabhāvātmasvarūpaprathanaṃ hi yat /
+  type: karika
+  verse: '282'
+- chapter: ''
+  id: ta.283
+  sanskrit: aṇūnāṃ tatparaṃ jñānaṃ tadanyadaparaṃ bahu // 141 AbhT_1.141
+  type: karika
+  verse: '283'
+- chapter: ''
+  id: ta.284
+  sanskrit: tacca sākṣādupāyena tadupāyādināpi ca /
+  type: karika
+  verse: '284'
+- chapter: ''
+  id: ta.285
+  sanskrit: prathamānaṃ vicitrābhirbhaṃgībhiriha bhidyate // 142 AbhT_1.142
+  type: karika
+  verse: '285'
+- chapter: ''
+  id: ta.286
+  sanskrit: tatrāpi svaparadvāradvāritvātsarvaśoṃśaśaḥ /
+  type: karika
+  verse: '286'
+- chapter: ''
+  id: ta.287
+  sanskrit: vyavadhānāvyavadhinā bhūyānbhedaḥ pravartate // 143 AbhT_1.143
+  type: karika
+  verse: '287'
+- chapter: ''
+  id: ta.288
+  sanskrit: jñānasya cābhyupāyo yo na tadajñānamucyate /
+  type: karika
+  verse: '288'
+- chapter: ''
+  id: ta.289
+  sanskrit: jñānameva tu tatsūkṣmaṃ paraṃ tvicchātmakaṃ matam // 144 AbhT_1.144
+  type: karika
+  verse: '289'
+- chapter: ''
+  id: ta.290
+  sanskrit: upāyopeyabhāvastu jñānasya sthaulyaviśramaḥ /
+  type: karika
+  verse: '290'
+- chapter: ''
+  id: ta.291
+  sanskrit: eṣaiva ca kriyāśaktirbandhamokṣaikakāraṇam // 145 AbhT_1.145
+  type: karika
+  verse: '291'
+- chapter: ''
+  id: ta.292
+  sanskrit: tatrādye svaparāmarśe nirvikalpaikadhāmani /
+  type: karika
+  verse: '292'
+- chapter: ''
+  id: ta.293
+  sanskrit: yatsphuretprakaṭaṃ sākṣāttadicchākhyaṃ prakīrtitam // 146 AbhT_1.146
+  type: karika
+  verse: '293'
+- chapter: ''
+  id: ta.294
+  sanskrit: yathā visphuritadṛśāmanusandhiṃ vināpyalam /
+  type: karika
+  verse: '294'
+- chapter: ''
+  id: ta.295
+  sanskrit: bhāti bhāvaḥ sphuṭastadvatkeṣāmapi śivātmatā // 147 AbhT_1.147
+  type: karika
+  verse: '295'
+- chapter: ''
+  id: ta.296
+  sanskrit: bhūyo bhūyo vikalpāṃśaniścayakramacarcanāt /
+  type: karika
+  verse: '296'
+- chapter: ''
+  id: ta.297
+  sanskrit: yatparāmarśamabhyeti jñānopāyaṃ tu tadviduḥ // 148 AbhT_1.148
+  type: karika
+  verse: '297'
+- chapter: ''
+  id: ta.298
+  sanskrit: yattu tatkalpanāklṛptabahirbhūtārthasādhanam /
+  type: karika
+  verse: '298'
+- chapter: ''
+  id: ta.299
+  sanskrit: kriyopāyaṃ tadāmnātaṃ bhedo nātrāpavargagaḥ // 149 AbhT_1.149
+  type: karika
+  verse: '299'
+- chapter: ''
+  id: ta.300
+  sanskrit: yato nānyā kriyā nāma jñānameva hi tattathā /
+  type: karika
+  verse: '300'
+- chapter: ''
+  id: ta.301
+  sanskrit: rūḍheryogāntatāṃ prāptamiti śrīgamaśāsane // 150 AbhT_1.150
+  type: karika
+  verse: '301'
+- chapter: ''
+  id: ta.302
+  sanskrit: yogo nānyaḥ kriyā nānyā tattvārūḍhā hi yā matiḥ /
+  type: karika
+  verse: '302'
+- chapter: ''
+  id: ta.303
+  sanskrit: svacittavāsanāśāntau sā kriyetyabhidhīyate // 151 AbhT_1.151
+  type: karika
+  verse: '303'
+- chapter: ''
+  id: ta.304
+  sanskrit: svacitte vāsanāḥ karmamalamāyāprasūtayaḥ /
+  type: karika
+  verse: '304'
+- chapter: ''
+  id: ta.305
+  sanskrit: tāsāṃ śāntinimittaṃ yā matiḥ saṃvitsvabhāvikā // 152 AbhT_1.152
+  type: karika
+  verse: '305'
+- chapter: ''
+  id: ta.306
+  sanskrit: sā dehārambhibāhyasthatattvabrātādhiśāyinī /
+  type: karika
+  verse: '306'
+- chapter: ''
+  id: ta.307
+  sanskrit: kriyā saiva ca yogaḥ syāttattvānāṃ cillayīkṛtau // 153 AbhT_1.153
+  type: karika
+  verse: '307'
+- chapter: ''
+  id: ta.308
+  sanskrit: loke@pi kila gacchāmītyevamantaḥ sphuraiva yā /
+  type: karika
+  verse: '308'
+- chapter: ''
+  id: ta.309
+  sanskrit: sā dehaṃ deśamakṣāṃścāpyāviśantī gatikriyā // 154 AbhT_1.154
+  type: karika
+  verse: '309'
+- chapter: ''
+  id: ta.310
+  sanskrit: tasmātkriyāpi yā nāma jñānameva hi sā tataḥ /
+  type: karika
+  verse: '310'
+- chapter: ''
+  id: ta.311
+  sanskrit: jñānameva vimokṣāya yuktaṃ caitadudāhṛtam // 155 AbhT_1.155
+  type: karika
+  verse: '311'
+- chapter: ''
+  id: ta.312
+  sanskrit: mokṣo hi nāma naivānyaḥ svarūpaprathanaṃ hi saḥ /
+  type: karika
+  verse: '312'
+- chapter: ''
+  id: ta.313
+  sanskrit: svarūpaṃ cātmanaḥ saṃvinnānyattatra tu yāḥ punaḥ // 156 AbhT_1.156
+  type: karika
+  verse: '313'
+- chapter: ''
+  id: ta.314
+  sanskrit: kriyādikāḥ śaktayastāḥ saṃvidrūpādhikā nahi /
+  type: karika
+  verse: '314'
+- chapter: ''
+  id: ta.315
+  sanskrit: asaṃvidrūpatāyogāddharmiṇaścānirūpaṇāt // 157 AbhT_1.157
+  type: karika
+  verse: '315'
+- chapter: ''
+  id: ta.316
+  sanskrit: parameśvaraśāstre hi na ca kāṇādadṛṣṭivat /
+  type: karika
+  verse: '316'
+- chapter: ''
+  id: ta.317
+  sanskrit: śaktīnāṃ dharmarūpāṇāmāśrayaḥ ko@pi kathyate // 158 AbhT_1.158
+  type: karika
+  verse: '317'
+- chapter: ''
+  id: ta.318
+  sanskrit: tataśca dṛkkriyecchādyā bhinnāścecchaktayastathā /
+  type: karika
+  verse: '318'
+- chapter: ''
+  id: ta.319
+  sanskrit: ekaḥ śiva itīyaṃ vāgvastuśūnyaiva jāyate // 159 AbhT_1.159
+  type: karika
+  verse: '319'
+- chapter: ''
+  id: ta.320
+  sanskrit: tasmātsaṃvittvamevaitatsvātantryaṃ yattadapyalam /
+  type: karika
+  verse: '320'
+- chapter: ''
+  id: ta.321
+  sanskrit: vivicyamānaṃ bahvīṣu paryavasyati śaktiṣu // 160 AbhT_1.160
+  type: karika
+  verse: '321'
+- chapter: ''
+  id: ta.322
+  sanskrit: yataścātmaprathā mokṣastannehāśaṅkyamīdṛśam /
+  type: karika
+  verse: '322'
+- chapter: ''
+  id: ta.323
+  sanskrit: nāvaśyaṃ kāraṇātkārya tajjñānyapi na mucyate // 161 AbhT_1.161
+  type: karika
+  verse: '323'
+- chapter: ''
+  id: ta.324
+  sanskrit: yato jñānena mokṣasya yā hetuphalatoditā /
+  type: karika
+  verse: '324'
+- chapter: ''
+  id: ta.325
+  sanskrit: na sā mukhyā tato nāyaṃ prasaṃga iti niścitam // 162 AbhT_1.162
+  type: karika
+  verse: '325'
+- chapter: ''
+  id: ta.326
+  sanskrit: evaṃ jñānasvabhāvaiva kriyā sthūlatvamātmani /
+  type: karika
+  verse: '326'
+- chapter: ''
+  id: ta.327
+  sanskrit: yato vahati tenāsyāṃ citratā dṛśyatāṃ kila // 163 AbhT_1.163
+  type: karika
+  verse: '327'
+- chapter: ''
+  id: ta.328
+  sanskrit: kriyopāye@bhyupāyānāṃ grāhyabāhyavibhedinām /
+  type: karika
+  verse: '328'
+- chapter: ''
+  id: ta.329
+  sanskrit: bhedopabhedavaividhyānniḥsaṃkhyatvamavāntarāt // 164 AbhT_1.164
+  type: karika
+  verse: '329'
+- chapter: ''
+  id: ta.330
+  sanskrit: anena caitatpradhvastaṃ yatkecana śaśaṅkire /
+  type: karika
+  verse: '330'
+- chapter: ''
+  id: ta.331
+  sanskrit: upāyabhedānmokṣe@pi bhedaḥ syāditi sūrayaḥ // 165 AbhT_1.165
+  type: karika
+  verse: '331'
+- chapter: ''
+  id: ta.332
+  sanskrit: malatacchaktividhvaṃsatirobhūcyutimadhyataḥ /
+  type: karika
+  verse: '332'
+- chapter: ''
+  id: ta.333
+  sanskrit: hetubhede@pi no bhinnā ghaṭadhvaṃsādivṛttivat // 166 AbhT_1.166
+  type: karika
+  verse: '333'
+- chapter: ''
+  id: ta.334
+  sanskrit: tadetattrividhatvaṃ hi śāstre śrīpūrvanāmani /
+  type: karika
+  verse: '334'
+- chapter: ''
+  id: ta.335
+  sanskrit: ādeśi parameśitrā samāveśavinirṇaye // 167 AbhT_1.167
+  type: karika
+  verse: '335'
+- chapter: ''
+  id: ta.336
+  sanskrit: akiṃciccintakasyaiva guruṇā pratibodhataḥ /
+  type: karika
+  verse: '336'
+- chapter: ''
+  id: ta.337
+  sanskrit: utpadyate ya āveśaḥ śāmbhavo@sāvidīritaḥ // 168 AbhT_1.168
+  type: karika
+  verse: '337'
+- chapter: ''
+  id: ta.338
+  sanskrit: uccārarahitaṃ vastu cetasaiva vicintayan /
+  type: karika
+  verse: '338'
+- chapter: ''
+  id: ta.339
+  sanskrit: yaṃ samāveśamāpnoti śāktaḥ so@trābhidhīyate // 169 AbhT_1.169
+  type: karika
+  verse: '339'
+- chapter: ''
+  id: ta.340
+  sanskrit: uccārakaraṇadhyānavarṇasthānaprakalpanaiḥ /
+  type: karika
+  verse: '340'
+- chapter: ''
+  id: ta.341
+  sanskrit: yo bhavetsa samāveśaḥ samyagāṇava ucyate // 170 AbhT_1.170
+  type: karika
+  verse: '341'
+- chapter: ''
+  id: ta.342
+  sanskrit: akiṃciccintakasyeti vikalpānupayogitā /
+  type: karika
+  verse: '342'
+- chapter: ''
+  id: ta.343
+  sanskrit: tayā ca jhaṭiti jñeyasamāpattirnirūpyate // 171 AbhT_1.171
+  type: karika
+  verse: '343'
+- chapter: ''
+  id: ta.344
+  sanskrit: sā kathaṃ bhavatītyāha guruṇātigarīyasā /
+  type: karika
+  verse: '344'
+- chapter: ''
+  id: ta.345
+  sanskrit: jñeyābhimukhabodhena drākprarūḍhatvaśālinā // 172 AbhT_1.172
+  type: karika
+  verse: '345'
+- chapter: ''
+  id: ta.346
+  sanskrit: tṛtīyārthe tasi vyākhyā vā vaiyadhikaraṇyataḥ /
+  type: karika
+  verse: '346'
+- chapter: ''
+  id: ta.347
+  sanskrit: āveśaścāsvatantrasya svatadrūpanimajjanāt // 173 AbhT_1.173
+  type: karika
+  verse: '347'
+- chapter: ''
+  id: ta.348
+  sanskrit: paratadrūpatā śambhorādyācchaktyavibhāginaḥ /
+  type: karika
+  verse: '348'
+- chapter: ''
+  id: ta.349
+  sanskrit: tenāyamatra vākyārtho vijñeyaṃ pronmiṣatsvayam // 174 AbhT_1.174
+  type: karika
+  verse: '349'
+- chapter: ''
+  id: ta.350
+  sanskrit: vināpi niścayena drāk mātṛdarpaṇabimbitam /
+  type: karika
+  verse: '350'
+- chapter: ''
+  id: ta.351
+  sanskrit: mātāramadharīkurvat svāṃ vibhūtiṃ pradarśayat // 175 AbhT_1.175
+  type: karika
+  verse: '351'
+- chapter: ''
+  id: ta.352
+  sanskrit: āste hṛdayanairmalyātiśaye tāratamyataḥ /
+  type: karika
+  verse: '352'
+- chapter: ''
+  id: ta.353
+  sanskrit: jñeyaṃ dvidhā ca cinmātraṃ jaḍaṃ cādyaṃ ca kalpitam // 176 AbhT_1.176
+  type: karika
+  verse: '353'
+- chapter: ''
+  id: ta.354
+  sanskrit: itarattu tathā satyaṃ tadvibhāgo@yamīdṛśaḥ /
+  type: karika
+  verse: '354'
+- chapter: ''
+  id: ta.355
+  sanskrit: jaḍena yaḥ samāveśaḥ sapraticchandakākṛtiḥ // 177 AbhT_1.177
+  type: karika
+  verse: '355'
+- chapter: ''
+  id: ta.356
+  sanskrit: caitanyena samāveśastādātmyaṃ nāparaṃ kila /
+  type: karika
+  verse: '356'
+- chapter: ''
+  id: ta.357
+  sanskrit: tenāvikalpā saṃvittirbhāvanādyanapekṣiṇī // 178 AbhT_1.178
+  type: karika
+  verse: '357'
+- chapter: ''
+  id: ta.358
+  sanskrit: śivatādātmyamāpannā samāveśo@tra śāṃbhavaḥ /
+  type: karika
+  verse: '358'
+- chapter: ''
+  id: ta.359
+  sanskrit: tatprasādātpunaḥ paścādbhāvino@tra viniścayāḥ // 179 AbhT_1.179
+  type: karika
+  verse: '359'
+- chapter: ''
+  id: ta.360
+  sanskrit: santu tādātmyamāpannā na tu teṣāmupāyatā /
+  type: karika
+  verse: '360'
+- chapter: ''
+  id: ta.361
+  sanskrit: vikalpāpekṣayā mānamavikalpamiti bruvan // 180 AbhT_1.180
+  type: karika
+  verse: '361'
+- chapter: ''
+  id: ta.362
+  sanskrit: pratyukta eva siddhaṃ hi vikalpenānugamyate /
+  type: karika
+  verse: '362'
+- chapter: ''
+  id: ta.363
+  sanskrit: gṛhītamiti suspaṣṭā niścayasya yataḥ prathā // 181 AbhT_1.181
+  type: karika
+  verse: '363'
+- chapter: ''
+  id: ta.364
+  sanskrit: gṛhṇāmītyavikalpaikyabalāttu pratipadyate /
+  type: karika
+  verse: '364'
+- chapter: ''
+  id: ta.365
+  sanskrit: avikalpātmasaṃvittau yā sphurattaiva vastunaḥ // 182 AbhT_1.182
+  type: karika
+  verse: '365'
+- chapter: ''
+  id: ta.366
+  sanskrit: sā siddhirna vikalpāttu vastvapekṣāvivarjitāt /
+  type: karika
+  verse: '366'
+- chapter: ''
+  id: ta.367
+  sanskrit: kevalaṃ saṃvidaḥ so@yaṃ nairmalyetaraviśramaḥ // 183 AbhT_1.183
+  type: karika
+  verse: '367'
+- chapter: ''
+  id: ta.368
+  sanskrit: yadvikalpānapekṣatvasāpekṣatve nijātmani /
+  type: karika
+  verse: '368'
+- chapter: ''
+  id: ta.369
+  sanskrit: niśīthe@pi maṇijñānī vidyutkālapradarśitān // 184 AbhT_1.184
+  type: karika
+  verse: '369'
+- chapter: ''
+  id: ta.370
+  sanskrit: tāṃstānviśeṣāṃścinute ratnānāṃ bhūyasāmapi /
+  type: karika
+  verse: '370'
+- chapter: ''
+  id: ta.371
+  sanskrit: nairmalyaṃ saṃvidaścedaṃ pūrvābhyāsavaśādatho // 185 AbhT_1.185
+  type: karika
+  verse: '371'
+- chapter: ''
+  id: ta.372
+  sanskrit: aniyantreśvarecchāta ityetaccarcayiṣyate /
+  type: karika
+  verse: '372'
+- chapter: ''
+  id: ta.373
+  sanskrit: pañcāśadvidhatā cāsya samāveśasya varṇitā // 186 AbhT_1.186
+  type: karika
+  verse: '373'
+- chapter: ''
+  id: ta.374
+  sanskrit: tattvaṣaṭtriṃśakaitatsthasphuṭabhedābhisandhitaḥ /
+  type: karika
+  verse: '374'
+- chapter: ''
+  id: ta.375
+  sanskrit: etattattvāntare yatpuṃvidyāśaktyātmakaṃ trayam // 187 AbhT_1.187
+  type: karika
+  verse: '375'
+- chapter: ''
+  id: ta.376
+  sanskrit: ambhodhikāṣṭhājvalanasaṃkhyairbhedairyataḥ kramāt /
+  type: karika
+  verse: '376'
+- chapter: ''
+  id: ta.377
+  sanskrit: puṃvidyāśaktisaṃjñaṃ yattatsarvavyāpakaṃ yataḥ // 188 AbhT_1.188
+  type: karika
+  verse: '377'
+- chapter: ''
+  id: ta.378
+  sanskrit: avyāpakebhyastenedaṃ bhedena gaṇitaṃ kila /
+  type: karika
+  verse: '378'
+- chapter: ''
+  id: ta.379
+  sanskrit: aśuddhiśuddhyamānatvaśuddhitastu mitho@pi tat // 189 AbhT_1.189
+  type: karika
+  verse: '379'
+- chapter: ''
+  id: ta.380
+  sanskrit: bhūtānyadhyakṣasiddhāni kāryahetvanumeyataḥ /
+  type: karika
+  verse: '380'
+- chapter: ''
+  id: ta.381
+  sanskrit: tattvavargātpṛthagbhūtasamākhyānyata eva hi // 190 AbhT_1.190
+  type: karika
+  verse: '381'
+- chapter: ''
+  id: ta.382
+  sanskrit: sarvapratītisadbhāvagocaraṃ bhūtameva hi /
+  type: karika
+  verse: '382'
+- chapter: ''
+  id: ta.383
+  sanskrit: viduścatuṣṭaye cātra sāvakāśe tadāsthitim // 191 AbhT_1.191
+  type: karika
+  verse: '383'
+- chapter: ''
+  id: ta.384
+  sanskrit: rudraśaktisamāveśaḥ pañcadhā nanu carcyate /
+  type: karika
+  verse: '384'
+- chapter: ''
+  id: ta.385
+  sanskrit: ko@vakāśo bhavettatra bhautāveśādivarṇane // 192 AbhT_1.192
+  type: karika
+  verse: '385'
+- chapter: ''
+  id: ta.386
+  sanskrit: prasaṃgādetaditicetsamādhiḥ saṃbhavannayam /
+  type: karika
+  verse: '386'
+- chapter: ''
+  id: ta.387
+  sanskrit: nāsmākaṃ mānasāvarjī loko bhinnaruciryataḥ // 193 AbhT_1.193
+  type: karika
+  verse: '387'
+- chapter: ''
+  id: ta.388
+  sanskrit: ucyate dvaitaśāstreṣu parameśādvibheditā /
+  type: karika
+  verse: '388'
+- chapter: ''
+  id: ta.389
+  sanskrit: bhūtādīnāṃ yathā sātra na tathā dvayavarjite // 194 AbhT_1.194
+  type: karika
+  verse: '389'
+- chapter: ''
+  id: ta.390
+  sanskrit: yāvānṣaṭtriṃśakaḥ so@yaṃ yadanyadapi kiṃcana /
+  type: karika
+  verse: '390'
+- chapter: ''
+  id: ta.391
+  sanskrit: etāvatī mahādevī rudraśaktiranargalā // 195 AbhT_1.195
+  type: karika
+  verse: '391'
+- chapter: ''
+  id: ta.392
+  sanskrit: tata eva dvitīye@sminnadhikāre nyarūpyata /
+  type: karika
+  verse: '392'
+- chapter: ''
+  id: ta.393
+  sanskrit: dharāderviśvarūpatvaṃ pāñcadaśyādibhedataḥ // 196 AbhT_1.196
+  type: karika
+  verse: '393'
+- chapter: ''
+  id: ta.394
+  sanskrit: tasmādyathā purasthe@rthe guṇādyaṃśāṃśikāmukhāt /
+  type: karika
+  verse: '394'
+- chapter: ''
+  id: ta.395
+  sanskrit: niraṃśabhāvasaṃbodhastathaivātrāpi budhyatām // 197 AbhT_1.197
+  type: karika
+  verse: '395'
+- chapter: ''
+  id: ta.396
+  sanskrit: ata evāvikalpatvadhrauvyaprābhavavaibhavaiḥ /
+  type: karika
+  verse: '396'
+- chapter: ''
+  id: ta.397
+  sanskrit: anyairvā śaktirūpatvāddharmaiḥ svasamavāyibhiḥ // 198 AbhT_1.198
+  type: karika
+  verse: '397'
+- chapter: ''
+  id: ta.398
+  sanskrit: sarvaśo@pyatha vāṃśena taṃ vibhuṃ parameśvaram /
+  type: karika
+  verse: '398'
+- chapter: ''
+  id: ta.399
+  sanskrit: upāsate vikalpaughasaṃskārādye śrutotthitāt // 199 AbhT_1.199
+  type: karika
+  verse: '399'
+- chapter: ''
+  id: ta.400
+  sanskrit: te tattatsvavikalpāntaḥsphurattaddharmapāṭavāt /
+  type: karika
+  verse: '400'
+- chapter: ''
+  id: ta.401
+  sanskrit: dharmiṇaṃ pūrṇadharmaughamabhedenādhiśerate // 200 AbhT_1.200
+  type: karika
+  verse: '401'
+- chapter: ''
+  id: ta.402
+  sanskrit: ūcivānata eva śrīvidyādhipatirādarāt /
+  type: karika
+  verse: '402'
+- chapter: ''
+  id: ta.403
+  sanskrit: tvatsvarūpamavikalpamakṣajā kalpane na viṣayīkaroti cet /
+  type: karika
+  verse: '403'
+- chapter: ''
+  id: ta.404
+  sanskrit: antarullikhitacitrasaṃvido no bhaveyuranubhūtayaḥ sphuṭāḥ // 201 AbhT_1.201
+  type: karika
+  verse: '404'
+- chapter: ''
+  id: ta.405
+  sanskrit: taduktaṃ śrīmataṅgādau svaśaktikiraṇātmakam /
+  type: karika
+  verse: '405'
+- chapter: ''
+  id: ta.406
+  sanskrit: atha patyuradhiṣṭhānamityādyuktaṃ viśeṣaṇaiḥ // 202 AbhT_1.202
+  type: karika
+  verse: '406'
+- chapter: ''
+  id: ta.407
+  sanskrit: tasyāṃ divi sudīptātmā niṣkampo@calamūrtimān /
+  type: karika
+  verse: '407'
+- chapter: ''
+  id: ta.408
+  sanskrit: kāṣṭhā saiva parā sūkṣmā sarvadikkāmṛtātmikā // 203 AbhT_1.203
+  type: karika
+  verse: '408'
+- chapter: ''
+  id: ta.409
+  sanskrit: pradhvastāvaraṇā śāntā vastumātrātilālasā /
+  type: karika
+  verse: '409'
+- chapter: ''
+  id: ta.410
+  sanskrit: ādyantoparatā sādhvī mūrtitvenopacaryate // 204 AbhT_1.204
+  type: karika
+  verse: '410'
+- chapter: ''
+  id: ta.411
+  sanskrit: tathopacārasyātraitannimitaṃ saprayojanam /
+  type: karika
+  verse: '411'
+- chapter: ''
+  id: ta.412
+  sanskrit: tanmukhā sphuṭatā dharmiṇyāśu tanmayatāsthitiḥ // 205 AbhT_1.205
+  type: karika
+  verse: '412'
+- chapter: ''
+  id: ta.413
+  sanskrit: ta eva dharmāḥ śaktyākhyāstaistairucitarūpakaiḥ /
+  type: karika
+  verse: '413'
+- chapter: ''
+  id: ta.414
+  sanskrit: ākāraiḥ paryupāsyante tanmayībhāvasiddhaye // 206 AbhT_1.206
+  type: karika
+  verse: '414'
+- chapter: ''
+  id: ta.415
+  sanskrit: tatra kācitpunaḥ śaktiranantā vā mitāśca vā /
+  type: karika
+  verse: '415'
+- chapter: ''
+  id: ta.416
+  sanskrit: ākṣipeddhavatāsattvanyāyāddūrāntikatvataḥ // 207 AbhT_1.207
+  type: karika
+  verse: '416'
+- chapter: ''
+  id: ta.417
+  sanskrit: tena pūrṇasvabhāvatvaṃ prakāśatvaṃ cidātmatā /
+  type: karika
+  verse: '417'
+- chapter: ''
+  id: ta.418
+  sanskrit: bhairavatvaṃ viśvaśaktīrākṣipedvyāpakatvataḥ // 208 AbhT_1.208
+  type: karika
+  verse: '418'
+- chapter: ''
+  id: ta.419
+  sanskrit: sadāśivādayastūrdhvavyāptyabhāvādadhojuṣaḥ /
+  type: karika
+  verse: '419'
+- chapter: ''
+  id: ta.420
+  sanskrit: śaktīḥ samākṣipeyustadupāsāntikadūrataḥ // 209 AbhT_1.209
+  type: karika
+  verse: '420'
+- chapter: ''
+  id: ta.421
+  sanskrit: itthaṃ-bhāve ca śāktākhyo vaikalpikapathakramaḥ /
+  type: karika
+  verse: '421'
+- chapter: ''
+  id: ta.422
+  sanskrit: iha tūkto yatastasmāt pratiyogyavikalpakam // 210 AbhT_1.210
+  type: karika
+  verse: '422'
+- chapter: ''
+  id: ta.423
+  sanskrit: avikalpapathārūḍho yena yena pathā viśet /
+  type: karika
+  verse: '423'
+- chapter: ''
+  id: ta.424
+  sanskrit: dharāsadāśivāntena tena tena śivībhavet // 211 AbhT_1.211
+  type: karika
+  verse: '424'
+- chapter: ''
+  id: ta.425
+  sanskrit: nirmale hṛdaye prāgryasphuradbhūmyaṃśabhāsini /
+  type: karika
+  verse: '425'
+- chapter: ''
+  id: ta.426
+  sanskrit: prakāśe tanmukhenaiva saṃvitparaśivātmatā // 212 AbhT_1.212
+  type: karika
+  verse: '426'
+- chapter: ''
+  id: ta.427
+  sanskrit: evaṃ parecchāśaktyaṃśasadupāyamimaṃ viduḥ /
+  type: karika
+  verse: '427'
+- chapter: ''
+  id: ta.428
+  sanskrit: śāmbhavākhyaṃ samāveśaṃ sumatyantenivāsinaḥ // 213 AbhT_1.213
+  type: karika
+  verse: '428'
+- chapter: ''
+  id: ta.429
+  sanskrit: śākto@tha bhaṇyate cetodhī-manohaṃkṛti sphuṭam /
+  type: karika
+  verse: '429'
+- chapter: ''
+  id: ta.430
+  sanskrit: savikalpatayā māyāmayamicchādi vastutaḥ // 214 AbhT_1.214
+  type: karika
+  verse: '430'
+- chapter: ''
+  id: ta.431
+  sanskrit: abhimānena saṃkalpādhyavasāyakrameṇa yaḥ /
+  type: karika
+  verse: '431'
+- chapter: ''
+  id: ta.432
+  sanskrit: śāktaḥ sa māyopāyo@pi tadante nirvikalpakaḥ // 215 AbhT_1.215
+  type: karika
+  verse: '432'
+- chapter: ''
+  id: ta.433
+  sanskrit: paśorvai yāvikalpā bhūrdaśā sā śāmbhavī param /
+  type: karika
+  verse: '433'
+- chapter: ''
+  id: ta.434
+  sanskrit: apūrṇā mātṛdaurātmyāttadapāye vikasvarā // 216 AbhT_1.216
+  type: karika
+  verse: '434'
+- chapter: ''
+  id: ta.435
+  sanskrit: evaṃ vaikalpikī bhūmiḥ śākte kartṛtvavedane /
+  type: karika
+  verse: '435'
+- chapter: ''
+  id: ta.436
+  sanskrit: yasyāṃ sphuṭe paraṃ tvasyāṃ saṃkocaḥ pūrvanītitaḥ // 217 AbhT_1.217
+  type: karika
+  verse: '436'
+- chapter: ''
+  id: ta.437
+  sanskrit: tathā saṃkocasaṃbhāravilāyanaparasya tu /
+  type: karika
+  verse: '437'
+- chapter: ''
+  id: ta.438
+  sanskrit: sā yatheṣṭāntarābhāsakāriṇī śaktirujjvalā // 218 AbhT_1.218
+  type: karika
+  verse: '438'
+- chapter: ''
+  id: ta.439
+  sanskrit: nanu vaikalpikī kiṃ dhīrāṇave nāsti tatra sā /
+  type: karika
+  verse: '439'
+- chapter: ''
+  id: ta.440
+  sanskrit: anyopāyātra tūccārarahitatvaṃ nyarūpayat // 219 AbhT_1.219
+  type: karika
+  verse: '440'
+- chapter: ''
+  id: ta.441
+  sanskrit: uccāraśabdenātroktā bahvantena tadādayaḥ /
+  type: karika
+  verse: '441'
+- chapter: ''
+  id: ta.442
+  sanskrit: śaktyupāye na santyete bhedābhedau hi śaktitā // 220 AbhT_1.220
+  type: karika
+  verse: '442'
+- chapter: ''
+  id: ta.443
+  sanskrit: aṇurnāma sphuṭo bhedastadupāya ihāṇavaḥ /
+  type: karika
+  verse: '443'
+- chapter: ''
+  id: ta.444
+  sanskrit: vikalpaniścayātmaiva paryante nirvikalpakaḥ // 221 AbhT_1.221
+  type: karika
+  verse: '444'
+- chapter: ''
+  id: ta.445
+  sanskrit: nanu dhī-mānasāhaṃkṛtpumāṃso vyāpnuyuḥ śivam /
+  type: karika
+  verse: '445'
+- chapter: ''
+  id: ta.446
+  sanskrit: nādhovartitayā tena kathitaṃ kathamīdṛśam // 222 AbhT_1.222
+  type: karika
+  verse: '446'
+- chapter: ''
+  id: ta.447
+  sanskrit: ucyate vastuto@smākaṃ śiva eva tathāvidhaḥ /
+  type: karika
+  verse: '447'
+- chapter: ''
+  id: ta.448
+  sanskrit: svarūpagopanaṃ kṛtvā svaprakāśaḥ punastathā // 223 AbhT_1.223
+  type: karika
+  verse: '448'
+- chapter: ''
+  id: ta.449
+  sanskrit: dvaitaśāstre mataṅgādau cāpyetatsunirūpitam /
+  type: karika
+  verse: '449'
+- chapter: ''
+  id: ta.450
+  sanskrit: adhovyāptuḥ śivasyaiva sa prakāśo vyavasthitaḥ // 224 AbhT_1.224
+  type: karika
+  verse: '450'
+- chapter: ''
+  id: ta.451
+  sanskrit: yena buddhi-manobhūmāvapi bhāti paraṃ padam // 225 AbhT_1.225
+  type: karika
+  verse: '451'
+- chapter: ''
+  id: ta.452
+  sanskrit: dvāvapyetau samāveśau nirvikalpārṇavaṃ prati /
+  type: karika
+  verse: '452'
+- chapter: ''
+  id: ta.453
+  sanskrit: prayāta eva tadrūḍhiṃ vinā naiva hi kiṃcana // 226 AbhT_1.226
+  type: karika
+  verse: '453'
+- chapter: ''
+  id: ta.454
+  sanskrit: saṃvittiphalabhiccātra na prakalpyetyato@bravīt /
+  type: karika
+  verse: '454'
+- chapter: ''
+  id: ta.455
+  sanskrit: kalpanāyāśca mukhyatvamatraiva kila sūcitam // 227 AbhT_1.227
+  type: karika
+  verse: '455'
+- chapter: ''
+  id: ta.456
+  sanskrit: vikalpāpekṣayā yo@pi prāmāṇyaṃ prāha tanmate /
+  type: karika
+  verse: '456'
+- chapter: ''
+  id: ta.457
+  sanskrit: tadvikalpakramopāttanirvikalpapramāṇatā // 228 AbhT_1.228
+  type: karika
+  verse: '457'
+- chapter: ''
+  id: ta.458
+  sanskrit: ratnatattvamavidvānprāṅniścayopāyacarcanāt /
+  type: karika
+  verse: '458'
+- chapter: ''
+  id: ta.459
+  sanskrit: anupāyāvikalpāptau ratnajña iti bhaṇyate // 229 AbhT_1.229
+  type: karika
+  verse: '459'
+- chapter: ''
+  id: ta.460
+  sanskrit: abhedopāyamatroktaṃ śāmbhavaṃ śāktamucyate /
+  type: karika
+  verse: '460'
+- chapter: ''
+  id: ta.461
+  sanskrit: bhedābhedātmakopāyaṃ bhedopāyaṃ tadāṇavam // 230 AbhT_1.230
+  type: karika
+  verse: '461'
+- chapter: ''
+  id: ta.462
+  sanskrit: ante jñāne@tra sopāye samastaḥ karmavistaraḥ /
+  type: karika
+  verse: '462'
+- chapter: ''
+  id: ta.463
+  sanskrit: prasphuṭenaiva rūpeṇa bhāvī so@ntarbhaviṣyati // 231 AbhT_1.231
+  type: karika
+  verse: '463'
+- chapter: ''
+  id: ta.464
+  sanskrit: kriyā hi nāma vijñānānnānyadvastu kramātmatām /
+  type: karika
+  verse: '464'
+- chapter: ''
+  id: ta.465
+  sanskrit: upāyavaśataḥ prāptaṃ tatkriyeti puroditam // 232 AbhT_1.232
+  type: karika
+  verse: '465'
+- chapter: ''
+  id: ta.466
+  sanskrit: samyagjñānaṃ ca muktyekakāraṇaṃ svaparasthitam /
+  type: karika
+  verse: '466'
+- chapter: ''
+  id: ta.467
+  sanskrit: yato hi kalpanāmātraṃ svaparādivibhūtayaḥ // 233 AbhT_1.233
+  type: karika
+  verse: '467'
+- chapter: ''
+  id: ta.468
+  sanskrit: tulye kālpanikatve ca yadaikyasphuraṇātmakaḥ /
+  type: karika
+  verse: '468'
+- chapter: ''
+  id: ta.469
+  sanskrit: guruḥ sa tāvadekātmā siddho muktaśca bhaṇyate // 234 AbhT_1.234
+  type: karika
+  verse: '469'
+- chapter: ''
+  id: ta.470
+  sanskrit: yāvānasya hi saṃtāno gurustāvatsa kīrtitaḥ /
+  type: karika
+  verse: '470'
+- chapter: ''
+  id: ta.471
+  sanskrit: samyagjñānamayaśceti svātmanā mucyate tataḥ // 235 AbhT_1.235
+  type: karika
+  verse: '471'
+- chapter: ''
+  id: ta.472
+  sanskrit: tata eva svasaṃtānaṃ jñānī tārayatītyadaḥ /
+  type: karika
+  verse: '472'
+- chapter: ''
+  id: ta.473
+  sanskrit: yuktyāgamābhyāṃ saṃsiddhaṃ tāvāneko yato muniḥ // 236 AbhT_1.236
+  type: karika
+  verse: '473'
+- chapter: ''
+  id: ta.474
+  sanskrit: tenātra ye codayanti nanu jñānādvimuktatā /
+  type: karika
+  verse: '474'
+- chapter: ''
+  id: ta.475
+  sanskrit: dīkṣādikā kriyā ceyaṃ sā kathaṃ muktaye bhavet // 237 AbhT_1.237
+  type: karika
+  verse: '475'
+- chapter: ''
+  id: ta.476
+  sanskrit: jñānātmā seti cejjñānaṃ yatrasthaṃ taṃ vimocayet /
+  type: karika
+  verse: '476'
+- chapter: ''
+  id: ta.477
+  sanskrit: anyasya mocane vāpi bhavetkiṃ nāsamañjasam /
+  type: karika
+  verse: '477'
+- chapter: ''
+  id: ta.478
+  sanskrit: iti te mūlataḥ kṣiptā yattvatrānyaiḥ samarthitam // 238 AbhT_1.238
+  type: karika
+  verse: '478'
+- chapter: ''
+  id: ta.479
+  sanskrit: malo nāma kila dravyaṃ cakṣuḥsthapaṭalādivat /
+  type: karika
+  verse: '479'
+- chapter: ''
+  id: ta.480
+  sanskrit: tadvihantrī kriyā dīkṣā tvañjanādikakarmavat // 239 AbhT_1.239
+  type: karika
+  verse: '480'
+- chapter: ''
+  id: ta.481
+  sanskrit: tatpurastānniṣetsyāmo yuktyāgamavigarhitam /
+  type: karika
+  verse: '481'
+- chapter: ''
+  id: ta.482
+  sanskrit: malamāyākarmaṇāṃ ca darśayiṣyāmahe sthitim // 240 AbhT_1.240
+  type: karika
+  verse: '482'
+- chapter: ''
+  id: ta.483
+  sanskrit: evaṃ śaktitrayopāyaṃ yajjñānaṃ tatra paścimam /
+  type: karika
+  verse: '483'
+- chapter: ''
+  id: ta.484
+  sanskrit: mūlaṃ taduttaraṃ madhyamuttarottaramādimam // 241 AbhT_1.241
+  type: karika
+  verse: '484'
+- chapter: ''
+  id: ta.485
+  sanskrit: tato@pi paramaṃ jñānamupāyādivivarjitam /
+  type: karika
+  verse: '485'
+- chapter: ''
+  id: ta.486
+  sanskrit: ānandaśaktiviśrāntamanuttaramihocyate // 242 AbhT_1.242
+  type: karika
+  verse: '486'
+- chapter: ''
+  id: ta.487
+  sanskrit: tatsvaprakāśaṃ vijñānaṃ vidyāvidyeśvarādibhiḥ /
+  type: karika
+  verse: '487'
+- chapter: ''
+  id: ta.488
+  sanskrit: api durlabhasadbhāvaṃ śrīsiddhātantra ucyate // 243 AbhT_1.243
+  type: karika
+  verse: '488'
+- chapter: ''
+  id: ta.489
+  sanskrit: mālinyāṃ sūcitaṃ caitatpaṭale@ṣṭādaśe sphuṭam /
+  type: karika
+  verse: '489'
+- chapter: ''
+  id: ta.490
+  sanskrit: na caitadaprasannena śaṃkareṇeti vākyataḥ // 244 AbhT_1.244
+  type: karika
+  verse: '490'
+- chapter: ''
+  id: ta.491
+  sanskrit: ityanenaiva pāṭhena mālinīvijayottare /
+  type: karika
+  verse: '491'
+- chapter: ''
+  id: ta.492
+  sanskrit: iti jñānacatuṣkaṃ yatsiddhimuktimahodayam /
+  type: karika
+  verse: '492'
+- chapter: ''
+  id: ta.493
+  sanskrit: tanmayā tantryate tantrālokanāmnyatra śāsane // 245 AbhT_1.245
+  type: karika
+  verse: '493'
+- chapter: ''
+  id: ta.494
+  sanskrit: tatreha yadyadantarvā bahirvā parimṛśyate /
+  type: karika
+  verse: '494'
+- chapter: ''
+  id: ta.495
+  sanskrit: anudghāṭitarūpaṃ tatpūrvameva prakāśate // 246 AbhT_1.246
+  type: karika
+  verse: '495'
+- chapter: ''
+  id: ta.496
+  sanskrit: tathānudghāṭitākārā nirvācyenātmanā prathā /
+  type: karika
+  verse: '496'
+- chapter: ''
+  id: ta.497
+  sanskrit: saṃśayaḥ kutracidrūpe niścite sati nānyathā // 247 AbhT_1.247
+  type: karika
+  verse: '497'
+- chapter: ''
+  id: ta.498
+  sanskrit: etatkimiti mukhye@sminnetadaṃśaḥ suniścitaḥ /
+  type: karika
+  verse: '498'
+- chapter: ''
+  id: ta.499
+  sanskrit: saṃśayo@stitvanāstyādidharmānudghāṭitātmakaḥ // 248 AbhT_1.248
+  type: karika
+  verse: '499'
+work:
+  genre: sastra
+  id: tantraloka
+  metadata:
+    source: GRETIL
+  title: Tantrāloka (Abhinavagupta)
+  tradition: trika

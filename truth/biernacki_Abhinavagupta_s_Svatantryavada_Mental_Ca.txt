@@ -1,0 +1,1352 @@
+CROSS-CULTURAL APPROACHES
+TO CONSCIOUSNESS
+
+9781350238503_txt_rev.indd 1
+
+28-06-2022 13:00:13
+
+CROSS-CULTURAL APPROACHES
+TO CONSCIOUSNESS
+
+MIND,
+NATURE AND
+ULTIMATE
+REALITY
+Edited by Itay Shani and
+Susanne Kathrin Beiweis
+
+9781350238503_txt_rev.indd 3
+
+28-06-2022 13:00:14
+
+CONTENTS
+
+L IST OF F IGURES
+N OTES ON THE E DITORS AND C ONTRIBUTORS
+A CKNOWLEDGMENTS
+Introduction
+Susanne K. Beiweis and Itay Shani
+Part One
+1
+
+2
+
+3
+4
+
+5
+
+23
+
+45
+
+Emergence and Mental Causation
+
+Consciousness, Physicalism, and the Problem of Mental Causation
+Christian Coseru
+Abhinavagupta’s Svātantryavāda: Mental Causality, Emergentism,
+and Intuitionist Mathematics
+Loriliai Biernacki
+Karma and Mental Causation: A Nikāya Buddhist Perspective
+George Wong Soo Lam
+
+9781350238503_txt_rev.indd 5
+
+1
+
+Consciousness and Ultimate Reality
+
+On the Identification of Being and Consciousness in Advaita
+Vedānta
+Wolfgang Fasching
+Cosmopsychism and Non-Śankaran Traditions of Hindu
+Non-dualism: In Search of a Fertile Connection
+Itay Shani
+
+Part Two
+
+vii
+viii
+xi
+
+71
+
+95
+119
+
+28-06-2022 13:00:14
+
+vi
+
+CONTENTS
+
+Part Three
+6
+
+7
+
+8
+
+Realism, Idealism, and Panpsychism
+
+Consciousness as the Fundamental Reality of the Universe:
+A Master Argument for Buddhist Idealism
+Alex Watson
+Huayan Buddhism’s Conceptions of the Realness of Reality:
+A Transformation from Subjective Idealism into Holistic Realism
+JeeLoo Liu
+Converging Outlooks? Contemporary Panpsychism and
+Chinese Natural Philosophy
+Pierfrancesco Basile
+
+Part Four
+9
+
+143
+
+177
+
+201
+
+Illusionism
+
+The Magic of Consciousness: Sculpting an Alternative Illusionism
+Bryce Huebner, Eyal Aviv, and Sonam Kachru
+10 Cognitive Illusion and Immediate Experience: Perspectives
+from Buddhist Philosophy
+Jay L. Garfield
+11 Interrogating Illusionism
+Anand Jayprakash Vaidya
+
+245
+
+I NDEX
+
+291
+
+9781350238503_txt_rev.indd 6
+
+223
+
+267
+
+28-06-2022 13:00:14
+
+CHAPTER FOUR
+
+Abhinavagupta’s
+Svātantryavāda: Mental
+Causality, Emergentism,
+and Intuitionist
+Mathematics
+LORILIAI BIERNACKI
+
+1 INTRODUCTION
+How do we get a concept of mind, indeed a mind that is not simply mere
+epiphenomenon but that can effectively cause events within our current
+paradigm of materialism—that is, within a paradigm which reduces causal
+relations to the interplay of physical objects, that is, neurons and molecules?
+The notion of mental causality, the idea that the mind can influence the
+material substrate is fraught, problematic for a materialist paradigm. On the
+one hand, much of our science follows an understanding that only matter can
+affect matter; mental constructions, whatever they are, cannot affect matter.
+For this scientific perspective, to suggest otherwise is to slide into the hocuspocus of magic. On the other hand, the idea that mind does not affect the
+physical world—at a minimum inducing change in one’s own physical body, as
+when a loving thought slows the heart rate—but even more broadly, that the
+mind does not impact the material world—this seems to lead to a view that
+
+9781350238503_txt_rev.indd 95
+
+28-06-2022 13:00:18
+
+96
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+goes against common sense. If what we think has no effect on the world or
+our bodies, that our consciousness, our minds are simply irrelevant, as Daniel
+Dennett famously argued, mere epiphenomenon (Dennett 1991), then in a
+sense we wind up erasing the impact of centuries of human culture, including
+even the human thought that has generated the very science we use to address
+the question. In other words, much is at stake, since a notion of mental
+causality is tied to the idea of free will, as we see with John Searle famously
+lifting his arm as an instance of both (Searle 2006). Here, the crux of the
+question is how might what we think of as thought manage to interact with
+and affect materiality? To get around the problem of mechanism, a number
+of contemporary materialist philosophical renditions rely on a concept of
+emergentism as a way of supporting a link between the mental and matter so as
+to render mental causality efficacious. To put this, for the sake of brevity, much
+too simplistically, if mind emerges out of matter, then its seeming difference
+from matter is not an ontological barrier to downward causality, where mind
+can interact with materiality.
+Of course, mental causation as a concept relates to a variety of formulations
+addressing the nature of the mind-body relation, for instance, that certain mental
+patterns can generate physiological effects, such as heart rate or brain chemistry
+release of dopamine, or more radically, that the mental mantra practice of a
+yogi can prevent contact with fire from burning her skin, or that a yogi like Sai
+Baba can generate a mūrti, a statue of Kṛṣṇa through thought alone, and so on.
+For the purposes of this paper I will focus on only one particular philosophical
+consequence of mental causation, the aspect of free will. Even as the idea of
+mental causality encompasses a number of different components, addressing the
+component of free will as one particular aspect of mental causality highlights
+what I suggest we can see as an intrinsic link between a subjective perspective
+and mental causality.
+With this, I offer a different avenue than emergentism for linking mind to
+materiality and thus enabling a capacity for the mental to affect the physical.
+I draw on Abhinavagupta’s eleventh-century articulation of Svātantryavāda, the
+“Free-will Doctrine” to point to a model for mental causation that does not rely
+on emergentism; instead Abhinavagupta’s model proposes a modal argument
+based on a foundational subjectivity as a means of positing mental causation.
+I suggest that Abhinavagupta offers a model where mind itself, consciousness as a
+first-person subjectivity is a foundational category that generates the materiality
+of the world we encounter. This operates as a type of cosmopsychism, which
+unfolds out of itself the materiality that makes up the physical world.
+Certainly, proposing a foundational subjectivity is fraught; a perspective of
+subjectivity is frequently criticized as being insufficiently scientific, with the
+implicit equation of science with a third-person, objective perspective. This
+
+9781350238503_txt_rev.indd 96
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+97
+
+criticism, I suggest, is unfounded; to support this, I draw from the work of physicist
+Nicolas Gisin and before him, L. E. J. Brouwer’s articulations of Intuitionist
+Mathematics (Brouwer 1981). What is interesting about this alternative path to
+mental causation, based within a concept of free will, I suggest, is that Gisin and
+Brouwer argue for its basis within a rigorous mathematical model that does not
+depend on emergentism, or for that matter, on panpsychism. I suggest that we
+find a similar framework to Gisin’s use of Intutionist Mathematics, and more
+especially Brouwer’s entailment of subjectivity with his idea of the “Creating
+Subject,” in Abhinavagupta’s Svātantryavāda, and that Abhinavagupta’s
+model, intuitively derived, follows a similar logic. Abhinavagupta is not
+a mathematician (and nor am I), and his own articulation of his model of
+consciousness involves no mathematics; however, his model shares structural
+similarities to these mathematical articulations, specifically: The inclusion
+of free will, a non-deterministic system, a necessary inclusion of the idea of
+time. What Abhinavagupta’s Svātantryavāda, Free-Will Doctrine adds to these
+mathematical derivations is to make explicit the emphasis on subjectivity and
+a first-person perspective, an element not found in Gisin’s articulation, which
+is, however, incipiently articulated in Brouwer. With this, I suggest that we
+ought not to discount subjectivity as a model simply because of a bias that sees
+objectivity, a third-person perspective as more scientific or logically precise.
+This also suggests that Abhinavagupta’s medieval adoption of a subjectively
+oriented philosophical model can add to the conversation on causality1 and
+that we might find productive results in unpacking this alternative path toward
+accounting for mental causation.2
+
+2 PANPSYCHISM, COSMOPSYCHISM, EMERGENTISM
+While panpsychism was developed as a way around the hard problem, recently
+a variety of thinkers have adopted forms of panpsychism as a way to entail
+mental causation while still avoiding the philosophical problems accompanying
+emergentism.3 As Godehard Brüntrup and Ludwig Jaskolla point out,
+panpsychism offers “a world view which is capable of remaining within a
+broadly conceived naturalist framework whilst accounting for the emergence
+of a nonreductively conceived mental reality” (Brüntrup and Jaskolla 2016: 3).
+Panpsychism, since it entails an already embedded notion of mind within all
+matter, seems to stave off the problem of needing an emergentist doctrine, or
+at least a strong emergentism, to account for mentality and mental causation.
+Nevertheless, various models that embrace panpsychism still invoke a form of
+emergentism, particularly as a way around the combination problem.4 Giulio
+Tononi and Christof Koch’s Integrated Information Theory 3.0 (IIT 3.0)
+is an illustrative case, asserting panpsychism, while relying on a form of
+
+9781350238503_txt_rev.indd 97
+
+28-06-2022 13:00:18
+
+98
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+emergentism to distinguish between objects that display consciousness (Phi in
+their terminology) and those that do not. Tononi, for instance, proposes that
+we might find consciousness even in a simple mechanical device, a photodiode.
+Underwritten by a foundational panpsychism, actual, measurable consciousness
+(Phi) emerges only in instances where information as self-reflexive activity
+is demonstrated. The operating principle in this model is that if enough
+information as bits is accumulated and nested within integrated circuits
+of recursive feedback loops, meaning will emerge. A jump to consciousness
+will occur.
+Describing the process in an imaginary dialogue between Galileo and
+Leibniz, Tononi writes, “which mechanisms would one have to add in order
+to augment the lowly photodiode and make it like Galileo’s brain?” (Tononi
+2012: 199). In order to get, as Tononi puts it, “meaning out of mechanism,”
+the Baron tells Galileo,
+By piling one mechanism on top of another, that’s how it’s done! … One
+mechanism alone—things are this way and not another way—generates
+hardly any information: one nondescript bit. But if you pile them up, so
+that one builds upon another, not only side-by-side, but each standing on
+the shoulders of the others, as it were, they generate far more information,
+bits multiply.
+(Tononi 2012: 203)
+With enough nested circuitry one can make the jump from the mere mechanism
+of a manufactured mechanical device, a photodiode, to the wonder of
+consciousness. That is, Tononi’s method entails a kind of emergentism: “if
+you pile them up” some new shift occurs; consciousness emerges. Tononi has
+made it clear that he subscribes to a model of panpsychism; yet he incorporates
+emergentism to explain why it is that even though consciousness is allpervasive, objects like a cellphone do not exhibit the self-recursivity required
+for what we think of as consciousness (Oizumi, Albantakis, and Tononi 2014)
+and (Tononi n.d.).
+Abhinavagupta, on the other hand, does not subscribe to an emergentist
+model.5 This is where his panentheism—which again might be considered akin
+to what thinkers like Itay Shani, Joachim Keppler, and Philip Goff designate as
+cosmopsychism, a kind of overarching single principle that spreads itself out into
+what makes up the world—diverges from the type of micro-panpsychism Koch
+and Tononi embrace.6 In this respect we might understand his panentheism as
+a form of cosmic consciousness. Shani argues that it is possible to formulate
+a cosmopsychism that avoids the combination problem entailed in micropanpsychism and can also preempt its mirroring obverse, the decombination
+problem (Shani and Keppler 2018). While it may be possible to argue that
+
+9781350238503_txt_rev.indd 98
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+99
+
+Abhinavagupta’s model evades the combination and decombination problems
+by virtue of its adoption of a singular cosmic consciousness, I focus here
+explicitly on the links his model proposes between free will and subjectivity as
+the mechanism for mental causality.
+In other words, embedded within Abhinavagupta’s conception of cosmic
+consciousness is a separate avenue for arguing for mental causation: his
+prioritization of subjectivity, with a concommitant freedom, over a third-person
+perspective.7 Thus, he tells us elsewhere, “this in fact is freedom, which is the
+capacity to do that which is exceedingly difficult. And that difficulty is to be
+actually placed on the level of Māyā.”8 The idea of freedom, which is intrinsic to
+subjectivity as modality, is what allows a singular consciousness to individuate
+into a multiplicity of different conscious entities each with their unique capacities
+to exercise divergent expressions of free will.9 Thus, he tells us: “When those
+[beings] belonging to Māyā—even down to a worm, an insect—when they do
+their own deeds, that which is to be done first stirs in the heart.”10 That is,
+even the tiniest insect has an agency and a consciousness capable of choosing,
+a subjectivity rising in the heart. Specifically, by subjectivity as modality I mean
+that Abhinavagupta suggests a phenomenology of the first-person perspective at
+its base entails an essential freedom that serves as foundational for subsequent
+truth claims.11 In what follows, we look comparatively at the conditions for
+this freedom in Abhinavagupta’s model in relation to Gisin’s adoption and
+Brouwer’s articulations of Intuitionist Mathematics. Beginning with Gisin’s
+articulation of the problem of real numbers, as the mathematical argument for
+this alternative model, we then address specifically three areas of convergence
+Abhinavagupta shares with Intuitionist Mathematics: Indeterminism, its links
+to freedom, and the inclusion of time. After this we examine Abhinavagupta’s
+postulation of subjectivity.
+
+3 REAL NUMBERS
+Gisin points to the origin of Intuitionist Mathematics in an early twentiethcentury debate between mathematicians L. E. J. Brouwer and David Hilbert
+on how we might count numbers. Hilbert insisted that we understand every
+real number with its infinite series of digits as a completed individual object
+(Gisin 2020: 114). Brouwer, arguing for an Intuitionist Mathematics, took
+the view that each point on a number line should be represented as a neverending process that develops in time (Gisin 2020: 114). As Gisin relates, the
+question has to do with whether mathematics exists within time or whether
+it operates within an idealized Platonic realm, and this mathematical debate
+mirrored another debate also focusing on time, and happening around the same
+time in Paris (Gisin 2020: 114). In this related debate, Albert Einstein debated
+
+9781350238503_txt_rev.indd 99
+
+28-06-2022 13:00:18
+
+100
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+the French philosopher Henri Bergson (Gisin 2020: 114). Bergson critiqued
+Einstein’s conception of time prompting Einstein’s famous assertion “Il n’y a
+donc pas un temps des philosophes” (The philosopher’s idea of time does not
+exist) (Canales 2015: 5). Even as Einstein’s argument against Bergson eventually
+eclipsed Bergson’s position, at the time Bergson’s critique that Einstein’s idea of
+relativity and its assertion of time pertained not to physics, but to epistemology,
+hit a nerve.12 So much so that it swayed the Nobel Prize committee to give
+Einstein the Nobel prize for his work on the photo-electric effect, not for what
+made him famous at the time, his celebrated formulation of relativity (Canales
+2015: 3–4).
+Perhaps aware of this other debate, Brouwer’s intuitionist mathematics
+focused on understanding mathematics as embedded within a schema of
+unfolding time. Precipitated by a logic problematizing an infinite series of
+digits as ultimately a product of random selection, Brouwer formulated a
+mathematics tied to a materially embedded reality, operative expressly within
+the parameters of time and the free choices made by the mathematician
+engaging a mathematical problem (van Atten 2018). Gisin, whose own work
+spans classical and quantum physics, draws on Brouwer particularly in relation
+to the problem of time, infinity, and information for a contemporary model.
+Gisin points to the problem of a mathematically projected infinity in relation
+to a finite volume. He says, “no finite volume of space can contain an infinite
+amount of information. This is a well accepted result that follows from the
+holographic principle, known as the Bekenstein bound” (Gisin 2019: 6). For
+Gisin, a mathematical stipulation of real numbers as infinite carries its own
+burdens, in particular, an unwieldy infinitude at the heart of physics. He
+proposes as remedy an alternative mathematical physics based on Brouwer’s
+Intuitionist Mathematics. This alternate mathematical system recognizes the
+disjunct, the actual practical impossibility of a mathematics that operates
+on an infinite amount of information contained between two numbers on a
+number line. In a nutshell: The impossibility of containing an infinite amount
+of information within a finite space.
+Gisin derives his formulation from Brouwer’s Intuitionist Mathematics.
+As Brouwer outlines the basic principles, the problem is that the history
+of mathematics in the nineteenth and twentieth centuries introduced a
+formalism divorced from an actual experiential engagement with mathematics.
+Intuitionist mathematics proposes recognizing an intuitive understanding of
+mathematics grounded in experience and developed intuitively, separate from
+the formulation of a language to describe mathematics, instead understanding
+mathematics as “an essentially languageless activity of the mind having its origin
+in the perception of a move of time” (Brouwer 1981: 1–4). As such, Brouwer’s
+formulation entails that certain logical conditions that we take for granted,
+such as the law of the excluded middle, are simply artefacts of a historical
+
+9781350238503_txt_rev.indd 100
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+101
+
+construction and only applicable in certain situations. (Brouwer 1981: 5–8).
+To return to Gisin’s formulation of the problem of an assumed mathematical
+infinity, Gisin tells us:
+Today, everyone knows that they hold gigabytes of information in their
+pockets … Furthermore, everyone knows also that each stored bit requires
+some space. Not much, possibly soon only a few cubic nanometre (10−18 mm3)
+… Consequently, assuming that information has always to be encoded in
+some physical stuff, a finite volume of space cannot contain more than a
+finite amount of information.
+(Gisin 2019: 7)
+This is his basic premise, that information occupies space. Information
+encoded within a material substrate is limited, even as our current predominant
+mathematics offers a system predicated on infinite information. Further:
+Consider a small volume, a cubic centimetre let’s say, containing a marble
+ball. This small volume can contain but a finite amount of information.
+Hence, the centre of mass of this marble ball can’t be a real number …
+since real numbers contain—with probability one—an infinite amount of
+information … the assumption that a finite volume of space can’t contain
+more but a finite amount of information implies that the centre of mass
+of any object cannot be identified with mathematical real numbers. Real
+numbers are useful tools, but are only tools. They do not represent physical
+reality.
+(Gisin 2019: 7)
+As he outlines it, his formulation of Intuitionist Mathematics works much
+the same as classical mathematics; its advantage lies in its acknowledgment
+of this basic incompatibility—between a Platonic mathematics of infinity and
+our current real-world awareness that a finite space can only contain a finite
+amount of information. With this he proposes a mathematics and physics that
+operates similarly to classical mathematics and physics, but which addresses the
+problem of infinite information in a finite space:
+In a nutshell, this alternative theory keeps the same dynamical equations as
+classical mechanics, but all parameters, including the initial conditions are
+given by numbers containing only a finite amount of information … I argue
+that this alternative classical mechanics is more natural because it doesn’t
+assume the existence of inaccessible information.
+(Gisin 2019: 2)
+
+9781350238503_txt_rev.indd 101
+
+28-06-2022 13:00:18
+
+102
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+Even as Gisin’s alternative mathematical theory functions similarly to classical
+mathematics in solving physics and mathematical problems, it nevertheless
+carries with it a number of philosophical implications. I will address the
+implications below: These include 1) a model that suggests indeterminism even
+within classical physics, not just within quantum physics where it is familiar; 2)
+this model is tightly linked to an assertion of free will, again, resonant with
+Abhinavagupta’s philosophical model of Recognition (Pratyabhijñā), which
+has alternatively been called the Free-Will Doctrine, Svātantryavāda; 3)
+directly following from indeterminism, the reincorporation of time within
+physics.
+
+4 INDETERMINISM LINKED TO FREEDOM
+Many of the philosophical ramifications of Gisin’s alternative mathematical
+theory follow directly from postulating a primary indeterminism. Gisin derives
+this from his initial premise that a finite amount of space cannot contain an
+infinite amount of information. The finitude of physical space links back to
+Brouwer’s intuitionist mathematics and Brouwer’s assertion that the sequences
+of numbers generated on a continuum are not infinite, but instead generated
+as random numbers (Gisin 2020: 115). As Gisin relates, understanding the
+fundamentally uncomputable nature of real numbers means that we should
+understand them instead as random numbers; the term “real numbers,” he tells
+us, is a misnomer:
+In other words, almost all real numbers are random in the sense that their
+sequences of digits (or bits) are random … And these random numbers
+(a better name for real numbers) should be at the basis of scientific
+determinism? Come on, that’s just not serious! … it is also a great source of
+confusion in the philosophy of science.
+(Gisin 2016: 5)
+That is, the very basis of our mathematical system leads us astray, inclining us to
+miss the fundamentally random nature of real numbers. That they are random
+means that they cannot be used to predict determinate outcomes; the random
+quality of these numbers will yield only imprecise, indeterminate mathematical
+results.The consequence is that scientific determinism has no solid foundation,
+no real leg to stand on. This is where his alternative mathematics adheres more
+closely to the actual situation of things. What it means is that at base, even
+for classical physics—not just for quantum physics—the notion of a scientific
+determinism does not follow our material situation. Gisin is quick to point out
+
+9781350238503_txt_rev.indd 102
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+103
+
+that these parameters, determinism vs indeterminism, are elements built into
+the particular model of mathematics we use:
+One may object that intuitionism doesn’t derive indeterminism, but assumes
+it from the start. That is correct. Likewise, classical mathematics assumes
+actual infinite information from the start. These two views cannot be
+distinguished empirically. One can always claim that instead of God playing
+dice every time a random outcome happens, God played all the dice at once
+before the Big Bang and encoded all results in the Universe’s initial condition.
+(Gisin 2020: 115)
+Pointing out that Einstein’s oft-quoted rejection of quantum physics’ structural
+indeterminacy is simply kicking the can down the road, back chronologically
+to the Big Bang, Gisin identifies the postulation of infinite information as an
+assumption within classical mathematics. Thus, this alternative, Intuitionist
+Mathematics instead takes as its premise indeterminism; God left some of the
+dice-play for after the Big Bang. Gisin justifies choosing indeterminism as a
+premise by pointing to the equally unsubstantiated and problematic presumption
+of our usual mathematics, that it assumes infinite information from the start.
+And as we saw, the problem with an infinity of information is that it is not
+supported by what we actually know about information, that a finite space can
+only contain a finite amount of information.13 This also entails as a foundation
+for Gisin’s argument that there is a real world and that physicists model their
+calculations on this real world, not on a mathematics that proposes infinite
+information in real numbers.14 His alternative Intuitionist Mathematics is more
+closely aligned to the idea of the world as real and physically tangible, because,
+“it doesn’t assume the existence of inaccessible information”(Gisin 2019: 2).
+Abhinavagupta’s model similarly, unlike an Advaita Vedānta ascription
+of the world as illusion, emphasizes that the objects we encounter here are
+real.15 As K. C. Pandey pointed out in early scholarship on Abhinavagupta,
+Abhinavagupta’s philosophy tends to work against our expectations of ontology;
+we tend to limit our choices to nondualism as idealism on the one hand, or else
+an actually existing world with a plurality of really existing different entities.
+Abhinavagupta subverted this false choice in a kind of have-your-cake and
+eat-it-too, what Pandey in a seemingly oxymoronic gesture labels a “Realist
+Idealism.”16 Elsewhere I argue that we might understand Abhinavagupta’s
+nondual Śaivism precisely as a reclamation of a very real materiality (Biernacki
+2022). In his eleventh-century Īśvarapratyabhijñāvivṛtivimarśinī, he reminds us,
+“the object as something real is not to be denied.”17 The materiality of the world
+is elemental to his philosophy of agency; as he tells us, “when you separate off the
+effects [of creation, the body, etc.] then the state of Doership does not occur.”18
+
+9781350238503_txt_rev.indd 103
+
+28-06-2022 13:00:18
+
+104
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+The idea of “Doership” (kartṛtva) as activity in the world references the power
+of the absolute as consciousness to connect to the materiality of the world; it is
+this element that differentiates Abhinavagupta’s system from an idealist system
+like Advaita Vedānta which sees the world as insubstantial (Māyā). In practical
+terms, with the idea of “Doership” Abhinavagupta argues for an intrinsic link
+between consciousness and matter and precisely, the capacity of consciousness
+to generate material effects, that is, the capacity for mental causality.19
+To return to Intuitionist Mathematics, even as it works empirically and is
+indistinguishable from classical mathematics on an empirical level, it carries
+profound philosophical ramifications. It radically alters how we think of the
+world. It means that our world is not predetermined, not just for quantum
+events, but even for a classical physics. Intuitionist mathematics tells us that
+real numbers are actually random and thus not capable of offering determinate
+outcomes. As Gisin puts it, “Here indeterministic is merely the negation of
+deterministic … given the present and the laws of nature, there is more than
+one possible future” (Gisin 2019: 3, n.2). This means as well that our models
+of physics and the other sciences, including for instance a neuroscience that
+proposes a capacity to determine outcomes mathematically, algorithmically,
+these algorithms will at base—that is, in principle—be incapable of fully
+determining an outcome. And not simply on an epistemological level. In fact,
+ontologically, our world is not predetermined.20
+Gisin also explicitly links this indetermination to freedom. He tells us, “our
+acts of free-will are beginnings of chains of consequences. Hence, the future is
+open, determinism is wrong” (Gisin 2016: 2). Similarly, pointing to the link
+between indeterminacy and free will, Gisin argues, “The existence of genuine
+free-will, i.e. the possibility to choose among several possible futures, naturally
+implies that the world is not entirely deterministic” (Gisin 2016: 3). Ultimately,
+Gisin supports his argument for free will with his mathematical demonstration
+that real numbers should be understood as not real, but random numbers. As
+he puts it:
+the tension between free-will and creative time on one side and scientific
+determinism on the other side dissolves once one realizes that the so-called
+real numbers are not really real … the real numbers that theories use as
+inital conditions and parameters are not physically real. Hence, neither
+Newtonian, nor relativity, nor quantum physics are ultimately deterministic.
+(Gisin 2016: 2)
+Further, like Abhinavagupta, he makes the idea of free will foundational,
+saying, “Free-Will comes first in logical order” (Gisin 2016: 2).
+Abhinavagupta’s cosmology encodes indeterminacy as well, though
+not through a temporal predictive model. As with Gisin, indeterminacy
+
+9781350238503_txt_rev.indd 104
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+105
+
+is foundationally linked to free will, however, Abhinavagupta frames
+indeterminacy as a corollary to subjectivity, “I-ness” (ahantā). Subjectivity
+is the basic reality; it entails an originary state of plenitude, a dense mass of
+consciousness (cidghana, cidānandaghana) as undefined and indeterminate, in
+contrast to “This-ness,” the state of being an object.21 However, Abhinavagupta
+understands indeterminacy entirely in psychological terms. Driven by an
+overarching process that leads us astray—Māyā—this operation of Māyā acts as
+a determinate form of thinking which limits our capacity to both know and to
+do things in the world. Māyā is the process of individuation, a determination,
+delimitation, and limitation of activity. Abhinavagupta quotes the Rudrayāmala
+text, saying, “Māyā is the name of the one who deludes, who is seated in the
+process of individuation, the limitation of activity,” (“māyāvimohinīnāma
+kalāyāḥ kalanaṃ sthitam |” iti hi śrīrudrayāmalasāravākyam.) (Abhinavagupta
+1985a: 3:285). An original indeterminate reality linked to subjectivity is lost
+when Māyā begins to operate. The mind distinguishes one thing as different
+from another (vikalpa), making determinate what was indeterminate, as
+a phenomenology of mental processes. Even as Abhinavagupta’s model is
+primarily based on a mental phenomenology, still, for Abhinavagupta as well,
+this also means that events are not predetermined. And even though our karma
+plays a role, still there is no fate already set in motion, impervious to our freewill choices, where we just go through the motions.22 The freedom (svātantrya)
+tied to subjectivity has genuine creative effects. Real creativity is indeed possible,
+even for limited beings, such as us humans, as Abhinavagupta makes clear: “‘or
+by his own independence’—accepting the idea that there is creation which is
+not dependent upon the creation of the Lord.”23 Indeed, this is the case even
+for a lowly insect. As Abhinavagupta tells us, “When those beings belonging to
+Māyā—even down to an insect—when they do their own deeds, that which is
+to be done first stirs in the heart.”24
+The structural similarity Abhinavagupta shares with Gisin’s model is thus:
+Where we find indeterminism, we find freedom, and the converse as well.
+Abhinavagupta, on the other hand, charts the link in terms of mental processes.
+In a colorful metaphor that emphasizes the mental projection involved, that is,
+the degree to which a sense of subjectivity is a habit of mind, Abhinavagupta
+likens indeterminate subjectivity as freedom to the black soot that covers a
+lamp. If it gets differentiated, parceled out into separate bits, or moved from the
+lamp to some other spot, the blackness of the soot makes a mess; it is no longer
+pure, no longer free, yet in its own place on the lamp, as an undifferentiated
+mass of blackness, it is pristine.25
+To reiterate, Abhinavagupta’s model is not a mathematical formulation, and
+not based on Gisin’s understanding of the finitude of information. Rather, it is
+tied to the idea of subjectivity; again, in this case what he shares with Gisin’s
+model of indeterminacy is the link between indeterminacy and freedom. Unlike
+
+9781350238503_txt_rev.indd 105
+
+28-06-2022 13:00:18
+
+106
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+Gisin’s use, Abhinavagupta’s model is prescriptive, not a map that tells us how
+the world is; indeterminacy is a state of mind that enables a greater capacity
+for freedom. I suggest he probably derives his model from the meditation
+practices of Tantra, charting the mind phenomenologically as it moves from
+an initial indeterminate awareness to concrete conjectures as a mental process.
+Abhinavagupta (Abhinavagupta 1985a: 3:330) tells us:
+Free awareness, that is free, and awake. That is the name given to the form
+of the one who is aware. That which is called “I”, in thinking “Who is that?”
+when with the body etc.—the form of that I becomes filled up with ideas
+like, “I am the one who is white;” “I am the one who is hungry;” and so
+on, then, the body and so on, alone become predominant, displacing the
+knower’s true form and status as pure consciousness. So the object alone
+becomes predominant, not the form of the knower.
+But when he sets out to direct thought to the form of pure consciousness
+which is one unified mass of light, asking himself, “what Archetypes make
+up the body etc.?,” then the Emptiness and the body etc., are no more as
+they are made into the true real form which is awareness, pierced through
+with the juice of consciousness. By practicing this, by properly entering
+into this awareness, he gains the special Energies which are the attributes of
+pure consciousness, and the miraculous yogic powers arise. However, even
+without practicing it, just by entering into it only for a moment, bliss rises
+up, along with the visible manifestation of other yogic experiences such as
+bliss, trembling, deep slumber, a feeling of pervasiveness, and whirling.26
+These occur one after the other and he attains liberation for his soul even
+while still alive in the physical body.27
+Thus, we see here that Abhinavagupta links freedom to subjectivity specifically
+in terms of a phenomenology of the mind. This freedom also manifests as the
+siddhis of the yogi, the powers to manipulate material objects, which we find in
+the hagiographical tales of yogis inhabiting dead bodies, and changing matter.28
+When the sense of “I” becomes limited as “I am hungry” and so on, one takes
+on the status of being object, losing one’s true form as undifferentiated subject.
+However, indeterminacy and determinate status are driven by subjective
+awareness and as such, can be influenced by mental processes and mental
+choices. Developing a particular habit of mind, entering into an awareness of
+consciousness as an undifferentiated mass of light, one is then able to acquire
+yogic abilities. Moreover, even without exerted practice, simply experiencing
+this awareness, Abhinavagupta tells us, leads to states linked to yoga, such as
+bliss and certain movements of the body such as trembling and so on. In this
+way, indeterminacy as a marker of a particular awareness of subjectivity is
+primarily a phenomenological process tied to freedom, and linked with yoga
+and tied to yogic abilities as its expressions.
+
+9781350238503_txt_rev.indd 106
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+107
+
+5 TIME
+To bring this back to cosmology, we also find time reincorporated back in, as a
+central feature, in both Gisin’s and Abhinavagupta’s models. For Abhinavagupta
+this is important since his cosmopsychism stands in contrast to earlier, alternative
+forms of nondualisms, such as Advaita Vedānta, which situate subjectivity within
+an idealized time-free or time-transcendent reality—much as we see with Gisin’s
+characterization of classical mathematics as Platonized and outside of time. In
+his article “Time Really Passes, Science Can’t Deny That,” Gisin tells us “[n]ondeterminism implies that time really exists and really passes: today there are
+facts that were not necessary yesterday, i.e. the future is open” (Gisin 2016: 2).
+He bases his argument on the argument outlined earlier: A finite amount of
+space cannot contain an infinite amount of information and that real numbers
+are essentially random numbers. As a consequence, he tells us the future is not
+predetermined. His insistence on this indeterminism, an open future itself entails
+free will. A consequent corollary following from these two is the reality of time.
+Gisin nuances his argument on time in this regard, allowing for two types of
+time, what he calls Einsteinian- or Parmenides-time, the type of time amenable to
+classical mathematics as “geometric-boring time” where no change occurs, and
+where using real numbers works fine, and Heraclitus-time where actual change
+occurs, and chance with its indeterminability is a factor (Gisin 2016: 6). With
+this, he gives a system accommodating both the idea of time as symmetrical and
+a pre-determined universe as Einsteinian-time and also the reality of time as a
+genuine unfolding of events allowing for chance and free will. For Gisin, chance
+and the possibility of actual newness, the open indeterminate future, Heraclitustime, can and does occur, while at other times Einsteinian- or Parmenidestime gives us the predictable world, which is mostly, but not always what we
+experience. Abhinavagupta as well reincorporates an idea of time, in his case as a
+corollary of a first-person embodiment. Like Gisin, Abhinavagupta pushes back
+against the idea of timelessness by connecting time to free will, in his articulation
+expressed as intentionality. Intentionality, as an orientation toward one thing or
+another is the heart of a capacity to will. And this, he tells us, already embeds the
+fact of time. I give here a long passage which outlines his position:
+‘The intent of the will is the first instant of time’ (Śivadṛṣṭi 1/7–1/8). Even the
+highest Reality, Śiva, the energy of bliss—which is that form where unfolding
+is just about to happen—that energy of bliss has priority, i.e., primacy, and
+prior existence with regard to the energy of will, [i.e., there is sequence
+here as well]. The word ‘tuṭi’ is explained as a unit of time. Otherwise in
+the absence of sequence how could there be states of priority and posterity?
+However, with reference to those who are to be instructed and to those
+limited souls who are completely within [the grip of Māyā], there [teaching
+a lack of sequence] is appropriate.29
+
+9781350238503_txt_rev.indd 107
+
+28-06-2022 13:00:18
+
+108
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+Here, Abhinavagupta argues against the idea that some absolute reality, or deity,
+might exist outside of time, beyond the reach of time. What Abhinavagupta
+suggests here does go against a dominant reading of Abhinavagupta’s nondual
+Śaivism, where it is aligned to an idea more akin to Advaita Vedānta, with a
+space transcendent of time. What I suggest here is that if we read Abhinavagupta
+closely, we see that he realizes the philosophical problem embedded within a
+view that offers a transcendent space outside of time. As I suggest elsewhere
+(Biernacki 2022), for his nondualism to really incorporate the world, it must
+also incorporate time. And this is precisely why he brings the notion of time
+back in, explaining that the idea of a transcendent space outside of time is really
+just a skillful teaching tool for those who are caught in Māyā. At base, however,
+time occurs at the very heart of the highest deity because that deity, Śiva, has
+the power to will. The capacity to will, as intention, that is, as free will, is itself
+indicative of time. Those schools of thought that locate a transcendent reality
+outside of time, he tells us, are simply catering to students whose understanding
+is limited. This works fine as expedient teaching, acceptable for folks who are
+caught in the illusions of Māyā, but it is not the truth. He continues:
+You may protest that it says here in this verse that limited souls which are
+created have sequence; [since they exist within time], but the Śiva Archetype
+does not. In reply [Utpaladeva] says “because of the universality of the
+Subject.” There also, in fact, the presence of sequence is proved. So [the text]
+says “that, in this way”.30
+That is, the Subject, who resides in the limited Māyā-bound individual is the
+same as the Subject which is Śiva. If the limited Subject can manifest sequence,
+surely the highest reality Śiva has the capacity also to contain sequence.31 The
+essence of his argument depends on the idea that subjectivity is foundational and
+all-pervasive, in both the limited person and the highest absolute. Even if we can
+postulate some absolute reality or transcendent deity, outside of time, the very
+notion of a foundational subjectivity entails that it instantiates everywhere, allpervasively.32 This means that this subjectivity at base entails free will and that
+just as we in our limited bodies experience the unfolding of events in time as a
+result of free-will choices, this unfolding of time necessarily occurs also for the
+cosmic consciousness that is the absolute reality and/or the highest deity and this
+arises through the free will of both cosmic consciousness and our limited selves.33
+
+6 SUBJECTIVITY
+What Abhinavagupta’s Svātantryavāda, Free-Will model adds to these
+mathematical derivations of free will is his emphasis on subjectivity. This
+emphasis on subjectivity as necessarily tied to the idea of free will and
+
+9781350238503_txt_rev.indd 108
+
+28-06-2022 13:00:18
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+109
+
+non-determinism is not found in Gisin’s work. Abhinavagupta, on the other
+hand, includes it it as a central component of his thinking. I suggest that the
+idea of subjectivity as an element in Abhinavagupta’s model intuitively follows
+from the notion of free will. And even as Gisin is silent on the notion of
+subjectivity, Brouwer’s work on Intuitionist Mathematics, in contrast, turned
+as well toward the idea of subject, referenced as the “Creating Subject,” and
+pointing to the role of the free choices made by the mathematician as part of
+the configuration of an Intuitionist Mathematics. Moreover, I suggest that the
+idea of a foundational subjectivity restructures the way causality operates, and
+as such, mental causality is written in at the base; it does not need to be derived.
+Intuitionist Mathematics gestures toward this, offering a mathematical logic
+premised on free will, the reality of time, and a non-predetermined reality and
+with this, the element of subjectivity as intrinsic. First, we can briefly look at
+Abhinavagupta’s model to get a sense of his conception of subjectivity and then
+look at Brouwer’s formulation.
+Subjectivity is foundational to Abhinavagupta’s model of consciousness; it
+is the marker for consciousness. Subjectivity, the “I,” is the basis, which then
+expands outwardly, taking on a third-person perspective to become the objects
+we encounter. Abhinavagupta says:
+The Subject’s form, which is a unity of awareness contains also an excess,
+an abundance of awareness. This is deposited into the side of the object that
+is going to be created. So inwardly the [object] has the attribute of śakti,
+Energy which is none other than the form of consciousness.34
+To be an object, that is, insentient, is to be in the grip of what we might call an
+excess of third-person perspective, “this-ness” (idantā), in contrast to an innate
+subjectivity, “I-ness” (ahantā), the first-person perspective. Subjectivity as the
+“I” (ahantā) is in essence a form of awareness (vimarśa), yet an awareness that
+intrinsically links to activity (kriyā) and with this, is tied to the material world.35
+In Abhinavagupta’s system, however, “this-ness” and “I-ness” are modes and as
+such, not two irreparably separate categories. Rather, subjectivity is embedded
+at the core of the “this-ness” (idantā) that makes up the objects in the world.
+In other words, subjectivity is the foundation; the third-person perspective is
+secondary and derived from this.
+Even mere objects, a clay jar, at base are simply consciousness as subjectivity.
+He tells us, “that clay jar—its true nature is the essence of consciousness when
+it is in a state without mental differentiation; it is complete, like consciousness
+itself, the body of the whole world.”36 That is, even a mere object has, a deeply
+retained sense of subjectivity. We see,
+[a]nd in precisely this way, even while accepting the state of being mere
+object, by properly, in a true way touching and perceiving the object’s
+
+9781350238503_txt_rev.indd 109
+
+28-06-2022 13:00:18
+
+110
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+“This-ness” in the highest sense, then out of the objects, those “things”
+perceived, consciousness alone flows forth. The “thing” in its essential
+nature is the expanse of Light (prakāśa). And this expanse of Light consists
+of an active awareness (vimarśa), the “I” which is not looking towards
+something other.37
+Thus at the heart of everything is a foundational subjectivity, premised on a
+monism. Abhinavagupta draws his monism from his predecessor Somānanda,
+whose model approximates a pantheism (Nemec 2014). Abhinavagupta adds
+nuance and the precision of a dual-aspect model to Somānanda’s animist
+nondualist pantheism which sees all things as the expanse of light (prakāśa)38
+to formulate his own panentheism as dual-aspect, with both the expanse of
+light (prakāśa) and its inner awareness as subjectivity (vimarśa). The light of
+consciousness (prakāśa) congeals to make objects in the world. This is one
+aspect of his dual-aspect monism. At the heart of this expanse of light—out of
+which things come to be—at the heart is a subjectivity; this is the second aspect
+of his dual-aspect monism. This is the “I,” an active awareness (vimarśa), which
+is what gives even a clay jar its life, its sentience.
+Abhinavagupta explains this dual-aspect monism in cosmological terms, as a
+cosmic subjectivity, which is the absolute, (Śiva), which then unfolds to make
+our world, yet which nevertheless does not lose its inner consciousness: “pure
+consciousness lying in the core exists as a state containing both inner and outer.
+As Māyā’s creation spreads out, expands into many branches, the Lord remains
+still within the core.”39 As Māyā’s creation spreads out; we get the complex
+variety of our world, while still all the while, even in seeming dead matter, clay
+jars, a pure awareness, consciousness remains at the core. His cosmopsychist
+model entails a panpsychism—all things are innately conscious—yet they derive
+from a single unfolding cosmopsychist reality.
+As I mentioned, while we do not see the notion of subjectivity in Gisin’s
+work, Brouwer’s work, on the other hand, points to a notion of a subject that
+underlies his model of intuitionist mathematics. He called this the “Creating
+Subject.”40 As Mark van Atten thoughtfully lays out, Brouwer formulates
+intuitionist mathematics from a postulation of a subjectivity of the mathematician
+generating free choices.41 His idea of the “Creating Subject” focuses on
+whether the temporal order in which a mathematician establishes mathematical
+theorems can change the mathematical argument.42 His arguments suggest that
+the person, the subject engaging in a mathematical problem within the system
+of intuitionist mathematics does not exist outside the system, but is, in fact,
+integral to it. The idea is radical; it eats away at the core of a postulation of
+objectivity. This turn to an idea of the subject as foundational offers a radically,
+profoundly different model for understanding the world. As such, it left some
+
+9781350238503_txt_rev.indd 110
+
+28-06-2022 13:00:19
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+111
+
+of his students perplexed and uncomfortable. His student, Arend Heyting, who
+later compiled his writings and succeeded him as Mathematics professor at the
+University of Amsterdam, wrote this regarding Brouwer’s idea of the “Creating
+Subject”: “It is true that Brouwer in his lecture introduced an entirely new idea
+for which the subject is of essential importance. As I said, I feel that it is still
+questionable whether it is possible and whether it is good to introduce this idea
+in mathematics” (Niekus 2010: 31). The problem, of course, with bringing in
+subjectivity is precisely that it upends the notion that science generally, and the
+mathematical logic that underpins it, offers truth precisely because it proposes a
+universal, third-person, objective reality divorced from subjective perspectives.
+When Brouwer brings back in the “Creating Subject” he throws a wrench in
+the gears of this logic, concluding instead that our external world cannot be
+calculated and predetermined outside of a subject engaging in mathematical
+operations.
+This entails as well an idea of freedom; as van Atten points out, the “Creating
+Subject” is essentially free in the choices she makes.43 This freedom carries with
+it also again the idea of indeterminism. The Creating Subject cannot know
+in advance what will come in (van Atten 2018: 1573); in other words, the
+future is not predetermined, and thus not calculable by an algorithm.44 It may
+also be possible to liken Brouwer’s understanding of the Creating Subject to a
+cosmic subjectivity. Iemhoff reads it this way (Iemhoff and Zalta 2020: 2.2),
+and in this sense, it is akin to Abhinavagupta’s formulation of a cosmological
+cosmopsychism, however, this goes beyond the scope of this paper.45 In any
+case, Brouwer offers a way of doing the precise work of mathematics, while
+retaining the idea of a subjective perspective.
+
+7 CONCLUDING REMARK
+I suggest here that it is the shift to a foundational subjectivity that Abhinavagupta
+makes that underwrites the possibility for a mental causation not reliant on
+emergentism. The reliance on a subjective perspective goes against our habitual
+invocation of a third-person perspective as more “logical.” However, the
+mathematical demonstrations of Gisin’s and Brouwer’s adoption of Intuitionist
+Mathematics afford a method for inscribing free will, non-determinism and
+time, and in Brouwer’s work particularly, an intrinsic subjective perspective
+for a philosophy of science. Abhinavagupta’s cosmology shares these features
+with Intuitionist Mathematics, while emphasizing the element of subjectivity as
+foundational to mental causality. Abhinavagupta’s articulation of a subjectively
+oriented philosophical model can add to our thinking on models of mental
+causality.
+
+9781350238503_txt_rev.indd 111
+
+28-06-2022 13:00:19
+
+112
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+NOTES
+1
+
+Abhinavagupta, for instance, asserts causality lies not with material objects,
+but within a subjective perspective, telling us: “it cannot be proved that the
+relation of cause and effect is grounded within what lacks sentience. Rather,
+however, the relation of cause and effect lies only with that which is conscious”
+(Abhinavagupta 1985a: 3:257) jaḍe pratiṣṭhitaḥ kāryakāraṇabhāvo na upapadyate,
+api tucidrūpa eva.
+
+2
+
+I discuss this in great detail, with specific attention to understanding
+Abhinavagupta’s relevance for a contemporary philosophy of mind, in Biernacki
+(forthcoming, 2022), The Matter of Wonder: Abhinavagupta’s Panentheism and
+New Materialism, particularly in the fourth chapter. I also discuss the relevance
+of Abhinavagupta has for contemporary philosophy of mind in Biernacki (2015,
+2016).
+
+3
+
+See, for instance, Chalmers (1996). For an examination of different models,
+see (Goff 2017), and for an extensive overview (Bruntrup and Jaskolla 2016).
+See as well Strawson (2006) particularly Galen Strawson’s work on subjectivity
+(Strawson 2017).
+
+4
+
+See Sam Coleman’s articulate critique of the combination problem and why
+panpsychism still has a problem with its reliance on emergentism, even as his
+primary argument focuses on panpsychism more generally (Coleman 2014).
+
+5
+
+See, for instance, Ratie (2014: 171).
+
+6
+
+See, for instance, Shani (2015) and Goff (2019).
+
+7
+
+I outline the details of Abhinavagupta’s model of subjectivity at great length in a
+forthcoming publication.
+
+8
+
+The quote continues, “This happens because of the power (niyatiśakti) to
+determine things as one way or another.” In the interest of space I will not
+go into greater depth here, but propose elsewhere that we may read this
+as an appeal to theology, and his recognition of the intractability of the
+decombination problem (forthcoming), even if, as we see below it also entails
+that even a mere insect can lay claim to this freedom. (Abhinavagupta 1985b:
+1:180:) “etadevasvātantryaṃ yadatidurghaṭakāritvam | durghaṭaṃ ca tat
+niyatiśaktikṛtādeva māyādaśāyāṃ.”
+
+9
+
+I discuss at great length Abhinavagupta’s model linking subjectivity to freedom
+(Biernacki, Matter of Wonder: Abhinavagupta’s Panentheism and New
+Materialism, Oxford University Press, 2022, forthcoming). Abhinavagupta’s
+cosmopsychism as all-pervasive entails it even in an insect or a clay jar.
+Abhinavagupta tells us that even for a “clay jar– its true nature is the essence of
+consciousness” in (Abhinavagupta and Utpaladeva 1986: ad 1.6.3, line 1237)
+“citsvabhāvo ‘sau ghaṭaḥ.”
+
+10 Abhinavagupta, Īśvara Pratyabhijñā Vivṛti Vimarśinī, ed. Paṇḍit Madhusudan
+Kaul Śāstrī, vol. 3 (Delhi: Akay Reprints, 1985), 260: “Māyīyānāṃ kīṭāntānāṃ
+svakāryakaraṇāvasare yat kāryaṃ purā hṛdaye sphurati.” See also footnote 55
+below, which discusses the distinction Nemec sees between Somānanda and
+Utpaladeva.
+11 This might be understood as akin to Descartes declaration that his thoughts might
+be true or false, but that his awareness of thinking was indisputable.
+
+9781350238503_txt_rev.indd 112
+
+28-06-2022 13:00:19
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+113
+
+12 Bergson wrote of Einstein’s theory of time that it is “a metaphysics grafted upon
+science, it is not science,” in Canales, Jimena (2015: 6).
+13 Gisin (2019: 7, n.10) tells us, “Here I am clearly building on the huge success of
+quantum information science and on Landauer’s famous claim—‘Information is
+Physical’, by which he meant that information has always to be encoded in some
+physical stuff in Gisin (2019: 7, n.10).
+14 Gisin points to the disjunct for physicists around the problem of real numbers and
+infinite information as one that physics mostly rejects in favor of working with the
+finitude of our real and limited world. Quoting Max Born he says, “My experience
+is that most physicists reject the faithfulness of such a representation, but admit—
+often with regret—that they don’t see how one could do otherwise. For example,
+Max Born, one of the fathers of quantum theory, stressed that ‘Statements like
+‘a quantity x has a completely definite value’ (expressed by a real number and
+represented by a point in the mathematical continuum) seem to me to have no
+physical meaning,’” in Gisin (2020: 115). And again he tells us, “in practice one
+never uses real numbers with all their infinitely many digits. Think, for example, of
+computer simulations that necessarily at each time only consider finite information
+numbers,” in (Gisin (2020: 116).
+15 One of Abhinavagupta’s first twentieth-century interpreters, K. C. Pandey,
+stressing that Abhinavagupta understood the world as real, labeled
+Abhinavagupta’s philosophical system as a “Realist Idealism,” in Pandey (1963:
+320). Isabelle Ratie argues that the dichotomy of realism/idealism does not work
+for Abhinavagupta’s Pratyabhijñā and that it does “consider the phenomenal
+world as perfectly real,” in Ratie (2011: 481, n.4).
+16 (Pandey 1963: 320).
+17 “Anapahnavanīyatayāvastueva” (Abhinavagupta 1985a: 3:288).
+18 Tataḥ kartṛtvaṃ vyatirikte kārye na upapadyate (Abhinavagupta 1985a: 3:316).
+19 I unpack the argument he uses in great detail elsewhere (forthcoming).
+20 This is in a sense also the point that Karen Barad makes about Niels Bohr’s
+interpretation of quantum indeterminacy as ontological in contrast to
+Heisenberg’s uncertainty principle as epistemological, in Barad (2007: 115–16).
+21 It is important to note that Abhinavagupta’s formulation here does not entail
+indeterminacy but at best offers secondary support. I thank Itay Shani for pointing
+this out.
+22 As I note elsewhere (forthcoming), fate, in this way, is never entirely determined,
+but only partially, by the web of five sheaths (kañcuka) that usually overlay our
+awareness. These include time, a limited sense of knowledge, a limited capacity
+to do, desire, and fate (niyati). By accessing an innate subjectivity, we can be not
+constrained by sheaths. This means the freedom to change destiny is somewhat
+accessible, to the extent we can embrace a stance of subjectivity.
+23 “Svātantryeṇavā” iti īśvarasṛṣṭyanapekṣayā. Nirmāṇam
+itisamarthitamitisambandhaḥ (Abhinavagupta 1985a: 3:260).
+24 Ipvv vol.3 p. 260: “Nirmātṛpade” iti. Māyīyānāṃ kīṭāntānāṃ svakāryakaraṇāvasare
+yat kāryaṃ purā hṛdaye sphurati.
+25 Abhinavagupta tells us, “Freedom is awareness. This is the reality. There, the
+impurity occurs by destroying [freedom] through making separate portions,
+
+9781350238503_txt_rev.indd 113
+
+28-06-2022 13:00:19
+
+114
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+because this is in fact removing its essential nature. This impurity is a contraction,
+limiting one’s own inherent wealth… For example, if you take a portion of
+kajjal, the black coal from an oil lamp out of its own proper element and place
+it on some other substance, then there it’s just dirt, impurity [making a mess].
+But in its own natural habitual state [on the lamp] it is a single unified creation, a
+form which is one dense mass [of black. Without a counterpoint of comparison]
+it is completely free from impurity, supremely pure, though that very thing
+was earlier considered a fault.” In Abhinavagupta 1985a: 3:313 “‘Svatantro
+bodha’ityetattattvam. Tatrabhāgāntarahānyā svarūpāpahārāt malamaṇutāṃ
+saṃkocamādadhānamāṇavaṃ dvidhā. Malaṃhi anyena vijātīyenayogaḥ
+kajjalaṃśaḥ svadhāyāḥ, tadaṃśo’pi kajjalasyeti ekajātīyamekaghanaṃ rūpaṃ
+yatnirmalaṃviśuddhaṃ.” For the terminology of consciousness as an
+undifferentiated mass, cidghana, see also Bansat-Boudon (2014: 43–4).
+26 Emendation to the version from Muktabodha which reads dhurni instead of
+ghurni.
+27 (Abhinavagupta 1985a: 3:330: ) “Svatantra” iti. Svatantrabodho nāma
+boddharūpo’hamitiyo gīyate, sakaḥ iticintāyāṃ yadādehādinātadrūpaṃ
+pūryateyogauraḥ, so’haṃ; yadṣuddhitaḥ, so’hamityādi;
+tadādehādirevapradhānībhavati saṃvitsvarūpaṃ nyakkṛtaṃ jātamitibhedyameva
+pradhānībhavati, na vedakarūpam, yadātudehādeḥ kiṃtattvamiti cintopakramaṃ
+prakāśaghanamevasaṃvidrūpamiti, tadābodhassvarūpīkṛtaṃ tadrasānuviddham
+eva śūnyādidehāntamavabhātīti abhyāsāt tasyasaṃviddharmāḥ śaktiviśeṣāḥ
+samyagāviśanto vibhūtīrutthāpayanti, anabhyāse’pitutatkṣaṇāveśa eva ānando
+dbhavakampanidrāvyāptirūpaghūrṇyāvirbhāvanakrameṇa jīvanmuktatālābhaḥ
+(Abhinavagupta 1985a: 3:330).
+28 Somadeva’s Kathāsaritsāgara offers a nice illustration of these powers of a yogi, in
+(Somadeva 1915, passim).
+29 “Yadātutasyaciddharmavibhavāmodajṛmbhayā |vicitraracanānānākāryasṛṣṭipravart
+ane|| bhavatyunmukhatācittāsecchāyāḥ prathamātuṭiḥ | (2/8) iti. (Abhinavagupta
+1985a: 3:263) Paramaśive’pi bhagavati aunmukhyarūpāyānandaśakterīcchāśakty
+apekṣayā prathamatvaṃ pūrvabhāvitvaṃ, tuṭiritikālāṃśarūpatvaṃ tadupapadyate;
+anyathākramābhāve kathaṃ pūrvāparībhāvavyavahāraḥ kintu, upadeśyāpekṣayā
+antargatamāyīyapramātrapekṣayā cayukto’sāviti.
+30 Nanu atrasūtrekramavanto māyāpramātāraḥ sṛṣṭāḥ, natu śivatattvam
+(Abhinavagupta 1985a: 3:263). Āha “pramātṛsāmānyāt” iti. Tatrāpihi
+upapāditākramasthitiḥ. Ata eva uktaṃ “tad evam” iti.
+31 In a gesture that seems to accommodate both views, as Gisin does with his
+nuanced notion of two types of time, Abhinavagupta tells us it depends on our
+perspective. He gives us alternative readings of Utpaladeva’s text on which he
+is commenting here: “Alternatively, he says, ‘Or perhaps’ these souls, these
+Māyā-bound souls do not at all [have sequence either] here viewing them
+from the perspective of the ultimate reality” (Abhinavagupta 1985a: 3:263)
+“Tevānakeciditivāstavaṃ pakṣamāha ‘athavā’ iti.” If the divine itself is free of
+time, then we might suggest that viewed from this perspective ordinary beings
+are as well. This last point does indeed offer a counter-argument. I suggest that
+this is characteristic of Abhinavagupta’s style, to give us a rich presentation of
+possibilities that do not all agree. I thank Susanne Beiweis for pointing this out.
+
+9781350238503_txt_rev.indd 114
+
+28-06-2022 13:00:19
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+115
+
+32 As Gisin points out, tied to these ideas of free will and time unfolding is also a
+logical refutation of the Law of the Excluded Middle. He draws from Brouwer
+here as well (Brouwer 1981: 5–8). Gisin tells us that this Law depends upon the
+assumptions of infinite information tied to real numbers and that if we adopt a
+different mathematical model, that of intuitionist mathematics, the Law of the
+Excluded Middle no longer holds, in Gisin (2020: 116). The example he uses has
+to do with the incorporation of time, for instance, the question of whether it will
+be raining in a year or not is not amenable to the Law of the Excluded Middle.
+Given the use of this concept as a way of criticizing Indian philosophy, Gisin’s
+observation of the assumptions entailed in the Law of the Excluded Middle is
+interesting. However, Abhinavagupta’s adoption of structural similarities to
+Gisin’s intuitionist mathematics is not found in other Indian philosophies, such as
+Advaita Vedānta.
+33 George Dreyfus articulates this idea I think as well from a Buddhist perspective,
+when he suggests that we leave phenomenology when we posit a transcendent
+self, in Dreyfus (2013: 135).
+34 Abhinavagupta, Ipvv, 3:258: Bodhaikarūpasya pramātur yad
+adhikamabodharūpaṃ, tat nirmātavyapakṣe nikṣipyate iti tasya yat nijam
+śaktirūpaṃ dharmaḥ.
+35 Elsewhere, I translate vimarśa as “active awareness” and discuss the relationship
+between vimarśa as an active awareness and prakāśa as the elment of light which
+gives rise to the appearance of our material world in great detail (Biernacki 2022).
+Given the complexity of the argument and the constraints of space I will not go
+into this argument here. I also there discuss the relation these terms bear to the
+terms jñāna, knowledge, and kriyā, action.
+36 “Tadavikalpadaśāyāṃ citsvabhāvo ‘sau ghaṭaḥ cidvadeva viśvaśarīraḥ pūrṇaḥ”
+(Abhinavagupta and Utpaladeva 1986: ad 1.6.3, line 1237). See here also
+Catherine Prueitt’s extended discussion of this passage relating this to the concept
+of apoha, differentiation as delimitation in Prueitt (2017).
+37 Tathā hi vedyadaśām aṅgīkṛtavatām api ata eva ucitena idantāparāmarśena
+parāmṛśyānāṃ bodha eva prakāśātmā sāraṃ vastu, prakāśaś ca ananyonmukhāhaṃ
+vimarśamayaḥ (Abhinavagupta 1985a: 3:274). Here again Abhinava indulges in a
+play on words where parāmarśa means both touching the “other” and touching
+the highest. And again he playfully contrasts this with the word “vimarśa” the
+supreme power of active awareness, the “touching” of the Lord.
+38 Abhinavagupta derives this dual-aspect monism from Utpaladeva’s writings;
+clearly present in Utpaladeva’s work, it is less clear in Somānanda’s writings.
+39 Abhyantaracinmātrāpekṣayā antarbahirbhāvasya sadbhāvaḥ, māyīye tu sarge >bhy
+antareśvaravṛddhyādyapekṣayā bahuśākho >sau (Abhinavagupta 1985a: 3:262).
+40 See particularly Mark Van Atten’s helpful analysis of Brouwer’s “creating subject”
+in van Atten (2018). See also Niekus (2010). The mathematics involved in both
+of these articles is beyond my skill set, however, both of these authors, van Atten
+in particular, do a good job of situating these mathematical proofs within a
+contextual argument to make them accessible for broader philosophical interest.
+41 As van Atten (2018: 1594) points out here, quoting Troelstra, intutionist
+mathematics entails the “subjectivistic viewpoint of intuitionism.”
+
+9781350238503_txt_rev.indd 115
+
+28-06-2022 13:00:19
+
+116
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+42 As van Atten points out, Brouwer’s intuitionist mathematics recognizes the
+foundational priority of the subject. Van Atten tells us, “the Creating Subject
+cannot simply accept a proof from outside, and must go through the steps to
+reconstruct the evidence. In the end, then, its own ability to make A evident is
+what really matters,” in (van Atten 2018: 1595).
+43 Van Atten makes this point within a mathematical formulation, and it may be of
+interest for mathematically inclined readers to examine the mathematical proof
+he lays out in detail; for our purposes here, I focus on the philosophical idea
+of subjecitivy underlying the model. I reproduce here van Atten’s mathematical
+formulation, symbols intact, for interested readers, but the mathematical proof
+is beyond my ken: “Then it can be argued from the essential freedom of the
+Creating Subject, that ∀n°˛°˛∃k(a*n (k) = 1) (112) because the Creating Subject
+is free to work towards constructing its nth lawlike sequence, but that ∀n ∃k(a*n
+(k) = 1) (113) is not true, because the same freedom allows the Creating Subject,
+for given n, not to begin constructing its nth lawlike sequence by whatever stage
+k the lawlike sequence a*n indicates,” in (van Atten 2018: 1609). Also van Atten
+reiterates the importance of freedom, the free choices of the “Creating Subject”
+saying, “Troelstra is clear that Creating Subject sequences (‘empirical sequences’)
+do depend on free choices of the Creating Subject, and that they are not lawlike in
+a sense that would include their being independent of the Creating Subject’s free
+choices,” again in (van Atten 2018: 1609).
+44 This brings in again the idea of time, as a separate argument from what we saw
+in Gisin’s argument for including time in a mathematical schema. As van Atten
+points out, we find this in Brouwer: “To see why the time parameter in this sense
+is mathematically relevant for the Creating Subject, recall Brouwer’s statement
+in his dissertation that mathematics is first of all an act.” I am reminded here of
+Abhinavagupta’s statement that we saw earlier, linking “Doership” to the reality
+of the world. That is, the world is real because it is linked to the willful actions
+of a subject. In this case Abhinavagupta shares with Brouwer a recognition of the
+fundamental importance of instantiated, material activity as an element of a firstperson perspective.
+45 Van Atten addresses this element of reading Brouwer’s Creating Subject as a
+singular subject, as well, and quotes Brouwer to argue, in effect, against this
+reading, suggesting rather that the Creating Subject be understood schematically,
+with a possible instantiation in a variety of subjects, in (van Atten 2018: 1595).
+In both cases, I think what is key is the shift in the model from a third-person
+perspective to subjectivity as the grounding perspective.
+
+REFERENCES
+Abhinavagupta (1985a), Īśvara Pratyabhijñā Vivṛti Vimarśinī, ed. Paṇḍit Madhusudan
+Kaul Śāstrī, vol. 3, 3 vols., Delhi: Akay Reprints.
+Abhinavagupta (1985b), Īśvara Pratyabhijñā Vivṛti Vimarśinī, ed.
+Paṇḍit Madhusudan Kaul Śāstrī, reprint. Vol. 1., 3 vols., Delhi:
+Akay Reprints. Available online: https://archive.org/details/
+IshvaraPratyabhijnaVivritiVimarshiniAbhinavaguptaPart1KashmirSanskrit/
+mode/2up.
+
+9781350238503_txt_rev.indd 116
+
+28-06-2022 13:00:19
+
+ABHINAVAGUPTA’S SVĀTANTRYAVĀDA
+
+117
+
+Abhinavagupta and Utpaladeva (1986), Isvarapratyabhijnavimarsini, Adhikaras 1–4.
+Based on the following edition: Īśvara-pratyabhijñā-Vimarśinī of Abhinavagupta
+: doctrine of divine recognition, Sanskrit Text with the commentary Bhāskarī, ed.
+K. C. Pandey and K. A. Subramania-Iyer, Delhi: Motilal Banarsidass, digital on
+Goettingen Register of Electronic Texts in Indian Languages. Available online:
+http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhiprvu.
+htm.
+Atten, Mark van (2018), “Creating Subject, the Brouwer-Kripke Schema, and
+Infinite Proofs,” Indagationes Mathematicae, 29 (Virtual Special Issue-L.E.J.
+Brouwer after 50 years): 1565–636. Available online: https://doi.org/10.1016/j.
+indag.2018.06.005.
+Bansat-Boudon, L. (2014), “On Śaiva Terminology: Some Key Issues of
+Understanding,” Journal of Indian Philosophy, 42 (1): 39–97.
+Barad, K. (2007), Meeting the Universe Halfway: Quantum Physics and the
+Entanglement of Matter and Meaning, Durham, NC: Duke University Press.
+Biernacki, L. (2015), “The Conscious Body: Thinking about the Relation between
+Mind and Body with Abhinavagupta’s Tantra,” in E. Kelly, A. Crabtree and
+P. Marshall (eds), Beyond Physicalism: Toward Reconciliation of Science and
+Spirituality, 349–86, Lanham, MD: Rowman and Littlefield.
+Biernacki, L. (2016), “Connecting Consciousness to Physical Causality:
+Abhinavagupta’s Phenomenology of Subjectivity and Tononi’s Integrated
+Information Theory,” Religions, 7: 1–11.
+Biernacki, L. (2022, forthcoming), Matter of Wonder: Abhinavagupta’s Panentheism
+and New Materialism, New York: Oxford University Press.
+Brouwer, L. E. J. (1981), Brouwer’s Cambridge Lectures on Intuitionism, ed. D. van
+Dalen, Cambridge: Cambridge University Press.
+Bruntrup, G. and L. Jaskolla, eds (2016), Panpsychism: Contemporary Perspectives,
+New York: Oxford University Press.
+Canales, J. (2015), Physicist and the Philosopher: Einstein, Bergson, and the Debate
+That Changed Our Understanding of Time, Princeton, NJ: Princeton University
+Press.
+Chalmers, D. (1996), The Conscious Mind: In Search of a Fundamental Theory,
+New York: Oxford University Press.
+Coleman, S. (2014), “The Real Combination Problem: Panpsychism, Micro-Subjects,
+and Emergence,” Erkenntnis, 79: 19–44. Available online: https://doi.org/10.1007/
+s10670-013-9431-x.
+Dennett, D. (1991), Consciousness Explained, New York: Little, Brown and Co.
+Dreyfus, G. (2013), “Self and Subjectivity: A Middle Way Approach,” in M. Siderits,
+E. Thompson and D. Zahavi (eds), Self, No Self? Perspectives from Analytic,
+Phenomenological and Indian Traditions, 114–56, New York: Oxford University
+Press.
+Gisin, N. (2016), “Time Really Passes, Science Can’t Deny That,” in R. Rennar
+and S. Stupar (eds), In Time in Physics, 1–15, Cham, Switzerland: Birkhauser –
+Springer, arXiv:1602.01497v1. https://arxiv.org/pdf/1602.01497.pdf.
+Gisin, N. (2019), “Indeterminism in Physics, Classical Chaos and Bohmian Mechanics:
+Are Real Numbers Really Real?,” Erkenntnis, October 1–13. Available online:
+https://doi.org/10.1007/s10670-019-001658.
+Gisin, N. (2020), “Mathematical Languages Shape Our Understanding of Time in
+Physics,” Nature Physics, 16 (2): 114–16. Available online: https://doi.org/10.1038/
+s41567-019-0748-5.
+
+9781350238503_txt_rev.indd 117
+
+28-06-2022 13:00:19
+
+118
+
+CROSS-CULTURAL APPROACHES TO CONSCIOUSNESS
+
+Goff, P. (2017), Consciousness and Fundamental Reality, New York: Oxford
+University Press.
+Goff, P. (2019), “Cosmopsychism, Micropsychism, and the Grounding Relation,” in
+William Seager (ed.), The Routledge Handbook of Panpsychism, 144–56, Leiden:
+Routledge.
+Iemhoff, R. (2020), “Intuitionism in the Philosophy of Mathematics,” in E. N. Zalta
+(ed.), Stanford Encyclopedia of Philosophy. Available online: https://plato.stanford.
+edu/archives/fall2020/entries/intuitionism/.
+Nemec, J. (2014), “Evidence for Somānanda’s Pantheism,” Journal of Indian
+Philosophy, 42: 99–114.
+Niekus, J. (2010), “Brouwer’s Incomplete Objects,” History and
+Philosophy of Logic, 31 (February): 31–46. Available online: https://doi.
+org/10.1080/01445340903445071.
+Oizumi, M., L. Albantakis and G. Tononi (2014), “From the Phenomenology
+to the Mechanisms of Consciousness: Integrated InformationTheory 3.0,”
+PLOS: Computational Biology, May. Available online: http://journals.plos.org/
+ploscompbiol/article?id=10.1371/journal.pcbi.1003588.
+Pandey, K. C. (1963), Abhinavagupta: An Historical and Philosophical Study, 2nd
+enlarged edn., Varanasi: Chowkhamba Sanskrit Series.
+Prueitt, C. (2017), “Shifting Concepts: The Realignment of Dharmakīrti on Concepts
+and the Error of Subject/Object Duality in Pratyabhijñā Śaiva Thought,” Journal
+of Indian Philosophy, 45: 21–47. Available online: https://doi.org/DOI10.1007/
+s10781-016-9297-8.
+Ratie, I. (2011), “Can One Prove That Something Exists beyond Consciousness?
+A Śaiva Criticism of the Sautrāntika Inference of External Objects,” Journal of
+Indian Philosophy, 39: 479–501.
+Ratie, I. (2014), “Śaiva Interpretation of the Satkāryavāda: The Sāṃkhya Notion of
+Abhivyakti and Its Transformation in the Pratyabhijñā Treatise,” Journal of Indian
+Philosophy, 42 (March): 127–72.
+Searle, J. R. (2006), “Minding the Brain,” Gale Literature: Book Review, New York
+Review of Books, 53 (17), November 2, 2006. Available online: https://www.
+nybooks.com/articles/2006/11/02/minding-the-brain/.
+Shani, I. (2015), “Cosmopsychism: A Holistic Approach to the Metaphysics of
+Experience,” Philosophical Papers, 44 (3): 389–437.
+Shani, I. and J. Keppler (2018), “Beyond Combination: How Cosmic Consciousness
+Grounds Ordinary Experience,” Journal of the American Philosophical Association,
+4 (3): 390–410.
+Somadeva (1915), Kathāsaritsāgara, Gottigen, Germany: Nirnaya-Sagar Press in
+GRETIL. Available online: http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/5_
+poetry/4_narr/sokss_pu.htm.
+Strawson, G. (2006), “Realistic Monism: Why Physicalism Entails Panpsychism,” in
+A. Freedman (ed.), Consciousness and Its Place in Nature: Does Physicalism Entail
+Panpsychism? 3–31, Exeter: Imprint Academic.
+Strawson, G. (2017), Subject of Experience, New York: Oxford University Press.
+Tononi, G. (2012), Phi: A Voyage from the Brain to the Soul, New York: Pantheon.
+Tononi, G. (n.d.), “Why Scott Should Stare at a Blank Wall and Reconsider (or, the
+Conscious Grid),” Shtetl-Optimized: The Blog of Scott Aaronson (blog). Available
+online: http://www.scottaaronson.com/blog/?p=1823 (accessed April 13, 2016).
+
+9781350238503_txt_rev.indd 118
+
+28-06-2022 13:00:19
+
+

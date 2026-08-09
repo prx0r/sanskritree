@@ -1,0 +1,14 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: kāryatā kṣayiṇī tatra kartṛtvaṃ punarakṣayam
+
+LEXICAL EVIDENCE:
+  kAryatA: causality
+  kzayin: [unrecognized: kzayin]
+  ta: [unrecognized: ta]
+  kartftva: agency
+  punar: [unrecognized: punar]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

@@ -1,0 +1,13 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: nivartate nijān naiva svabhāvādupalabdhṛtaḥ
+
+LEXICAL EVIDENCE:
+  ni-vft1: [unrecognized: ni-vft1]
+  nija: own
+  nf: [unrecognized: nf]
+  i: to go
+
+FRAME: Instruction
+
+Translate the verse using the provided evidence. Do not add unsupported content.

@@ -1,0 +1,12 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: nityaṃ sphuṭataraṃ madhye sthito'vaśyaṃ prakāśayet
+
+LEXICAL EVIDENCE:
+  sPuwa: [unrecognized: sPuwa]
+  maDya: [unrecognized: maDya]
+  sTita: [unrecognized: sTita]
+
+FRAME: Instruction
+
+Translate the verse using the provided evidence. Do not add unsupported content.

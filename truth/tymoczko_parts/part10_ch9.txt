@@ -1,0 +1,1285 @@
+chapter 9
+
+Scales in Twentieth-Century Music
+While nineteenth-century chordal procedures can be stunningly sophisticated, the
+exploration of modality and nondiatonic scales tends to be relatively cautious by
+comparison. As a result, the music often has an asymmetrical quality, combining
+intensive investigation in one domain with a seeming indifference toward another.
+Indeed, this asymmetry between chord and scale may help to explain why latenineteenth-century composers start to ﬂirt with atonality: for as we have just seen,
+omnipresent chromatic voice leading can start to weaken the sense of centricity and
+macroharmony, dissolving tonality in the universal solvent of semitonal motion.
+Insofar as one’s musical world is circumscribed by the opposition between chromatic
+counterpoint and functional harmony, and insofar as one resolves to avoid functional
+harmony altogether, then one will inevitably be driven out onto the seas of relentless
+chromaticism.
+In this chapter I consider three techniques that twentieth-century composers
+used to counteract chromaticism’s pull. The ﬁrst, chord-ﬁrst composition, exploits
+efﬁcient chordal voice leading to generate a sequence of otherwise unrelated scales;
+it thus augments nineteenth-century chordal procedures with additional scales that
+piggyback on the chordal level. The second technique, scale-ﬁrst composition, uses
+efﬁcient voice leading to connect scales rather than chords; the technique thus generalizes traditional modulation by extending nineteenth-century chordal practices
+to a new scalar domain. Finally, there is the subset technique, which links scales by
+way of common chords or common chord types. As we will see, this last technique is
+intermediate between the ﬁrst two: when the shared subsets are small and chordlike,
+it can be understood as a species of chord-ﬁrst composition; when they are large, it is
+closer to scale-ﬁrst composition.
+My ultimate goal here is to propose an alternative to historical narratives that
+center on atonality and the avant garde. Reading these accounts, one sometimes
+gets the sense that twentieth-century tonality is fundamentally static and backward-looking, as if the language had remained unchanged since the time of Brahms
+and Wagner. My own view, by contrast, is that the nineteenth century bequeathed
+a genuine and pressing problem to subsequent composers, namely synthesizing its
+contrapuntal innovations with the ﬁve components discussed in Chapter 1. As we
+will see, a large number of twentieth-century musicians solved this problem in an
+essentially similar way, using scales to ameliorate the destabilizing effects of chromatic motion. To my ear, the result is a tonality that is renewed, refreshed, and
+
+308
+
+history and analysis
+
+clearly distinct from that of earlier centuries: listening to Debussy or Miles Davis or
+Steve Reich, one recognizes a genuinely novel approach in which scales play a new
+and fundamental role.
+
+9.1
+
+Figure 9.1.1
+Scale-ﬁrst and
+chord-ﬁrst
+composition.
+
+three scalar techniques
+
+Central to all three techniques is what jazz theorists call the principle of chord-scale
+compatibility, illustrated in Figure 9.1.1. Here, chords are understood as subsets of
+familiar ﬁve-to-eight-note scales. (Jazz theorists would say that the chord and scale
+are “compatible.”) Given this two-tiered structure, it is possible for one element to
+take the lead, determining the changes that occur on the other level. This relationship
+might be compared to that between harmony and counterpoint: although both elements are important, passages can
+be more harmonic or more contrascale first
+scale
+scale
+puntal, depending on which property seems to be controlling the
+music at a particular time. In much
+chord first
+the same way, chord and scale can
+chord
+chord
+at different points seize control over
+the music’s fundamental logic.
+A key component of this
+approach is that scales are understood to be more than mere byproducts—that is,
+they are recognizable objects in themselves, with their own syntactical role to play.
+The top staff of Figure 9.1.2 provides an example in which scales might be described
+as derivative: the second chord, with Af and Fs, is accompanied by the unusual
+scale C-D-E-Fs-G-Af-B; the third chord, with Ds, is accompanied by the equally
+unusual C-Ds-E-F-G-A-B. In this passage, the scales are parasitic on the chords,
+being determined by the chordal accidentals; no attempt is made to produce a scale
+that divides the octave evenly, or contains a large number of consonances, or possesses any of the other virtues discussed in Chapters 4 and 5. By contrast, the second staff accompanies the same chords with collections that possess desirable scalar
+qualities. The presence of these “virtuous” scales suggests a compositional mind that
+is attuned to both the chordal and scalar levels—a musical “twofoldness” that is our
+current concern.
+Turning now to the techniques themselves, in chord-ﬁrst composition, the chordal
+level predominates: thus, an efﬁcient voice leading like (E, Gs, B, D)®(F, Af, Bf, D)
+might give rise to an E acoustic scale (containing E7) followed by a Bf mixolydian
+scale (containing Bf7). The second of Scriabin’s Op. 48 Preludes, composed in 1905,
+provides a particularly clear example (Figure 9.1.3). The three upper voices contain a
+standard nineteenth-century progression in which semitonal voice leading connects
+D minor, Bf minor, and an incomplete C major seventh, C-E-B; however, Scriabin
+departs from post-Wagnerian practice by assigning a different scale to each chord.
+Chords seem to be leading the scales in the following sense: we can easily imagine
+
+Scales in Twentieth-Century Music
+Figure 9.1.2 The unfamiliar scales in the top staff simply apply the chords’ accidentals to the
+underlying C diatonic collection, and do not suggest particular attentiveness toward scales as
+such; by contrast, those on the second staff are quite familiar, and exhibit many of the virtues
+discussed in Chapter 4.
+
+Figure 9.1.3 Scriabin’s
+prelude, Op. 48 No. 2,
+in which efﬁcient voice
+leading in the upper staff
+gives rise to a series of
+scales.
+
+composing the efﬁcient chordal voice leadings prior to the scales, but it is much more
+difﬁcult to imagine starting with the F, Df, and G diatonic scales, composing the
+chords only later.1
+By contrast, in scale-ﬁrst composition, music progresses by way of efﬁcient voice
+leading between scales themselves. The opening of Ravel’s Ondine, shown in Figure
+9.1.4, begins with a shimmering wash featuring the Cs mode of B acoustic, Cs-DsEs-Fs-Gs-A-B (“Cs mixolydian f6”).2 A series of single-semitone changes creates,
+successively, Cs harmonic major, Cs diatonic, and Gs acoustic. (Note that many
+of these collections are incomplete.) Unlike Scriabin’s piece, one gets the sense of a
+distinctively scalar logic, as if Ravel deliberately moved between closely related scales
+by changing one or two notes at a time. Figure 9.1.5 uses our familiar scale lattice to
+
+1 Note that I am considering the notes As, Cs, and Ef to be nonharmonic.
+2 See also Tymoczko 1997.
+
+309
+
+310
+
+history and analysis
+Figure 9.1.4 The opening of Ravel’s “Ondine,” from Gaspard de la nuit, suggests a series of
+single-semitone voice leadings among familiar scales.
+
+Scales in Twentieth-Century Music
+Figure 9.1.5 Ravel’s
+scales plotted on the
+scale lattice.
+
+show that Ravel systematically explores a small region of the space, moving between
+nearby collections. This is just the efﬁcient chromatic voice leading of Chapter 8,
+applied now to scales rather than chords.
+Finally, the subset technique juxtaposes scales sharing some contextually salient set
+of notes. For example, Debussy’s “Collines d’Anacapri” presents the opening pentatonic theme B-Fs-Cs-E-Gs-B in three distinct scalar contexts: B diatonic, E diatonic,
+and E acoustic (Figure 9.1.6).3 One could say that the music has ﬁve “ﬁxed” scale
+degrees (B, Cs, E, Fs, Gs) and two “mobile” degrees (D/Ds and A/As). This technique
+can sometimes be hard to distinguish from the scale-ﬁrst technique: for example,
+since all three scales in Figure 9.1.6 can be linked by efﬁcient voice leading, one could
+in principle say that the music exempliﬁes scale-ﬁrst composition. But it is important
+here that the “ﬁxed” collection comprises the main theme of the piece. In describing
+this music as an example of the subset technique, I am therefore making the claim
+that the subset relationship is more important than voice leading: common tones,
+more than counterpoint, determine the modulations in the prelude.
+Clearly, the subset technique is intermediate between the other two approaches.
+When the subsets are small, we can think of the technique as a special case of chordﬁrst composition: where chord-ﬁrst composition features efﬁcient voice leading,
+such as (C, E, G)®(B, E, Gs), the subset technique uses “trivial” voice leadings, such
+as (C, E, G)®(C, E, G), in which all the voices are left unchanged. However, when
+the subsets in question are large (as in “Collines d’Anacapri”) the subset technique
+more closely resembles scale-ﬁrst composition. (This is simply because two scales
+that share a large number of notes can typically be linked by efﬁcient voice leading.)
+Musical context is important here: when composers emphasize the ﬁxed subset—for
+
+3 See Tymoczko 2004 and Kopp 1997 for more thorough analyses.
+
+311
+
+312
+
+history and analysis
+Figure 9.1.6 In Debussy’s “Les collines d’Anacapri,” the pentatonic theme B-Fs-Cs-E-Gs-B
+acts as a ﬁxed subset, and appears in the context of several different scales: B diatonic (a), E
+diatonic (b), and E acoustic (c).
+
+instance by using it in important themes or melodies—then we may want to highlight
+shared subsets rather than voice leading; in other situations, however, it may be that
+the voice-leading relationships are paramount. Thus the distinction between the subset technique and the others is one of emphasis rather than fundamental technique.
+Of course, the three techniques all have their antecedents in earlier music. In the
+nineteenth century, the chord-ﬁrst technique sometimes occurs across modulations:
+for example, Figure 9.1.7 presents the modulation from exposition to development
+in the ﬁrst movement of Schubert’s Bf-major sonata, D. 960; the semitonal voice
+leading between F major and Cs minor chords drags the rest of the music along for
+the ride, leading to a dramatic shift in scale and key. Chapter 7 argued that the scaleﬁrst technique is used in ordinary modulations between closely related keys. (That
+is, the distance between keys is largely a function of the size of the voice leadings
+between the relevant scales.) Figure 9.1.8 provides a rare nineteenth-century example
+that employs nonstandard modes: here, the Cs phrygian theme of Chopin’s Mazurka,
+Op. 41 No. 1, returns as the ﬁfth mode of Fs harmonic minor. Finally, Figure 9.1.9
+presents an example of the subset technique, from Chopin’s Gf major Etude, Op. 10
+No. 5. In this piece, the right hand plays only black keys, which act as a ﬁxed subset
+contained in both the tonic dominant scales. (Again, the two scales are also related
+by efﬁcient voice leading; the point is that Chopin emphasizes the ﬁxed subset compositionally.) These examples suggest that what is new in twentieth-century music is
+
+Scales in Twentieth-Century Music
+
+313
+
+Figure 9.1.7 Chord-ﬁrst modulation in the transition from exposition to development of
+Schubert’s Bf major Sonata, D. 960, movement I.
+
+Figure 9.1.8 The scaleﬁrst technique in Chopin’s
+Cs minor Mazurka, Op.
+41 No. 1. The theme,
+originally in Cs phrygian
+(a), returns in the Cs
+mode of Fs harmonic
+minor (b).
+
+Figure 9.1.9 The
+subset technique
+in Chopin’s Gf
+major (“black
+key”) Etude,
+Op. 10 No. 5.
+Throughout the
+piece, the right
+hand plays only
+black keys, which
+serve as a ﬁxed
+subset common
+to the two
+primary scales in
+the piece.
+
+314
+
+history and analysis
+
+not the techniques themselves, but rather the willingness to apply them more consistently, more frequently, and to a much wider range of scales and modes.
+
+9.2
+
+chord-first composition
+
+We’ll begin with examples in which the musical logic resides in chords rather than
+scales: on their own, the scales need not have any particular signiﬁcance; instead, they
+are related by virtue of the chords they contain.
+
+9.2.1 Grieg’s “Drömmesyn” (“Vision”),
+Op. 62 No. 5 (1895)
+The opening of Grieg’s short piece, shown in Figure 9.2.1, is based on a progression
+that uses descending semitonal voice leading to connect familiar seventh chords, one
+that might easily appear in Chopin’s music. (In fact, it can be modeled on the fourdimensional lattice used in the previous chapter.) Unlike nineteenth-century composers, however, Grieg treats the chords as a skeleton to be ﬂeshed out by diatonic
+scales. On their own, these scales would seem arbitrary, without discernable logic or
+pattern. But when we consider the chords, their signiﬁcance is clear: the chords are
+connected by semitonal voice leading, while the scales just happen to contain them.
+A traditionalist might hear Grieg’s piece as moving successively through the keys
+of A, Df, Gf, and C major. But to my ear, the seventh chords are stable objects in
+themselves rather than unstable objects that need to resolve. This is, in part, because
+of the piece’s static harmony and avoidance of V7–I resolutions. But it is also a function of the subtle and shifting relationship between melody, chord, and scale: in the
+ﬁrst and third phrases, the melody starts on the added sixth of the underlying harmony, while in the second and fourth phrases, the melody starts on the chordal seventh. Furthermore, the chords themselves move relative to the purported tonic: the
+bass of the ﬁrst chord is the ﬁrst scale degree of A major, the bass of the second chord
+is the ﬁfth degree of Df major, and the bass of the third chord is the second degree of
+Gf major. What results is an extremely subtle counterpoint between the scale, tonic,
+and melody, in which the three elements never once move in parallel (Figure 9.2.2).
+Given this complexity, my ear tends to gravitate toward the bass as the most stable
+Figure 9.2.1 Grieg’s Lyric Piece “Drömmesyn”
+(Vision), Op. 62 No. 5. The piece is built
+around a series of efﬁcient voice leadings
+between four-note chords (a), which give rise to
+diatonic scales (b).
+
+Scales in Twentieth-Century Music
+Figure 9.2.1 (Continued)
+
+Figure 9.2.2 Grieg’s piece articulates an abstract counterpoint between the melody’s starting
+note, the diatonic collection, and the root or bass.
+
+315
+
+316
+
+history and analysis
+
+note—which means that I conceive the melody as successively beginning on the sixth
+degree of A major, the seventh degree of Af mixolydian, the sixth degree of Af dorian,
+and the seventh degree of G mixolydian.
+
+9.2.2 Debussy’s “Fêtes” (1899)
+Figure 9.2.3 outlines the basic voice leading in the central section of “Fêtes,” the second of Debussy’s orchestral Nocturnes. The music is largely sequential, with its 16-bar
+model divided into two eight-bar halves. The harmonies in the ﬁrst half of the second
+16-bar unit (chords 9–12 on the example) are transposed up by minor third, while
+the rest of the phrase is transposed by tritone: instead of Bø7–G7–Bø7–Gs°7, we hear
+Dø7–Bf7–Dø7–B°7. The last 16 bars of the section repeat the harmonies of the ﬁrst 16
+bars, but now accompanied by the movement’s opening theme—a running scalar
+passage featuring Gf, Ef, and A diatonic (Figure 9.2.4). As in Grieg’s piece, the theme
+remains ﬁxed in register, beginning twice on Bf despite the change from Df7 to Bf7.
+Figure 9.2.3
+Voice leadings
+in the middle
+section of “Fêtes.”
+Each measure
+represents four
+bars of music.
+
+Figure 9.2.4
+In the third
+phrase of the
+middle section
+of “Fêtes,”
+the opening
+chords return,
+though now
+accompanied
+by scales
+articulating the
+movement’s
+main theme.
+
+Scales in Twentieth-Century Music
+
+Thus it begins successively on the third degree of Gf diatonic, the ﬁfth degree of Ef
+diatonic, and the third and seventh degrees of A diatonic.
+Figure 9.2.3 indicates the relevant interscalar transposition under each voice leading from half-diminished to dominant seventh. (Voice leadings from dominant seventh to half-diminished use a backwards arrow, labeling relative to the root of the
+half-diminished chord.) We see that the music exploits all of the different types of
+(crossing-free) voice leadings between the two types of chord, mapping the root of
+the half-diminished to the third, ﬁfth, seventh, and root of the dominant seventh.4
+The technique here is essentially that of Wagner’s Tristan, albeit now accompanied
+by a variety of diatonic modes. It follows that we can use our four-dimensional geometrical models to describe the passage: Figure 9.2.5 shows that Debussy’s chords lie
+on the adjacent vertices of two hypercubes, with the half-diminished sevenths appearing just above the b°7 chord, and the dominant sevenths just below.5 The voice leading
+connecting Fø7 to Df7 (as well as Gsø7 to E7, and Dø7 to Bf7) moves one note by two
+semitones, and passes directly through the diminished seventh chord to the chord on
+the other side.6 The remaining voice leadings, such as Fø7®Bf7 and Df7®Dø7, move
+two notes by semitone, and do not pass through the diminished seventh chord.
+The procedures in “Fêtes” can be found throughout Debussy’s compositions, and
+are particularly salient in the Prelude to “The Afternoon of a Faun” (Figure 9.2.6). This
+testiﬁes to a signiﬁcant degree of continuity between Wagnerian Romanticism and
+Debussian impressionism: we ﬁnd the same fascination with half-diminished and
+dominant seventh chords, and the same systematic use of the various voice leadings
+connecting them.7 The big difference, to my mind, lies in the two composers’ attitude
+toward scales. For Wagner, chromatic voice leading is just that—a chromatic technique that invariably brings the chromatic scale into play at the melodic level. For
+Debussy, these chromatic voice leadings occur at a much slower rate, and give rise to
+
+Figure 9.2.5 A geometrical depiction
+of Debussy’s chords.
+
+4 In the actual music, some of these voice leadings are slightly disguised.
+5 Compare with Figure 8.5.10 to see how this ﬁgure is contained in the more familiar structure.
+6 The fact that Debussy restricts himself to these chords strongly suggests that his harmonic choices
+were motivated by voice-leading facts, even though the relevant voice leadings are sometimes disguised.
+7 Cf. Holloway 1982 and Pople 2001.
+
+317
+
+318
+
+history and analysis
+Figure 9.2.6 Efﬁcient voice leadings between half-diminished and dominant seventh chords
+in Debussy’s Prelude to “The Afternoon of a Faun”: mm. 6–9 (a), 17–19 (b), and 44–46 (c).
+
+additional scales at the musical surface. By remaining in a single scale for a signiﬁcant
+length of time, Debussy endows his music with a simple, classicist quality that is in
+marked contrast to the relentless churning of Wagnerian chromaticism.
+
+9.2.3 Michael Nyman’s “The Mood That
+Passes Through You” (1993)
+For a more contemporary example, we turn to one of Michael Nyman’s cues for the
+movie The Piano. Nyman’s music is not so much a traditional “piece” as it is a vignette
+or musical moment, meant to fulﬁll a speciﬁc dramatic need. (Part of its interest, in
+fact, lies in its vernacular quality, demonstrating that chord-ﬁrst composition has
+become part of a broader common practice.) Figure 9.2.7 shows that the music has
+two basic sections, each based on a repeating chord progression. In the ﬁrst, we hear
+
+Scales in Twentieth-Century Music
+
+Bf minor, D major, and E major triads, each in root position, and each lasting for two
+measures. (Note that the right hand contains a concealed ostinato ﬁgure, indicated by
+the beamed noteheads.) In the second, we hear a sequence of four descending triads,
+ﬁrst gs6–e6–B@–A@, and then B–e6–B@–A@, with a root position B major triad substituting for the ﬁrst-inversion Gs minor. (This is of course the “third substitution” of
+§7.2.) The voice leading is mostly parallel and owes more to popular music than to
+classical. Nevertheless, it is easy to hear echoes of the nineteenth-century concern
+for efﬁcient voice leading, particularly in the repeated juxtapositions of major-thirdrelated triads. Figure 9.2.8 shows that the ostensibly parallel voice leading articulates
+semitonal connections in pitch space.
+As in the previous example, chords give rise to scales at the musical surface. In the
+ﬁrst part of the cue, the Bf minor triad is accompanied by Bf natural minor, while
+
+Figure 9.2.7 Michael Nyman’s “The Mood that Passes Through You,” from the soundtrack to
+the movie The Piano. The brackets indicate two instances of major-third juxtapositions: Bf
+minor–D major, and Gs minor–E minor.
+
+Figure 9.2.8 Nyman’s left-hand arpeggios articulate a semitonal voice leading between
+major-third-related triads.
+
+319
+
+320
+
+history and analysis
+
+the D and E major triads are accompanied by A diatonic. In the second part, the Gs
+minor and B major triads are accompanied by B diatonic, E minor is accompanied
+by G acoustic, and A major is accompanied by D diatonic.8 (Of particular interest
+here is the appearance of G acoustic, one of the most important nondiatonic collections in twentieth-century tonal music and a favorite of Debussy’s.) Once again,
+the scalar logic seems secondary: it is chords rather than scales that are determining
+the music’s progress.9 Comparable passages can be found throughout postminimalist music, in the works of composers such as Glass, Reich, Adams, Torke, and Lansky
+(Figure 9.2.9).
+Note that the major-third system appears in twentieth-century styles as
+diverse as Russian modernism, American minimalism, and film music. (In particular, it plays a role in both Figures 9.2.7 and 9.2.9.) The progressions in our
+examples—and in recent music more generally—are distinctive insofar as they
+replace the major triads typical of Schubert’s music with minor triads that produce a more ominous and brooding sound, an effect that is often highlighted by
+driving or asymmetrical rhythms. Figure 9.2.10, from Prokofiev’s Overture on
+Hebrew Themes, exemplifies these qualities, juxtaposing Af minor, E major and
+C minor triads over pulsating eighth notes.10 Figure 9.2.11 shows some related
+
+Figure 9.2.9
+Chord-ﬁrst
+voice leading in
+Adams’ Nixon
+in China, Act
+I, Scene I, mm.
+141–148.
+
+8 Most of the scales are incomplete—unsurprisingly, given the length of the excerpt.
+9 However, it is true that G acoustic shares six notes with D diatonic, which in turn shares six notes
+with A diatonic.
+10 Thanks to Daniel Zimmerman for pointing me to this piece.
+
+Scales in Twentieth-Century Music
+
+321
+Figure 9.2.10
+Major-thirdrelated triads
+in Prokoﬁev’s
+Overture on
+Hebrew Themes,
+R42.
+
+Figure 9.2.11
+The major-third
+system in (a)
+the G minor
+prelude from
+Shostakovich’s
+Twenty-four
+Preludes and
+Fugues, (b)
+Philip Glass’
+Einstein on the
+Beach, and (c)
+the opening
+credits of the
+2004 television
+series Battlestar
+Galactica.
+
+322
+
+history and analysis
+
+passages from Shostakovich, Philip Glass, and television music, which combine
+a Schubertian (or Wagnerian) harmonic sense with a rhythmic impulse whose
+roots lie in Stravinsky and popular music.11 Taken together, they suggest a genealogy by which the major-third system passes from Schubert’s Vienna to contemporary America by way of Russian modernist composers like Prokofiev and
+Shostakovich, acquiring in the process a darker, more ominous quality.
+
+9.3
+
+scale-first composition
+
+Next, we’ll consider passages that extend nineteenth-century chordal techniques to
+scales themselves, generalizing traditional modulation to a broader range of scales
+and modes.
+
+9.3.1 Debussy’s “Des Pas Sur La Neige”
+(1910)
+Figure 9.3.1 contains the score to Debussy’s “Des pas sur la neige” (“Footprints in the
+Snow”). As shown in Figure 9.3.2, Debussy’s piece explores a collection of ﬁve closely
+related scales, all containing the ostinato D-E-F.12 These can be considered a kind of
+“tonic region,” since each provides a different coloring of a basically D minor tonality.
+In addition, the piece also contains three other scales forming a contrasting harmonic
+region—Af mixolydian, Af dorian, and C whole tone. The ﬁrst two are again related
+by single-semitone voice leading, and emphasize Af, the note a tritone away from the
+tonic D. None of these is particularly close to the ﬁrst network, and the two regions
+are audibly quite distinct.
+The ﬁrst transition between these regions is worth examining more closely.
+In mm. 8–9, C7 alternates with Cs7, while in m. 11, G7 alternates with Gfmaj7 (Figure 9.3.3). This semitonal shifting leads us into the foreign scale area: the C7 of mm.
+8–9 belongs to the F diatonic of mm. 1–3, while the Cs7 and Gfmaj7 belong to the
+Gf diatonic of mm. 29–31. The next harmonic move, from Df diatonic to C whole
+tone, occurs by way of the shared subset Gf-Af-Bf-C, emphasized by the left hand in
+mm. 13–14. The subsequent whole-tone passage represents the piece’s greatest point
+of distance from the opening diatonicism. The transition back to D natural minor
+illustrates one of Debussy’s characteristic modulatory devices, the use of an acoustic
+scale as an intermediary between whole-tone and diatonic collections. As shown in
+Figure 9.3.3b, Bf acoustic shares ﬁve of the whole-tone scale’s six notes, while also
+
+11 The overtly Romantic harmony in Figure 9.2.11c is unusual in Stravinsky’s own music.
+12 For this reason, one could also consider Debussy’s piece as an example of the subset technique
+described in §9.4. (This is essentially the approach taken in Tymoczko 1997.) However, successive scales
+are typically linked by small voice leadings, suggesting that both techniques are in play.
+
+Scales in Twentieth-Century Music
+
+323
+Figure 9.3.1
+(1 of 2)
+Debussy’s “Des
+pas sur la neige.”
+
+sharing six of the diatonic scale’s seven notes—a hybrid of whole tone and diatonic
+that smoothes the transition between them.13
+Figure 9.3.4 summarizes the relations among the prelude’s scales. On the left is the
+tonic region, containing C and F diatonic, A and D harmonic minor, and Bf acoustic.
+On the right we have the contrasting key area of Df and Gf diatonic, with C whole
+13 See Whitall 1975.
+
+324
+
+history and analysis
+
+Figure 9.3.1
+(2 of 2)
+Debussy’s “Des
+pas sur la neige.”
+
+tone connected to both regions. The music initially moves to the secondary region by
+way of upward semitonal transposition, returning to the tonic area via the C wholetone scale. A substantial number of Debussy pieces are constructed around similar
+networks of scales, including “Le vent dans la plaine,” “Les collines d’Anacapri,” “La
+ﬁlle aux cheveaux de lin,” L’isle joyeuse, “Les sons et les parfums tournent dans l’air
+du soir,” and “Voiles.” Indeed, Debussy’s use of these techniques is so pervasive and
+systematic that one could easily write an entire book about the subject.14
+
+14 For more, see Tymoczko 2004.
+
+Scales in Twentieth-Century Music
+Figure 9.3.2 The tonic region in “Des pas sur la neige” contains ﬁve scales that are near each
+other on the scale lattice.
+
+Figure 9.3.3 (a) The transition between the tonic (D-centered) scalar region and the
+secondary (black-note) scalar region occurs by way of semitonal shift upward. (b) The
+transition back occurs by way of the C whole-tone and Bf acoustic scales.
+
+325
+
+326
+
+history and analysis
+
+Figure 9.3.4
+The scales in
+“Des pas sur la
+neige.”
+
+9.3.2 Janáček’s “On an Overgrown Path,”
+Series II, No. 1 (1908)
+Janáček’s piece is similar in spirit to Debussy’s, though with a distinctive Eastern
+European ﬂavor. Figure 9.3.5 provides the score for the opening, while Figure 9.3.6
+summarizes its scalar content. The ﬁrst section uses a different scale for each phrase:
+beginning with Ef harmonic major, we hear Ef harmonic minor, the Af “Gypsy”
+scale (equivalent to Af harmonic minor with raised fourth scale degree), Ef major,
+and what is either a whole-tone scale on Ef or the “Gypsy major” scale Ef-F-G-ABf-Cf-D. The next section changes the texture somewhat, introducing a pedal note
+marked by triplet octaves. We hear a pair of diatonic collections (Cs dorian and Cs
+natural minor) that are somewhat distant from the opening scales. Phrase 8 uses
+interscalar transposition to shift phrase 7 into Ef harmonic major, creating a harmonic but not thematic recapitulation. Phrase 9 deepens the sense of recapitulation
+by repeating the melodic and harmonic content of phrase 2, though with the initial
+notes slightly altered (Ef-Gf-Ef rather than Ef-Af-F, reiterating the pattern established by phrase 1). Phrase 10 oscillates between Es and En, as if undecided between
+B Gypsy and B harmonic minor.
+Figure 9.3.6 arranges the piece’s eight scales into two networks, each connected by
+single-semitone displacements. The tonic network contains scales that are a semitone
+away from the initial Ef harmonic major, arranged in a hub-and-spoke design.15 The
+15 If we were to examine seven-dimensional chord space, we would see that these “spokes” were all at
+right angles to one another; since we cannot visualize seven dimensions, however, we need to ﬂatten the
+space so that it lies in two dimensions.
+
+Scales in Twentieth-Century Music
+Figure 9.3.5 The opening of Janáček’s “On an Overgrown Path,” Series II, No. 1.
+
+327
+
+328
+
+history and analysis
+
+Figure 9.3.6
+The scales in
+Janáček’s piece.
+
+nontonic network contains Cs dorian, Cs natural minor, B harmonic minor, and B
+Gypsy, arranged like railroad cars rather than the spokes of a wheel. The two networks are closer together than those in Debussy’s prelude, since Cs dorian could be
+connected to Ef harmonic minor by way of an Ef natural minor that does not appear
+in the piece. Janáček’s scales are also somewhat more exotic, largely because he begins
+with a harmonic major rather than diatonic collection; semitonal alteration thus generates a series of colorful scales that include Gypsy and Gypsy major.
+Although somewhat tangential to our current concerns, it is worth noting that the
+B section of Janáček’s piece recalls Chopin’s F minor Mazurka (Figure 9.3.7). Here we
+have a 10-measure phrase in which a series of ﬁrst-inversion triads descend in a “staggered” fashion. (Note also the clever use of double counterpoint: the first half of the
+melody begins on the ﬁfth of the underlying B minor triad, but the second half starts
+on the root of the Gs minor triad.) Figure 9.3.8 represents its chords using the cubic lat-
+
+Figure 9.3.7
+The middle
+section of
+Janáček’s “On
+an Overgrown
+Path,” Series II,
+No. 1.
+
+Scales in Twentieth-Century Music
+Figure 9.3.8 The middle section of Janáček’s piece, plotted on the portion of the cubic
+lattice that is near (but not at) the center of three-note chord space. Here, capital and small
+letters refer to major and minor triads, “b°” and “Bf+” are diminished and augmented triads,
+“Df4” refers to the fourth chord Df-Gf-B, and “Df7” refers to the incomplete seventh chord
+Df-F-Cf.
+
+tice that is near (but not exactly at) the center of three-note chord space.16 Like Chopin,
+Janáček traverses the lattice downward, by moving one, two, or three voices by step at
+each turn, producing a “liqueﬁed” version of a familiar descending step sequence.
+
+9.3.3 Shostakovich’s Fs Minor Prelude and
+Fugue, Op. 87 (1950)
+Traditional composers raised the notes of the natural minor to bring it closer to
+major. Shostakovich, however, was more likely to lower its notes, creating unfamiliar “hyperminor” tonalities with a distinctive sinister character.17 Figure 9.3.9
+
+16 The cubic lattice at the center of the space, shown in Figure 3.11.2a, contains augmented triads at
+the shared vertex and major and minor triads elsewhere; the lattices adjacent to the center have major or
+minor triads at the shared vertices, and contain a greater variety of chord types.
+17 For more on Shostakovich’s scales, see Carpenter 1995.
+
+329
+
+330
+
+history and analysis
+
+shows that Fs natural minor offers four opportunities for semitonal lowering: the second scale degree
+can be lowered to produce the phrygian mode;
+the fourth can be lowered to produce a chromatic
+mode I will call “natural minor f4”; the fifth can
+be lowered to produce the Fs mode of D acoustic;
+and the seventh can be lowered to produce another
+chromatic mode with half-steps Cs-D-Ef (“natural
+minor f7”). The remaining notes are not good candidates for alteration, since
+lowering A or D would produce note duplications, while lowering Fs would
+change the tonic.
+The four lowerings can be combined to produce 16 different seven-note scales,
+including Fs locrian (which lowers both Gs and Cs) and the Fs mode of G harmonic
+minor (which lowers all four notes). We can represent these 16 possible combinations
+with a familiar geometrical structure, the four-dimensional cube in Figure 9.3.10.
+
+Figure 9.3.9 Fs natural
+minor has four degrees that
+can be lowered by semitone,
+represented here by the
+closed noteheads.
+
+Figure 9.3.10 The four lowerings can be combined to produce sixteen scales, eight of which
+appear in Shostakovich’s Fs minor Prelude and Fugue. I have labeled only the scales relevant
+to Shostakovich’s piece.
+
+Scales in Twentieth-Century Music
+
+(This graph depicts a portion of seven-dimensional chord space, near but not at its
+center.) Eight of its sixteen scales appear either in the prelude or in the opening of
+the subsequent fugue, and Shostakovich does not employ any scales not found on the
+ﬁgure.18 In this sense, the “scale tesseract” represents the modulatory space through
+which Shostakovich moves.
+Figure 9.3.11 shows the tonic-key passages from the prelude and the opening of
+the fugue. The prelude begins with 18 measures of Fs aeolian, disrupted by brief
+
+Figure 9.3.11 Tonic-key passages in Shostakovich’s Fs minor Prelude and Fugue. These involve
+a progressive sequence of lowerings, leading ultimately to the harmonized fugue theme.
+
+18 One possible exception is the B major chord on the second page of the prelude, which might be
+thought to imply Fs dorian. However, the complete scale is not stated explicitly, and in any case it could
+easily be added to the graph as a point above Fs natural minor.
+
+331
+
+332
+
+history and analysis
+
+moments of chromaticism; the recapitulation lowers Gs to Gn, transforming Fs
+natural minor into Fs phrygian. The fugue subject suggests a “phrygian f7” scale
+Fs-G-A-B-Cs-D-Ef, which lowers the E of the preceding phrygian. (Note that while
+the subject itself does not contain a second scale degree, the note appears in both
+the countersubject and the subject’s continuation.) The harmonization of the fugue
+subject, meanwhile, moves from the Fs mode of G harmonic major to Fs phrygian.
+If we look only at these tonic-key passages, we see a sequence of semitonal descents,
+beginning at natural minor and concluding with a “hyperminor” that has lowered
+second, ﬁfth, and seventh degrees. We can represent this journey as a descending
+motion along the right edge of Figure 9.3.10, much as we represented Chopin’s E
+minor Prelude as a systematic series of descents along the four-dimensional chord
+lattice.19 (Needless to say, it is amazing that such similar geometries can represent
+both chords in Chopin and scales in Shostakovich!) Musically, this sequence of lowerings serves to prepare us for the unfamiliar tonality of the fugue: by moving gradually from a standard Fs natural minor to the hyperminor of the harmonized fugue
+subject, Shostakovich slowly acclimates us to his unusual scalar vocabulary, fulﬁlling
+the traditional function of a prelude in an unfamiliar manner.
+
+9.3.4 Reich’s New York Counterpoint (1985)
+Figure 9.3.12 lists the scales in Steve Reich’s New York Counterpoint for eleven
+clarinets, one live and ten prerecorded.20 The ﬁrst movement opens with pulsating chords implying Af and Ef diatonic. These eventually give way to rhythmic
+canons in Af diatonic, with the six voices divided into three pairs playing mostly
+parallel tenths. As shown in Figure 9.3.13, the top voice in each pair plays the notes
+(G, C, F), with the pitches Af, Bf, and Ef being ordered differently in each line;
+the result of this permutation is that the dotted quarter note occurs on a different
+pitch in each part. The movement then combines these canons with the original
+pulsating chords, leading to modulations that produce subtle alterations in the
+canonic pitches.21
+The second movement is exclusively in B diatonic and again combines canons
+with repeated chords (Figure 9.3.14). Two of the pairs now play exactly the same
+music, with the third presenting a very slight variant. The canonic structure is consequently much clearer, sounding almost as if it had been produced by a digital delay.
+The third movement begins with a Df acoustic scale that is related by single-semitone
+
+19 Shostakovich’s prelude suggests a variety of other scales as well: mm. 17–23 vacillate between Bn and
+Bf, suggesting Fs-Gs-A-Bf-Cs-D-Ef; mm. 29–30 suggest an explicit but ﬂeeting octatonic scale, which
+can be associated with the collection Fs-Gs-A-B-C-D-Ef on Figure 9.3.10; and the end of the prelude
+suggests the doubly lowered Fs-G-A-Bf-Cs-D-Ef. These scales, however, are often incomplete or accompanied by extraneous notes—a mild sort of polytonality typical of Shostakovich’s music.
+20 For simplicity, the following discussion will use the notated pitches, rather than the sounding pitches
+a major second below.
+21 The live clarinet also plays noncanonic “resultant melodies” that draw their pitches from the canonic
+parts; for simplicity, my discussion omits these.
+
+Scales in Twentieth-Century Music
+
+333
+
+voice leading to the opening Af diatonic.22 The six canonic voices are now divided
+into two groups, each playing mostly triads. At rehearsal 67, shown in Figure 9.3.15,
+the bass clarinets enter in canon with the notes Ef-A-Ef, producing the seven-note
+“whole tone plus one” scale Ef-F-G-Af-A-B-Df. (The rhythm of each bass clarinet
+part is the four-against-three cross-rhythm, for which the phrase “pass the goddamn
+butter” is a useful mnemonic.) The piece ends by oscillating between the “whole-tone
+plus one” and diatonic collections, closing with the pitches Gs, B, Cs, and Ds—the
+four notes common to the Df acoustic, E diatonic, and B diatonic scales.
+Figure 9.3.16 graphs the scales using a two-dimensional scale lattice: the opening
+Af diatonic is connected by single-semitone voice leading to both Ef diatonic and to
+Df acoustic, and Df acoustic is in turn connected by single-semitone voice leading
+to the “whole-tone plus one” scale. Similarly, the B diatonic of movement 2—three
+steps ﬂatward from Af diatonic—is connected by single-semitone voice leading to
+the E diatonic of movement 3. Note that the “whole-tone plus one” collection appears
+naturally on the graph, as a third layer of scales surrounding the central zigzag of
+ﬁfths: in particular, the “Df whole-tone + Af” scale is connected by single-semitone
+voice leading to both B acoustic and Df acoustic.23 Such graphs are characteristic of
+Reich’s later pieces: like many of his works, New York Counterpoint makes very heavy
+use of the diatonic collection, occasional use of the acoustic scale (as well as other
+familiar scales such as the harmonic minor), and more sporadic use of exotic scales
+such as the “whole-tone plus one.” Scales are often linked by efﬁcient voice leading
+and frequently demarcate compact regions in scale space. However, Reich’s modulations themselves give the sense of a relatively free journey through the space, rather
+than a systematic oscillation around a single tonic region.
+
+Figure 9.3.12
+Scales in Steve
+Reich’s New York
+Counterpoint.
+
+22 The acoustic scale’s Bf is never stated. My analysis is inﬂuenced by the fact that Reich frequently uses
+the scale in other pieces.
+23 This graph of diatonic, acoustic, and “whole-tone plus one” scales has analogues in some (but not
+all) of the situations in which there is a generalized circle of ﬁfths: for instance, it exists in the case of diatonic seventh chords, but not diatonic triads. Interested readers are invited to explore this.
+
+334
+
+history and analysis
+
+Figure 9.3.13
+Canons in the
+ﬁrst movement
+of New York
+Counterpoint
+(a). The canonic
+upper voices
+reorder the last
+three pitches, so
+that a different
+note is held in
+each part (b).
+
+Figure 9.3.14 Canons in the second movement of New York Counterpoint. The paired voices
+play almost exactly the same music, the one exception being starred at the end of the second
+measure of the second staff.
+
+Scales in Twentieth-Century Music
+
+335
+Figure 9.3.15
+Canons in the
+third movement
+of New York
+Counterpoint.
+
+Before moving on, I should mention the fascinating relationship between the
+harmonic and rhythmic structures in Reich’s music. Since New York Counterpoint is
+written in twelve-beat measures, its various rhythmic patterns are structurally analogous to familiar equal-tempered chords. For example, the opening measure of the
+third movement contains attacks on beats 0 (the downbeat), 2, 4, 5, 7, 9, and 11 (Figure 9.3.15). As pitch classes, these are the C diatonic scale.24 Figure 9.3.15 shows that
+the ﬁrst canon enters at a delay of two eighth notes, which means that there are ﬁve
+common attack points between the original rhythm and its canonic statement; this is
+the rhythmic analogue to the ﬁve common tones between C and D major. Thus, just
+as Reich frequently juxtaposes scales that share nearly all of their notes, so too do his
+rhythmic canons often maximize (or nearly maximize) their common attack points.
+It would be an interesting project to trace this parallelism more carefully, with an
+
+Figure 9.3.16 The scales in the
+third movement of New York
+Counterpoint, graphed on an
+extended version of the twodimensional scale lattice.
+
+24 For more on the pitch-class/rhythm isomorphism see Babbitt 1962, Pressing 1983, and Cohn 1992b.
+Note that, for simplicity, I am just talking about the rhythm in the ﬁrst measure of the two-measure pattern.
+
+336
+
+history and analysis
+
+eye toward understanding the relationship between these two musical domains. For
+instance, it is suggestive that the ﬁrst explicit appearance of the “diatonic rhythm” in
+New York Counterpoint occurs precisely at the introduction of the ﬁrst nondiatonic
+pitch collection.
+
+9.3.5 Reich’s The Desert Music, Movement 1
+(1984)
+The Desert Music, for orchestra and chorus, explores the ideas in New York Counterpoint on a much grander scale.25 As in New York Counterpoint, the ﬁrst movement
+opens with pulsating eighth-note chords, moves eventually to rhythmic canons, and
+concludes by synthesizing the two textures.26 The music begins with four repetitions
+of a ﬁve-chord sequence, stated in pulsating eighth notes, with the chorus singing the
+syllable “de.” Figure 9.3.17 shows that the vocalists’ chords contain ﬁve or six pitch
+classes and suggest a number of familiar scales: the ﬁrst belongs to Ef acoustic and F
+harmonic major; the second to Ef acoustic and Af diatonic; the third to Ef acoustic
+and Bf whole tone; the fourth to Cs harmonic major and B acoustic; and the ﬁfth to
+C and F diatonic. The instrumental parts add extra notes, creating a series of six- and
+seven-note sonorities (Figure 9.3.18). The ﬁrst, third, and fourth sound like altered
+dominants, by virtue of combining a major third and minor seventh; the second and
+ﬁnal chords sound like extended minor chords.
+The logic of this opening progression can be clariﬁed by imagining that it
+begins “in medias res,” with the true (and hidden) starting point being the ﬁnal D
+dorian. We then have a sequence of ﬁve scales that move efﬁciently and in a ﬂatward
+direction: D dorian, F harmonic major, Af diatonic, Ef acoustic, and a “strange” scale
+
+Figure 9.3.17 Reich’s The Desert
+Music opens with a sequence of ﬁve
+chords in the chorus, each suggesting a
+variety of scales.
+
+25 I am indebted here to Quinn (2002), who discusses scale-to-scale voice leadings in Reich’s music.
+Callender 1998 and Morris 1987 are also relevant.
+26 Interestingly, the middle movement of The Desert Music contains the same rhythmic pattern as the
+middle movement of New York Counterpoint, suggesting that the later piece consciously reuses ideas from
+The Desert Music.
+
+Scales in Twentieth-Century Music
+
+F-G-Af-Bff-C-Df-Ef.27 (Note the resemblance to Shostakovich’s prelude and fugue,
+which also moves ﬂatward through closely related scales.) Both the efﬁcient voice leading and the ﬂatward tendency are clear on Figure 9.3.19a, which represents the modulations on our three-dimensional scale lattice. (Since the strange scale does not appear
+on the lattice proper, I have added it to the bottom of the graph using dotted lines.) It
+is also clear why Reich begins with F harmonic major rather than D dorian: by reserving the most dramatic harmonic shift for the end of the phrase, he creates a striking
+Figure 9.3.18 (1 of 2) A reduction of Reich’s The Desert Music, movement 1.
+
+27 This strange scale can be understood as an Af diatonic collection with lowered second scale degree;
+it is somewhat reminiscent of the jazz “altered scale,” the fourth mode of the acoustic collection.
+
+337
+
+338
+
+history and analysis
+
+Figure 9.3.18
+(2 of 2) A
+reduction of
+Reich’s The
+Desert Music,
+movement 1.
+
+cadential “brightening”—as if the clouds had suddenly parted to reveal a glittering
+blue sky, illuminated by a ray of D-dorian sunshine.28
+The second half of the movement cycles through similar scales while introducing both freely composed choral parts and Reich’s trademark rhythmic canons. The
+canons start in F mixolydian, a scale not previously heard in the piece. The music
+then articulates a series of single-semitone voice leadings, from F mixolydian to Ef
+acoustic to Af diatonic and back to Ef acoustic. From there the modulations become
+more dramatic as we move to a mode of B acoustic by a four-semitone shift. (This
+mode, called “F altered” by jazz musicians, is connected to the “strange” scale by twosemitone voice leading; it can be understood as a “normalization” of this earlier scale,
+since both harmonize the ﬁve-note choral chord F-Af-A-Df-Ef.) In Figure 9.3.19b, I
+map this second part on the scale lattice. Once again it is clear that the music moves in
+a generally descending (ﬂatward) direction, frequently exploiting efﬁcient voice leading between nearby scales. Figure 9.3.19 clariﬁes at a glance the similarity between
+the modulations in the two parts of the piece—a relationship that would be rather
+tedious to describe verbally.
+
+28 It is interesting that for both Reich and Shostakovich, the dorian mode represents a comparatively
+bright tonality—as if their scalar palette had been shifted toward the darker end of the harmonic spectrum.
+
+Scales in Twentieth-Century Music
+Figure 9.3.19 Scales in The Desert Music, movement 1. (a) The progression of scales from
+R5–R9, and (b) the progression from R20–R44. The progression from R45–54 is the same as
+that in (b), but without Bf diatonic (F mixolydian).
+
+The ﬁfth and ﬁnal movement of The Desert Music returns to these ideas, cycling
+through the same basic scalar progression eight more times, and ending with the pulsing chords of the opening. The beginning of the movement is particularly interesting: in
+Figure 9.3.20, I show that it moves between four different modes, each suggesting an Ef
+dominant sonority—Ef acoustic, Ef mixolydian, Ef mixolydian f6, and Ef whole tone
+plus Af. It is signiﬁcant that the “whole-tone plus one” scale appears almost exactly as
+it did in New York Counterpoint: tritone motion in the bass transforms a mixolydian f6
+mode (missing its fourth scale degree) into a “whole-tone plus one” scale sharing six of
+its seven notes. In fact, Figure 9.3.21 traces the passage on the same graph we used to represent New York Counterpoint, showing that it explores very similar harmonic territory.
+Here we see clear evidence of a common practice linking one Reich piece to another, and
+more generally to a broader tradition of twentieth-century scalar thinking.
+
+9.3.6 The Who’s “I Can’t Explain” (1965) and
+Bob Seger’s “Turn the Page” (1973)
+Figure 9.3.22a shows the chords in the Who’s “I Can’t Explain.” The verse is constructed around a I–VII–IV progression in E mixolydian, while the chorus is a standard I–vi–IV–V progression in E major. The two parts of the song therefore involve
+
+339
+
+340
+
+history and analysis
+
+Figure 9.3.20
+A summary of
+the opening The
+Desert Music,
+movement 5.
+
+Figure 9.3.21 Scales in the opening The Desert Music, movement 5.
+
+a single-semitone change over a ﬁxed tonic, exactly analogous to the opening of
+Debussy’s “Des pas sur la neige.”29 Bob Seger’s “Turn the Page,” shown in Figure
+9.3.22b, is a kind of dorian-mode dual to The Who’s song. The verse contains virtually the same chord progression, i–VII–IV–i, though with a minor tonic rather than
+major. (Note that The Who’s mixolydian and Seger’s dorian modes are related by
+the single-semitone shift Gs®G.) At the end of the chorus, Seger switches brieﬂy to
+natural minor, employing a standard rock VI–VII–i progression.
+
+29 In Debussy’s prelude, the semitonal voice leading Bf®B connects D natural minor to D dorian; here
+the voice leading D®Ds connects E mixolydian to E major.
+
+Scales in Twentieth-Century Music
+Figure 9.3.22 Scales
+in The Who’s “I Can’t
+Explain” (a) and Bob
+Seger’s “Turn the
+Page” (b).
+
+Of course, these two songs have been arbitrarily selected from among thousands
+that use closely related modes. I cite them chieﬂy to make the point that the procedures we have been discussing have entered the musical vernacular: not only can
+they be found in works of self-conscious “art music,” but also in ﬁlm music, jazz, rock,
+and no doubt in other styles as well. At this point in musical history, it is totally unremarkable to ﬁnd musicians of virtually any stripe exploiting efﬁcient voice leadings
+between the full range of diatonic modes. Scale-ﬁrst composition, in other words, is
+simply an accepted part of our contemporary tonal language.
+
+9.4
+
+the subset technique
+
+We now turn to the subset technique, whereby a composer uses scales that all contain
+some prominent collection of notes. These notes are held ﬁxed and remain stable
+across scale changes, while the remaining notes are “mobile” and are altered to form
+a variety of different collections.30
+
+9.4.1 Grieg’s “Klokkeklang” (“Bell Ringing”),
+Op. 54 No. 6 (1891)
+Figure 9.4.1 presents the opening of the “Klokkeklang,” one of Grieg’s most unusual
+and inventive works.31 Discarding functional harmony in favor of open ﬁfths, the
+piece creates an austere soundworld that perfectly captures the effect of distant tintinnabulation. The ﬁrst phrase is in C diatonic, featuring a C-G/F-C drone in the
+left hand and a series of (mostly) descending parallel ﬁfths in the right. The phrase
+is comprised of four two-measure groups, each immediately echoed. The ﬁrst two
+“echoes” ﬁll in the bare ﬁfths of the right hand with an additional note, forming diatonic triads; in the third “echo” the right hand is transposed down by step, while the
+ostinato shifts downward by minor third, leading to a cadence on G.
+
+30 Clark (2002) discusses the subset technique in Schubert’s music, but applied to chords rather than
+scales.
+31 For another perspective, see Sutcliffe 1996.
+
+341
+
+342
+
+history and analysis
+Figure 9.4.1 The opening of Grieg’s Lyric Piece “Klokkeklang” (Bell Ringing), Op. 54 No. 6.
+
+In the second phrase, outlined by Figure 9.4.2, the ostinato shifts to G-D-A, and
+the ﬁfths ascend by diatonic third.32 The echoing process is now extended, with each
+two-measure idea appearing four times: as in the ﬁrst phrase, the ﬁrst echo ﬁlls in
+the bare ﬁfth with an additional note, but the second and third echoes repeat the
+preceding four measures with added sharps. (This sort of systematicity evokes the
+algorithmic practice of “change ringing,” which in turn anticipates the music of later
+composers such as Nancarrow, Reich, and Ligeti.) As shown in Figure 9.4.2, the right
+hand combines with the ostinato bass to form two different diatonic collections: the
+white-note C diatonic and the two-sharp D diatonic. We can think of the music as
+containing ﬁve “ﬁxed” pitches D-E-G-A-B and two “mobile” pitches F/Fs and C/Cs.
+The end of the phrase brings a surprise: when the white-note collection ascends
+by thirds to B5, completing the diatonic circle of thirds, its echo adds a Gs that creates an A diatonic collection. This Gs clashes with the Gn and A in the ostinato,
+creating a mild polytonal dissonance.33 (It is possible that Grieg meant this G/Gs
+clash to evoke the bells’ inharmonicity.) The climactic gesture concludes with a long
+passage in which the ﬁfths descend by diatonic thirds, from E5-B5 to G3–D4. Once
+again, there is a clash between different forms of a note in different registers: the top
+note of the gesture (Bn) suggests C diatonic, while the bottom note (Bf) suggests F
+diatonic. The next two measures present a pair of mysterious sonorities, G minor and
+F augmented. As shown in Figure 9.4.2, these combine with the ostinato to imply D
+harmonic minor, here missing only its En. The ﬁnal chord “normalizes” Cs to Cn,
+preparing for the recapitulation.
+Surveying the whole of Grieg’s piece, then, we can say that there are three “ﬁxed”
+notes (D, A, E) and four “mobile” notes that can appear either inﬂected or unin-
+
+32 Note that the tonal center shifts to D before the scale itself changes, a possibility discussed in §4.5.
+33 As in much polytonal music, the different scales are clearly distinguished by register: all the
+notes below E5 belong to D diatonic, while those above A2 belong to A diatonic. Furthermore, the
+wide registral separation between the Gs5 in the right hand and the clashing G3 in the left ameliorates the sense of dissonance, creating a sense of independent auditory streams, each with its own
+macroharmony.
+
+Scales in Twentieth-Century Music
+
+343
+Figure 9.4.2
+A reduction
+of the central
+section of
+“Klokkeklang.”
+
+ﬂected (Bf/B, F/Fs, C/Cs, and G/Gs). The play of inﬂections suggests a variety of
+different scalar collections, each stated fairly explicitly: C diatonic, D diatonic, A
+diatonic, F diatonic, and D melodic minor. (Figure 9.4.3 shows that these ﬁve collections are all contained within two adjacent cubes of the scale lattice.) The piece progresses from a neutral “white-note” state in which all notes appear uninﬂected, to a
+climactic section in which all four inﬂections are presented within the span of eleven
+measures (mm. 43–53). Interestingly,
+the B section begins by contrasting two
+scales that are close but not adjacent on
+the lattice (C and D diatonic), with the
+separation increasing as the music progresses: D diatonic moves sharpward
+to A diatonic, while C diatonic moves
+ﬂatward to F diatonic, and thence to the
+nondiatonic D harmonic minor (see
+the arrows in Figure 9.4.3). This progression brings to mind a pistol duel,
+in which the participants begin back to
+back and walk several paces away from
+each other.
+
+9.4.2 “Petit Airs,” from
+Stravinsky’s Histoire
+du Soldat (1918)
+Stravinsky’s “Petit airs au bord du ruisseau” exhibits an easygoing folksiness, depicting a wandering soldier relaxing by a brook, enjoying his newfound (and hard-totune) ﬁddle. On the surface, the music would seem to have nothing to do with Grieg’s
+austere tone painting. But when we dig deeper, we ﬁnd that there are interesting
+resemblances between the pieces, beginning with their ostinati: the double bass in
+“Petit airs” plays a “walking” motif G-D-A-G that outlines the same three pitch classes
+as those in the B section of Grieg’s “Klokkeklang” (Figure 9.4.4). As in Grieg’s piece,
+Stravinsky seems to divide his pitch material into “ﬁxed” notes that always appear in
+the same form (G-D-A-E-B) and “mobile” notes that can either be inﬂected or uninﬂected (F/Fs, C/Cs). Not surprisingly, Stravinsky juxtaposes these “mobile” notes
+
+Figure 9.4.3
+Scales in
+“Klokkeklang.”
+
+344
+
+history and analysis
+
+Figure 9.4.4
+Scales in
+Stravinsky’s
+“Petit airs,”
+from Histoire du
+soldat.
+
+Figure 9.4.5
+“Petit Airs” uses
+the diatonic and
+acoustic scales
+combining F/Fs
+and C/Cs.
+
+more freely than Grieg, often assigning different accidentals to different instruments:
+for instance, in mm. 29–37, shown in Figure 5.6.9, the clarinet and bassoon play in
+D diatonic while the violin adds Fn and Cn, creating two tonally distinct “strata.”
+Polytonality, which occurs only ﬂeetingly in “Klokkeklang,” is much more pervasive
+in Stravinsky.
+There are four familiar scales that contain the ﬁve “ﬁxed” notes, and they can
+all be represented by a square face of our scale lattice (Figure 9.4.5). Like Grieg,
+Stravinsky systematically explores the scales that can be constructed in this way.
+Figure 9.4.4 shows that each of the collections appears prominently in “Petit airs.”
+Particularly noteworthy are mm. 53–60, which present an explicit statement of the G acoustic collection.
+(See the bottom system of Figure 9.4.4.) This nondiatonic scale acts somewhat like Grieg’s D harmonic
+minor, providing a striking point of contrast with the
+surrounding diatonic and polytonal music.
+
+Scales in Twentieth-Century Music
+
+9.4.3 Reich’s City Life (1995)
+The third movement of Steve Reich’s City Life features a repeating ostinato built
+upon the ﬁfth D-A. The movement is divided into three sections, each beginning
+with the sampled words “It’s been a honeymoon.” (The unhappy tone of the sampled
+voice creates a striking contrast with the text’s meaning.) After about 20 seconds, the
+remaining instruments enter, ﬁlling out the D-A ﬁfth with scale fragments. Figure
+9.4.6 shows that these fragments suggest D lydian, the fourth mode of A harmonic
+minor, and D mixolydian. Reich’s music therefore exempliﬁes, in a particularly obvious and systematic fashion, the same procedures at work in both Grieg and Stravinsky. Once again, we have a set of “ﬁxed” scale degrees stacked in ﬁfths, ﬁlled out by
+additional “mobile” degrees that appear in a variety of forms.34
+The resemblances among Grieg’s “Klokkeklang,” Stravinsky’s “Petit airs,” and
+Reich’s City Life might initially seem to be completely fortuitous, purely superﬁcial
+similarities with no deeper signiﬁcance. But in fact, there are important historical and
+musical connections among the three composers. At a purely musical level, all three
+were interested in exploring alternatives to functional harmony, while stopping short
+of complete atonality. In particular, all three embraced a wide variety of scales and
+modes, and devised creative ways to generalize traditional modulatory procedures.35
+And then there are speciﬁc historical connections as well: Grieg was an important
+inﬂuence on Ravel, whose music in turn was important to Stravinsky; and both Stravinsky and impressionism inﬂuenced the language of jazz, which was in turn important to Reich.36 So it should perhaps not be terribly surprising to ﬁnd these three
+composers mining similar musical territory.
+Indeed, it would not be too surprising even if there were no historical connections among them. For as we have seen in Part I, the familiar scales of the Western
+tradition—such as the diatonic, acoustic, and harmonic scales—are in many ways
+natural objects of musical exploration. Furthermore, the idea of writing music that
+exploits scales containing a particular ﬁxed subset is reasonably intuitive, and we
+can well imagine each composer happening upon it independently. Thus, rather
+than considering the resemblances among our three pieces to be insigniﬁcant coin-
+
+Figure 9.4.6 A summary of Steve
+Reich’s City Life, movement 3.
+
+34 Reich’s movement again uses the “diatonic rhythm” {0, 2, 4, 5, 7, 9, 11}. The music opens by setting
+this rhythm in canon with itself at a distance of an eighth note. This is analogous to combining the C and D
+major scales, and leads to ﬁve shared attacks. Later in the piece, the canonic distance increases to a quarter
+note, analogous to combining C and E diatonic collections, which decreases the number of shared attacks
+to three. The music thus exhibits a common Reichian technique of moving from relative rhythmic alignment toward increased disalignment. See Cohn 1992.
+35 See Tymoczko 1997, 2002, 2003a, 2006.
+36 See, among many other sources, Herresthal 2005 and Strickland 2000.
+
+345
+
+346
+
+history and analysis
+
+cidences, I prefer to think of them as symptomatic of shared musical concerns crossing stylistic boundaries.
+
+9.4.4 The Beatles’ “Help” (1965) and
+Stravinsky’s “Dance of the Adolescents”
+(1913)
+In “Help!,” John Lennon’s lead vocal largely conﬁnes itself to the ﬁrst ﬁve pitches of
+the A major scale, with a sixth note (Fs) appearing only in the song’s introduction
+(Figure 9.4.7). This simple melody, almost obsessive in its repetitiveness, becomes a
+ﬁxed set of pitches that are contextualized within two different scales, A major and A
+mixolydian. Here timbre reinforces the distinction between the ﬁxed subset and the
+mobile pitches: the lead vocal conﬁnes itself to the ﬁxed notes, while both the guitar
+and backup vocals articulate the mobile pair G/Gs. (Note that the resulting scales, A
+major and A mixolydian are the only two diatonic collections containing the ﬁxed
+pitches.) Particularly interesting is the mixolydian cadence that accompanies the lead
+vocal D®Cs: in the key of A major, melodic D®Cs would likely be harmonized with
+V7–I; in “Help!,” however, this archetypal schema is replaced by a striking modal progression in pure major triads, D–G–A. (This technique, whereby common melodic
+schemas are modally reharmonized in pure triads, seems characteristic of the Beatles
+in particular and rock music more generally.) Note also that the opening progression
+b–G–E7, familiar from §3.10, links three chords that share the notes B and D; it again
+introduces the seventh chord precisely when the root motion changes from major
+third to minor third.
+Stravinsky’s “Dance of the Adolescents” uses a somewhat more abstract version of
+the same technique, in which it is not particular notes that are held ﬁxed, but rather
+more abstract intervallic patterns. The scales in Figure 9.4.8a share the major pentachord {G, A, B, C, D}, and hence are related by the subset technique. Those in Figure
+9.4.8b do not share any ﬁve-note subset; nevertheless, they are audibly similar by
+virtue of the fact that they all contain some major pentachord—that is, they contain
+a ﬁve-note segment that is transpositionally equivalent to {G, A, B, C, D}. Just as two
+major scales sound very similar, by virtue of being transpositionally related, so too
+do these scales sound somewhat similar by virtue of the fact that they contain large,
+transpositionally related subsets. (Or to put it another way, the scales all contain the
+
+Figure 9.4.7 A sketch
+of the Beatles song
+“Help!” The upper
+staff contains the
+notes in the lead vocal
+line, while the lower
+staff outlines the
+harmonies.
+
+Scales in Twentieth-Century Music
+Figure 9.4.8 The subset
+technique in its concrete (a) and
+abstract (b) forms.
+
+interval pattern 2-2-1-2.) This is particularly true when the composer chooses to
+emphasize these subsets in some salient way.
+In the “Dance of the Adolescents,” the major pentachord forms the basis of the
+folksy theme shown in Figure 9.4.9. (Here A is the tonic, suggesting natural minor
+or dorian.37) The theme can be embedded within familiar scales in three ways: we
+can add E and F, producing A aeolian; we can add E and Fs, producing A dorian; or
+we can add Ef and F, producing the “locrian s2” mode of F acoustic.38 These scales
+can then be transposed to produce three general modal categories, aeolian, dorian,
+and locrian s2. Figure 9.4.10 shows that the folksy theme appears in each of these
+modal contexts in the second half of the “Dance of the Adolescents.”39 Since each of
+our three mode types appears at least once, we can say that Stravinsky exhaustively
+exploits the various ways of embedding his theme in familiar modal contexts.
+Though it might again seem fanciful to compare Stravinsky to the Beatles, the
+resemblance is upon reﬂection relatively clear. Both “Help!” and “The Dance of the
+Adolescents” exploit melodic material that is deliberately simple or even primitive.
+Indeed, in both pieces the ﬁxed material is remarkably similar, with the ﬁxed pitches
+being A-B-Cs-D-E-(Fs) in “Help!” and the ﬁxed intervallic pattern being 2-2-1-2
+Figure 9.4.9 The folk-like melody used in the “Dance of
+the Adolescents.”
+
+37 This folksy melody seems to be original to Stravinsky. For an extended discussion of Stravinsky’s
+borrowings, see Chapter 12 of Taruskin 1996.
+38 A fourth possibility combines Ef and Fs, producing a mode of G harmonic major; here, however,
+the augmented second is melodically awkward. The three possibilities in the main text represent the only
+way to embed the theme in a scale whose steps are at most two semitones large, and whose thirds are at
+least three semitones large (§4.4).
+39 In each case, the music also adds some characteristically Stravinskian polytonal elements, such as
+bassoon trills foreign to the underlying scale; nevertheless, the underlying scales are fairly clear. Note also
+that consecutive scales, such as G locrian s2, Bf dorian, and Bf natural minor, are often linked by minimal voice-leading. Interestingly, Stravinsky uses both of the single-semitonal voice leadings connecting
+acoustic and diatonic scales, one of which preserves the ﬁxed subset (R31–32) and one of which does not
+(R25–27).
+
+347
+
+348
+
+history and analysis
+Figure 9.4.10 Stravinsky presents his folk-like melody in ﬁve scalar contexts.
+
+in “Dance of the Adolescents.” Both pieces contextualize this simple melodic material within musical textures that are anything but primitive, adding sophisticated
+harmonies, countermelodies, and orchestrational embellishments. (In fact, both
+pieces use Debussyian parallel triads, the ﬁrst in the chorus’s vocal harmonies, the
+second in the orchestral wash.) And both pieces use an expanded scalar vocabulary
+in which scalar and chromatic transposition are available, and in which ionian and
+mixolydian are more or less on equal footing. (Note that by ignoring transposition
+
+Scales in Twentieth-Century Music
+
+and centricity, we can see that both pieces augment their “ﬁxed” pitches in essentially similar ways, extending A-B-Cs-D-E with either G or Gs to form two different
+diatonic collections.) All of which is just to say that both pieces make relatively
+straightforward use of the possibilities afforded by an expanded scalar vocabulary.
+
+9.4.5 The Miles Davis Group’s “Freedom Jazz
+Dance” (1966)
+We’ll close with what might seem like a trivial example of the subset technique, one in
+which the shared collection is a perfect ﬁfth—or maybe just a single note. The Miles Davis
+Group’s “Freedom Jazz Dance,” from the album Miles Smiles, consists in a series of improvisations over a static Bf harmony. Although one might casually say that the piece is “in
+Bf,” this description masks an important subtlety: it is actually in a variety of Bfs, since
+the soloists interpret the tonic drone differently. The piece thus provides an interesting
+improvisational counterpart to the precomposed music we have been considering.
+Since it would take us too far aﬁeld to discuss the entire piece, a few brief remarks
+must sufﬁce. The bass line, played by Ron Carter, is based on Bf and often features
+fourths-based riffs such as F-Ef-Bf. The harmonic accompaniment, played by Herbie Hancock, often uses chords such as E-Bf-Ef, drawn from the blues scale on Bf
+(Bf-Df-Ef-En-F-Af). Hancock’s relatively sparse accompaniment leaves the soloists
+plenty of freedom, and they respond by “coloring” the Bf drone in a variety of ways.
+Figure 9.4.11 provides a series of excerpts from the solos, showing that the improvisers play a number of familiar scales—Bf natural minor, Bf melodic minor ascending,
+Bf mixolydian, Bf acoustic, Af harmonic minor, and the Bf-Cf octatonic scale. (Of
+course, there is also a lot of nonscalar playing in the piece as well.) From the standpoint
+of the current chapter, the interesting point is that the Miles Davis Group’s notion of
+“being in Bf,” like Debussy’s notion of being “in D,” is general enough to encompass
+natural minor, dorian, the acoustic scale, and even the octatonic. In other words, the
+relevant conception of tonality is not the major-minor system of the eighteenth and
+nineteenth centuries, but rather the extended scalar system of the twentieth.
+
+9.5
+
+conclusion: common scales,
+common techniques
+
+In this chapter, we have seen numerous appearances of scales such as the acoustic and octatonic. When I ﬁrst started thinking seriously about twentieth-century
+tonality, I was amazed to ﬁnd so many different composers using such similar scales.
+Why do these collections reappear in so many different styles? Was there a kind of
+underground commerce in scales, with composers cluing each other in to their most
+important discoveries? Did Debussy and Stravinsky talk scales and modes during
+their conversations in Paris? Did George Gershwin teach impressionist techniques
+to the early beboppers? Did Steve Reich learn the “altered scale” from some jazz harmony book? The alternative, that so many different composers had independently
+
+349
+
+350
+
+history and analysis
+Figure 9.4.11 Excerpts from the solos in the Miles Davis Group’s version of “Freedom Jazz
+Dance.” Miles Davis favors traditional Bf minor scales, Wayne Shorter makes heavy use of Bf
+acoustic, and Herbie Hancock uses even more exotic octatonic and harmonic minor scales.
+(Asterisks indicate notes outside the scale.)
+
+found their way to the same basic collections, seemed even more improbable: for how
+could so much haphazard investigation converge on such similar outcomes?
+Now, of course, this strikes me as considerably less surprising. Although there
+may have been some composer-to-composer commerce in scales, we can explain the
+convergence without it. After all, one of the main claims of Chapter 4 is that traditional
+scales are overdetermined, with a variety of different considerations pointing toward
+the same basic scalar collections—viz. familiar scales divide the octave relatively
+evenly, contain large numbers of consonant intervals, avoid consecutive semitones
+while having relatively small gaps between their successive notes, and are generally
+
+Scales in Twentieth-Century Music
+
+optimal from a variety of independent perspectives. Thus we should not be astonished to ﬁnd composers of different stylistic proclivities using octatonic or acoustic
+scales. Of course composers would independently ﬁnd their way to these collections—
+much in the way that different mountain climbers tend to follow the most obvious
+routes up a particular cliff.
+This is not to say that these scales are the only important ones, or that all twentieth-century tonal music makes use of them. Some tonal composers, including
+Messiaen and Shostakovich, constructed idiosyncratic scales that do not possess
+the virtues I have highlighted. (Messiaen used seven symmetrical “modes of limited
+transposition” whereas Shostakovich sometimes constructed ad hoc modes out of
+octatonic and other scale fragments.) Others—particularly “neoclassical” composers—eschewed nondiatonic scales in favor of a pervasive (and occasionally somewhat
+brittle) diatonicism. Still others created polytonal effects by superimposing multiple
+scales at the same time, leading to musical textures poised delicately between tonality
+and atonality. There is plenty of variety in twentieth-century tonal music, with scalar
+procedures playing only one part in an ensemble cast.
+Nevertheless, it is striking that at least three major twentieth-century tonal styles—
+impressionism, jazz, and postminimalism—make use of the same basic collection of
+nondiatonic scales and modes. These scales, along with the three techniques in this
+chapter, constitute a twentieth-century “common practice” that is larger than any
+particular tonal composer, and indeed than any particular tonal style. Although the
+outlines of this common practice may be less clear than the outlines of earlier common practices, its very existence indicates that the difference between the nineteenth
+and twentieth centuries is more a matter of degree than of kind. The naive contrast
+between nineteenth-century homogeneity and twentieth-century individualism is
+misleading: if there is an enormous harmonic gulf between Mussorgsky and Johann
+Strauss, then there are also interesting threads of continuity between Debussy, jazz,
+and Reich. Indeed, I would go so far as to say that the scales and techniques described
+in this chapter represent the single most interesting example of a twentieth-century
+tonal common practice—one that results not just from conscious imitation, but also
+from a simultaneous convergence on an intrinsically fertile territory.
+
+351
+

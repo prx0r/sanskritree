@@ -1,0 +1,273 @@
+work:
+  id: tantraloka
+  title: Tantrāloka
+  title_iast: Tantrāloka
+  author: Abhinavagupta
+  tradition: trika
+  genre: tantra
+  metadata:
+    pilot_role: calibration_source
+    translator: Mark S. G. Dyczkowski
+    source_access: locally_supplied_commercial_scan
+    volume: '1'
+    chapter: '1'
+edition:
+  id: dyczkowski.2023.vol1
+  editor: Mark S. G. Dyczkowski
+  publication: Independently published
+  year: 2023
+  licence: locally supplied commercial scan; not for redistribution
+  critical_method: IAST transliteration extracted from PDF; unreviewed import
+passages:
+- id: ta.ch1.006
+  reading_id: ta.ch1.006.dyczkowski.2023
+  chapter: '1'
+  verse: '6'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: samyak samucchalayatān mama saṁvidabdhim || 6 ||
+- id: ta.ch1.008
+  reading_id: ta.ch1.008.dyczkowski.2023
+  chapter: '1'
+  verse: '8'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: kallolakelikalanāmalakarṇadhārāḥ || 8 ||
+- id: ta.ch1.010
+  reading_id: ta.ch1.010.dyczkowski.2023
+  chapter: '1'
+  verse: '10'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: bhuyanan tu bhuvanākāraṁṅ brahmāṇḍādi yathākramam || 10 |l nānāratmamayaṁ
+    divyam anaupamyaguṇānvitam | indranīlamahānīḷaiḥ rājataiś ca vibhūṣitam || 1 1
+    |I padmarāgamayastaṁbhaiḥ nānāratnopaśobhitam | p. 808) divyasṛggandhavastrāḍhyaṁ
+    divyaiśvaryasamanvitam || 12 || bhuvanaṁ devadevasya jñātvā tallayam āpnuyāt |
+- id: ta.ch1.012
+  reading_id: ta.ch1.012.dyczkowski.2023
+  chapter: '1'
+  verse: '12'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: bhuyanan tu bhuvanākāraṁṅ brahmāṇḍādi yathākramam || 10 |l nānāratmamayaṁ
+    divyam anaupamyaguṇānvitam | indranīlamahānīḷaiḥ rājataiś ca vibhūṣitam || 1 1
+    |I padmarāgamayastaṁbhaiḥ nānāratnopaśobhitam | p. 808) divyasṛggandhavastrāḍhyaṁ
+    divyaiśvaryasamanvitam || 12 || bhuvanaṁ devadevasya jñātvā tallayam āpnuyāt |
+- id: ta.ch1.014
+  reading_id: ta.ch1.014.dyczkowski.2023
+  chapter: '1'
+  verse: '14'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: santi paddhatayaś citrāḥ srotobhedeṣu bhiyasā | anuttaraṣaḍardhārthakrame
+    tv ekāpi nekṣyate || 14 ||
+- id: ta.ch1.016
+  reading_id: ta.ch1.016.dyczkowski.2023
+  chapter: '1'
+  verse: '16'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: bodhojjvalo ‘bhinavagupta idaṁ karoti || 16 |
+- id: ta.ch1.020
+  reading_id: ta.ch1.020.dyczkowski.2023
+  chapter: '1'
+  verse: '20'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: cintanalabdhaprasidádhir iti || 20 ||
+- id: ta.ch1.032
+  reading_id: ta.ch1.032.dyczkowski.2023
+  chapter: '1'
+  verse: '32'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: yat tu jñeyasatattvasya pūrṇāpūrṇaprathātmakam ḷ taduttarottaraṁ jñānaṁ
+    tattatsaṁsāraśāntidam || 32 ||
+- id: ta.ch1.034
+  reading_id: ta.ch1.034.dyczkowski.2023
+  chapter: '1'
+  verse: '34'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: tasmān mukto ’py avacchedād avacchedāntarasthiteḥ | amukta eva muktas
+    tu sarvāvacchedavarjitaḥ || 34 ||
+- id: ta.ch1.050
+  reading_id: ta.ch1.050.dyczkowski.2023
+  chapter: '1'
+  verse: '50'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: bauddhājñānanivrttau tu vikalponmūlanād dhruvam | tadaiva mokṣa ity uktaṁ
+    dhātrā śrīmanniśāṭane || 50 || vikalpayuktacittas tu piṇḍapātāc chivaṁ vrajet
+    | itaras tu tadaiveti śāstrasyātra pradhānataḥ | 51 |
+- id: ta.ch1.064
+  reading_id: ta.ch1.064.dyczkowski.2023
+  chapter: '1'
+  verse: '64'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: viśvākṛtitve devasya tad etac copalakṣaṇam | anavacchinnatārūḍhāv avacchedalaye
+    ‘ṣya ca || 64 ||
+- id: ta.ch1.067
+  reading_id: ta.ch1.067.dyczkowski.2023
+  chapter: '1'
+  verse: '67'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: bahuśaktitvam apy asya tacchaktyaivāviyuktatā || 67 ||
+- id: ta.ch1.069
+  reading_id: ta.ch1.069.dyczkowski.2023
+  chapter: '1'
+  verse: '69'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: mātṛkḷṛpte hi devasya tatra tatra vapuṣy alam | ko bhedo vastuto vahner
+    dagdhṛpaktrṛtvayor iva || 69 ||
+- id: ta.ch1.088
+  reading_id: ta.ch1.088.dyczkowski.2023
+  chapter: '1'
+  verse: '88'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: kalmaṣakṣīṇamanasā smṛtimātranirodhanāt | dhyāyate paramaṁ dhyeyaṁ gamāgamapade
+    sthitam || 88 || paraṁ Śśivaṁ tu vrajatĩ bhairavãkhyaṁ japãd api |
+- id: ta.ch1.114
+  reading_id: ta.ch1.114.dyczkowski.2023
+  chapter: '1'
+  verse: '114'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: nāmāni cakradevīnāṁ tatra kr̥ tyavibhedataḥ || 114 || saumyaraudrākṛtidhyānayogīnyanvarthakalpanāt
+    |
+- id: ta.ch1.139
+  reading_id: ta.ch1.139.dyczkowski.2023
+  chapter: '1'
+  verse: '139'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: tad vistareṇa vakṣyāmaḥ śaktipātavinirṇaye | samāpya paratāṁ sthaulyaprasaṅge
+    carcayiṣyate || 139 ||
+- id: ta.ch1.143
+  reading_id: ta.ch1.143.dyczkowski.2023
+  chapter: '1'
+  verse: '143'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: tatrāpi svaparadvāradvāritvāt sarvaśo ʻṁśaśaḥ | vyavadhānāvyavadhinā bhūyān
+    bhedaḥ pravartate || 143 ||
+- id: ta.ch1.149
+  reading_id: ta.ch1.149.dyczkowski.2023
+  chapter: '1'
+  verse: '149'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: yat tu tatkalpanākḷrptabahirbhiūtārthasādhanam | kriyopāyaṁ tad āmnātaṁ
+    bhedo nātrāpavargagaḥ || 149 ||
+- id: ta.ch1.171
+  reading_id: ta.ch1.171.dyczkowski.2023
+  chapter: '1'
+  verse: '171'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: akiñciccintakasyeti vikaḷpānupayogitā | tayā ca jhaṭiti jñeyasamāpattir
+    nirūpyate || 171 ||
+- id: ta.ch1.173
+  reading_id: ta.ch1.173.dyczkowski.2023
+  chapter: '1'
+  verse: '173'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: āveśaś cāsvatantrasya ṣvatadrīūpanimajjanāt || 173 |I paratadrūpatā śambhor
+    ādyāc chaktyavibhāginaḥ |
+- id: ta.ch1.180
+  reading_id: ta.ch1.180.dyczkowski.2023
+  chapter: '1'
+  verse: '180'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: vikalpāpekṣayā mānam avikalpam iti bruvan || 180 || pratyukta eva siddhaṁ
+    hi vikalpenānugamyate |
+- id: ta.ch1.192
+  reading_id: ta.ch1.192.dyczkowski.2023
+  chapter: '1'
+  verse: '192'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: rudraśaktisamāveśaḥ pañcadhā nanu carcyate | ko ʻvakāśo bhavet tatra bhautāveśādivarṇane
+    || 192 || prasaṅgādetaditi cet samādhiḥ sambhavannayam |
+- id: ta.ch1.201
+  reading_id: ta.ch1.201.dyczkowski.2023
+  chapter: '1'
+  verse: '201'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: tvatsyarūpam avikalpam akṣajā kalpane na viṣayīkaroti cet | antarullikhitacitrasaṁvido
+    no bhaveyur anubhūtayaḥ sphuṭāḥ || 201 ||
+- id: ta.ch1.221
+  reading_id: ta.ch1.221.dyczkowski.2023
+  chapter: '1'
+  verse: '221'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: aṇur nāma sphuṭo bhedas tadupāya ihāṇavaḥ | vikalpaniścayātmaiva paryante
+    nirvikalpakaḥ || 221 ||
+- id: ta.ch1.227
+  reading_id: ta.ch1.227.dyczkowski.2023
+  chapter: '1'
+  verse: '227'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: vikalpāpekṣayā yo ʻpi prāmāṇyaṁ prāha tanmate || 227 || tadvikalpakramopāttanirvikalpapramāṇatā
+    |
+- id: ta.ch1.228
+  reading_id: ta.ch1.228.dyczkowski.2023
+  chapter: '1'
+  verse: '228'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: ratnatattvam avidvān prāṅniścayopāyacarcanāt || 228 || anupāyāvikalpāptau
+    ratnajña iti bhaṇyate |
+- id: ta.ch1.232
+  reading_id: ta.ch1.232.dyczkowski.2023
+  chapter: '1'
+  verse: '232'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: samyagjñānaṁ ca muktyekakāraṇaṁ svaparasthitam || 232 || yato hi kalpanāmātraṁ
+    svaparādivibhūtayaḥ |
+- id: ta.ch1.246
+  reading_id: ta.ch1.246.dyczkowski.2023
+  chapter: '1'
+  verse: '246'
+  type: verse
+  transliteration: IAST
+  critical_status: edition_derived_transliteration_unreviewed
+  sanskrit: iti jīīāānacatuṣkaṁ yat siddhimuktimahodayam || 246 || tanmayā tantryate
+    tantrālokanāmny atra śāsane |

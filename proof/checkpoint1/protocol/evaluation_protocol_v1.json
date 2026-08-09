@@ -1,0 +1,87 @@
+{
+  "protocol_id": "checkpoint1_v1",
+  "name": "Spandakārikā Checkpoint 1 — Blind Translation & Reference Comparison",
+  "created_at": "2026-07-24T14:40:00Z",
+  "commit": null,
+  "status": "frozen",
+
+  "disagreement_outcomes": {
+    "SANSKRITREE_ERROR": "A clear grammatical or factual error in Sanskritree output",
+    "REFERENCE_ERROR_OR_WEAKNESS": "Reference translation contains an error or weak rendering",
+    "REFERENCE_INTERPRETIVE_EXPANSION": "Reference adds interpretive expansion not in source",
+    "BOTH_DEFENSIBLE": "Both renderings are valid readings of the source",
+    "TEXTUAL_VARIANT": "Different underlying Sanskrit source text / edition",
+    "COMMENTARY_DEPENDENT": "Disagreement depends on which commentary is followed",
+    "UNRESOLVED": "Cannot confidently determine classification"
+  },
+
+  "causal_origins": {
+    "NORMALIZATION": "Source normalization / sandhi resolution",
+    "SEGMENTATION": "Word segmentation boundary",
+    "MORPHOLOGY": "Morphological analysis (case, tense, person, number)",
+    "COMPOUND": "Compound analysis (boundary or relation)",
+    "SYNTAX": "Syntactic structure / phrase attachment",
+    "COREFERENCE": "Pronoun or anaphora resolution",
+    "LEXICAL_SENSE": "Word sense disambiguation",
+    "TECHNICAL_TERM": "Technical term translation (e.g., spanda, śakti)",
+    "FRAME_SELECTION": "Semantic frame selection",
+    "FRAME_ROLE": "Role assignment within a semantic frame",
+    "SEMANTIC_PLAN": "Overall semantic plan / ordering of propositions",
+    "RENDERER": "English realization / phrasing",
+    "DISCOURSE_CONTEXT": "Cross-verse discourse context",
+    "UNSUPPORTED_ADDITION": "Content added without source support",
+    "OMISSION": "Source content omitted in translation"
+  },
+
+  "severity": {
+    "CRITICAL": "Changes doctrinal meaning, reverses negation, omits a clause, or adds unsupported doctrinal claim. Every CRITICAL error blocks release.",
+    "MAJOR": "Grammatical error that misrepresents grammatical relations, wrong subject/object, wrong tense. Requires post-edit correction.",
+    "MINOR": "Stylistic preference, word order, synonym choice. Defensible alternative exists."
+  },
+
+  "adjudication_procedure": {
+    "blind_evaluation": true,
+    "blinding_method": "Labels randomized to Translation X / Y / Z before evaluator sees them",
+    "stage_a": "Blind adequacy + error-span judgment (no identities revealed)",
+    "stage_b": "Philological adjudication with identities, source variants, commentary",
+    "evaluator_bias_controls": "Translator identities revealed only after stage A recorded"
+  },
+
+  "reference_handling": {
+    "storage": "Access-controlled evaluation-only store outside retrieval indexes, embeddings, prompts, lexical stores, and candidate DB",
+    "ingestion_timing": "References ingested ONLY after blind Pass 1 is frozen and hashed",
+    "leakage_prevention": "Adversarial leakage tests: imports, DB permissions, filesystem, network, retrieval, embeddings, prompts, logs, serialization",
+    "pretraining_disclosure": "Inference-time isolation tested and passed. Pretraining exposure of closed/third-party models cannot be ruled out."
+  },
+
+  "primary_metrics": {
+    "critical_errors": "Count of CRITICAL errors — 0 required for release",
+    "major_grammatical_errors": "Count of MAJOR errors — ≤2 required for release",
+    "unsupported_doctrinal_additions": "Count — 0 required for release",
+    "negation_preservation": "100% required for release",
+    "defensible_reading_rate": "≥90% required for release",
+    "unresolved_major_disagreements": "≤10% required for release",
+    "term_consistency": "≥95% technical-term consistency required for release",
+    "named_entity_consistency": "100% required for release"
+  },
+
+  "secondary_metrics": {
+    "semantic_node_realization": "≥98% required semantic nodes realized in output",
+    "cross_verse_drift": "≤5% cross-verse terminology drift",
+    "post_edit_efficiency": "≥25% lower median post-edit time than B2 baseline",
+    "candidate_recall": "Gold lemma Recall@5 ≥95%; correct compound ≥90%"
+  },
+
+  "repair_selection_rule": "Fix top 3 systematic error classes by frequency. Each repair must be linked to observed errors. Add regression tests for each fix. Measure holdout regression before accepting.",
+
+  "release_criteria": {
+    "verses_complete": "53/53 complete translations",
+    "critical_errors_final_challenge": 0,
+    "defensible_reading_rate": 0.90,
+    "unresolved_major_disagreements": 0.10,
+    "term_consistency": 0.95,
+    "post_edit_improvement_vs_b2": 0.25,
+    "mutation_rejection": "100% formally detectable mutation rejection",
+    "departures_documented": "All departures from references documented with justification"
+  }
+}

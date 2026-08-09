@@ -1,0 +1,668 @@
+Religions 2014, 5, 1-x manuscripts; doi:10.3390/rel50x000x
+“A Cognitive Science View of Abhinavagupta's Understanding of Consciousness,” Religions 5(3):767-779 (2014).
+OPEN ACCESS
+
+religions
+ISSN 2077-1444
+www.mdpi.com/journal/religions
+Article
+
+A Cognitive Science View of Abhinavagupta’s
+Understanding of Consciousness
+Loriliai Biernacki
+Department of Religious Studies, University of Colorado at Boulder, UCB 292, Boulder, CO 80301,
+USA; E-Mail: Loriliai.Biernacki@colorado.edu; Tel.: +303-447-8106
+Received: 4 May 2014; in revised form: 21 July 2014 / Accepted: 30 July 2014 /
+Published:
+
+Abstract: This paper offers a comparative analysis of the nature of consciousness correlating
+the insights of the 11th century Śaiva philosopher Abhinavagupta with the work of some
+contemporary philosophers of consciousness. Ultimately these comparisons especially
+bring to light possibilities for constructing a materialist paradigm that might operate from a
+prioritization of subjectivity rather than objectivity. I propose that the Hindu, nondual
+Śaivite system that Abhinavagupta lays out offers a framework that may be useful for
+contemporary cognitive science and philosophy of mind precisely because Abhinavagupta
+offers a theory for connecting the material with the phenomenal.
+Keywords: mind; cognitive science; Abhinavagupta; Tantra
+
+“Consciousness is at the very center of our epistemic universe,
+
+and our access to it is not perceptually mediated.”
+—David Chalmers ([1], p. 169)
+“The freedom of the uninterrupted delight
+of I-consciousness is completely independent
+of any reference to anything else”
+—Abhinavagupta ([2], p. 212)1
+
+1
+
+sarvathā punar avicchinnacamatkāranirapekṣasvātantryāhaṃvimarśe.
+
+Religions 2014, 5
+
+2
+
+One need only a quick glance at the strident tones in a recent review of Thomas Nagel’s new book,
+out in 2012, Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost
+Certainly False in the leftist weekly, The Nation, to get a sense of just how mired are the debates on
+the nature of consciousness [3]. What is consciousness? How does consciousness arise out of the grey
+matter that makes up our brains? How do we understand the experiences of subjective awareness, the
+complexity of elements that make up our very human encounters, say, the joy that comes from seeing a
+beautiful sunset? The big problem, what David Chalmers calls the “hard problem” [1], is the problem
+of the phenomenological experience of qualia, understanding the relationship our subjective experiences
+bear to scientifically driven analyses of brain and body functioning; how do we reconcile the experience
+of the rich hues of orange and pink in the sunset with a materialist perspective on the world which
+promises to unravel the links between neurons and emotions?
+For this paper, I suggest a comparative analysis of the nature of consciousness offering the insights
+of the 11th century Śaiva philosopher Abhinavagupta to reflect upon the work of some contemporary
+philosophers of consciousness, particularly focusing on the work of the cognitive mind philosopher
+David Chalmers. Ultimately, I offer these comparisons especially to bring to light possibilities for
+constructing a materialist paradigm that might operate from a prioritization of subjectivity rather than
+objectivity. I propose that the Hindu, nondual Śaivite system that Abhinavagupta lays out offers a
+framework that may be useful for our contemporary cognitive science and philosophy of mind
+precisely because Abhinavagupta offers a theory for connecting the material with the phenomenal.
+I propose this position, with caveats, of course. First, Abhinavagupta is certainly not a materialist.
+His ontological commitments are quite far from those of Chalmers and of Thomas Nagel. Chalmers,
+starting from a commitment to epiphenomenalism, reluctantly concedes we need a larger model for
+understanding the phenomenological component of consciousness. Abhinavagupta, a philosophical
+theologian, as a product of his time, is about as far from this metaphysical materialist position as one
+might imagine. Oddly, however, the naturalistic, atheist models of thinkers like Chalmers and Nagel
+drift towards a kind of panpsychism that offers points of contact with Abhinavagupta’s panentheism.
+At the same time, we should be mindful of some irreducible differences between Abhinavagupta and
+these thinkers. For instance, while Chalmers may be read, against the grain, at some points to be not
+entirely unsympathetic to the kinds of conceptions of consciousness we find in Hinduism and
+Buddhism, he, however, argues for the impossibility of downward causation ([1], p. 378n). Yet, this is
+precisely what the colorful history of siddhis, the magical powers of adepts in Buddhism and Hinduism
+presupposes and for which it argues and which it cultivates in no small measure. The medieval worlds
+of Hinduism and Buddhism take for granted all sorts of phenomena that appear impossible for our
+worldview, predominantly here, the idea of reincarnation, the idea of a subtle body, the idea of siddhis,
+or magical powers.2 However, even with these seeming unbridgeable gaps between our notions of
+what is possible and impossible and theirs, Abhinavagupta’s philosophical system derives its strength
+from his overriding impetus to present a system that does not rely on extraneous elements or belief in
+unseen principles.
+2
+
+Yet again, here we should note that these notions are not entirely banished from the 21st century West, as we see in
+books like Irreducible Mind [4] and in experiments like those documented by noted Cornell psychologist Daryl Bem in
+2011 [5].
+
+Religions 2014, 5
+
+3
+
+For example, in a discussion where he introduces the scope of subjectivity and its forms of knowledge
+and capacities for action, he tells us, “what is intended here is the ordinary form of all knowing subjects
+in the world, comprising the specific activity of the hands and feet, etc. of the agent, because this idea
+is generally accepted in the world” ([6], p. 258).3 That is, his discussion of subjectivity focuses on
+ordinary forms of consciousness which will be familiar to most readers. Moreover, he follows this with
+a justification for not entering into theological terrain, saying, “the highest Subject, defined as the Śiva
+Archetype, is impossible anyway to analyze from a worldly level because it is beyond the world” ([6],
+p. 258).4 With this, he embarks on a hermeneutic technique which might be considered one of his
+signature trademarks, namely a consistent attention to offering philosophical and psychological
+explanations that adhere to a use of logic and do not especially rely upon revelation to support his
+arguments. Thus, I suggest here that Abhinavagupta’s system may be particularly helpful in part
+because he proposes a kind of model that typically shies away from a reliance upon a theistic
+intervention to explain consciousness. In this, it may be seen to offer a structural compatibility with
+materialist models of our world, even if he necessarily falls short of anything like a bonafide
+naturalism or materialism. Thus, it would be a mistake to gloss over Abhinavagupta’s fundamentally
+theological perspective; on the other hand, in spite of this, his ingenious and novel synthesis
+of subjectivity may offer helpful insights into our own thinking about the nature of subjectivity
+and consciousness.
+I suggest also that this 11th century thinker Abhinavagupta brings to discussions of consciousness a
+carefully constructed phenomenology that argues for a neutral monism; with this he is able to link the
+material, physical world with consciousness. Abhinavagupta accomplishes this through several
+mechanisms; however, I will only have space to discuss one of these here, namely that he links
+materiality with the notion of consciousness through a modal conception of subjectivity and objectivity.5
+In what follows below, I will first address differences in conceptions of the idea of mind between an
+Indian context and contemporary science; with this I will also locate Abhinavagupta’s conception
+within an Indian context. After this I will examine Abhinavagupta’s method for addressing the link
+between what Chalmers understands as the “hard problem” of consciousness, phenomenal awareness,
+in its relationship with the materiality of the physical body. Here I will discuss one of Abhinavagupta’s
+methods, specifically involving a modal argument hinging upon ideas of subjectivity and objectivity.
+1. What Is the Mind?
+
+3
+
+Tathāpi laukika sarva pramātṛ sādhāraṇa rūpa saṁpādakakara caraṇādi vyāpāra viśeṣa paryantībhūtam eva
+abhipretaṁ tathā laukikānāṁ prasiddheḥ.
+
+4
+
+Tām eva ca saṁjñā śabdena darśayati śiva tattva lakṣaṇasya parapramātur alaukikatvena vyākartum
+aśakyatetyāśayena.
+
+5
+
+He also links the phenomenal with the psychological and the physical through a reformulation of notions of knowledge
+and action and connected with this, he links the phenomenal with the psychological through an understanding of
+consciousness in terms of prakāśa, a kind of “shining forth” and vimarśa, a kind of “self-reflexive, active awareness.”
+And finally, he links the component of phenomenal consciousness with the physical through a formulation of the subtle
+body, which defines the subtle in terms of fundamental elements, especially in ([6], pp. 310–27).
+
+Religions 2014, 5
+
+4
+
+Comparative discussions of contemporary Western science and medieval Indian conceptions of
+mind and physicality are likely to get bogged down in terminological confusions over what counts as
+mentality. Since Descartes’ dualistic formulation of the res extensa and the res cogitans as matter and
+mind, two separate substances walled off from each other, and never the twain shall meet, Western
+science has systematically tried to close the gap with a reductive program. Along these lines current
+dominant conceptions of mind postulate the dependence of mentality upon the physical or else, further,
+postulate the irrelevance of the mental, the “epiphenomenalism” of consciousness.6
+Hindu conceptions of the mind, however, differ dramatically from familiar Western notions in so
+far as we might say that the cut between mental and material occurs at a much higher-order level of
+mental operation in the schema for an Indian context. Classically, we find in Hindu thought, as in
+Descartes’ understanding, two separate categories, here termed “Puruṣa” and “Prakṛti”,
+spirit/consciousness on the one hand, and Nature/matter on the other. Puruṣa is aware, self-aware and
+sentient. Prakṛti is insentient, mere dead materiality. So far, no real incompatibilities with a Western
+context. However, the category of Prakṛti actually encompasses much of what we in our contemporary
+Western model would understand as “consciousness” or “mind”.
+The earliest formulations of this pan-Indian cosmology derive from Sāṃkhya theory, which dates to
+at least about the 6th century BCE and perhaps earlier. Sāṃkhya understands the world to contain
+twenty-five basic different categories. Of these twenty-five, twenty-four are the products of the
+evolution (pravṛtti) of materiality, Prakṛti. Only Puruṣa, sentient aware Puruṣa is actually capable of
+consciousness.7 What then is Prakṛti? Prakṛti evolves into the physicality of the world we see around
+us, here broken down into the five elements, water, earth, air, fire and space. Yet, Prakṛti also evolves
+into three categories that we would intuitively classify as mental. Known as the antaḥkāraṇa, the
+inward sense organs, these include the intellect (mahat/buddhi), the ego (ahaṁkāra), and the mind
+(manas). These three, as evolutes of Prakṛti, fundamentally lack sentience. Thus what a contemporary
+Western scientist might understand as “mind”, “awareness” or “consciousness”, is, to the contrary,
+from an Indian perspective relegated to the level of mere materiality.
+At first blush, this classification might appear a bit inscrutable. How could something, like egoity,
+so clearly related to consciousness and awareness be considered a part of materiality? This classification,
+however, corresponds to a crucial distinction that David Chalmers insists upon in his characterization
+of the mental as comprised of two components. Chalmers suggests that the mental encompasses both,
+on the one hand, a structural and functional psychological component, and on the other, a
+phenomenological component ([1], pp. 24–26). He proposes this classification in order to clarify
+confusions about consciousness that conflate psychological components of mentality with
+6
+
+There are a range of perspectives on this, many of which can be succintly formulated through responses to Frank
+Johnson’s provocative 1982 article [7], on the knowledge argument. Chalmers summarizes a number of these in his
+1996 discussion of Johnson’s article [1]. Alter also summarizes a variety of positions on this in [8]. On one extreme we
+find figures like Dennett, entirely denying the possibility of phenomenal knowledge and on the other Chalmers’
+assertion of it, along with Nagel’s early presentation of the problem in “What is it like to be a Bat?” [9].
+
+7
+
+See Mikel Burley [15], for a discussion of the fundamental tension within Sāṃkhya over the problem of multiple
+Puruṣas as multiple loci for a contentless subjectivity and the problem of no real need for liberation of a Puruṣa
+endowed with the kind of transcendental and passive subjectivity that is definitionally separate from the psychophysical
+conception of self located within Prakṛti.
+
+Religions 2014, 5
+
+5
+
+phenomenological components. Noting that the psychological elements do supervene upon physicality,
+he argues that the phenomenological component, however, remains functionally separate and incapable
+of entailment by physical properties. That is, psychology and biology, which ultimately boil down to
+physics and notions of how electrons influence the structure of molecules, which influence the
+chemistry and biology of the human brain for Chalmers do not exhaust and cannot finally explain the
+phenomenal, for instance, the experience of a person enjoying the scent of red roses on a table.
+In a similar manner, the Sāṃkhya classification of the “mind” (manas), “ego” (ahaṁkāra) and
+intellect (mahat/buddhi) as evolutes of Prakṛti, material nature, reflects this separation of the
+psychological and phenomenological components of consciousness. Linking these three as the inner
+sense organ (antaḥkāraṇa) to materiality recognizes their dependence on the physical. Sāṃkhya then,
+like Chalmers, however, reserves the notion of consciousness, phenomenological consciousness, as
+incapable of connection with physical materiality. The Puruṣa for Īśvarakṛṣṇa’s Sāṃkhya Kārikā, is
+simply a witness (sākṣitvam), isolated (kaivalyam) and inactive (akartṛbhāva) ([9], p. 265).8 To use
+Chalmers’ terms, the Sāṁkhyan Puruṣa as consciousness is not supervenient on the physical.
+This Sāṃkhyan notion acts as template, the basic model for representing the relationship between
+the physical and the mental or for this schema, the non-material spirit. Much subsequent Indian,
+especially Hindu philosophy draws from and modifies this basic model to articulate differing
+understandings of the relationship between matter and spirit. For instance, later Vedantin notions of
+ātman, the self, draw from this early conception of mentality as at base material in nature and stress
+the fundamentally incommensurate nature of the self, ātman, with the material, including mental
+components.9 What these Hindu models share with Chalmers’ model, and where they differ from
+Buddhist models, is the assumption of an underlying acceptance of phenomenological consciousness
+as a “something there,” the “sat” or “existence” component we find in Śaṅkara’s notion of ātman, self
+as “satcidānanda”, “being”, “consciousness” and “bliss”. Buddhist models of anātman, “no-self”
+doctrine sound a lot more like patternist conceptions, like Daniel Dennett’s or Ray Kurzweil’s [13], or
+in some cases, informationalist conceptions ([1], pp. 276–287) 10 of consciousness. Here we might also
+reference Jonardon Ganeri’s discussion of Vasubandhu’s notion of the self in relation to Strawson’s
+conception of the self as non-univocal. In Ganeri’s thoughtful presentation of Vasubandhu, the
+“no-self” doctrine of Vasubandhu hinges on a metaphysical prior commitment of Vasubandhu towards
+relinquishing a first-person perceptual stance. Thus for Vasubandhu, the referential notion of an “I”
+not connected to some sort of tangible psychophysical perception is fundamentally an erroneous and
+disingenuous referentiality [14]. Ganeri proposes that Vasubandhu offers a helpful articulation of a
+basic pre-attentive sense of ownership as self if we can stop short of his pre-emptive commitment to
+“no-self” ([14], pp. 73–74). One might perhaps, following this strand, situate Chalmers’ phenomenological
+
+8
+
+Sāṃkhya Kārika verse xix; error in Larson’s verse [10], should read kaivalyaṃ not kavivalyaṃ. See also Burley [11] for
+a discussion of the separation of Puruṣa as phenomenological component in contrast to the structural and psychological
+component. See also David Burke [12] for an explicit extension and embrace of this interpretation of Puruṣa.
+
+9
+
+I am thinking especially of Śaṅkara’s notions of ātman as satcidānanda, consciousness, being and bliss, and
+fundamentally not connected to matter or Prakṛti.
+
+10
+
+Chalmers also supposes an informationalist conception of knowledge; however, he maintains a supposition of some
+sort of existential being with his fundamentally panpsychist model.
+
+Religions 2014, 5
+
+6
+
+component as this basic pre-attentive sense of ownership towards which Vasubandhu points, thus
+linking these notions of self to the framework of subjective and objective perspectives.
+In any case, however, what both Hindu and Buddhist models offer with the inclusion of mental
+phenomena as materiality is a capacity to expand the very notions of matter to a wider sphere. Hence,
+Indian religious traditions, whether Hindu or Buddhist, have very little difficulty accepting phenomena
+like subtle bodies, capable of transmigration. Not conceptually loaded with airy notions of ineffable
+being, as ideas of a “soul” might be, the subtle body remains fundamentally on the side of matter.11
+2. The Phenomenal and the Psychological: The Subjective and the Objective
+What a Tantric monistic thinker like the 11th century Hindu Śaivite Abhinavagupta adds to earlier
+understandings of consciousness is a sophisticated phenomenology that bridges the gap between the
+phenomenal on the one side and all that materiality on the other side, including both the psychological
+and the physical. Abhinavagupta accomplishes this primarily through linking these through four
+different registers, though due to space constraints I will only address the first here. First, he links the
+phenomenal with the psychological in terms of grammatical notions of subjectivity and objectivity.
+Secondly, he links the phenomenal with the psychological and the physical through a reformulation of
+notions of knowledge and action. He also links the phenomenal with the psychological through an
+understanding of consciousness in bimodal terms of prakāśa, a kind of “shining forth” and vimarśa, a
+kind of “self-reflexive, active awareness”. And he links the component of phenomenal consciousness
+with the physical through a formulation of the subtle body, which defines the subtle in terms of a
+notion of fundamental properties. Again, here I will look at Abhinavagupta’s use of subjectivity and
+objectivity as a way of thinking about the relationship between the phenomenal component of
+consciousness on the one hand, and on the other hand, psychological and material understandings
+of consciousness.
+If we examine Chalmers’ notions of the differences between the phenomenal and the psychological
+modes of consciousness, his understanding of the psychological hinges upon those elements of
+consciousness that can be described objectively: the physical and emotional sensations that arise when
+one smells freshly baked bread, for instance. Accompanying those elements that can be tracked and
+articulated, but separate from them is the phenomenal component ([1], pp. 7–10). The phenomenal,
+in contrast, offers a subjective view. It corresponds to the function of consciousness that focuses on the
+“what it’s like” component, the experience of seeing the color red for the first time and the ineffability
+of such an experience, our inability to reduce that moment of experience to either psychological or
+physical components, to neurons firing and the like. Abhinavagupta shares with Chalmers an insistence
+that we not try to ignore or dispose of the phenomenal component, contrasting a thinker like Daniel
+Dennett [16],12 yet Abhinavagupta takes a very different tack than Chalmers. Abhinava suggests that
+we read the relation between phenomenal awareness and psychological awareness in grammatical
+terms, in terms of first-person and third person accounts of awareness.13 This is something Chalmers
+11
+
+I discuss this elsewhere, forthcoming [15].
+
+12
+
+For instance. Much else might be cited.
+
+13
+
+See also Kuznetsova ([17], p. 85) for a discussion of the importance of subjective and objective perspectives in the
+Vaiśeṣika philosopher Praśastapāda.
+
+Religions 2014, 5
+
+7
+
+also nods towards as he discusses his zombie twin in another universe who is incapable of a genuine
+first-person encounter. For Chalmers, his zombie twin might look and respond exactly as he does from
+the outside, yet only the real David Chalmers, not his zombie twin, actually undergoes a first-person
+phenomenological experience ([1], pp. 198–99).
+Abhinavagupta goes a step further, however, in understanding the subjective and the objective as
+convertible into each other. The subjective and the objective are two modes of awareness linking the
+same experience, depending upon the grammatical relation one takes in relation to the experience. As
+Abhinavagupta tells us,
+“As the adage goes, ‘Everything has the nature of everything else.’ Even those things
+which are by nature mere object, insentient, if they abandon that form as object, they
+become capable of participating in the forms of subjective awareness and of address, the
+first and second persons. For example, “listen O Mountains” and “of mountain peaks, I am
+Mount Meru” ([2], p. 212).14
+Beyond the theological appeal to a scriptural text, the Bhagavad Gītā, Abhinavagupta also makes a
+specific point. Namely, he suggests that the status of subject and object should not be derived from a
+classification of essence. Here we might see Buddhist influence of the sort that Ganeri points to in
+Vasubandhu, as I note above, even if Vasubandhu rejects the referentiality leading to a self. It is not
+the case that only some forms, whether entities or objects, have an essence capable of experiencing
+phenomenal awareness; nor is there a kind of underlying structure that determines whether some entity
+is classified as conscious or not conscious. Rather both subject and object designate types of
+phenomenal awareness.15 And, moreover, the phenomenal awareness of being an insentient chunk of
+rock is one that can shift to a different phenomenal awareness, to that of the kinds of subjective
+awareness that Chalmers subsumes under the category of phenomenal component of consciousness in
+toto, even for that chunk of rock that is the mountain. Here this normally mere insentient rock can be
+transformed by a participation in the subjectivity of address and by the participation in a first-person
+articulation of identity. Abhinavagupta quotes from well-known classical Indian texts, including the
+Bhagavad Gītā here and relies upon his audience’s presuppositions of what it means, for instance,
+when the classical figure Kṛṣṇa says, “I am Mount Meru” to signal the kind of shift to subjectivity that
+he indicates. What precisely then allows for a shift from the non-conscious matter of prakṛti, in the
+form of an insentient rock, is Abhinavagupta’s recognition of its always latent potentiality for
+subjectivity. That is, in this system, there is no hard and fast demarcation between consciousness and
+matter. The shift from one to the other hinges on remembering and evoking this always
+latent potential.
+In terms of our own 21st century context, Abhinavagupta’s perspective suggests that Chalmers’
+zombie twin is not innately incapable of phenomenal awareness; all he really needs is to spend some
+time with the non-zombie David Chalmers who is capable of a genuine first-person encounter and
+14
+
+sarvaṃ hi sarvātmakam iti narātmāno jaḍā api tyaktatatpūrvarūpāḥ śāktaśaivarūpabhājo bhavanti, śṛṇuta grāvāṇaḥ
+[\cf Mahābhāṣya 3.1.1; \cf Vākyapadīya 3 Puruṣasamuddeśa 2], meruḥ śikhariṇām ahaṃ bhavāmi [Bhagavadgītā
+10.23].
+
+15
+
+Chalmers’ speculation on strong artificial intelligence may be read as approximating an understanding of the possibility
+of phenomenal experience for rocks, computers and other insentient things.
+
+Religions 2014, 5
+
+8
+
+through a kind of assimilation, a contagion of affect, the zombie has hopes for the same kinds of
+experiences of the color red that our universe’s familiar David Chalmers has.16 As Abhinavagupta tells
+us repeatedly, quoting from the Spanda Kārikās, “Even [the limited Subject gains lordship] from
+contact with the strength of the Self (ātman)” ([6], pp. 286, 308, 346).17 That is, consciousness, and
+with it, a capacity for phenomenal experience, is present in greater or lesser degrees across a spectrum
+in various entities and objects. By contact with the Self, ātman (and for the moment, we will gloss the
+notion of ātman as Abhinavagupta repeatedly glosses it, as cidānandaghana, a somewhat indeterminate
+mass of bliss and consciousness) by contact with the ātman, those beings or things which display only
+limited or an absent capacity for phenomenal experience, like a rock, or Chalmers’ zombie twin,
+increase their capacity.
+Here, to emphasize how Abhinavagupta’s position differs from other Indian perspectives, we can
+contrast this with what Jonathan Edelmann, discussing the Bhāgavata Purāṇa says about the relation
+between consciousness and the materiality of the mind, where Edelmann notes that consciousness as
+self is the sākṣin, the witness, always different, immortal and separate from the body-mind complex in
+relation to consciousness ([20], pp. 67–68), evincing a substance dualism. In contrast, for Abhinavagupta,
+the consciousness of self is not irreparably, ontologically separate from matter, but instead always
+already infuses it, merely needing the contagion of contact with the self to wake it up. We might also
+compare this with Chakravarthi Ram-Prasad’s discussion of the “thin” conception of self-adopted by
+Nyāya ([21], pp. 133–135). Ram-Prasad points out that Udayana’s Nyāya conception of self does not
+equate to a notion of unique personhood, emphasizing instead its function as a kind of “transcendental
+consciousness”, a formal and minimalist conception of self.18 Of course, Abhinavagupta’s conception
+does leave open the kind of problematic situation that Ram-Prasad discusses of transplanted
+memories ([21], p. 138), where the fundamental fluidity of consciousness opens the door to the possibility
+of our memories really belonging to another person. This is addressed in practical terms via the
+interventions of the subtle body but certainly not ontologically dismissed. Indeed, its possibility is
+precisely the claim of certain siddhis of yoga and Tantra.
+We might say with this that Abhinavagupta’s monism presupposes a kind of fluidity of affect.
+Consciousness is contagious; and this within a context of consciousness as something always
+more than the mere formality of a minimalist self. By contact with the phenomenal component of
+
+16
+
+Arindam Chakrabharti offers a similar perspective when he elegantly examines the problem of memory, noting
+for Abhinavagupta “[we] must reject the suggestion that our knowledge of other minds is merely an analogical
+inference” ([18], p. 212). Chakrabarti notes Abhinavagupta’s comment, reading “ūhyate” as precisely not indicating
+inference (anumāna) as a means of knowing other minds. The ambiguity of ūhyate as a kind of sensing or guess of the
+internal subjective state of another is at stake. In this context, see also Isabelle Ratie especially ([19], p. 359) where she
+notes that the element of “direct perception” (sākṣatkāra) involved in this guessing or sensing derives ultimately from
+the connection of the other person’s external actions as a unified extension of his or her internal feelings. That is, the
+internal subjective state is seamlessly connected to the external objective expression, avoiding the polarizing chasm
+between the two, which we see in, for instance, Descartes and Sāṃkhya.
+
+17
+
+api tvātmabalasparśāt ...|.
+
+18
+
+In particular, Ram-Prasad uses this feature of Nyāya to argue against a Parfitian “transplanted memory” theory, where
+the distinction between person and self mitigates against the dismissal of self in the case of the minimalist self
+of Nyāya.
+
+Religions 2014, 5
+
+9
+
+consciousness, that which we might consider mere objects are capable of taking on consciousness and
+transforming into entities capable of subjectivity. Thus, what Chalmers understands as the phenomenal
+component of consciousness, for Abhinavagupta is a basal state that can be accessed by a shift
+from the mode of object to subject. Does Abhinavagupta’s understanding incorporate something
+like Chalmers’ notion of protophenomenal particles? ([1], pp. 126–27; 135–36). Insofar as
+Abhinavagupta understands cit, consciousness, to be ubiquitous, we might draw some comparisons to
+Chalmers’ panpsychism, though, as I mentioned earlier, Abhinavagupta is probably best classed as a
+panentheist ([1], pp. 293–301).19 In any case, for Abhinavagupta, consciousness itself is fundamentally
+more determined by affect than by structural essence. Moreover, we can see that the flavor of
+Abhinavagupta’s monism is one that incorporates materiality in its basic framework; materiality is not
+fundamentally a bar to consciousness.
+We might frame this another way, elucidating Abhinavagupta’s conception by tapping into our own
+culture’s deeply entrenched and fearful anthropomorphism of the computer. Abhinavagupta’s monism
+certainly allows for a Terminator-style computer take-over of the world, as it is not at all impossible
+for the kind of shift in awareness, a subjective assimilation of will or desire through a recognition
+(pratyabhijñā) of subjectivity to occur through a variety of material media. After all, most of what we
+think of as mere matter for Abhinavagupta is a kind of slumbering consciousness.
+Thus here, if we flesh out Abhinavagupta’s and Chalmers’ comparative positions through following
+their perspectives on Frank Jackson’s formulation of the knowledge argument [7], it is probably fair to
+say that Chalmers’ position on whether Mary gains new knowledge when she leaves her black and
+white room and for the first time sees a red rose best assimilates to a Sāṃkhyan position, which tells us
+that Mary does gain new knowledge. As Īśvarakṛṣṇa tells us in the Sāṃkhya Kārikā, “This creation,
+brought about by Prakṛti, from the intellect down to the specific gross elements, (functions) for the
+sake of the release of the Puruṣa” ([12], p. 277). Prakṛti unfolds the materiality of the world in order to
+afford experiences for the Puruṣa. Material nature (Prakṛti, pradhāna), then, operates simply to give
+the Puruṣa new experience which brings knowledge20 ([12], pp. 277–78).
+What Abhinava suggests, on the other hand, sounds much more like the old fact/new guise
+arguments of a thinker like Brian Loar [22]. This is so, despite, or rather perhaps precisely because of
+Abhinavagupta’s monism. Since consciousness is ubiquitous, Mary gains no real new knowledge;
+she does experience insight, a recognition, pratyabhijñā, of an experience she already knows, even if
+this knowing is not fundamentally on the level of verbal knowledge that can be articulated
+(bauddha jñāna21).
+Furthermore, like a Mobius strip, where opposites converge, Abhinavagupta postulates a fundamental
+transmutability of the physical and the phenomenal. He suggests that phenomenal experience is a matter
+of a modal shift. He tells us,
+
+19
+
+Chalmers here embraces of the feasibility of a panpsychist model.
+
+20
+
+However, we should keep in mind that for Sāṃkhya soteriological values, this new knowledge, coming as it does with
+the price of the disruption of the balance of the three guṇas tends to work against its fundamental significance.
+
+21
+
+Abhinavagupta makes a distinction between intellectual verbal knowledge called bauddha jñāna and a deeper
+ontological or existential knowledge called pauruṣeya jñāna.
+
+Religions 2014, 5
+
+10
+
+To this extent, that which is “conscious” contains both perceiver and object and doesn’t have
+this distinction made between itself and the other, the object perceived. Yet that which is
+conscious gives rise to both of these, limited subject and object. And even while
+consciousness exists in that way, as undifferentiated, at the same time out of its own nature,
+that is out of its own form, which shines as only pure consciousness alone; it gives birth to
+things that, like blue, etc. are said to be insentient, things that lack consciousness. So it
+does not abandon its own form as pure consciousness alone shining ([6], p. 292).22
+That is, the object as well the subject perceiving the object both derive from consciousness. With
+this however, we do need to keep in mind that Abhinavagupta ultimately prioritizes the subjective and
+phenomenal pole of experience rather than the material or objective side. Moreover, Abhinavagupta
+argues for a substratum, a locus for the experience of phenomenal subjectivity. In arguing that the
+subtle body is not the same as the locus of subjectivity, he tells us,
+Of course it is possible to declare the subtle body as that state of shining forth since the
+subtle body has the capacity to remain unseen, unlike a pot. But why is there the
+unnecessary addition of the “I” following from this [imposed onto the subtle body]? He
+expresses this idea saying, “in the belief, the concept of “I”… To this objection he replies
+that the [I which appears] to be an extraneous addition should be accepted as necessary to
+[the subtle body]. In the absence of the perception of the “I” in fact, these attributes are
+accompanied by pure unadulterated ignorance. If the host of entities and things, blue etc.
+are not seen as belonging to the condition of the self (ātmatayā) then they would not [have
+the capacity to manifest], but they do appear. When someone says, “this is blue”, the
+person speaking is not devoid of consciousness, i.e., this blue thing is not seen by a fainted
+person, someone blind or in darkness. Here, seeing blue is necessarily an attribute,
+something extra added to I-consciousness. Then, having made the two [I-consciousness and
+the capacity and moment of seeing blue] into a unity, then [we say] a person sees something
+blue, and there, no pure ignorance, which is complete lack of perception, exists ([6], p. 281).23
+Here we see Abhinavagupta make the same kind of move that Chalmers makes when he separates
+out what he calls the phenomenal and the psychological components of consciousness from each
+other ([1], pp. 11–16). Abhinavagupta notes that “seeing blue is necessarily an attribute, something
+extra added to I-consciousness”, dividing the sensory experience of seeing into two components, a
+
+22
+
+“Cit” ity ādi grāhakāt bhinnam iti yāvat. Arthāntarāt grahyāntarāt vila.kṣaṇam; tata eva avibhaktam api
+grāhakagrāhyābhyāṁ vibhāgamāpāditam, tathābhāve >pi “svayam” iti svena rūpeṇa saṁvinmātramayatāṁ
+prakāśamānatvena anujjhad api nīlādi jaḍam ucyate.
+
+23
+
+Nanu adarśanayogyaṁ puryaṣṭakādi prakāśamānatayā nāma saṁbhāvyatāṁ ghaṭādivadeva, tasya tu kim ahaṁ
+pratītyā adhikayā yena uktaṁ “pratītau” iti. Āha “tasyaiva” iti. “Kevalam” iti iyadadhikamavaśyam aṅgīkāryam.
+Ahaṁ pratītyabhāve hi sa eva “śuddhājñatvasahita” iti ātmatayāyo na dṛśyate bhāvavargo nīlādiḥ, sa naiva prakāśeta,
+prakāśate ca asau. Nīlam idam iti hi na mūrcchān dhatamasapadamadaḥ. tad avaśyam aham bhāvena adhikena atra
+bhavitavyaṁ yena kevalaṁ kṛtvā śuddhā tatra ajñatā na bhavati.
+
+Religions 2014, 5
+
+11
+
+phenomenal component and another component related to the particular objective element in the
+experience—the color blue here.24
+Moreover, for Abhinavagupta, the sense of “I” functions as a unifying principle for the subtle body,
+and Abhinavagupta argues that this I-consciousness, the phenomenal component of experience
+encompasses the materiality that is the object. A kind of relativistic relationality, where the lines drawn
+between subject and object are moveable, comprises any given experience, seeing the color blue, for
+instance; however, the subjective component is given priority. We should note also that despite the use
+of the term ātman, Abhinavagupta carefully avoids reifying consciousness into a soul or self, no doubt,
+influenced by earlier Buddhist thinkers, preferring instead verbal nouns, like “prakāśamānatayā”,
+indicating a state or process of shining, and “ahambhāva”, “the feeling of I” rather than a substantive
+entity. Even with ātman, which already occurs in the Spanda Kārikā that he quotes, he himself prefers
+the abstractive form, ātmatā, indicating a state or condition of self, rather than an entity. Moreover,
+he tells us particularly that the use of the term ātman points directly to the notion of the subject,
+specifically in the subject’s ability to know (here, read as the capacity for phenomenal awareness) and
+with this also the subject’s capacity to act:
+Hence, the particular term “ātman,” or “self” has been used to point to the subject, the
+subject with its capacity to know, as it has this capacity of swinging between both the
+object of action and the doer of action ([6], p. 258).25
+The ātman, then, references the subject as implicated both as that which experiences phenomenal
+awareness and as that which is object and agent. In any case, in this capacity, the sense of subjectivity
+itself, Chalmers’ notion of the phenomenal component of consciousness, operates for Abhinavagupta
+as a placeholder that cannot be reduced simply to the subtle body or to materiality.26 It functions rather
+as a dynamic, outflowing of consciousness-capacity that takes on the mode of object and subject,
+moving between back and forth between these two perspectives as the unfolding of the process
+of mind and matter. In any case, ultimately, Abhinavagupta understands the subtle body as a
+transformation of consciousness, or specifically a condensation of consciousness into a more material,
+i.e., object-oriented form.27 He also understands this same process to be involved in the condensation
+24
+
+In one sense, Edelmann’s discussion of Chalmers and Nagel ([20], p. 82) here mirrors this perspective, however,
+Edelmann maintains for the Bhāgavata Purāṇa the substance dualism of consciousness and body, unlike Abhinavagupta.
+However, Abhinavagupta’s view shares with Edelmann’s view from the Bhāgavata Purāṇa the sense that
+consciousness does not originate from the base material substrate of neurons in the brain. Even if Abhinavagupta
+connects consciousness ultimately to body and brain and Edelman does not, Abhinavagupta does argue for the
+connection via the first person perspective of qualia.
+
+25
+
+tata ātmānam eva pramātṛ saṁjñaṁ karmabhāvena kartṛbhāvena ca avalambamānā kriyā karmasthatvena
+kartṛsthatveva vā vivicyamānā ekāśrayaiva bhavantī vastuta ekaiva.
+
+26
+
+Abhinavagupta follows Sāṃkhya in understanding the subtle body as on the side of materiality, however, his monism
+entails that consciousness is ubiquitous; that is materiality is ultimately simply consciousness, cit.
+
+27
+
+Abhinavagupta, Īśvara Pratyabhijñā Vivṛti Vimarśinī ([6], p. 287): “Consciousness, which here possesses latent traces,
+herself creates limitation. Consciousness is one alone, [yet] has a specific form where it consists of sound [form, taste]
+etc. which flow down and are absorbed [in consciousness in the form of residual traces] and because of this the subtle
+body appears separated from [full consciousness.]”: “Svakṛtasaṁkocasaṁskāravatī yā cit, tanmayatayā pralīnam
+apasāritaśabdādirūpa viśeṣam ekam iti puryaṣṭakāntarāder bhinnam.”
+
+Religions 2014, 5
+
+12
+
+of consciousness into the even more dense forms of matter that make up objects here, the physical
+body, the rock, a table and so on.
+To conclude then, it is probably fair to acknowledge that Abhinavagupta’s conception of the
+mind-body split derives initially from a position that favors the phenomenological pole, the “subject”
+formulation of consciousness and matter. This perspective is one he inherits from the wider landscape
+of Indian philosophy, which, unlike our contemporary Western models of materialism, tended
+historically to minimize a materialist position, even as the legacy of Sāṃkhya, like Descartes legacy,
+initially proposed a mind-body dualism. However, Abhinavagupta adds a great deal to possible ways
+of thinking about the mind-body split. His monist position of a spectrum of a subject-object continuum
+offers a way of incorporating an idea of what Chalmers calls the phenomenological, and what
+Abhinavagupta points to as the subjective, while managing to avoid an essentialist dualism between
+the phenomenological on the one hand and the psychological, the neurons firing in that mass of matter
+called the brain.
+Conflicts of Interest
+The author declares no conflict of interest.
+References
+1.
+2.
+
+3.
+
+4.
+
+5.
+6.
+
+7.
+8.
+
+9.
+
+David Chalmers. The Conscious Mind: In Search of a Fundamental Theory. New York: Oxford
+University Press, 1996.
+Abhinavagupta. Parātriṃśikāvivaraṇa. Downloaded from GRETIL—Göttingen Register of
+Electronic Texts in Indian Languages. Available online: http://fiindolo.sub.uni-goettingen.de/
+gret_utf.htm#ParTri_VS (accessed on 15 January 2012). All translations from the Sanskrit are my
+own unless otherwise noted.
+Brian Leiter, and Michael Weisberg. “Do You Only Have a Brain? On Thomas Nagel”. The
+Nation, 22 October 2012. Available online: http://www.thenation.com/article/170334/do-youonly-have-brain-thomas-nagel# (accessed on 14 October 13).
+Edward F. Kelly, Emily Williams Kelly, Adam Crabtree, Alan Gauld, Michael Grosso, and Bruce
+Greyson. Irreducible Mind: Toward a Psychology for the 21st Century. New York: Rowman and
+Littlefield, 2009.
+Daryl Bem. “Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on
+Cognition and Affect.” Journal of Personality and Social Psychology 100 (2011): 407–25.
+Abhinavagupta. Īśvara Pratyabhijñā Vivṛti Vimarśinī, 3 vols. Edited by Paṇḍit Madhusudan Kaul
+Shāstrī. Delhi: Akay Reprints, 1985, vol. 3, pp. 255–354. All translations from the Sanskrit are
+my own unless otherwise noted.
+Frank Jackson. “Epiphenomenal Qualia.” Philosophical Quarterly 32 (1982): 127–36.
+Torin Alter. “Does Representationallism Undermine the Knowledge Argument?” In Phenomenal
+Concepts and Phenomenal Knowledge. Edited by Torin Alter, Sven Walter. New York: Oxford
+University Press, 2007, pp. 65–76.
+Thomas Nagel. “What is it Like to Be a Bat?” Philosophical Review 83 (1974): 435–50.
+
+Religions 2014, 5
+
+13
+
+10. Mikel Burley. “Self, Consciousness, and Liberation in Classical Sāṃkhya.” In Hindu and Buddhist
+Ideas in Dialogue: Self and No-Self. Edited by Irina Kuznetsova, Jonardon Ganeri and Chakravarthi
+Ram-Prasad. Burlington: Ashgate, 2012, pp. 47–62.
+11. David Burke. “Transcendence in Classical Sāṃkhya.” Philosophy East and West 38 (1988): 19–
+29.
+12. Gerald Larson. Classical Sāṃkhya: An Interpretation of its History and Meaning. Delhi: Motilal
+Banarsidass, 1969.
+13. Ray Kurzweil. “Who am I? What am I?” In Science Fiction and Philosophy: From Time Travel to
+Superintelligence. Edited by Susan Schneider. New York: Wiley-Blackwell Publishers, 2009,
+pp. 99–102.
+14. Jonardon Ganeri. “Buddhist No-self: An Analysis and Critique.” In Hindu and Buddhist Ideas in
+Dialogue: Self and No-Self. Edited by Irina Kuznetsova, Jonardon Ganeri and Chakravarthi
+Ram-Prasad. Burlington: Ashgate, 2012, pp. 63–76.
+15. Loriliai Biernacki. “The Conscious Body: Thinking about the Relation between Mind and Body
+with Abhinavagupta’s Tantra.” Paper presented at Big Sur SurSem conference, Big Sur, USA, 23
+May 2013; New York: Rowman and Littlefield, 2015, forthcoming.
+16. Daniel Dennett. “Are we explaining consciousness yet?” Cognition 79 (2001): 221–37.
+17. Irina Kuznetsova. “Emotions: A Challenge to No-self Views.” In Hindu and Buddhist Ideas in
+Dialogue: Self and No-Self. Edited by Irina Kuznetsova, Jonardon Ganeri and Chakravarthi
+Ram-Prasad. Burlington: Ashgate, 2012, pp. 77–95.
+18. Arindam Chakrabarti. “Arguing from Synthesis to the Self: Utpaladeva and Abhinavagupta
+Respond to Buddhist No-selfism.” In Hindu and Buddhist Ideas in Dialogue: Self and No-Self.
+Edited by Irina Kuznetsova, Jonardon Ganeri and Chakravarthi Ram-Prasad. Burlington: Ashgate,
+2012, pp. 199–216.
+19. Isabelle Ratie. “Otherness in the Pratyabhijñā philosophy.” Journal of Indian Philosophy
+35 (2007): 313–70.
+20. Jonathan Edelmann. Hindu Theology and Biology: The Bhāgavata Purāṇa and Contemporary
+Theory. New York: Oxford University Press, 2012.
+21. Chakravarthi Ram-Prasad. “Self and Memory.” In Hindu and Buddhist Ideas in Dialogue:
+Self and No-Self. Edited by Irina Kuznetsova, Jonardon Ganeri and Chakravarthi Ram-Prasad.
+Burlington: Ashgate, 2012, pp. 129–45.
+22. Brian Loar. “Phenomenal States.” In Philosophical Perspectives IV: Action Theory and
+Philosophy of Mind. Edited by James Tomberlin. Atascadero: Ridgeview Press, 1990, pp. 81–108.
+© 2014 by the author; licensee MDPI, Basel, Switzerland. This article is an open access article
+distributed under the terms and conditions of the Creative Commons Attribution license
+(http://creativecommons.org/licenses/by/3.0/).
+
+

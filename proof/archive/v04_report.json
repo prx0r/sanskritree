@@ -1,0 +1,43 @@
+{
+  "total": 30,
+  "by_track": {
+    "a_known": {
+      "count": 10,
+      "avg_lemmas": 4.6,
+      "zero_lemmas": 1,
+      "low_coverage": 2,
+      "frame_distribution": {
+        "Instruction": 5,
+        "IdentityClaim": 1,
+        "DevotionalAct": 4
+      },
+      "b2_llm_ready": 0,
+      "a2_llm_ready": 0
+    },
+    "b_untranslated": {
+      "count": 10,
+      "avg_lemmas": 4.6,
+      "zero_lemmas": 0,
+      "low_coverage": 2,
+      "frame_distribution": {
+        "DevotionalAct": 7,
+        "Instruction": 3
+      },
+      "b2_llm_ready": 0,
+      "a2_llm_ready": 0
+    },
+    "c_adversarial": {
+      "count": 10,
+      "avg_lemmas": 4.0,
+      "zero_lemmas": 1,
+      "low_coverage": 2,
+      "frame_distribution": {
+        "DevotionalAct": 3,
+        "Instruction": 7
+      },
+      "b2_llm_ready": 0,
+      "a2_llm_ready": 0
+    }
+  },
+  "llm_baseline_ready": false
+}

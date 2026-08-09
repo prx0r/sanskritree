@@ -1,0 +1,2108 @@
+This is the correct next move. The “five pure tattvas as changing dominance-relations between **aham** and **idam**” is not a decorative summary; it may be the key to reconstructing the entire *Tantrāloka* as a theory of how one appearing becomes progressively differentiated, localized, actionable, and embodied.
+
+The agent should not search for one chapter titled “the 36 tattvas.” The relevant argument is distributed across:
+
+* Chapter 1’s compressed metaphysical programme;
+* Chapters 2–5 on the means and levels of recognition;
+* Chapter 3’s reflection theory;
+* Chapters 6–10 on time and the six paths of manifestation;
+* Chapter 15 and related initiation chapters on the enactment of those structures;
+* Chapters 28–30 on Kula, embodiment, mantra, and the emergence of differentiated power.
+
+The actual enumeration of the tattva-path is especially associated with Chapter 10, while Chapter 8 covers the path of worlds and the larger spatial manifestation scheme. ([Anuttara Trikakula][1])
+
+Below is a complete research brief for your agent, followed by a first formal specification.
+
+# RESEARCH BRIEF
+
+## Reconstructing the Tantrāloka as a Formal Theory of Manifestation
+
+## Project objective
+
+Determine whether the *Tantrāloka* contains a coherent formal architecture describing:
+
+[
+\text{undifferentiated manifestation}
+\rightarrow
+\text{subject–object polarity}
+\rightarrow
+\text{finite perspective}
+\rightarrow
+\text{cognitive embodiment}
+\rightarrow
+\text{material stabilization}
+\rightarrow
+\text{recognition}.
+]
+
+The task is not to claim that Abhinavagupta anticipated constructor theory, active inference, complexity science, or modern consciousness science.
+
+The task is to identify:
+
+1. Abhinavagupta’s own ontological variables;
+2. the transformations relating them;
+3. the constraints producing finite subjects;
+4. the mechanism of phenomenal differentiation;
+5. the process by which contraction is reversed or recognized;
+6. where the text supplies arguments;
+7. where it supplies inherited tantric doctrine;
+8. where a modern formal reconstruction adds claims absent from the text.
+
+Every research note must label its status:
+
+* **T** — directly textual;
+* **J** — Jayaratha’s interpretive addition;
+* **P** — supported by Pratyabhijñā works outside the *Tantrāloka*;
+* **R** — modern reconstruction;
+* **S** — speculative comparison.
+
+---
+
+# PART I — PRIMARY RESEARCH QUESTIONS
+
+## Question 1: What exactly are Śiva and Śakti?
+
+Do not begin with:
+
+> Śiva is consciousness and Śakti is energy.
+
+That formulation is too vague.
+
+Find passages that clarify whether the relation is:
+
+[
+\text{substance}+\text{property},
+]
+
+[
+\text{subject}+\text{power},
+]
+
+[
+\text{manifestness}+\text{self-articulation},
+]
+
+or:
+
+[
+\text{one process under conceptually distinguishable poles}.
+]
+
+Search terms:
+
+* prakāśa
+* vimarśa
+* svātantrya
+* śakti
+* anuttara
+* saṃvid
+* cit
+* sphurattā
+* spanda
+* aham
+
+Questions to answer:
+
+1. Can prakāśa exist without vimarśa?
+2. Is vimarśa reflexive self-manifestation, determination, agency, linguistic articulation, or all four?
+3. Does Śakti add anything to Śiva, or express what Śiva intrinsically is?
+4. Does Abhinavagupta argue for their inseparability?
+5. Is universal agency derived from reflexivity or assumed from scripture?
+
+## Priority location
+
+### Tantrāloka Chapter 1
+
+Chapter 1 contains the whole teaching in compressed form and provides the programme for the remaining chapters. It is therefore the first source to mine for definitions, arguments, declared dependencies, and chapter cross-references. ([Wikipedia][2])
+
+Extract every verse in Chapter 1 concerning:
+
+* the nature of knowledge;
+* manifestation;
+* consciousness;
+* freedom;
+* bondage;
+* liberation;
+* the upāyas;
+* the relation between scripture, reasoning, and experience;
+* the chapter plan.
+
+Build a dependency graph:
+
+[
+\text{prakāśa}
+\rightarrow
+\text{vimarśa}
+\rightarrow
+\text{svātantrya}
+\rightarrow
+\text{manifest plurality}.
+]
+
+Then determine which arrows are argued and which are merely declared.
+
+---
+
+# PART II — THE FIVE PURE TATTVAS
+
+## Question 2: Are the five pure tattvas ratios of aham and idam?
+
+The working hypothesis is:
+
+[
+T_k
+===
+
+\langle
+A_k,I_k,R_k
+\rangle,
+]
+
+where:
+
+* (A_k): dominance of aham, the subject-pole;
+* (I_k): dominance of idam, the object-pole;
+* (R_k): degree of explicit nonseparation between them.
+
+Provisional structure:
+
+[
+\begin{aligned}
+\text{Śiva}&:\quad A=1,\ I\approx0;\
+\text{Śakti}&:\quad \text{power of transition and articulation};\
+\text{Sadāśiva}&:\quad A>I;\
+\text{Īśvara}&:\quad I>A;\
+\text{Śuddhavidyā}&:\quad A\approx I,\ R\text{ explicit}.
+\end{aligned}
+]
+
+Do not assume this summary is complete.
+
+Investigate:
+
+1. whether Śakti itself should be represented by an aham–idam ratio;
+2. whether Sadāśiva and Īśvara are stages, modes, acts, knowers, or ontological levels;
+3. whether Śuddhavidyā is equilibrium, mutual inclusion, correct judgement, or a specific form of conceptual cognition;
+4. whether the sequence is temporal, logical, phenomenological, cosmological, ritual, or deliberately all of these;
+5. whether Jayaratha explains these levels differently from Abhinavagupta.
+
+## Priority passages
+
+### Tantrāloka 4.113
+
+This verse explicitly connects Śuddhavidyā with the cognition:
+
+[
+\text{“All this is I.”}
+]
+
+and identifies a form of determinate cognition with Śuddhavidyā. It is a crucial source for testing whether Śuddhavidyā is nonconceptual unity or purified conceptual articulation. ([Wisdom Library][3])
+
+### Chapter 3
+
+Chapter 3, especially verses 1–65, develops Abhinavagupta’s theory of reflection and the status of manifest objects in consciousness. A critical study and translation of this exact passage exists and should be treated as a primary research resource. ([Spectrum][4])
+
+The agent must determine whether reflection explains:
+
+* the relation between universal and particular;
+* how objects are present without becoming external substances;
+* how plurality appears within one manifestation;
+* how an image differs from its source;
+* whether reflected objects possess genuine causal or ontological status.
+
+### Related Pratyabhijñā sources
+
+Because the *Tantrāloka* frequently presupposes arguments developed elsewhere, cross-reference:
+
+* Īśvarapratyabhijñākārikā;
+* Īśvarapratyabhijñāvimarśinī;
+* Īśvarapratyabhijñāvivṛtivimarśinī;
+* Parātrīśikāvivaraṇa;
+* Mālinīvijayavārttika;
+* Tantrasāra.
+
+The agent must not attribute a Pratyabhijñā argument to the *Tantrāloka* unless the same reasoning appears there.
+
+---
+
+# PART III — REFLECTION, APPEARANCE, AND DIFFERENTIATION
+
+## Question 3: What is an ābhāsa?
+
+Build a lexicon distinguishing:
+
+* prakāśa;
+* ābhāsa;
+* pratibhāsa;
+* pratibimba;
+* vimarśa;
+* vikalpa;
+* jñāna;
+* grāhaka;
+* grāhya;
+* pramātṛ;
+* prameya.
+
+The central issue is:
+
+[
+\boxed{
+\text{What transforms manifestation into a determinate appearance?}
+}
+]
+
+Candidate reconstruction:
+
+[
+a_k
+===
+
+\operatorname{Articulate}
+\left(
+M,
+Q,
+K,
+V
+\right),
+]
+
+where (a_k) is one determinate appearance.
+
+But the text may instead treat every ābhāsa as the direct free projection of universal consciousness.
+
+Determine whether ābhāsa is:
+
+* an event;
+* a content;
+* an act;
+* a self-limitation;
+* a reflected form;
+* a power;
+* an apparent object;
+* an objectively real manifestation.
+
+## Required Chapter 3 extraction
+
+Create a verse-by-verse map for 3.1–65 with columns:
+
+| Verse | Sanskrit terms | Abhinavagupta’s claim | Jayaratha’s explanation | Opponent | Logical role | Inexternalist relevance |
+| ----- | -------------- | --------------------- | ----------------------- | -------- | ------------ | ----------------------- |
+
+Pay particular attention to the opponents:
+
+* Nyāya;
+* Sāṃkhya;
+* Buddhist Vijñānavāda;
+* theories treating reflections as unreal or as ordinary material effects.
+
+The reflection doctrine should be formalized only after determining what ontological status Abhinavagupta assigns the reflected manifestation.
+
+---
+
+# PART IV — THE UPĀYAS AS LEVELS OF TRANSFORMATION
+
+## Question 4: Do the upāyas correspond to different levels of control?
+
+The *Tantrāloka* organizes its early chapters around the means of liberation:
+
+* Chapter 2: the “no-means” or transcended means;
+* Chapter 3: the supreme or Śāmbhava means;
+* Chapter 4: Śāktopāya;
+* Chapter 5: Āṇavopāya.
+
+Available chapter descriptions associate Chapter 3 with reflection and emergence of consciousness, Chapter 4 with purification of conceptual construction and mantra, and Chapter 5 with meditation, breath, ascent, concentration, and the principle of sound. ([Everand][5])
+
+Test the multiscale-control interpretation:
+
+[
+\begin{aligned}
+\text{anupāya}&:\quad\text{unmediated global transition};\
+\text{śāmbhavopāya}&:\quad\text{transformation of will or global orientation};\
+\text{śāktopāya}&:\quad\text{transformation of cognition and articulation};\
+\text{āṇavopāya}&:\quad\text{transformation through body, breath, perception, and action}.
+\end{aligned}
+]
+
+The agent must determine:
+
+1. whether this hierarchy is explicitly present;
+2. what faculty belongs to each means;
+3. whether lower means cause higher recognition or remove obstacles to it;
+4. whether the same realization is produced through each;
+5. whether practice changes consciousness, reveals it, or both;
+6. whether Abhinavagupta distinguishes temporary state changes from stable recognition.
+
+## Chapter 4 targets
+
+Extract material on:
+
+* vikalpa-saṃskāra;
+* purified conceptualization;
+* tarka;
+* mantra;
+* guru;
+* rules and prohibitions;
+* knowledge as means;
+* the relation of thought to recognition.
+
+## Chapter 5 targets
+
+Extract material on:
+
+* breath;
+* prāṇa;
+* udāna;
+* kuṇḍalinī;
+* bodily centres;
+* phonemic emergence;
+* meditative absorption;
+* expansion and contraction;
+* verses describing saṃvit as spanda or as constituted by powers.
+
+A recently circulated citation identifies 5.79 as describing consciousness-pulsation in terms of three powers and contraction-expansion. The agent must verify the Sanskrit, Jayaratha’s commentary, and the surrounding argument in a reliable edition before using it. ([Reddit][6])
+
+---
+
+# PART V — TIME, SEQUENCE, AND KRAMA
+
+## Question 5: How does timeless manifestation become sequential experience?
+
+Search Chapter 6 for:
+
+* kāla;
+* krama;
+* succession;
+* non-succession;
+* the twelve Kālīs;
+* cognition arising, stabilizing, and dissolving;
+* time as an operation of consciousness;
+* the relation between temporal sequence and the knower.
+
+Formal problem:
+
+[
+M_{\mathrm{nonsequential}}
+\rightarrow
+\tau_i
+======
+
+\langle
+\text{retention},
+\text{presence},
+\text{anticipation}
+\rangle.
+]
+
+Determine whether Abhinavagupta treats sequence as:
+
+* objectively created;
+* phenomenally projected;
+* cognitively synthesized;
+* a contracted power;
+* an unavoidable structure of finite knowing.
+
+Compare with the kañcuka kāla only after identifying whether Chapter 6’s treatment of time belongs to the same explanatory level.
+
+---
+
+# PART VI — THE SIX PATHS OF MANIFESTATION
+
+## Question 6: Is the ṣaḍadhvan a dual coordinate system?
+
+The six paths are commonly organized into:
+
+### Objective or ontic paths
+
+* bhuvana;
+* tattva;
+* kalā.
+
+### Expressive or linguistic paths
+
+* varṇa;
+* mantra;
+* pada.
+
+The agent should test whether Abhinavagupta is proposing that one manifestation can be traversed under two coupled coordinate systems:
+
+[
+\boxed{
+\text{world-structure}
+\leftrightarrow
+\text{articulatory structure}.
+}
+]
+
+This could be one of the most important parts of the entire project.
+
+The chapters most relevant are approximately:
+
+* Chapter 7: mantra-related and path preliminaries;
+* Chapter 8: bhuvanādhvan, the path of worlds;
+* Chapter 9: kalādhvan;
+* Chapter 10: tattvādhvan.
+
+Chapter 8 explicitly treats the path of worlds, while published contents identify Chapter 10 as the enumeration and analysis of the path of the tattvas. ([Anuttara Trikakula][1])
+
+## Questions
+
+1. Are the six paths six ontologies or six descriptions?
+2. How are linguistic and cosmological paths mapped?
+3. Are mantra and world two manifestations of one power?
+4. Does initiation reverse or purify these paths?
+5. Is the mapping one-to-one, hierarchical, recursive, or context-dependent?
+6. Does each tattva contain all lower levels?
+7. Are the paths instantiated in the body?
+8. Is the totality conceived as a nested hierarchy, a lattice, or a projection?
+
+## Formal reconstruction target
+
+Let:
+
+[
+\mathcal O
+==========
+
+{
+\text{kalā},
+\text{tattva},
+\text{bhuvana}
+}
+]
+
+and:
+
+[
+\mathcal L
+==========
+
+{
+\text{varṇa},
+\text{mantra},
+\text{pada}
+}.
+]
+
+Search for an explicit or implicit mapping:
+
+[
+F:\mathcal L\rightarrow\mathcal O.
+]
+
+Do not assume (F) is an isomorphism.
+
+The goal is to establish what type of correspondence the text actually claims.
+
+---
+
+# PART VII — THE TATTVA PATH
+
+## Question 7: What does Chapter 10 actually say the tattvas are?
+
+This chapter must be analyzed in full.
+
+Do not impose the modern summary before reading it.
+
+For each tattva, extract:
+
+* definition;
+* causal or logical predecessor;
+* dominant power;
+* associated knower;
+* associated mantra or phoneme;
+* associated world;
+* associated bodily locus;
+* associated form of cognition;
+* mechanism of transition to the next tattva;
+* method by which initiation or contemplation traverses it.
+
+## Required formal table
+
+| Tattva | Textual definition | Subject-pole | Object-pole | Power | Restriction | Cognitive function | Embodied function | Modern reconstruction |
+| ------ | ------------------ | -----------: | ----------: | ----- | ----------- | ------------------ | ----------------- | --------------------- |
+
+## Special focus
+
+The agent must establish whether the five pure tattvas truly form:
+
+[
+\text{different ratios of aham and idam},
+]
+
+or whether that familiar presentation compresses more complex distinctions involving:
+
+* icchā;
+* jñāna;
+* kriyā;
+* explicitness;
+* determination;
+* temporal order;
+* levels of knowers.
+
+The result may require a multidimensional vector rather than one ratio:
+
+[
+T_k
+===
+
+\left(
+A_k,
+I_k,
+\mathcal I_k,
+\mathcal J_k,
+\mathcal K_k,
+R_k
+\right),
+]
+
+where:
+
+* (A_k): aham dominance;
+* (I_k): idam dominance;
+* (\mathcal I_k): will;
+* (\mathcal J_k): knowledge;
+* (\mathcal K_k): action;
+* (R_k): recognition of inseparability.
+
+This is likely more accurate than a single slider.
+
+---
+
+# PART VIII — MĀYĀ, KAÑCUKAS, AND THE APERTURE
+
+## Question 8: Are the kañcukas a formal subject-construction operator?
+
+Working hypothesis:
+
+[
+L_i
+===
+
+\left(
+\mathcal A_i,
+\mathcal O_i,
+\mathcal V_i,
+\tau_i,
+\mathcal C_i
+\right),
+]
+
+where:
+
+* (\mathcal A_i): available action repertoire — kalā;
+* (\mathcal O_i): accessible knowledge or observable algebra — vidyā;
+* (\mathcal V_i): value and incompleteness structure — rāga;
+* (\tau_i): temporal horizon — kāla;
+* (\mathcal C_i): causal and situational constraints — niyati.
+
+Then:
+
+[
+\operatorname{Localize}(M,L_i)
+==============================
+
+P_i.
+]
+
+This should be tested against the actual textual order and explanations.
+
+Questions:
+
+1. Does Māyā first create difference, or only conceal nonseparation?
+2. Does each kañcuka restrict a corresponding universal śakti?
+3. Is puruṣa the product of all five restrictions?
+4. Is puruṣa already phenomenally unified?
+5. What differentiates puruṣa from ahaṃkāra?
+6. Is rāga merely desire, or the ontological condition of incompleteness?
+7. Does niyati mean causal necessity, spatial placement, karmic order, or all of these?
+8. Is finite time generated by kāla, or merely disclosed through it?
+
+## Inexternalist target
+
+If supported, the kañcukas become the textual precursor of the aperture parameters:
+
+[
+\boxed{
+\text{one local subject}
+========================
+
+\text{one restricted access–action–value–time–location profile}.
+}
+]
+
+But the text must be checked for whether the restrictions genuinely individuate subjects or merely describe the universal subject’s self-concealment.
+
+---
+
+# PART IX — PURUṢA, PRAKṚTI, AND THE LOWER TATTVAS
+
+## Question 9: Where exactly does the subject become an organism?
+
+The tattva system distinguishes:
+
+[
+\text{puruṣa}
+\rightarrow
+\text{prakṛti}
+\rightarrow
+\text{buddhi}
+\rightarrow
+\text{ahaṃkāra}
+\rightarrow
+\text{manas}
+\rightarrow
+\text{senses and actions}.
+]
+
+The agent must avoid treating puruṣa as equivalent to the modern organism.
+
+Determine:
+
+* whether puruṣa is a bare finite knower;
+* whether embodiment begins only at prakṛti;
+* whether ahaṃkāra generates ownership;
+* whether manas generates coordination;
+* whether buddhi generates determination;
+* whether these are substances, powers, functions, or stages of cognition.
+
+## Formal distinction
+
+Candidate hierarchy:
+
+[
+\begin{aligned}
+P_i&=\text{finite aperture or knower};\
+\Sigma_i&=\text{embodied realization};\
+B_i&=\text{determination system};\
+E_i&=\text{ownership model};\
+M_i&=\text{coordination and attentional system}.
+\end{aligned}
+]
+
+Then:
+
+[
+D_i
+\not\equiv
+E_i.
+]
+
+The ego-model is inside the field, not the source of manifestation.
+
+This distinction must be tested against Abhinavagupta’s descriptions of ahaṃkāra and the pramātṛ hierarchy.
+
+---
+
+# PART X — THE SEVEN KNOWERS
+
+## Question 10: Does Trika already contain a scale theory of subjects?
+
+Find every treatment of the seven pramātṛs:
+
+* sakala;
+* pralayākala;
+* vijñānākala;
+* mantra;
+* mantreśvara;
+* mantramaheśvara;
+* Śiva.
+
+For each, specify:
+
+* what is manifest;
+* what is not manifest;
+* whether objects appear;
+* degree of agency;
+* degree of knowledge;
+* degree of contraction;
+* relationship to māyā;
+* relationship to the pure tattvas.
+
+Formalize each knower as:
+
+[
+S_k
+===
+
+\left(
+A_k,
+K_k,
+O_k,
+V_k,
+R_k
+\right).
+]
+
+This may prove more illuminating than treating the tattvas alone as the complete consciousness model.
+
+The tattvas describe possible ontological structures.
+
+The pramātṛs may describe how those structures are occupied as modes of knowing.
+
+---
+
+# PART XI — INITIATION AS FORMAL TRAVERSAL
+
+## Question 11: How does initiation manipulate the tattva architecture?
+
+Mine Chapters 13–27 for:
+
+* eligibility;
+* śaktipāta;
+* initiation;
+* purification of paths;
+* placement of mantras;
+* bodily installation;
+* severing bonds;
+* removal of marks;
+* post-initiation observances;
+* the role of the guru;
+* liberation at death or during life.
+
+The extensive initiation material is not secondary to the metaphysics.
+
+It reveals how Abhinavagupta thinks the ontological structure can be operationally transformed.
+
+The agent should construct:
+
+[
+\mathcal T_{\mathrm{dīkṣā}}
+:
+S_i
+\rightarrow
+S_i'.
+]
+
+But this transformation must be broken into actual ritual suboperations:
+
+* purification;
+* deconstruction;
+* installation;
+* identification;
+* traversal;
+* reintegration.
+
+Questions:
+
+1. What exactly is purified?
+2. Is karma destroyed, rendered ineffective, or reinterpreted?
+3. Are the paths ontological structures, ritual representations, or both?
+4. Does initiation change the subject or reveal its prior condition?
+5. What role does external authorization play?
+6. How is the transformed state stabilized?
+
+---
+
+# PART XII — KULA, BODY, AND THE END OF THE SUBJECT–OBJECT DIVIDE
+
+## Question 12: What does Kula add that the tattva system cannot?
+
+Mine Chapters 28 and 29 especially for:
+
+* kula;
+* kaulika;
+* body;
+* sexual polarity;
+* emission;
+* bliss;
+* ritual substances;
+* yoginī;
+* cakra;
+* transmission;
+* the relation between universal and embodied power.
+
+Chapter 29 is known for its Kaula ritual material and has received focused translation and study. ([Wikipedia][2])
+
+The agent must distinguish:
+
+* literal ritual instruction;
+* symbolic interpretation;
+* physiological theory;
+* social transgression;
+* metaphysical enactment;
+* Jayaratha’s interpretation.
+
+Formal question:
+
+[
+\boxed{
+\text{Does Kula represent the recovery of inexternal unity}
+}
+]
+
+[
+\boxed{
+\text{inside the fully differentiated embodied process?}
+}
+]
+
+If so, it may complete the arc:
+
+[
+\text{Śuddhavidyā}
+\rightarrow
+\text{contraction}
+\rightarrow
+\text{embodiment}
+\rightarrow
+\text{embodied nonalienation}.
+]
+
+---
+
+# PART XIII — MANTRA AND THE MATṚKĀ SYSTEM
+
+## Question 13: Is language constitutive of differentiation?
+
+Mine Chapter 30 and relevant passages throughout Chapters 3–7 for:
+
+* mātṛkā;
+* mālinī;
+* varṇa;
+* mantra;
+* śabda;
+* vāc;
+* parā;
+* paśyantī;
+* madhyamā;
+* vaikharī;
+* phonemic powers;
+* mantra efficacy.
+
+The agent should test:
+
+[
+\boxed{
+\text{world articulation}
+\leftrightarrow
+\text{linguistic articulation}.
+}
+]
+
+Do not reduce this to:
+
+> language shapes perception.
+
+Abhinavagupta’s claim is likely stronger: determinate manifestation is inherently expressive or articulatory.
+
+Formal reconstruction:
+
+[
+\mathcal W
+==========
+
+\operatorname{Articulate}
+\left(
+M,\mathcal L
+\right),
+]
+
+where (\mathcal L) is not merely spoken language but a structured space of differentiation.
+
+The agent must identify whether phonemes are treated:
+
+* symbolically;
+* causally;
+* ontologically;
+* ritually;
+* phenomenologically.
+
+---
+
+# PART XIV — RECOGNITION AND LIBERATION
+
+## Question 14: What changes in liberation?
+
+Build a matrix distinguishing:
+
+* change in phenomenal content;
+* change in ownership;
+* change in agency;
+* change in conceptual judgement;
+* change in bodily organization;
+* change in causal capacities;
+* change in metaphysical status;
+* recognition of an already-existing condition.
+
+Formal candidate:
+
+[
+\mathcal T_{\mathrm{rec}}
+:
+\boldsymbol\sigma_i
+\rightarrow
+\boldsymbol\sigma_i',
+]
+
+where:
+
+[
+\boldsymbol\sigma_i
+===================
+
+\left(
+\sigma_{\mathrm{owner}},
+\sigma_{\mathrm{separate}},
+\sigma_{\mathrm{deficient}},
+\sigma_{\mathrm{agentive}},
+\sigma_{\mathrm{embodied}}
+\right).
+]
+
+The agent must establish whether Abhinavagupta claims:
+
+[
+D_i=D_\infty
+]
+
+literally, or whether recognition concerns identity of nature, source, power, or manifest character.
+
+This distinction is essential.
+
+---
+
+# PART XV — DELIVERABLES
+
+The agent must produce the following.
+
+## 1. Tantrāloka metaphysical concordance
+
+For every occurrence of:
+
+* prakāśa;
+* vimarśa;
+* svātantrya;
+* spanda;
+* ābhāsa;
+* pratibimba;
+* aham;
+* idam;
+* saṃkoca;
+* vikāsa;
+* māyā;
+* kañcuka;
+* puruṣa;
+* pramātṛ;
+* tattva;
+* adhvan;
+* mala;
+* śaktipāta;
+* anugraha;
+* mokṣa;
+
+record:
+
+* chapter and verse;
+* Sanskrit;
+* translation variants;
+* immediate context;
+* Jayaratha’s gloss;
+* doctrinal function.
+
+## 2. Argument graph
+
+Represent every argument as:
+
+[
+P_1,\ldots,P_n\Rightarrow C.
+]
+
+Mark:
+
+* explicit inference;
+* scriptural authority;
+* analogy;
+* phenomenological appeal;
+* opponent refutation;
+* ritual claim;
+* theological assertion.
+
+## 3. Transformation graph
+
+Represent the doctrinal architecture as:
+
+[
+S_a
+\overset{\mathcal T}{\longrightarrow}
+S_b.
+]
+
+Examples:
+
+[
+\text{Śiva}
+\rightarrow
+\text{Śakti}
+\rightarrow
+\text{Sadāśiva};
+]
+
+[
+\text{uncontracted power}
+\rightarrow
+\text{kañcuka restriction};
+]
+
+[
+\text{contracted self-model}
+\rightarrow
+\text{recognition}.
+]
+
+## 4. Countermodel register
+
+For every modern interpretation, ask what else could explain the passage.
+
+Example:
+
+[
+\text{rāga}
+]
+
+may correspond to endogenous valence, but it may instead mean a metaphysical sense of incompleteness not reducible to biological regulation.
+
+## 5. Confidence scale
+
+* 5 — directly and repeatedly stated;
+* 4 — strongly supported by text and commentary;
+* 3 — plausible reconstruction;
+* 2 — useful analogy;
+* 1 — speculative comparison;
+* 0 — contradicted or unsupported.
+
+---
+
+# FIRST FORMAL SPECIFICATION
+
+## Tantrāloka Process Architecture — TPA v0.1
+
+## 1. Status
+
+This framework does not claim to translate the *Tantrāloka* into modern physics.
+
+It defines a formal metalanguage for reconstructing the transformations described by the text.
+
+The formalism has four layers:
+
+[
+\boxed{
+\text{textual ontology}
+\rightarrow
+\text{transformation structure}
+\rightarrow
+\text{subject architecture}
+\rightarrow
+\text{recognition dynamics}.
+}
+]
+
+---
+
+## 2. Primitive domains
+
+Let:
+
+[
+\mathbb M
+]
+
+be the domain of manifest states.
+
+Let:
+
+[
+\mathbb P
+]
+
+be the domain of powers or permitted transformations.
+
+Let:
+
+[
+\mathbb A
+]
+
+be the domain of determinate appearances.
+
+Let:
+
+[
+\mathbb S
+]
+
+be the domain of subject-configurations.
+
+Let:
+
+[
+\mathbb W
+]
+
+be the domain of manifested worlds.
+
+Let:
+
+[
+\mathbb L
+]
+
+be the domain of linguistic or articulatory forms.
+
+The theory does not initially assume:
+
+[
+\mathbb M
+=========
+
+\mathbb S.
+]
+
+That stronger identity must be separately reconstructed from the text.
+
+---
+
+## 3. Manifestness primitive
+
+Define:
+
+[
+\operatorname{Man}(x)
+]
+
+as “(x) is manifest.”
+
+Abhinavagupta’s transcendental starting point becomes:
+
+[
+\operatorname{Established}(x)
+\Rightarrow
+\operatorname{Man}(x).
+]
+
+Manifestness is not introduced as the output of a nonmanifest transformation.
+
+---
+
+## 4. Reflexive articulation
+
+Define:
+
+[
+\mathcal V:
+\mathbb M\times\mathbb P
+\rightarrow
+\mathbb A.
+]
+
+[
+a
+=
+
+\mathcal V(m,p).
+]
+
+(\mathcal V) is the vimarśa operator: manifestation becomes determinately manifest as (a).
+
+This must not initially be identified with human conceptual reflection.
+
+Its properties may include:
+
+### Reflexivity
+
+[
+\operatorname{Man}(m)
+\Rightarrow
+\operatorname{Man}
+\left(
+\mathcal V(m,p)
+\right).
+]
+
+### Determination
+
+[
+\mathcal V(m,p)=a_k
+]
+
+selects one determinate articulation from a possibility set.
+
+### Self-inclusion
+
+The manifestation of (a) does not become ontologically external to (m):
+
+[
+a\in\operatorname{Articulations}(m).
+]
+
+---
+
+## 5. Śiva–Śakti dyad
+
+Define:
+
+[
+\mathbf S_0
+===========
+
+\langle
+M,\Omega_M
+\rangle,
+]
+
+where:
+
+* (M): manifest presence;
+* (\Omega_M): structured power of articulation.
+
+Then:
+
+[
+\text{Śiva}
+\rightsquigarrow
+M,
+]
+
+[
+\text{Śakti}
+\rightsquigarrow
+\Omega_M.
+]
+
+The inseparability principle is:
+
+[
+M\text{ without }\Omega_M
+]
+
+and:
+
+[
+\Omega_M\text{ without }M
+]
+
+are not independently instantiated states.
+
+---
+
+## 6. Subject–object polarity
+
+Each pure tattva is represented as:
+
+[
+T_k
+===
+
+\left\langle
+A_k,I_k,R_k,\Pi_k
+\right\rangle,
+]
+
+where:
+
+* (A_k): salience or dominance of aham;
+* (I_k): salience or dominance of idam;
+* (R_k): explicit recognition of their inseparability;
+* (\Pi_k): dominant power configuration.
+
+Provisional values:
+
+[
+\begin{aligned}
+T_{\text{Śiva}}
+&=
+\langle
+1,0,1,\text{prakāśa}
+\rangle;\
+T_{\text{Śakti}}
+&=
+\langle
+*,*,1,\text{vimarśa}
+\rangle;\
+T_{\text{Sadāśiva}}
+&=
+\langle
+A>I,\ I>0,\ 1,\text{icchā}
+\rangle;\
+T_{\text{Īśvara}}
+&=
+\langle
+I>A,\ A>0,\ 1,\text{jñāna}
+\rangle;\
+T_{\text{Śuddhavidyā}}
+&=
+\langle
+A\approx I,\ 1,\text{kriyā/balanced cognition}
+\rangle.
+\end{aligned}
+]
+
+The asterisks mark unresolved values.
+
+The research must determine whether the power assignments and ratios accurately represent the text.
+
+---
+
+## 7. Reflection operator
+
+Define:
+
+[
+\mathcal R_M:
+X
+\rightarrow
+\mathbb A.
+]
+
+[
+\mathcal R_M(x)=a_x.
+]
+
+The reflection operator must preserve:
+
+* dependence on manifest ground;
+* differentiation of appearance;
+* nonidentity with an independently existing external substance.
+
+Possible conditions:
+
+[
+a_x
+\neq
+x
+]
+
+as mode of presentation, while:
+
+[
+a_x
+]
+
+is not ontologically null.
+
+This section must be revised after full analysis of *Tantrāloka* 3.1–65.
+
+---
+
+## 8. Contraction operator
+
+Define a contraction profile:
+
+[
+L_i
+===
+
+\left\langle
+\mathcal A_i,
+\mathcal K_i,
+\mathcal V_i,
+\tau_i,
+\mathcal C_i
+\right\rangle.
+]
+
+Then:
+
+[
+\mathcal Cn:
+\mathbf S_0\times L_i
+\rightarrow
+P_i.
+]
+
+Where:
+
+[
+P_i
+===
+
+\mathcal Cn(\mathbf S_0,L_i).
+]
+
+Correspondences:
+
+[
+\begin{aligned}
+\mathcal A_i&\rightsquigarrow\text{kalā};\
+\mathcal K_i&\rightsquigarrow\text{vidyā};\
+\mathcal V_i&\rightsquigarrow\text{rāga};\
+\tau_i&\rightsquigarrow\text{kāla};\
+\mathcal C_i&\rightsquigarrow\text{niyati}.
+\end{aligned}
+]
+
+This yields a finite subject profile.
+
+It does not yet determine whether (P_i) is one phenomenal field.
+
+---
+
+## 9. Embodiment operator
+
+Define:
+
+[
+\mathcal E:
+P_i\times\mathbb N
+\rightarrow
+\Sigma_i,
+]
+
+where (\mathbb N) contains the prakṛti-derived cognitive and sensorimotor structures.
+
+Let:
+
+[
+\Sigma_i
+========
+
+\left\langle
+B_i,E_i,M_i,
+J_i,
+A_i,Q_i
+\right\rangle,
+]
+
+where:
+
+* (B_i): determination — buddhi;
+* (E_i): ownership model — ahaṃkāra;
+* (M_i): coordination — manas;
+* (J_i): sensory capacities;
+* (A_i): action capacities;
+* (Q_i): qualitative modality structure.
+
+The embodied world is:
+
+[
+W_i
+===
+
+\mathcal W(\Sigma_i,\mathcal C_i).
+]
+
+---
+
+## 10. Ownership relation
+
+Define:
+
+[
+\operatorname{Own}_i(x)
+]
+
+as the system’s attribution of content or action (x) to its finite self-model.
+
+Then:
+
+[
+E_i
+===
+
+{
+x:
+\operatorname{Own}_i(x)
+}.
+]
+
+This must remain distinct from manifestness:
+
+[
+\operatorname{Man}(x)
+\not\Rightarrow
+\operatorname{Own}_i(x).
+]
+
+Thus:
+
+[
+\text{ahaṃkāra}
+\neq
+\text{prakāśa}.
+]
+
+---
+
+## 11. Māyā as reification operator
+
+Define:
+
+[
+\mathcal Y:
+\operatorname{Rel}(x)
+\rightarrow
+\operatorname{Independent}(x).
+]
+
+Māyā transforms a relationally constituted distinction into an apparently self-grounding separation.
+
+This is not a transformation of the object alone.
+
+It is a transformation of its mode of apprehension:
+
+[
+\mathcal Y
+\left(
+x\mid\text{conditioned}
+\right)
+=======
+
+x\mid\text{apparently independent}.
+]
+
+---
+
+## 12. Mala vector
+
+Define:
+
+[
+\boldsymbol\mu_i
+================
+
+\left(
+\mu_{\āṇava},
+\mu_{\māyīya},
+\mu_{\kārma}
+\right).
+]
+
+Where:
+
+[
+\mu_{\āṇava}
+============
+
+\text{degree of identification with insufficiency};
+]
+
+[
+\mu_{\māyīya}
+=============
+
+\text{degree of reified separation};
+]
+
+[
+\mu_{\kārma}
+============
+
+\text{degree of recursive action-lock}.
+]
+
+These should be treated as dynamically interacting variables rather than three independent substances.
+
+---
+
+## 13. Recognition transformation
+
+Define:
+
+[
+\mathcal T_{\mathrm{rec}}
+:
+\left(
+P_i,\Sigma_i,\boldsymbol\mu_i
+\right)
+\rightarrow
+\left(
+P_i,\Sigma_i',\boldsymbol\mu_i'
+\right).
+]
+
+Recognition need not destroy the local subject:
+
+[
+P_i\not\rightarrow0.
+]
+
+Instead:
+
+[
+\mu_{\āṇava}',
+\mu_{\māyīya}',
+\mu_{\kārma}'
+<
+\mu_{\āṇava},
+\mu_{\māyīya},
+\mu_{\kārma}.
+]
+
+The stronger Śaiva identity claim is:
+
+[
+P_i
+===
+
+\pi_i(\mathbf S_0).
+]
+
+Whether this means:
+
+* identity of nature;
+* identity of token;
+* identity of ground;
+* identity of power;
+* identity of subject;
+
+must be decided textually.
+
+---
+
+## 14. Upāya operators
+
+Define intervention families:
+
+[
+\mathfrak U
+===========
+
+{
+\mathcal U_0,
+\mathcal U_S,
+\mathcal U_K,
+\mathcal U_A
+}.
+]
+
+### Anupāya
+
+[
+\mathcal U_0:
+S_i\rightarrow S_i'
+]
+
+without an extended intermediate task sequence.
+
+### Śāmbhavopāya
+
+[
+\mathcal U_S:
+\alpha_i\rightarrow\alpha_i',
+]
+
+where (\alpha_i) is global orientation or will.
+
+### Śāktopāya
+
+[
+\mathcal U_K:
+Q_i\rightarrow Q_i',
+]
+
+where (Q_i) is conceptual and articulatory organization.
+
+### Āṇavopāya
+
+[
+\mathcal U_A:
+\Sigma_i\rightarrow\Sigma_i',
+]
+
+through bodily, respiratory, sensory, imaginal, or ritual operations.
+
+These are formal reconstructions, not Sanskrit definitions.
+
+---
+
+## 15. Six-path structure
+
+Define two ordered families:
+
+[
+\mathcal O
+==========
+
+{
+\text{kalā},
+\text{tattva},
+\text{bhuvana}
+},
+]
+
+[
+\mathcal L
+==========
+
+{
+\text{varṇa},
+\text{mantra},
+\text{pada}
+}.
+]
+
+Seek a textually supported correspondence:
+
+[
+F:
+\mathcal L
+\leftrightarrow
+\mathcal O.
+]
+
+The type of (F) remains open:
+
+* isomorphism;
+* homomorphism;
+* projection;
+* ritual correspondence;
+* symbolic superposition;
+* nested containment.
+
+---
+
+## 16. Five-act dynamics
+
+Define process operators:
+
+[
+\begin{aligned}
+\mathcal G&:\text{generation};\
+\mathcal S&:\text{stabilization};\
+\mathcal D&:\text{dissolution};\
+\mathcal C&:\text{concealment};\
+\mathcal R&:\text{recognition or grace}.
+\end{aligned}
+]
+
+A state trajectory becomes:
+
+[
+x
+\overset{\mathcal G}{\longrightarrow}
+x'
+\overset{\mathcal S}{\longrightarrow}
+x''
+\overset{\mathcal D}{\longrightarrow}
+x'''
+]
+
+with concealment and disclosure operating on the system’s self-relation.
+
+The agent must determine whether these acts apply:
+
+* cosmically;
+* cognitively;
+* moment by moment;
+* ritually;
+* at all levels simultaneously.
+
+---
+
+## 17. Tantrāloka aperture candidate
+
+The modern synthesis may define:
+
+[
+\operatorname{TApt}
+\left(
+P_i;
+L_i,\Sigma_i,\Gamma_i
+\right),
+]
+
+where a Tantrāloka aperture is:
+
+* a finite knowing centre;
+* produced through the five restrictions;
+* embodied through the lower tattvas;
+* organized by sensory and action capacities;
+* temporally persistent;
+* capable of ownership and recognition.
+
+This is not an Abhinavaguptan term.
+
+It is the bridge to CTPI.
+
+---
+
+## 18. Relation to CTPI
+
+CTPI separates:
+
+[
+\text{physical tasks},
+\quad
+\text{aperture selection},
+\quad
+\text{phenomenal identity}.
+]
+
+The uploaded v0.2 correctly prevents constructor-theoretic concepts from being confused with phenomenal inwardness and treats the inexternal identity as a separate metaphysical postulate. 
+
+The combined structure becomes:
+
+[
+\boxed{
+\begin{aligned}
+\text{Tantrāloka layer:}\quad&
+\text{describes manifestation, articulation, contraction, and recognition};\
+\text{CT layer:}\quad&
+\text{describes physically possible constitutive transformations};\
+\text{Aperture layer:}\quad&
+\text{selects one embodied process};\
+\text{Inexternal layer:}\quad&
+D_i\equiv_{\mathrm{inext}}O_i.
+\end{aligned}
+}
+]
+
+The theories overlap at:
+
+[
+\text{puruṣa}
+\rightsquigarrow
+\text{finite aperture}.
+]
+
+They differ at the metaphysical foundation.
+
+### Tantrāloka
+
+[
+D_i
+===
+
+\operatorname{Contraction}*i
+(D*\infty).
+]
+
+### Neutral process inexternalism
+
+[
+D_i
+\equiv_{\mathrm{inext}}
+O_i.
+]
+
+### Participatory inexternalism
+
+[
+D_i
+===
+
+\pi_{O_i}(M_0).
+]
+
+The last form is closest to Abhinavagupta without asserting numerical identity among all phenomenal fields.
+
+---
+
+# FINAL RESEARCH STANDARD
+
+The agent must never write:
+
+> Abhinavagupta says X, which is basically active inference.
+
+Instead use:
+
+### Text
+
+> Abhinavagupta states X in chapter and verse Y.
+
+### Function
+
+> X performs the following role in his system.
+
+### Reconstruction
+
+> A modern formal representation of that role is Z.
+
+### Limit
+
+> Z does not establish that Abhinavagupta intended or anticipated the modern theory.
+
+The aim is not to modernize the text until it becomes familiar.
+
+The aim is to recover the exact architecture of a system that may be stranger, more rigorous, and more internally differentiated than the standard phrase:
+
+> Everything is consciousness.
+
+The central hypothesis to investigate is:
+
+[
+\boxed{
+\textbf{The Tantrāloka is a formal grammar of how one}
+}
+]
+
+[
+\boxed{
+\textbf{self-manifesting event differentiates into subject,}
+}
+]
+
+[
+\boxed{
+\textbf{object, value, time, causality, cognition, language,}
+}
+]
+
+[
+\boxed{
+\textbf{body, and world without producing anything genuinely}
+}
+]
+
+[
+\boxed{
+\textbf{external to manifestation.}
+}
+]
+
+## The key conceptual correction
+
+I would refine the “five pure tattvas are different ratios” insight slightly.
+
+They are probably not merely five values on one axis:
+
+[
+r=\frac{\text{aham}}{\text{idam}}.
+]
+
+They appear to be states in a multidimensional configuration space:
+
+[
+T_k
+===
+
+\left(
+\text{aham salience},
+\text{idam salience},
+\text{will},
+\text{knowledge},
+\text{action},
+\text{explicit nonseparation}
+\right).
+]
+
+That matters because Śakti is not simply the midpoint between Śiva and Sadāśiva. It is the **capacity for the entire transformation space**. Sadāśiva and Īśvara are not only reversed ratios; they may involve different dominant powers and different modes of determination. Śuddhavidyā is not a neutral 50/50 mixture but the explicit cognition that differentiation does not cancel identity—*Tantrāloka* 4.113 is a particularly important textual anchor for that. ([Wisdom Library][3])
+
+The real geometry may be:
+
+[
+\boxed{
+\text{Śiva–Śakti}
+=================
+
+\text{the space and power of articulation},
+}
+]
+
+while:
+
+[
+\boxed{
+\text{Sadāśiva–Īśvara–Śuddhavidyā}
+==================================
+
+\text{three stable organizations of subject–object articulation}.
+}
+]
+
+That is much sharper than the familiar ladder.
+
+## How to formalize without repeating CTPI’s earlier mistake
+
+The Tantrāloka specification must not pretend its Sanskrit categories are constructor-theoretic primitives. The clean division is:
+
+[
+\boxed{
+\text{TPA describes the phenomenological–metaphysical architecture;}
+}
+]
+
+[
+\boxed{
+\text{CTPI describes candidate physical realizations.}
+}
+]
+
+Then create bridge hypotheses one by one:
+
+[
+\text{kalā}
+\stackrel{?}{\leftrightarrow}
+\text{finite action repertoire},
+]
+
+[
+\text{vidyā}
+\stackrel{?}{\leftrightarrow}
+\text{finite measurement algebra},
+]
+
+[
+\text{rāga}
+\stackrel{?}{\leftrightarrow}
+\text{endogenous preference and viability structure},
+]
+
+[
+\text{kāla}
+\stackrel{?}{\leftrightarrow}
+\text{timer-recorded developmental trajectory},
+]
+
+[
+\text{niyati}
+\stackrel{?}{\leftrightarrow}
+\text{causal locality and resource constraints}.
+]
+
+Only after those bridges are independently justified should we write:
+
+[
+\operatorname{TApt}(P_i)
+\leftrightarrow
+\operatorname{Apt}(O_i).
+]
+
+The strongest eventual synthesis would be:
+
+[
+\boxed{
+\begin{aligned}
+P_i
+&=
+\mathcal Cn
+\left(
+M,
+L_i
+\right);\
+O_i
+&=
+\operatorname{PhysicalRealization}
+\left(
+P_i
+\right);\
+D_i
+&\equiv_{\mathrm{inext}}
+O_i.
+\end{aligned}
+}
+]
+
+Abhinavagupta adds:
+
+[
+M
+=
+
+\text{one universally reflexive subject}.
+]
+
+Our neutral theory leaves open whether (M) is:
+
+* a common manifest character;
+* a fundamental intrinsic capacity;
+* a participatory ground;
+* one universal subject.
+
+That is precisely where textual reconstruction and modern metaphysics must remain separate.
+
+[1]: https://www.anuttaratrikakula.org/course-taa-ch-8-overview/?utm_source=chatgpt.com "Course TAA CH 8 Overview – The Trika Shaivism of Kashmir"
+[2]: https://en.wikipedia.org/wiki/Tantr%C4%81loka?utm_source=chatgpt.com "Tantrāloka"
+[3]: https://www.wisdomlib.org/hinduism/book/tantraloka-sanskrit-text/d/doc486932.html?utm_source=chatgpt.com "Tantraloka Verse 4.113 [Sanskrit text]"
+[4]: https://spectrum.library.concordia.ca/id/eprint/981912/?utm_source=chatgpt.com "Abhinavagupta’s Theory of Reflection A Study, Critical Edition and Translation of the Pratibimbavāda (verses 1-65) in Chapter III of the Tantrāloka with the commentary of Jayaratha - Spectrum: Concordia University Research Repository"
+[5]: https://www.everand.com/book/575763425/Tantr%C4%81loka-Light-of-Tantra-Volume-1?utm_source=chatgpt.com "Tantrāloka by Gabriel Pradiipaka (Ebook) - Read free for 30 days"
+[6]: https://www.reddit.com/r/KashmirShaivism/comments/1ua8ttr/removed/?utm_source=chatgpt.com "[Removed]"

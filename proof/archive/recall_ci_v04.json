@@ -1,0 +1,128 @@
+{
+  "n_adjudicated": 511,
+  "recall_at_1": 0.6321,
+  "recall_at_3": 0.9393,
+  "recall_at_5": 0.9883,
+  "engine_miss_rate": 0.0,
+  "by_engine": {
+    "heritage": {
+      "n": 269,
+      "recall_at_1": 0.6988847583643123,
+      "recall_at_3": 0.9628252788104089,
+      "recall_at_5": 1.0
+    },
+    "compound_splitter_v2": {
+      "n": 21,
+      "recall_at_1": 0.19047619047619047,
+      "recall_at_3": 0.9523809523809523,
+      "recall_at_5": 1.0
+    },
+    "heritage_compound": {
+      "n": 3,
+      "recall_at_1": 1.0,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0
+    },
+    "manual_compound": {
+      "n": 11,
+      "recall_at_1": 0.8181818181818182,
+      "recall_at_3": 1.0,
+      "recall_at_5": 1.0
+    },
+    "vidyut": {
+      "n": 207,
+      "recall_at_1": 0.5748792270531401,
+      "recall_at_3": 0.9033816425120773,
+      "recall_at_5": 0.9710144927536232
+    }
+  },
+  "by_work": {
+    "spandakarika": {
+      "n": 215,
+      "recall_at_1": 0.7813953488372093,
+      "recall_at_3": 0.9906976744186047,
+      "recall_at_5": 1.0
+    },
+    "abhinavagupta_bhairavastava": {
+      "n": 138,
+      "recall_at_1": 0.5144927536231884,
+      "recall_at_3": 0.9347826086956522,
+      "recall_at_5": 1.0
+    },
+    "bhagavad_gita": {
+      "n": 158,
+      "recall_at_1": 0.5316455696202531,
+      "recall_at_3": 0.8734177215189873,
+      "recall_at_5": 0.9620253164556962
+    }
+  },
+  "n_misses": 6,
+  "misses": [
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_120",
+      "accepted_hypothesis": "hyp_832ad2e8-6ba3-4c55-83f8-c9d35b6c1a5c",
+      "accepted_lemma": null,
+      "rank": 6,
+      "n_candidates": 9,
+      "engines": [
+        "vidyut"
+      ]
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_120",
+      "accepted_hypothesis": "hyp_c3772cf9-fea4-47ea-989a-ef46d8162f6d",
+      "accepted_lemma": null,
+      "rank": 7,
+      "n_candidates": 9,
+      "engines": [
+        "vidyut"
+      ]
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_120",
+      "accepted_hypothesis": "hyp_d6d5fb5c-78f8-412c-870d-e0a87cf73cff",
+      "accepted_lemma": null,
+      "rank": 8,
+      "n_candidates": 9,
+      "engines": [
+        "vidyut"
+      ]
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_120",
+      "accepted_hypothesis": "hyp_fae5bd64-f8c4-4b09-aaa6-31250709e8db",
+      "accepted_lemma": null,
+      "rank": 9,
+      "n_candidates": 9,
+      "engines": [
+        "vidyut"
+      ]
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_170",
+      "accepted_hypothesis": "hyp_e66bd285-fc42-484e-b5ec-26f7f8853d3f",
+      "accepted_lemma": null,
+      "rank": 6,
+      "n_candidates": 6,
+      "engines": [
+        "vidyut"
+      ]
+    },
+    {
+      "passage_id": "bhagavad_gita.x.1.bd07",
+      "occurrence_id": "occ_bhagavad_gita.x.1.bd07.reading.bhagavad_gita.gretil_226",
+      "accepted_hypothesis": "hyp_e63ccaef-9b23-41b0-a50b-528650a644bb",
+      "accepted_lemma": null,
+      "rank": 6,
+      "n_candidates": 6,
+      "engines": [
+        "vidyut"
+      ]
+    }
+  ]
+}

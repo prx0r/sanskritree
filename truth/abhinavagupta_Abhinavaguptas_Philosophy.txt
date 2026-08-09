@@ -1,0 +1,632 @@
+SECTION TWO: Studies in Indian Philosophy
+
+Reconstructing Abhinavagupta’s
+Philosophy of Power
+Sthaneshwar Timalsina
+Introduction: Epistemological Framework
+Presently, discourse on Śākta philosophy is centered around gender and sexuality. While these are potential expressions of power, Śākta
+philosophy has much more to offer the global discourse on power.
+However, current parochial reading has confined this concept to narrow parameters. Contemporary theological and sociological applications of the philosophy over-simplify its core concepts and overlook
+the philosophy embedded within it. In common applications of the
+term, śakti describes both the cosmological process as well as semantic
+power. Just as the term is used in the epistemic context, it also describes
+socio-political constructions of power. The current application grossly
+misappropriates the term, breaching the boundaries between epistemology and social philosophy or that between ontology and soteriology. While the concept of śakti is theologically rich, it isn’t the case that
+even Gadādhara’s conversation on semantic power can be reduced to
+theology. The scope of this paper addresses the metaphysical domains
+of śakti, in particular exploring the concept of śakti as freedom in the
+monistic philosophy of Utpala and Abhinavagupta. After having the
+concept of śakti grounded on monistic metaphysics, the category can
+be applied to address different aspects of power, be it socio-political
+power or semantic force.
+
+85
+
+South Asian Studies: Bridging Cultures
+
+With the primary objective to initiate a global conversation on
+power, this analysis draws from selected Kashmiri writings of Utpala
+and Abhinavagupta (10-11th C). Abhinavagupta does not have sole propriety over the philosophy of power as his predecessors, particularly
+Somānanda and Utpala, have addressed this issue, and multiple exchanges with philosophers such as Bhartṛhari and Kumārila have significantly shaped the discourse on power to accord with Abhinavagupta’s
+own thinking. Philosophers subsequent to Abhinavagupta, such as
+Maheśvarānanda or Amṛtānanda, have likewise engaged their understanding of power. Śākta philosophical literature culminates within
+the works of Abhinava. By excavating the philosophy of power from
+his monistic paradigm, our metaphysics can be grounded on Śākta
+philosophy. This saves the reading from both extremes of merely theological reasoning or reducing the category to address semantics. This
+is to argue that a different understanding of power can be brought
+to light by exploring the ways Abhinava has addressed the category.
+I am taking this as a step towards reading the dynamics of power by
+applying the philosophy of śakti as an indigenous category in a broader sense. Engaging śākta philosophy for addressing power is liberating
+because this approach allows engagement of indigenous epistemology
+in knowledge production and gives voice to one of the most exoticized
+categories.
+
+Two wider issues need to be addressed in order expand the philosophy of śakti: first, a need to fully comprehend Abhinavagupta’s philosophy of power and trace historical connections to his philosophy;
+and second, a need to initiate a global conversation on the philosophy
+of power. But initially, the focus is not about semantic or cosmic power,
+but the power that we experience and express in our mundane world,
+in our social interactions, in the cultural and social dialogues that we
+construct and deconstruct, and in the political power that allows states
+to exert their force within and outside of their own territories. This is to
+argue that even though some of the concepts of śakti do have a theological foundation, they can be extended further and exported to address
+86
+
+SECTION TWO: Studies in Indian Philosophy
+
+secular concepts. When philosophers such as Abhinavagupta wrote on
+śakti, they did not set a vertical divide between sacred and secular powers. They recognized their categories in both contexts. Therefore, it is
+unnecessary to extrapolate nonexistent meanings to begin. To argue a
+philosophy of power on the foundation of śakti is an exegetical exercise.
+Since the very premise is dialogical, this can also help bridge the classical Hindu and Western interpretations of power.
+This project, then, underscores two parameters. One, we de-theologize some of the theological concepts for a global conversation on
+power. This goes against the current in which these classical materials
+are read. And two, we de-historicize the concepts. I argue that we should
+understand the historical underpinning of the concepts; however, the
+dominant Indological project frustrates understanding by bracketing
+the value of the broader concepts only in some remote history. Thinking
+through indigenous categories without confining them in the remote
+past or archaic rituals will allow us to remove the prisms through which
+the non-West has been objectified when brought into contemporary
+Western discourse. This project is intended to affirm the subjectivity
+of the culture that is being read so that we can initiate a real dialogue.
+This approach is not unique to reading oriental materials since, even in
+the West, many of the ideas that are now secularized and universalized
+can be traced to theological origins. Reading texts beyond the prism of
+religion or theology is not a violation of these texts, for when the texts
+were written the authors did not separate their spiritual horizons from
+the secular ones, and so they were simultaneously speaking for both
+paradigms.
+What I meant by de-historicizing the texts is about crediting their
+historical parameters whilst liberating them from the chains that bind
+them only to historical parameters, with an intent to enclave some of
+the most liberating ideas. Śākta philosophy does not exist because philosophy is default European, or that these texts and practices have no
+relevance outside of history, as is suggested by some of the claims by
+these harbingers of imperialism. I believe all cultures small or large,
+
+87
+
+South Asian Studies: Bridging Cultures
+
+alive or from the past, can make a meaningful contribution to humanity,
+and Śākta tradition is no exception. A textual violation may occur in
+translating the texts, as the same words can be interpreted in different
+ways, and someone exploring a meaningful conversation outside of the
+ritual or theological context can invent something new while ignoring
+the culturally framed meaning.
+
+Key Elements on Śakti in the Philosophy of Abhinavagupta
+As mentioned, this is a schematic work to outline central features
+that argue that we actually can read the philosophy of Abhinavagupta
+for a broader conversation on the philosophy of power. I will therefore
+restrict myself to identifying some of the core elements from his philosophy, in anticipation of a conversation. First of all, the concept of metaphysical power in his philosophy is intricately linked with the concept
+of semantic power. This is to argue that the secular concept of power
+was theologized in the works of Abhinavagupta and we would be partly
+tracing the original concept by means of this historical gaze. There were
+two predecessors from whom Abhinavagupta borrows for his philosophy of Śakti whose ideas also overlap the regions of the sacred and
+secular powers. One is Bhartṛihari’s philosophy of semantic power.
+Although the primary objectives of these two philosophers differ, as
+one is writing on language and the other on metaphysics, Bhartṛihari
+actually goes beyond discussing language and touches upon metaphysics, and Abhinava goes beyond discussing metaphysics and addresses
+semantic power. I have already written on this nexus of linguistic and
+cosmic powers elsewhere, and so there is no need to discuss it further.1 The second predecessor is the Mīmāṃsā philosophy of power
+that engages mantric and ritual powers, engaging the magical within
+the conversation on power. Bhartṛihari has elevated language from
+the confinement of sign and reference and has given it a metaphysical
+foundation. In so doing, he has already utilized some of the Mīmāṃsā
+convictions.2 Taking this one step further, Abhinava’s ritual philosophy
+88
+
+SECTION TWO: Studies in Indian Philosophy
+
+does exploit some of the premises derived from Mīmāṃsā that ground
+both the ritual expression of power and the power of speech that crosses the boundary of semantic expression.
+One of the most original concepts found in Utpala/Abhinava is the
+equation of freedom with power while making freedom an inextricably
+essential attribute of consciousness qua self. I will address this particular issue in a separate section. The metaphysical foundation for this
+equation comes from the monistic understanding of citi, consciousness,
+as autonomous in manifesting both as myriads of subjects and as inanimate entities. The concept of ‘the power of freedom’ or the ‘power identified as freedom’ (svātantrya śakti) does have a theological ground.
+Nevertheless, the overtly theological readings have overlooked the
+issues that freedom as the defining character of consciousness is inherent to the self and even when power is located in Śiva, this is strictly in
+the monistic paradigm where the individual subjects and the supreme
+being are one and the same. This is to say that the freedom that is
+intrinsic to human subjects is a subject of self-recognition. Power, from
+this perspective, is not handed down by divine authority, nor is freedom
+granted by some transcendental being.
+The point above that power and freedom are synonymous already
+paves the path for the next, that Abhinavaguptian power is not “power
+over,” but self-empowerment. Power is an intrinsic constituent of the
+self and is actualized by means of self-realization rather than in a clash
+with the other, or by means of subjugation. This understanding of
+power translates into freedom as an inherent, intrinsic thrust, rather
+than freedom over something. This makes freedom a positive endeavor,
+that subjects are to seek freedom within, rather than to strive for freedom from the chains of the others. This also subverts the understanding
+that power is always in tension, that power relates to or equates with
+struggle. This is not to say that no ‘struggle for power’ exists; this only
+makes it possible to argue for another dimension of power, the power
+necessary for sustaining harmony. Whatever power we need for struggle, we need twice that power to maintain harmony. Harmony functions
+
+89
+
+South Asian Studies: Bridging Cultures
+
+in both the personal and social domains. On the personal level, an inner
+harmony of the mind and the body makes it possible for subjects to
+live a productive and fulfilled life. On a collective level, social harmony
+makes it possible for each individual to maintain personal harmony and
+simultaneously for the collective to thrive. This inner actualization of
+power reverses the gaze of subjects from outside objects, and makes it
+possible for the subject to ‘negate’ its own territory so that the ‘other’
+can enter the circle.
+The immediate consequence of recognizing power in terms of freedom is that we acknowledge inherent difference. Freedom is something
+that is actualized, experienced, in dynamism, and this dynamism is
+possible only on the foundation that acknowledges difference. We can
+confirm this from Abhinavagupta’s understanding that power is always
+‘many.’ Power in this paradigm is recognized as inherently differentiating and creating a circle rather than abnegating or seeking for its singularity. To begin with, there are indefinitely multiple śaktis, not only one
+single śakti. Difference, accordingly, is what underscores the parameters of power. Even when this power is ritualized and theologized, their
+pluralistic appeal is not lost. Grounded on a pantheistic and polytheistic ritual paradigm, Abhinavagupta’s ritual maṇḍala is over-populated
+with Śaktis, personified powers. It becomes vivid in ritual maṇḍala that
+every single deity retains the possibility or potency to assume the manifold. This is what enables the powers to constantly push their boundaries, as every last emanation retains the same amount of power to extend
+further, creating its own maṇḍala. While, on the one hand, Abhinava’s
+philosophy is monistic, on the other hand, this also accepts freedom as
+an inherent property of consciousness, with this freedom reserving the
+power to assume the manifold. This is to argue that the same ontological entity can assume the manifold, or have multiple properties, with a
+form of property dualism leading to the metaphysics of power. Śakti, in
+this account, differentiates itself from itself; that it is able to constitute
+its own other and is able to recognize its inherent difference. It is in this
+recognition of difference that the others are constituted. This is how the
+90
+
+SECTION TWO: Studies in Indian Philosophy
+
+power creates its own maṇḍala, a circle, with the center of gravity being
+co-constituted by the members that constitute the circle.
+By borrowing Bhartṛihari’s notion of time and appropriating it in
+a Śākta theological paradigm, Abhinavagupta equates consciousness to
+temporality and makes time foundational for all powers. The centrality
+of time in the conversation on power has both metaphysical and phenomenological domains. The Śākta theology of Kālī worship expands
+with a recognition of the centrality of time in creating and sustaining
+diversity. The manifoldness of subjects and objects, and the diverse
+ways the networks can be realigned, and maṇḍalas reconstituted—this
+is all founded on the dual recognition that Kālī is time itself while also
+transcending time, as well as being pure consciousness (citi) that governs time and makes temporality possible. Time is a fundamental articulation of power. It is by means of time that power unfolds, while time
+itself is a mode of power. The semantic power that expresses temporal
+modes is not distinct from metaphysical power. Historically, this centrality of temporal power emerges from two traditions: from Kālavāda,
+whose early philosophers viewed time as the absolute principle in
+constituting the world, and again from the philosophy of Bhartṛihari
+that analyzes time as the primary power of the Brahman, the absolute.
+Time is accordingly viewed as autonomous in constituting difference,
+in maintaining diversity, and also in reversing the gaze from the external surge of power to inner actualization of being. It is in time that the
+being finds its own subjectivity and actualizes its freedom.
+The next, equally significant, aspect of this śakti is that it is identical to creativity (pratibhā). If the creative surge embedded within and
+identical to being were to be separated from the power, it would then
+have to depend on creativity to allow the subject to express itself, rendering power powerless. Power to create something requires freedom,
+and that freedom cannot be separated from creativity itself. Every act of
+creation is an expression of freedom, and every experience of freedom,
+every actualization of freedom, returns the subjects to a recognition of
+innate creativity. While pratibhā appears first in the conversation on
+91
+
+South Asian Studies: Bridging Cultures
+
+semantic power, the pratibhā or creative force of Abhinavagupta is both
+the metaphysical entity expressing its being and the deified freedom
+itself known as Pratibhā. This energy is in some regards comparable to
+Henry Bergson’s elen vital, the natural creative impulse. Power, in this
+account, expresses itself through modes of creativity.
+So far, I have addressed only the affirmative or assertive domain
+of power. Power also has a domain of exclusion or negation. That is
+because power on occasion is expressed by means of negation, and also
+because the very act of negation anticipates power. From the perspective of monism, all that exists foundationally is the self—equated with
+consciousness. It is when this consciousness differentiates itself and
+constitutes the other that other subjects and other objects become possible. Speaking from this platform, it is by means of negation, self-negation to be precise, that the power equated with freedom constitutes
+the manifold. This is why this power is also identified with the power
+of creation (pratibhā). Just as negation is crucial to Buddhist semantics,
+so it is for Śākta epistemology. Power confirms itself not just by means
+of negation. It expresses itself also by means of affirmation. When recognized in terms of negation, power can be synthesized as concealing
+its foreground. If consciousness is equated with this power, we need
+to keep in mind that consciousness is self-differentiating; that is, it can
+negate itself from the projected other and allow space for the other.
+When we are conscious of an object, be it our perception or a semantic
+comprehension, our consciousness lacking any specific horizon needs
+to be immediately determined and localized. This localization of consciousness would not be possible without it retaining the power to
+negate itself. From being in the indeterminate mode of time and space,
+consciousness finds its directionality and becomes localized and temporalized by means of negation.
+
+Finally, vimarśa or reflexive consciousness, explains both the metaphysics and epistemology of this power. Upon questioning whether
+consciousness reveals itself, and if, when manifesting objects it remains
+autonomous, or whether it requires something else (its own differen92
+
+SECTION TWO: Studies in Indian Philosophy
+
+tiation or a second order to reflect itself), the selected non-dual philosophers maintain that consciousness is reflexive in the sense that by
+the same mode by which consciousness reveals something else, it also
+simultaneously reveals itself. It is in this reflexivity that the power of
+consciousness is grounded. Since consciousness reveals both itself and
+the other, it is in this power of manifesting itself and revealing the other
+that the self and the other are first constituted. Vimarśa is phonetically
+equated with “ha,” the last of the Sanskrit phonemes, with prakāśa or
+the revealing aspect of consciousness being equated with “a,” the first
+of the phonemes. In visualization, this polarity is expressed as masculine and feminine principles, in terms of Śiva and Śakti. This is where
+Abhinavagupta’s philosophy grounds the theology of Śāktism. In sum,
+power is actualized by means of reflexive consciousness (vimarśa), and
+this actualization makes the recognition of subjectivity, inter- subjectivity, and objectivity possible. These are just a few among the salient
+features of power found in Abhinavagupta’s philosophy. Our analysis of
+power in Śākta discourse needs to remain mindful of the above-mentioned articles in the background.
+
+Freedom as Power
+
+Abhinava grounds his philosophy of power in the equation that
+power is freedom which in turn is creativity (power = freedom = creativity). Abhinavaguptian power is not dialectical; the foreground for
+both power and being is one, and powers are not in tension but are complementary. Power thus ‘is’ rather than ‘over’ or ‘for.’ The interdependence of power and freedom does not constitute circularity. Freedom
+is the power of powers and freedom alone constitutes the teleology for
+the being of power. This power is actualized through observation or an
+introspective gaze where freedom recognizes (pratyabhijñāna) that it
+has been gazing upon itself. This affirmation grounds another domain
+of power, the power of self-negation. It is by means of self-negation
+that the power completes its project of recognizing the other. Along the
+same lines, the other is cognized either as the transcendental object
+93
+
+South Asian Studies: Bridging Cultures
+
+expunged of subjectivity or as the other subject/subjects where objectification fails. The perplexity regarding other subjectivities demands
+a higher order of recognition (īśvara-pratyabhijñā), an encompassing
+gaze that embodies all subjectivities within itself. When an individual
+endeavors to cognize the other while having his consciousness centered
+around his own embodied subjectivity, he only cognizes the other simulating his own subjectivity. Only upon self-liberation, can the liberation
+of consciousness from within the finitude imposed by the phenomenal
+subjectivity find a real inter-subjective space where the self can experience the other.
+
+It is in transcendental freedom, the freedom that is identical with
+consciousness, that phenomenal freedom—or the freedom that can be
+grasped or actualized—is grounded. Just as differentiation is the primary drive for transcendental freedom, self-actualization and homogenization is the central thrust corresponding to phenomenal freedom.
+Svātantrya, therefore, is the foundational ground for experiencing
+power; that is, the ground for the power to experience itself, and this
+experience has two poles of seeing the difference within and seeing
+oneness without. The “power of Śiva” is an empty concept, similar to
+the “head of the comet” (rāhoḥ śiraḥ), as there is no part/whole or owner-owned relation to be assumed in the discourse on “Śiva’s powers.”
+This is like the concept, “the center of gravity,” a conceptual field that
+allows us to understand the localization of powers. Svātantrya is thus
+meta-reasoning, something that bestows upon being its meaning, gives
+being its manifoldness, and most crucially, constitutes the sense of
+reasoning and limits its horizons. While we are accustomed to reading
+“citiḥ svatantrāḥ” as “consciousness is autonomous,” this can as well be
+read as “freedom is self-aware.” A dogmatic reading of consciousness
+and power furthers the dichotomy between the power and the powerholder, between the functions and the agent. Agency, in this light, is not
+different from those functions that constitute itself wherein the functions can also self-express. The freedom that bestows upon consciousness its power of awareness, that is, the being of consciousness, is not
+
+94
+
+SECTION TWO: Studies in Indian Philosophy
+
+distinct from consciousness itself. Neither is consciousness bereft of
+freedom.
+Creation, in this paradigm, is an expression of inherent possibilities. Every mode of expression explores all the possibilities within
+the parameters of time and space. It is therefore time and space that
+determine their manifestation. Within the given space, every mode of
+being, every single modification, explores every alternative possible to
+express itself, and it is where the power manifest in the form of time
+and space confronts its own other, the power embedded within being,
+surging as the becoming of the manifold. It is the process of unfolding
+that underlies freedom, by which the world of experience comes into
+being, and with it, two poles emerge as subjects and objects. Just as
+the power of svātantrya actualizes subjectivity and objectivity, it also
+discovers its inherent manifoldness by means of uncovering the plurality inherent within the poles of both subjectivity and objectivity. This
+is where the subject transcends its own manifestation and becomes
+higher subjectivity. Abhinavagupta outlines seven different degrees
+to which the subjectivity can unfold. In each of these evolutions, the
+higher subject transcends its creation, allowing more and more finite
+subjectivities to emerge.
+Maṇḍala is a good metaphor for describing the intricacies of subjectivity and objectivity. We are accustomed to say that it is the center that emanates as the periphery. We can as well argue that it is the
+periphery that constitutes the center. If we say that there is no periphery
+without the center, we can also say that there is no center without the
+periphery. Their co-constitutive nature is vividly expressed both in the
+philosophical term applied to describe consciousness as prakāśa and
+vimarśa, or in visualization as Śiva and Śakti. In the myth of Durgā, we
+find the periphery constituting the center. Following the Devīmāhātmya
+(Chapter II), Durgā is the consolidated body of the energies inherent to
+all the gods. The center is thus the corporeal expression of the will and
+the activity of all those in the circle. If the center is recognized to be
+the subject and the periphery an object, they are co- constitutive. The
+95
+
+South Asian Studies: Bridging Cultures
+
+maṇḍala depicts harmony among subjects, but this is also a relation
+between subject and object, and what has been objectified is the very
+subject. We can evoke the Deleuzian concept of the rhizome here, as it
+explains every point as the center. Maṇḍala is intrinsically rhizomatic in
+this sense, and maṇdala is one and many at the same time. The expansion that gives the center its periphery is explained in terms of swelling
+(ucchūnatā), or expression (vistāra). The term used for expression and
+retrieval is saṅkoca- vikāsa, or shrinking and expanding.
+
+Whether the metaphor is that of opening and closing of the eyelids
+or of the lotus blooming and closing, creation is explained again and
+again as expression of inherent tendencies. We can glean from this that
+the subjectivity – that in itself is the harmony of all the tendencies within – collectively represents the powers expressed within the field. Or,
+subjectivity is holographically construed where the subjects extended
+in the space constitute a singular subjectivity. As a maṇḍala, svātantrya
+actualizes what it embodies, both in temporal or vertical extension,
+and spatial or horizontal extension. In this way, power experiences its
+own extension, both in a diachronic unity of the modes of experiences
+extended over time and the synchronic unity of the instances of experience that are given in every single mode before being synchronized and
+homogenized. Subjectivity is thus the gaze that encompasses all extensions. The experience of power and expression of freedom therefore
+are not instigated due to any lack. It rather is an overflow of freedom,
+a surplus of freedom, that pours out of its own subjective horizon ‘til it
+discovers its own objectivity. And this process concludes with svātantrya actualizing its own inherent teleology by means of self-recognition
+(pratyabhijñā). Abhinavagupta describes this as:
+sa eva ekaḥ svātantryabheditabhāvoparāgalabdhabhedab
+hu-̄tādyabhidhavijñānacakraprabhuḥ/
+Parātrīśīkā-Vivaraṇa, verse 1. (p. 15).
+
+96
+
+SECTION TWO: Studies in Indian Philosophy
+
+This alone is the lord of the circle of consciousness that has
+received names such as [have] beings, by having obtained
+differentiation by receiving the coloring of the form of objects
+that have been differentiated by [the power of ] freedom.
+Upon the question, Of what is this power of autonomy intrinsically
+comprised? Abhinava responds, it is bliss: svātantryam ānandaśaktimayam (Parātrīśīkā-Vivaraṇa, verse 1, p. 16). This means, just as consciousness is an inherent condition for experiencing freedom, bliss is
+its intrinsic constituent. Self-differentiation, therefore, is not the loss
+but the surplus of bliss; it is the exuberance that overflows into the
+manifold. Bliss is therefore described in two terms of viśvamayatā or
+transforming into the totality of beings and things, and viśvāhantā or
+experiencing I-ness in all that exists. Power, in this light, is not negative;
+it is neither unproductive nor limiting. And in this regard, we can find
+some parallels between Abhinava and Deleuze. The nexus that makes
+this comparison possible is the Deleuzian concept of creativity and
+the Abhinavaguptian equation of svātantrya with pratibhā. Abhinava
+explains:
+pratibhābhidhāṃ saṅkocakalaṅkakāluṣyaleśasūnyām . . .
+saṃvidam |
+(Parātrīśīkā-Vivaraṇa, verses 5-9, pp. 35-36).
+
+Consciousness. . . devoid of the pollution characterized by
+limitation, is called creativity [or reflexive illumination, or
+the counter-gaze].
+
+Differentiation, in this light, is an expression of inherent tendencies pertinent to freedom as an entity being its own driving force. This
+freedom gives rise to its own teleology to become the manifold, guided
+by the principle of ānanda, all-encompassing flow of joy, the exuberance
+that is not determined by anything but itself. Embodiment and expe97
+
+South Asian Studies: Bridging Cultures
+
+riencing the world are also the same, as the self-discovery of creativity occurs not in isolation of the manifold but in the act of being many
+and rediscovering the inherent being that grasps its manifold nature in
+a single flash of consciousness. This self- discovery, the being experienced as being in the body, is better understood in the Abhinavaguptian
+term of vimarśa, which Kerry Skora has addressed in the phenomeno3
+logical domain. What needs to be added in this conversation is that,
+in isolation of vimarśa, freedom cannot be actualized. It is only when a
+subject reflexively gazes upon the modes of his being in the world that
+he actualizes his freedom. And it is in this actualization of freedom that
+the manifold is recognized. The manifold, including the community of
+subjects, is thus inextricably essential to this actualization described in
+terms of recognition (pratyabhijñā).
+
+The power that is equated with freedom is thus condensed in the
+very concept of reflexivity, and this alone confirms intentionality and
+corporeality. In the absence of vimarśa, there would categorically be no
+difference between consciousness and a piece of glass that reflects the
+objects.4 When the being abnegates its inherent freedom in the process
+of actualizing the manifold, its reflexive conscious modes are repressed
+and it becomes an inanimate object. This, in the Abhinavaguptian paradigm, is explained as the state that lacks freedom, a state that has
+expunged freedom from its very core. It is due to vimarśa that synthetic consciousness and the production of transcendental objectivity is
+possible. It is in the mode of vimarśa, or reflexively cognizing object as
+object that subject is also grasped as subject. In other words, the subject
+discovers its subjectivity simultaneously with its awareness of objects.
+This is why Abhinavagupta identifies reflexive power (vimarśa) with
+freedom:
+vimarśaśaktiś ca . . . niratiśayasvātantryātmikā. . . |
+(Parātrīśīkā-Vivaraṇa, verses 5-9, pp. 58).
+
+Accordingly, the power of reflexivity is comprised of
+absolute freedom.
+98
+
+SECTION TWO: Studies in Indian Philosophy
+
+The twofold discovery of the self, integral to the concept of recognition, identifies both the subject’s relationship with the objective
+horizon as well as its transcendence, rediscovering the objective world
+expunged of subjectivity. The self actualizes itself by means of reflexivity that makes the grasping of the externalized consciousness possible. This is explained in terms of vimarśa that gives consciousness both
+its directionality or object-directedness and the subjective horizon. In
+this regard, the expression of power in terms of reflexivity or vimarśa
+remains crucial in both self-actualization by means of transcending
+consciousness and externalizing itself and in actualizing the self in its
+immanence.
+
+Vimarśa accomplishes its twofold goal by reflexively cognizing the
+object as the transcendental object and by actualizing its being in its
+self-reflexive mode. Abhinava explains this twofold accomplishment in
+terms:
+bāhyanīlādiparyantena svavimarśānandātmanā krīḍanena |
+(Parātrīśīkā- Vivaraṇa, verse 1. page 3).
+By the act/play of the bliss of reflexively cognizing oneself
+that culminates with the blue, or the external.
+And,
+vimarśajīvitaprakāśamayatvam eva sattvam |
+(Parātrīśīkā- Vivaraṇa, verse 4., p. 31).
+Being in itself stands for being comprised of
+luminosity that is sustained by reflexivity.
+
+The double gaze of vimarśa on one hand confirms intentionality
+which culminates in it accomplishing the transcendentality of the given,
+while on the other hand it reflexively confirms subjectivity. And in this
+double gaze, the subject rediscovers itself as non-spatio-temporal being.
+99
+
+South Asian Studies: Bridging Cultures
+
+According to Utpala:
+
+na caivānubhavo ’py asti bhinnābhinnaviniścayam|
+muktvānyasyaprakāśasya vimarśarahitātmanaḥ||
+Ajaḍapramātṛsiddhi, verse 14.
+In absence of the ascertainment that identifies
+[object with consciousness] and distinguishes the
+illumination of the other [as the transcendental
+object], even experience does not exist that is bereft
+of reflexive consciousness.
+
+Utpala explains further:
+
+saṃyojanaviyojanātmakaṃ svātantryaṃ |
+(Vṛtti on Ajaḍa, verse 14),
+Freedom is comprised of being associated [of
+consciousness with object] and being dissociated
+[from it in the emergence of the transcendental
+object].
+
+In other words, it is the autonomy embedded with consciousness
+that makes it possible for consciousness to manifest as the object, be
+identical with it, and yet be different, giving rise to the transcendental object. And this sense of something transcending consciousness is
+given to consciousness due to the power of vimarśa.
+Utpala explains further:
+
+etad eva hi pratyavamarśasya māhātmyaṃ
+yad viśvaṃ svātmaikyenāntaḥsthitaṃ bahir
+idantayodbhāsayan udbhāsyamānam api punaḥ
+pūrṇāhantāviśrāntyābhedam āpādayet |
+Vṛtti upon Ajaḍa. verse 14.
+
+100
+
+SECTION TWO: Studies in Indian Philosophy
+
+It is the virtue of reflexivity that while manifesting
+the world outside as “this” that lies within, being
+one with the self, it regains oneness of what is
+being manifest by means of resting on complete
+I-awareness.
+Utpala’s position further supports this argument:
+
+idam ity asya vicchinnavimarśasya kṛtārthatā |yā
+svasvarūpe viśrāntir vimarśaḥ so’ham ity ayam ||
+Ajaḍapramātṛsiddhi, verse 15.
+The resting on the self, that is, the fulfilment of
+the fragmented reflexivity in the form of “this,”
+is the reflexivity as “that I am.”
+
+For Abhinava, the manifestation of the external is the play of consciousness by means of relishing the bliss of its own reflexivity:
+bāhyanīlādiparyantena svavimarśānandātmanā
+krīḍanena | Parātrīśīkā-Vivaraṇa, verse 1. (page 3).
+
+With a play in the form of the bliss of reflexivity that
+extends to the limits of the externals, such as blue.
+Just as bliss or ānanda is inherently reflexive (that is, the mode of
+bliss does not need a second-order consciousness to confirm its being
+blissful), so also is reflexivity intrinsically confirming bliss that translates into the actualization of the other. That is, it is only in fulfillment in
+the other as the other and the discovery of the other within the self that
+the subject rediscovers itself and that which coincides with the exuberance of bliss. Utpala’s concept of kṛtārthatā in here does resonate with
+
+101
+
+South Asian Studies: Bridging Cultures
+
+the Husserl’s concept of Erfüllung. Abhinava confirms this concept in
+the following terms:
+vimarśajīvitaprakāśamayatvam eva sattvam |
+Parātrīśīkā- Vivaraṇa, verse 4, p. 31.
+
+The sense (tva) of being lies in being comprised of
+luminosity that is sustained by reflexivity.
+
+Conclusion
+
+This is a very brief account of Abhinava’s philosophy of power: the
+absolute power of the self is also the power of consciousness. What this
+means is that the power manifesting itself as consciousness also gives
+rise to the external, and it is only in the recognition of the other as the
+transcendental object as well as the recognition of the presence of the
+self in the other that this power accomplishes its absolute freedom.
+Freedom in this sense is the freedom to be, freedom to feel, freedom to
+relish. This is inextricably linked with being in the world and being in
+the body. This power is not to overpower the other, is not to gain control
+of the horizon from the other’s space, but to abnegate the self-domain
+by allowing the other, and to re- affirm the extension of the self in the
+other. In three stages, the discovery of the immanent other, the affirmation of the transcendent other, and the re- discovery of the self enveloping the other, freedom completes its teleology of being. Abhinava utilizes the concept of māyā to describe differentiation. For Abhinava, the
+actualization of a finite subjectivity, a step towards the manifestation of
+multiple finite selves, is also a power of freedom embedded within consciousness. Maintaining difference in this unitary field is the singular
+purpose of māyā, the power better interpreted as what delimits (yā
+5
+māti, from the root √māṅ māne).
+
+Finally, Abhinava’s philosophy of power has so far been clearly
+mystified and theologized. There is a real opportunity for the global
+audience to read his philosophy. As I have argued in the beginning, the
+
+102
+
+SECTION TWO: Studies in Indian Philosophy
+
+colonial approaches to reading other cultures, the parameters in which
+classical Hindu literature was read just like any other culture, has kept
+in bracket some of the most rational domains of philosophy and literature. A real need for the day is to read these texts for what they are; that
+is, more than merely some historical documents with their relevance
+in the remote past but vibrant and full of possibility for giving us new
+pathways. To me, it matters how we study these materials, and I believe
+a real dialogue with a real acknowledgement of agency demands that
+we also incorporate the unfamiliar epistemology from within our
+framework. This openness to the ideas of the “others” is a much- needed step towards social recognition. This attempt has the potential to
+allow pratyabhijñā to unfold, not merely as an esoteric enterprise, but
+also as a viable social theory.
+
+Footnotes
+1.
+
+Timalsina 2010, 2013.
+
+2.
+
+Bronkhorst 1989.
+
+3.
+4.
+
+5.
+
+Skora 2009.
+
+Utpala rejects the śāntādvaita or Brahmādvaita argument on the basis of the reflexivity
+argument: saṃvidapy aparāmarśarūpā cet tad asāv api | abhāvena jaḍenātha tulyaiva
+prāgvad ātmani || Ajaḍapramātṛsiddhi, verse.
+
+saṃvidaś cākhaṇḍarūpāyāḥ kathaṃ saṅkocakāraṇasvātantryaṃ māyāpara- paryāyaṃ
+vinā saṅkucitatvaṃ svātantryaṃ ca saṅkocakāle’saṅkucitatāsāra- tatsaṅkocitatāratamyākṣepi bhavadīṣadasaṅkucitāsaṅkuciteṣadvikāsivikasvara- rūpaṃ virahayya na
+bhavet | Parātrīśīkā-Vivaraṇa, verses 5- 9, pp. 48.
+
+Bibliography
+
+Abhginavagupta. Parātrīśikāvivaraṇa. Parātrī�śikāvivaraṇa of Abhinavagupta:
+The Secret of Tantric Mysticism. Translation, Jaideva Singh. Delhi: Motilal
+Banarsidass, 2005.
+
+Bronkhorst, Johannes. “Studies on Bhartṛhari, 2: Bhartṛhari and
+Mī�māṃsā.” Studien zur Indologie und Iranistik 15 (1989): 101-117.
+Singh, Jaideva, and Bettina Baumer. “Paratrisika-Vivarana.” The Secret of
+Tantric Mysticism. English translation with notes and running exposition
+
+103
+
+South Asian Studies: Bridging Cultures
+
+by Jaideva Singh. Sanskrit text corrected, notes on technical points and
+charts dictated by Swami Lakshmanjee. 1988.
+
+Skora, Kerry Martin. “The Hermeneutics of Touch: Uncovering
+Abhinavagupta’s Tactile Terrain.” Method & Theory in the Study of
+Religion 21.1 (2009): 87-106.
+Timalsina, Sthaneshwar. “Linguistic and cosmic powers: The concept of
+Sakti in the philosophies of Bhartr hari and Abhinavagupta.” Classical
+and contemporary issues in Indian studies: Essays in honor of Trichur S.
+Rukmani. Delhi: DK Printworld (2013).
+_________ “Sakti.” Encyclopedia of Hinduism 2 (2010).
+
+Utpala. Ajaḍapramātṛtāsiddhi. With Hindi translation by Surya Prakash
+Vyas. Chaukhambha Sanskrit Sansthan, Varanasi, 1989.
+
+104
+
+

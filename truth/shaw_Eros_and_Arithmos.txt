@@ -1,0 +1,952 @@
+Ancient Philosophy 19 (1999)
+©Mathesis Publications
+
+121
+
+Eros and Arithmos:
+Pythagorean Theurgy in Iamblichus and Plotinus
+Gregory Shaw
+
+... since this philosophy was at first
+handed down by the Gods, it cannot
+be comprehended without the
+Gods' aid.
+- lamblichus
+One only attains mathematics
+through a theophany.
+-Novalis
+This essay has two aims: first, to examine the role of numbers and eros in
+lamblichean theurgy and second, to show that the employment of subtle ritual
+objects-particularly the theurgic use of mathematical images-is entirely consistent with the Neoplatonism of Plotinus. My second aim, then, suggests that
+Plotinus can be seen as a kind of theurgist, not a conjurer or sorcerer in line with
+the caricatures invented and condemned by scholars earlier this century, but a
+theurgist in an Iamblichean sense, i.e., one who voluntarily enters into divine
+activity, 'exchanging one life for another' , 1 'human life for the life of the gods' .2
+While there are obvious differences between lamblichus and Plotinus as regards
+the importance of ritual, I argue that these differences-significant enough to
+have been recognized by Neoplatonists 3-have caused scholars to overlook a
+more significant but less obvious similarity, one that becomes clearer when Plotinus's 'thought experiments' are examined in light of the principles of
+lamblichean theurgy.4 In making my case for Plotinus as a theurgist, I examine
+where Plotinus fits in the theurgic itinerary of lamblichus and attempt to demonstrate the erotic role of numbers in the 'theurgy' of both lamblichus and Plotinus.
+1 Iamblichus, De Mysteriis 270,18-19. The standard edition is that of des Places, 1966, and I use
+the enumeration of Parthey supplied in des Places's edition. All subsequent references to the De Mysteriis will be noted as DM.
+2 Plotinus, Ennead i 2.7(25-28); all translations, unless otherwise noted, from Armstrong 19661988.
+3 Damascius says that 'Plotinus, Porphyry, and many others honor philosophy more highly,
+while Iamblichus, Syrianus, Proc\us, and the theurgists give more honor to the hieratic art' (Westerink 1977, 105).
+4 On Plotinus' s thought experiments as meditation techniques, see Rappe 1995, 164-169; 1996,
+259-262.
+
+122
+Let us begin with Plotinus's statement introducing Ennead iii 8: On Nature,
+Contemplation, and the One. He says:
+Supposing we played a little before entering upon our serious
+concern and maintained that all things are striving after Contemplation, looking to Vision as their one end-and this, not
+merely beings endowed with reason but even the unreasoning
+animals, the Principle that rules in growing things, and the
+Earth that produces these-and that all achieve their purpose in
+the measure possible to their kind, each attaining Vision and
+possessing itself of the End in its own way and degree, some
+things in entire reality, others in mimicry and in image-we
+would scarcely find anyone to endure so strange a thesis. 5
+In this remarkable passage Plotinus suggests that all of nature is drawn toward
+contemplation, that plants, animals, human beings, and even the earth, are allwith more or less intensity--engaged in contemplation of the One. Later, Plotinus suggests that contemplation is itself a creative act, that contemplation is the
+engine of cosmogenesis (Lloyd 1990, 182-184; see also Gatti 1996, 32-34). To
+enter the world of Plotinian contemplation, therefore, is to enter an immense vortex whose life is permeated by the magnetism of the One at its core. From the
+Nous and the constant rhythms of the star gods to the fitful drama of human souls
+and even to the brief life of insects and plants, all things are drawn to the One,
+and the entire cosmos is ordered and sustained by the different intensities and
+expressions of this attraction. 6
+When Plotinus describes the cosmos and the soul as erotically charged he
+invites us, as Plato did, to reenter our own experiences of this magnetism. In the
+Symposium, Plato describes the gradations of this erotic experience in terms of
+our different attractions to the beauty of the One. Like Plotinus, he reminds us
+that the stars, animals, and even plants are drawn irresistably by its magnetic
+power (Symp. 186a-b; 207a-c). Both Plato and Plotinus envision an erotic cosmos, a world revealed and sustained by its collective attraction to the One. With a
+rare genius for communicating the experience of this eros, Plotinus suggests that
+our attraction for the One is, paradoxically, an expression of the One itself in its
+own ceaseless production of multiplicity. Describing this 'productive power',
+5 Ennead iii 8.1, MacKenna 1956/1991. See Lloyd 1990, 182-188, for 8EOlptc( as 'consciousness', or 'knowledge in activity'.
+6 Although in iii 8.1 Plotinus says that all things strive (EqltECl8m) for contemplation, this striving/yearning functions in the same way that eros functions in the universe and in souls, drawing all
+things to the One. Armstrong 1968, vii 157n2, says that 'implicit in his [Plotinus's] whole system' is
+that 'our desire to return to the Good is given by the Good'. Not only does Plotinus conceive our
+return to the Good as an erotic movement, even the return of the One in the Many to itself is described
+as erotic (vi 8.15.1f). See Plotinus's references to this desire, which he refers to as EPOl<;, Eql£Cil<;,
+ｯｰﾣｾｴ＼［Ｌ＠
+and their cognates. "EpOl<;: vi 7.22.7-22, the soul's EPOl<; for the Good is given by the Good;
+cf. iii 2.17.5; vi 9,9.28; Eql£Ot<;: i 7.1.23-24, all things aspire toward (£qll£1CXt) the Good; v 5.12.12-\3,
+for the Good; cf. ii 2.3.32-33; v 3.11.12; ｯｰﾣｾｴ＼［Ｚ＠
+vi 5.1.12,
+the soul's innate desire (E<p£OtV ｯｵｾ＼ｰＸＧｴｶＩ＠
+all things desire (opEy£08at) the Good; cf. i 6.7.1-2.
+
+123
+Plotinus says:
+if it [the One] did not exist, neither would all things, nor would
+Intellect be the first and universal life. What is above life is
+cause of life; for the activity of life, which is all things, is not
+first, but itself flows out, so to speak, as if from a spring. For
+think of a spring which has no other origin, but gives the whole
+of itself to rivers, and is not used up by the rivers but remains
+itself at rest, but the rivers that rise from it, before each of them
+flows in a different direction, remain for a while all together,
+though each of them knows, in a way, the direction in which it
+is going to let its stream flow. (Ennead iii 8.10.1-10)
+Plotinus's multiplicity remains secretly bound to unity; as he says, 'in each and
+every thing there is some one to which you will trace it back' (iii 8.10.20), and
+back even further until we reach the originating One which, Plotinus says, 'fills
+us with wonder' (iii 8. iO.31). Individual souls are moved by centripetal attraction
+to this One while its magnetic power simultaneously breathes out to the periphery, creating and sustaining the very lives that are drawn back to it, like an allencompassing circulatory system.? As Plotinus says of the One, 'he is, if we may
+say so, borne to his own interior, as ifhe were in love with himself (vi 8.16.1213). In this light, even the dispersed life of the human soul becomes, for Plotinus,
+part of the' inner life of the One' (Bussanich 1996, 63). Our very attraction to the
+One is a gift, Plotinus says, that comes from the One (vi 7.22.19-20), so all centripetal movements to the Source are rooted in the centrifugal movement that
+pours out of it. In the dialectic of Plotinian erotics, the lover is revealed to be the
+Beloved: 'that same self, Plotinus says, 'is lovable and love and love of himself'
+(vi 8.15.1; see Schroeder 1992,111).
+Perhaps Plotinus was right. We could scarcely find anyone to endure so strange
+a thesis: an erotically charged cosmos continually being created and dissolved by
+the attraction to its source. This is the cosmos inherited by Platonists of the later
+3rd century, and I will now turn to Iamblichus to see how he attempted to participate in this paradoxical vision. I argue that by reshaping Plotinian erotics in line
+with Pythagorean principles Iamblichus extended Plotinus's vision even more
+effectively into the densities of embodied life. Iamblichus's theurgical Platonism,
+therefore, should be seen as a development of Plotinianism, as a 'fleshing out' of
+Plotinus's vision. s
+7 Schroeder 1992, 108 speaks of 'a complete circuit of dynamic continuity' to describe the presence of the One to itself and with others. See also Lloyd 1990. 130-135 on the centripetal/centrifugal
+dynamics of Plotinus's cosmos. and Bussanich 1987, 183.
+8 In 1974 A.H. Amlstrong suggested that 'it is possible to develop a theory of theurgy from one
+side of the thought of Plolinus' (appearing in print in Armstrong 1979, 187). This suggestion was
+examined with great profit by Smith 1974,81-99. Lowry 1980,20-21 suggests that with theurgy
+Iamblichus 'carried the obvious Plotinian philosophical standpoint to its limits and tried to validate
+it'. Wallis 1972, 100-137 places Iamblichean theurgy within the context of Plotin us's thought. In this
+regard, see also Sheppard 1980, 151-161; 1982,220-221 with Shaw's critique 1985,9-10; and
+Stacker 1995, 225-229.
+
+124
+I. Pythagorean Theurgy and Primordial Worship
+
+Our understanding of Iamblichus has undergone significant changes in this
+century. E.R. Dodds and other scholars of his generation dismissed Iamblichus's
+influence as irrational and Oriental, an example of the 'failure of nerve' that
+decayed the Greek rationalist tradition. Theurgy represented a prime example of
+this failure, a misguided attempt to manipulate the gods through spells and sorcery, a superstitious practice to which the rational Plotinus never succumbed. 9
+Later, thanks primarily to Dillon 1973, Saffrey 1973,281-295, and Larsen 1972
+(see also Trouillard 1972, 171-189 and Zinzten 1983,312-328), Iamblichus's
+reputation as a serious thinker has been recovered. Recently, Fowden 1986,95153 and Shaw 1995 have argued that theurgy was a philosophically sophisticated
+response to social and philosophical challenges faced by Platonists of the 4th
+century, while Lloyd 1967,269-325 and Steel 1978,7-77, 142-161 previously
+explained the importance and coherence of Iamblichus's psychology of the completely descended soul, in contrast to Plotinus's and Porphyry's belief that the
+soul remains unfallen. The consequences of this difference on the soul's descent
+are significant and help to explain the function of theurgy, but they may be overemphasized. 10 Against the background of his theory of the undescended soul, one
+might easily exaggerate the significance of Plotinus' s description of physical
+matter as 'primal evil, absolute evil' (Ennead i 8.3.39-40) or his 'grandiloquent'
+reply to Porphyry that the cosmic gods 'need to come to me, not I to them' (Porphyry VP 10), to portray Plotinus as holding a dualistic and anti-cosmic stance.
+While it is true that Plotinus clearly favors-almost exclusively-the immaterial
+end of the spirit/matter continuum, there are many passages in the Enneads that
+make it clear that Plotinus was not a dualist or anti-cosmic. 11 Even if Iamblichus,
+in his polemical writings and commentaries, misunderstood or caricatured some
+of Plotinus's positions, we need not follow the Syrian in this regard. 12 My own
+characterization of Plotinus as 'utopian' and 'otherworldly' was an error of this
+kind,13 for the greater significance of the Enneads suggests that Plotinus and
+9 Dodds 194111949,283-311, esp. 288. Murray 1951 coined the phrase 'failure of nerve' to characterize the decline of Greek rationalism exemplified in theurgy. Nilsson 1948/1969, 192 described
+theurgy as 'nothing more than magic making a claim to be reliigion ... [and] Christianity represented
+the sane reaction against occultist phantasms and theosophical fogs'. Cumont 19111 1956, 88 dismissed theurgy as mere charlatanry.
+10 I believe that Plotinus's reference to his 'head in heaven' (iv 3.12.5-6) and his portrayal of the
+higher soul 'illuminating' the body from above (i 1.12.25-29) may be better appreciated as evocative
+images than as philosophical explanations. Shaw 1996, 17 characterizes these descriptions of the
+undescended soul as 'erotic enchantments in the form of philosophic discourse. yet taken out of the
+context of his [Plotinus's] seminars his "explanations" were likely to have been misunderstood'.
+II See van den Berg (forthcoming) for a discussion of the misunderstanding of Porphyry's
+remark in VP 10.
+12 Phillips 1995, 140 maintains that Iamblichus misconstrued Plotinus's use of ＱｴｰｏｃｬＮｐｅ＼ｊｾ［＠
+Steel 1978, 31, 45 also notes Iamblichus's distortion of Plotinus.
+13 Shaw 1995, 8-18; although this characterization is qualified (68): 'This admittedly portrays a
+distorted picture of Plotinus's view of the soul', it leaves the overall impression that Plotinus was
+
+125
+Iamblichus share the same vision of the cosmos. In fact, it is possible to see
+Iamblichus's insistence on the soul's material embodiment as his effort to preserve Plotinus' s vision of an erotically unified cosmos and to protect it from a
+dualist tendency that would sever the bonds that hold the visible and invisible
+worlds together. Iamblichus's Pythagoreanism allowed him to secure these bonds
+and to extend Plotinus's vision, making it as relevant to the common man as to
+the philosopher. 14
+Despite having been Plotinus's biographer and one of his leading students,
+Porphyry reportedly felt that 'no doctrine had yet been established' to form the
+basis of a 'universal way' of salvation, and he tried-but failed-to develop this
+himself. Augustine reports that Porphyry 'was not satisfied with all that he had
+taken such pains to learn on the subject of the liberation of the soul. .. and felt that
+he failed to obtain any supreme authority which he was bound to follow on such
+an important topic' .15 Such authority was assumed by Iamblichus, particularly
+within the context of theurgy. Yet this was far easier for Iamblichus to accomplish, for unlike Porphyry he did not think a 'universal way' needed to be established-least of all by a human being-for it had already been established by the
+gods and was still practiced by the sacred races of the world. Porphyry had simply failed to notice.
+What Porphyry failed to see was the vision of his teacher Plotinus: the entire
+cosmos in a state of active contemplation, with all things being drawn from and
+returning to their origin. For Iamblichus and Plotinus the universal way was the
+life of the cosmos itself where the signatures of the gods were revealed in a continuous theophany. Like the pious communities of Plato's golden age (Laws
+7l6a-b), Iamblichus believed that sacred races like the Assyrians and Egyptians
+continued to participate in this vision, while other races-most notably the
+Greeks-had alienated themselves from the divine life by setting themselves up
+as authorities, preferring to 'talk about' gods rather than worship and experience
+them (DM 259.5-19). The Egyptians, by contrast, preserved their theophanies
+without distortion, allowing the One-in Plotinus's terms-to be borne back to
+its own interior through their sacred rites. 16 The rituals of the Egyptians transmitted the power of the gods because the rites themselves were the gods in action,
+more dualistic than he was.
+14 Zintzen 1983, 319 demonstrates that lamblichus translated Plotinus's noetics into theurgical
+terminology; Nasemann 1991,233-235 juxtaposes passages from Plotinus (e.g., iv 8.6.7-15) with
+those from lamblichus (DM v 23: 233.7-16) to demonstrate that lamblichus was following a Plotinian
+trajectory that acknowledged the abundance of divine power in the material world (vi 5.12.5-1; cf.
+DM v 23: 232.1 1-15), the difference being that lamblichus examines the concrete expressions and
+as regards human souls. She argues (281) that what distinguishes lamblichus
+details of this ＸｕｖｃｉｊＱ｜ｾ＠
+and its
+from Plotinus was the former's interest in the specific material expressions of this ｏｕｖＨＱｊＮｬ｜ｾ＠
+practical application, an interest not evident in Plotinus.
+15 Fowden 1986, 132. Fowden 1986, 131-141 has shed much light on lamblichean Neoplatonism
+by comparing it to the writings of the Hermetica and their Egyptian background.
+16 This should not be understood as making the One dependent on the rites, but that the One
+allows itself to be entered through those rites that express its 'circulation'.
+
+126
+the theophany of nature expressed in religious ritual. On this point, lamblichus
+says:
+By imitating the nature of the cosmos and the creative activity
+of the Gods, the Egyptians themselves produce images of mystical insights-hidden and invisible-just as nature symbolically reveals the invisible measures through visible shapes ...
+(DM 249.14-250.5)
+Plotinus also had praised the 'wise men' of Egypt and referred to their hieroglyphs as concrete expressions of noetic insight. The Egyptians, Plotinus says.
+avoided the use of discursive propositions or philosophical arguments for they
+had learned to 'reveal the non-discursiveness of the intelligible world' directly
+through the images inscribed in their temples (Ennead v 8.6). Plotinus and
+lamblichus were both careful not to reduce divine realities to discursive formulas. For them the cosmos is not, as Plotinus puts it, 'the result of following out a
+train of logical consequences and purposive thought: it is prior to consequential
+and purposive thinking' (v 8.7.42-43).
+In the polemic of the De Mysteriis, lamblichus criticizes Porphyry for giving
+too much importance to these discursive formulas. For example, when Porphyry
+begins a question by 'granting that the gods exist' lamblichus insists that
+speaking in this way is not right! For the innate knowledge of
+the Gods pre-exists in our very essences; it is superior to all
+judgment and choice and exists prior to reason and demonstration. From the beginning, it is established with the soul's
+essential desire for the Good. (DM 7.13-8.1)
+lamblichus speaks here of 'an innate knowledge of the Gods tied to the soul's
+essential desire Ｈｅ＼ｰﾣＧＩｴｾ＠
+for the Good'. This, I would argue, is the basis for his
+theurgy, for theurgy attempts to awaken souls to the pre-conceptual eros that
+exists prior to discursive thinking,17 to move us 'out of our heads' and back into
+the divine life of the Egyptian wise men, back into the erotic trance of the circling
+stars and the dance of nature around the One.
+Nature revealed the traces of this divine life, but Greek intellectuals like Porphyry could no longer see it. 18 lamblichus emphasized even more than Plotinus
+that the way back to the gods is revealed in the hieroglyphs of nature: in minerals,
+plants, animals, seasonal changes, and in the traditional rites that celebrate them
+through song, prayer, dance, images, and finally in the subtlest of all hieroglyphs,
+the divine numbers that sustain all forms of life and allow the soul its most intimate participation in the One.
+Plotinus also acknowledged the presence of the gods in the world and refers to
+17 Precedents for this can be seen in Plotinus Ennead v 5.12.12-13 where he speaks of the Good
+for itself before we are conscious; see also fragments
+arousing an 'innate desire' (EqJEO'lV ｭＩｾｱｊｵＱＰｖ＠
+43 and 44 of the Chaldean Oracles, Majercik 1989, which speak of a 'deep eros' Ｈｾ｡･ｵ＠
+ｅｰＨｪＩｾ＠
+implanted in all souls by the Creator to stir their desire for him.
+18 In the DM 259.5-19 Iamblichus contrasts the impiety and instability of the intellectually innovative 'Greeks' with the sacred customs and rites of holy barbarians.
+
+127
+their traces as moving 'letters' written in the heavens and in nature (Ennead iii
+3.6.18-20). Iamblichus has been ridiculed as 'irrational' for using minerals and
+plants in theurgic rites, but Plotinus also believed that divine powers extended
+into the 'nature of stones and the active power of herbs with wondrous results'
+(iv 4.35.69-70). For both Neoplatonists the entire cosmos, visible and invisible,
+was a dance choreographed by its eros for the One, an eros whose manifesting
+patterns, Plotinus says, follow the law of proportion (avuAoyiu, iii 3.6.25-29; cf.
+iii 3.7) and number (apt8J..loc;, iv 4.35.13). To read the traces of this dance, Plotinus says, one must be 'a wise and godlike man' (iii 3.6.17-18), and he approvingly refers to the 'wise men of old' who employed their knowledge of divine
+correspondences to build statues and temples to secure the presence of the gods
+in worship (iv 3.11). Yet beyond this intriguingly theurgic passage, Plotinus has
+little to say in terms of specific uses of the analogies that bind the visible and
+invisible worlds together. Perhaps because of his unorthodox views on the undescended soul or his lack of interest in Pythagorean speculations on these analogies, or perhaps due to his concern about possible abuses of these
+correspondences,19 Plotinus did not develop the theoretical framework for religious practices seen in Iamblichean theurgy.
+Because Iamblichus believed that the soul is completely embodied and projects
+its Aoym into the phenomenal world, it could recover its 'original nature' only by
+ritually appropriating their natural correspondences (avaAoym). The divine powers that Plotinus finds in stones and herbs become a necessary part of the theurgists' receptacle to restore contact with the gods. Read properly, nature reveals
+the soul's lost divinity and to recover it the soul needs to lead its consciousness
+back into resonance with the gods hidden even in dense material objects.
+Iamblichus explains:
+Since it was necessary that earthly things not be deprived of
+participation in the divine, the earth received a certain portion
+capable of receiving the Gods. The theurgic art, therefore, recognizing this principle in general, and having discovered the
+proper receptacles, in particular, as being appropriate to each
+one of the Gods, often brings together stones, herbs, animals,
+aromatics and other sacred, perfect, and deiform objects of a
+similar kind. Then from all these it produces a perfect and pure
+receptacle. (DM233.7-16)
+Proclus provides even more specificity. After establishing an erotic context for
+theurgy, he says that priests developed their art after recognizing the 'sympathy
+of all things to one another' as well as their connection to 'invisible powers'
+(Bidez 1928, 148). Proclus' s evocati ve example of this latter connection
+describes the attraction of a flower to its source. He says:
+Each thing prays according to the rank it occupies in nature and
+sings the praise of the leader of the divine series to which it
+ｉｾ＠
+
+Porphyry VP 10 describes the sorcery ofOlympius who attacked Plotinus using 'star spells'.
+
+128
+belongs ... the heliotrope moves to the extent that it is free to
+move, and in its rotation, if we could hear the sound of the air
+buffeted by its movement, we should be aware that it is a hymn
+to its king, such as it is within the power of a plant to sing.
+(Corbin 1969, 105-106)
+Proclus describes the same kind of correspondence in various animals, plants and
+minerals, each of which bears the 'token' or ＨｊｕｖｾＮＱ＠
+of its ruling god. Theurgists not only recognized the correspondence or avuAoyiu between an earthly
+object and its heavenly archetype, they also were able to diagnose the specific
+avuAoyiu required by a soul and create a receptacle for bringing the soul into
+resonance with its god. If these natural ＨｊｵｶＸｾＮＱｴ＠
+carried the resonance of their
+Lords-as the theurgists believed-then theurgic rites should not be seen as
+attempts to manipulate the gods but to bring the soul into resonance with them.20
+The divine powers in nature, therefore, served collectively as the 'tuning instrument' for embodied souls. As Iamblichus says:
+He who celebrates all these [divine 1 powers and offers to each
+gifts that are pleasing and honors that are as similar to them as
+possible, will always remain secure and infallible since he has
+properly completed, perfect and whole, the receptacle of the
+divine choir ＨｻｬＱｴｏｘｾｖ＠
+toU 8dou xopou). (DM 229.3-7)
+Iamblichus directed his attention to precisely those areas that Plotinus
+addressed only in general terms, that is, to the correspondences that bind the visible and invisible worlds together and to their practical application to the needs of
+souls. While Plotinus showed little interest in public worship or in divinational
+practices, Iamblichus venerated such traditional forms of piety as expressions of
+humanity's innate eros for the One and therefore necessary as receptacles to preserve our contact with the gods. Iamblichus believed that these traditional rites
+were initiated and directed by the gods and were essential to our piety, but in the
+late 3rd century they lacked a comprehensive theoretical framework (Porphyry's
+'uni versal way'?) which Iamblichus found in Pythagorean teachings. 21
+Iamblichus studied the Theology of Numbers under Anatolius and wrote a 10 volume study, On Pythagorean ism, that aimed to initiate souls into the lifestyle of
+Pythagoras, the avatar of wisdom. In On the Pythagorean Life [VPj, Iamblichus
+compelled
+20 Iamblichus explicitly rejects the notion that a theurgic invocation ＨｲｰＶ｣ｋａＮｬｪｴｾＩ＠
+the gods. 'It does not, as the name seems to indicate, incline the Intellect of the Gods to men, hut
+according to the truth itself, the invocation makes the intelligence of men fit to participate in the
+Gods, and harmonizes it with them through orderly persuasions' (DM 42.9-15).
+21 Kingsley 1995, 289-334 maintains that it is largely due to our contemporary prejudices and
+misreading of the evidence that we find it hard to reconcile the theurgists' attention to stones and
+herbs with their mastery of Pythagorean mathematics. Kingsley's ground-breaking study argues persuasively that the Pythagoreans (and Neopythagoreans) were recipients and transmitters of an ancient
+magical tradition that has been misunderstood by contemporary scholars (320). He explains that for
+Iamblichus the Pythagorean Pio<; demanded a thorough knowledge of what we, today, condescendingly refer to as 'magical lore', a knowledge that was necessarily as practical as it was theoretical
+(304-307).
+
+129
+says that Pythagoras 'made a synthesis of divine philosophy and the worship of
+the gods' ,22 and this is precisely what Iamblichus aimed to do by integrating
+Pythagorean doctrines with traditional rites of sacrifice and divination. The
+result, Dominic O'Meara says, was 'the most comprehensive and systematic'
+development of Pythagorean teachings in antiquity, one that 'played a decisive
+role in the history of later Greek philosophy' (O'Meara 1989, 30). Like the
+ancient wise men of Plotinus, the Pythagoreans understood the correspondences
+between the intelligible gods and physical reality, and they preserved their
+knowledge in the discipline of mathematics, including its practical application in
+religion, medicine, and politics.
+Most importantly, perhaps, Pythagorean mathematics allowed Iamblichus to
+exorcize sensible matter of the evil with which it had been identified by Gnostics,
+Platonic dualists, and even by Plotinus. Sensible matter for Iamblichus was no
+longer 'evil itself' -as Plotinus had said (Ennead i 8.3.38-40)-but an expression of the divine and indefinable Dyad, the principle of division and multiplicity
+extending from the One-Being to the continual generation of entities in the material world. Strictly speaking, the Monad and the Dyad were not numbers for
+Iamblichus, but unfathomable principles of numbers: sheer simplicity and infinite dividedness, from which all numbers derive, each bearing a unique expression of the mixing of these apxai. This arithmogenesis, the Pythagoreans said,
+was the result of combining things 'naturally at war' into a state of harmony.23
+The numerical opposites-seen in the odd and even numbers-were harmonized
+in the ten proportions discussed by Iamblichus in his Introduction to the Arithmetic of Nicomachus 72.9-13. From Nicomachus Iamblichus learned that the first
+ten numbers were gods and that their combinations gave rise to all subsequent
+number gods. Yet the One, as first principle, remained pre-eminent, containing
+within itself the first ten numbers as they contain all subsequent numbers. From
+this persective, even the Dyad, the principle of division and 'non-unity', was contained in the Monad, and in the Theology of Numbers, attributed to Iamblichus,
+the author states that 'the Pythagoreans call the Monad matter (\SAT]) and receptacle of all since it is the cause of the Dyad and of all recei ving ratios'. 24
+Iamblichus maintained that the One is both the unifying power that gives rise to
+continuity among numbers and sensible phenomena as well as the dividing
+power that separates and thus gives rise to discontinuity.25 From this perspective,
+all numbers, including their dyadic mother, were expressions of the dividing and
+unifying powers contained in the One.
+Arithmogenesis, with all its numerical proportions, was the model for the cosmogenesis described by Plato in the Timaeus. The Monad and Dyad in numbers,
+22 Dillon and Hershbell 1991, sect. 151: En O£ <pacn Kat cruvBetov alHov lWtTicrat tT]v Bdav
+<ptAocro<piav Kat Bepalldav. See also Clark 1989.
+23 In Nichomachi Introductionem Arithmeticae [In Nic.l, Pistelli 1894 and Klein 1975b, 72.2673.3.
+24 The%goumena Arithmeticae, de Falco 1922 and Klein 1975c, 5.12-15.
+25 Simplicius, In Cat. 135.8ff. See Festugiere 1953, 181 n 1 and Larsen 1972. fragment 37.
+
+130
+Iamblichus says, correspond to form and matter in the cosmos (In Nic. 78.11-14),
+and the 'persuasive necessity' that mixed the opposites of same and different to
+form the physical world had already mixed unity and multiplicity together to
+form the world of numbers.26 Numbers are the invisible structure of the visible
+world and the Timaeus describes the numerical proportions of the World Soul
+and explains how even the four material elements, fire, earth, air, and water,
+derive from specific geometric shapes that serve as the bases for sensible reality.
+Plato's cosmos is a world of numbers that generates a physical body whose
+causal principles are revealed in the basic number patterns and geometric shapes
+of the sensible world.
+The human soul is also a numerical entity whose relationship to the different
+branches of mathematics became the speculation of many Pythagoreans after
+Plato. Iamblichus reports that Speusippus had defined the soul as a geometrical
+figure, Xenocrates as a number, and Moderatus as a mathematical harmony
+(Wachsmuth 1958, i 364.2-23). Iamblichus, however, prefers not to identify the
+soul with one class of mathematicals but with all. He says:
+For if the soul is a numerable idea and subsists according to the
+numbers containing harmony, all the symmetries of the mathematical order ought to be subsumed together under the soul
+along with all the mathematical proportions. On account of
+this, then, the soul coexists together with the geometric, arithmetic and harmonic proportions, so that by analogy the soul is
+identical with [all] mathematical ratios and has a certain kinship with the principles of existing things. (DCMS 40.19-41.3)
+.. .In view of all this, in short, the definition of the soul contains
+in itselfthe sum-total of mathematical reality. (DCMS 42.4-6)
+Yet unlike the numerical constitutions of the World Soul and heavenly souls,
+the numbers of the human soul possess a consistency unable to withstand the sensations of embodiment, causing the soul to become lost in the divisions of the
+indefinite Dyad, the continual flow of generated matter. To reject matter or the
+body, however, was not a Pythagorean but a dualist solution to the soul's confusion, and in Iamblichus's estimation the effort to escape from materiality only
+confirms the soul's entrapment, defining it by the very phenomena it rejects. The
+Pythagorean and theurgic solution was to recover the soul's innate proportions
+by ritually re-aligning them with their divine correspondences in nature.
+The inescapable demands of physical reality, our biological urges and political
+activities, were not unfortunate necessities to be nobly endured (Ennead iv
+4.44.7-25), but the soul's opportunity to participate in theophany, to act in correspondence with the proportional intimacy and friendship (qllAia) of the gods.
+Iamblichus says that for Pythagoreans all existence derived from the harmonic
+mixing of opposites: in physical elements, in the soul and in social relationships
+(VP 130); consequently, Pythagoras organized his communities according to
+26 De Communi Mathematica Scientia [DCMS] , Festa 1891 and Klien 1975a, 15.17.
+
+131
+these same proportions. Iamblichus reports that Pythagoras employed the model
+of a right triangle with sides measuring 3, 4, and 5 to establish political harmony
+and justice among divergent constituents of his community (VP 131). The constitution of Pythagorean communities, therefore, served as a receptacle of the gods
+for it was in precise avaAoyia with the constitution of the cosmos, and
+Pythagoreans sought to establish the same divine proportions in family relationships, in friendships, and in the soul.
+The function of these proportions was to transform the enmity of things naturally at war into bonds of friendship and love, the Pythagorean <plAia. <IllAia was
+the divine power that binds all things to all and Iamblichus lists a wide range of
+phenomena that express it (VP 229). The Pythagorean life demanded that one
+discover this <plAia in one's body, soul, and family, as well as in the community
+and in one's worship of the gods. In Plotinian terms, the Pythagorean <plAia
+revealed the One's procession into the Many and its erotic return through the
+eternal measures of the cosmos. 27 Iamblichus believed that these same eternal
+measures (J.,lE'tpa aiOta, DM 65.6) were preserved by Egyptian priests from
+whom Pythagoras himself gained his knowledge of mathematical mysteries, and
+to whom Iamblichus also looked for guidance and authority in establishing his
+own synthesis of 'divine philosophy and the worship of the gods'. This
+demanded that Iamblichus, like Pythagoras, develop a way of life that accounts
+for differences among souls while allowing them 'equal' access to the gods.
+Following the Pythagorean belief in the 'geometric equality that exists among
+gods and men' (Gorgias 508b-c), Iamblichus outlined three kinds of theurgic
+worship for three kinds of souls. While each soul suffered alienation from its
+original nature and had become 'other to itself' (E'tepolOucr8m Ｑｴｰｏｾ＠
+｡｜ＩＧｴｾｶ＠
+in
+embodiment (Hayduck 1882, Simpiicius: De Anima, 223.31-32), not all souls
+were self-alienated to the same degree, and these differences called for different
+methods to receive the gods. Each soul was invited to re-enter the divine <plAia
+but only according to its capacity, and the matching of this capacity to an appropriate form of theurgy expressed the same 'geometric equality' that defined the
+measures of <plAia in the cosmos. It was, according to Iamblichus, a practical
+matter on which he says:
+Each performs his sacrifice according to what he is, not
+according to what he is not; therefore the sacrifice should not
+surpass the proper measure of the worshipper. (DM 220.6-9)
+Following this principle, Iamblichus says that material souls who follow nature
+and fate should perform material worship, noetic souls who have risen to the
+divine ｎｯｵｾ＠
+could perform immaterial and noetic rites, while intermediate souls
+should perform rites including both material and immaterial elements. In effect,
+27 Significantly, Aphrodite, the goddess accompanied by Eros, is identified with <plAia and with
+the number 6, the first 'perfect' number, equal to the sum of its divisors 1,2, 3, uniting the opposites
+of the even (female/matter) with the odd (male/form). See Gillian Clark's discussion 1989,68. Julian
+(Wright 1980,410-411) calls Aphrodite 'a synthesis of the heavenly gods, and in their harmony she is
+the spirit oflove (<plAta) and unity (EVOlO'l,),.
+
+132
+the more intense the soul's alienation, the greater the density of its ritual objects.
+The vast majority of souls, the 'great herd' as Iamblichus calls them, perform
+material theurgies employing objects that correspond to the suffering of their
+own self-alienation. These rites included the use of dead bodies, the blood of animals, the consumption of victims, as well as the use of stones, plants, and other
+material cruv8f]J.ta1:a of the gods. 28 The function of these sacrifices, Iamblichus
+says, is to bring the soul back into a state of <plAta with the gods and daimons
+immaterially present in the sacrificed objects and victims. The rapport established with these gods provides a foundation to reach the immaterial gods, but if
+the soul fails to honor the gods and daimons in matter it remains subject to their
+rule and fails to make spiritual progress. Iamblichus, therefore, insists that
+theurgy begins with the material gods. He says:
+According to the art of the priests, it is necessary to begin
+sacred rites from the material Gods, for the ascent to the immaterial Gods will not otherwise take place. (DM 217.8-11)
+Iamblichus criticizes Porphyry for neglecting this rule and trying to move
+directly into noetic worship. The result is failure 'to attain immaterial or material
+blessings' (DM 220.3-5) and he warns Porphyry that
+he who has not distributed to all [these powers] what is fitting
+and in accord with the appropriate honor that each is worthy to
+receive, will depart imperfect and deprived of participation in
+the Gods. (228.19-229.3)
+In the De Mysteriis Iamblichus has very little to say concerning noetic theurgy.
+It is performed by those who are liberated from the constraints of nature and live
+according to the Nous alone (225.1-5). Such souls, Iamblichus says, are
+'extremely rare', and even they attain to the unitary worship of the One only 'at
+the very end of life' (230.18). Such deifed souls perform a 'simple and incorporeal form of worship' (219.8), making 'noetic offerings' to the gods beyond the
+cosmos. Although the De Mysteriis gives no explicit information on the nature of
+these 'noetic offerings', the overwhelmingly Pythagorean context of
+Iarnblichus's work suggests that the noetic offerings were numbers. Numbers,
+after all, were the Pythagorean gods, and their powers descended through proportional combinations to establish the structures of both the World Soul and human
+souls. Numbers were everywhere, invisibly present in all of nature, so if the
+noetic offerings were incorporeal numbers, the material and intermediate sacrifices would also have been numbers, as O'Meara's recent translation of
+Iamblichean fragments suggests. In his treatise On Physical Number, Iamblichus
+says:
+Physical number is found in the lowest things, things generated
+and divided in bodies. For the principles mixed in bodies, both
+in animals and plants, are physical numbers, for each of these
+28 DM217.14-218.9; 233.9-12. On material theurgies, see Shaw 1995,21-57,162-169; cf. Nasemann 1991,231-282.
+
+133
+is born, grows, and dies at determined times. And the philosopher should fit the appropriate numbers to the causes in
+nature. (O'Meara 1990, 126, my emphasis)
+The fitting of physical numbers to their divine causes and to the needs of the soul
+was essential to the art of theurgy and was not limited to physical numbers. For,
+Iamblichus says: 'As there are numbers fitting nature, so there are [numbers] fitting ethical habits. And as there is a physical so there is an ethical arithmetic'
+(O'Meara 1990,126). Maintaining that 'each single virtue fits a number',
+Iambichus explains the numerical correspondences to wisdom, courage, temperance, and justice (126). In theurgic terms, whenever these ethical numbers were
+employed in incantations, music, or diagrams, the habits of the soul corresponding to them would be aligned with the divine numbers they reveal, provided the
+soul had the capacity (E1tt1:llon61:T]<;) to receive them. 29
+For a Pythagorean Platonist, the soul is a numerical entity, so its transformations would necessarily have been numerical, whether this was achieved through
+the use of physical numbers, ethical numbers, or numbers in their naked incorporeality. In every case, what determined the kind of numbers one employed was
+the soul's capacity (E1tt1:T]on61:1l<;) to receive them. Noetic souls had the rare
+capacity to perform an entirely immaterial form of theurgy freed from material
+expressions in art or nature. It is important to remember, however, that the immaterial theurgy of numbers was always 'geometrically equivalent' to material and
+intermediate theurgies: acting in precise avuAoyiu with them.3o
+In the De Mysteriis Iamblichus does not discuss incorporeal theurgy, but his
+Pythagorean texts and the evidence of later theurgists, such as Proclus and Damascius, suggest that the noetic rites were mathematical. Iamblichus says that
+Pythagoras taught the ancient Egyptian and Assyrian mysteries, including their
+initiations into divine mathematics (VP 11). These 'mathematical mysteries'
+(flu91lflUnKOt opytu<Jfloi, VP 228) allowed the soul to participate directly in the
+number gods. In a cosmos whose body is generated by numbers it should not be
+surprising that the most revered form of worship would engage numbers directly,
+and Iamblichus says that Pythagoras taught the Sythian Abaris a form of 'divination through numbers' to replace his use of sacrificial animals (VP 93).
+Iamblichus maintains that Pythagoras, following Orpheus, 'created a marvelous
+divination and worship of the Gods according to the numbers most allied to
+them' (VP 147).
+That numbers were employed by Pythagoreans and theurgists is clear, yet what
+is not clear is precisely how they were used. Iamblichus implies that the
+Pythagoreans honored the gods with images carved into the shapes of Plato's five
+geometric solids, including the docecahedron as the spheric image of the All (VP
+88; see Clark 1989, 39, 66-67). Proclus and Damascius associate geometric
+29 On ｬ｜ＷｭｔｏｮＶｾ＠
+
+as a component of every theurgy, see Shaw 1995, 86-87.
+
+30 According to Iamblichus, all theurgic ritual is-in uvuAoyiu--cosmogonic activity. This is
+
+what distinguishes theurgy from sorcery (DM 168.l3-16).
+
+134
+shapes and angles with specific deities, crediting their knowledge to the
+Pythagorean Philolaus (Morrow 1970, Proclus: In Euclidem 173.11-21; cf.
+Ruelle 1889, Damascius: Dubitationes et Solutiones ii 127), and Damascius says
+that while each god is associated with a specific rectilinear form, 'it is certain that
+the circular figure is common to all the intellectual Gods as intellectual' (Ruelle
+1889, Damascius Dub. et Sol. ii 127). The circularity of the gods seems to be a
+recurring motif, for in the De Mysteriis lamblichus explains that whenever a god
+unites with the soul its possession is effected in a circular way (i:v K'DKAcp). In
+dreams, in private acts of divination, or in public oracles, when the god takes
+possession of a human being it 'entirely fills and dominates him, and embraces
+him in a circular way from everywhere at once' (DM 113.10-11; cf. 103.14104.4, 126.11-14). For lamblichus, to become spherical was to be assimilated to
+the Nous, so the spherical experience of the theurgist was a symptom of his or her
+deification. The sphere held a special significance for Pythagoreans as the most
+complete theophany. As lamblichus puts it, the sphere 'is both itself one and
+capable of containing multiplicity, which indeed makes it truly divine, in that
+while not departing from its oneness it dominates all the multiple' (Dillon 1973,
+In Timaeum frag. 49.27-29). The sphere was the concrete expression-the hieroglyph-of the One itself, revealing the all-containing power that eternally converges on itself (In Timaeum frag. 49.50-52). In the theurgist's itinerary the
+circular or spheric experience was a necessary condition to unite with the One
+for, lamblichus says: 'the ascent to the One is not possible unless the soul coordinates itself to the All and with the All, moves itself toward the Universal Principle of all things' (Ruelle 1889, Damascius: Dub. et Sol. i 79.12-14).
+This coordination begins with material theurgies, progresses through intermediate theurgies, and culminates finally with the immaterial theurgies that employ
+mathematical images, not as conceptual abstractions but as noetic signatures of
+the gods, Pythagorean hieroglyphs of intelligible reality. While we may be reasonably certain that mathematic images-particularly the sphere and circleplayed an important role in noetic theurgy, we have only intriguing fragments to
+shed light on how they were used or what instructions were followed in rituals
+that employed them. Fortunately, however, I believe we may have specific evidence for the practice of a mathematical theurgy, not from lamblichus or from
+one of the later theurgical Platonists but from a rather surprising source, Plotinus.
+III. The Theurgic Visualization of Plotinus
+invoke the God, the creator of the
+sphere whose image you now hold,
+and pray him to enter.
+- Plotinus v 8.9
+To suggest that Plotinus practiced theurgy of any kind is certain to provoke
+those who continue to regard theurgy as a form of sorcery or-more generously-as a pious but unsophisticated attempt to win favor with the gods. Earlier
+disagreements on whether or not Plotinus was a theurgist continue to influence us
+
+135
+despite the fact that the entire discussion was based on a misunderstanding of
+theurgy as sorcery; the result is that we still tend to assume a far greater divergence between Plotinus and lamblichus than actually obtains. 31 The connections
+I have made thus far are drawn largely from the suggestions of Armstrong
+197411979, Smith 1974,83-85, and particularly from Wallis 1983 who demonstrated that Plotinus and lamblichus share much common ground as regards the
+role of invisible powers in the world. That Plotinus practiced an incorporeal and
+mathematic theurgy, however, is a supposition based on my reading of Rappe
+1995,167 where she argues that Plotinus's use of metaphor 'approximates ritual
+language' comparable to Hermetic initiatory texts. Rappe argues that Plotinus's
+instructions in Ennead v 8.9 for visualizing a luminous sphere constitute a kind
+of spiritual induction to shift the soul from the 'bewitchment' of discursive thinking into a noetic and unified experience. In lamblichean terms Plotinus's visualization employs the image of a sphere as a theurgic (Juv8rW.a. to unite the soul
+with the gods. Following Rappe's suggestions on Plotinus's use of metaphor, I
+will examine the spiritual exercise in Ennead v 8 from a theurgic perspective.
+First, however, it may be useful to outline the characteristics of a theurgic rite
+before comparing them with Plotinus's exercise. According to lamblichus, every
+theurgy includes the following characteristics:
+1. Proper preparation of the receptacle: the ritual objects
+employed must be associated with the god invoked and should
+not exceed the capacity of the soul (DM 233.7-16).
+2. Depending on the receptacle, some preparatory theoretical
+knowledge is required to insure contact with the god. Although
+necessary, this knowledge serves only an auxiliary function to
+prepare the soul to receive the god (DM 98.8-10).
+3. When the receptacle has been properly prepared the soul
+enters into communion with the god by means of the (Juv8rllla.
+and according to the soul's capacity (DM97.11-17).
+4. When theurgic union is realized, the soul exchanges its
+habitual self-alienated and discursive orientation for divine
+ｖＶＧｔｬＰｾ＠
+(DM 9.16-18). The soul, as lamblichus puts it, 'takes
+on the shape of the gods' (DM 184.7-8; cf. 246.18-247.1).
+5. The ritual's success depends on awakening the soul's
+innate eros for the divine, and the soul's possession by the gods
+is measured by the intensity of this eros and by the soul's
+capacity to endure it. 32
+31 Merlan 1953.341-348 suggested that Plotinus practiced a foml of theurgy-understood as a
+conjuring of spirits-based on the seance reported by Porphyry in VP 10. In response, Armstrong
+1955, 73-79 successfully argued against Merlan' s thesis without, however, correcting the mistaken
+equation of theurgy with sorcery. An unfortunate result of this exchange by such highly respected
+scholars has been the uncritical understanding of theurgy as manipulative sorcery, a view following
+the position articulated most persuasively by Dodds 194111949.
+32 I understand the 'soul's essential desire (r<p£<ltv) for the Good' (DM 8.1-2) to be the same as
+
+136
+Rappe explains that Plotinus's instructions for visualizing a sphere are signaled
+by a grammatical shift from the indicative to the imperative mood. Plotinus
+enjoins his reader:
+Let us apprehend in our thought this visible universe, with each
+of its parts remaining what it is without confusion, gathering
+all of them together into one as far as we can, so that when any
+one part appears first, for instance the outside heavenly sphere,
+the image of the sun and, with it, the other heavenly bodies follows immediately, and the earth and sea and all the living creatures are seen, as they could in fact all be seen inside a
+transparent sphere. Let there be, then in the soul a shining
+imagination of a sphere having everything within it, either
+moving or standing still. (Ennead v 8.9.1-10; trans. Armstrong,
+modified)
+Having put one's discursive capacities in service of this exercise, Plotinus then
+instructs the reader to develop the image further. He says:
+Keep this [sphere], and apprehend in your mind another, taking
+away the mass: take away also the places, and the mental picture of matter in yourself, and do not try to apprehend another
+sphere smaller in mass than the original one, but invoke the
+God the creator of the.sphere whose image you now hold and
+pray him to enter. And may he come, bringing his own universe with him, with all the Gods within him, he who is one
+and all, and each God is all the Gods coming together into one.
+(v 8.9.ll-17; trans. Armstrong, modified)
+Rappe argues that Plotinus's contextual background for the metaphor of a
+transparent world lies in the initiatory texts of the Hermetic corpus where she
+finds striking parallels in terminology, in grammatical syntax, and in content to
+the visionary induction of Ennead v 8.9 (Rappe 1995, 168). These Hermetic
+texts, she argues, also use the image of the 'world within the mind' to effect the
+'rebirth of the self as the world soul' (168); Plotinus, she says, has 'recast a tradition of gnosis within a framework of classicizing dialectic' (169). I would add
+that Iamblichus situated that same tradition of gnosis within a more extensively
+Pythagorean framework and, under the rubric of theurgy, in a more traditionally
+ritual context.
+Plotinus's visualization and invocation correspond to step #3 of Iamblichus' s
+theurgic itinerary where the soul enters into communion with the god by means
+of the ＨｊｵｶｾＮｬ｡Ｌ＠
+in this case the luminous world sphere. Plotinus has prepared his
+readers for this event in the preceding sections of v 8. Ennead v 8.1-8 fulfill the
+conditions of steps #1 and #2 in the theurgic itinerary: preparing the receptacle of
+
+'the more ancient, unperceived desire (£<pemv) of the Good' described by Plotinus (Ennead v
+5.12.17-19); Chaldean Oracles, Majercik 1989, frag. 43 refer to a 'deep eros' Ｈｾ｡･ｵ＠
+ﾣｰｏｬｾＩ＠
+implanted by the Demiurge in human souls to draw them back to the gods.
+
+137
+the god-in this case the soul's imagination-which demands preparatory
+knowledge. Plotinus leads his readers to the induction by initially outlining the
+immaterial principles of beauty in v 8.1-3 and in 4 provides a mythic image of
+how one experiences beauty in the intelligible world. When one sees something
+in the intelligible world
+it has the appearance of a part, but a penetrating look sees the
+whole in it, supposing that someone had the sort of sight which
+it is said that Lynceus had, who saw the inside of the earth, a
+story which speaks in riddles of the eyes which they have there.
+(24-27, my emphasis)
+The reader has now been primed for a wonderful experience of intelligible
+beauty, but how to enter it? Not, Plotinus says, by increasing our knowledge or
+developing more acute thinking skills, for the wisdom and beauty of the intelligible world are received by a kind of non-thinking, a non-discursive knowing
+exemplified by the ancient Egyptians who used hieroglyphic images to enter
+noetic realities directly (Ennead v 8.6). The luminous sphere of v 8.9 was Plotinus's hieroglyph; for Pythagorean theurgists it was the image of the One itself. 33
+After calling on readers to invoke the god of the sphere to enter, Plotinus warns
+them not to diminish the experience by abstracting it into a mental exercise. He
+insists that the god not be received partially or in comparison to anything else,
+i.e., not discursively or conceptually. To follow Plotinus in this exercise one must
+become possessed by the god invoked in the rite and embrace within oneself all
+the elemental powers that exist in the luminous sphere. In v 8.10-11 Plotinus both
+portrays and contains his experience of divine communion through the imagery
+of the great circuit of cosmic gods in the Phaedrus, Zeus advancing first, followed by all gods and souls who share his erotic experience. Plotinus says:
+Zeus then sees these things, and with him anyone of us who is
+his fellow-lover Ｈ｣ｲｵｶｅｰ｡ｴｾＩＬ＠
+and finally he sees, abiding
+over all, beauty as a whole. (23-25)
+But seeing here is not seeing but erotic communion: 'there is no longer one thing
+here looking at another there' (37-38). Plotinus continues:
+One must transport what one sees into oneself, and look at it as
+one and look at it as oneself, as if someone possessed by a god,
+taken over by Phoebus or one of the Muses, could bring about
+the vision of the God in himself, if he had the power to look at
+the God in himself. (40-45)
+Here Plotinus describes step #4 of the theurgic itinerary, when the soul is united
+with the god and 'takes on its shape'. If, as Rappe argues, Plotinus has recast tra33 Westerink 1977, Damascius: On the Phaedo ii 117.1-2. Following a suggestion by Armstong
+1937, 64-66, I think it is also possible to see the sphere as a solar image. Given the importance of the
+sun in the Hermetic writings as well as for theurgists, there may be an underlying solar dimension to
+this exercise. Ficino (see Language Dept., 1966,52-53), who reproduces this exercise in his letter to
+Michele Mercati, clearly assumed that this induction united the soul with the sun as the 'shadow of
+God'.
+
+138
+ditional gnosis into a classicizing dialectic we would err by reading his remarks
+as rational discourse for Plotinus is using philosophical concepts in an evocative
+manner, as ritual objects or Ｈｪｵｶ･ｾＡｬ｡Ｇｴｸ＠
+to effect a transfom1ation of the souJ.34
+In v 8.11 Plotinus says the visionary reaches a point where he
+dismisses the image, beautiful though it is, and comes to unity
+with himself, and, making no more separation, is one and all
+together with that God silently present and is with him as much
+as he yearns to be and can be. (4-8)
+Thus, like theurgists, Plotinus's readers receive the god according to their capacity and in proportion to the intensity of their erotic yearning. 35
+In the experience of being united with the god the soul is no longer soul, it has
+become an organ of the god. It no longer sees but is the eye through which the
+god sees. To acquire this eye, the soul who invokes the god must surrender its
+discursive habits and even its identity. Plotinus says:
+he must give himself up to what is within and become, instead
+of one who sees, an object of vision to another who contemplates him shining out with thoughts of the kind which come
+from that world. (17-19, my emphasis)
+This is what both Plotinus and Iamblichus describe as exchanging human life for
+the life of the gods, and although Plotinus's use of a 'classicizing dialectic' might
+make his spiritual induction appear more 'rational', his dialectical incantation is
+every bit as foreign to our habitual discourse as is Iamblichus's theurgy. Plotinus
+reveals more details about how we enter the experience, hut for both Neoplatonists the experience is a kind of not-knowing in which noetic realities do the work,
+not the soul. As Plotinus puts it: 'we do not apprehend them ... we are within them
+(EV ｅｋﾣｩｶＰＱｾＩＧ＠
+(Ennead vi 5.7.4-6). The idea that the soul becomes a receptacle of
+intelligible realities is a central theme of theurgical Neoplatonism, yet for articulating this point and developing Plotinian insights in a systematic way
+Iamblichus has been dismissed as 'irrational' ,36 He explains our contact with the
+gods saying that
+it is the power of ineffable symbols comprehended by the Gods
+34 Schroeder 1992, 69 points to the divine capacity of language in Plotinus: 'language belongs to
+the creation and is the gift of the One to us .. , Language, especially theological language is not altogether our own project' (my emphasis). That is, theological language for Plotinus comes from the
+One itself and has the power to effect our return to the One.
+35 The visualization of a divine image (the sphere) among Neoplatonists might be compared with
+visualization practices in Buddhist tantra, The parallels with Plotinus's exercise are striking. Eliade
+195811973, 208 says: 'The visualization of a divine image is followed by a more difficult exerciseidentification with the divinity it represents. A tantric proverb says that "one cannot venerate a god
+unless one is a god oneself' (nadevo devam arcayet). To identify oneself with a divinity, to become a
+god oneself, is equivalent to awakening the divine forces that lie asleep in man. This is no purely
+mental exercise. Nor, by the same token, is the final goal sought through visualization manifested in
+terms of mental experience' .
+36 Discussed by Lowry 1980,20-21, who argues that Iamblichus 'carried the obvious Plotinian
+philosophical standpoint to its limits and tried to validate it'.
+
+139
+alone that establishes theurgical union. Thus we do not perform these acts intellectually, for then their efficacy would be
+intellectual and would depend on us, neither of which is true.
+In fact, these very symbols, by themselves, perform their own
+work, without our thinking. (DM 96.14-97.7)
+Plotinus says much the same concerning the ineffability of the noetic realm:
+In the higher world, then, when our knowledge is most perfectly conformed to Intellect, we seem to know nothing because
+we are waiting for the experience of sense perception which
+says it has not yet seen: and it certainly has not seen, and never
+will see things like these. (v 8.11.33-37, my emphasis)
+Plotinus was well aware that his inductions into noetic not-knowing risked being
+misunderstood as sophisticated descriptions of the intelligible world. But those
+who prefer descriptions to an immediate experience of the god are, Plotinus says,
+like people at festivals who by their gluttony stuff themselves
+with things which it is not lawful for those going in to the Gods
+to take, thinking that these are more obviously real than the
+vision of the God. (v 5.11.12-15, trans. Armstrong, modified)
+It is such gluttony that has made Plotinus into a 'rational' mystic, for the subtleties of his philosophic incantations have been taken as explanations rather than
+as poetic means to enter a non-discursive and noetic state.
+IV. Conclusion: 'the Lynceus method'
+Descending with a lamp, he thus
+saw things under the ground.
+- Palaephatus
+Plotinus's visualization in Ennead v 8 exemplifies an immaterial theurgy that
+Iamblichus says is 'performed by those liberated from the constraints of nature
+and who live according to the Nous alone' (DM 223.16-19). Certainly, Plotinus
+would seem qualified to perform such an 'incorporeal form of worship' (DM
+219.8). For those who have already honored the gods and daimons of matter by
+awakening their correspondences in the soul, and for those who have worshiped
+gods in shapes, sounds, and music corresponding to their own divine proportions,
+the incorporeal rites of mathematics were the final step toward theurgic deification. In each expression of theurgy it was the soul's eros that bound it to the gods
+and at each degree that bond grows in intensity as the soul's capacity for enduring it increases. The mathematical rites, then, provided the most efficient receptacle to contain the intensity of this erotic contact. A geometric image, such as the
+sphere-or possibly the dodecahedron-was capable of containing and communicating what discursive and propositional thinking cannot, namely, the oppositions that define the essence of the soul.37 As employed by Plotinus, such images
+37 Timaeus 34c-36e; Iamblichus. in Stobaeus 1366; see Shaw 1995,98-106. On the dodecahedron as a mean between the unified sphere and manifest multiplicity, consider Damascius's comment,
+
+140
+allow the soul to move into another reality altogether, no longer to see, think, or
+apprehend, but to become seen, apprehended, and possessed by the intelligible
+gods, to enter their landscape and become covered by the 'golden dust' of their
+world where, Plotinus says, 'it shines bright upon all and fills those who have
+come to be there so that they too become beautiful' (Ennead v 8.10.26-28).
+Plotinus describes in much more detail than lamblichus the difficulty in trying
+to enter intelligible reality. Perhaps the most striking is his description of our
+approach to the One where the soul 'in sheer terror of holding on to nothingness,
+runs away' (Ennead vi 9.3.6-7), seeking the solidity of the sensible world and
+familiar habits of self-consciousness. Losing our discursively held awareness and
+vanishing into nothingness is a terrifying experience that lamblichus does not
+discuss, yet I think that theurgic rituals might well be seen as ways of containing
+that terror, of pacifying the soul so that its divine eros can be allowed to transform it. 38 For Platonists, eros was an indwelling divine power that often terrifies,
+causing us, Plato says, 'to shiver and experience dread' in the face of beauty
+(Phaedrus 251a). In Ficino's commentary on the Symposium, he explains the
+cause for this fear, saying tersely that 'anyone who loves, dies', for the lover, no
+longer held by habits of self-interest or self-reflection, vanishes into the beloved
+and lives there (Jayne 1985,55). Plotinus was able to allay this fear through
+evocative discourse, including the use of a mathematical (JuV9TuHl, like the luminous sphere, to contain his terror and transform it into a receptacle of the gods.
+Plotinus realized that not all souls were capable of following such spiritual
+inductions yet he maintained that the intelligible world may nevertheless be
+engaged even in sensate experience for, he says, 'sense perception itself is
+already established in the forms' (Ennead v 3.9.30). In Pythagorean terms, to see
+the forms in the material world is to see the numbers that make up its invisible
+framework. This is what it is to see with the eyes of Lynceus. But Plotinus does
+not elaborate on the method to gain these eyes, and he generally does not concern
+himself with the analogies that reveal the intelligible world here below. For
+lamblichus, the noetic realities engaged in Plotinus's spiritual inductions were
+also present in the traditional sacrifices and divinational rites of common people,
+for the informing principles of these rites were numbers. In fact, numbers are discernable everywhere to one looking with the eyes of Lynceus, and Iamblichus
+maintained that without first performing material rites the soul would lack the
+foundation necessary to perform the noetic inductions.
+Perhaps because he was more poet than systematic thinker, Plotinus left work-
+
+Westerink 1977, ii 132 that 'the dodecahedron is the common transitional form between each of the
+elements and the sphere ... [I]t is ruled by the providence of the Twelve Gods, who lift it up to the
+height of the Intelligence (Nous) ... from the supramundane level the dodecahedral shape is imparted
+to them all [the elements] to prepare them for participation in intelligence, that is, for sphericity'.
+38 Merkur 1993, 165-170, in his discussion of merkabah mystics, explains the importance of
+'managing anxiety' in visionary experiences. As seen in Hermetic gnosis and Plotinus, the merkabah
+mystics experienced themselves as co-extensive with the entire cosmos.
+
+141
+
+ing out the method of Lynceus to his Syrian successor Iamblichus. 39 The Argonaut Lynceus could see treasures beneath the surface of the earth and is said to
+have invented mining by descending underground with a lamp. Using the
+Pythagorean lamp of numerical proportion and analogy, Iamblichus sees numbers in the heaviness of the sensible world and is therefore able to engage the
+gods in matter. Iamblichus disagrees with Plotinus' s doctrine of the undescended
+soul and insists that the soul descend with Lynceus into the cave of matter to
+recover its divine treasures. With the Pythagorean principle of qnAta, which
+binds all things to all in geometric equality, Iamblichus sees the same numerical
+proportions in the blood of sacrificed animals, in songs, in prayers, and finally in
+the immaterial expression of mathematic visualizations. The erotic circulation of
+Plotinus's universe is, for Iamblichus, an unfolding of numbers descending from
+the One into the density of the material world, revealing a vast net of proportions
+and numerical relations. Despite their multiplicity and division, all numbers and
+proportions remain united with the One by the bonds of <plAta. For Iamblichus
+the union of the soul with the gods is simply an expression of the numbers themselves returning to the One through the embodied soul whether their circuit is
+drawn in the blood of animal sacrifice or in mathematical inductions. In the experience of theurgic return, the soul's embodiment is revealed to be a pivotal
+moment in the erotic circulation of the One, for the number of the body,
+Iamblichus says, is ｾｻｊＩｬＭｴＨｋｏＬ＠
+a term that also designates the altar of blood sacrifice. 4o The embodiment of the soul, then, may be seen as an altar through which
+the ap18J,lOt sacrifice themselves into generated life and then-in ritual reciprocity-return to their divine origin. Our blood sacrifices on the altar eventually
+reveal the anterior sacrifice represented by the altar itself: embodiment, the pivotal (Juv8"f.la through which the ap18f.lot reach their turning point Ｈｋ｡ｬＭＱｴＧｾｰＩＴ＠
+and are drawn back into union with the One. 42
+Department of Religious Studies
+Stonehill College
+North Easton MA 02357
+
+39 Hadot 1993, 36 coins the phrase 'the Lynceus method' to characterize how one may 'pierce
+the material envelope of things' to see spiritual realities within.
+40 In On Physical Number Iamblichus says: 'But the body (crrol.ta), being from unequal sides an
+unequal times the unequal an unequal times, is neither ｯｏｬ､ｾ＠
+nor ＱｴａｉｖＸｩｾ＠
+but a ｐＨｪＩｉｬ｣ｲｋｏｾＬ＠
+having for
+sides 5, 6, 7.. .. (0 Meara 1990, 220-221).
+41 Iamblichus, In Nic. 75.25-77.4, uses a ｏｩｕａｾ＠
+(race course) to visualize square numbers in
+their procession from and return to unity. In the race course, the ｋｕｉｬＱｴｾＢｐ＠
+(turning point) is the piv(starting point), beginning with 1, prootal moment when a square number n2 returns to its ｕ｣ｲＱｴａｬｾ＠
+ceeding to n, the KUIl1t-nlP. and then returning, as follows (let n = 4): 1,2,3,4,3,2,1 = 16. The soul's
+embodiment may be imagined as the turning point in the procession and return of pt81l0i.
+42 I would like to thank Stonehill College for a summer grant to support the writing of this article. I am indebted to an anonymous reader for his or her learned critique and to Ronald Polansky for
+his helpful suggestions. Thanks also to Peter Durigon both for his critical remarks and his passionate
+interest in the topic of the undescended soul, and to Vera Hachler for her assistance.
+
+a
+
+142
+BIBLIOGRAPHY
+Anton, John and Anthony Preus edd. 1983. Essays in Ancient Greek Philosophy ll. Albany: SUNY
+Press.
+Armstrong, A.H. 1937. 'Emanation in Plotinus' Mind 66: 61-66.
+Armstrong, A.H. 1955-1956. 'Was Plotinus a Magician?' Phronesis I: 73-79.
+Armstrong, A.H. trans. 1966-1988. Plotinus. 7 volumes. Cambridge: Harvard University Press.
+Armstrong, A.H. ed. 1967. The Cambridge History of Later Greek and Early Medieval Philosophy.
+Cambridge: Cambridge University Press.
+Armstrong, A.H. 1979. 'Tradition, Reason, and Experience in the Thought of Plotinus' in Plotinian
+and Christian Studies. London: Variorum.
+Bidez, J. trans. 1928. Catalogue des manuscrits alchimiques grecs. 6: 139-151. Brussels: Maurice
+Lamertin.
+Bussanich, John. 1987. 'Plotinus on the Inner Life of the One' Ancient Philosophy 7: 163-189.
+Bussanich, John. 1996. 'Plotinus's Metaphysics of the One' 38-65 in Gerson 1996.
+Clark, Gillian. trans. and comm. 1989. Iamblichus: On the Pythagorean Life. Liverpool: Liverpool
+University Press.
+Corbin, Henry. 1969. Creative Imagination in the Sufism of Ibn Arabi. Princeton: Princeton University Press.
+Cumont, Franz. 191111956. Oriental Religions in Roman Paganism. New York: Dover.
+Des Places, E. trans. 1966. Jamblique: Les mysteres d'Egypte. Paris: Les Belles Lettres.
+Dillon, John. text, trans. and comm. 1973. Iamblichi in Platonis Dialogos Commentariorum Fragmenta. Leiden: Brill.
+Dillon, John and Jackson Hershbell text, trans., and notes. 1991. Iamb/ichus: On the Pythagorean
+Way of Life. Atlanta: Scholars Press.
+Dodds, E.R. 194111949. The Greeks and the Irrational. Berkeley: University of California.
+Eliade, Mircea. 195811973. Yoga, Immortality, and Freedom. New York: Bollingen.
+Festugiere, AJ. trans. 1953. 'Traite de I' arne' in La Revelation d'Hermes Trismegiste 3. Paris:
+Gabalda.
+Fowden, Garth. 1986. The Egyptian Hermes: A historical approach to the late pagan mind. Cambridge: Cambridge University Press.
+Gatti, Maria Luisa. 1996. 'Plotinus: The Platonic tradition and the foundation of Neoplatonism' 10-37
+in Gerson 1996.
+Gerson, Lloyd ed. 1996. The Cambridge Companion to Plotinus. New York: Cambridge University
+Press.
+Hadot, Pierre. 1993. Plotinus or the Simplicity of Vision. trans. by Michael Chase. Chicago: University of Chicago Press.
+Hayduck, M. ed. 1882. In Libros Aristotelis de Anima Commentaria: II. Berlin: G. Reimeri.
+Jayne, Sears trans. and comm. 1985. Marsilio Ficino: Commentary on Plato's Symposium on Love.
+Dallas: Spring.
+Kingsley, Peter. 1995. Ancient Philosophy, Mystery, and Magic: Empedocles and Pythagorean Tradition. Oxford: Clarendon Press.
+Klein, Jacob text. 1975a. Iamblichus: De Communi Mathematica Scientia. Stuttgart: Teubner.
+Klein, Jacob text. 1975b. Iamblichus: In Nicomachi Introductionem Arithmeticam. Stuttgart: Teubner.
+Klein, Jacob. text. 1975c. Theologoumena Arithmeticae. Stuttgart: Teubner.
+Language Department of the School of Economic Science. trans. 1996. Meditations on the Soul:
+Selected Letters of Marsilio Ficino. Rochester: Inner Traditions.
+Larsen, B.D. 1972. Jamblique de Chalcis: Exegete et philosophe. Aarhus: Universitetsforlaget.
+Lloyd, A.C. 1990. Anatomy of Neoplatonism. Oxford: Oxford University Press.
+Lloyd, A.C. 1967. 'The Later Neoplatonists' 269-385 in Armstrong 1967.
+Lowry, J.M.P. 1980. The Lagical Principles of Proclus' ITOIXEWIII eEOAOrIKH as Systematic
+Ground of the Cosmos. Amsterdam: Rodolpi.
+
+143
+MacKenna, Stephen trans. 1930/1991. Plotinus: The Enneads. London: Penguin.
+Majercik, Ruth text, trans. and comm. 1989. The Chaldean Oracles. Leiden: Brill.
+Merkur, Dan. 1993. Gnosis: An Esoteric Tradition of Mystical Visions and Unions. Albany: SUNY
+Press.
+Merlan, Philip. 1953. 'Plotinus and Magic' Isis 44: 341-348.
+Morrow, Glenn trans. 1970. Proclus: A Commentary on the First Book of Euclid's Elements. Princeton: Princeton University Press.
+Murray, Gilbert. 1951. The Five Stages of Greek Religion. New York: Doubleday.
+Nasemann, Beate. 1991. Theurgie und Philosophie in Jamblichs De mysteriis. Stuttgart: Teubner.
+Nilsson, Martin. 1948/1969. Greek Piety. New York: W.W. Norton.
+O'Meara, Dominic J. 1989. Pythagoras Revived. Mathematics and Philosophy in Late Antiquity.
+Oxford: Clarendon Press.
+Phillips, John. 1995. 'Plotinus and Iamblichus on ｮｰｯ｡ｩｅ｣ｲｴｾＧ＠
+Ancient Philosophy 15: 135-153.
+Rappe, Sara. 1995. 'Metaphor in Plotinus' Enneads v 8.9' Ancient Philosophy 15: 155-170.
+Rappe, Sara. 1996. 'Self-knowledge and subjectivity in the Enneads' 250-275 in Gerson 1996.
+Ruelle, C.A. text. 1889/1964. Damascius: Dubitationes et solutiones de primis principiis in Platonis
+Parmenidem. Brussels: Culture et Civilization.
+Saffrey, H.D. 'Plan des Livrcs I et II du de Mysteriis de Jamblique' 281-295 E. de Strycker ed. Zetesis Album Amicorum. Antwerp: De Nederlandsche Boekhande!.
+Schroeder, Frederick. 1992. Form and Transformation: A Study in the Philosophy of Plotinus. Montreal: Queens University Press.
+Shaw, Gregory. 1985. 'Rituals of Unification in the Neoplatonism of Iamblichus' Traditio 41:1-28.
+Shaw, Gregory. 1995. Theurgy and the Soul: The Neoplatonism of Iamblichus. University Park:
+Pennsylvania State University Press.
+Shaw, Gregory. 1996. 'After Aporia: Theurgy in Later Platonism' Journal of Neoplatonic Studies 5:
+3-41.
+Sheppard, Anne. 1980. Studies in the 5th and 6th Essays of Proclus' Commentary on the Republic.
+Gottingen: Vandenhoeck and Ruprecht.
+Sheppard, Anne. 1982. 'ProcJus' Attitude to Tbeurgy' Classical Quarterly 32: 212-224.
+Smith, Andrew. 1974. Porphyry's Place in the Neoplatonic Tradition. The Hague: Martinus Nijhoff.
+Stacker, Thomas. 1995. Die Stellung der Theurgie in der Lehre lamblichs. Frankfurt: Peter Lang.
+Steel, Carlos. 1978. The Changing Self. A Study on the Soul in Later Neoplatonism: Iamblichus,
+Damascius, and Priscianus. trans. by Haas!. Brussels: Paleis der Academien.
+Trouillard, Jean. 1972. L'un et ['ame selon Proclos. Paris: Les Belles Lettres.
+van den Berg, Robbert M. forthcoming. 'What Porphyry wanted to Know, but was Afraid to Ask
+Plotinus. A Note on Porphyry VP 10' Ancient Philosophy.
+Wachsmuth, C. and O. Hense edd. 1958. Stobaeus: Anthologium 4 vols. Berlin: Weidmanns.
+Wallis, R.T. 1972. Neoplatonism. London: Duckworth.
+Wallis, R.T. 1983. 'Plotinus and Paranormal Phenomena' 495-507 in Anton and Preus 1983.
+Westerink, L.G. trans. 1977. Damascius: On the Phaedo II. New York: North-Holland.
+Wright, Wilmer Cave trans. 1980. The Works of the Emperor Julian: I. Cambridge: Harvard University Press.
+Zintzen, Clemens. 1983. 'Bemerkungen zum Aufstiegsweg der Seele in Jamblichs De Mysteriis' 312328 in Platonismus und Christen tum: Fesschriftfiir Heinrich Dorrie. MUnster: Aschendorff.
+
+

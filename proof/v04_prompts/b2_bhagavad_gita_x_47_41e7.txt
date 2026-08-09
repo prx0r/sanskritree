@@ -1,0 +1,19 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||
+
+LEXICAL EVIDENCE:
+  aDikf: [unrecognized: aDikf]
+  tA: [unrecognized: tA]
+  mA: not/my
+  Pal: [unrecognized: Pal]
+  katT: [unrecognized: katT]
+  mA: not/my
+  Pal: [unrecognized: Pal]
+  BU: to become
+  mA: not/my
+  tA: [unrecognized: tA]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

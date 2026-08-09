@@ -1,0 +1,980 @@
+Material Subjects, Immaterial
+Bodies
+Abhinavagupta’s Panentheist Matter
+Loriliai Biernacki
+The clay pot knows by means of my self and I know by means
+of the self of the clay pot. . . . Indeed, the clay pot knows by
+means of that absolute transcendent being and the
+transcendent deity knows by means of the clay pot.
+—Somānanda, Śiva Dṛṣṭi
+
+Scientific paradigms of the twentieth century, and specifically materialist
+paradigms, have not only set the parameters of what we take to be possible; they
+have indeed materially influenced in no small measure how we script the world
+around us. We can, for instance, thank contemporary scientific materialist
+reductionist models for an astounding map of the building blocks of matter,
+molecules and atoms, to wonderful effect in the chemistry of new medical drugs,
+travel to space, mapping of the genome. And less happily, we owe also to the
+material progress of scientific reductionism the overwhelming amount of plastics
+in our oceans. Materialist reductionism tells us that we can reduce just about
+everything, including chemistry and biology, to the tiny protons and electrons of
+physics. Beyond, however, the reductive materialism of the hard sciences, like
+physics and chemistry, the social sciences as well have scripted their own versions
+of materialism, imitatio scientia. With this, anthropology, religious studies, and
+sociology, for instance, look for explanations of human behavior through
+materialist reductionist models, simplifying the messy chaos of human religiosity,
+for example, to neater, more manageable material mechanisms like economic
+interest or the imperatives of brain biology.1 Further, on the heels of the mindboggling success of materialist reductionism, have come new births, of other, even
+bolder materialisms. For instance, Patricia Churchland’s daring expansion into
+eliminativist materialism waves away the idea of self in a single gesture. The
+subjective sense of self in this farther-reaching materialist paradigm turns out to be
+no more than a simple, unfortunate illusion manufactured by an unwitting brain.2
+Meanwhile, materialist paradigms have also exerted powerful influence in political
+spheres. Indeed, steering the course of whole nations, Marx’s historical
+materialism, and its offshoot dialectical materialism, has mapped the fate of
+millions under communist Russia and China.3
+
+Despite this success, however, the materialist reductionism that has enabled
+the development of such remarkable advances in technology has since the early
+part of the twentieth century been grappling with its own incoherencies in the form
+of the new scientific discoveries reaching into the realm of the very, very small,
+the domain of quantum physics. The dominant response from the physics
+community for the latter half of the century has been to cast a blind eye—what
+David Kaiser pithily described as “shut up and calculate.” However, a few
+physicists recently, including Karen Barad, have worked to make sense out of the
+incoherencies dogging matter and its entanglements.4 The results of quantum
+experiments appear to demand a reincorporation of the observer within conceptual
+models describing what objectivity and scientific practice mean. In this context,
+Karen Barad has leveraged the anomalies of quantum mechanics into a coherent
+theory of subjectivity that links observer and observed in a mutual agency.
+Agential realism, as she names it, affords agency to both the observer and the
+photon whizzing across space as its trajectory is recorded on a screen by the
+experimenter/observer. Barad extrapolates from Niels Bohr’s understanding of
+indeterminacy to suggest that observer and phenomenon observed, subject and
+object, both arise together through a mutual delineation. This is not an interaction,
+where a separate observer records the movements of an object, the photon,
+perhaps, changing the course the photon takes through the act of a gaze. Rather,
+she suggests we understand this as “intra-activity.” Intra-activity means that there
+are not two separate parties, who then interact. Instead, we find that the two,
+observer and object, emerge in the first place through this very act of engagement,
+an intra-activity, an emergent entanglement that then allows both subject and
+object to become manifest into these two separate perspectives. Expanding this
+theory derived from Bohr’s interpretation of quantum mechanics to human
+relations affords productive and suggestive new models for how humans might
+coexist with one another, certainly, and also with the wider natural world. And,
+indeed, it entails that the very meaning of matter dramatically shifts.
+Barad’s conception of the mutual delineation of subject and object
+curiously sounds remarkably close to a temporally distant tenth-century Indian
+proposal. About a millennium before Barad’s keen analysis of quantum theory, the
+Hindu Kashmiri philosopher Somānanda offers—not through science, but
+theologically inspired—a philosophical formulation of the mutual imbrication of
+divinity and matter as subject and object. In the nondualist Śaivism of
+Somānanda’s tenth-century philosophy of subjectivity, the consciousness of a
+mere clay pot gets inseparably entangled with that of his own subjective
+awareness—and with that of the highest divinity. “The clay pot knows by means
+of my self and I know by means of the self of the clay pot. . . . Indeed, the clay pot
+knows by means of that absolute transcendent being and the transcendent deity
+knows by means of the clay pot,”5 Somānanda tells us. He is thus entangling the
+agency and observational capacity of god and humble clay pot with his own. Can
+
+the matter of mere clay be so indispensable to the all-encompassing deity, Śiva,
+who stands as the foundation of subjectivity for his school of thought? Actually
+Śiva, for Somānanda’s philosophical system, represents more than simply a deity,
+more than the highest deity in a great chain of being. In Somānanda’s nondualism
+Śiva stands less as an entity than an all-pervading principle, characterized in its
+first movement as cit, consciousness. It then unfolds within itself the capacities for
+will, knowledge, and action and, with these, time as it unfolds, down to the very
+stuff of matter, the clay that makes up the clay pot.
+In this essay I examine this much earlier, radical reworking of the notion of
+matter, one that bears affinities with some quantum formulations of the mutual
+implication of observers and the objects they observe. I work here with a medieval
+tenth- and eleventh-century Indian school of philosophy, the nondual Kashmiri
+Śaivism school called “Pratyabhijñā,” or “Recognition,” which grew out of the
+work of Somānanda and his successors, Utpaladeva and Abhinavagupta. The
+Pratyabhijñā offers a response to the monist idealisms of earlier Indian
+philosophical schools, the Vedānta of the eighth-century Hindu philosopher
+Śaṅkara and the earlier Buddhist Vijñānavāda or “mind-only” schools, both of
+which tended toward leaving aside material reality as illusory in their nondualist
+formulations of subjectivity. The Pratyabhijñā proposed a dynamic reformulation
+for the ideas of objectivity and subjectivity, which retained a sense of matter as
+real, and incorporated the notion of matter as a perspectival expression of the
+subject-object relation. Abhinavagupta, the great grand-disciple of Somānanda in
+this school’s lineage, lived from about 950–1025 CE. He offered a systematic
+articulation of this school’s philosophy, and I draw extensively from one of his last
+works, his Īśvara Pratyabhijñā Vivṛti Vimarśinī, Āgamādhikāra (Teachings on
+Cosmology, the Long Commentary on Recognition), written about 1015 CE. In the
+context of Indian philosophy, with its pervasive and overt leanings toward the
+rejection of material existence as Māyā, or “illusion,” Abhinavagupta is somewhat
+radical in his embrace of materiality. One might read his writing as part of a larger
+trend within Tantric philosophy to bring the body back, recognizing the
+importance of the body and matter in the larger scheme of enlightenment.
+Abhinavagupta accomplishes his task by locating a fundamental dynamism
+between subjects and objects, consciousness and matter. Specifically, he suggests
+that subjectivity and objectivity ought to be understood as mutually implicated, coconstituting one another. For this chapter I read Somānanda’s and
+Abhinavagupta’s mutual implication of subject and object in dialogue with Karen
+Barad’s quantum theory of agential realism derived from Bohr’s quantum theory.
+The differences between these models preclude any easy comparison;
+Abhinavagupta in particular is more concerned with establishing an overarching
+subjectivity as a pervasive nondualist substratum than is Barad, who stresses
+relationality as mutual entanglement. In this sense, Abhinavagupta’s panentheist
+transcendent self, transforming and unfolding itself into the multitude of others is
+
+the glue that binds together subjects and others. For Barad a mutual entanglement
+gives birth to selves and others through their mutual, complementary
+differentiations. Yet the points of convergence hint at compatible ontologies;
+specifically, the mutual adherence they share to a foundational inseparability of
+subjects and objects merits closer inspection. The point of this, however, goes
+beyond a sense of appreciation of remarkable similarities across a gap of centuries
+and continents in this Bohrian-based quantum perspective and this dynamic
+panentheism of a medieval Indian philosopher-mystic. Rather, it suggests that this
+medieval conception of the body may help us as we think through our own
+quantum reconceptualizations of materiality.
+Abhinavagupta’s theories of the entanglement of consciousness and matter
+lead to a reconsideration of the nature of the body. Not simply inert matter, the
+body’s parameters shift in this formulation to afford the status of “body” with a
+mutuality of matter and consciousness; borrowing Barad’s language, we might call
+the body thus construed a “material-discursive” occurrence.6 That is,
+Abhinavagupta’s conception of the body incorporates both materiality and
+discursivity entwined together, an entanglement perhaps most striking in its
+rendition as “subtle body” (sūkṣma śarīra, puryaṣṭaka). The subtle body is
+certainly a body, fundamentally made of matter, yet its links with consciousness
+afford it capacities beyond the physical body. Not quite visible to ordinary
+eyesight, even as it is still connected to the five senses and is itself sensible, it is
+the subtle body that transmigrates from life to life for these various Indian
+philosophies that share an affirmation of reincarnation. Not exactly a soul here—
+keep in mind the idea of a soul is anathema to Buddhist contexts, which strongly
+affirm the “no-soul” (anatma) doctrine the Buddha preached around 400 BCE.
+The subtle body does not quite match up to the Western notion of “soul,” since the
+Western idea of soul with its implications of a permanent and unique individual
+essence is problematic for these Indian nondualist traditions, even for traditions,
+such as Vedānta, that affirm the notion of “self” (ātman) as persisting beyond the
+death of the physical body. The subtle body is also not a cosmic self (ātman). It
+outlasts the physical body, even as it accompanies it through our daily lives, but it
+is subject to its own transformations. It is the body we use to dream in, to travel to
+distant places through yogic exercises without our more familiar corporeality, and
+it is the body we inhabit and in which we carry our particular karmas, propensities
+and habits while we look for new bodies in which to take birth between lives. For
+our purposes here, the fantastic, spiritualist conception of reincarnation need not
+distract us from what is useful about this concept. Untenable, we might even say
+scientifically distasteful, to contemporary Western sensibilities, nevertheless, an
+attentiveness to this unfamiliar map of the body allows us to glean unexpected and
+useful novel formulations of the relation between body and mind. The subtle body
+particularly demonstrates a permeability in its ontological characterization,
+
+entangling both materiality/body and consciousness as productions of ritual
+performance.
+
+The Inseparability of Knowledge and
+Action
+What Abhinavagupta and Somānanda propose in this philosophical system
+of “Recognition” (Pratyabhijñā) is a way of linking consciousness with matter.
+This is no small matter. The pervasive Cartesianism that Barad (and Bohr) reject,7
+which places a wall between the consciousness and materiality, also surfaces in its
+own form in an Indian context beginning early in Indian philosophical history,
+with Sāṃkhya, around of the turn of the first millennium.8 Arguably the basic
+template and bedrock of most Indian models of cosmology, Sāṃkhya proposes
+twenty-five basic categories for “what there is,” ranging from the five great
+elements (water, earth, air, fire, and space) up to primordial, sentient spirit
+(puruṣa). Most succeeding Indian philosophical systems draw from the model
+Sāṁkhya offers, modifying the basic system with a host of additions and
+innovations to present variations on a theme. In the basic Sāṁkhya template,
+sentience and consciousness is a property of only one of the twenty-five
+categories, puruṣa or spirit, at the apex of the system. The other twenty-four
+categories present modulated expressions of a primordial and fundamentally
+insentient Nature (prakṛti), incorporating all else that we encounter materially.
+The philosophical counter to his Sāṃkhya inheritance that Abhinavagupta
+uses to arrive at the mutual implication of matter and consciousness—the
+fundamental inseparability of clay pots, gods, and human awareness—might be
+said to boil down to a basic, even psychological, apprehension of the bodily links
+between awareness and actions. Abhinavagupta structures his arguments for the
+nondual pervasiveness of consciousness, even as it transforms into matter (that is,
+into pots that exist because they know themselves) around the convertibility of
+knowledge and action into each other. Why knowledge and action? He
+understands the ramifications of a split between consciousness and matter to reach
+its way down into a mundane bifurcation of human capacities to know and to do.
+Consciousness is at base about knowing; matter is at base about action, about the
+forces that move objects. This logic also plays out in our contemporary
+formulations of subjectivity; the phenomenological experience of qualia,
+unadulterated consciousness, eludes neuroscientific formulations of brain
+operations, to the extent that they can only be bracketed out as “epiphenomena.”
+The capacity to know is separated from our bodies’ capacities to move, to sense.
+
+The notion that knowledge and action are linked is a fundamental premise
+of the Pratyabhijñā system. Utpaladeva, who writes the Verses on Recognition (the
+root text for Abhinavagupta’s commentary) says, “Knowledge and actions are
+inseparably mutually associated with the Subject.”9 This goes against the larger
+metaphysical milieu of India’s historical bifurcation of these two. This verse
+proposes to bring materiality back within the sphere of consciousness.
+Abhinavagupta glosses this verse with, “Consciousness, which has a form
+possessing attributes, with a body made of the energy of knowledge [jñāna śakti]
+accepts as its attribute the power of action [kriyā śakti], which has the nature of
+both externality and internality.”10 Here again we see the body (vapuḥ) return,
+knowledge itself characterized as a body. For Abhinavagupta the link between
+knowledge and action is an expansion; it involves a dynamism, a movement that
+operates on cosmic theological scales and in a person’s mental processes. He tells
+us:
+From the perspective of mere consciousness lying in the core there
+exists the state containing both inner and outer. However,
+differentiation [Māyā’s creation] spreads out, expands into many
+branches, with the Lord still lying within the core. And that creation is
+two-fold still when the energy of the highest Śiva spreads open. When
+that energy manifests inwardly, naturally it is called the energy of
+Knowledge. However, when it expands in stages with its active, selfreflective awareness [vimarśa] gradually becoming more firm and
+fixed, then it manifests externally. This is pointed to as the energy of
+Activity.11
+
+Abhinavagupta’s theological language points to mental processes; an
+inwardly directed attention entails knowledge. An externally directed attention is
+directed by a capacity for self-reflective insight, vimarśa, which itself is the basis
+for action. Thus vimarśa, which literally translates as “distinguishing touch,”
+involves a kind of self-measuring.12 Over time, this process of internal
+measurement leads to a congealing of awareness, becoming firmer and more fixed,
+which then affords external manifestation. Barad’s notion of matter as substance in
+its becoming as a “congealment of agency”13 finds a curious parallel in
+Abhinavagupta’s theological understanding of the firming up of active awareness,
+vimarśa, the capacity for a self-reflective, self constitution through a kind of self
+measurement to gradually become externalized action and then objects. Barad’s
+understanding of knowledge is that “knowing is a material practice of engagement
+as part of the world in its differential becoming.”14 If we reflect (diffract?) this
+understanding through Somānanda’s clay pot who knows by means of my self in a
+mutual emergence of self-other knowledge, we engage in the fundamental
+operation of consciousness. This is the sense of vimarśa, self-reflective measuring,
+touching and engaging between me and the clay pot, to generate an entanglement
+that is knowledge.
+
+Even here, however, we note the prioritization of subjectivity in
+Abhinavagupta’s delineation of the mental processes that transform knowledge
+into action, and then ultimately objects. Abhinavagupta links the object back to
+consciousness through a kind of subjective trace that remains an inward attribute
+of objects:
+The Subject’s form, which is a unity of consciousness, contains an
+excess, an abundance of awareness. This is deposited into the side of
+the object that is going to be created. So inwardly the object has the
+attribute of śakti, energy which is none other than the form of
+consciousness.15
+
+The object comes into being in conjunction with the subject; the excess of
+awareness forms the inside of the object. Still, even as Abhinavagupta insists on
+the essential unity of the subject and object, each one comes to the fore at the
+expense of the other in a complementarity that sees either a position of subjectivity
+predominating or a position of object predominating. Two things we should keep
+in mind here: For most of what we encounter in the world, we find a mix of both
+subjectivity and object alternating in expression. So when we humans, in the
+middle of this great unfolding of Nature (prakṛti), reflect on a pristine sense of “Iness” (ahantā), particularly (but not exclusively) in an experience of wonder
+(camatkāra), we then access our inherent sense of subjectivity. However, when we
+reflect, for instance, instead on “this-ness” (idantā), considering, for instance, “I
+am fat” or “I am sad,” we transform our inherent subjectivity into a state that
+blossoms into the predominance of one or other of the five classical elements
+(earth, water, fire, air, and ether). In the case of thinking “I am fat,” we allow the
+earth element to predominate, and the element of water in the thought, “I am
+sad.”16 Perhaps even just rescripting these types of self-identifications in terms of a
+subjectivity aligned with the five elements might happily jolt us out of the
+doldrums that often arise from these kinds of thoughts. Might Abhinavagupta say
+that the prevalence of this kind of culturally pervasive self-deprecation arises from
+a self-exile from subjectivity, “I-ness” as ahantā? Cultural norms aside, it is also
+the case that Abhinavagupta often favors the perspective of subjectivity over that
+of object, stressing its priority and desirability. Moreover, like Bohr’s cane
+(discussed below), we also see a complementarity in the relation between the
+subject perspective and the object perspective. In response to his fabricated
+interlocutor, a seemingly frustrated materialist, Abhinavagupta says:
+Now you may say, well if it occurs in this way, then if one can see the
+form of consciousness even in a clay pot, then what is there that’s not
+false? Yes, correct, [Utpaladeva] says, “but it is appropriate to view the
+insentient” in this way. . . . By removing the form which is insentient,
+we allow the form which is sentient, the conscious, to take
+predominance and there we have a complete entrance into
+consciousness. This is moving forward and entering into its own
+form.17
+
+Here while Abhinavagupta asserts a primary subjectivity at base, even for
+the clay pot, he shies away from Somānanda’s stronger formulation, which
+ascribes a lively subjectivity to clay. In this respect, Somānanda demonstrates a
+pantheism in relation to Abhinavagupta’s panentheism. Abhinavagupta, cautiously
+shrinking away from the radical agency Somānanda gives to the clay pot, cites
+Utpaladeva’s explanation, that it is “appropriate” to view the clay pot in this way,
+recognizing its inherent consciousness, its subjectivity, precisely because our
+perspective, our way of seeing the clay pot, affects the clay pot’s own ontological
+status. Our seeing it as sentient allows the clay pot’s capacity for sentience to
+come to the forefront. Here we can read this in two ways. On the one hand, we
+might read again the one-sided human determination of what matter is: Human
+consciousness makes the pot conscious. On the other hand, we might also read this
+transformation of the ontological status of the clay pot affected by how we think of
+it as a stress on a mutuality. This mutuality derives from the entanglement of the
+person who sees the clay pot and the pot’s own reality. Because our act of
+viewing, indeed a kind of measurement, brings forth the status of the pot, there is a
+mutuality in the emergence of the pot’s life. Our view of the clay pot constrains
+the pot’s own emergence into its own inherent consciousness, though here it is
+important to keep in mind that the human does not animate the pot, give it life
+through a human capacity. Rather, the clay pot already has its own innate life. In
+any case, the reverse of this is also true, particularly for Somānanda. Utpala, as he
+comments on Somānanda’s assertion of the radical agency of pots, tells us that for
+Somānanda, “Śiva does not exist in the form of pots, etc., but rather the pots, etc.,
+have Śiva as their form.”18 With this, Somānanda and Utpala emphasize that the
+model is not of a universal life principle pervading things like pots, but rather that
+things themselves condition the form of consciousness, as the clay pot emerges
+into its form as Śiva, absolute deity and principle of consciousness.
+Abhinavagupta, in contrast, more conservative than Somānanda, ascribes
+natural limits to certain forms. Humans, for Abhinavagupta, more easily access
+subjectivity and can help objects access their own subjectivity by recognizing this
+capacity within them. I am reminded here of Jane Bennett’s poetic encounter with
+debris, a beat-up old white bottle cap, a single discarded black work glove, a
+smooth stick, all vibrating with a palpable intensity of vitality for her on a vibrant
+June morning.19 In this case, Abhinavagupta’s description suggests that Bennett’s
+recognition of the vitality within this litter affords the deep and vibrant life of
+these only seeming lifeless objects to shine forth (ābhāsa) in a way that allows
+both object and observer to tap into the wonder of subjectivity.
+Abhinavagupta’s remark points to a human responsibility to act generously,
+to allow the clay pot’s inherent sentience to actually arise. One can thus glimpse
+an implicit ethics in Utpaladeva’s “it is appropriate.” We also see here the
+mechanism of complementarity. Either the form of insentience (jaḍarūpa) or
+consciousness (cidrūpa) will be predominant. As one rises, the other falls. This
+
+complementarity still nevertheless values sentience as a kind of ground zero base
+reality that can shift into either its esse as consciousness or into insentience.
+
+The Subtle Body
+Just as the mind is physical in this medieval linking of matter and
+consciousness, so also the body’s matter is always imbued with its own
+incorporeal consciousness. Writing in a medieval Indian Tantric context,
+Abhinavagupta inherits an already sophisticated model of body as both physical
+and nonmaterial, including a map of a counterpart to the corporeal body, a
+nonphysical body, literally, a “subtle body,” known as the sūkṣma śarīra, liṅga
+śarīra. These models of body develop a focused attention on nonphysical centers
+located at precise points in the physical body that interact with the physical body,
+the cakra system. With this also come ideas of a psychophysical force located
+within the physical body, the kuṇḍalinī, which rises through different areas in the
+physical body and ultimately brings with its motion enlightenment for the person
+whose kuṇḍalinī is awakened. A universally present liveliness, understood as
+deity, a goddess, residing at the base of the spine, this psychophysical force is
+understood as nonmaterial, and yet it is capable of generating material effects,
+such as a spontaneous whirling motions of the physical body (ghurṇita) often
+accompanied by euphoria that the meditator feels as the kuṇḍalinī rises, among a
+host of other phenomena.
+The Tantric body is therefore both physical and nonphysical. A hybrid
+entity, it contains both what we think of as physical and also what we would think
+of as mentality or immaterial being. The familiar physicality of the body is
+enhanced by an unseen energy pervading, not equally across the body, but
+differentially in various locations both generating and signaling material effects. In
+a Tantric context, very far from our own conceptual understandings of causality,
+some of these effects promise the prospect of using this access to this immaterial
+energy to gain supernatural powers such as reading other persons’ minds, seeing
+into the future, among others.20 Moreover, through a discursive performativity
+entailed within ritual practices, the practitioner engages and awakens various
+components of a body that is in its subtle form, directing the transformations of the
+physicality with which it is entangled. Thus ritual performances often enact a
+reformulation of the body. For example, one visualizes one’s body, frequently for
+instance in Buddhism, as the body of a deity, among a variety of other
+visualization practices. Similarly, a ubiquitous Hindu practice21 involves
+visualizing the sequential destruction of one’s physical body and its replacement
+with a body made of mantras, ritual formulas understood to be deities, which are
+then placed in various parts of the physical body, the top of the head, the throat,
+the heart, and so on. This type of practice suggests that the physical body is
+
+amenable to discursive transformations through language and through
+visualization.22
+For practitioners, the transformations that ritual practice bring are
+understood not so much as human manipulations that transform the physical body.
+Instead, they shift the parameters of the physical body by means of the body’s
+already given subtle body. The subtle immaterial body has a capacity to express
+(connect with?)23 the plethora of vibrant energies, and in some cases, nonmaterial
+beings that populate our space. If this sounds like rampant animism, it is. I suggest
+however, that it may be possible to think beyond the panoply of a multiplicity of
+spirits, to a notion of performative discursivity as a functional component always
+intimately connected with the physical body. Of course, this is fundamentally
+different from the type of bodily habits that Judith Butler points to as generating a
+subjectivity through discursive interpellations of culture and practice, since this
+discursivity accords a subjectivity to material effects of the body not governed by
+the human mind. Yet the inclusion of discursivity as capable of generating
+subjectivity is suggestive. Ultimately, I think it comes down to Abhinavagupta’s
+suggestion that we saw earlier, that by recognizing the capacity for subjectivity in
+all the seeming insentient life and matter around us, we afford it the capacity to
+enter into its form as consciousness. The baseline understanding of the body is a
+recognition of its own always already present and potentially emerging
+subjectivity. Like the clay pot, seemingly lifeless, but with its own reservoir of
+subjecthood in the wings, needing only to be unleashed, the body has a life of its
+own that impels the subjectivity of our thoughts.
+So how exactly does Abhinavagupta describe the subtle body?
+Abhinavagupta tells us that the subtle body “is like the physical body, but it does
+not have limitations in terms of its spatial dimensions.”24 Nor is it bound by the
+divisions of time into past and present, though it is still connected to time as a
+universal.25 That is, it is not strictly bound to linear time, but still operates within a
+framework of time dividing the capacity for awareness. The subtle body is not a
+transcendent, time-free entity. This again entails a flexibility in terms of the
+capacity of the subtle body to travel to future and past. The subtle body is,
+moreover, composed of eight components. Dubbed the “City of Eight,” the
+puryaṣṭaka, these eight elements include first, the five vital breaths, called prāṇas.
+These are the in-breath, the out-breath, the upward breath, the downward breath,
+and the breath that mixes all of these. This makes five of the eight. Along with this
+is the antahkaraṇa, the inner organ, subdivided into three, including the mind, the
+intellect, and the ego. Finally, two more are added to these six to make eight.
+These are the two groups of sense organs, the buddhīndriya, including the ear for
+hearing, the nose for smelling, and so on, and the karmendriya, the group of
+organs of action, which includes the hand, the foot, the sex organ.26 This
+description of the subtle body is quite similar to what we see in Sāṁkhya and
+yoga.
+
+Thus we see that this very subtle body is much like a physical body. It even
+contains, as essence or template, if not actually corporeally, hands and feet and
+genitalia. For a Western context, if we imagine an idea of what might survive
+death, we head into the territory of notions of “soul.” And for Abhinavagupta, as
+for Sāṁkhya and yoga, it is this subtle body that survives bodily death and
+reincarnates life after life. Yet—if we imagine the idea of a “soul,” do we often
+include components like feet and genitalia?
+And yet this mix of breath (the five prāṇas here) and very subtle feet and
+hands and an ego and so on is somehow not bound by space and only minimally
+bound by time. Even if the notion of the subtle body operates merely as a sketch,
+only as a very subtle outline, Abhinavagupta is very clear that this subtle body too
+is really, without any doubt, unambiguously a body. He tells us,
+The City of Eight does in fact have the nature of a body, because the
+primary elements, fire, earth etc., inhere in it.27 Also, here, in order to
+remove delusion, [Utpaladeva] uses the word “body” to describe this
+extremely subtle state, the subtle body, puryaṣṭaka precisely to instigate
+the reader to voice doubts about the nature of this body and the
+applicability that the word “body” with its physical implications entails
+for this subtle existence.28
+
+This idea of a subtle body, a spirit body, with hands and so on, this body
+with spatially contoured appendages, which is however, not confined spatially,
+affords a polyvalent notion of the body. With this Abhinavagupta is especially at
+pains to reinscribe the idea of consciousness as never very far from the notion of
+bodies. That is, there is no space for a free-floating consciousness. There is always
+a body, matter of some sort emerging and interacting with awareness. Action and
+knowledge always coexist, entwined, unfolding mutually. The evocative, if
+accidental, resonances with Karen Barad’s model, as she tells us, for instance, that
+“knowing is a material practice”29 and that “practices of knowing and being are
+not insoluble. They are mutually implicated”30 are certainly suggestive. I should
+note again that this notion of the subtle body is not parallel to a Western notion of
+soul. Although the subtle body is indeed that which transmigrates, it does not in
+this system carry the same notion of incorruptibility that is part of the idea of the
+Western soul. Rather it functions as a middle term between the physical entity that
+dies and some ultimate component of self—for Abhinavagupta this ultimate
+component would be a notion of divine subjectivity, whereas for other thinkers,
+such as Śaṅkara, this entails the subtle body’s disappearance altogether. What then
+does it mean to ritually perform the refinement of this subtle body, to imagine
+filling it with mantras and deities? With this discursive reworking of the body,
+does the body talk back? Or does the subtle body come to life only if we perform
+it, if we habituate ourselves to a subtle materiality that accompanies the visually
+present physicality we engage as we move through the world?
+
+If we understand the body in terms of a co-related discursive materiality, it
+affords us a polyvalent notion of the body, a body performatively enacted, yet
+carrying its own implicit animation, a life of the body, focused predominantly on
+the breaths that animate it, not so much the mind, mentality, though including this,
+but an animism that extends itself corporeally, a discursivity that suggests
+demands that the body not simply be the tool of our minds, but a materiality with
+its own emerging, if latent trajectories.
+
+The Cartesian “Cut”
+At this point I will tie in Abhinavagupta’s conceptions of the body and
+subtle body with the work of contemporary theorists, especially Barad, who uses
+the insights of quantum mechanics to reformulate ways of thinking about
+materiality. I should start by pointing out that the pervasive human exceptionalism
+ardently criticized by posthumanism finds no real foothold in this Indian context.
+The assertion of the human as the privileged site of agency is not really a
+consideration for the vast ontological landscapes of Indian cosmology. In a world
+already populated with a host of uncanny others—from ghosts and tree spirits
+(bhūta and yakṣa) to subtle bodied beings, whose main material form is sound, to
+talking geese and talking bulls, even to apparently garrulous inanimate elements—
+a fire that talks, to demons and to gods, who even when they try to mimic humans
+cannot help but stand an inch or so off the ground, eyes unblinking, unsweating,31
+down to worms with their own desires—the Indian context is happily bereft of a
+dominant anthropocentrism. Abhinavagupta, for instance, writes, “When those
+[beings] belonging to Māyā—down to an insect—when they do their own deeds,
+that which is to be done first stirs in the heart,”32 signaling the perspective and
+agency of a conscious insect. His predecessor Somānanda takes this dispersal of
+agency to even greater democratic lengths, writing: “Knowing itself as the agent,
+the clay pot performs its own action. If it were not aware of its own agency, the
+clay pot would not be present.”33 Thus the Western focus on the human, which has
+historically enabled a seemingly “natural” division between the human and
+nonhuman, and its corollaries, culture and nature, is conspicuously absent in this
+Indian context.34
+Yet, lest we think the source of our postmodern woes lies in our Western
+inability to encounter the face of the nonhuman, there is still, even in this radically
+nonanthropocentric paradigm, the divisions of subjects and objects. So although
+the human/nonhuman division is not ever a central or logical contention,
+nevertheless Descartes’s division of “what there is” into res cogitans and res
+extensa, these two domains of subjects and objects, does find a counterpart quite
+early in Indian tradition in Sāṁkhya, dating at least from the beginning of the third
+century BCE and likely much earlier.35 In Īśvarakṛṣṇa’s Sāṃkhya Kārika, the res
+
+cogitans finds expression in only the very first principle, that of puruṣa, the
+“primordial person.”36 All the rest, the succeeding twenty-four principles from
+Nature (prakṛti) down to earth, constitute the res extensa, everything else.
+I should also stress that Indian philosophy and soteriology, particularly in
+many of its nondualist versions, has tended to favor the res cogitans component,
+the puruṣa, as the “real.” That is, puruṣa, consciousness and spirit, is that which
+fundamentally exists in these several Indian philosophical systems, whereas matter
+is viewed with hermeneutical suspicion. Matter and bodies in this view are the
+product of an unreal Māyā, illusions churned out epiphenomenally from prakṛti.
+We might contrast this with twenty-first-century neuroscience, which takes the
+opposite cosmological position, suggesting that matter is what is “real,” while the
+perception of consciousness is mere epiphenomenon.37
+However, even as Indian cosmologies tend to favor the res cogitans, the
+parameters of this consciousness tend also to differ radically from our own
+Cartesian parameters. For example, Descartes’s cogitating mind, the thinking
+voice that says “I think, therefore . . . ,” stands on the side of consciousness; it is
+the cogitans in the Western bifurcation of consciousness and matter. In contrast, in
+the Sāṁkhyan Indian perspective, mind would not make the cut for consciousness.
+Rather, manas translated as “mind,” falls squarely in the camp of prakṛti, Nature,
+in all its insentient materiality. Indian systems then, following Sāṁkhya, place the
+Cartesian “cut” much higher up the scale, so that intentionality (ahaṁkāra),
+insight (buddhi), and cogitation (manas) all feature as materiality.
+The question of where to place the cut between consciousness and matter,
+and the corollary subject and object, is important for contemporary understandings
+of what matter is. It is important for Barad’s quantum interpretation, and not only
+for hers. Henry Stapp, another quantum physicist concerned with formulating the
+role of the observer in quantum theory, offers the proposal that the cut between
+subject and object might be understood through quantum findings as a rethinking
+of Heisenberg’s cut. Heisenberg initially proposed the idea of the quantum “cut”
+as a way out of the queer metaphysics entailed by the quantum responses of matter
+to observers. He posited a hypothetical dividing line between the observer or
+measuring apparatus in a quantum experiment and the wave function being
+observed. Above the line, the macroscopic paradigm of classical physics is
+operative; below this line of the Heisenberg “cut,” the weird unpredictability of
+microscopic quantum systems operates as quantum wave function. Heisenberg
+proposed this cut as a way of addressing the collapse of the wave function in the
+Copenhagen interpretation of quantum mechanics. An arbitrary, theoretical
+construct, Heisenberg’s cut nevertheless tries to manage and explain why classical
+objects behave in the predictable way they do and why quantum objects defy
+classical physics laws. Like Barad, Stapp points out the artificiality of
+Heisenberg’s macro/micro distinction, noting that quantum theory works on both
+levels. Moreover, he suggests that the Heisenberg cut applies not only to matter,
+
+but also to the multifold nature of reality itself. Further, Stapp draws from von
+Neumann’s proposal that the Heisenberg cut might apply to the distinction
+between the physical and the mental, rather than to the macro of classical physics
+and the micro of quantum mechanics. With this, Henry Stapp reinterprets the
+Heisenberg cut as a boundary line between the perspectives of the subject and the
+object.38 That is, the cut he hypothesizes is a perspectival demarcation between
+consciousness and matter, and specifically, consciousness and brain. Thus, Stapp
+suggests moving the cut out of matter altogether, using it instead as what
+facilitates the connectivity between matter and mind, and thus affording a
+reintroduction of the observer as mind (or better, consciousness and subjectivity).
+Stapp’s location of the cut here does not, however, reinstate a Cartesian wall
+between matter and mind. Rather, he uses the artificiality of Heisenberg’s
+macro/micro distinction to point to the elephant in the room: the exclusion of mind
+from the equation altogether. With this, Stapp presents a possible solution to the
+materialist dilemma of how to account for the apparent nonmateriality of
+consciousness without simply whisking the notion of consciousness away as mere
+epiphenomenon of the gray matter inside our skulls. The mechanism he ultimately
+proposes for bridging between the physical and the mental is the quantum Zeno
+effect.39
+The quantum Zeno effect is an empirically proven phenomenon that
+demonstrates that a rapid succession of measurements or observations has a
+capacity to influence the effects we see in the physical world. The quantum Zeno
+effect tells us that a rapid succession of questions—questions that originate from
+the observer, from the side of consciousness—will statistically alter the outcome,
+through some odd disposition in the order of quantum selection that somehow
+favors a rapid, repeated mental probing, beyond what we might expect as a
+statistical outcome of quantum probabilities. It bears repeating that these
+measurements, what Stapp terms “mental probing actions,”40 originate on the side
+of consciousness, not matter, yet based on proven quantum effects, they determine
+the material outcomes.
+Following Bohr, Karen Barad approaches the idea of Heisenberg’s cut in an
+altogether different way from the way Stapp approaches it. She points to the
+contingent and dynamic nature of the cut between subject and object, telling us,
+“as Bohr says, there is no inherently determinate Cartesian cut,”41 and
+the specification of the conditions necessary for an unambiguous
+account of quantum phenomena is tantamount to the introduction of a
+constructed, agentially enacted, materially conditioned and embodied,
+contingent Bohrian cut between an object and the agencies of
+observation.42
+
+That is, the location of the cut is not predetermined. Its position changes with the
+material conditions we use to ascertain it, following on the materially embodied
+apparatus that is used to make measurements. If we understand the idea of the cut
+
+as the possibility of demarcating the differential relationship between subjects and
+objects, in this case the observer and the object measured, then Barad’s dynamic
+formulation forces us to rethink the stability of the demarcation. To point out the
+contingent nature of the cut between subject and object, she draws on Bohr’s
+lively metaphor of a person with a cane in a dark room that he used to explain the
+notion of complementarity:
+One need only remember here the sensation, often cited by
+psychologists, which everyone has experienced when attempting to
+orient himself in a dark room with a stick. When the stick is held
+loosely, it appears to the sense of touch to be an object. When,
+however, it is held firmly, we lose the sensation that it is a foreign
+body, and the impression of touch becomes immediately localized at
+the point where the stick is touching the body under investigation.43
+
+Whether this object, the cane, takes on the position of subject or the position of
+object depends here on whether it functions as the measuring instrument for the
+human or as an object the human holds in his or her hands and examines. Barad
+highlights the “complementarity,” or mutual exclusivity, entailed by each of these
+usages. Here function determines status, whether subject or object, in mutually
+exclusive states. The same material structure, the cane, alternately performs both
+these functions. The cut between these two demarcations of status, that is, its
+identity as subject or object, depends on an emergent functionality.
+Abhinavagupta also highlights this feature of the lability of subject and
+object, even as he frames this mobility of subject and object as marked through
+grammatical interpellation, rather than Barad’s and Bohr’s “unambiguous and
+reproducible marks on bodies.”44 Quoting a maxim of his school, Abhinavagupta
+draws from grammar to illustrate how objectivity and subjectivity are mobile
+perspectives. He says, “<HS>‘Everything in fact has the nature of all things.’ Even
+the lifeless [grammatical] third person, [the “it”], if it sheds its lifeless form can
+take on the first and second person forms [the grammatical I and you]. For
+example, ‘Listen, o stones’ and ‘Of mountains, I am Meru.’<HS>”45 In other
+words, apparently lifeless stones and a mountain in the distance do not inherently,
+by virtue of their seeming insentience, remain confined to the category of object.
+Rather, as we saw earlier with Abhinavagupta’s clay pot that accesses its sentience
+in tandem with our awareness of it and with Jane Bennett’s vibrant entanglement
+with debris, if we engage a stone as a “you” instead of a distant third person, “it,”
+we open a way to a mutual and vital subjectivity. We should here keep in sight the
+language of agency Abhinavagupta uses for the insentient stone;46 the stone itself,
+as Abhinavagupta tells us in the quote above, “sheds its lifeless form.” Although
+appearing insentient (jaḍa),47 it is the agent of its own change. Moreover, the cut
+between insentient matter and sentient consciousness is mobile, always available
+for repositioning, even for something like a stone.
+
+Abhinavagupta’s idea that “everything in fact has the nature of all things”
+points to a fundamental nondualism that emerges dynamically into correlated,
+even entangled components. Within a context of interrelation, we might venture a
+comparison to Barad’s “intra-action.” As we saw in the epigraph for this chapter,
+Somānanda articulates the interrelationality of clay pot, human, and god in a
+mutual emergence that looks on the surface to be an unapologetic pantheistic
+animism: “The clay pot knows by means of my self and I know by means of the
+self of the clay pot. . . . Indeed, the clay pot knows by means of that absolute
+transcendent being and the transcendent deity knows by means of the clay pot.”48
+Human knowledge is on a par with the knowingness of both gods and clay pots.
+Further, knowledge itself is generated through a relationality between these.
+Insofar as the knowledge of self and god and clay pot arise through each other,
+Somānanda’s model approaches the intra-activity that Barad points. My sense of
+knowing is contingent on my interaction with the clay pot; a mutuality of selfawareness arises specifically through the engagement and articulation of our
+subjectivities through each other. These two are co-constituted. The matrix for this
+mutual emergence is precisely the potentiality of a subjectivity always in the
+wings, as a fundamental component constituting both matter and consciousness. It
+is this prospect of a universal subjectivity, a ubiquitous and democratic citizenship
+of the self that makes the recovery, the recognition (pratyabhijñā) of inherent
+divinity (might we substitute for a twenty-first-century Western materialism the
+notion of an inherent matter-worthiness?) always available, even for something
+which to our modern eyes seems so hopelessly matter-bound as a clay pot.
+So from this maxim of “everything in fact has the nature of all things,” we
+arrive at a nondualism premised on a fundamental inseparability of the subject and
+object. Barad also rests her mutual inseparability on a nondualism. She
+emphasizes, “Phenomena constitute a nondualistic whole”49 and “Phenomena are
+the ontological inseparability of intra-acting agencies.”50 For Barad the apparatus,
+which includes the machinery used to record the measures taken (the location of
+the electron, for instance), entails “boundary drawing practices.”51 For
+Abhinavagupta, the notion of apparatus is less coherent; the apparatus in his
+schema might perhaps be understood as the unfolding of consciousness in its
+various and relative reflections of ahantā—the state of being subject—and idantā,
+the state of being object. So although I emphasize their commonality in embracing
+the inseparability of subject and object, it is important not to minimize the
+difference of apparatus between these two nondualisms. Abhinavagupta’s
+nondualism entails a dynamic unfolding of a singular reality; subjectivity unfolds
+itself into matter and objects. It never loses its innate subjectivity; yet it forgets
+this subjectivity in the position of being object. The Pratyabhijñā “Recognition”
+hints about a way of recognizing an always available vitality of subjecthood.
+One other related substantive difference is, in fact, the notion of substance.
+Whereas Barad emphasizes relation over relata,52 Abhinavagupta retains a
+
+primordial substantiality in the notion of consciousness (cid) which is at the heart
+of both objects and subjects, even if he redefines this substance of consciousness
+to enact a fundamental dynamism within it.
+Despite these differences, we might nevertheless profitably redirect and
+extend some components of these medieval insights to afford ourselves in the
+twenty-first century other options for thinking about matter and the body. The
+body is by all counts pervasive in Abhinavagupta’s conception of consciousness.
+He tells us, “The highest principle, the essence of consciousness alone is the body
+[vapuḥ] of all beings,”53 and “the highest principle is indeed the body of all
+things.”54 The image of body derives from a pervasive philosophical instantiation
+of consciousness qua materiality, where the substance of consciousness unfolds as
+the materiality of the world, “on the wall of itself the picture of all entities,”55
+generating a kind of space-time fabric out of itself. That is, like Barad’s notion that
+entities are “material demarcations not in but of space,”56 here, entities arise out of
+and move within the fabric that is consciousness itself. Deriving from the
+Spandakārikā, a root text for this philosophical school, the image entails the
+unfolding of consciousness into materiality that is the world, matter, bodies, and
+differentiation itself.57
+
+Notes
+<<AU: The comments feature doesn’t work in the notes, so I will place my queries and
+comments within double angle brackets, usually at the end of the note, and highlighted in yellow
+usually, though sometimes in green. If a response is needed, please make any additions or
+corrections to the note, or add a comment after the two virgules.// >>
+1
+
+See Latour’s critique of criticism, which applies particularly in this vein to the social
+sciences, in Bruno Latour, “Why Has Critique Run out of Steam? From Matters of Fact to
+Matters of Concern” Critical Inquiry 30, no. 2 (2004): 235.
+2
+
+Here, literally boggling the mind. Patricia Churchland, Touching a Nerve: The Self as
+Brain (New York: W. W. Norton, 2013). Daniel Dennett’s work offers a similar extension of
+materialism to write out the notion of subjective self.
+3
+
+Not to mention its negative reverberations in the United States and Europe.
+
+4
+
+David Kaiser, How the Hippies Saved Physics: Science, Counterculture and the
+Quantum Revival (New York: W. W. Norton, 2012), 53. Special thanks to Mary-Jane Rubenstein
+for connecting this point to Kaiser’s work and for her especially thoughtful and helpful
+suggestions throughout this article.
+5
+
+Somānanda, Śivadṛṣṭi, 5.106–7. For the first translation into English of this complex
+Sanskrit text, see John Nemec’s excellent translation and study: John Nemec, Ubiquitous Śiva:
+Somānanda’s Śivadṛṣṭi and His Tantric Interlocutors (New York: Oxford University Press,
+2012).
+6
+
+Karen Barad, Meeting the Universe Halfway: Quantum Physics and the Entanglement
+of Matter and Meaning (Durham, N.C.: Duke University Press 2007), 335.
+
+7
+
+Ibid., 125, 130–131.
+
+8
+
+One early classical expression of Sāṃkhya is Īśvarakṛṣṇa’s roughly third century CE
+Sāṃkhya Kārika, however various permutations of Sāṃkhya were in circulation probably as
+early as the fourth century BCE. See Gerald Larson, Classical Sāṃkhya: An Interpretation of Its
+History and Meaning (Delhi: Motilal Banarsidass, 1969).
+9
+
+Īśvara Pratyabhijñā kārikā: 3.1. Utpaladeva was Abhinavagupta’s predecessor and
+teacher of Abhinavagupta’s teachers.
+10
+
+Abhinavagupta, Īśvara Pratyabhijñā Vivṛti Vimarśinī (IPVV), 3 vols., ed. Paṇḍit
+Madhusudan Kaul Shāstrī (Delhi: Akay Reprints, 1985), 3:257: jñāna śakti vapuṣā dharmirūpaḥ
+san tām antarbahirātmatām kramikāvabhāsām kriyā śaktim dharmatvena svīkurute iti.
+11
+
+Ibid., 3:262.
+
+12
+
+Ibid., 3:258. I translate vimarśa as “active awareness” to keep the inherent connection
+with action that vimarśa entails; however, Mark Dyczkowski, encountering the term in other texts
+of this school translates it as self-reflection.
+13
+
+Barad, Meeting the Universe Halfway, 184.
+
+14
+
+Ibid., 91.
+
+15
+
+IPVV, 3:258.
+
+16
+
+Ibid., 3:280.
+
+17
+
+Ibid., 3:315: Nanu evaṃ ghate ‘pi yadi cidrūpatām kaścit paśyet, tarhi kim abhrānta
+eva asau. Om ity āha “jaḍasya tu” iti “Yukta eva” iti ucita evety arthaḥ. . . . ayaṃ samyag iti
+jaḍarūpatānyakkriyayā cidrūpatāprādhānyena āveśaḥ ā samantāt svarūpapraveśaḥ ity arthaḥ.
+18
+
+Nemec, Śivadṛṣṭi, 270.
+
+19
+
+Jane Bennett, Vibrant Matter: A Political Ecology of Things (Durham, N.C.: Duke
+University Press 2010), 4.
+20
+
+These are the siddhi-s, magical powers, historically one of the primary reasons a
+Tantric practitioner takes on particular ritual practices.
+21
+
+Bhūta śuddhi
+
+22
+
+See Gavin Flood, The Tantric Body: The Secret Tradition of Hindu Religion (London:
+I. B. Taurus, 2006).
+23
+
+The philosophical cosmology of a particular system determines the answer to this.
+
+24
+
+IPVV, 3:306.
+
+25
+
+Ibid.
+
+26
+
+Ibid., 3:334.
+
+27
+
+Via the connection of the subtle elements to the sense organs.
+
+28
+
+IPVV, 3:306.
+
+29
+
+Barad, Meeting the Universe Halfway, 342.
+
+30
+
+Ibid., 185.
+
+31
+
+The twin gods of the morning and evening star, the Aświns, try to pass as the human
+suitor Nala in the Nala and Damayantī love story in the Mahābhārata. Here we also encounter a
+talking goose, as we do a talking bull, various talking birds and a fire that talks as well in
+Satyakāma’s story, Chandogya Upaniṣad, 4.4.1–4.9.3 in Upaniṣads, trans. from the Original
+Sanskrit by Patrick Olivelle (New York: Oxford University Press, 1996), 130–33.
+32
+
+IPVV, 3:260.
+
+33
+
+Śiva Dṛṣṭi 5.16: jānan kartāramātmānaṃ ghaṭaḥ kuryāt svakāṃ kriyām/ajñāte
+svātmakartṛtve na ghaṭaḥ	  sampravartate. See also John Nemec’s fine critical edition and
+translation of the first three chapters of this seminal text, John Nemec, Ubiquitous Śiva (New
+York: Oxford University Press, 2012).
+34
+
+In fact, the medieval Śaiva context for instance, does not even employ the speciesdependent formula for categorization. Rather, the classification here falls into seven levels of
+beings: (1) sakala, (2) pralayākala, (3) vijñānākala, (4) mantra, (5) mantreśvara, (6)
+mahāmantreśvara, (7) Śiva. Some systems add more or different categories—Vidyeśvaras, for
+instance. in some classifications. The system of classification derives from ontological priority
+based on degrees of manifestation of subjectivity. Thus, a being on the level of mantra (some
+gods, for instance) displays a greater sense of awareness that what exists is not different from
+one’s own self than the entity at the level of vijñānākala, who understands the essential unity of
+reality but not to the degree to be able to act in the world as a god (at the level of mantra) might.
+These distinctions can cut across species; a particular animal, a crow or a cow, might attain a
+level of vijñānākala (literally, the one who has unbroken awareness) or mantreśvara, whereas a
+human at the level of sakala (literally, containing internal divisions) might not. These differences
+are ontological and appear in some cases to specifically pertain to that entity’s capacity for
+greater or lesser effective action in the world. The notion of species in this context is, in contrast,
+more ephemeral, perhaps due to the idea in Patanjali, Yoga Sūtra, 2.13, that species can change
+from birth to birth dependent on karma.
+35
+
+I have argued elsewhere that it is precisely this distinction of the thinking mind as
+already on the side of matter fundamentally that David Chalmers points out in his discussion of
+the difference between the phenomenal and the psychological components of consciousness. In
+Loriliai Biernacki, “A Cognitive Science View of Abhinavagupta’s Understanding of
+Consciousness,” Religions 5, no. 3 (2014): 767–79.
+36
+
+Sāṃkhya Kārika, 19–20. Larson, Classical Sāṃkhya, 265. The “puruṣa” is as we might
+expect always translated as male gender; I am taking license here to universalize it to person
+rather than “male person.” Descartes’s references to the res cogitans and res extensa come from
+his Second Meditation, II.08 in René Descartes, Meditations on First Philosophy, ed. Stanley
+Tweyman (New York: Routledge 1993), 34–40.
+37
+
+For instance, Daniel Dennett, Consciousness Explained (Boston: Little, Brown, 1991).
+
+38
+
+Henry Stapp, “A Quantum Mechanical Theory of the Mind/Brain Connection” in Ed
+Kelly, Paul Marshall, Adam Crabtree eds., Beyond Physicalism: Toward Reconciliation of
+Science and Spirituality (New York: Rowman and Littlefield 2015) , 166-169.
+39
+
+Ibid., 168, 173.
+
+40
+
+Stapp uses the term “mental probing actions” as a corollary to what von Neumann
+terms an “abstract ego.” For Stapp the mental probing of a consciousness maintains “a quantum
+dynamical linkage to its associated physical brain” (ibid., 165, 172-3, 181).
+41
+
+Barad, Meeting the Universe Halfway, 114.
+
+42
+
+Ibid., 115.
+
+43
+
+Bohr quoted ibid., 154, used also by Merleau-Ponty with a different sense, Barad
+points out. <<AU: What is “used also by Merleau-Ponty”?// >><<Okay to change “she” to
+“Barad”?//>>
+44
+
+Ibid., 320. Barad uses this criteria from Bohr as the definition of objectivity. For
+instance, she quotes Bohr on 119: “<HS>‘Objective’ means reproducible and unambiguously
+communicable—in the sense that ‘permanent marks . . . [are] left on bodies which define the
+experimental conditions” (taken from Bohr in Henry J. Folse, The Philosophy of Niels Bohr: The
+Framework of Complementarity (New York: North Holland Physics Publishing, 1985), 15.
+<<Please place the ending single quotation mark that goes with the one before “permanent
+marks.”//>>
+45
+
+Abhinavagupta, Parātrīśikavivaraṇa, downloaded from GRETIL: Gottingen Register
+of Electronic Texts in Indian Languages: http://gretil.sub.unigoettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/partrvpu.htm, 212: sarvaṃ hi sarvātmakam iti.
+narātmāno jaḍā api tyaktatatpūrvarūpāḥ śāktaśaivarūpabhājo bhavanti, śṛṇuta grāvāṇaḥ [cf.
+Mahābhāṣya 3.1.1; cf. Vākyapadīya 3 Puruṣasamuddeśa 2], meruḥ śikhariṇām ahaṃ bhavāmi
+(Bhagavadgītā 10.23).
+46
+
+The Sanskrit makes this apparent: literally, “Those who have the essence of nara
+(man/human—here referring to the third person, the “it” of the stone), having abandoned that
+earlier form, they become beings who partake of the śākta-second person and Śaiva-first person
+forms.” No external agency is invoked here.
+47
+
+Here Abhinavagupta’s and Somānanda’s insistence on the innate consciousness and
+sentience of the stone is the exception to a long tradition in India that begins with Sāṃkhya
+demarcating between matter and consciousness. As noted earlier, Sāṃkhya tends to consider only
+consciousness sentient, and even mind and intellect fall on the side of insentient nature, not to
+mention stones. Abhinavagupta, Somānanda, and Utpaladeva are radical in their ascription of
+consciousness even to matter.
+48
+
+Somānanda, Śiva Dṛṣṭi 5.105–7.
+
+49
+
+Barad, Meeting the Universe Halfway, 205.
+
+50
+
+Ibid., 206.
+
+51
+
+Ibid.
+
+52
+
+Ibid., 139.
+
+53
+
+IPVV, 3:257: Tad eva ca sarvabhāvānām pāramārthikam vapuḥ.
+
+54
+
+Ibid.: Śivatattvaṁ hi sarva padārthānām vapuḥ.
+
+55
+
+Ibid.: Tad bhitta pṛṣṭhe ca sarva bhāva citra nirbhāsa.
+
+56
+
+Barad, Meeting the Universe Halfway, 181.
+
+57
+
+This derives from the Spanda Karika opening metaphor, where consiousness paints the
+picture of the world out of its own self, SpK Nirṇaya:1.1:
+svasvarūpātsvatantrasvacchasvātmasvabhittau kalayati dharaṇītaḥ śivāntaṃ sadā yā. <<SpK
+okay?//>>
+
+

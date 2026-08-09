@@ -1,0 +1,15 @@
+{
+  "benchmark_id": "spanda_v1",
+  "description": "Spandak\u0101rik\u0101 53-verse translation benchmark",
+  "version": "1.0",
+  "frozen_at": "2026-07-24T15:30:00Z",
+  "n_passages": 53,
+  "splits": {
+    "development": 30,
+    "holdout": 13,
+    "challenge": 10
+  },
+  "source_hash": "4a5f882d404fcece10b26ee1d44f6525c92a7500462fb150530716b0dea150df",
+  "commit": "c36c980",
+  "reference_copyright": "Dyczkowski (1992) SUNY \u2014 copyrighted, internal evaluation only"
+}

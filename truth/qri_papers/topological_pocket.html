@@ -1,0 +1,1750 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+  <meta name="generator" content="distill" />
+
+  <style type="text/css">
+  /* Hide doc at startup (prevent jankiness while JS renders/transforms) */
+  body {
+    visibility: hidden;
+  }
+  </style>
+
+ <!--radix_placeholder_import_source-->
+ <!--/radix_placeholder_import_source-->
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css" data-origin="pandoc">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  { color: #00769e; background-color: #f1f3f5; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span { color: #00769e; } /* Normal */
+code span.al { color: #ad0000; } /* Alert */
+code span.an { color: #5e5e5e; } /* Annotation */
+code span.at { color: #657422; } /* Attribute */
+code span.bn { color: #ad0000; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #00769e; } /* ControlFlow */
+code span.ch { color: #20794d; } /* Char */
+code span.cn { color: #8f5902; } /* Constant */
+code span.co { color: #5e5e5e; } /* Comment */
+code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+code span.dt { color: #ad0000; } /* DataType */
+code span.dv { color: #ad0000; } /* DecVal */
+code span.er { color: #ad0000; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #ad0000; } /* Float */
+code span.fu { color: #4758ab; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #5e5e5e; } /* Information */
+code span.kw { color: #00769e; } /* Keyword */
+code span.op { color: #5e5e5e; } /* Operator */
+code span.ot { color: #00769e; } /* Other */
+code span.pp { color: #ad0000; } /* Preprocessor */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.ss { color: #20794d; } /* SpecialString */
+code span.st { color: #20794d; } /* String */
+code span.va { color: #111111; } /* Variable */
+code span.vs { color: #20794d; } /* VerbatimString */
+code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
+</style>
+
+
+  <!--radix_placeholder_meta_tags-->
+  <title>The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem</title>
+
+
+
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2023-10-27"/>
+  <meta property="article:created" itemprop="dateCreated" content="2023-10-27"/>
+  <meta name="article:author" content="Andrés Gómez-Emilsson"/>
+
+  <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
+  <meta property="og:title" content="The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:locale" content="en_US"/>
+
+  <!--  https://dev.twitter.com/cards/types/summary -->
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:title" content="The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem"/>
+
+  <!--  https://scholar.google.com/intl/en/scholar/inclusion.html#indexing -->
+  <meta name="citation_title" content="The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem"/>
+  <meta name="citation_fulltext_html_url" content="https://www.qri.org/blog/my-topological-pocket"/>
+  <meta name="citation_online_date" content="2023/10/27"/>
+  <meta name="citation_publication_date" content="2023/10/27"/>
+  <meta name="citation_author" content="Andrés Gómez-Emilsson"/>
+  <meta name="citation_author_institution" content="Qualia Research Institute"/>
+  <!--/radix_placeholder_meta_tags-->
+  
+  <!--radix_placeholder_rmarkdown_metadata-->
+
+  <script type="text/json" id="radix-rmarkdown-metadata">
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","people","type","preview","filetype","tags","date","citation_url","bibliography","author","output","knit"]}},"value":[{"type":"character","attributes":{},"value":["The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem"]},{"type":"NULL"},{"type":"character","attributes":{},"value":["Andrés Gómez-Emilsson"]},{"type":"character","attributes":{},"value":["research"]},{"type":"character","attributes":{},"value":["https://www.qri.org/images/distill/5meo-vs-dmt/thumbnail.png"]},{"type":"character","attributes":{},"value":["distill"]},{"type":"character","attributes":{},"value":["Phenomenal Binding","Consciousness","Meditation","Philosophy of Mind","Ethics","Qualia","Physics"]},{"type":"character","attributes":{},"value":["Oct 27, 2023"]},{"type":"character","attributes":{},"value":["https://www.qri.org/blog/my-topological-pocket"]},{"type":"character","attributes":{},"value":["../bibliography/my-topological-pocket.bib"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","id","position","affiliation","affiliation_url","group","biography","path","authorpage"]}},"value":[{"type":"character","attributes":{},"value":["Andrés Gómez-Emilsson"]},{"type":"character","attributes":{},"value":["../people/andrés-gómez-emilsson"]},{"type":"integer","attributes":{},"value":[3]},{"type":"character","attributes":{},"value":["President / Director of Research"]},{"type":"character","attributes":{},"value":["Qualia Research Institute"]},{"type":"character","attributes":{},"value":["https://www.qri.org/"]},{"type":"character","attributes":{},"value":["coreteam","bod"]},{"type":"character","attributes":{},"value":["Andrés has a Master’s Degree in Psychology with an emphasis in computational models from Stanford and a professional background in graph theory, statistics, and affective science. Andrés was also the co-founder of the Stanford Transhumanist Association and first place winner of the Norway Math Olympiad. His work at QRI ranges from algorithm design, to psychedelic theory, to neurotechnology development, to mapping and studying the computational properties of consciousness. Andrés blogs at <a href='https://qualiacomputing.com/'>qualiacomputing.com<\/a>."]},{"type":"character","attributes":{},"value":["andres-gomez-emilsson"]},{"type":"character","attributes":{},"value":["yes"]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained","lib_dir","theme","toc","includes"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["site_libs"]},{"type":"NULL"},{"type":"logical","attributes":{},"value":[true]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["in_header"]}},"value":[{"type":"character","attributes":{},"value":["header.html"]}]}]}]},{"type":"character","attributes":{},"value":["(function (...) { source('myknit.r'); myknit(..., 'my-topological-pocket', 'distill'); })"]}]}
+  </script>
+  <!--/radix_placeholder_rmarkdown_metadata-->
+  
+  <script type="text/json" id="radix-resource-manifest">
+  {"type":"character","attributes":{},"value":["2022.html","5meo-vs-dmt.html","a-future-for-neuroscience.html","a-primer-on-the-symmetry-theory-of-valence.html","against-functionalism.html","anders-amelin.html","april-2019.html","bibliography/2022.bib","bibliography/5meo-vs-dmt.bib","bibliography/a-future-for-neuroscience.bib","bibliography/a-future-for-neuroscience.bib.bak","bibliography/a-primer-on-the-symmetry-theory-of-valence.bib","bibliography/Against-Functionalism.bib","bibliography/Against-Functionalism.bib.bak","bibliography/Against-Functionalism.bib.sav","bibliography/april-2019.bib","bibliography/boa.bib","bibliography/classical-enlightenment-and-valence-structuralism.bib","bibliography/contemplative-practitioners-claims.bib","bibliography/december-2018.bib","bibliography/ea-better-QALY.bib","bibliography/ea-better-QALY.bib.sav","bibliography/experientialist-theories-of-well-being.bib","bibliography/experientialist-theories-of-well-being.bib.bak","bibliography/experientialist-theories-of-well-being.bib.sav","bibliography/fai-and-valence.bib","bibliography/february-2019.bib","bibliography/february-2020.bib","bibliography/Harmonic-Society.bib","bibliography/History-2021-Strategy.bib","bibliography/homeostatic-regulation.bib","bibliography/hyperbolic-geometry-DMT.bib","bibliography/is-ought-problem.bib","bibliography/january-2019.bib","bibliography/Log-Scales.bib","bibliography/march-2019.bib","bibliography/may-2019.bib","bibliography/Neural-Annealing.bib","bibliography/Neuroscience-of-Meditation.bib","bibliography/new-executive-director.bib","bibliography/november-2018.bib","bibliography/october-2018.bib","bibliography/open-individualism.bib","bibliography/peaceful-qualia.bib","bibliography/Principia-Qualia.bib","bibliography/Pseudo-Time-Arrow.bib","bibliography/psychophysics-toolkit.bib","bibliography/Quantifying-Bliss.bib","bibliography/Rescuing-Philosophy.bib","bibliography/review-of-log-scales.bib","bibliography/Rigorous-Reports.bib","bibliography/seed-ontologies.bib","bibliography/september-2018.bib","bibliography/state-of-the-qualia-fall-2019.bib","bibliography/state-of-the-qualia-fall-2020.bib","bibliography/steven-lehar-lineage.bib","bibliography/STV-ELI5.bib","bibliography/Taking-Monism-Seriously.bib","bibliography/tyranny-of-the-intentional-object.bib","bibliography/Universal-Plot.bib","bibliography/Wireheading-Done-Right.bib","boa.html","classical-enlightenment-and-valence-structualism.html","classical-enlightenment-and-valence-structuralism.html","contest.html","december-2018.html","digital-sentience.html","ea-better-QALY.html","eigenbasis-of-the-mind.html","experientialist-theories-of-well-being.html","fai-and-valence.html","february-2019.html","february-2020.html","flame-fronts-and-shock-scaffolds.html","graphlet-memorization.html","Guide-to-Writing-Rigorous-Reports-of-Exotic-States-of-Consciousness.html","header.html","History-2021-Strategy.html","homeostatic-regulation.html","hyperbolic-geometry-DMT.html","inspire-contest.html","is-ought-problem.html","january-2019.html","Log-Scales.html","magical-creatures.html","march-2019.html","may-2019.html","neural-annealing.html","neuroscience-of-meditation.html","new-executive-director.html","nonlinear-wave-computing.html","november-2018.html","october-2018.html","open-individualism.html","pseudo-time-arrow.html","psychophysics-toolkit.html","psycrypto-contest.html","quantifying-bliss.html","replication-contest.html","review-of-log-scales.html","rigorous-reports.html","scent-philosophy.html","seed-ontologies.html","seed-ontologies_files/anchor-4.2.2/anchor.min.js","seed-ontologies_files/bowser-1.9.3/bowser.min.js","seed-ontologies_files/distill-2.2.21/template.v2.js","seed-ontologies_files/header-attrs-2.10/header-attrs.js","seed-ontologies_files/jquery-1.11.3/jquery.min.js","seed-ontologies_files/popper-2.6.0/popper.min.js","seed-ontologies_files/tippy-6.2.7/tippy-bundle.umd.min.js","seed-ontologies_files/tippy-6.2.7/tippy-light-border.css","seed-ontologies_files/tippy-6.2.7/tippy.css","seed-ontologies_files/tippy-6.2.7/tippy.umd.min.js","seed-ontologies_files/webcomponents-2.0.0/webcomponents.js","september-2018.html","site_libs/anchor-4.2.2/anchor.min.js","site_libs/bowser-1.9.3/bowser.min.js","site_libs/css-resize-1.2.1/ElementQueries.js","site_libs/css-resize-1.2.1/ResizeSensor.js","site_libs/distill-2.2.21/template.v2.js","site_libs/header-attrs-2.10/header-attrs.js","site_libs/header-attrs-2.16/header-attrs.js","site_libs/header-attrs-2.25/header-attrs.js","site_libs/header-attrs-2.8/header-attrs.js","site_libs/htmlwidgets-1.5.4/htmlwidgets.js","site_libs/jquery-1.11.3/jquery.min.js","site_libs/jquery-3.4.1/jquery-3.4.1.min.js","site_libs/jquery-3.6.0/jquery-3.6.0.js","site_libs/jquery-3.6.0/jquery-3.6.0.min.js","site_libs/jquery-3.6.0/jquery-3.6.0.min.map","site_libs/jquery-migrate-3.1.0/jquery-migrate-3.1.0.min.js","site_libs/popper-2.6.0/popper.min.js","site_libs/slick-1.8.1/slick/ajax-loader.gif","site_libs/slick-1.8.1/slick/config.rb","site_libs/slick-1.8.1/slick/fonts/slick.eot","site_libs/slick-1.8.1/slick/fonts/slick.svg","site_libs/slick-1.8.1/slick/fonts/slick.ttf","site_libs/slick-1.8.1/slick/fonts/slick.woff","site_libs/slick-1.8.1/slick/slick-theme.css","site_libs/slick-1.8.1/slick/slick-theme.less","site_libs/slick-1.8.1/slick/slick-theme.scss","site_libs/slick-1.8.1/slick/slick.css","site_libs/slick-1.8.1/slick/slick.js","site_libs/slick-1.8.1/slick/slick.less","site_libs/slick-1.8.1/slick/slick.min.js","site_libs/slick-1.8.1/slick/slick.scss","site_libs/slickR-0.0.1/slick-theme.css","site_libs/slickR-0.0.1/slick.css","site_libs/slickR-0.0.1/slickR.js","site_libs/tippy-6.2.7/tippy-bundle.umd.min.js","site_libs/tippy-6.2.7/tippy-light-border.css","site_libs/tippy-6.2.7/tippy.css","site_libs/tippy-6.2.7/tippy.umd.min.js","site_libs/webcomponents-2.0.0/webcomponents.js","state-of-the-qualia-fall-2019.html","state-of-the-qualia-fall-2020.html","steven-lehar-lineage.html","symmetry-theory-of-valence-2020.html","symmetry-theory-of-valence.html","taking-monism-seriously.html","tyranny-of-the-intentional-object.html","universal-plot.html","wireheading-done-right.html"]}
+  </script>
+  <!--radix_placeholder_navigation_in_header-->
+  <!--/radix_placeholder_navigation_in_header-->
+  <!--radix_placeholder_distill-->
+
+  <style type="text/css">
+
+  body {
+    background-color: white;
+  }
+
+  .pandoc-table {
+    width: 100%;
+  }
+
+  .pandoc-table>caption {
+    margin-bottom: 10px;
+  }
+
+  .pandoc-table th:not([align]) {
+    text-align: left;
+  }
+
+  .pagedtable-footer {
+    font-size: 15px;
+  }
+
+  d-byline .byline {
+    grid-template-columns: 2fr 2fr;
+  }
+
+  d-byline .byline h3 {
+    margin-block-start: 1.5em;
+  }
+
+  d-byline .byline .authors-affiliations h3 {
+    margin-block-start: 0.5em;
+  }
+
+  .authors-affiliations .orcid-id {
+    width: 16px;
+    height:16px;
+    margin-left: 4px;
+    margin-right: 4px;
+    vertical-align: middle;
+    padding-bottom: 2px;
+  }
+
+  d-title .dt-tags {
+    margin-top: 1em;
+    grid-column: text;
+  }
+
+  .dt-tags .dt-tag {
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0em 0.4em;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    font-size: 70%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  d-article table.gt_table td,
+  d-article table.gt_table th {
+    border-bottom: none;
+    font-size: 100%;
+  }
+
+  .html-widget {
+    margin-bottom: 2.0em;
+  }
+
+  .l-screen-inset {
+    padding-right: 16px;
+  }
+
+  .l-screen .caption {
+    margin-left: 10px;
+  }
+
+  .shaded {
+    background: rgb(247, 247, 247);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .html-widget {
+    margin-bottom: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .shaded-content {
+    background: white;
+  }
+
+  .text-output {
+    margin-top: 0;
+    line-height: 1.5em;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  hr.section-separator {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 0px;
+  }
+
+
+  d-byline {
+    border-top: none;
+  }
+
+  d-article {
+    padding-top: 2.5rem;
+    padding-bottom: 30px;
+    border-top: none;
+  }
+
+  d-appendix {
+    padding-top: 30px;
+  }
+
+  d-article>p>img {
+    width: 100%;
+  }
+
+  d-article h2 {
+    margin: 1rem 0 1.5rem 0;
+  }
+
+  d-article h3 {
+    margin-top: 1.5rem;
+  }
+
+  d-article iframe {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 2.0em;
+    width: 100%;
+  }
+
+  /* Tweak code blocks */
+
+  d-article div.sourceCode code,
+  d-article pre code {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  }
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: auto;
+  }
+
+  d-article div.sourceCode {
+    background-color: white;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 10px;
+    font-size: 12px;
+    border-left: 2px solid rgba(0,0,0,0.1);
+  }
+
+  d-article pre {
+    font-size: 12px;
+    color: black;
+    background: none;
+    margin-top: 0;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  d-article pre a {
+    border-bottom: none;
+  }
+
+  d-article pre a:hover {
+    border-bottom: none;
+    text-decoration: underline;
+  }
+
+  d-article details {
+    grid-column: text;
+    margin-bottom: 0.8em;
+  }
+
+  @media(min-width: 768px) {
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: visible !important;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 18px;
+    font-size: 14px;
+  }
+
+  /* tweak for Pandoc numbered line within distill */
+  d-article pre.numberSource code > span {
+      left: -2em;
+  }
+
+  d-article pre {
+    font-size: 14px;
+  }
+
+  }
+
+  figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  /* CSS for d-contents */
+
+  .d-contents {
+    grid-column: text;
+    color: rgba(0,0,0,0.8);
+    font-size: 0.9em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    padding-left: 0.25em;
+    justify-self: start;
+  }
+
+  @media(min-width: 1000px) {
+    .d-contents.d-contents-float {
+      height: 0;
+      grid-column-start: 1;
+      grid-column-end: 4;
+      justify-self: center;
+      padding-right: 3em;
+      padding-left: 2em;
+    }
+  }
+
+  .d-contents nav h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+
+  .d-contents li {
+    list-style-type: none
+  }
+
+  .d-contents nav > ul {
+    padding-left: 0;
+  }
+
+  .d-contents ul {
+    padding-left: 1em
+  }
+
+  .d-contents nav ul li {
+    margin-top: 0.6em;
+    margin-bottom: 0.2em;
+  }
+
+  .d-contents nav a {
+    font-size: 13px;
+    border-bottom: none;
+    text-decoration: none
+    color: rgba(0, 0, 0, 0.8);
+  }
+
+  .d-contents nav a:hover {
+    text-decoration: underline solid rgba(0, 0, 0, 0.6)
+  }
+
+  .d-contents nav > ul > li > a {
+    font-weight: 600;
+  }
+
+  .d-contents nav > ul > li > ul {
+    font-weight: inherit;
+  }
+
+  .d-contents nav > ul > li > ul > li {
+    margin-top: 0.2em;
+  }
+
+
+  .d-contents nav ul {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+  }
+
+  .d-article-with-toc h2:nth-child(2) {
+    margin-top: 0;
+  }
+
+
+  /* Figure */
+
+  .figure {
+    position: relative;
+    margin-bottom: 2.5em;
+    margin-top: 1.5em;
+  }
+
+  .figure .caption {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+
+  .figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  .figure .caption a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  .figure .caption b,
+  .figure .caption strong, {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1.0);
+  }
+
+  /* Citations */
+
+  d-article .citation {
+    color: inherit;
+    cursor: inherit;
+  }
+
+  div.hanging-indent{
+    margin-left: 1em; text-indent: -1em;
+  }
+
+  /* Citation hover box */
+
+  .tippy-box[data-theme~=light-border] {
+    background-color: rgba(250, 250, 250, 0.95);
+  }
+
+  .tippy-content > p {
+    margin-bottom: 0;
+    padding: 2px;
+  }
+
+
+  /* Tweak 1000px media break to show more text */
+
+  @media(min-width: 1000px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 80px [middle-start] 50px [text-start kicker-end] 65px 65px 65px 65px 65px 65px 65px 65px [text-end gutter-start] 65px [middle-end] 65px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 16px;
+    }
+
+    .grid {
+      grid-column-gap: 16px;
+    }
+
+    d-article {
+      font-size: 1.06rem;
+      line-height: 1.7em;
+    }
+    figure .caption, .figure .caption, figure figcaption {
+      font-size: 13px;
+    }
+  }
+
+  @media(min-width: 1180px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 60px [middle-start] 60px [text-start kicker-end] 60px 60px 60px 60px 60px 60px 60px 60px [text-end gutter-start] 60px [middle-end] 60px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 32px;
+    }
+
+    .grid {
+      grid-column-gap: 32px;
+    }
+  }
+
+
+  /* Get the citation styles for the appendix (not auto-injected on render since
+     we do our own rendering of the citation appendix) */
+
+  d-appendix .citation-appendix,
+  .d-appendix .citation-appendix {
+    font-size: 11px;
+    line-height: 15px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    padding-left: 18px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background: rgba(0, 0, 0, 0.02);
+    padding: 10px 18px;
+    border-radius: 3px;
+    color: rgba(150, 150, 150, 1);
+    overflow: hidden;
+    margin-top: -12px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  /* Include appendix styles here so they can be overridden */
+
+  d-appendix {
+    contain: layout style;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-top: 60px;
+    margin-bottom: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    color: rgba(0,0,0,0.5);
+    padding-top: 60px;
+    padding-bottom: 48px;
+  }
+
+  d-appendix h3 {
+    grid-column: page-start / text-start;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.65);
+  }
+
+  d-appendix h3 + * {
+    margin-top: 1em;
+  }
+
+  d-appendix ol {
+    padding: 0 0 0 15px;
+  }
+
+  @media (min-width: 768px) {
+    d-appendix ol {
+      padding: 0 0 0 30px;
+      margin-left: -30px;
+    }
+  }
+
+  d-appendix li {
+    margin-bottom: 1em;
+  }
+
+  d-appendix a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  d-appendix > * {
+    grid-column: text;
+  }
+
+  d-appendix > d-footnote-list,
+  d-appendix > d-citation-list,
+  d-appendix > distill-appendix {
+    grid-column: screen;
+  }
+
+  /* Include footnote styles here so they can be overridden */
+
+  d-footnote-list {
+    contain: layout style;
+  }
+
+  d-footnote-list > * {
+    grid-column: text;
+  }
+
+  d-footnote-list a.footnote-backlink {
+    color: rgba(0,0,0,0.3);
+    padding-left: 0.5em;
+  }
+
+
+
+  /* Anchor.js */
+
+  .anchorjs-link {
+    /*transition: all .25s linear; */
+    text-decoration: none;
+    border-bottom: none;
+  }
+  *:hover > .anchorjs-link {
+    margin-left: -1.125em !important;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  /* Social footer */
+
+  .social_footer {
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.67);
+  }
+
+  .disqus-comments {
+    margin-right: 30px;
+  }
+
+  .disqus-comment-count {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+
+  #disqus_thread {
+    margin-top: 30px;
+  }
+
+  .article-sharing a {
+    border-bottom: none;
+    margin-right: 8px;
+  }
+
+  .article-sharing a:hover {
+    border-bottom: none;
+  }
+
+  .sidebar-section.subscribe {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .subscribe p {
+    margin-bottom: 0.5em;
+  }
+
+
+  .article-footer .subscribe {
+    font-size: 15px;
+    margin-top: 45px;
+  }
+
+
+  .sidebar-section.custom {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .custom p {
+    margin-bottom: 0.5em;
+  }
+
+  /* Styles for listing layout (hide title) */
+  .layout-listing d-title, .layout-listing .d-title {
+    display: none;
+  }
+
+  /* Styles for posts lists (not auto-injected) */
+
+
+  .posts-with-sidebar {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .posts-list .description h2,
+  .posts-list .description p {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  .posts-list .description h2 {
+    font-weight: 700;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .posts-list h2.post-tag {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 12px;
+  }
+  .posts-list {
+    margin-top: 60px;
+    margin-bottom: 24px;
+  }
+
+  .posts-list .post-preview {
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 24px 0;
+  }
+
+  .post-preview-last {
+    border-bottom: none !important;
+  }
+
+  .posts-list .posts-list-caption {
+    grid-column: screen;
+    font-weight: 400;
+  }
+
+  .posts-list .post-preview h2 {
+    margin: 0 0 6px 0;
+    line-height: 1.2em;
+    font-style: normal;
+    font-size: 24px;
+  }
+
+  .posts-list .post-preview p {
+    margin: 0 0 12px 0;
+    line-height: 1.4em;
+    font-size: 16px;
+  }
+
+  .posts-list .post-preview .thumbnail {
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    position: relative;
+    max-width: 500px;
+  }
+  .posts-list .post-preview img {
+    width: 100%;
+    display: block;
+  }
+
+  .posts-list .metadata {
+    font-size: 12px;
+    line-height: 1.4em;
+    margin-bottom: 18px;
+  }
+
+  .posts-list .metadata > * {
+    display: inline-block;
+  }
+
+  .posts-list .metadata .publishedDate {
+    margin-right: 2em;
+  }
+
+  .posts-list .metadata .dt-authors {
+    display: block;
+    margin-top: 0.3em;
+    margin-right: 2em;
+  }
+
+  .posts-list .dt-tags {
+    display: block;
+    line-height: 1em;
+  }
+
+  .posts-list .dt-tags .dt-tag {
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0.3em 0.4em;
+    margin-right: 0.2em;
+    margin-bottom: 0.4em;
+    font-size: 60%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .posts-list img {
+    opacity: 1;
+  }
+
+  .posts-list img[data-src] {
+    opacity: 0;
+  }
+
+  .posts-more {
+    clear: both;
+  }
+
+
+  .posts-sidebar {
+    font-size: 16px;
+  }
+
+  .posts-sidebar h3 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  .sidebar-section {
+    margin-bottom: 30px;
+  }
+
+  .categories ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .categories li {
+    color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 0;
+  }
+
+  .categories li>a {
+    border-bottom: none;
+  }
+
+  .categories li>a:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  }
+
+  .categories .active {
+    font-weight: 600;
+  }
+
+  .categories .category-count {
+    color: rgba(0, 0, 0, 0.4);
+  }
+
+
+  @media(min-width: 768px) {
+    .posts-list .post-preview h2 {
+      font-size: 26px;
+    }
+    .posts-list .post-preview .thumbnail {
+      float: right;
+      width: 30%;
+      margin-bottom: 0;
+    }
+    .posts-list .post-preview .description {
+      float: left;
+      width: 45%;
+    }
+    .posts-list .post-preview .metadata {
+      float: left;
+      width: 20%;
+      margin-top: 8px;
+    }
+    .posts-list .post-preview p {
+      margin: 0 0 12px 0;
+      line-height: 1.5em;
+      font-size: 16px;
+    }
+    .posts-with-sidebar .posts-list {
+      float: left;
+      width: 75%;
+    }
+    .posts-with-sidebar .posts-sidebar {
+      float: right;
+      width: 20%;
+      margin-top: 60px;
+      padding-top: 24px;
+      padding-bottom: 24px;
+    }
+  }
+
+
+  /* Improve display for browsers without grid (IE/Edge <= 15) */
+
+  .downlevel {
+    line-height: 1.6em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+  }
+
+  .downlevel .d-title {
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .downlevel .d-title h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin: 0 0 0.5rem;
+  }
+
+  .downlevel .d-title p {
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 1.55em;
+    margin-top: 0;
+  }
+
+  .downlevel .d-byline {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    font-size: 0.8rem;
+    line-height: 1.8em;
+  }
+
+  .downlevel .section-separator {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .downlevel .d-article {
+    font-size: 1.06rem;
+    line-height: 1.7em;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+
+
+  .downlevel .d-appendix {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: none;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.5);
+    padding-top: 40px;
+    padding-bottom: 48px;
+  }
+
+  .downlevel .footnotes ol {
+    padding-left: 13px;
+  }
+
+  .downlevel .base-grid,
+  .downlevel .distill-header,
+  .downlevel .d-title,
+  .downlevel .d-abstract,
+  .downlevel .d-article,
+  .downlevel .d-appendix,
+  .downlevel .distill-appendix,
+  .downlevel .d-byline,
+  .downlevel .d-footnote-list,
+  .downlevel .d-citation-list,
+  .downlevel .distill-footer,
+  .downlevel .appendix-bottom,
+  .downlevel .posts-container {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  @media(min-width: 768px) {
+    .downlevel .base-grid,
+    .downlevel .distill-header,
+    .downlevel .d-title,
+    .downlevel .d-abstract,
+    .downlevel .d-article,
+    .downlevel .d-appendix,
+    .downlevel .distill-appendix,
+    .downlevel .d-byline,
+    .downlevel .d-footnote-list,
+    .downlevel .d-citation-list,
+    .downlevel .distill-footer,
+    .downlevel .appendix-bottom,
+    .downlevel .posts-container {
+    padding-left: 150px;
+    padding-right: 150px;
+    max-width: 900px;
+  }
+  }
+
+  .downlevel pre code {
+    display: block;
+    border-left: 2px solid rgba(0, 0, 0, .1);
+    padding: 0 0 0 20px;
+    font-size: 14px;
+  }
+
+  .downlevel code, .downlevel pre {
+    color: black;
+    background: none;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  .downlevel .posts-list .post-preview {
+    color: inherit;
+  }
+
+
+
+  </style>
+
+  <script type="application/javascript">
+
+  function is_downlevel_browser() {
+    if (bowser.isUnsupportedBrowser({ msie: "12", msedge: "16"},
+                                   window.navigator.userAgent)) {
+      return true;
+    } else {
+      return window.load_distill_framework === undefined;
+    }
+  }
+
+  // show body when load is complete
+  function on_load_complete() {
+
+    // add anchors
+    if (window.anchors) {
+      window.anchors.options.placement = 'left';
+      window.anchors.add('d-article > h2, d-article > h3, d-article > h4, d-article > h5');
+    }
+
+
+    // set body to visible
+    document.body.style.visibility = 'visible';
+
+    // force redraw for leaflet widgets
+    if (window.HTMLWidgets) {
+      var maps = window.HTMLWidgets.findAll(".leaflet");
+      $.each(maps, function(i, el) {
+        var map = this.getMap();
+        map.invalidateSize();
+        map.eachLayer(function(layer) {
+          if (layer instanceof L.TileLayer)
+            layer.redraw();
+        });
+      });
+    }
+
+    // trigger 'shown' so htmlwidgets resize
+    $('d-article').trigger('shown');
+  }
+
+  function init_distill() {
+
+    init_common();
+
+    // create front matter
+    var front_matter = $('<d-front-matter></d-front-matter>');
+    $('#distill-front-matter').wrap(front_matter);
+
+    // create d-title
+    $('.d-title').changeElementType('d-title');
+
+    // separator
+    var separator = '<hr class="section-separator" style="clear: both"/>';
+    // prepend separator above appendix
+    $('.d-byline').before(separator);
+    $('.d-article').before(separator);
+
+    // create d-byline
+    var byline = $('<d-byline></d-byline>');
+    $('.d-byline').replaceWith(byline);
+
+    // create d-article
+    var article = $('<d-article></d-article>');
+    $('.d-article').wrap(article).children().unwrap();
+
+    // move posts container into article
+    $('.posts-container').appendTo($('d-article'));
+
+    // create d-appendix
+    $('.d-appendix').changeElementType('d-appendix');
+
+    // flag indicating that we have appendix items
+    var appendix = $('.appendix-bottom').children('h3').length > 0;
+
+    // replace footnotes with <d-footnote>
+    $('.footnote-ref').each(function(i, val) {
+      appendix = true;
+      var href = $(this).attr('href');
+      var id = href.replace('#', '');
+      var fn = $('#' + id);
+      var fn_p = $('#' + id + '>p');
+      fn_p.find('.footnote-back').remove();
+      var text = fn_p.html();
+      var dtfn = $('<d-footnote></d-footnote>');
+      dtfn.html(text);
+      $(this).replaceWith(dtfn);
+    });
+    // remove footnotes
+    $('.footnotes').remove();
+
+    // move refs into #references-listing
+    $('#references-listing').replaceWith($('#refs'));
+
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      var id = $(this).attr('id');
+      $('.d-contents a[href="#' + id + '"]').parent().remove();
+      appendix = true;
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('d-appendix'));
+    });
+
+    // show d-appendix if we have appendix content
+    $("d-appendix").css('display', appendix ? 'grid' : 'none');
+
+    // localize layout chunks to just output
+    $('.layout-chunk').each(function(i, val) {
+
+      // capture layout
+      var layout = $(this).attr('data-layout');
+
+      // apply layout to markdown level block elements
+      var elements = $(this).children().not('details, div.sourceCode, pre, script');
+      elements.each(function(i, el) {
+        var layout_div = $('<div class="' + layout + '"></div>');
+        if (layout_div.hasClass('shaded')) {
+          var shaded_content = $('<div class="shaded-content"></div>');
+          $(this).wrap(shaded_content);
+          $(this).parent().wrap(layout_div);
+        } else {
+          $(this).wrap(layout_div);
+        }
+      });
+
+
+      // unwrap the layout-chunk div
+      $(this).children().unwrap();
+    });
+
+    // remove code block used to force  highlighting css
+    $('.distill-force-highlighting-css').parent().remove();
+
+    // remove empty line numbers inserted by pandoc when using a
+    // custom syntax highlighting theme, except when numbering line
+    // in code chunk
+    $('pre:not(.numberLines) code.sourceCode a:empty').remove();
+
+    // load distill framework
+    load_distill_framework();
+
+    // wait for window.distillRunlevel == 4 to do post processing
+    function distill_post_process() {
+
+      if (!window.distillRunlevel || window.distillRunlevel < 4)
+        return;
+
+      // hide author/affiliations entirely if we have no authors
+      var front_matter = JSON.parse($("#distill-front-matter").html());
+      var have_authors = front_matter.authors && front_matter.authors.length > 0;
+      if (!have_authors)
+        $('d-byline').addClass('hidden');
+
+      // article with toc class
+      $('.d-contents').parent().addClass('d-article-with-toc');
+
+      // strip links that point to #
+      $('.authors-affiliations').find('a[href="#"]').removeAttr('href');
+
+      // add orcid ids
+      $('.authors-affiliations').find('.author').each(function(i, el) {
+        var orcid_id = front_matter.authors[i].orcidID;
+        var author_name = front_matter.authors[i].author
+        if (orcid_id) {
+          var a = $('<a></a>');
+          a.attr('href', 'https://orcid.org/' + orcid_id);
+          var img = $('<img></img>');
+          img.addClass('orcid-id');
+          img.attr('alt', author_name ? 'ORCID ID for ' + author_name : 'ORCID ID');
+          img.attr('src','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==');
+          a.append(img);
+          $(this).append(a);
+        }
+      });
+
+      // hide elements of author/affiliations grid that have no value
+      function hide_byline_column(caption) {
+        $('d-byline').find('h3:contains("' + caption + '")').parent().css('visibility', 'hidden');
+      }
+
+      // affiliations
+      var have_affiliations = false;
+      for (var i = 0; i<front_matter.authors.length; ++i) {
+        var author = front_matter.authors[i];
+        if (author.affiliation !== "&nbsp;") {
+          have_affiliations = true;
+          break;
+        }
+      }
+      if (!have_affiliations)
+        $('d-byline').find('h3:contains("Affiliations")').css('visibility', 'hidden');
+
+      // published date
+      if (!front_matter.publishedDate)
+        hide_byline_column("Published");
+
+      // document object identifier
+      var doi = $('d-byline').find('h3:contains("DOI")');
+      var doi_p = doi.next().empty();
+      if (!front_matter.doi) {
+        // if we have a citation and valid citationText then link to that
+        if ($('#citation').length > 0 && front_matter.citationText) {
+          doi.html('Citation');
+          $('<a href="#citation"></a>')
+            .text(front_matter.citationText)
+            .appendTo(doi_p);
+        } else {
+          hide_byline_column("DOI");
+        }
+      } else {
+        $('<a></a>')
+           .attr('href', "https://doi.org/" + front_matter.doi)
+           .html(front_matter.doi)
+           .appendTo(doi_p);
+      }
+
+       // change plural form of authors/affiliations
+      if (front_matter.authors.length === 1) {
+        var grid = $('.authors-affiliations');
+        grid.children('h3:contains("Authors")').text('Author');
+        grid.children('h3:contains("Affiliations")').text('Affiliation');
+      }
+
+      // remove d-appendix and d-footnote-list local styles
+      $('d-appendix > style:first-child').remove();
+      $('d-footnote-list > style:first-child').remove();
+
+      // move appendix-bottom entries to the bottom
+      $('.appendix-bottom').appendTo('d-appendix').children().unwrap();
+      $('.appendix-bottom').remove();
+
+      // hoverable references
+      $('span.citation[data-cites]').each(function() {
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
+        }).join("\n");
+        window.tippy(this, {
+          allowHTML: true,
+          content: refHtml,
+          maxWidth: 500,
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start'
+        });
+      });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
+
+      // clear polling timer
+      clearInterval(tid);
+
+      // show body now that everything is ready
+      on_load_complete();
+    }
+
+    var tid = setInterval(distill_post_process, 50);
+    distill_post_process();
+
+  }
+
+  function init_downlevel() {
+
+    init_common();
+
+     // insert hr after d-title
+    $('.d-title').after($('<hr class="section-separator"/>'));
+
+    // check if we have authors
+    var front_matter = JSON.parse($("#distill-front-matter").html());
+    var have_authors = front_matter.authors && front_matter.authors.length > 0;
+
+    // manage byline/border
+    if (!have_authors)
+      $('.d-byline').remove();
+    $('.d-byline').after($('<hr class="section-separator"/>'));
+    $('.d-byline a').remove();
+
+    // remove toc
+    $('.d-contents').remove();
+
+    // move appendix elements
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('.d-appendix'));
+    });
+
+
+    // inject headers into references and footnotes
+    var refs_header = $('<h3></h3>');
+    refs_header.text('References');
+    $('#refs').prepend(refs_header);
+
+    var footnotes_header = $('<h3></h3');
+    footnotes_header.text('Footnotes');
+    $('.footnotes').children('hr').first().replaceWith(footnotes_header);
+
+    // move appendix-bottom entries to the bottom
+    $('.appendix-bottom').appendTo('.d-appendix').children().unwrap();
+    $('.appendix-bottom').remove();
+
+    // remove appendix if it's empty
+    if ($('.d-appendix').children().length === 0)
+      $('.d-appendix').remove();
+
+    // prepend separator above appendix
+    $('.d-appendix').before($('<hr class="section-separator" style="clear: both"/>'));
+
+    // trim code
+    $('pre>code').each(function(i, val) {
+      $(this).html($.trim($(this).html()));
+    });
+
+    // move posts-container right before article
+    $('.posts-container').insertBefore($('.d-article'));
+
+    $('body').addClass('downlevel');
+
+    on_load_complete();
+  }
+
+
+  function init_common() {
+
+    // jquery plugin to change element types
+    (function($) {
+      $.fn.changeElementType = function(newType) {
+        var attrs = {};
+
+        $.each(this[0].attributes, function(idx, attr) {
+          attrs[attr.nodeName] = attr.nodeValue;
+        });
+
+        this.replaceWith(function() {
+          return $("<" + newType + "/>", attrs).append($(this).contents());
+        });
+      };
+    })(jQuery);
+
+    // prevent underline for linked images
+    $('a > img').parent().css({'border-bottom' : 'none'});
+
+    // mark non-body figures created by knitr chunks as 100% width
+    $('.layout-chunk').each(function(i, val) {
+      var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
+      if ($(this).attr('data-layout') !== "l-body") {
+        figures.css('width', '100%');
+      } else {
+        figures.css('max-width', '100%');
+        figures.filter("[width]").each(function(i, val) {
+          var fig = $(this);
+          fig.css('width', fig.attr('width') + 'px');
+        });
+
+      }
+    });
+
+    // auto-append index.html to post-preview links in file: protocol
+    // and in rstudio ide preview
+    $('.post-preview').each(function(i, val) {
+      if (window.location.protocol === "file:")
+        $(this).attr('href', $(this).attr('href') + "index.html");
+    });
+
+    // get rid of index.html references in header
+    if (window.location.protocol !== "file:") {
+      $('.distill-site-header a[href]').each(function(i,val) {
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
+      });
+    }
+
+    // add class to pandoc style tables
+    $('tr.header').parent('thead').parent('table').addClass('pandoc-table');
+    $('.kable-table').children('table').addClass('pandoc-table');
+
+    // add figcaption style to table captions
+    $('caption').parent('table').addClass("figcaption");
+
+    // initialize posts list
+    if (window.init_posts_list)
+      window.init_posts_list();
+
+    // implmement disqus comment link
+    $('.disqus-comment-count').click(function() {
+      window.headroom_prevent_pin = true;
+      $('#disqus_thread').toggleClass('hidden');
+      if (!$('#disqus_thread').hasClass('hidden')) {
+        var offset = $(this).offset();
+        $(window).resize();
+        $('html, body').animate({
+          scrollTop: offset.top - 35
+        });
+      }
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    if (is_downlevel_browser())
+      init_downlevel();
+    else
+      window.addEventListener('WebComponentsReady', init_distill);
+  });
+
+  </script>
+
+  <!--/radix_placeholder_distill-->
+  <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <script src="site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="site_libs/anchor-4.2.2/anchor.min.js"></script>
+  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
+  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <!--radix_placeholder_site_in_header-->
+  <!--/radix_placeholder_site_in_header-->
+  <link rel="shortcut icon" href="https://www.qri.org/favicon_io/favicon_io/favicon-32x32.png" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="/favicon_io/site.webmanifest"><meta name="twitter:image" content="https://qri.org/images/twitter-logo.webp" /></head>
+
+<body>
+
+<!--radix_placeholder_front_matter-->
+
+<script id="distill-front-matter" type="text/json">
+{"title":"The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem","authors":[{"author":"Andrés Gómez-Emilsson","authorURL":"../people/andrés-gómez-emilsson","affiliation":"Qualia Research Institute","affiliationURL":"https://www.qri.org/","orcidID":""}],"publishedDate":"2023-10-27T00:00:00.000-07:00","citationText":"Gómez-Emilsson, 2023"}
+</script>
+
+<!--/radix_placeholder_front_matter-->
+<!--radix_placeholder_navigation_before_body-->
+<!--/radix_placeholder_navigation_before_body-->
+<!--radix_placeholder_site_before_body-->
+<!--/radix_placeholder_site_before_body-->
+
+<div class="d-title">
+<h1>The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem</h1>
+
+<!--radix_placeholder_categories-->
+<!--/radix_placeholder_categories-->
+
+</div>
+
+<div class="d-byline">
+  Andrés Gómez-Emilsson ../people/andrés-gómez-emilsson (Qualia Research Institute)<a href="https://www.qri.org/" class="uri">https://www.qri.org/</a>
+  
+<br/>Oct 27, 2023
+</div>
+
+<div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#introduction" id="toc-introduction">Introduction</a></li>
+<li><a href="#reality-plot-twists" id="toc-reality-plot-twists">Reality Plot Twists</a></li>
+<li><a href="#reframing-bindings-fuzziness" id="toc-reframing-bindings-fuzziness">Reframing Binding’s Fuzziness</a></li>
+<li><a href="#how-many-fuzzy-computations-are-there-in-a-system" id="toc-how-many-fuzzy-computations-are-there-in-a-system">How Many Fuzzy Computations Are There in a System?</a></li>
+<li><a href="#banana-for-scale" id="toc-banana-for-scale">Banana For Scale</a></li>
+<li><a href="#the-4th-dimension" id="toc-the-4th-dimension">The 4th Dimension</a></li>
+<li><a href="#whats-so-special-about-field-topology" id="toc-whats-so-special-about-field-topology">What’s So Special About Field Topology?</a></li>
+<li><a href="#can-a-topological-pocket-know-itself" id="toc-can-a-topological-pocket-know-itself">Can a Topological Pocket “Know Itself”?</a></li>
+<li><a href="#acknowledgements" id="toc-acknowledgements">Acknowledgements</a></li>
+<li><a href="#tags" id="toc-tags">Tags</a></li>
+</ul>
+</nav>
+</div>
+<h2 id="introduction">Introduction</h2>
+<p>[<strong>Epistemic Status</strong>:<em> informal and conversational, this piece provides an off-the-cuff discussion around the topological solution to the boundary problem. Please note that this isn’t intended to serve as a bulletproof argument; rather, it’s a guide through an intuitive explanation. While there might be errors, possibly even in reasoning, I believe they won’t fundamentally alter the overarching conceptual solution.</em>]</p>
+<p>This post is an informal and intuitive explanation for why we are looking into topology as a tentative <a href="https://youtu.be/g0YID6XV-PQ">solution to the phenomenal binding (or boundary) problem</a>. In particular, this solutions identifies moments of experience with topological pockets of fields of physics. We recently <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2023.1233119/full">published a paper</a> where we dive deeper into this explanation space, and concretely hypothesize that the key macroscopic boundary between subjects of experience is the result of topological segmentation in the electromagnetic field (see <a href="https://youtu.be/tX8b3ng37Nw?si=G2JYkNrcYI2rXyv5">explainer video</a> / <a href="https://www.youtube.com/live/bhLPZaLmi2k?si=949ZRL7ycVSWENBT">author’s presentation</a> at the <a href="http://www.activeinference.org/">Active Inference Institute</a>).</p>
+<p>The short explanation for why this is promising is that topological boundaries are objective and frame-invariant features of “basement reality” that have causal effects and thus can be recruited by natural selection for information-processing tasks. If the fields of physics are fields of qualia, topological boundaries of the fields corresponding to phenomenal boundaries between subjects would be an elegant way for a theory of consciousness to “carve nature at its joints”. This solution is very significant if true, because it entails, among other things, that classical digital computers are incapable of creating causally significant experiences: the experiences that emerge out of them are by default something akin to <a href="https://qri.org/blog/digital-sentience">mind dust</a>, and at best, if significant binding happens, they are <a href="https://opentheory.net/2022/12/ais-arent-conscious-but-computers-are/">epiphenomenal</a> from the “point of view” of the computation being realized.</p>
+<p>The route to develop an intuition about this topic that this post takes is to deconstruct the idea of a “point of view” as a “natural kind” and instead advocate for topological pockets being the place where information can non-trivially aggregate. This idea, once seen, is hard to unsee; it reframes how we think about what systems are, and even the nature of information itself.</p>
+<h2 id="reality-plot-twists">Reality Plot Twists</h2>
+<p>One of the beautiful things about life is that you sometimes have the opportunity to experience a <em>reality plot twist</em>. We might believe one narrative has always been unfolding, only to realize that the true story was different all along. As they say, the rug can be pulled from under your feet.</p>
+<p>The <a href="https://qri.org/glossary">QRI memeplex</a> is full of these <em>reality plot twists</em>. You thought that the “plot” of the universe was a battle between good and evil? Well, it turns out it is the <a href="https://qualiacomputing.com/2017/12/20/the-universal-plot-part-i-consciousness-vs-pure-replicators/">struggle between consciousness and replicators</a> instead. Or that what you want is particular states of the environment? Well, it turns out you’ve been pursuing <a href="https://qualiacomputing.com/2016/11/19/the-tyranny-of-the-intentional-object/">particular configurations of your world simulation</a> all along. You thought that pleasure and pain follow a linear scale? Well, it turns out the scales are closer to <a href="https://qualiacomputing.com/2022/01/14/review-of-log-scales/">logarithmic in nature</a>, with the ends of the distribution being orders of magnitude more intense than the lower ends. I think that along these lines, grasping how “points of view” and “moments of experience” are connected requires a significant reframe of how you conceptualize reality. Let’s dig in!</p>
+<p>One of the motivations for this post is that I recently had a wonderful chat with Nir Lahav, who last year <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.704270/full">published an article</a> that <a href="https://constantrenewal.com/steel-man">steelmans</a> the view that consciousness is relativistic (<a href="https://youtu.be/_BKtp-Yo1Sk?si=QnRcqOilliwNA4oY">see one of his presentations</a>). I will likely discuss his work in more detail in the future. Importantly, talking to him reminded me that ever since the foundation of QRI, we have taken for granted the view that consciousness is frame-invariant, and worked from there. It felt self-evident to us that if something depends on the <a href="https://en.wikipedia.org/wiki/Frame_of_reference">frame of reference</a> from which you see it, it doesn’t have inherent existence. Our experiences (in particular, each <a href="https://qualiacomputing.com/2018/11/28/the-pseudo-time-arrow-explaining-phenomenal-time-with-implicit-causal-structures-in-networks-of-local-binding/">discrete moment of experience</a>), have inherent existence, and thus cannot be frame-dependent. Every experience is self-intimating, self-disclosing, and absolute. So how could it depend on a frame of reference? Alas, I know this is a rather loaded way of putting it and risks confusing a lot of people (for one, Buddhists might retort that experience is inherently “<a href="https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da">interdependent</a>” and has no inherent existence, to which I would replay “we are talking about different things here”). So I am motivated to present a more fleshed out, yet intuitive, explanation for why we should expect consciousness to be frame-invariant and how, in our view, our solution to the boundary problem is in fact up to this challenge.</p>
+<p>The main idea here is to show how frames of reference cannot boostrap phenomenal binding. Indeed, “a point of view” that provides a frame of reference is more of a convenient abstraction that relies on us to bind, interpret, and coalesce pieces of information, than something with a solid ontological status that exists out there in the world. Rather, I will try to show how we are borrowing from our very own capacity for having unified information in order to put together the data that creates the construct of a “point of view”; importantly, this unity is not bootstrapped from other “points of view”, but draws from the texture of the fabric of reality itself. Namely, the field topology.</p>
+<h2 id="reframing-bindings-fuzziness">Reframing Binding’s Fuzziness</h2>
+<p>A scientific theory of consciousness <a href="https://qualiacomputing.com/2019/11/22/breaking-down-the-problem-of-consciousness/">must be able to explain</a> the existence of consciousness, the nature and cause for the diverse array of qualia values and varieties (the <a href="https://qualiacomputing.com/2017/02/19/raising-the-table-stakes-for-successful-theories-of-consciousness/">palette problem</a>), how consciousness is causally efficacious (avoid epiphenomenalism), and explain how the information content of each moment of experience is presented “all at once” (namely, the binding problem). I’ve talked extensively about these constraints in writings, videos, and interviews, but what I want to emphasize here is that these problems need to be addressed head on for a theory of consciousness to work at all. Keep these constraints in mind as we deconstruct the apparent solidity of frames of reference and the difficulty that arises in order to bootstrap causal and computational effects in connection to phenomenal binding out of a relativistic frame.</p>
+<p>At a very high level, a fuzzy (but perhaps sufficient) intuition for what’s problematic when a theory of consciousness doesn’t seek frame-invariance is that you are trying to create something concrete with real and non-trivial causal effects and information content, out of fundamentally “fuzzy” parts.</p>
+<p>In brief, ask yourself, can something fuzzy “observe” something fuzzy? How can fuzzyness be used to boostrap something non-fuzzy?</p>
+<p>In a world of atoms and forces, “systems” or “things” or “objects” or “algorithms” or “experiences” or “computations” don’t exist intrinsically because there are no objective, frame-invariant, and causally significant ways to draw boundaries around them!</p>
+<p>I hope to convince you that any sense of unity or coherence that you get from this picture of reality (a relativistic system with atoms and forces) is in fact a projection from your mind, that inhabits your mind, and is not out there in the world. You are looking at the system, and you are making connections between the parts, and indeed you are creating a hierarchy of interlocking gestalts to represent this entire conception of reality. But that is all in your mind! It’s a sort of map and territory confusion to believe that two fuzzy “systems” interacting with each other can somehow bootstrap a non-fuzzy ontological object (aka. a requirement for a<em> moment of experience</em>). </p>
+<p>I reckon that these vague explanations are in fact sufficient for some people to understand where I’m going. But some of you are probably clueless about what the problem is, and for good reason. This is never discussed in detail, and this is largely, I think, because people who think a lot about the problem don’t usually end up with a convincing solution. And in some cases, the result is that thinkers bite the bullet that there are only <em>fuzzy</em> patterns in reality.</p>
+<h2 id="how-many-fuzzy-computations-are-there-in-a-system">How Many Fuzzy Computations Are There in a System?</h2>
+<p>Indeed, thinking of the universe as being made of particles and forces implies that computational processes are <em>fuzzy</em> (leaky, porous, open to interpretation, etc.). Now imagine thinking that <em>you</em> are one of such fuzzy computations. Having this as an unexamined background assumption gives rise to countless intractable paradoxes. The notion of a point of view, or a frame of reference, does not have real meaning here as the way to aggregate information doesn’t ultimately allow you to identify objective boundaries around packets of information (at least not boundaries that are more than merely-conventional in nature).</p>
+<p>From this point of view (about points of view!), you realize that indeed there is no principled and objective way to find real <em>individuals</em>. You end up in the fuzzy world of fuzzy individuals of <a href="https://briantomasik.com/">Brian Tomasik</a>, as helpfully illustrated by this diagram:</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/1.webp" alt="">
+<figcaption aria-hidden="true">
+ <em><a href="https://reducing-suffering.org/fuzzy-nested-minds-problematize-utilitarian-aggregation/">Fuzzy, Nested Minds Problematize Utilitarian Aggregation</a></em> by Brian Tomasik
+</figcaption>
+</figure>
+<p>Brian Tomasik indeed identifies the problem of finding real boundaries between individuals as crucial for utilitarian calculations. And then, incredibly, also admits that his ontological frameworks gives him no principled way of doing so (cf. Michael E. Johnson’s <em><a href="https://opentheory.net/2017/07/why-i-think-the-foundational-research-institute-should-rethink-its-approach/">Against Functionalism</a></em> for a detailed response). Indeed, according to him (from the same essay):</p>
+<blockquote>
+<p>Eric Schwitzgebel argues that “<a href="http://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/USAconscious-130208.htm">If Materialism Is True, the United States Is Probably Conscious</a>”. But if the USA as a whole is conscious, how about each state? Each city? Each street? Each household? Each family? When a new government department is formed, does this create a new conscious entity? Do corporate mergers reduce the number of conscious entities? These seem like silly questions—and indeed, they are! But they arise when we try to individuate the world into separate, discrete minds. Ultimately, “we are all connected”, as they say. Individuation boundaries are artificial and don’t track anything ontologically or phenomenally fundamental (except maybe at the level of fundamental physical particles and structures). The distinction between an agent and its environment is just an edge that we draw around a clump of physics when it’s convenient to do so for certain purposes.</p>
+<p>My own view is that every subsystem of the universe can be seen as conscious to some degree and in some way (<a href="http://foundational-research.org/flavors-computation-flavors-consciousness/">functionalist panpsychism</a>). In this case, the question of which systems count as individuals for aggregation becomes maximally problematic, since it seems we might need to <a href="http://cheezburger.com/8436564224">count all the subsystems</a> in the universe.”</p>
+</blockquote>
+<p>Are you confused now? I hope so. Otherwise I’d worry about you.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/2.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<h2 id="banana-for-scale">Banana For Scale</h2>
+<p>A frame of reference is like a “banana for scale” but for both time and space. If you assume that the banana isn’t morphing, you can use how long it takes for waves emitted from different points in the banana to bounce back and return in order to infer the distance and location of physical objects around it. Your technologically equipped banana can play the role of a frame of reference in all but the most extreme of conditions (it probably won’t work as you approach a black hole, for very non-trivial reasons involving severe tidal forces, but it’ll work fine otherwise).</p>
+<p>Now the question that I want to ask is: how does the banana “know itself”? Seriously, if you are using points in the banana as your frame of reference, you are, in fact, the one who is capable of interpreting the data coming from the banana to paint a picture of your environment. But the banana isn’t doing that. It is you! The banana is merely an instrument that takes measurements. Its unity is assumed rather than demonstrated.</p>
+<p>In fact, for the upper half of the banana to “comprehend” the shape of the other half (as well as its own), it must also rely on a presumed fixed frame of reference. However, it’s important to note that such information truly becomes meaningful only when interpreted by a human mind. In the realm of an atom-and-force-based ontology, the banana doesn’t precisely exist as a tangible entity. Your perception of it as a solid unit, providing direction and scale, is a practical assumption rather than an ontological certainty.</p>
+<p>In fact, the moment we try to get a “frame of reference to know itself” you end up in an infinite regress, where smaller and smaller regions of the object are used as frames of reference to measure the rest. And yet, at no point does the information of these frames of reference “come together all at once”, except… of course… in your mind.</p>
+<p>Are there ways to boostrap a <em>something</em> that aggregates and simultaneously expresses the information gathered across the banana (used as a frame of reference)? If you build a camera to take a snapshot of the, say, information displayed at each coordinate of the banana, the picture you take will have spatial extension and suffer from the same problem. If you think that the point at the aperture can itself capture all of the information at once, you will encounter two problems. If you are thinking of an idealized point-sized aperture, then we run into the problem that points don’t have parts, and therefore can’t contain multiple pieces of information at once. And if you are talking about a real, physical type of aperture, you will find that it cannot be smaller than the diffraction limit. So now you have the problem of how to integrate all of the information <em>across the whole area of the aperture</em> when it cannot shrink further without losing critical information. In either case, you still don’t have anything, anywhere, that is capable of simultaneously expressing all of the information of the frame of reference you chose. Namely, the coordinates you measure using a banana.</p>
+<p>Let’s dig deeper. We are talking of a banana as a frame of reference. But what if we try to internalize the frame of reference. A lot of people like to think of themselves as the frame of reference that matters. But I ask you: what are your boundaries and how do the parts within those boundaries agree on what is happening?</p>
+<p>Let’s say your brain is the frame of reference. Intuitively, one might feel like “this object is real to itself”. But here is where the magic comes. Make the effort to carefully trace how signals or measurements propagate in an object such as the brain. Is it fundamentally different than what happens with a banana? There might be more shortcuts (e.g. long axons) and the wiring could have complex geometry, but neither of these properties can ultimately express information “all at once”. The principle of uniformity says that every part of the universe follows the same universal physical laws. The brain is not an exception. In a way, the brain is itself a possible <em>expression</em> of the laws of physics. And in this way, it is no different than a banana.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/3.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<p>Sorry, your brain is not going to be a better “ground” for your frame of reference than a banana. And that is because the same infinite recursion that happened with the banana when we tried to use it to ground our frame of reference into something concrete happens with your brain. And also, the same problem happens when we try to “take a snapshot of the state of the brain”, i.e. that the information also doesn’t aggregate in a natural way even in a high-resolution picture of the brain. It still has spatial extension and lacks objective boundaries of any causal significance.</p>
+<p>Every single point in your brain has a different view. The universe won’t say “There is a brain here! A self-intimating self-defining object! It is a natural boundary to use to ground a frame of reference!” There is nobody to do that! Are you starting to feel the groundlessness? The bizarre feeling that, hey, there is no rational way to actually set a frame of reference without it falling apart into a gazillion different pieces, all of which have the exact same problem? I’ve been there. For years. But there is a way out. Sort of. Keep reading.</p>
+<p>The question that should be bubbling up to the surface right now is: who, or what, is in charge of aggregating points of view? And the answer is: this does not exist and is impossible for it to exist if you start out in an ontology that has as the core building blocks relativistic particles and forces. There is no principled way to aggregate information across space and time that would result in the richness of simultaneous presentation of information that a typical human experience displays. If there is integration of information, and a sort of “all at once” presentation, the only kind of (principled) entity that this ontology would accept is the entire spacetime continuum as a gigantic object! But that’s not what we are. We are definite experiences with specific qualia and binding structures. We are no, as far as I can tell, the entire spacetime continuum all at once. (Or are we?).</p>
+<p>If instead we focus on the fine structure of the field, we can look at mathematical features in it that would perhaps draw boundaries that are frame-invariant. Here is where a key insight becomes significant: the topology of a vector field is Lorentz invariant! Meaning, a Lorentz transformation will merely squeeze and sheer, but never change topology on its own. Ok, I admit I am not 100% sure that this holds for all of the topological features of the electromagnetic field (Creon Levit recently raised some interesting technical points that might make some EM topological features frame-dependent; I’ve yet to fully understand his argument but look forward to engaging with it). But what we are really pointing at is the explanation space. A moment ago we were desperate to find a way to ground, say, the reality of a banana in order to use it as a frame of reference. We saw that the banana conceptualized as a collection of atoms and forces does not have this capacity. But we didn’t inquire into other possible physical (though perhaps not <em>atomistic</em>) features of the banana. Perhaps, and this is sheer speculation, the potassium ions in the banana peel form a tight electromagnetic mesh that creates a protective Faraday cage for this delicious fruit. In that case, well, the boundaries of that protecting sheet would, interestingly, be frame invariant. A ground!</p>
+<h2 id="the-4th-dimension">The 4th Dimension</h2>
+<p>There is a bit of a sleight of hand here, because I am not taking into account temporal depth, and so it is not entirely clear how large the banana, as a topological structure defined by the potassium ions protective sheer really is (again, this is totally made up! for illustration purposes only). The trick here is to realize that, at least in so far as experiences go, we also have a temporal boundary. Relativistically, there shouldn’t be a hard distinction between temporal and spatial boundaries of a topological pocket of the field. In practice, of course one will typically overwhelm the other, unless you approach the brain you are studying at close to the speed of light (not ideal laboratory conditions, I should add). In our paper, and for many years at QRI (iirc an insight by Michael Johnson in 2016 or so), we’ve talked about experiences having “temporal depth”. David Pearce posits that each fleeting macroscopic state of quantum coherence spanning the entire brain (the physical correlate of consciousness in his model) can last as little as a couple of femtoseconds. This does not seem to worry him: there is no reason why the contents of our experience would give us any explicit hint about our real temporal depth. I intuit that each moment of experience lasts much, much longer. I highly doubt that it can last longer than a hundred milliseconds, but I’m willing to entertain “pocket durations” of, say, a few dozens of milliseconds. Just long enough for 40hz gamma oscillations to bring disparate cortical micropockets into coherence, and importantly, topological union, and have this new new emergent object resonate (where waves bounce back and forth) and thus do wave computing worthwhile enough to pay the energetic cost of carefully modulating this binding operation. Now, this is the sort of “physical correlate of consciousness” I tend to entertain the most. Experiences are fleeting (but not vanishingly so) pockets of the field that come together for computational and causal purposes worthwhile enough to pay the price of making them.</p>
+<p>An important clarification here is that now that we have this way of seeing frames of reference we can reconceptualize our previous confusion. We realize that simply labeling parts of reality with coordinates does not magically bring together the information content that can be obtained by integrating the signals read at each of those coordinates. But we suddenly have something that might be way better and more conceptually satisfying. Namely, literal topological objects with boundaries embedded in the spacetime continuum that contribute to the causal unfolding of the reality and are absolute in their existence. These are the objective and real frames of reference we’ve been looking for!</p>
+<h2 id="whats-so-special-about-field-topology">What’s So Special About Field Topology?</h2>
+<p>Two key points:</p>
+<ol type="1">
+<li>Topology is frame-invariant</li>
+<li>Topology is causally significant</li>
+</ol>
+<p>As already mentioned, the <a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transform</a> can squish and distort, but it doesn’t change topology. The topology of the field is absolute, not relativistic.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/4.webp" alt="">
+<figcaption aria-hidden="true">
+<a href="https://en.wikipedia.org/wiki/Lorentz_transformation">Lorentz Transform</a> can squish and distort, but it doesn’t change topology (<a href="https://commons.wikimedia.org/wiki/File:Animated_Lorentz_Transformation.gif">image source</a>
+</figcaption>
+</figure>
+<p>And field topology is also causally significant. There are <em>many</em> examples of this, but let me just mention a very startling one: <a href="https://en.wikipedia.org/wiki/Magnetic_reconnection">magnetic reconnection</a>. This happens when the magnetic field lines change how they are connected. I mention this example because when one hears about “topological changes to the fields of physics” one may get the impression that such a thing happens only in extremely carefully controlled situations and at minuscule scales. Similar to the concerns for why quantum coherence is unlikely to play a significant role in the brain, one can get the impression that “the scales are simply off”. Significant quantum coherence typically happens in extremely small distances, for very short periods of time, and involving very few particles at a time, and thus, the argument goes, quantum coherence must be largely inconsequential at scales that could plausibly matter for the brain. But the case of field topology isn’t so delicate. Magnetic reconnection, in particular, takes place at extremely large scales, involving enormous amount of matter and energy, with extremely consequential effects.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/5.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<p>You know about <a href="https://en.wikipedia.org/wiki/Solar_flare">solar flairs</a>? Solar flairs are the strange phenomenon in the sun in which plasma is heated up to millions of degrees Kelvin and charged particles are accelerated to near the speed of light, leading to the emission of gigantic amounts of electromagnetic radiation, which in turn can ionize the lower levels of the Earth’s ionosphere, and thus disrupt radio communication (cf. <a href="https://www.swpc.noaa.gov/phenomena/solar-flares-radio-blackouts">radio blackouts</a>). These extraordinary events are the result of the release of magnetic energy stored in the Sun’s corona via a topological change to the magnetic field! Namely, <a href="https://en.wikipedia.org/wiki/Magnetic_reconnection">magnetic reconnection</a>.</p>
+<p>So here we have a real and tangible effect happening at a planetary (and stellar!) scale over the course of minutes to hours, involving enormous amounts of matter and energy, coming about from a non-trivial change to the topology of the fields of physics.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/6.webp" alt="">
+<figcaption aria-hidden="true">
+(example of magnetic reconnection; <a href="https://en.wikipedia.org/wiki/Magnetic_reconnection#/media/File:Reconnection.gif">source</a>)
+</figcaption>
+</figure>
+<p>Relatedly, <a href="https://en.wikipedia.org/wiki/Coronal_mass_ejection">coronal mass ejections</a> (CMEs) also dependent on changes to the topology of the EM field. My layman understanding of CMEs is that they are cauconsed by the build-up of magnetic stress in the sun’s atmosphere, which can be triggered by a variety of factors, including uneven spinning and plasma convection currents. When this stress becomes too great, it can cause the magnetic field to twist and trap plasma in <a href="https://en.wikipedia.org/wiki/Solar_prominence">solar filaments</a>, which can then be released into interplanetary space through magnetic reconnection. These events are truly enormous in scope (trillions of kilograms of mass ejected) and speed (traveling at thousands of kilometers per second).</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/7.webp" alt="">
+<figcaption aria-hidden="true">
+CME captured by NASA (<a href="https://giphy.com/nasa">source</a>)
+</figcaption>
+</figure>
+<p>It’s worth noting that this process is quite complex/not fully understood, and new research findings continue to illuminate the details of this process. But the fact that topological effects are involved is well established. Here’s a <a href="https://youtu.be/6tmbeLTHC_0">video</a> which I thought was… stellar. Personally, I think a program where people get familiar with the electromagnetic changes that happen in the sun by seeing them in simulations and with the sun visualized in many ways, might help us both predict better solar storms, and then also help people empathize with the sun (or the topological pockets that it harbors!).</p>
+<figure>
+<img  loading="lazy" class="" src="../../images/distill/my-topological-pocket/8.webp" alt="">
+<figcaption aria-hidden="true">
+“<em>The model showed differential rotation causes the sun’s magnetic fields to stretch and spread at different rates. The researchers demonstrated this constant process generates enough energy to form stealth coronal mass ejections over the course of roughly two weeks. The sun’s rotation increasingly stresses magnetic field lines over time, eventually warping them into a strained coil of energy. When enough tension builds, the coil expands and pinches off into a massive bubble of twisted magnetic fields — and without warning — the stealth coronal mass ejection quietly leaves the sun.</em>” (<a href="https://scitechdaily.com/astronomers-create-a-model-for-stealth-coronal-mass-ejections/">source</a>)
+</figcaption>
+</figure>
+<p>Solar flares and CMEs are just two rather spectacular macroscopic phenomena where field topology has non-trivial causal effects. But in fact there is a whole zoo of distinct non-trivial topological effects with causal implications, such as: <a href="https://phys.org/news/2022-12-insights-optical-resonances-topology-mbius.html">how the topology of the Möbius strip can constrain optical resonant modes</a>, <a href="https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00825k">twisted topological defects in nematic liquid crystal make some images impossible</a>, <a href="https://en.wikipedia.org/wiki/Eddy_current">the topology of eddy currents</a> can be <a href="https://youtu.be/Yu1uRvErM80">recruited for shock absorption aka. “magnetic breaking”</a>, <a href="https://en.wikipedia.org/wiki/Meissner_effect">Meissner–Ochsenfeld effect</a> and <a href="https://en.wikipedia.org/wiki/Flux_pinning">flux pinning</a> <a href="https://www.secretsofuniverse.in/quantum-levitation/">enabling magnetic levitation</a>, <a href="https://scitechdaily.com/new-exotic-magnetic-quasiparticle-skyrmion-bundle-joins-topological-zoo/">Skyrmion bundles</a> having potential applications for storing information in spinotropic devices, and so on.</p>
+<figure>
+<img  loading="lazy" class="" src="../../images/distill/my-topological-pocket/9.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<p>In brief, topological structures in the fields of physics can pave the way for us to identify the natural units that correspond to “moments of experience”. They are frame-invariant and casually significant, and as such they “carve nature at its joints” while being useful from the point of view of natural selection.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/11.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<h2 id="can-a-topological-pocket-know-itself">Can a Topological Pocket “Know Itself”?</h2>
+<p>Now the most interesting question arises. How does a topological pocket “know itself”? How can it act as a frame of reference for itself? How can it represent information about its environment if it does not have direct access to it? Well, this is in fact a very interesting area of research. Namely, how do you get the inside of a system with a clear and definite boundary to model its environment despite having only information accessible at its boundary and the resources contained within its boundary? This is a problem that evolution has dealt with for over a billion years (last time I checked). And fascinatingly, is also the subject of study of Active Inference and the Free Energy Principle, whose math, I believe, can be imported to the domain of <em>topological</em> boundaries in fields (cf. Markov Boundary).</p>
+<p>Here is where qualia computing, attention and awareness, non-linear waves, self-organizing principles, and even optics become extremely relevant. Namely, we are talking about how the <em>interior shape</em> of a field could be used in the context of life. Of course the cell walls of even primitive cells are functionally (albeit perhaps not ontologically) a kind of objective and causally significant boundary where this applies. It is enormously adaptive for the cell to use its interior, somehow, to represent its environment (or at least relevant features thereof) in order to navigate, find food, avoid danger, and reproduce.</p>
+<p>The situation becomes significantly more intricate when considering highly complex and “evolved” animals such as humans, which encompass numerous additional layers. A single moment of experience cannot be directly equated to a cell, as it does not function as a persistent topological boundary tasked with overseeing the replication of the entire organism. Instead, a moment of experience assumes a considerably more specific role. It acts as an exceptionally specialized topological niche within a vast network of transient, interconnected topological niches—often intricately nested and interwoven. Together, they form an immense structure equipped with the capability to replicate itself. Consequently, the Darwinian evolutionary dynamics of experiences operate on multiple levels. At the most fundamental level, experiences must be selected for their ability to competitively thrive in their immediate micro-environment. Simultaneously, at the broadest level, they must contribute valuable information processing functions that ultimately enhance the inclusive fitness of the entire organism. All the while, our experiences must seamlessly align and “fit well” across all the intermediary levels.</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/12.webp" alt="">
+<figcaption aria-hidden="true">
+Visual metaphor for how myriad topological pockets in the brain could briefly fuse and become a single one, and then dissolve back into a multitude.
+</figcaption>
+</figure>
+<p>The way this is accomplished is by, in a way, “convincing the experience that it is the organism”. I know this sounds crazy. But ask yourself. Are you a person or an experience? Or neither? Think deeply about Empty Individualism and come back to this question. I reckon that you will find that when you identify with a moment of experience, it turns out that you are an experience <em>shaped</em> in the form of the necessary survival needs and reproductive opportunities that a very long-lived organism requires. The organism is fleetingly creating <em>you</em> for computational purposes. It’s weird, isn’t it?</p>
+<p>The situation is complicated by the fact that it seems that the computational properties of topological pockets of qualia involve topological operations, such as fusion, fission, and the use of all kinds of internal boundaries. More so, the content of a particular experience leaves an imprint in the organism which can be picked up by the next experience. So what happens here is that when you pay really close attention, and you whisper to your mind, “who am I?”, the direct experiential answer will in fact be a slightly distorted version of the truth. And that is because you (a) are always changing and (b) can only use the shape of the previous experience(s) to fill the intentional content of your current experience. Hence, you cannot, at least not under normal circumstances, <em>really</em> turn awareness to itself and <em>be</em> a topological pocket that “knows itself”. For once, there is a finite speed of information propagation across the many topological pockets that ultimately feed to the central one. So, at any given point in time, there are regions of your experience of which you are <em>aware</em> but which you are not attending to.</p>
+<p>This brings us to the special case. Can an experience be shaped in such a way that it attends to itself fully, rather than attend to parts of itself which contain information about the state of predecessor topological pockets? I don’t know, but I have a strong hunch that the answer is yes and that this is what a meditative cessation does. Namely, it is a particular configuration of the field where attention is perfectly, homogeneously, distributed throughout in such a way that absolutely nothing breaks the symmetry and the experience “knows itself fully” but lacks any room left to pass it on to the successor pockets. It is a bittersweet situation, really. But I also think that cessations, and indeed moments of very homogeneously distributed attention, are healing for the organism, and even, shall we say, for the soul. And that is because they are moments of complete relief from the discomfort of symmetry breaking of any sort. They teach you about how our world simulation is put together. And intellectually, they are especially fascinating because they may be the one special case in which the referent of an experience is exactly, directly, itself.</p>
+<p>To be continued…</p>
+<figure>
+<img  loading="lazy" class="mobile-50" src="../../images/distill/my-topological-pocket/13.webp" alt="">
+<figcaption aria-hidden="true">
+</figcaption>
+</figure>
+<h2 class="appendix" id="acknowledgements">Acknowledgements</h2>
+<p>I am deeply grateful and extend my thanks to Chris Percy for his remarkable contributions and steadfast dedication to this field. His exceptional work has been instrumental in advancing QRI’s ideas within the academic realm. I also want to express my sincere appreciation to Michael Johnson and David Pearce for our enriching philosophical journey together. Our countless discussions on the causal properties of phenomenal binding and the temporal depth of experience have been truly illuminating. A special shout-out to Cube Flipper, Atai Barkai, Dan Girshovic, Nir Lahav, Creon Levit, and Bijan Fakhri for their recent insightful discussions and collaborative efforts in this area. Hunter, Maggie, Anders (RIP), and Marcin, for your exceptional help. Huge gratitude to our donors. And, of course, a big thank you to the vibrant “qualia community” for your unwavering support, kindness, and encouragement in pursuing this and other crucial research endeavors. Your love and care have been a constant source of motivation. Thank you so much!!!</p>
+<h2 class="appendix" id="tags">Tags</h2>
+<p><a href='../tag/phenomenal-binding'>Phenomenal Binding</a>, <a href='../tag/consciousness'>Consciousness</a>, <a href='../tag/meditation'>Meditation</a>, <a href='../tag/philosophy-of-mind'>Philosophy of Mind</a>, <a href='../tag/ethics'>Ethics</a>, <a href='../tag/qualia'>Qualia</a>, <a href='../tag/physics'>Physics</a></p>
+<script src="/functionality.js"></script>
+<script>
+$(document).ready(function() {
+setDistillElements();
+});
+$(window).load(function() {
+setDistillStyling();
+});
+</script>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<!--radix_placeholder_article_footer-->
+<!--/radix_placeholder_article_footer-->
+</div>
+
+<div class="d-appendix">
+</div>
+
+
+<!--radix_placeholder_site_after_body-->
+<!--/radix_placeholder_site_after_body-->
+<!--radix_placeholder_appendices-->
+<div class="appendix-bottom">
+<h3 id="references">References</h3>
+<div id="references-listing"></div>
+<h3 id="citation">Citation</h3>
+<p>For attribution, please cite this work as</p>
+<pre class="citation-appendix short">Gómez-Emilsson (2023, Oct. 27). The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem. Retrieved from https://www.qri.org/blog/my-topological-pocket</pre>
+<p>BibTeX citation</p>
+<pre class="citation-appendix long">@misc{gómez-emilsson2023the,
+  author = {Gómez-Emilsson, Andrés},
+  title = {The View From My Topological Pocket: An Introduction to Field Topology for Solving the Boundary Problem},
+  url = {https://www.qri.org/blog/my-topological-pocket},
+  year = {2023}
+}</pre>
+</div>
+<!--/radix_placeholder_appendices-->
+<!--radix_placeholder_navigation_after_body-->
+<!--/radix_placeholder_navigation_after_body-->
+
+<meta property='og:image' content='/images/hyperbolic.png'/></body>
+
+</html>

@@ -1,0 +1,14 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: yataḥ svatantratā tasya sarvatreyam akṛtrimā
+
+LEXICAL EVIDENCE:
+  yatas: [unrecognized: yatas]
+  svatantratA: [unrecognized: svatantratA]
+  ta: [unrecognized: ta]
+  sarvatra: everywhere
+  idam: [unrecognized: idam]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

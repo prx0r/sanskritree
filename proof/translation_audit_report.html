@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Translation Audit Report — Sanskritree</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8fafc; color: #1e293b; line-height: 1.6; }
+.wrapper { max-width: 1200px; margin: 0 auto; padding: 24px; }
+h1 { font-size: 1.5rem; margin-bottom: 8px; color: #0f172a; }
+.subtitle { color: #64748b; margin-bottom: 24px; font-size: 0.9rem; }
+.dashboard { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin-bottom: 32px; }
+.stat-card { background: white; border-radius: 8px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border-top: 3px solid #3b82f6; }
+.stat-value { font-size: 1.5rem; font-weight: 700; }
+.stat-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; }
+.toc { background: white; border-radius: 8px; padding: 16px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.toc ul { list-style: none; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.toc a { color: #3b82f6; text-decoration: none; font-size: 0.85rem; display: flex; align-items: center; gap: 4px; }
+.toc a:hover { text-decoration: underline; }
+.toc-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; }
+.passage-card { background: white; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.passage-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+.passage-id { font-weight: 700; font-size: 1rem; font-family: 'SF Mono', 'Fira Code', monospace; }
+.passage-meta { color: #64748b; font-size: 0.8rem; }
+.confidence-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; color: white; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; }
+.source-text { font-family: 'Noto Sans Devanagari', 'Siddhanta', serif; font-size: 1rem; padding: 12px; background: #f1f5f9; border-radius: 6px; margin-bottom: 12px; }
+.terms-found { font-size: 0.8rem; color: #64748b; margin-bottom: 8px; }
+.term-list { font-family: 'SF Mono', monospace; font-size: 0.8rem; }
+.passes-container { display: grid; gap: 8px; }
+.pass-card { padding: 12px; border: 1px solid #e2e8f0; border-radius: 6px; }
+.pass-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; font-size: 0.85rem; flex-wrap: wrap; }
+.pass-status { font-weight: bold; }
+.pass-agreement { font-size: 0.75rem; }
+.pass-content { font-size: 0.9rem; line-height: 1.5; }
+.pass-pending { opacity: 0.7; }
+.pass-source { font-size: 0.7rem; color: #94a3b8; font-family: monospace; }
+.reasoning { font-size: 0.8rem; color: #475569; background: #f8fafc; padding: 8px; border-radius: 4px; margin-top: 4px; white-space: pre-wrap; }
+.reference-card { padding: 12px; border: 1px solid #dbeafe; background: #eff6ff; border-radius: 6px; margin-bottom: 8px; font-size: 0.9rem; }
+.contradiction-flag { color: #dc2626; font-weight: 600; margin-top: 4px; font-size: 0.85rem; }
+.agreement-summary { margin-bottom: 8px; font-size: 0.85rem; }
+.conflict-hint { display: block; color: #dc2626; font-size: 0.8rem; margin-top: 2px; }
+.annotator-section { margin-top: 8px; font-size: 0.85rem; }
+.annotator-form { padding: 12px; background: #f8fafc; border-radius: 6px; margin-top: 8px; }
+.annotator-form label { display: block; font-weight: 600; font-size: 0.8rem; margin-top: 8px; margin-bottom: 2px; }
+.annotator-form textarea { width: 100%; border: 1px solid #e2e8f0; border-radius: 4px; padding: 6px; font-family: inherit; font-size: 0.85rem; }
+.annotator-form select { width: 100%; border: 1px solid #e2e8f0; border-radius: 4px; padding: 6px; font-family: inherit; font-size: 0.85rem; }
+.annotator-form button { margin-top: 8px; padding: 6px 12px; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 0.85rem; }
+details > summary { cursor: pointer; color: #3b82f6; font-weight: 600; }
+details > summary:hover { text-decoration: underline; }
+@media (max-width: 768px) { .dashboard { grid-template-columns: repeat(2, 1fr); } }
+</style>
+</head>
+<body>
+<div class="wrapper">
+    <h1>Translation Audit Report</h1>
+    <p class="subtitle">Generated 2026-07-29 12:25 UTC · 2 passages · 4-pass DeepSeek · Calibrated against Dyczkowski</p>
+    
+    <div class="dashboard">
+        <div class="stat-card">
+            <div class="stat-value">2</div>
+            <div class="stat-label">Passages</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">2</div>
+            <div class="stat-label">With published reference</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid #22c55e">
+            <div class="stat-value">0</div>
+            <div class="stat-label">High confidence</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid #eab308">
+            <div class="stat-value">0</div>
+            <div class="stat-label">Medium confidence</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid #ef4444">
+            <div class="stat-value">2</div>
+            <div class="stat-label">Low confidence (review)</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid #ef4444">
+            <div class="stat-value">2</div>
+            <div class="stat-label">Contradicts reference</div>
+        </div>
+    </div>
+    <div class="toc"><ul><li><a href="#spk.1.1"><span class="toc-dot" style="background:#ef4444"></span>spk.1.1</a></li><li><a href="#spk.1.2"><span class="toc-dot" style="background:#ef4444"></span>spk.1.2</a></li></ul></div>
+    
+        <div class="passage-card" id="spk.1.1">
+            <div class="passage-header">
+                <span class="passage-id">spk.1.1</span>
+                <span class="passage-meta">spandakarika · tantra</span>
+                <span class="confidence-badge" style="background: #ef4444">low</span>
+            </div>
+            <div class="source-text"></div>
+            <div class="terms-found">Tracked terms: <span class="term-list" style="color:#6b7280">None of the 6 tracked terms found</span></div>
+            
+            <div class="agreement-summary" style="border-left: 4px solid #ef4444; padding-left: 12px;">
+                <strong>Confidence: LOW</strong>
+                <span class="conflict-hint">Disagreement detected — review recommended</span>
+                
+            </div>
+            
+            <div class="reference-card">
+                <strong>Published reference (Dyczkowski)</strong>
+                <div class="pass-content">WEPRAISETHATSANKARAWHOISTHESOURCEOFTHEPOWEROFTHEWHEELOFENERGIESBYWHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.</div>
+                <div class="contradiction-flag">⚠ Contradicts published reference — priority review</div>
+            </div>
+            <div class="passes-container">
+                
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass A</strong> — Direct translation
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">b0_data</span>
+                    <span class="pass-agreement" style="color:#22c55e">1 agree · 2 conflict</span>
+                </div>
+                <div class="pass-content">We praise that Śaṃkara, the source of the manifestation of the wheel of Śakti.</div>
+                
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass B</strong> — Term-first translation
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">api</span>
+                    <span class="pass-agreement" style="color:#22c55e">0 agree · 3 conflict</span>
+                </div>
+                <div class="pass-content">TERMS: None of the listed terms (prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda) appear in the source.
+
+TRANSLATION: We praise that Śaṃkara, the source of the glorious circle of powers.</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">We are given: &quot;Source: taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot; and &quot;Task: List any of these terms found in source: prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda. Then translate.&quot;
+
+So first, we need to look at the source sentence: &quot;taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;. This appears to be a Sanskrit phrase. We need to check if any of the given terms (prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda) appear in this phrase. The terms are given in their stem forms, but they might appear in inflected forms. The source has compound words: &quot;śakticakravibhavaprabhavaṃ&quot;. This is a compound of &quot;śakti&quot;, &quot;cakra&quot;, &quot;vibhava&quot;, &quot;prabhava&quot;. So no direct match. The other words are &quot;taṃ&quot; (the form of tad), &quot;śaṃkaraṃ&quot;, &quot;stumaḥ&quot; (we praise). So none of the listed terms appear in the source. Let me double-check: &quot;śakticakravibhavaprabhavaṃ&quot; - could &quot;vibhava&quot; contain something? Not exactly. &quot;prabhava&quot; also not. So the answer for the first part is that none of the terms are found.
+
+Now the second part: &quot;Then translate.&quot; So we need to translate the source sentence. The source is: &quot;taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;. This likely means: &quot;We praise that Śaṃkara, who is the source of the power and the circle&#x27;s prosperity/glory&quot; or something like that. Let me break it down:
+
+- &quot;taṃ&quot; = that (masculine accusative singular)
+- &quot;śakticakravibhavaprabhavaṃ&quot; = a compound describing &quot;śaṃkaraṃ&quot;. It is a bahuvrīhi? Possibly. &quot;śakti&quot; = power, &quot;cakra&quot; = circle, &quot;vibhava&quot; = manifestation/wealth/power, &quot;prabhava&quot; = origin/source. So &quot;śakticakravibhavaprabhava&quot; might mean &quot;the source of the manifestation of the circle of powers&quot; or &quot;the one from whom the prosperity of the circle of powers originates&quot;. It&#x27;s likely a description of Śiva (Śaṃkara). &quot;śaṃkaraṃ&quot; = Śaṃkara (Śiva, auspicious one) in accusative. &quot;stumaḥ&quot; = we praise (from stuh, 1st person plural present active indicative). So the translation: &quot;We praise that Śaṃkara who is the source of the manifestation of the circle of powers.&quot; Alternatively, &quot;We praise that Śaṃkara, from whom the glorious circle of powers originates.&quot;
+
+I need to be careful with the compound. &quot;śakticakravibhavaprabhavaṃ&quot; could be parsed as &quot;śakti-cakra-vibhava-prabhava&quot;. It could mean &quot;the source (prabhava) of the glory (vibhava) of the circle (cakra) of powers (śakti)&quot;. Or possibly &quot;the source of the manifestation of the cycle of energies&quot;. In a tantric context, &quot;śakticakra&quot; might refer to a circle of deities or forces. But the translation should be accurate.
+
+I&#x27;ll provide a literal translation: &quot;We praise that Śaṃkara, who is the source of the prosperity of the circle of powers.&quot;
+
+Now to answer the task:
+
+First: List any of these terms found in source. Since none are found, I should say &quot;None found&quot; or list none.
+
+But the instruction says &quot;List any of these terms found in source&quot;. So if none, then perhaps an empty list or say &quot;no terms&quot;.
+
+I&#x27;ll produce a response:
+
+TERMS: 
+
+Then TRANSLATION:
+
+But the user said &quot;Task: List any of these terms found in source: ... Then translate.&quot; So I should output both parts.
+
+I&#x27;ll write:
+
+TERMS: None of the listed terms (prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda) are found in the source.
+
+TRANSLATION: We praise that Śaṃkara, who is the source of the manifestation of the circle of powers.
+
+But to be precise, I&#x27;ll put the translation directly.
+
+I&#x27;ll format as requested.</pre></details>
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass C</strong> — Adversarial re-check
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">pass1_pipeline</span>
+                    <span class="pass-agreement" style="color:#22c55e">1 agree · 2 conflict</span>
+                </div>
+                <div class="pass-content">We praise that Shankara, the source of the manifestation of the wheel of Shakti.</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">We are given a Sanskrit phrase: &quot;taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;. Lexical evidence: tad = that, Sakti = Sakti/power, cakra = wheel, viBava = manifestation. The phrase seems to be a compound: &quot;śakticakravibhavaprabhavaṃ&quot; modifying &quot;śaṃkaraṃ&quot;. &quot;prabhava&quot; might mean &quot;source&quot; or &quot;origin&quot;. &quot;śaṃkaraṃ&quot; is a name of Shiva. &quot;stumaḥ&quot; means &quot;we praise&quot;. So the translation: &quot;We praise that Śaṃkara, who is the source of the manifestation of the wheel of power&quot; or similar. But we need a natural English translation. The instruction says to use the evidence provided, but produce a natural translation. The lexical evidence gives individual words, but we need to combine them. &quot;śakticakravibhavaprabhavaṃ&quot; can be interpreted as &quot;prabhava&quot; (source/origin) of &quot;vibhava&quot; (manifestation) of &quot;śakticakra&quot; (wheel of power). So &quot;the source of the manifestation of the wheel of power&quot;. &quot;taṃ&quot; is &quot;that&quot; (accusative singular masculine). &quot;śaṃkaraṃ&quot; is &quot;Shankara&quot; (accusative). &quot;stumaḥ&quot; is &quot;we praise&quot;. So a natural English translation could be: &quot;We praise that Shankara, the source of the manifestation of the wheel of power.&quot; But we might also render &quot;śakticakra&quot; as &quot;the wheel of Shakti&quot; or &quot;the circle of power&quot;. However, the lexical evidence gives &quot;Sakti&quot; as &quot;Sakti/power&quot;, &quot;cakra&quot; as &quot;wheel&quot;. &quot;viBava&quot; as &quot;manifestation&quot;. So we should stick to those meanings. The compound also includes &quot;prabhavaṃ&quot; which is not in the lexical evidence, but it&#x27;s common to mean &quot;origin, source&quot;. So we can say &quot;We praise that Shankara, who is the origin of the manifestation of the wheel of power.&quot; But we should not add unsupported content. &quot;prabhava&quot; is not explicitly in the evidence, but it&#x27;s part of the compound. The lexical evidence only gives the individual words for &quot;tad&quot;, &quot;Sakti&quot;, &quot;cakra&quot;, &quot;viBava&quot;. It doesn&#x27;t give &quot;prabhava&quot; or &quot;stumaḥ&quot; or &quot;śaṃkara&quot;. However, the phrase is given in full, so we must translate all parts. The instruction says &quot;Use the evidence provided below, but produce a natural English translation.&quot; The evidence is lexical, but we also have the full Sanskrit phrase. We can infer the meanings of the other words. The instruction also says &quot;Do not add unsupported content.&quot; So we need to base our translation on the provided evidence. But the evidence only covers some words. We need to translate the entire phrase. Possibly the intended meaning is clear. The evidence says &quot;tad: that&quot;, &quot;Sakti: Sakti/power&quot;, &quot;cakra: wheel&quot;, &quot;viBava: manifestation&quot;. So the compound &quot;śakticakravibhavaprabhavaṃ&quot; modifies &quot;śaṃkaraṃ&quot;. &quot;prabhava&quot; might be considered as &quot;source&quot; or &quot;origin&quot;. &quot;stumaḥ&quot; is &quot;we praise&quot; (verb). So a translation: &quot;We praise that Shankara, the source of the manifestation of the wheel of power.&quot; But we could also say &quot;We praise that Shankara, who is the origin of the manifestation of the wheel of power.&quot; That seems reasonable. Alternatively, &quot;We praise that Shankara, the origin of the manifestation of the wheel of Shakti.&quot; Since &quot;Sakti&quot; is given as &quot;Sakti/power&quot;, we could keep &quot;power&quot; or &quot;Shakti&quot;. I think &quot;Shakti&quot; is appropriate as a proper noun, but the evidence says &quot;Sakti/power&quot;, so either is fine. I&#x27;ll go with &quot;Shakti&quot; because it&#x27;s common in such contexts. But to be faithful, I might use &quot;power&quot;. The instruction says &quot;natural English translation&quot;. So &quot;power&quot; might be more natural in some contexts. But &quot;wheel of power&quot; is a bit vague; &quot;wheel of Shakti&quot; is more specific. However, the lexical evidence gives &quot;Sakti&quot; as the Sanskrit word, so it&#x27;s better to use &quot;Shakti&quot; or &quot;power&quot;. Since it&#x27;s a technical term, &quot;Shakti&quot; might be preferred. Also, &quot;śaṃkaraṃ&quot; is a name, so we can leave it as &quot;Shankara&quot; or &quot;Shamkara&quot;. Typically &quot;Shankara&quot; is used.
+
+I&#x27;ll produce: &quot;We praise that Shankara, the source of the manifestation of the wheel of Shakti.&quot;
+
+But let&#x27;s make sure the grammar is correct. &quot;taṃ&quot; is accusative masculine singular of &quot;tad&quot;, meaning &quot;him&quot; or &quot;that&quot;. &quot;stumaḥ&quot; is first person plural present indicative of &quot;stu&quot; meaning &quot;we praise&quot;. So the object of praise is &quot;taṃ śaṃkaraṃ&quot;. The compound is in accusative singular masculine, agreeing. So it&#x27;s a direct object.
+
+Thus the translation is straightforward.
+
+We should not add any additional commentary. Just output the translation.
+
+So final answer: &quot;We praise that Shankara, the source of the manifestation of the wheel of Shakti.&quot;</pre></details>
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass D</strong> — Grounded in secondary lit
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">api</span>
+                    <span class="pass-agreement" style="color:#22c55e">0 agree · 3 conflict</span>
+                </div>
+                <div class="pass-content">Translation: We praise that Śaṅkara who is the source of the power of the wheel of energies.
+
+Flag: Disagree. The reference text translates a longer phrase, specifically adding the clause &quot;by whose expansion (unmesa) and contraction (nimesa) the universe is absorbed and comes into being.&quot; This corresponds to the Sanskrit *yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau*, which is entirely absent from the source text provided (*taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ*). The strict translation of the given source text logically ends with &quot;wheel of energies.&quot;</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">Thinking. 1.  **Analyze the Request:**
+    *   **Source:** taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ
+    *   **Reference:** WEPRAISETHATSANKARAWHOISTHESOURCEOFTHEPOWEROFTHEWHEELOFENERGIESBYWHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.
+    *   **Instruction:** Translate the source consistently with the reference. If disagree, flag it. (The entire response must be output verbatim as per the rules, but analyzing the translation task itself).
+    *   *Wait*, the user wants a translation consistent with the reference. The reference looks like a slightly chunked/mashalized translation: &quot;WE PRAISE THAT SANKARA WHO IS THE SOURCE OF THE POWER OF THE WHEEL OF ENERGIES BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING.&quot;
+
+    Let&#x27;s break down the reference against the source.
+
+    **Source Analysis:**
+    *   *tam*: him, that (accusative singular masculine of tad)
+    *   *śakti-cakra-vibhava-prabhavam*: 
+        *   śakti: energy, power
+        *   cakra: wheel, circle
+        *   vibhava: power, might, wealth, manifestation
+        *   prabhavam: source, origin, lord (acc. sing. of prabhava). Compound: &quot;him who is the source (prabhavam) of the power/manifestation (vibhava) of the wheel (cakra) of energies (śakti)&quot;.
+    *   *śaṅkaram*: Śaṅkara (Śiva), &quot;the benign one&quot; (acc.)
+    *   *stumaḥ*: we praise (1st person plural present middle of stu)
+
+    **Reference Analysis:**
+    &quot;WE PRAISE THAT SANKARA WHO IS THE SOURCE OF THE POWER OF THE WHEEL OF ENERGIES BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING.&quot;
+
+    *Wait*, the source given is: `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`
+    The reference translation provided is: `WEPRAISETHATSANKARAWHOISTHESOURCEOFTHEPOWEROFTHEWHEELOFENERGIESBYWHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.`
+
+    Let&#x27;s compare the source *character by character* with what the reference says is there.
+    The reference is a translation of the given source, but it seems the reference might be a slightly expanded or commented gloss, or it&#x27;s a strict translation.
+    Let&#x27;s check if the source actually contains `unmesa` and `nimesa` and `universe comes into being`.
+    The source is: `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`
+    Word by word:
+    `taṃ` = him/that
+    `śakticakravibhavaprabhavaṃ` = source of the power of the wheel of energies
+    `śaṃkaraṃ` = Śaṅkara (final visarga/n in sandhi)
+    `stumaḥ` = we praise
+
+    The provided reference translation adds:
+    `BY WHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.`
+
+    Does the source text `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ` say anything about *unmesa* and *nimesa*? No, the phrase given is quite standard:
+    &quot;taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;
+    Is the *source* complete? The user writes:
+    &quot;Source: taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ
+    Reference: WEPRAISETHATSANKARAWHOISTHESOURCEOFTHEPOWEROFTHEWHEELOFENERGIESBYWHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.&quot;
+
+    The reference clearly contains material *not present in the given source* (&quot;BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING&quot;). The source is simply a single sentence fragment: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+
+    Therefore, the reference is *not* a translation of the source. The reference is a translation of a *different* or *longer* source text. The given source is only the first part of the sentence that the reference translates.
+    Actually, let me check the spacing and the source.
+    Is the source a complete verse? `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`
+    No, this looks like a fragment. The full text is probably from the Vijnana Bhairava or Spanda Karika, or a Shaiva stotra. Let&#x27;s identify the full verse.
+    Could it be:
+    `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`
+    `yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau` ?
+    Yes! &quot;Yaṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ / yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau&quot;
+    This perfectly matches the reference: &quot;WE PRAISE THAT SANKARA WHO IS THE SOURCE OF THE POWER OF THE WHEEL OF ENERGIES BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING.&quot;
+
+    &quot;unmeṣanimeṣābhyāṃ&quot; -&gt; EXPANSION (UNMESA) AND CONTRACTION (NIMESA)
+    &quot;jagataḥ pralayodayau&quot; -&gt; THE UNIVERSE IS ABSORBED AND COMES INTO BEING (dissolution and creation/arising of the world)
+
+    So the reference is a translation of the *full* verse, but the *source provided by the user* is cut off. The user only provided `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ` but their reference translation actually covers the rest of the verse.
+
+    The user&#x27;s request: &quot;Translate consistently with reference. If disagree, flag it.&quot;
+
+    Since the source is *incomplete* compared to the reference, the translation of the source *without* the unmesa/nimesa clause is strictly: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+
+    But the user explicitly says &quot;Translate consistently with reference.&quot; The reference includes a lot more than what is in the source text.
+    Should I translate the source as is, and then flag the discrepancy?
+    Yes, the user&#x27;s instruction is &quot;Translate consistently with reference. If disagree, flag it.&quot;
+    The source is `taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`.
+    The reference is `WEPRAISETHATSANKARAWHOISTHESOURCEOFTHEPOWEROFTHEWHEELOFENERGIESBYWHOSEEXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING.`
+
+    My task is to follow the user&#x27;s instruction perfectly.
+
+    If I translate the source exactly, it is &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+
+    The reference contains a complete sentence that translates a *longer* source. My source is a fragment.
+
+    Let&#x27;s follow the instructions precisely:
+    &quot;Translate consistently with reference.&quot;
+
+    If I translate consistently with the reference, I must translate *the source* as it fits into the reference. The reference maps to the *entire* verse. The source maps to the first line (or half).
+    The user&#x27;s source is a fragment. The reference shows the full text. The user asks me to translate the source. The source lacks the unmesa/nimesa part.
+    &quot;If disagree, flag it.&quot;
+
+    Wait. Is the source given to me exactly what I should translate?
+    Yes. &quot;Source: taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;
+
+    If the user wants me to translate the source, I should translate the source.
+    If I translate the source, the translation is: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+
+    The reference is: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies by whose expansion (unmesa) and contraction (nimesa) the universe is absorbed and comes into being.&quot;
+
+    The difference is obvious. The source text *doesn&#x27;t have* &quot;by whose expansion ... comes into being&quot;.
+
+    Therefore, the reference translation is of a longer text.
+
+    How to respond?
+
+    &quot;Translate consistently with reference. If disagree, flag it.&quot;
+
+    Does my translation of the source disagree with the reference? Yes, because the reference translates a lot of text that is not present in the source.
+
+    I should state the translation of the source text faithfully, then flag the disagreement.
+
+    Translation: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+
+    Flag: The provided Sanskrit source text lacks the clause `yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau` which corresponds to the second half of the reference translation (`BY WHOSE EXPANSION (UNMESA) ANDCONTRACTION (NIMESA) THEUNIVERSEISABSORBEDANDCOMESINTOBEING`). The reference is a translation of the complete verse, while the source is only the first half. The translation of the source text exactly as given does not include the expansion and contraction portion.
+
+    Let&#x27;s write out the response.
+    Source translation: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+    Flag: &quot;The provided reference includes a second clause (`yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau`) which is **not present** in the given source text (`taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`). Therefore, the translation of the given source strictly ends with &#x27;wheel of energies&#x27;, while the reference translates a longer version. This constitutes a disagreement between the scope of the source and the reference.&quot;
+
+    Let&#x27;s review the user&#x27;s exact words: &quot;Translate consistently with reference. If disagree, flag it.&quot;
+
+    The user might want me to translate the source consistently with the reference *treating the reference as the meaning of the source*, OR they are giving me a source and a reference and asking me to do a comparison. &quot;Translate consistently with reference. If disagree, flag it.&quot;
+
+    I will translate the source. &quot;taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ&quot;.
+
+    Step 1: Parse the source.
+    taṃ = him (acc.)
+    śakticakravibhavaprabhavaṃ = source/origin of the power/manifestation of the wheel of energies
+    śaṃkaraṃ = Śaṅkara (acc.)
+    stumaḥ = we praise
+
+    Translation: &quot;We praise that Śaṅkara, who is the source of the power of the wheel of energies.&quot;
+
+    Step 2: Compare with reference.
+    Reference: &quot;WE PRAISE THAT SANKARA WHO IS THE SOURCE OF THE POWER OF THE WHEEL OF ENERGIES BY WHOSE EXPANSION (UNMESA) AND CONTRACTION (NIMESA) THE UNIVERSE IS ABSORBED AND COMES INTO BEING.&quot;
+
+    Step 3: Identify disagreement.
+    The reference contains an additional relative clause describing how his expansion and contraction govern the universe. The source text provided to me does not contain this clause.
+
+    Flag: The source text is incomplete. The reference translates a longer verse. The translation of the given source text is perfectly represented by the first 13 words of the reference (&quot;We praise that Śaṅkara who is the source of the power of the wheel of energies&quot;), but the rest of the reference has no basis in the textual source provided. The strict translation of the source excludes the expansion/contraction clause.
+
+    Let&#x27;s carefully format the output.
+
+    &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+    &quot;Flag: The provided source text [taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ] translates only to the first half of the reference translation. The second half of the reference (&quot;by whose expansion...&quot;) corresponds to a subsequent clause (yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau) which is absent from the source text supplied for translation.&quot;
+
+    Let&#x27;s refine the wording. The instruction is simply to do this. No extra thinking is needed beyond this structure.
+
+    &quot;Translate consistently with reference. If disagree, flag it.&quot;
+
+    Full response.
+    Translation: We praise that Śaṅkara who is the source of the power of the wheel of energies.
+
+    Flag: Disagree. The reference translation includes the clause &quot;by whose expansion (unmesa) and contraction (nimesa) the universe is absorbed and comes into being&quot; which corresponds to a second half of the verse (`yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau`). This clause is entirely absent from the source text provided (`taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ`). The translation of the given source, done faithfully, can only represent the first part of the reference.
+
+    Let&#x27;s make sure the translation part is clean.
+    Translation: &quot;We praise that Śaṅkara who is the source of the power of the wheel of energies.&quot;
+    Flag: &quot;The provided reference translates a longer text, specifically including the line `yadunmeṣanimeṣābhyāṃ jagataḥ pralayodayau` (&#x27;by whose expansion and contraction...&#x27;) which is not present in the source. Therefore, the translation of the source strictly ends at &#x27;wheel of energies&#x27;.&quot;
+
+    That is a very clear and concise way to handle it. It follows the user&#x27;s exact request. It translates the source, then points out the disagreement (the source is missing a clause that the reference translates).</pre></details>
+            </div>
+            </div>
+            <details class="annotator-section">
+                <summary>Scholar annotation</summary>
+                <div class="annotator-form">
+                    <label>Your alternate translation:</label>
+                    <textarea rows="3" placeholder="Enter alternate reading..."></textarea>
+                    <label>Reason code:</label>
+                    <select>
+                        <option value="">Select...</option>
+                        <option value="morphology">Morphology incompatible</option>
+                        <option value="sandhi">Sandhi invalid</option>
+                        <option value="compound">Wrong compound relation</option>
+                        <option value="frame">Frame role incompatible</option>
+                        <option value="tradition">Tradition sense</option>
+                        <option value="unsupported">Unsupported addition</option>
+                        <option value="variant">Acceptable variant</option>
+                        <option value="correct">Correct as is</option>
+                    </select>
+                    <label>Note:</label>
+                    <textarea rows="2" placeholder="Your reasoning..."></textarea>
+                    <button type="button" onclick="alert('This is a static export. Copy this JSON for submission.')">Export annotation → JSON</button>
+                </div>
+            </details>
+        </div>
+        <div class="passage-card" id="spk.1.2">
+            <div class="passage-header">
+                <span class="passage-id">spk.1.2</span>
+                <span class="passage-meta">spandakarika · tantra</span>
+                <span class="confidence-badge" style="background: #ef4444">low</span>
+            </div>
+            <div class="source-text"></div>
+            <div class="terms-found">Tracked terms: <span class="term-list" style="color:#6b7280">None of the 6 tracked terms found</span></div>
+            
+            <div class="agreement-summary" style="border-left: 4px solid #ef4444; padding-left: 12px;">
+                <strong>Confidence: LOW</strong>
+                <span class="conflict-hint">Disagreement detected — review recommended</span>
+                
+            </div>
+            
+            <div class="reference-card">
+                <strong>Published reference (Dyczkowski)</strong>
+                <div class="pass-content">THATINWHICHALLTHISCREATIONISESTABLISHEDANDFROMWHENCE [TARISESISNOWHEREOBSTRUCTEDBECAUSEITISUNCONDITIONEDBY (ITSVERY) NATURE .</div>
+                <div class="contradiction-flag">⚠ Contradicts published reference — priority review</div>
+            </div>
+            <div class="passes-container">
+                
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass A</strong> — Direct translation
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">b0_data</span>
+                    <span class="pass-agreement" style="color:#22c55e">2 agree · 1 conflict</span>
+                </div>
+                <div class="pass-content">Because its nature is unobstructed, there is no destruction anywhere.</div>
+                
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass B</strong> — Term-first translation
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">api</span>
+                    <span class="pass-agreement" style="color:#22c55e">1 agree · 2 conflict</span>
+                </div>
+                <div class="pass-content">Terms found: None
+
+Translation: Because its nature is uncovered, there is no cessation anywhere.</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">We are given a source text: &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot;. The task is: &quot;List any of these terms found in source: prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda. Then translate.&quot;
+
+So first, we need to check if any of those terms appear in the given source. The source is a Sanskrit phrase. Let&#x27;s write it clearly: &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot;. We need to see if any of the listed terms are present. The terms are: prakāśa, vimarśa, svātantrya, ābhāsa, saṃkoca, kañcuka, spanda.
+
+Looking at the source: &quot;tasyānāvṛtarūpatvān&quot; - this is a compound: tasya + anāvṛta + rūpatvāt? Actually &quot;tasyānāvṛtarūpatvān&quot; likely breaks as tasya + anāvṛta + rūpatvāt. &quot;na nirodho&#x27;sti&quot; = na nirodhaḥ asti. &quot;kutracit&quot; = somewhere.
+
+None of the listed terms appear in this phrase. The terms are specific to Kashmiri Shaivism or similar philosophies. The source seems to be from a text, possibly relating to the concept of nirodha (restriction) and anāvṛta (uncovered). So likely none of the terms are present. But we need to list any found. Since none are found, we should indicate that.
+
+Then we translate the source. The translation: &quot;Because of its nature of being uncovered, there is no restriction anywhere.&quot; Or more precisely: &quot;tasyānāvṛtarūpatvāt&quot; = because of its nature of being uncovered (or due to its form of being unobstructed). &quot;na nirodho&#x27;sti&quot; = there is no restriction/cessation. &quot;kutracit&quot; = anywhere/in any place.
+
+So translation: &quot;Because its nature is uncovered, there is no cessation anywhere.&quot; Or &quot;Due to its condition of being unobstructed, there is no restriction anywhere.&quot;
+
+Now, the task says: &quot;List any of these terms found in source: ... Then translate.&quot; So we should first list that none of the terms are found, then provide the translation.
+
+But let&#x27;s double-check: &quot;anāvṛta&quot; is not in the list. &quot;nirodha&quot; is not in the list. So indeed none.
+
+Thus the response should be something like:
+
+Terms found: none.
+
+Translation: [translation].
+
+Alternatively, if there is a possibility that the source might contain a term like &#x27;spanda&#x27; in a different form? No, it doesn&#x27;t.
+
+So I&#x27;ll proceed.</pre></details>
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass C</strong> — Adversarial re-check
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">pass1_pipeline</span>
+                    <span class="pass-agreement" style="color:#22c55e">1 agree · 2 conflict</span>
+                </div>
+                <div class="pass-content">Uncertain: Because its nature is unobstructed, there is no obstruction anywhere.</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">We are given a Sanskrit sentence: &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot;
+
+We have lexical evidence: 
+- anAvfta: [unrecognized] — this is likely &quot;anāvṛta&quot; meaning uncovered, open, not concealed. But the evidence says unrecognized, so we might not use that meaning? However, we are to use the provided evidence, but it says [unrecognized], meaning we don&#x27;t have a definition for it. But we can infer from the context.
+- rUpatva: [unrecognized] — &quot;rūpatva&quot; means form, nature, state, condition.
+- anna: [unrecognized] — &quot;anna&quot; means food, but that doesn&#x27;t fit here. Possibly it&#x27;s part of &quot;anāvṛta&quot; but they listed separately.
+
+The evidence is incomplete. The instruction says: &quot;Use the evidence provided below, but produce a natural English translation.&quot; And &quot;Do not add unsupported content.&quot; But the evidence only says [unrecognized] for three items. So we don&#x27;t have definitions. However, we know the words from common Sanskrit. But we are supposed to rely only on the provided evidence. But the evidence gives no meanings. So we cannot translate? Perhaps we need to infer from the context of the verse? But the instruction says &quot;Use the evidence provided below&quot; and &quot;Do not add unsupported content.&quot; That suggests we should only use what is given. But since it&#x27;s [unrecognized], we cannot assign any meaning. That seems problematic.
+
+Maybe the evidence is incomplete or mis-formatted. Perhaps &quot;anAvfta&quot; is &quot;anāvṛta&quot; meaning unobstructed, uncovered. &quot;rUpatva&quot; is &quot;rūpatva&quot; meaning state or nature. &quot;anna&quot; might be a misprint for &quot;a&quot; or part of &quot;tasyānāvṛta&quot;? The compound is &quot;tasyānāvṛtarūpatvāt&quot; meaning &quot;because of his unobstructed nature&quot; or &quot;because of its open nature&quot;. The sentence: &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot; — &quot;tasyānāvṛtarūpatvāt&quot; (ablative), &quot;na nirodhaḥ&quot; (no obstruction), &quot;asti&quot; (is), &quot;kutracit&quot; (anywhere). So: &quot;Because of its unobstructed nature, there is no obstruction anywhere.&quot;
+
+But we cannot use those meanings because the evidence says [unrecognized]. So we must produce a translation without using those meanings? That seems impossible.
+
+Perhaps the evidence is meant to indicate that these words are not recognized by the system, so we should not translate them? But then we can&#x27;t form a coherent sentence.
+
+Maybe we should only translate the parts that are recognized? But &quot;na nirodho&#x27;sti kutracit&quot; is clear: &quot;na&quot; = not, &quot;nirodha&quot; = obstruction, cessation, &quot;asti&quot; = is, &quot;kutracit&quot; = somewhere, anywhere. So that part can be translated: &quot;there is no obstruction anywhere.&quot; But the first word &quot;tasyānāvṛtarūpatvān&quot; is a single compound. Without meanings for its components, we cannot translate it.
+
+Given the ambiguity, perhaps the intended correct approach is to use general knowledge of Sanskrit despite the evidence saying unrecognized. But the instruction explicitly says &quot;use the evidence provided below&quot; and &quot;do not add unsupported content&quot;. If we add meanings not provided, we would be adding unsupported content.
+
+Maybe the evidence is from a dictionary lookup and [unrecognized] means the system did not find a gloss, but we as translators can still recognize them. The instruction says &quot;You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation.&quot; So we must use the evidence, but if the evidence is incomplete, we might have to state uncertainty. The instruction also says &quot;If uncertain, start with &#x27;Uncertain:&#x27;&quot; but that is in the system prompt? Actually, the system prompt says &quot;If uncertain, start with &#x27;Uncertain:&#x27;&quot; but that&#x27;s in the initial instructions? Look: &quot;You are a Sanskrit translation engine. Output ONLY the English translation. No thinking, no notes, no commentary. If uncertain, start with &#x27;Uncertain:&#x27;&quot; So we are supposed to output only the translation, and if uncertain, start with &quot;Uncertain:&quot;.
+
+Given that the evidence is essentially empty for the key words, we are uncertain. So we should output &quot;Uncertain:&quot; followed by a best guess translation? Or just &quot;Uncertain:&quot; with nothing else? The instruction says &quot;If uncertain, start with &#x27;Uncertain:&#x27;&quot; but doesn&#x27;t say we can&#x27;t provide a translation. Usually, we provide the translation as best we can, prefixed by &quot;Uncertain:&quot;.
+
+In this case, the most natural translation would be: &quot;Because of its unobstructed nature, there is no obstruction anywhere.&quot; But that uses meanings not provided.
+
+Alternatively, we could translate only the recognized part: &quot;There is no obstruction anywhere.&quot; But that omits the cause.
+
+Given the instruction to use the provided evidence, and the evidence only gives [unrecognized] for the compound, we cannot be certain of its meaning. So we should start with &quot;Uncertain:&quot; and provide a translation that acknowledges the uncertainty.
+
+But the user might expect a translation based on common knowledge. The phrase is likely from a philosophical text.
+
+I think the safest is to output &quot;Uncertain: Because of its unobstructed nature, there is no obstruction anywhere.&quot; but that uses meanings not supported.
+
+Maybe we should render it as: &quot;There is no obstruction anywhere due to its nature of being unobstructed.&quot; but still uses unobstructed.
+
+Perhaps we can use the unrecognized status to say that the first part is unclear, so we only translate the rest: &quot;Uncertain: There is no obstruction anywhere.&quot; But that might be too minimal.
+
+We have the lexical evidence: anAvfta: [unrecognized], rUpatva: [unrecognized], anna: [unrecognized]. &quot;anna&quot; is not even in the sentence? &quot;tasyānāvṛtarūpatvān&quot; could be analyzed as &quot;tasya anāvṛta rūpatva at&quot; (tasya = his/of that, anāvṛta = unobstructed, rūpatva = nature, at = ablative). &quot;anna&quot; might be a misreading of &quot;anāvṛta&quot;? Or perhaps &quot;anna&quot; is a separate word? In the sentence, the words are &quot;tasyānāvṛtarūpatvān&quot; which is one compound. So &quot;anna&quot; is not a separate word. So the evidence listing &quot;anna&quot; might be erroneous.
+
+Given the confusion, I think the best approach is to output &quot;Uncertain:&quot; and then a translation that uses the likely meanings but acknowledge uncertainty.
+
+The instruction says &quot;Output ONLY the English translation. No thinking, no notes, no commentary.&quot; So if we output &quot;Uncertain: ...&quot; that includes commentary, but it&#x27;s allowed by the &quot;If uncertain&quot; clause.
+
+I&#x27;ll output: &quot;Uncertain: Because its nature is unobstructed, there is no obstruction anywhere.&quot;
+
+But to strictly adhere to evidence, we shouldn&#x27;t use &quot;unobstructed&quot; since it&#x27;s unrecognized. So maybe &quot;Uncertain: because of its [unrecognized] nature, there is no obstruction anywhere.&quot; But that inserts [unrecognized] which is not English.
+
+Maybe we should just say &quot;Uncertain: No translation possible with given evidence.&quot; But the instruction says to produce a natural English translation.
+
+I think the intent is for us to use our knowledge, and the evidence is just supplementary. The fact that it says [unrecognized] might be a bug. So I&#x27;ll translate it normally.
+
+Given the system prompt from earlier: &quot;You are a Sanskrit translation engine. Output ONLY the English translation. No thinking, no notes, no commentary. If uncertain, start with &#x27;Uncertain:&#x27;&quot; So if I am uncertain because of the evidence, I should start with &#x27;Uncertain:&#x27;.
+
+I am uncertain because the evidence does not support the meanings. So I&#x27;ll start with &#x27;Uncertain:&#x27; and then provide the translation I think is correct.
+
+I&#x27;ll write: &quot;Uncertain: Because its nature is unobstructed, there is no obstruction anywhere.&quot;
+
+I think that&#x27;s fine.</pre></details>
+            </div>
+            <div class="pass-card ">
+                <div class="pass-header">
+                    <strong>Pass D</strong> — Grounded in secondary lit
+                    <span class="pass-status" style="color:#22c55e">✓</span>
+                    <span class="pass-source">api</span>
+                    <span class="pass-agreement" style="color:#22c55e">0 agree · 3 conflict</span>
+                </div>
+                <div class="pass-content">That in which all this creation is established and from whence it arises is nowhere obstructed because it is unconditioned by its very nature.</div>
+                <details><summary>Reasoning trace</summary><pre class="reasoning">We are given a Sanskrit phrase: &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot; and a reference translation: &quot;THAT IN WHICH ALL THIS CREATION IS ESTABLISHED AND FROM WHENCE IT ARISES IS NOWHERE OBSTRUCTED BECAUSE IT IS UNCONDITIONED BY (ITS VERY) NATURE.&quot; The task is to translate consistently with the reference. If I disagree, I should flag it.
+
+First, let&#x27;s break down the Sanskrit.
+
+&quot;tasyānāvṛtarūpatvān&quot; – This seems to be a compound: tasya + anāvṛta + rūpa + tvāt (or tasyānāvṛta-rūpatvāt). &quot;Tasya&quot; means &quot;of that&quot; (genitive of tad). &quot;Anāvṛta&quot; means &quot;uncovered, unobstructed, open&quot;. &quot;Rūpa&quot; means &quot;form, nature&quot;. &quot;Tvāt&quot; is ablative suffix meaning &quot;because of, from&quot;. So &quot;tasyānāvṛtarūpatvāt&quot; could mean &quot;because of its nature of being unobstructed&quot; or &quot;because its form is unobstructed&quot;.
+
+&quot;na nirodho&#x27;sti&quot; – &quot;na&quot; means &quot;not&quot;, &quot;nirodha&quot; means &quot;obstruction, cessation, restraint&quot;, &quot;asti&quot; means &quot;is&quot;. So &quot;there is no obstruction&quot;.
+
+&quot;kutracit&quot; – &quot;kutra&quot; means &quot;where&quot;, &quot;cit&quot; is an enclitic meaning &quot;some, any&quot;. So &quot;anywhere&quot; or &quot;in some place&quot;.
+
+So the phrase translates literally: &quot;Because of its nature of being unobstructed, there is no obstruction anywhere.&quot;
+
+Now the reference translation: &quot;THAT IN WHICH ALL THIS CREATION IS ESTABLISHED AND FROM WHENCE IT ARISES IS NOWHERE OBSTRUCTED BECAUSE IT IS UNCONDITIONED BY (ITS VERY) NATURE.&quot;
+
+The reference seems to be a more elaborate interpretation, possibly from a commentary. It adds &quot;THAT IN WHICH ALL THIS CREATION IS ESTABLISHED AND FROM WHENCE IT ARISES&quot; which is not directly in the Sanskrit phrase. The Sanskrit phrase only says &quot;tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit&quot;. The &quot;tasya&quot; (of that) refers to something earlier, so the translation is consistent if we supply the antecedent. The reference also translates &quot;anāvṛtarūpatvāt&quot; as &quot;because it is unconditioned by (its very) nature&quot; which is a bit different from &quot;unobstructed&quot;. &quot;Anāvṛta&quot; can mean &quot;unconditioned&quot; in Advaita Vedanta context, but more literally it is &quot;uncovered, unobstructed&quot;. Also &quot;rūpatvāt&quot; is &quot;because of the nature&quot;, so &quot;because its nature is unconditioned/unobstructed&quot;.
+
+The reference translation says &quot;IS NOWHERE OBSTRUCTED&quot; for &quot;na nirodho&#x27;sti kutracit&quot; which is fine.
+
+Overall, the reference translation is consistent with the Sanskrit if we take the context into account, but it is more paraphrastic. As the instruction says &quot;Translate consistently with reference. If disagree, flag it.&quot; I am to produce a translation that matches the style and content of the reference. So I should not deviate. However, the reference is in all caps and somewhat archaic. I should produce a translation that is consistent.
+
+Perhaps I should just output the reference translation as given? But the instruction says &quot;Translate consistently with reference.&quot; It might mean I need to provide my own translation that is consistent with the reference. But to be safe, I&#x27;ll produce a translation that mirrors the reference.
+
+But note: The user message says: &quot;Source: tasyānāvṛtarūpatvān na nirodho&#x27;sti kutracit Reference: THATINWHICHALLTHISCREATIONISESTABLISHEDANDFROMWHENCE [TARISESISNOWHEREOBSTRUCTEDBECAUSEITISUNCONDITIONEDBY (ITSVERY) NATURE . Translate consistently with reference. If disagree, flag it.&quot;
+
+So I am to translate the source consistently with the reference. The reference is given, so I should produce a translation that aligns with it. Since the reference is clearly a translation of the source (though perhaps from a different context), I can just restate it in a more readable form? But the reference is in all caps and has some bracketed word &quot;[TARISES&quot; which might be a typo for &quot;IT ARISES&quot;. Actually it says &quot;FROMWHENCE [TARISES&quot; – probably meant &quot;FROM WHENCE IT ARISES&quot;. So the full reference is: &quot;THAT IN WHICH ALL THIS CREATION IS ESTABLISHED AND FROM WHENCE IT ARISES IS NOWHERE OBSTRUCTED BECAUSE IT IS UNCONDITIONED BY (ITS VERY) NATURE.&quot;
+
+I think the task is to translate the Sanskrit phrase in a way that is consistent with that reference. So I should produce a similar translation, perhaps with proper capitalization and spacing.
+
+Alternatively, if I disagree, I should flag it. I don&#x27;t disagree fundamentally, but I might note that the reference adds extra context. However, since the instruction says &quot;Translate consistently with reference&quot;, I should follow the reference.
+
+Given the source is a short phrase, the reference is a full sentence. So my translation should also be a full sentence incorporating the same ideas.
+
+I think the simplest is to output the reference translation as is, but with proper formatting. But perhaps I need to produce my own translation that is consistent.
+
+I&#x27;ll do: &quot;That in which all this creation is established and from whence it arises is nowhere obstructed because it is unconditioned by (its very) nature.&quot;
+
+But to be consistent with the reference&#x27;s all caps? No need, I can use normal case.
+
+Also, the reference has &quot;UNCONDITIONED BY (ITSVERY) NATURE&quot; – likely &quot;UNCONDITIONED BY (ITS VERY) NATURE&quot;.
+
+I&#x27;ll produce a clean version.
+
+Thus my translation: &quot;That in which all this creation is established and from whence it arises is nowhere obstructed because it is unconditioned by its very nature.&quot;
+
+But to be precise, the reference says &quot;THATINWHICHALLTHISCREATIONISESTABLISHEDANDFROMWHENCE [TARISESISNOWHEREOBSTRUCTEDBECAUSEITISUNCONDITIONEDBY (ITSVERY) NATURE&quot; – note the brackets. Probably it&#x27;s a formatted version. I&#x27;ll just use normal English.
+
+Since I don&#x27;t disagree, I won&#x27;t flag it.
+
+I&#x27;ll provide the translation.</pre></details>
+            </div>
+            </div>
+            <details class="annotator-section">
+                <summary>Scholar annotation</summary>
+                <div class="annotator-form">
+                    <label>Your alternate translation:</label>
+                    <textarea rows="3" placeholder="Enter alternate reading..."></textarea>
+                    <label>Reason code:</label>
+                    <select>
+                        <option value="">Select...</option>
+                        <option value="morphology">Morphology incompatible</option>
+                        <option value="sandhi">Sandhi invalid</option>
+                        <option value="compound">Wrong compound relation</option>
+                        <option value="frame">Frame role incompatible</option>
+                        <option value="tradition">Tradition sense</option>
+                        <option value="unsupported">Unsupported addition</option>
+                        <option value="variant">Acceptable variant</option>
+                        <option value="correct">Correct as is</option>
+                    </select>
+                    <label>Note:</label>
+                    <textarea rows="2" placeholder="Your reasoning..."></textarea>
+                    <button type="button" onclick="alert('This is a static export. Copy this JSON for submission.')">Export annotation → JSON</button>
+                </div>
+            </details>
+        </div>
+    <div style="text-align:center;color:#94a3b8;font-size:0.8rem;padding:24px;">
+        Generated by sanskritree/scripts/generate_translation_report.py
+    </div>
+</div>
+</body>
+</html>

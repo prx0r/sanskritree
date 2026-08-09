@@ -1,0 +1,19 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: १५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या परा कला ।। ३४ ।।
+
+LEXICAL EVIDENCE:
+  as: to be
+  ca: and
+  sA: [unrecognized: sA]
+  kal: [unrecognized: kal]
+  saMsf: [unrecognized: saMsf]
+  vft: [unrecognized: vft]
+  tasmAt: [unrecognized: tasmAt]
+  taraMgiRI: [unrecognized: taraMgiRI]
+  parA: [unrecognized: parA]
+  kal: [unrecognized: kal]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

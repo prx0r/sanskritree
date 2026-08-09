@@ -1,0 +1,903 @@
+gnosis: journal of gnostic studies � (�0�6) �77–�95
+brill.com/gnos
+
+Demon est Deus Inversus:
+Honoring the Daemonic in Iamblichean Theurgy
+Gregory Shaw
+Stonehill College
+gshaw@stonehill.edu
+
+Abstract
+Iamblichus’s doctrine that the immortal soul becomes mortal is puzzling for Platonic
+scholars. According to Iamblichus, the embodied soul not only becomes mortal; as
+human, it also becomes “alienated” (allotriōthen) from divinity. Iamblichus maintains
+that the alienation and mortality of the soul are effected by daemons that channel the
+soul’s universal and immortal identity into a singular and mortal self. Yet, while daemons alienate the soul from divinity they also outline the path to recover it. Iamblichus
+maintains that daemons unfold the will of the Demiurge into material manifestation
+and thus reveal its divine signatures (sunthēmata) in nature. According to Iamblichus’s
+theurgical itinerary, the human soul—materialized, alienated, and mortal—must
+learn to embrace its alienated and mortal condition as a form of demiurgic activity. By
+ritually entering this demiurgy the soul transforms its alienation and mortality into
+theurgy. The embodied soul becomes an icon of divinity.
+
+Keywords
+theurgy – daemons – alienation – embodiment – Titans
+
+The later Platonists were “mystical existentialists.” They recognized the value
+of embodied life and believed that only mortal existence allowed human souls
+to experience immortality. In my scholarship I have tried to make sense of
+this seemingly impossible vision. It may have been wiser to study the social or
+historical aspects of the Neoplatonists, but I have been drawn to this kōan at
+
+© koninklijke brill nv, leiden, ���6 | doi �0.��63/�45�859X-��3400�0
+
+178
+
+shaw
+
+the heart of their metaphysics and believe it is the key to understanding their
+existential experience.1
+I would like to begin, then, by inviting us to consider a living example of this
+kōan with an entirely mundane experience: sitting at a dinner table where one
+individual seems bent on gobbling up all the attention, hijacking every story,
+and filling every moment with yet another self-absorbed tale. We might ask
+what a fourth century Platonic philosopher could say about such a maddening situation; as it turns out, quite a bit. In the vision of Iamblichus, the entire
+cosmos is a theophany, a revelation of divine activity. But when a self-absorbed
+dinner guest is holding forth it may be hard to see him or her as a revelation
+of the divine. I wish to explore this iteration of the kōan of later Neoplatonism
+and see how Iamblichus’s “mystical existentialism” might help us recognize the
+divinity revealed in self-absorbed dinner guests, even when that guest is us.
+
+The Cosmos as Theophany
+The imaginative frame for all forms of Platonism is outlined in the Timaeus
+of Plato. This Pythagorean description of the generation of the cosmos and
+its harmonious structure forms the basis for all Platonic metaphysics and psychology. The Timaeus describes the cosmos as the manifestation of a divine
+impulse, the generosity of the Demiurge that pervades all aspects of existence.2
+The structure of this cosmos is mathematical and exhibits arithmetic and geometric ratios revealed in the heavens and the rhythms of nature.
+The Platonic cosmos is a living and breathing Intelligence. It is, as Plato
+calls it, a “blessed god.”3 It is also a great temple, an “agalma of the everlasting
+gods”4 through which the generosity of the Demiurge is revealed. Human souls
+are woven into this temple, with each soul designed to be a participant in its harmony and generosity. We exhibit the same mathematic ratios as are present in
+the World Soul and, it was believed, through a philosophic life and visionary initiation, we can embody the generosity of the Demiurge even in our mortal lives.
+But it was not quite so easy. Plato also explains that human souls undergo
+a radical trauma in embodiment. The divine ratios we share with the cosmos
+and the heavens are disturbed by the flood of sensations at birth. Our original geometry and harmony is lost and embodied souls become fundamentally
+1 In the Zen tradition a kōan is a paradox that cannot be solved by reason. It is designed to lead
+students to an intuitive awareness beyond discursive thought.
+2 Plato, Tim. 29e.
+3 Plato, Tim. 34b.
+4 Plato, Tim. 37c6.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+179
+
+disoriented, a condition that Plato portrays with the image of an upside-down
+man.5 The embodied soul becomes anatropē, turned inside out and upside
+down, fundamentally disoriented.6
+Ralph Waldo Emerson, with a profound grasp of this Platonic vision, says
+simply: “Man is a god in ruins.”7 The ruins may appear to us in the form of selfabsorbed dinner guests, or—more painfully—this desperate self-absorption
+may be seen in oneself. Man is a god in ruins, so it was not easy for Platonists to
+reorient themselves, to recover their original harmony and cosmic generosity.
+We work in ruins. We are ruins.
+Yet there is light in this somber vision. Again, according to Plato’s creation
+story, our existence is rooted in the generosity of the Demiurge. He is imagined as a Divine Mind that orchestrates the powers of the One into a cosmos.
+His rhythmic weaving of the Forms and Matter in cosmogenesis is analogous,
+Iamblichus says, to the weaving of the Monad and Dyad in numbers.8 Thus, the
+numerical ratios, the logoi that the Demiurge uses to bring the world and our
+souls into existence, are rooted in the arithmogonic powers of the One.
+In this unfolding, the World Soul and individual souls play a crucial role. In
+mathematical terms Platonists understand that the soul is a living expression
+of demiurgic weaving. The soul is defined as the mathematical mean that connects the opposing threads of Monad and Dyad, spirit and matter. So, beneath
+the apparent dualism of the Forms and Matter is a living continuity initiated
+by the Demiurge and completed by souls in their role as mediators. According
+to Iamblichus the soul is “the mean (meson) between divisible and indivisible,
+corporeal and incorporeal beings; it is the totality (plēroma) of universal ratios
+(logoi), which, after the Forms, serve the work of creation; it is the Life that
+proceeds from the Divine Mind (nous), has life itself and is the procession of
+classes of Real Being as a whole to an inferior status.”9
+Following the Timaeus, Iamblichus maintains that the human soul, like
+the World Soul, is a mean between extremes. It contains divinely numbered
+5 Plato, Tim. 43b–e.
+6 Plato, Tim. 43b–e. The image of the embodied soul as upside-down is also expressed in
+Tim. 90b where the soul is compared to an inverted tree with its roots in heaven. Further,
+Plato characterizes our inversion as sustained by the way we think, conceptually rather
+than noetically (see Tim.90c–d). The soul is enjoined to align its thinking with the “divine
+principle in us” seen in the revolutions of the cosmos. On the anatropē of the Platonic soul
+see Bebek 1992, 194.
+7 Emerson 2000, 36.
+8 Iamblichus, In Nic., 78.22–28 (Pistelli 1994).
+9 Iamblichus, De Anima 30.19–23 (Finamore and Dillon 2002). Translation modified. This
+teaching, Iamblichus said, was shared by “Plato, Pythagoras, Aristotle, and all of the Ancients”
+(Finamore and Dillon 2002, 30.24–27).
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+180
+
+shaw
+
+proportions (logoi) and, with the Demiurge, projects these logoi outside itself
+as it becomes embodied.10 The soul sews itself into the fabric of the material world, yet its collaboration with the Demiurge comes at a cost. Although
+immortal, the soul becomes mortal and is exiled from the circle of the gods.
+Iamblichus presents this in stark terms:
+The soul is a mean not only between the undivided and the divided, the
+remaining and the proceeding, the noetic and the irrational, but also
+between the uncreated and the created . . . Thus, that which is immortal
+in the soul is filled completely with mortality and no longer remains only
+immortal.11
+
+Plotinian and Iamblichean Metaphysics
+This description of the soul may sound unfamiliar because we have long
+understood Neoplatonism according to the Enneads of Plotinus, not according to Iamblichus and the theurgical Platonists. It may be useful, then, to
+explain their differences. In almost all respects Iamblichus follows Plotinus’s
+metaphysics: all things are rooted in an inexhaustible source that continually overflows, divides, and reveals itself in the phenomenal world with each
+creation mysteriously reflecting and revealing the hidden source. We exist in
+this continual emanation and bear its traces, but Plotinus and Iamblichus disagree on how the soul participates in this activity. For Plotinus, the soul never
+fully descends into a body.12 As he puts it “there is always something of the
+soul that remains in the spiritual world.”13 The Plotinian soul does not become
+embodied; it merely illuminates a body.14 We remain above, he says, with “our
+heads in heaven” and look down at our body-self as an “inferior companion.”15
+
+10
+
+11
+12
+13
+14
+15
+
+As the soul descends, Iamblichus says it acquires appropriate bodies from the surrounding
+universe and creates proper organic forms in accordance with its logoi. See Simplicius,
+Commentary on Aristotle’s Categories 374.36–375.1 (Gaskin 2000, 110–111).
+Simplicius, De Anima 89.33–37,90.21–23 (Hayduck).
+Plotinus’s view of the embodied soul is similar to Christian Docetism, the belief that
+Christ did not fully descend into human flesh but only “appeared” to be in a body.
+Plotinus, Enn. IV.8.8.2–4 (Armstrong). Plotinus acknowledges that his view contradicts
+the Platonic tradition and later Platonists did not adopt his position.
+Plotinus, Enn. I.1.12.25–29.
+Plotinus, Enn. IV.3.12; see also Enn. I.2.6.28.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+181
+
+Embodiment for Plotinus was almost an embarrassment. As Porphyry put it:
+“Plotinus, the philosopher, seemed ashamed to be in a body.”16
+Iamblichus’s vision of the soul is radically different. He believes that to
+fulfill its role as cosmogonic mean, the soul must descend to animate a body
+even if this causes us to become mortal, “self-alienated,” and estranged from
+divinity.17 Individual souls, Iamblichus says, “are confined to a single form
+and are parceled out among bodies.”18 Plotinus and Iamblichus also differ on
+another metaphysical issue that is intrinsically related, the status of matter.
+Although Plotinus says that sensible matter is the last emanation of the One,19
+he nevertheless describes it as “primal and absolute evil” and encourages souls
+to escape from matter and withdraw to their unfallen essence.20 Iamblichus
+acknowledges that our material embodiment is the context for the soul’s alienation, but he believes this experience is essential, not only to the soul’s creative
+mediating function, but to its deification as well. Matter, for Iamblichus, cannot be evil. It is the expression of the Divine Dyad. It reveals the powers of
+the One and facilitates the work of the Demiurge in creation. As recipient and
+revealer of divine logoi, matter is entirely good.21
+The differences between Plotinus and Iamblichus on the descent of the soul
+and the status of matter establish two trajectories in Platonism. Following the
+Plotinian trajectory, since matter is evil, the soul’s embodiment is a problem to
+be overcome by contemplative withdrawal from the world. As Plotinus put it,
+“we must close our eyes” to sensate reality and call upon “another vision;” we
+must escape from our bodies and return to our unfallen essence.22 Although
+
+16
+
+17
+
+18
+
+19
+20
+21
+
+22
+
+Porphyry, Vit. Plot. 1 [Armstrong]. aischunomenō hoti en sōmati eiē; I should emphasize
+that this was Porphyry’s assessment for nowhere does Plotinus express this sentiment
+explicitly.
+Simplicius, In de An. 223.26 (Hayduck), allotriōthen; he also says that according to
+Iamblichus the embodied soul is also “made other to itself”, heteroiousthai pros heautēn”
+223.31 (Hayduck).
+Iamblichus, De Anima, 44.25–25 (Finamore and Dillon]). Cf. De Myst. 148.12–14, translated
+by E. Clarke, J. Dillon, and J. Hershbell 2003; references will follow the Parthey; all my
+translations of are based on Clarke, Dillon and Hershbell.
+Plotinus, Enn. V.8.7.3.
+Plotinus, Enn. I.8.3.38–40.
+Iamblichus, Comm. Math., 15.6–14 (Festa), speaks of the “principle of the Many” (archē tou
+plethous) which allows the One to acquire “being” and says it is like “a completely fluid
+and pliant matter” (hugra tini pantapasi eupladei hulē).
+Plotinus, Enn. I.6.8.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+182
+
+shaw
+
+he opposed Gnostics for their dualism and disparagement of the cosmos,
+dualism remains evident in Plotinus, and since his Enneads helped shape
+Christian spirituality through the Augustinian tradition, this dualism influenced Christianity as well. Christian theologians today who criticize the denial
+of the body and matter as “anti-incarnational” blame this on Platonic dualism.
+Yet the leading teachers of the Platonic school from the third to the sixth centuries ce: Iamblichus, Syrianus, Proclus, and Damascius, all rejected Plotinus’s
+doctrines of an unfallen soul and the evilness of matter precisely because they
+were dualist and not Platonic.23
+The French scholar of Neoplatonism, Jean Trouillard, captures the essential
+difference in these two Platonic trajectories. Plotinus, he says, “returns to the
+One through a severe negation . . . He goes to divinity by night.”24 Iamblichus
+and the theurgical Platonists return by day. The physical world and the body
+are affirmed. They become transfigured into symbols that reveal the One.
+Iamblichus maintained that in theurgic rites material objects can be perceived as activities of the One. Plotinus himself had described this kind of
+seeing as possessing the “eyes of Lynceus,” the Argonaut who saw treasures
+beneath the earth,25 yet it was Iamblichus who used these eyes to develop his
+theurgic school. The soul no longer must escape from matter to unite with the
+One because the One is the material cosmos and is present, Iamblichus says,
+even in “stones, plants, animals, and human beings.”26 The objects that were
+23
+
+24
+25
+26
+
+While Plotinus’s doctrine of matter as evil remains a topic of significant scholarly debate,
+the fact is that Iamblichus, Proclus, and the later Platonists disagreed with Plotinus. For
+Plotinus the value of the cosmos is diminished in proportion to its degree of sensible
+expression. This is not the case for the theurgical Platonists. Proclus dedicated much of
+his treatise On the Existence of Evils to the refutation of Plotinus’s position on matter. As
+he argues, if matter is evil it becomes an “alternative principle of beings, dissident from
+the cause of good things, and there will be ‘two sources releasing their flow in opposite
+directions,’ one the source of good things, the other of evil things” (Opsomer and Steel
+2003, 84). For Iamblichus and Proclus matter is necessary for the universe; it is produced
+by the Good, and the Good cannot produce anything evil. “If, then, matter offers itself to
+be used in the fabrication of the whole world, and has been produced for the sake of being
+‘the receptacle of generation and, as it were, a wet-nurse’ and ‘mother’ (Tim. 49a–50d),
+how can it be said to be evil, and even the primary evil?” (Opsomer and Steel, 81). I would
+suggest the dualism in Christianity is more likely rooted in its apocalyptic origins and
+belief in “two aeons.” The dualist misreading of Plato and the literalizing of Plotinus’s
+metaphors fit well with Christianity’s dualist/apocalyptic origins.
+Trouillard 1965, 23–25.
+Plotinus, Enn. V.8.4.25–27.
+Iamblichus, De Myst. 233.9–13. It should be noted that in many respects the Iamblichean
+trajectory of Platonism was simply the extension of Plotinus’s own thinking. Plotinus,
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+183
+
+obstacles for Plotinus become icons that unite theurgists with divine activity.
+In the Iamblichean trajectory, the soul descends into a body and a world animated by the World Soul. Yet in its mediation of divine logoi the soul loses its
+global identity, and it becomes identified with a single mortal body. To deny
+this, as the doctrine of the undescended soul seems to do, would deny to the
+soul its demiurgic function.
+Thus, for Iamblichus, our dividedness, mortality, and even our selfalienation are not errors to be erased by spiritual insight. They are expressions
+of the One itself orchestrated by the Demiurge and effected through souls. In
+the Iamblichean trajectory of Platonism, mortality and self-alienation constitute the soul’s very essence as human—which leads us back to Iamblichus’s
+kōan: our immortality is realized precisely by becoming mortal.
+
+Theurgy, Demiurgy and Daemons
+The trajectory of Iamblichean Neoplatonism is as much downward as upward.
+It does not try to escape from the body and material reality. Its goal, rather,
+is to bring divinities into the world through souls. As Iamblichus put it, “the
+purpose of the souls’ descent is to reveal the divine life, for the will of the gods
+is to reveal themselves (ekphainesthai) through human souls.”27 The goal of
+theurgy is “to establish the soul in the demiurgic god completely,”28 which is to
+enter into the divine activity that continually creates the cosmos. The theurgist
+invites the Demiurge to take its seat in the soul. In Christian terms, it is to transform embodiment into Incarnation. It is not surprising, therefore, that Radical
+Orthodoxy’s leading theologian, John Milbank, understands the significance
+of the Christian Incarnation through the lens of theurgical Neoplatonism.
+Iamblichus’s emphasis on the penetration of the One throughout all material
+
+27
+
+28
+
+Enn. IV.4.35.68–70, also spoke of the presence of divinity in the “nature of stones and
+herbs with wondrous results”. Iamblichus was simply following Plotinus’ lead and theurgy
+could be seen as extension of this trajectory of Plotinus’s Platonism. However, in his effort
+to explain the problems of the soul Plotinus seems to have adopted the dualist language
+he disparaged in the Gnostics.
+Iamblichus, De Anima 54.20–26 is citing with approval the view of Calvenus Taurus, a
+2nd century Platonist, on the purpose for the soul’s descent into a body. The rest of the
+quotation includes the following: “For gods come forth into bodily appearance and reveal
+themselves in the pure and faultless lives of human souls.” The translation of this passage is
+my own but I have consulted the translations by Finamore and Dillon 2002, as well as that
+by Dillon 1977, 245.
+Iamblichus, De Myst. 292.1213.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+184
+
+shaw
+
+existence provides the metaphysical framework Milbank needs to support a
+more profound and expansive understanding of the Incarnation.29 The crucial difference with Iamblichean theurgy, however, is that the Incarnation for
+Christians is a unique historical event, the singular paradox of Christ being
+“truly god and truly man.” But for Platonic theurgists this paradox is universal,
+applicable to every human soul and fully realized, Iamblichus says, when the
+theurgist “takes the shape of the gods” while remaining human and mortal.30
+Because Iamblichus is fully invested in embodied reality he gives a
+detailed account of how the soul recovers its continuity with the Demiurge.
+Consequently, he emphasizes the role of the ochēma, the astral body that serves
+as the vehicle that mediates our immortal and mortal identities. Significantly,
+Plotinus does not discuss the ochēma.31 Why explore a vehicle that connects
+soul to body if the soul never truly enters a body? Since Iamblichus’s Platonism
+was non-dual he maintained that a unified continuity extended from the One
+to the furthest reaches of matter. Because he was compelled to explain how the
+One proceeds into and returns from materiality he developed the triadic metaphysics of remaining, procession and return (monē, prohodos and epistrophē)
+that was adopted by later Platonists to understand all levels of reality.32
+Iamblichus also focused on intermediary beings, daemons and heroes that
+provide continuity between souls and gods.33 Daemons have the specific function of unfolding divine logoi into material manifestation, not only in nature
+but also in souls. Plato had described daemons as entities that connect humans
+to gods through the arts of divination;34 for Iamblichus they play an essential
+role in creation, including the embodiment of souls. He explains:
+29
+30
+31
+
+32
+
+33
+
+34
+
+Milbank and Riches, 2014, v–xvii. See also Milbank 2009, 45–86.
+Iamblichus, De Myst., 184.1–8.
+Dillon 2013a, 487: “It is the purpose of this essay to enquire as to why, given that Plotinus
+was acquainted with the theory [of the soul’s ochēma], he is not inclined to make any use
+of it.”
+Dodds 1963, xix–xx: “Not only can we trace to him [Iamblichus] many individual
+doctrines which have an important place in the later system, but the dialectical principles
+which throughout control its architecture, the law of means terms, the triadic scheme
+of monē, prohodos and epistrophē, and the mirroring at successive levels of identical
+structures . . . appear to have received at his hands their first systematic application”;
+cf. Iamblichus, In Tim. Frag. 53, 331 (Dillon 1973).
+I note the fortuitous discovery of two fine papers while writing this essay, Layne 2015
+and Butler 2014, 23–44. Both authors write with a fine sense of the non-dualism of the
+later Platonists. Layne in particular effortlessly weaves together the arithmogonic and
+mythological imagery that shaped later Platonic discourse.
+Plato, Symp. 202e3–203a4.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+185
+
+Daemons are the generative and creative powers of the gods in the furthest extremity of their emanations and in its last stages of division. . . .
+Daemons finish and complete encosmic natures and exercise oversight
+on each thing that comes into existence. . . . They oversee nature and are
+the bond that unites souls to bodies.35
+In terms of the metaphysics of prohodos and epistrophē, daemons exemplify prohodos; they reveal the divine procession into the corporeal world. As
+Iamblichus puts it:
+Daemons bring into manifest activity the invisible good of the Gods . . .
+reveal what is ineffable in them, give form to what is formless, and render
+what is beyond all measure into visible ratios.36
+“Daemons,” Iamblichus says, “lead souls down into nature.”37
+Yet, despite being the agents of division and embodiment, daemons themselves are not subject to division. They are, Iamblichus says, “multiplied in
+unity” and thus remain rooted in the gods.38 Daemons effect corporealization
+yet remain incorporeal. It is souls who become corporeal and souls who can
+become heroic by transforming their embodiment into fully realized theophanies. Heroic souls for Iamblichus exemplify epistrophē. They recover their
+divinity and return to the gods. And here we may begin to unravel the kōan of
+the later Platonists, for souls become heroic and transform embodiment into
+theophany precisely by cooperating with daemons. Theurgists do not escape
+the body but invite gods to descend into their bodies. They become organs of
+divinity, allowing gods to see through mortal eyes.39
+This reception of the god makes souls into sunthēmata, symbols of the
+divine.40 They become what the later Platonists called heroes whose epistrophē
+35
+36
+37
+38
+39
+
+40
+
+Iamblichus, De Myst. 67.1–68.2.
+Iamblichus, De Myst. 16.17–17.4.
+Iamblichus, De Myst. 79.9–10.
+Iamblichus, De Myst. 19.9–10.
+Iamblichus, De Myst. 115.4–5: “the god uses our bodies as its organs.” Cf. Iamblichus,
+De Myst. 82.1, where he says that when the soul is possessed the noetic light, it “reveals the
+incorporeal as corporeal to the eyes of the soul by means of the eyes of the body.”
+Butler 2014, 37, puts it this way: “The entire body of the hero, in returning this way, has
+become a sign and heroes return because they have become signs: the sēma (sign) is the
+hero’s body (sōma).” He then notes (37), the play on sēma as the tomb/body of the hero
+which becomes a pilgrimage site: “The sēma or tomb stands as the sign of this process in
+which the mortal has been metabolized into a fossil, a crystal in which a mortal’s unique
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+186
+
+shaw
+
+is achieved through their reception of prohodos. Theurgists ascend by descending. They remain human yet take the shape of the gods. In a dualist orientation
+taking the shape of the gods would be considered a release from the human
+condition, but in Iamblichus’s Platonism remaining human and mortal is
+precisely how we take the shape of the gods, and this, I would argue, is what it
+meant to be a theurgist—a mortal human being through whom the god acts—
+a mortal god.
+To achieve this state and experience the simultaneity of prohodos and
+epistrophē theurgists had to honor daemons as centrifugal agents of the
+Demiurge. Yet these same daemons bind souls to bodies. They effect our
+anatropē, our isolated sense of singularity and alienation from the divine. In
+his Commentary on the Timaeus, Iamblichus outlines the metaphysical framework of dividing and uniting, descending and ascending, a framework that
+produces the cosmos and was realized by theurgists.41
+After commenting on the creation of souls in the “mixing bowl” (Tim. 41d),
+Iamblichus explains how souls enter their first vehicle (ochēma):42 a universal
+etheric body that shares in creation, including the soul’s animation of a body.43
+To animate a body the soul receives “numerous pegs” (puknoi gomphoi) that
+bind it to a single physical body (Tim. 43a4). Significantly, Iamblichus equates
+these “pegs” with the “reason principles of nature” (hoi phusikoi logoi), for being
+bound to the body with “pegs” is an accurate description of what happens to
+the soul in its bestowal of divine logoi into the world.44
+
+41
+
+42
+43
+44
+
+characteristics and the unrepeatable incidents of a mortal’s life become pure return.”
+Layne (2) and Butler (30; f.n. 29) both explain that heroes are manifestations of our erōs
+for divinity. They cite Proclus’s etymology of hērōs from erōs. Thus, the soul’s epistrophē to
+the One, which is driven by erōs, makes the soul into a hero. As Proclus, In Cratyl. 71.8–10,
+puts it: “It is reasonable that heroes should be named after Eros, inasmuch as Eros is a
+‘great daemon’ and the heroes are engendered through the cooperation of daemons;”
+Duvick 2007, 69–70.
+The principle for this procession and return is described in arithmetic terms in In Tim.
+Frag. 53, Dillon 160–161; 331–334. Among noetic realities the dividing and uniting of
+procession and return occurs simultaneously and without disturbance, a condition that
+Iamblichus describes as allēlouchia, “indivisible mutuality” (In Nicomachi Arithmeticam
+7.10–18). But among human souls allēlouchia is experienced “with suffering” (meta
+pathous; De Myst. 196.8–10). Theurgy transforms the soul’s suffering by uniting it with the
+divine and universal allēlouchia.
+Iamblichus, In Tim. Frags. 84, 85, 196–199 Dillon 1973.
+Iamblichus, In Tim. Frag. 84.4–5, 196–199 Dillon 1973.
+Iamblichus, In Tim. Frag. 86.4–6, 198–199 Dillon 1973.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+187
+
+In his Commentary on the Sophist Iamblichus says that souls are led into
+bodies by the Sublunary Demiurge, a sorcerer (goēs) who beguiles them with
+phusikoi logoi into the material world.45 In theurgy, these logoi, discovered
+in nature and in one’s natural habits, are ritually re-aligned with the eternal
+measures (metra aidia) of prohodos.46 This allows theurgists to become united
+in mind (homonoētikos) with the Demiurge, which is their goal.47 At this
+moment—united with the Demiurge—the soul re-enters its original ochēma.
+This culmination of theurgy, the ascent to divine status and the recovery of
+one’s luminous vehicle (augoeides ochēma), is experienced, Iamblichus says, as
+the soul’s first birth (protē genesis).48 In theurgy, therefore, the soul ascends to
+the gods by descending with them, by descending as them. Epistrophē is realized as prohodos. This apparent contradiction, Iamblichus explains, is the veil
+of a mystery:
+It is the case that from their first descent the Demiurge sent down souls
+for this purpose that they would return to him. There is no change of
+divine will in this ascent, nor is there any conflict between the descents
+and the ascents of souls. For just as the physical cosmos and realm of
+generation are, at the universal level, dependent on noetic reality, so
+also in the sphere of souls, their liberation from the physical world is in
+harmony with the care that they bestow upon it.49
+
+45
+
+46
+
+47
+
+48
+49
+
+Iamblichus, In Sophist., Frag. 1.9–11, 90–91. Dillon 2013b, 8–9 explains: “Basically, he
+[Iamblichus] sees the dialogue as portraying the activities of a trickster figure, who has
+woven a web of illusion in this realm, analogous to the Hindu concept of maya. He is
+‘a sorcerer, inasmuch as he charms the souls (on their descent into embodiment) with
+natural reason-principles (physikoi logoi), so that they it may be difficult for them to
+separate themselves from the realm of generation.’ The Sophist is not, however, an evil
+being, as I understand the situation, but merely an entity set to test us, enabling those
+who can see through his blandishments to attain a higher state of consciousness, and
+realise the illusory nature of the physical world; he is thus an educational force.”
+Iamblichus refers to these metra aidia as having both cosmogonic and hieratic
+significance (De Myst., 65.5–6). This is because the theurgist, as conduit for the activity
+of the Demiurge and gods of creation, experiences the culmination of hieratic worship as
+the exercise of demiurgy.
+This state is the shared condition of the intermediary powers of cosmos, expressing the
+will of the Demiurge (De Myst. 23.1–6). It is also the condition of blessed souls united with
+the gods, Finamore and Dillon 2002, 70.21–22. Cf. De Myst. 292.12–13.
+Iamblichus, In Tim. Frag. 85.3, 198–199 Dillon 1973.
+Iamblichus, De Myst. 272.4–11.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+188
+
+shaw
+
+While this outlines the metaphysical background of the soul’s itinerary, we
+are still faced with the question: How is anatropē experienced? How is it that
+the soul experiences itself in a singular and mortal identity? I would suggest
+that the centrifugal activity of daemons on the macrocosmic level—binding
+each soul to a body—is complemented by the soul’s reciprocal contraction.
+The simultaneity of demiurgic expansion—effected by daemons—and our
+psychological contraction are, in effect, one and the same activity as seen
+from universal and individual perspectives respectively. But it is the soul’s contraction that is the specific cause of anatropē.50 Plotinus spoke of it when he
+describes the embodied soul as feeling “battered by the totality of things in
+every way,”51 and in response each of us defends our individual awareness. Each
+of us creates a “fortress of the self.”52 And once identified with the body-self,
+we become subject to the gods and daemons who, Iamblichus says, oversee
+the inevitable “divisions . . . changes, growth and decay of all material bodies”
+including our own.53 It is no wonder that the singular self, faced with such
+decay, would desire to reach the safe haven of immortality. Yet our very
+impulse to escape decay is an expression of the daemonic impulse to preserve
+the materialized self.
+Theurgists, however, recognize that what is immortal in the soul needs no
+defense and needs no safe haven. What is immortal in the soul works with the
+daemons that bind souls to bodies. As Iamblichus had said, “there is no conflict between the descents and ascents of souls.” Yet prior to realigning itself
+with the eternal measures (metra aidia) of prohodos,54 the soul experiences
+the daemon as similar to the demon/devil of Christian dualism: it alienates us
+from our divine totality; it fixes us in embodied mortality; it causes us to suffer
+and to die.
+50
+
+51
+52
+
+53
+
+54
+
+“The self-contraction . . . which ‘creates’ the fearful sense of separate mind” is described as
+“the unconscious logic of Narcissus” by the 20th century spiritual adept, Adi-Da Samraj
+2004, 8; 96. To dissolve this self-contraction and the logic of Narcissus was the focus of his
+teaching.
+Plotinus, Enn. IV.8.4.18.
+I borrow this term from Carlos Castaneda 1998, 98, who refers to the “fortress of the self”
+as the mental and emotional condition that pre-occupies human beings and makes us
+incapable of becoming sorcerers; Castaneda also refers to this state as “the dominion of
+self-reflection” (210) which is analogous to Adi Da’s “logic of Narcissus,” supra, f.n. 51.
+According to Iamblichus, these phenomena are under the jurisdiction of material gods
+(De Myst. 217.14–218.9). Without honoring the gods and daemons of the material realm
+“the ascent to the immaterial gods will not take place” (De Myst. 217.8–11).
+Iamblichus, De Myst. 65.4–5.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+189
+
+So what happens to the divinity of the soul after embodiment and how is it
+recovered? According to the Chaldean Oracles the Demiurge implants in each
+soul a deep erōs to return to our lost totality.55 But this desire for totality, when
+directed by our “fortress self,” becomes monstrous and self-delusional. The
+Platonists had a striking example of this in Alcibiades. Proclus explains that
+Alcibiades’s desire to fill the world with his name is a perversion of our desire
+for totality and a misunderstanding of “the divine power which has entered
+into all men.” Proclus says:
+The desire “to fill all mankind with one’s name” bears a surprising resemblance to this. For the ineffable names (arrheta onomata) of the gods
+have filled the whole world, as the theurgists say. . . .56 The gods, then, have
+filled the world both with themselves and their own names, and, having
+contemplated these before their birth, and yearning to resemble the
+gods, but not knowing the way (tropon) to achieve this, souls become lovers
+of command and long for the mere representations of those realities
+and to fill the whole race of men with their name and power. The aspirations of such souls are grand and admirable but when put into practice
+they become petty (smikra), ignoble (agennē) and vaporous (eidōlika),
+because they are pursued without insight (epistemē).57
+The later Platonists were acutely aware of what the contemporary Buddhist
+teacher, Chögyam Trungpa, called spiritual materialism—the ego’s effort to
+acquire the spiritual credentials of enlightenment.58 Alcibiades’s grotesque
+desire to fill the world with his name was—as Proclus says—petty and vaporous, but his narcissism is not unique.59 Platonists believed that all human
+beings are subject to this condition and refer to the Orphic myth of Dionysus
+and the Titans to understand why, like Alcibiades, we try to fill the world
+with our individual “names” rather than discover the ineffable names already
+present in our souls.
+In the myth of Dionysus they saw the human condition dramatically portrayed. The elements of the myth are as follows: Zeus fathers a child, Dionysus/
+55
+56
+57
+58
+59
+
+Orac. chald. Frag. 43 (Majercik 1989).
+Proclus refers to the Orac. chald. Frag. 108 that states: “For the Paternal Nous has sown
+symbols throughout the cosmos.” see Majercik 1989.
+Proclus, In Alc. 150.4–23 (Westerink and O’Neill), translation modified.
+Trungpa 1973.
+Proclus, In Alc. 150.20 (Westerink and O’Neill).
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+190
+
+shaw
+
+Zagreus, from Persephone and plans to make him the Lord of the physical cosmos. Hera is jealous and conspires with the Titans to have Dionysus killed. She
+gives him toys, a spinning top and a mirror, to distract him. While the child
+wanders off gazing into the mirror, the Titans seize him, tear him in pieces
+(in some versions “seven” pieces),60 roast him in a fire and then devour all but
+his heart, which is somehow preserved still beating by Athena. Zeus is attracted
+to the aroma until he realizes what has happened and incinerates the Titans
+with a thunderbolt. From their ashes human beings are born, a mix of the
+devouring hunger of the Titans with the divine nobility of Dionysus. Human
+beings are both. Our psychology is dual. We are divine and we are titanic.61
+Explaining this myth in terms of the soul’s embodied itinerary, Damascius says:
+The soul must constitute an image of herself in the body (that is what
+animating the body means); secondly, she must be in sympathy with her
+image because of its likeness, since every form is drawn towards its replica as a result of its innate concentration on its likeness [i.e., Dionysius
+gazing at his mirror image]; thirdly, having entered the divided body, she
+must be torn asunder with it and end in complete disintegration until,
+through a life of purification, she gathers herself from her dispersed state,
+loosens the bonds of sympathy, and actualizes the primal life that exists
+within her. . . .62
+Damascius interprets the soul’s identification with the “fortress of the self” by
+relating it to the myth of Dionysus. He says:
+60
+
+61
+62
+
+Proclus, In Tim. III.2 146.11–17, referring to the Orphic myth, says: “ ‘They divided up all
+seven parts of the body’ says the Theologist concerning the Titans, just as Timaeus divides
+the soul into seven portions (36d). Perhaps the fact that the soul is stretched through all
+the cosmos is meant to remind the Orphics of the Titanic dividing of parts because, not
+only does the soul envelop the universe, it is also stretched through all of it (34b)” Baltzly
+2009, 109. As is evident, the Platonists read the myth of Dionysus and the Titans as an
+allegory of the soul sharing in the demiurgy of the sublunary world.
+The basic elements of this myth can be found in Olympiodorus, In Phaed., I.3 Westerink
+1979; 2009.
+Damascius, In Phaed. 128.1–8 Westerink. Immediately following this, Damascius (129.1–4)
+explains how the soul’s descent into a body is effected by the mirror of Dionysus and how
+souls (= Dionysus) recover their divinity: “The myth describes the same events as taking
+place in the prototype of the soul. When Dionysus projected his reflection into the mirror,
+he followed it and was thus scattered over the universe. Apollo gathers him and brings him
+back to heaven, for he is the purifying God and savior of Dionysus.”
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+191
+
+The impulse to belong to oneself alone . . . comes from the Titans; through
+this impulse we tear apart the Dionysus in ourselves and break up the
+continuity that ties the world above with the world below. In this divided
+condition we are Titans; but when we recover our lost unity, we become
+Dionysus and attain perfect completeness.63
+
+Summary
+For the later Platonists the solution to our existential problem is to find
+the right way to express our desire for totality. It requires giving eyes to the
+daemons in their processional expansion and aligning our reciprocating
+contraction with the metra aidia of demiurgic creativity.64 To find these limits requires a profound catharsis of the soul’s embodied life, but this results,
+Iamblichus says, not in escaping from the world but in sharing its creation,
+“joining parts to wholes and bestowing power, life, and activity from the
+wholes to the parts.”65 In sum, the purified theurgic soul becomes an embodied Demiurge working not against but with the processional daemons. The
+mythical image for embodied demiurgy is Dionysus,66 the god who undergoes
+division and reunification, and insofar as the soul is demiurgic it becomes
+Dionysus.
+According to Iamblichus, the human soul is radically paradoxical. Like the
+sublunary Demiurge of the Sophist the soul, “embraces the falsity of matter
+yet fixes his gaze on reality.”67 As Iamblichus explains: “The soul remains in
+itself and simultaneously (hama) proceeds out of itself 68. . . . It is simultaneously
+63
+64
+
+65
+66
+
+67
+68
+
+Damascius, In Phaed. 9.3–8 (Westerink).
+Iamblichus, De Myst. 249.11–250.4, says theurgic rites mirror the “demiurgic energy of the
+gods” and reveal the “invisible measures” through “visible images;” he, De Myst. 65.5–6,
+describes these invisible measures of demiurgy as the eternal measures (metra aidia)
+engaged in theurgic ritual.
+Iamblichus, De Anima 70.1–5 (Finamore and Dillon) (my translation).
+Damascius, In Phaed. 1.3 (Westerink), says that Dionysus rules over the “divided demiurgy”
+while Zeus rules over the “undivided demiurgy.” Dionysus is also said to be the “cause
+of individual life (merikē zoē)” (10.2–3). For Olympiodorus, he is lord of the sublunary
+world: “Dionysus is ruler of this lower world, where extreme division prevails because of
+‘mine’ and ‘thine’ ” (Olympiodorus, In Phaed. 10.1–2; Westerink 1976). According to John
+Lydus (Dillon 1973, 246) the sublunary demiurge is identified by Iamblichus with Ploutōn
+/ Hades, who is later transformed by Christians into the Devil.
+Iamblichus, In Sophist. Frag. 1.6–7, 90–91 (Dillon 1973), modified translation.
+Iamblichus quoted by Simplicius, De Anima 6.14.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+192
+
+shaw
+
+born and unborn, immortal and mortal, unified and divided.”69 This is a diminished view of the soul as compared to Plotinus who sees the soul as unfallen,
+but Plotinus elevates the soul at the cost of accepting the reality of embodiment. Iamblichus, on the other hand, accepts the reality of the embodied self.
+Yet the fall into division can never be total or the soul would completely
+dissolve.70 The soul is simultaneously fallen and unfallen and the key, for
+Iamblichus, is to find ways to recover the soul’s unfallen aspect even in its fragmentary experience. For theurgists the soul’s divinity is found in the ruins of
+our embodied life.
+This principle is a reflection of the paradox of Unity itself. The oppositions of the human soul express—at its level of reality—the oppositions of
+the One. Iamblichus maintained that the power of the One pervades all things
+undividedly and thus establishes the continuity of all existence, yet since the
+One defines each existence as “one” it also establishes discontinuity: “its power
+simultaneously remains and proceeds (hama kai menei kai proeisin).”71 The
+power of the One, Iamblichus says, is the source of both continuity and discontinuity for it makes each entity “stand” as separate and yet simultaneously “flows”
+through all things to make a continuous whole.72 This paradox of the One is the
+legacy of the Platonic Parmenides where the “one” simultaneously is and is not.
+And the One that “is”—in the argument of the Parmenides—must be all things:
+the One that is, is not “one,” but many.73 Reflecting this mystery, the embodiment of the soul and even the foolish excesses of our personal lives are revealed
+to be the way that each soul uniquely participates in the One. As Damascius
+puts it: “The soul possesses its unchanging essence precisely by changing
+it.”74 So, it is not by identifying with an undefiled “unity” that we recover our
+divinity, not by trying to find the “One” above the many—because there is no
+such “one.”
+The desire to grasp an unsullied unity is recognized by later Platonists as
+a delusion. It is the Titanic impulse to grasp and devour divinity. Rather, the
+way (tropos) for Platonists to “resemble the gods” is to enter Unity as process,
+as activity, as the prohodos flowing into the diversity of the world and the
+69
+70
+71
+72
+73
+74
+
+Iamblichus quoted by Simplicius, De Anima 90.20–24.
+Steel 1978, 65, on this point and for his articulation of Iamblichus’s critique of Plotinus.
+Simplicius, In Cat., 135.24 (Kalbfleisch 1907); my translation. See discussion of this passage
+in Steel 1978, 65.
+Steel 1978, 65.
+Plato, Parm. 141e–143a.
+Damascius, In Parm., IV, 30.27–31.1–3 (Combès and Westerink); cf. Steel 1978, 110.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+193
+
+tortured drama of our lives. For theurgists, ultimately, we are the Demiurge
+turned inside out: Demon est Deus Inversus. We are the demonized and inverted
+divinity, god particularized and made mortal. We recover the god not by rejecting our particularity and mortality (effected by daemons) but by tracing the
+daemonic path from the Source. We become theophanic not by going up but
+by going down demiurgically, which is to say by becoming theurgic.
+So, let us return to the dinner guest sitting across from you, gobbling up all
+the attention and expanding the boundaries of her fortress self. She is simply
+manifesting the blind activity of daemons (or Titans) that have not yet been
+recognized, honored, and given their limits. They mirror and remind us of our
+own self-alienation and desire to fill the world with our names. According to
+the Platonists, souls who have not yet become heroic companions of the gods
+are blindly demiurgic and enslaved to daemons that preserve their creations.
+In Orphic terms these souls are Titanic and—until we become Dionysus—we
+are all Titans.
+I cannot help but think that the magicians and poets at the beginning of the
+twentieth century understood these matters better than we do. It is revealing
+that when W. B. Yeats was initiated to the Order of the Golden Dawn he took
+as his magical name Demon est Deus Inversus: A Demon is God Inverted,75 for
+this was, as I have argued, the experience of later Platonists with respect to the
+manifesting daemons and their embodiment. In the magical practices of Yeats
+and in the theurgy of the later Platonists, the daemon that alienates us from
+the god is the vehicle through which we become the god.
+
+75
+
+Ellman 1948, 99. Yeats surely borrowed this phrase from his former teacher, Helena
+Blavatsky, the oft-maligned founder of the Theosophical Society. In her immensely
+influential treatise, The Secret Doctrine, Blavatsky has an entire chapter entitled “Demon
+est Deus Inversus,” in which she contrasts the non-dualism of the ancient Greeks and
+Hindus with the dualism of Christianity. Espousing what seems to be a later Platonic
+understanding of the mystery of the Demiurge, Blavatsky 1964; 1888, I, 411–424, speaks
+of “the reflection of the first in the dark waters, showing the black reflection of the white
+light. . . .” In the language of the Neoplatonists, Demon est Deus Inversus, points to the
+sublunary demiurge, Dionysus-Hades, as the inverted reflection of the super-celestial
+demiurge, Zeus. In the esoteric psychology of the Platonists these demiurgoi represent
+levels of psychic reality. According to Olympiodorus, In Phaed. (Westerink), 4.8–10
+“these . . . kingdoms of the Orphic tradition are not sometimes existent and sometimes
+non-existent, but they are always there and represent in mystical language the several
+degrees of virtues that our soul can practice.”
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+194
+
+shaw
+
+Bibliography
+Armstrong, Arthur H. 1966–1988 Plotinus Enneads. Translation and commentary.
+Vols. I–VI. Cambridge: Harvard University Press.
+Baltzly, Dirk. 2009. Proclus Commentary on Plato’s Timaeus. Volume IV: Book 3 Part II:
+Proclus on the World Soul. Cambridge: Cambridge University Press.
+Bebek, Borna. 1992. The Third City. London: Routledge & Kegan Paul.
+Blavatsky, Helena P. 1964; 1988. The Secret Doctrine Vols. I and II. Los Angeles CA: The
+Theosophy Company.
+Butler, Edward. 2014. “Time and the Heroes.” Pages 23–44 in Walking the Worlds:
+A Biannual Journal of Polytheism and Spiritwork. Winter.
+Castaneda, Carlos. 1998. The Active Side of Infinity. San Francisco: Harper Perennial.
+Clarke, Emma C., Dillon, John M. and Hershbell, Jackson P. 2003. Iamblichus. On the
+Mysteries. Translation, introduction and notes. Atlanta: Society of Biblical Literature.
+Combès, Joseph and Westerink, Leendert G. 2003. Damascius Commentaire du
+Parmenide de Platon. Vol. IV. Text and translation. Paris: Les Belles Lettres.
+De Haas, Frans A. J. and Fleet, Barrie. 2001. Simplicius On Aristotle’s Categories 5–6.
+Translation. Ithaca: Cornell University Press.
+Dillon, John M. 1973. Iamblichus Chalcidensis. In Platonis Dialogos Commentariorum
+Fragmenta. Translation. and commentary. Leiden: Brill.
+Dillon, John M. 1987. “Iamblichus of Chalcis,” Aufsteig und Niedergang der Römischen
+Welt. Part II, 36.2 New York: de Gruyter.
+Dillon, John M. 2013a. “Plotinus and the Vehicle of the Soul.” Pages 485–496 in
+Gnosticism, Platonism, and the Late Antique World: Essays in Honour of John D.
+Turner. Editors K. Corrigan and Tuomas Rasimus. Leiden: Brill.
+Dillon, John M. 2013b. “Paidea Platonikē: Does the Later Platonist Programme of
+Education Retain any Validity Today?” Hvar, Croatia. www.academia.edu/5117137/
+Paideia_Platonik%C3%A9_Does_the_Late_Platonist_Course_of_Education_
+Retain_any_Validity_Today.
+Dodds, Eric R. 1963. Proclus: The Elements of Theology. Text with translation, introduction and commentary. Oxford: Clarendon Press.
+Duvick, Brian. 2007. Proclus On Plato’s Cratylus. Translation. Ithaca: Cornell University
+Press.
+Ellman, Richard. 1948. Yeats: The Man and the Masks. New York: W.W. Norton &
+Company.
+Emerson, Ralph Waldo. 2000. The Essential Writings of Ralph Waldo Emerson, edited by
+Brooks Atkinson. New York: Modern Library.
+Festa, Nicola. 1891; 1975. Iamblichus. De Communi Mathematica Scientia additions and
+corrections by U. Klein, Stuttgart: Teubner.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+demon est deus inversus
+
+195
+
+Finamore, John and Dillon, John M. 2002. Iamblichus: De anima. Text, translation and
+commentary. Leiden: Brill.
+Gaskin, Richard. 2000. Simplicius On Aristotle’s Categories 9–15. Translation. Ithaca:
+Cornell University Press.
+Hayduck, Michael. 1882. Simplicius = Priscianus. De Anima [DA], ed. Berlin: B. Reimeri.
+Kalbleisch, C. 1907. Simplicius In Aristotelis Categorias Commentarium. Berlin:
+G. Reimeri.
+Layne, Danielle. 2014. “The Platonic Hero (Work in Progress).” unpublished https://
+www.academia.edu/10059821/The_Platonic_Hero_Work_in_Progress_
+Majercik, Ruth. 1989. Chaldean Oracles. Text, translation and commentary. Leiden: Brill
+Publishing.
+Milbank, John. 2009. “Sophiology and Theurgy: The New Theological Horizon.” Pages
+45–85 in Encounter Between Eastern Orthodox and Radical Orthodoxy: Transfiguring
+the World Through the Word. Edited by Adrian Pabst and Christoph Schneider.
+Farnham, UK: Ashgate.
+Milbank, John and Riches, Aaron. 2014. “Neoplatonic Theurgy and Christian
+Incarnation.” Pages v–xvi in Greg Shaw, Theurgy and the Soul: the Neoplatonism of
+Iamblichus. 2nd edition, Kettering, OH: Angelico Press.
+Opsomer, Jan and Steel, Carlos. 2003. Proclus: On the Existence of Evils. Translation.
+Ithaca, NY: Cornell University Press.
+Pistelli, Hermenegildus. 1894; 1975. Iamblichus. In Nicomachi Arithmeticam
+Introductionem. Stuttgart: Tuebner.
+Pistelli, Hermangildus. 1994; 1975. Iamblichus. In Nicomachi Arithmeticam Introductionem Liber additions and corrections by U. Klein, Stuttgart: Teubner.Samraj,
+Adi Da. 2004; 1972. The Knee of Listening. Middletown, CA: Dawn Horse Press.
+Shaw, Gregory. 2014; 1995. Theurgy and the Soul: The Neoplatonism of Iamblichus.
+Kettering, OH: Angelico Press.
+Steel, Carlos. 1978. The Changing Self: A Study on the Soul in Later Neoplatonism:
+Iamblichus, Damascius, and Priscianus, tr. by E. Haasl, Brussels: Paleis der
+Academien.
+Trouillard, Jean. 1965. Proclos: Éléments de Théologie. Paris: Aubier.
+Trungpa, Chögyam. 1973. Cutting Through Spiritual Materialism. Berkeley: Shambhala.
+Westerink, Leenedert G. and O’Neill, William. 2011; 1965. Proclus Commentary on the
+First Alcibiades. Text, translation and commentary. Dilton Marsh: The Prometheus
+Trust.
+Westerink, Leenedert G. 2009; 1976. Olympiodorus Commentary on Plato’s Phaedo. Text
+and translation. Dilton Marsh: The Prometheus Trust.
+Westerink, Leenedert G. 2009; 1977. Damascius Commentary on Plato’s Phaedo. Text
+and translation. Dilton Marsh: The Prometheus Trust.
+
+gnosis: journal of gnostic studies 1 (2016) 177–195
+
+

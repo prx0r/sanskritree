@@ -1,0 +1,2039 @@
+chapter 5
+
+Macroharmony and Centricity
+Having discussed harmony, counterpoint, and acoustic consonance, we’ll now turn
+to macroharmony and centricity, the last of the ﬁve features. First, we’ll explore the
+ways in which composers might combine harmonic and macroharmonic consistency.
+Then we’ll develop two analytical tools for quantifying macroharmony: pitch-class
+circulation graphs, which record how fast a piece cycles through the pitch classes, and
+global macroharmonic proﬁles, which represent the relative proportion of large collections in a piece. We’ll then introduce pitch-class proﬁles to describe both “local”
+centricity (or rootedness) and “global” centricity (or tonicity). Together, these tools
+amount to a “generalized theory of keys” allowing us to conceptualize the possibilities
+between complete atonality and traditional scale-based tonality.
+
+5.1
+
+macroharmony
+
+When we think about harmony, we automatically think about chords. In fact, we
+are so ﬁxated on chords that we sometimes forget they tell only part of the story. To
+counteract this tendency, Figure 5.1.1 uses the same chords to construct two very different sequences: the ﬁrst, containing twelve triads from the C diatonic scale followed
+by twelve triads from the Fs diatonic scale, is placid and restful; the second, alternating between C and Fs diatonic scales, is considerably more angular and energetic.
+The difference suggests that musical experience is strongly colored by what we have
+heard recently: after a number of white notes, a C diatonic triad will sound relatively
+consonant, while after a sequence of black notes, it will sound more jarring and out
+of place. It is as if previously heard notes linger in our memory, mixing with what we
+are currently hearing to create a harmonic penumbra—a “macroharmony” extending
+beyond the boundaries of the temporal instant.
+In thinking about macroharmony we need to ask at least four questions:
+1.
+2.
+3.
+4.
+
+Does the music articulate identiﬁable macroharmonies other than the total
+chromatic?
+How fast do these macroharmonies change?
+Are the various macroharmonies in the piece structurally similar—that is,
+related by transposition or nearly so?
+Are the macroharmonies consonant or dissonant?
+
+Macroharmony and Centricity
+Figure 5.1.1 Two sequences containing the same chords, but in different order. The ﬁrst
+sounds considerably less chromatic than the second.
+
+From this point of view, our two sequences are very different. The ﬁrst is both
+macroharmonically consistent (which is to say that it articulates a pair of diatonic
+collections, related by transposition) and macroharmonically consonant (since those
+collections are themselves relatively consonant). The second is macroharmonically
+consistent only in a trivial sense, since it cycles through the complete chromatic
+collection every two measures or so. More important, it is macroharmonically dissonant, because the chromatic scale is itself fairly dissonant. As a result, the second sequence sounds considerably less “tonal” than the ﬁrst, even though they use
+exactly the same triads.
+Note that our questions echo those we might ask about ordinary harmonies:
+macroharmonies, like harmonies, can be consonant or dissonant, and sequences of
+macroharmonies can be harmonically consistent just as chord progressions can. Thus
+Figure 5.1.2 exhibits a macroharmonic transition from mild dissonance to greater
+consonance and back, somewhat akin to a classical V7–I–V7 progression. (To say
+this is just to repeat the basic point that traditional Western music uses similar techniques on different time scales.) In fact, in some twentieth-century music macroharmony becomes the primary bearer of harmonic signiﬁcance. Mechanical, repetitive,
+or random chord changes can create a sonic “wash” in which changes in macroharmony become more salient than the individual chords. Listening to Debussy’s
+“Voiles,” Stravinsky’s “Dance of the Adolescents,” or Reich’s Different Trains, it is
+motion between macroharmonies that really strikes the ear. Harmonic states are
+
+Figure 5.1.2 Each section of Debussy’s “Voiles” uses a different scale. The switch from whole
+tone to pentatonic to whole tone moves from greater dissonance to greater consonance and
+back again.
+
+155
+
+156
+
+theory
+
+here intermediate between chord and key, lasting longer and containing more notes
+than classical chords, but also moving faster than classical keys.
+
+5.2
+
+small-gap macroharmony
+
+Suppose we would like to write music that is harmonically consistent while also conﬁning itself to a macroharmony with ﬁve to eight pitch classes. How should we go
+about doing this?
+One strategy is just to choose a collection of similar chords that together contain
+no more than ﬁve to eight notes. For instance, we could chose A minor, F major, and
+Df major, which together form a six-note hexatonic scale (Figure 5.2.1). This works
+well until we get bored of our chords, at which point we notice—somewhat ruefully—
+that the macroharmony is quite limited. First, the only major or minor triads it contains are those with roots on F, A, and Df. Second, it contains only a small number of
+chord types: if, for example, we later decide to use stacks of fourths (such as F-Bf-Ef
+or F-B-E), we must choose another macroharmony, since the hexatonic scale contains
+no fourth chords whatsoever. The problem, it turns out, is that the hexatonic scale
+has a number of three-semitone “gaps” between successive notes—or to coin a term,
+it is a “3-gap macroharmony.” Because of this, there are no fourth chords in the collection, and no triads with roots
+Figure 5.2.1 One way to combine harmonic and
+other than F, A, or Df.1
+macroharmonic consistency is to choose a set of
+By contrast, a macroharmony
+chords that together contain a relatively small
+whose steps are at most two seminumber of notes. Here, the A minor, F major, and Df
+tones large (i.e. a “2-gap macroharmajor triads contain the pitches of a hexatonic scale.
+mony”) will always contain both
+a triad and a fourth chord above
+each of its notes. This is because
+harmonic terms like “triad” and
+“fourth chord” typically allow for some variation in interval size. For example,
+the term “triad” refers to a stack of three- or four-semitone intervals. Consequently,
+for each chord tone there are two semitonally adjacent options to choose from: given
+the root C, we can put the third at either Ef or En, and given the third En, we can
+put the ﬁfth at either Gn or Gs. In a 2-gap macroharmony, one of these options will
+always be contained within the scale.
+The principle here is related to what I call the “Fundamental Theorem of Jazz,”
+which states that you can never be more than a semitone wrong.2 The basic idea is that
+when trying to ﬁt a particular chord into a 2-gap macroharmony, one only needs to
+shift its notes by semitone at most. This is illustrated in Figure 5.2.2. The connection
+
+1 For instance, neither of the fourths above Df is in the collection, since both Gf and G fall in the gap
+between F and Af.
+2 While the name “Fundamental Theorem of Jazz” is a joke, the principle does play an important role
+in jazz theory.
+
+Macroharmony and Centricity
+
+to jazz lies in the fact that improvisers often make Figure 5.2.2 In a 2-gap
+use of 2-gap macroharmonies; consequently, any macroharmony, out-of-scale notes
+note they play will either belong to the macrohar- can be moved into the scale by
+semitone, in either direction.
+mony or can be a chromatic neighbor to one of its
+notes. Practically speaking, this means that if one
+ﬁnds oneself accidentally playing a note outside
+the macroharmony, it can always be reinterpreted
+as a chromatic neighbor to an adjacent macroharmonic tone. In fact, with a 2-gap macroharmony,
+the improviser is free to shift either upward or downward by semitone. (If a particular
+note is not in a 2-gap macroharmony, then both of its chromatic neighbors are.3) This
+is quite useful, since out-of-macroharmony notes can be instantly corrected, without
+the improviser having to think about exactly how he or she has gone wrong.
+Observe that there is a difference between “having small gaps” and the “near evenness” of Chapter 4. In a nearly even scale, scalar transposition resembles chromatic transposition, which means that we can take a harmony that is inside the scale and transpose it
+along the scale without distorting it much. In a 2-gap macroharmony, any note is at most
+one semitone away from some note in the macroharmony, which means that we can take
+any sonority whatsoever and “squeeze” it into the macroharmony without distorting it
+much. This difference is illustrated by Figure 5.2.3. Note, in particular, that a collection
+can be nearly even while still having large gaps (e.g. the major triad). Conversely, a collection can have reasonably small gaps while still being somewhat uneven.4
+Figure 5.2.3 Near evenness and gaplessness. Chords can be transposed along a nearly even
+scale with minimal distortion (a). In a gapless scale (b), chords outside the scale can be
+“squeezed” into the scale with minimal distortion. Here, the E minor triad is squeezed into
+the C acoustic scale by shifting B down by semitone.
+
+3 In a 3-gap macroharmony, one can never be more than a semitone wrong, but there may be no choice
+about whether to slide upward or downward by semitone.
+4 For example, the eight-note collection {C, Cs, D, Ds, E, Fs, Gs, Bf} has its semitones distributed
+unevenly.
+
+157
+
+158
+
+theory
+Figure 5.2.4 Set classes
+representing 2- and 3-gap
+macroharmonies.
+
+Nevertheless, it is true that the most even collections generally have the smallest
+gaps, relative to other collections of that size. Figure 5.2.4 shows that the twelvetone equal-tempered system has four ﬁve-note 3-gap macroharmonies, including
+the pentatonic scale, the “dominant ninth” chord, and the “diminished seventh
+plus one” chord. There is only one six-note 2-gap macroharmony (the whole-tone
+scale), while there are 17 six-note 3-gap macroharmonies. The three seven-note
+2-gap macroharmonies are the diatonic, acoustic, and “whole tone plus one” scales.
+Finally, there are eight eight-note 2-gap collections, including the octatonic scale.
+Once again, we ﬁnd familiar musical objects—such as the diatonic and acoustic
+scales—turning up in a variety of different theoretical contexts. And once again,
+we see that the goal of combining elementary tonal features (in this case harmonic
+and macroharmonic consistency) places nontrivial constraints on the composer. It
+is relatively easy to write music that exhibits harmonic or macroharmonic consistency, but more difﬁcult to write music that exhibits both at once: we cannot simply
+choose harmonies and macroharmonies willy-nilly, mixing and matching them to
+our hearts’ content.
+
+5.3
+
+pitch-class circulation
+
+We’ll now develop some tools for quantifying macroharmony, starting with graphs
+that represent how many pitch classes are used over various spans of musical time.
+The concept is easiest to explain by way of an example. Figure 5.3.1 shows that if
+we look at every three consecutive notes of the opening of Bach’s F major two-part
+invention, we ﬁnd on average 2.4 distinct pitch classes. Similarly, if we look at every
+four-note window of the music, we ﬁnd on average 2.9 pitch classes. Figure 5.3.1c
+compiles this data into a pitch-class circulation graph, which shows how many pitch
+classes are found in windows of various sizes. Such graphs are very crude tools that
+do not tell us anything about the character of the macroharmonies; furthermore,
+they can be inﬂuenced by textural features independent of the music’s underlying
+
+Macroharmony and Centricity
+Figure 5.3.1 (a) The theme of Bach’s F major two-part invention, along with the number of
+pitch classes in the ﬁrst several three- and four-note windows. (b) A table listing the average
+number of pitch classes per window in the excerpt, for window sizes between 1 and 10 notes.
+(c) The same information expressed as a graph.
+
+Number of pitch classes
+
+6
+
+Window Average Number
+Size
+of Pitch Classes
+1
+1
+2
+1.9
+3
+2.4
+4
+2.9
+5
+3.4
+6
+3.9
+7
+4.4
+8
+4.8
+9
+5.1
+10
+5.6
+
+5
+4
+3
+2
+1
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+6
+Window size
+
+7
+
+8
+
+9
+
+10
+
+harmonic structure.5 But by providing a rough picture of how fast a piece of music
+moves through the available notes, they can help us get a quantitative grip on how
+“chromatic” it is.
+Figure 5.3.2 graphs the pitch-class circulation in a number of familiar pieces.
+Palestrina’s Pope Marcellus Mass is at the bottom, while Webern’s Piano Variations,
+Op. 27 is at the top. These two curves have a similar shape, rising quickly and ﬂattening out rather sharply. The quick rise reﬂects the fact that, over short time scales, the
+two composers both tend to exhaust a particular collection of notes—the seven diatonic notes in Palestrina’s case and the twelve chromatic notes in Webern’s. The point
+at which the graphs level off tells us how large the macroharmony is, with Palestrina’s
+leveling off below Webern’s since the diatonic scale is smaller than the chromatic. The
+ﬂattening itself indicates the relative absence of macroharmonic change: Webern’s
+twelve-tone piece systematically cycles through the only twelve notes available to him,
+
+5 Since pitch-class circulation graphs measure the number of pitch classes per note attack, they are susceptible to differences in tempo, with slower pieces often appearing to be more chromatic than faster pieces.
+The presence of tremolo or other repetitions also tends to artiﬁcially decrease the “chromaticism” of the
+music. Furthermore, in constructing these graphs it is necessary to “linearize” simultaneous attacks, so that
+one comes before the other. (This can be done in a random fashion, hoping that the size of the data set will
+wash away any inaccuracies introduced by the process.) For these reasons, these graphs should be taken with
+a grain of salt, as providing a very general picture that may not always be accurate in its precise details.
+
+159
+
+theory
+Figure 5.3.2
+Pitch-class
+circulation in
+several wellknown pieces.
+
+12
+
+Number of pitch classes
+
+160
+
+10
+8
+Webern, Op. 27
+Wagner, Tristan Prelude
+Brahms, Op. 118
+Beethoven, Hammerklavier
+Mozart, K. 310, I
+Palestrina, Pope Marcellus Mass
+
+6
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+and as a result his graph reaches a completely horizontal plateau; Palestrina’s occasional use of nondiatonic notes creates a very gradual slope over larger spans of time.
+Each piece is macroharmonically static, since any two of its mid-length segments will
+contain roughly the same pitch classes.
+Between these extremes lies most of the music of the classical tradition. Figure
+5.3.2 shows that pieces by Mozart, Beethoven, Brahms, and Wagner exhibit a distinctive harmonic proﬁle, with their graphs rising very quickly and then leveling off
+much more gradually. (In fact, a typical 10-note excerpt of classical music contains
+roughly half the pitch classes in a typical 100-note excerpt.6) The quick rise reﬂects
+the fact that the music again cycles through a collection of available notes, as in
+Palestrina and Webern. The more gradual ﬂattening indicates that the macroharmonies are themselves changing, albeit at a much slower rate. Modulation here ensures
+a slow but steady supply of fresh pitch classes, causing the graph to level off much
+more gradually.
+Figure 5.3.2 is consistent with a truism of music history: that chromaticism gradually increased over time, beginning with modest explorations during the baroque and
+classical eras, thriving during the nineteenth century, and culminating in complete
+atonality. Our graph shows that from Palestrina through Wagner, later composers
+do indeed tend to utilize faster rates of pitch-class circulation, reﬂecting increasingly
+rapid modulations to increasingly distant tonal areas, increasing use of altered chords,
+and so on. (Of course, some of this is selection bias: including composers such as
+Gesualdo and Satie would complicate the matter considerably.) Furthermore, as we
+will see below, there is relatively little difference between the rate of pitch-class circulation in the highly chromatic tonal music of Max Reger and the fully atonal music
+of Schoenberg. In this sense, atonality does represent a relatively natural response to
+the saturated chromaticism of late nineteenth-century tonality. We will return to this
+thought below.
+6 Statisticians would say that these graphs are log-linear to within window sizes of about 256 notes.
+
+Macroharmony and Centricity
+
+5.4
+
+modulating the rate of pitch-class
+circulation
+
+In most Western music, the rate of pitch-class circulation is itself a harmonic variable
+to be manipulated. For example, Figure 5.4.1 graphs the rate of pitch-class circulation found in selected Chopin Etudes, the ﬁrst book of Debussy’s Preludes, the individual numbers of Stravinsky’s The Rite of Spring, and a selection of Shostakovich’s
+Op. 87 Preludes and Fugues. All four works display enormous variation, ranging from
+Palestrina-like sections that use just a few pitch classes, to highly chromatic sections
+
+Figure 5.4.1 Pitch-class circulation in Chopin’s Etudes (a) and Debussy’s Preludes (b). Both
+collections cover an enormous range, comparable to that of the entire classical tradition
+(compare Figure 5.3.2).
+
+Number of pitch classes
+
+12
+10
+8
+Op. 10 No. 2
+Op. 10 No. 6
+Op. 25 No. 11
+Op. 25 No. 10
+Op. 25 No. 4
+Op. 25 No. 3
+Op. 10 No. 9
+Op. 25 No. 12
+Op. 10 No. 4
+
+6
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+Number of pitch classes
+
+12
+10
+8
+6
+
+6. Des pas sur la neige
+4. "Les sons et les parfums ..."
+1. Danseuses de Delphes
+9. La serenade interrompue
+3. Le vent dans la plaine
+8. La ﬁlle aux cheveaux de lin
+5. Les collines d'Anacapri
+2. Voiles
+
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+161
+
+theory
+Figure 5.4.1 (Continued) Pitch-class circulation in Stravinsky’s Rite of Spring (c) and
+Shostakovich’s Preludes and Fugues (d). Again, the pieces cover a large range.
+
+Number of pitch classes
+
+12
+10
+8
+Procession of the Sage
+Introduction (Part II)
+Introduction (Part I)
+Ritual of Abduction
+Dance of the Adolescents
+Ritual Action of the Ancestors
+Spring Rounds
+Evocation of the Ancestors
+
+6
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+12
+Number of pitch classes
+
+162
+
+10
+8
+6
+Fugue 15
+Fugue 2
+Prelude 23
+Fugue 12
+Prelude 21
+
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+Fugue 14
+Fugue 24
+Fugue 7
+Prelude 12
+Fugue 1
+Prelude 14
+
+201
+
+251
+
+in which all twelve notes are in play. This of course reﬂects a common technique for
+creating large-scale form: composers can generate long-term harmonic change by
+juxtaposing moments of relative calm—in which the music remains ﬁxed in a small
+macroharmony—with passages of more rapid and aggressive chromaticism.
+This diversity in the rate of pitch-class circulation stands in stark contrast to
+the homogeneity of much atonal music. Figure 5.4.2 graphs the pitch-class circulation in Schoenberg’s Op. 11 piano pieces and Webern’s Op. 27 variations. The outer
+movements of both pieces are almost indistinguishable from one another, while
+their middle movements are ever so slightly less chromatic. The difference between
+Figures 5.4.1 and 5.4.2 is truly remarkable: where Chopin, Debussy, Stravinsky, and
+Shostakovich embraced a vast array of macroharmonic states, a diversity comparable to that of the entire history of Western music, Schoenberg and Webern restricted
+
+Macroharmony and Centricity
+Figure 5.4.2 Pitch-class circulation in Schoenberg’s Op. 11 and Webern’s Op. 27 piano pieces.
+The individual movements of each piece are much more similar than in Figure 5.4.1.
+
+Number of pitch classes
+
+12
+10
+8
+Schoenberg, Op. 11 No. 1
+Schoenberg, Op. 11 No. 3
+Schoenberg, Op. 11 No. 2
+
+6
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+Number of pitch classes
+
+12
+10
+8
+Webern, Op. 27 No. 1
+Webern, Op. 27 No. 3
+Webern, Op. 27 No. 2
+
+6
+4
+2
+1
+
+51
+
+101
+151
+Window size
+
+201
+
+251
+
+themselves to a much narrower region of musical space. This no doubt helps explain
+why some listeners ﬁnd atonal music to be somewhat static. In writing music with a
+consistently fast rate of pitch-class circulation, atonal composers deprived themselves
+of one important tool for creating large-scale harmonic change.
+It is notable that historians have sometimes used stylistic categories to describe
+the macroharmonic diversity in the music of Debussy, Stravinsky, and Shostakovich.
+The low-circulation passages are said to evoke particular genres—the diatonicism of
+ancient music, the pentatonicism or exoticism of non-Western music, and so on—while
+the high-circulation passages are associated with modernism. In this way, composers
+favoring macroharmonic diversity are sometimes made out to be polyglots, stylistic
+magpies who borrow from many different sources. In some cases, this characterization
+is accompanied by an evaluative narrative, as if diatonicism represents a regressive,
+
+163
+
+164
+
+theory
+
+backward-looking tendency, while thoroughgoing chromaticism represents a progressive or forward-looking attitude. Macroharmonic diversity is thus associated with
+stylistic mawkishness, testifying to an incomplete embrace of modernity.
+Of course, it is true that many twentieth-century composers were interested in
+evoking a range of styles. Nevertheless, I think we should be careful to separate the
+issue of style from the purely harmonic effects that stylistic juxtaposition can create. Rather than seeing Debussy, Stravinsky, and Shostakovich as stopping short of a
+complete and consistent chromaticism, I would therefore prefer to describe them as
+embracing modulation—writing music that presents a wealth of different macroharmonic states and that changes the rate of pitch-class circulation to reinforce larger
+formal boundaries. (In fact, I suspect that critics have sometimes resorted to stylistic
+categories in part because we lack precise theoretical terms for talking about phenomena such as pitch-class circulation.) From this point of view, it is thoroughgoing
+chromaticism that is conservative, as it abandons macroharmonic change in favor of
+musical textures that are harmonically uniform in the large. In this respect it recalls
+the macroharmonic stasis of the earliest Western music.
+
+5.5
+
+macroharmonic consistency
+
+Pitch-class circulation graphs show us how fast pitch classes are passing by, but do not
+provide any sense of what the macroharmonies actually are; as a result, they cannot
+distinguish between quickly modulating diatonic music and nondiatonic music in
+which all twelve pitch classes are constantly in play. This can be seen by comparing
+Schoenberg’s Op. 11 No. 1 with John Coltrane’s solo on “Giant Steps” (Figure 5.5.1).
+Both pieces have almost identical rates of pitch-class circulation, even though Schoenberg’s music is intuitively “more chromatic” than Coltrane’s.
+What we need are global macroharmonic proﬁles that identify the ﬁve- to eightnote macroharmonies used in a particular piece. Given an excerpt of music, we can
+exhaustively tabulate all the three-note chord types, four-note chord types, ﬁve-note
+chord types, and so on.7 Figure 5.5.2 presents the six- and seven-note collections in
+Schoenberg and Coltrane’s pieces. As we would expect, the graph of Coltrane’s solo
+is highly peaked, reﬂecting the fact that it is saturated with diatonic scales and scale
+fragments. By contrast, Schoenberg’s piece features a much more even distribution
+of chord types, not strongly emphasizing any particular six- or seven-note collection.
+(On these graphs, the x-axis is labeled using Allen Forte’s hard-to-decipher numerical
+labels for set classes; what is important here is just the overall difference in shape—
+Coltrane’s graph is much more peaked than Schoenberg’s.8) We can therefore say
+
+7 As before, the analysis here is simplistic but hopefully unbiased: I simply “linearize” simultaneous
+attacks by arpeggiating them in an essentially random way, and then count up the successive macroharmonies in the piece. That is, for each note i and each size n, I identify the n-note chord type that begins
+with note i.
+8 For Forte’s labeling system, see Straus 2005 or Forte 1973. In general, the more chromatic set classes
+(such as 0123) have smaller numbers, while more even chord types have larger ones.
+
+Macroharmony and Centricity
+Figure 5.5.1 Schoenberg’s Op. 11 and John Coltrane’s Giant Steps solo have identical rates of
+pitch-class circulation (a), even though Coltrane’s solo is tonal (b).
+
+that Coltrane’s solo is macroharmonically consistent in a way that Schoenberg’s piece
+is not: Coltrane emphasizes one particular seven-note collection, while Schoenberg
+makes relatively indiscriminate use of almost all the available seven- and eight-note
+macroharmonies.9 To be sure, Coltrane’s music modulates very quickly, thus ensuring
+a high overall rate of pitch-class circulation; but unlike Schoenberg, the local structure of his music clearly articulates familiar scales.
+One can make a similar distinction among musical styles in which pitch classes
+circulate more slowly. Figure 5.5.3 contrasts Debussy’s “La ﬁlle aux cheveux de lin”
+with Satie’s “Theme of the Order,” from Sonneries de la Rose + Croix. The opening of
+Debussy’s piece very clearly articulates Ef natural minor and Gf acoustic scales, separated by a brief cadence on Ef major. Satie’s piece, although it uses relatively few accidentals, does so sporadically and without a clear system; as a result it is difﬁcult to separate
+the music into regions exemplifying recurring macroharmonies. Yet both pieces have
+relatively low rates of pitch-class circulation, and are in this sense “not very chromatic.”
+9 Of course, Schoenberg’s music is macroharmonically consistent by virtue of using the chromatic
+scale, but this is trivial.
+
+165
+
+theory
+Figure 5.5.2 The relative preponderance of different chord types in pieces by Schoenberg and
+Coltrane. Coltrane’s graph is highly peaked at points representing familiar tonal collections.
+Schoenberg’s piece does not emphasize any larger collections to the same extent. The x-axis
+uses a variant of Forte’s (1973) set-class labels, where a half-integer i + .5 represents the
+inversion of chord i. Thus, the harmonic major scale, 32.5, is the inversion of the harmonic
+minor, 32.
+
+20
+Coltrane, “Giant Steps” solo
+Percent of total
+
+15
+
+{C, D, E, F, G, A}
+
+Schoenberg, Op. 11 No. 1
+
+10
+
+5
+
+0
+0
+
+5
+
+10
+
+15
+
+20 25 30 35
+Six-note chord type
+
+40
+
+45
+
+50
+
+20
+
+diatonic scale
+Schoenberg, Op. 11 No. 1
+15
+Percent of total
+
+166
+
+Coltrane, “Giant Steps” solo
+
+10
+
+5
+
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Seven-note chord type
+
+Taken together, these four pieces demonstrate that the informal music-theoretical
+term “chromatic” involves the interaction of at least two independent variables: rate
+of pitch-class circulation and the degree of emphasis on particular macroharmonies.
+Figure 5.5.4 tries to represent the situation visually. Music such as Schoenberg’s, which
+combines a high rate of pitch-class circulation with a low degree of macroharmonic
+consistency, will be heard as very chromatic; conversely, music such as Debussy’s,
+with a low rate of pitch-class circulation and a high degree of macroharmonic consistency, will be heard as non-chromatic. Pieces such as “Giant Steps” or Satie’s “Theme”
+
+Macroharmony and Centricity
+Figure 5.5.3 Debussy’s “La ﬁlle aux cheveux de lin” (a) and Satie’s “Theme of the Order,”
+from Sonneries de la Rose + Croix (b).
+
+Rate of pitch class circulation
+
+are somewhat more difﬁcult to classify, Figure 5.5.4 The rate of pitch-class
+because the simple opposition between circulation is independent of the degree of
+“chromatic” and “non-chromatic” breaks emphasis on particular macroharmonies.
+The four pieces we have been discussing
+down: Coltrane’s piece has faster pitchstake out four different regions in the space
+class circulation than Satie’s, but more of musical possibilities.
+clearly articulates speciﬁc macroharmoSchoenberg
+Coltrane
+nies; while Satie’s circulates through the
+pitch classes more slowly, but without
+articulating identiﬁable macroharmonies. Each is somewhat chromatic in its
+own distinctive way.
+Global macroharmonic proﬁles can
+also be useful analytically. For example,
+Satie, “Theme”
+Debussy
+Figure 5.5.5 identiﬁes the most prominent seven- and eight-note collections in
+Emphasis on particular macroharmonies
+the opening four sections of The Rite of
+Spring. The introduction is relatively chromatic, superimposing multiple tonalities
+without emphasizing any familiar macroharmony. (The melodic minor scale is the
+most prominent seven-note collection, but it appears only 9% of the time.) The “Dance
+of the Adolescents” features a larger preponderance of harmonic and melodic minor
+scales—chieﬂy because its famous opening chord is a harmonic minor collection,
+
+167
+
+168
+
+theory
+Figure 5.5.5 The most common large collections in the ﬁrst four sections of the Rite of
+Spring. Each section has a distinct macroharmonic proﬁle.
+Introduction
+Prevalent
+Seven-note
+Collections
+
+melodic minor (9%)
+
+Prevalent
+Eight-note
+Collections
+
+Various chromatic
+collections:
+(0, 1, 2, 3, 5, 6, 8, 9)
+(12%)
+(0, 1, 3, 4, 5, 6, 7, 8)
+(8%)
+
+Dance of the
+Adolescents
+harmonic minor
+(18%)
+melodic minor
+(16%)
+diatonic (8%)
+supersets of the
+above
+
+Ritual of
+Abduction
+
+Spring Rounds
+
+subsets of the
+octatonic
+
+diatonic (53%)
+
+octatonic
+(18%)
+
+supersets of the
+diatonic
+
+while the ﬁnal section emphasizes the A mode of F acoustic.10 While neither of the
+opening sections involves much explicitly octatonic material, the “Ritual of Abduction” is highly (18%) octatonic. Finally, “Spring Rounds” is extremely diatonic (55%).
+Overall, these ﬁgures indicate that Stravinsky’s piece exhibits a large-scale transition
+from the highly chromatic opening to the very diatonic “Spring Rounds,” a transition
+mediated by familiar nondiatonic scales. This transition might be compared to those
+we encountered in Debussy and Prokoﬁev (§4.7), though spread out over a much
+longer span of time.
+The Rite of Spring can be usefully contrasted with Shostakovich’s Op. 87 Preludes
+and Fugues. Both pieces belong to the twentieth-century extended-tonal tradition,
+drawing on tonal techniques while also featuring moments of extreme chromaticism,
+superimposition of multiple scales, and other modernistic devices. However, where
+Stravinsky makes relatively frequent use of nondiatonic scales, the Preludes and
+Fugues are profoundly and almost stubbornly diatonic. Figure 5.5.6 shows that the
+diatonic scale is the most prominent macroharmony in almost every one of Shostakovich’s 48 preludes and fugues, sometimes by an enormous degree.11 (Indeed, in the
+ﬁrst fugue it is the only macroharmony.) In fact, Shostakovich’s minor-mode pieces
+are even more diatonic than Bach’s—largely because Shostakovich eschews V–i progressions in favor of diatonic cadences that hearken back to a pre-tonal modality.
+In this respect, Shostakovich’s pieces are more neo-classical than post-impressionist;
+like Copland, Piston, and many other mid-twentieth-century composers, the Preludes and Fugues tend to move between diatonicism, chromaticism, and polytonality
+without exploring nondiatonic scales. This is part of what endows the music with its
+distinctive austerity.
+
+10 See Tymoczko 2002 for related observations.
+11 One of the few exceptions, the Fs minor fugue, is built on the seventh mode of G harmonic major;
+we discuss it in Chapter 9.
+
+Macroharmony and Centricity
+Figure 5.5.6 (a) The height of each bar represents the proportion of seven-note
+macroharmonies that are diatonic. The diatonic scale is the most common seven-note
+collection in all but four of Shostakovich’s Preludes and Fugues, and in some pieces it is the only
+macroharmony. The most common non-diatonic collection is represented by a thin gray line;
+in only four movements does it rise above the black line. (b) Shostakovich’s minor-key pieces
+are considerably more diatonic than Bach’s minor-key Preludes and Fugues. In particular,
+Shostakovich rarely uses the harmonic and melodic minor scales, preferring the natural minor.
+
+Percent diatonic
+
+100
+80
+60
+40
+20
+0
+1
+
+3
+
+5
+
+7
+
+9
+
+Harmonic minor
+
+5.6
+
+11 13 15 17 19 21 23 25
+Piece #
+
+Bach
+
+Shostakovich
+
+25%
+
+5%
+
+Diatonic
+
+20%
+
+56%
+
+Melodic minor
+
+12%
+
+3%
+
+centricity
+
+In many musical passages, a particular note is felt to be more prominent, important, or
+stable than the others—in other words, to be a tonal “center.” The concept of centricity is
+complicated, in part because it encompasses two closely related phenomena: rootedness,
+which applies to individual chords, and tonicity, which refers to prominence over longer
+stretches of musical time. Rootedness and tonicity are music-theoretical cousins, sharing a number of physiognomic characteristics while being of distinct parentage. And
+just as the line between chord and macroharmony is sometimes blurry, so too is the distinction between rootedness and tonicity: in impressionist or minimalist music, it can
+be difﬁcult to say whether the most important tone is a root, a tonic, or something in
+between. For this reason, it is useful to try to develop a uniﬁed approach to the two phenomena, without presupposing that there will always be a sharp line dividing them.
+Elementary music theory teaches that the “root” of a tertian chord is the lowest
+note when the chord is arranged as an ascending chain of thirds: thus, E is the root of
+
+169
+
+170
+Figure 5.6.1
+Two progressions
+that use the same
+pitch classes,
+but sound very
+different.
+
+theory
+
+the collection {E, G, B}, regardless of
+musical context. (I tell students that
+to ﬁnd the root, they must ﬁrst write
+the chord in snowman form.12) But
+this is an oversimpliﬁcation: though
+the two progressions in Figure 5.6.1
+use the same pitch classes, the ﬁrst
+sounds like i–iv in E minor, while
+the second sounds more like V–I
+in C major. A more ﬂexible theorist might therefore describe the chords in Figure
+5.6.1b as G and C chords with “added sixths.” This shows that a sophisticated notion
+of “root” cannot rely on mechanical rules like “the lowest note in a chain of thirds
+is always the root”; instead, we must sometimes make more delicate psychological
+judgments about the relative importance of notes. This issue arises all the time in
+twentieth-century music: it would be odd to describe Figure 5.6.2 as a series of 16
+repetitions of the same chord, rather than a transition from a dissonant sonority (in
+which the notes D, Ef, and Fs predominate) to a more consonant sonority featuring
+C, E, and G.
+Contemporary theorists often use pitch-class proﬁles to represent differences of
+importance among the notes in a chord. These useful devices are bar graphs in which
+the x-axis represents pitch class and the y-axis represents a subjective assessment of
+prominence, stability, or importance.13 The simplest conception of a chord is binary;
+notes can be either inside the chord or outside of it, but no further differentiations
+are made. This approach can be modeled using two-tiered pitch-class proﬁles, with
+notes in the chord being assigned the value 1 and the rest being assigned 0 (Figure
+5.6.3). The musical cases we have been considering require ﬁner gradations of prominence. For example, Figure 5.6.4 shows how we might describe the progressions in
+Figure 5.6.1: the ﬁrst proﬁle assigns higher prominence to the pitch classes E and A,
+
+Figure 5.6.2 The same notes are attacked on every sixteenth note, but there is a palpable
+transformation over the course of the measure.
+
+12 That is, as a stack of thirds, which looks like a self-supporting snowman. (Other inversions seem
+to have a snowball ﬂoating unsupported in the air.) For seventh chords, you need “extended snowman
+form.”
+13 These sorts of graphs originate with Krumhansl and Shepard 1979. Related graphs have been used
+by Deutsch and Feroe (1981) and are central to the work of Fred Lerdahl (2001). I discuss Lerdahl in
+Appendix E.
+
+Macroharmony and Centricity
+
+while the second assigns higher prominence to
+G and C. Figure 5.6.5 represents the music in
+Figure 5.6.2, where there is a gradual shift from
+2
+D, Ef, and Fs to C, E, and G. In these cases, the
+notion of chord membership becomes fuzzy,
+admitting a range of values between 0 and 1.
+We can also use pitch-class proﬁles to rep1
+resent global centricity, or tonicity.14 Threetiered proﬁles provide a simple but effective
+way to visualize musical modes: notes outside
+0
+the macroharmony are assigned the value
+0, non-centric notes inside the macroharmony are assigned the value 1, and centric notes are assigned the value 2.15 Thus,
+Figure 5.6.6 represents C lydian, G ionian, C phrygian, and G locrian modes. In
+Figure 5.6.3 The simplest model of a
+chord is a binary one: notes are either
+in the chord or outside of it.
+
+Figure 5.6.4 Pitch-class proﬁles can be used to reﬂect the fact that chord tones differ in terms
+of their importance. Here, (a) and (b) represent the two progressions in Figure 5.6.1.
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+14 Note that local and global centricity can conﬂict in fascinating ways. For example, in C major, the
+tonic note can sometimes be unstable, such as when it acts as a neighboring tone to the third of a V7 chord.
+Relative to the local harmony, C is less stable than B; relative to the global key, however, the leading tone
+is less stable than the tonic. Remarkably, our minds can encompass both perceptions at once, with global
+pitch-class proﬁles playing a role even in the presence of conﬂicting local harmonic states.
+15 The numerical values here are arbitrary; what is more important is the relative prominence of the
+various notes. However, in some circumstances, we could use different numerical strengths to record different degrees of musical prominence. For example, Harold Powers (1958, p. 456) contrasts South Indian
+
+171
+
+172
+
+theory
+Figure 5.6.5 The music of Figure 5.6.2 can be represented as a continuous interpolation
+between these two graphs, with the more prominent notes becoming less so, and the less
+prominent notes becoming more so.
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+some theoretical contexts we may want to draw more ﬁne-grained distinctions: for
+example, there is a palpable difference between an E phrygian mode in which the
+ﬁfth scale degree is emphasized, and an E phrygian mode in which the fourth scale
+degree is important (Figure 5.6.7).16 We could capture this with a four-tiered model
+that distinguishes tonal center, second-most important tone, within-macroharmony
+notes, and outside-macroharmony notes. Figure 5.6.8a goes even further by proposing a ﬁve-tiered pitch-class proﬁle for the key of C major: here, C is most important,
+G the second-most important, E the third-most important, the remaining diatonic
+notes fourth-most important, and the black notes last. (This graph is strongly
+reminiscent of what Fred Lerdahl calls the “basic space” for C major, discussed in
+Appendix D.) In extreme cases, we may even want to use graphs such as that in
+Figure 5.6.8b, where we have continuous gradations of pitch-class stability. Here it
+is impossible to draw sharp distinctions between notes “inside” the macroharmony
+and those outside it.
+An interesting piece, in this regard, is the “Petit airs au bord du ruisseau” from
+Stravinsky’s Histoire du soldat. This playful bagatelle has an almost ﬂirtatious relation to traditional scale-based tonality: the piece uses ﬁve ﬁxed scale degrees (G-AB-D-E) and two mobile degrees that appear in distinct ﬂavors (F vs. Fs and C vs.
+Cs). While some parts of the music clearly articulate distinct scales, others juxtapose
+different forms of the “mobile” scale degrees to create a mild form of polytonality
+
+ragas with Gregorian modality, writing “the drone-tonic is much more prominent with respect to the other
+notes of any given raga than is any tone of a Gregorian piece, even the tenor of a psalm-tone.” We could
+express this by adjusting the height of the tonic note in our graph.
+16 Gregory Barnett (1998, pp. 266ff) uses secondary pitches (among other considerations) to argue
+that seventeenth-century ideas about “key” derive from “church keys” rather than traditional modal theory.
+Powers (1981, p. 453) offers some related observations about tonal differences between Renaissance motets
+sharing the same ﬁnal. Historians such as Powers (1958, 1981, 1992) have rebelled against overly simple
+conceptions of modality, pointing out that earlier musicians understood the phenomenon to include characteristic melodic gestures, complex pitch hierarchies, and so on. The point is well taken, but I think contemporary theorists sometimes have reason to use a basic deﬁnition according to which, for instance, “D
+dorian” simply means “the white notes with D as tonal center.” (Barnett 1998 uses the term “tonality” as a
+synonym for this minimalist deﬁnition of “mode.”) There is nothing wrong with using modern concepts
+to analyze earlier music.
+
+Macroharmony and Centricity
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+Figure 5.6.7 The melody in (a) emphasizes the notes E and A, while that in (b) emphasizes
+E and B. Though both might be said to be “in E phrygian,” there is an important
+difference between them. We might represent this difference by using pitch-class proﬁles
+that identify the second-most important note in a mode.
+
+(Figure 5.6.9). Interestingly, there is only one point in the piece where a single line
+sounds distinct forms of the mobile notes in direct succession; for the most part,
+it is as if the music were “locally scale-based” within each instrument. (This is precisely what leads me to consider F and Fs to be two different forms of the same
+scale degree, rather than analyzing the music using a nine-note scale.) Figure 5.6.9b
+
+173
+Figure 5.6.6
+Pitch-class
+proﬁles for C
+lydian, G ionian,
+G locrian, and
+C phrygian
+(clockwise from
+upper left).
+
+174
+Figure 5.6.8
+A ﬁve-tiered
+pitch-class
+proﬁle
+representing the
+key of C major
+(a) and a proﬁle
+that does not
+represent any
+common key (b).
+
+theory
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+Figure 5.6.9 Stravinsky’s “Petit airs,” from Histoire du soldat uses ﬁve “ﬁxed” pitches (G, A,
+B, D, E) and two “mobile” pitch classes (C/Cs, and F/Fs) (a). We can represent the music
+using a four-tiered pitch proﬁle (b), in which the “mobile” pitch classes are assigned a lower
+weighting than the ﬁxed pitch classes. Here, A is assigned the highest value, indicating that it
+functions as a tonic.
+
+uses a pitch-class proﬁle to represent the
+somewhat blurred tonality of this movement:
+here, the proﬁle indicates that I consider A
+the central pitch; the “ﬁxed” scale degrees are
+assigned the value 1, indicating their relative
+1
+stability, while the mobile scale degrees are
+assigned lower values, indicating their status
+as ﬂuctuating, “secondary” pitches. But as the
+0
+graph shows, these notes are more signiﬁcant
+than those that do not appear at all.
+Global pitch-class proﬁles represent a psychological or conceptual phenomenon—the felt or imagined importance of the different pitch classes. However, the
+2
+
+Macroharmony and Centricity
+Figure 5.6.10 (a) The distribution of pitch classes in the opening phrase of Mozart’s Jupiter
+Symphony. (b) A three-tiered pitch-class that matches Mozart’s distribution reasonably well.
+
+statistical distribution of notes in a piece often correlates reasonably well with the
+three-tiered pitch proﬁles we would intuitively describe them with.17 (Terminological note: I distinguish pitch-class distributions, which measure the statistical frequencies of notes in a piece, from pitch-class proﬁles, which represent subjective assertions
+about psychological importance.) For example, Figure 5.6.10 shows the frequencies
+of the pitch classes in the ﬁrst 23 measures of the ﬁrst movement of Mozart’s Jupiter
+Symphony. This statistical distribution resembles a three-tiered pitch-class proﬁle in
+which both C and G are assigned the value 2, while the remaining diatonic notes are
+assigned the value 1—an arrangement that captures the intuitive sense that C and G
+are most stable in the key of C major, and that the diatonic tones are more stable than
+the nondiatonic tones. Note that we cannot recover all the information about pitch
+prominence simply by counting pitch classes, since G appears more frequently than
+C. But this should not be surprising, as there are many ways of generating centricity besides note repetition. What is interesting is that a very crude count of the pitch
+classes provides a reasonable guide to the relative importance of the notes.
+Indeed, pitch-class distributions can sometimes reveal interesting facts about
+the tonality of speciﬁc passages. For example, Figure 5.6.11 records the note frequencies of the three solos in “Freedom Jazz Dance,” from the Miles Davis Group’s
+Miles Smiles. The piece is an example of “modal jazz,” in which the rhythm section
+plays a relatively static riff emphasizing Bf. Though the music is ostensibly in a
+single key, the pitch-class distributions are all very different, suggesting that the
+three soloists have different interpretations of the piece’s “Bf-ness.” Davis’s distribution suggests Bf dorian, with Bf, C, Df, F, and G occurring most frequently,
+while Shorter’s is more suggestive of Bf mixolydian, emphasizing Af, Bf, C, D, and
+F. Hancock’s is considerably more chromatic than either of these, and the relative
+lack of A, C, and Gf may suggest Bf octatonic. In Chapter 9, we will see that some
+of these differences result from the fact that the soloists do, in fact, play different
+17 This observation derives from Krumhansl and Schmuckler 1986. See also Krumhansl 1990 and 2004.
+Chapter 9 of Huron 2007 contains a particularly informative discussion.
+
+175
+
+176
+
+theory
+Figure 5.6.11 Pitch-class distributions of the three solos in “Freedom Jazz Dance,” from the
+album Miles Smiles. Each soloist emphasizes different pitches, suggesting different ways of
+conceiving of the key.
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+2
+
+1
+
+0
+
+Figure 5.6.12
+A hypothetical
+proﬁle in
+which C and
+Df are equally
+important.
+
+scales over the ﬁxed Bf ostinato. But scales are not the whole story. Even within a
+single scale, the musicians choose to emphasize different notes, creating very different shadings of the underlying Bf tonality.
+Compositionally, I ﬁnd pitch-class proﬁles to be extremely useful devices. I like to
+ask: could I construct (or improvise) music that reﬂects Figure 5.6.8b? Could I write
+music that realizes Figure 5.6.12, in which both C and Df are perceived as equally
+important? The basic technique here is simply to make sure that the more prominent
+notes in the pitch-class proﬁle are accented in various ways. Figure 5.6.13 provides
+an excerpt from a short computer-composed etude, in which pitch-class proﬁles
+were used as probability tables that determine the likelihood of each note’s appearing. Another example, from a more conventional piece, is given in Figure 5.6.14. In
+composing this music, I began with the idea of “coloring” a single tonic note with a
+variety of secondary pitches. The pitch proﬁles
+2
+in (b) provided an intuitive guide, allowing me
+to construct a sequence of improvisatory lines
+that gradually broadened the music’s macroharmonic content. The result is a kind of
+1
+blurred, burbling texture, in which the note A
+is a vey clear tonal center. (Note that the rhythmic language gradually congeals in concert
+0
+with the harmonies, moving from indeterminate
+
+Macroharmony and Centricity
+Figure 5.6.13 Three pitch-class proﬁles, along with a passage of computer-generated music
+embodying the third. Readers with access to the internet can hear a short computer-generated
+etude on the companion website that moves between the three proﬁles.
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+to determinate notation.) It seems to me that there is an enormous amount of unexplored musical territory here, representing the no-man’s-land between traditional
+tonality and full-on atonality. Pitch-class proﬁles, by helping us visualize this territory, can help us imagine ways to explore it.
+
+5.7
+
+where does centricity come from?
+
+Broadly speaking, theorists have explained centricity in two ways. Internal explanations assert that the structure of a group of notes is sufﬁcient to pick one out as a
+tonal center, without any effort on the composer’s part. External explanations focus
+on what composers do, asserting that composers make notes more prominent (or
+stable) by playing them more frequently, accenting them rhythmically or dynamically, placing them in registrally salient positions, and so on. Rather than being a
+property of collections considered abstractly, centricity is a property of collections as
+they are used in actual music.
+
+177
+
+Figure 5.6.14 The opening three phrases of my piece Cathedral (one phrase per line), along with the three pitch-class proﬁles that inspired them.
+
+2
+
+1
+
+0
+
+2
+
+1
+
+0
+
+2
+
+1
+
+0
+
+Macroharmony and Centricity
+
+Internalists typically cite principles such as the following:
+I1.
+I2.
+
+A note is more prominent if it is the lower note of one or more consonant
+intervals (perfect ﬁfth, major third, or minor third) in the macroharmony.
+A note is more prominent if it does not form sharp dissonances (tritone, or
+minor second) with any note in the macroharmony.
+
+Principle I1 suggests, for example, that C is the most prominent tone in the collection
+{C, E, G} and that the note B is poorly suited to be the tonic of the C diatonic scale,
+since there is no scale tone a perfect ﬁfth above it. There is actually some psychological evidence in favor of this view: in an interesting series of experiments, Erkki
+Huovinen has shown that listeners, when asked to identify the tonic of a series of
+notes, generally prefer a note that has a perfect ﬁfth above it.18 Other theorists, such as
+Schoenberg and Ramon Fuller, have used these ideas to argue that ionian and aeolian
+are the most natural or appropriate modes of the diatonic scale.19
+By contrast, external explanations assert that pitch classes become stable or prominent by
+E1.
+E2.
+E3.
+E4.
+E5.
+E6.
+E7.
+
+Appearing more frequently;
+Being held for longer durations;
+Being accented dynamically;
+Being accented rhythmically;
+Being accented registrally (in other words, occurring as melodic high
+points and low points);
+Being the target of stepwise melodic motion, particularly stepwise contrary
+motion converging on a particular pitch class; and
+Being doubled at the octave, or paired with the note a ﬁfth above.
+
+These external explanations all focus on notes as they are deployed compositionally.20
+Note that the two approaches suggest two drastically different views about what is
+and is not musically possible. For suppose internal factors are relatively weak: in this
+case, composers can easily override “internal” centric tendencies, choosing to emphasize notes by a variety of external means. However, if internal factors are strong then
+composers are ill-advised to disregard them—for by attempting to emphasize something other than a collection’s “natural” tonal center, they may create music that is
+unconvincing, inconsistent, or otherwise aesthetically deviant. It is interesting that
+
+18 See Huovinen 2002.
+19 Schoenberg 1911/1983, Fuller 1975.
+20 Cultural factors sometimes play an essential role in determining centricity. For example, many nineteenth-century pieces are structured around tonic chords that rarely appear. To understand these pieces,
+one must hear them as yearning for a consummation that is continually deferred. In these and other cases,
+appropriate determination of the tonal center requires initiation into a cultural practice, rather than simple examination of the formal properties of the music. (See Huron 2007, for more.) Some writers, such as
+Reti (1958) and Huovinen (2002) go so far as to consider centricity to be something that the listener does,
+rather than a property of musical stimuli as such; on this account, centricity is a result of “tonal focusing”
+by which listeners organize pitch material around a primary tone.
+
+179
+
+180
+
+theory
+
+Figure 5.7.1
+(a) Diatonic
+music with no
+clear center.
+(b) Chromatic
+music with a
+clear center.
+
+these two views played a crucial role in early twentieth-century music history, with
+a number of prominent Germanic musicians (including Schoenberg and Schenker)
+inclined toward internalism, and a number of non-Germanic musicians (including
+Debussy) taking the opposite view.21 The divergence between nonscalar atonality and
+scalar “extended tonality” can thus be traced, at least in part, to this difference of
+music-theoretical opinion: for Schoenberg and others, centricity was a matter of a
+natural law, and hence it was necessary to choose between traditional tonality and
+the wholesale abandonment of centricity. For composers in the French and Russian
+traditions, centricity was a compositional choice, and thus it was possible to contemplate musical styles that made use of new modes and scales.
+My own sympathies lie very much with the external view: in most practical cases,
+I believe the internal contributions to centricity are relatively weak and can easily be
+overridden. Consequently it is entirely possible to write diatonic music that is acentric, or chromatic music that emphasizes a particular note (Figure 5.7.1). I do not
+
+21 Schoenberg’s view was that the diatonic scale has an inherent tonal center, but that the chromatic scale does not; see, for example, Chapter 20 of his Theory of Harmony (1911/1983). Perle
+(1996) echoes Schoenberg’s conclusions almost a century later. For the opposite view, see Helmholtz
+(1863/1954, pp. 365–366). Helmholtz’s externalism was shared by composers such as Grieg, Debussy,
+and Stravinsky.
+
+Macroharmony and Centricity
+
+consider either kind of music to be “unnatural.”22 Nor do I have any problem with
+any of the diatonic modes (or any other mode of any other scale): I am entirely convinced by the music of the Renaissance, of Debussy, Ravel, and Shostakovich, and of
+contemporary jazz and rock; I enjoy those numerous passages of twentieth-century
+music that make use of symmetrical scales while still asserting a tonal center; and as a
+composer I believe I can make virtually any note of virtually any collection sound like
+a tonic. (This last conviction has been reinforced by my experience with computers:
+by emphasizing particular notes through repetition, duration, loudness, and stepwise melodic motion, it is easy to create the effect of centricity in otherwise random
+sequences.) Any theorist who wants to argue against these convictions would have to
+ﬁght an uphill battle: indeed, the very claim that the phrygian mode is deﬁcient, or
+that centric music cannot use symmetrical scales, strikes me as evidence of a limited
+musical imagination.
+
+5.8
+
+beyond “tonal” and “atonal”
+
+I want to close this chapter—and by extension, the theoretical half of the book—by
+showing how we can use these ideas to orient ourselves relative to the broad spectrum of contemporary musical styles. I’ll begin by contrasting two twentieth-century
+movements: the chromatic tradition, which rejects ﬁve- to eight-note macroharmonies in favor of the chromatic scale; and the scalar tradition, in which limited macroharmonies continue to play a signiﬁcant role. I’ll then suggest that our inquiry into
+the ﬁve basic components of tonality might help us envision new possibilities lying
+between these two extremes.
+
+5.8.1 The Chromatic Tradition
+A standard trope of music history asserts that the chromatic tradition originates in the
+extended tonality of post-Wagnerian chromaticism. According to this narrative, composers such as Strauss and Reger began to make heavy use of chromatic voice leading,
+to the point where familiar analytical concepts began to lose their purchase: pitch-class
+circulation increased, traditional scales became less important, and centricity became
+less obvious, with key-deﬁning progressions (such as I–ii–V7–I) gradually disappearing. Later composers, feeling that it was unreasonable to retain acoustic consonance
+while abandoning the other components of tonality, created atonality as we know it.
+In my view, this narrative is essentially right: macroharmony was indeed the ﬁrst
+casualty in the war on tonality, and highly chromatic “wandering tonality” does begin
+to approach atonality both in its rate of pitch-class circulation and in the absence
+
+22 Interestingly, the internal view has been defended both by radical atonal composers and by conservative opponents of atonality, including Schoenberg (1911/1983, p. 394) and William Thomson (1991,
+pp. 87–88). Thus, although these two writers have diametrically opposed aesthetic orientations, they have
+a similarly limited conception of tonal possibilities.
+
+181
+
+theory
+Figure 5.8.1
+(a) Reger’s tonal music
+sometimes circulates
+through the pitch
+classes almost as fast
+as Schoenberg’s atonal
+music. (b) Some of
+Reger’s pieces exhibit a
+very broad distribution
+of macroharmonies,
+comparable to that
+found in atonal music.
+Again, set-classes on the
+x-axis are labeled using
+Allen Forte’s system, so
+that “15” corresponds to
+his set “7–15.”
+
+12
+
+Number of pitch classes
+
+182
+
+10
+8
+Schoenberg, Op. 11 No. 1
+Reger, Op. 73
+
+6
+4
+2
+1
+
+51
+
+101
+
+151
+
+201
+
+251
+
+Window size
+14
+Schoenberg, Op. 11 No. 1
+
+Percent of total
+
+12
+
+Reger, Op. 73
+
+10
+8
+6
+4
+2
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Six-note chord type
+
+of traditional macroharmonies.23
+Figure
+Schoenberg, Op. 11 No. 3
+5.8.1 shows that Reger’s
+15
+Reger, Op. 129 No. 2
+music sometimes circulates quickly through
+10
+the twelve pitch classes
+while also abandoning
+5
+clearly articulated macroharmonies. (The road
+0
+to atonality, one might
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12
+say, was paved with
+Three-note chord type
+chromatic voice leading.) That said, there
+is still an important step from Reger to Schoenberg. For not only did Schoenberg
+“emancipate the dissonance,” treating any possible combination of notes as a potential
+20
+
+Percent of total
+
+Figure 5.8.2
+Reger’s highly
+chromatic
+tonal music
+often exhibits
+more harmonic
+consistency than
+Schoenberg’s
+atonal music.
+Here, the “spike”
+indicates that the
+music is saturated
+with major and
+minor triads.
+
+23 See Proctor 1978.
+
+Macroharmony and Centricity
+
+harmony, but he also took the much more radical step of rejecting harmonic consistency—in other words, the very idea that harmonies should be structurally similar to
+one another. By way of illustration, Figure 5.8.2 contrasts the distribution of threenote chords in Schoenberg’s Op. 11 No. 3 and Reger’s Op. 58 No. 5: where Reger’s
+graph is strongly peaked at the familiar major and minor triads—which together
+account for more than a third of the three-note chords in the piece—Schoenberg’s
+graph is much ﬂatter, suggesting a much more even distribution of chord types. In
+this respect, Schoenberg’s music goes far beyond the simple rejection of tonality: by
+abandoning harmonic consistency, he took the radical step from “everything is permitted” to “everything is permitted at all times.” Not only was he willing to use any
+collection of notes as a harmony, but he was also willing to use an enormous range of
+chord types within very short temporal spans.24
+It is worth asking whether this feature of Schoenberg’s music might have been an
+unintended byproduct of the decision to abandon consonant chords. We have seen that
+harmonic consistency and conjunct melodic motion can be combined only under very
+special circumstances, typically involving acoustically consonant chords. It follows that
+composers who abandon consonance may put themselves in a difﬁcult situation, sacriﬁcing their ability to achieve the traditional two-dimensional coherence of Western
+music. Certainly, it is suggestive that the music of the second Viennese school often
+occupies two opposite poles: pointillistic textures that are harmonically consistent
+(as in the opening of Webern’s Concerto for Nine Instruments), and conjunct passages
+that use a very wide range of harmonies (as in the opening of Pierrot Lunaire’s “Die
+Kreuze”).25 It seems possible that atonal composers did not explicitly choose to abandon
+harmonic consistency or conjunct melodic motion; instead, this choice may have been
+forced upon them by their prior rejection of acoustically consonant chords.
+It is also clear that there are some speciﬁc ways in which atonal music resembles
+random music. Figure 5.8.3a shows that the pitch-class circulation graph of the ﬁrst
+movement of Schoenberg’s Op. 11 is nearly indistinguishable from that of an equally
+long series of random pitches. Figures 5.8.3b–c compare the distributions of harmonies in Schoenberg’s piece with those in random sequences. Again, both atonality
+and random music contain a broad and relatively even distribution of chord types.
+Finally, Figure 5.8.3d contrasts the frequency of pitch classes in a Schoenberg movement with those in random sequences: the graphs are both relatively ﬂat, reﬂecting
+the absence of clear points of tonal emphasis. (It is worth recalling that Schoenberg’s
+later twelve-tone method was explicitly designed to promote ﬂat pitch-class proﬁles
+of this sort: as Schoenberg emphasized, doubling or repeating notes could potentially give rise to feelings of centricity, which would be reﬂected by unevenness in the
+pitch-class proﬁle.26) Taken together, the ﬁgures suggest that there is some truth to a
+
+24 Curiously, this has been relatively little discussed in the literature, even though the abandonment of
+harmonic consistency is (to my ear, at least) a fairly salient feature of Schoenberg’s music.
+25 Of course, there are many passages that exhibit neither efﬁcient voice leading nor harmonic
+consistency.
+26 Schoenberg 1975, p. 219; Huron 2007 makes a similar point.
+
+183
+
+theory
+Figure 5.8.3 (a) Pitch-class circulation in Schoenberg and in random notes. (b) Distribution
+of six-note macroharmonies in Schoenberg and in random notes. (c) Distribution of threenote harmonies in Schoenberg’s Op. 11 No. 3 and in random notes.
+
+Number of pitch classes
+
+12
+10
+8
+Schoenberg, Op. 11 No. 1
+Random Notes
+
+6
+4
+2
+1
+
+51
+
+101
+
+151
+
+201
+
+251
+
+Window size
+
+Percent of total
+
+16
+14
+
+Schoenberg, Op. 11 No. 1
+
+12
+
+Random Notes
+
+10
+8
+6
+4
+2
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Six-note chord type
+
+12
+
+Percent of total
+
+184
+
+Schoenberg, Op. 11 No. 3
+
+10
+
+Random Notes
+
+8
+6
+4
+2
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Three-note chord type
+
+10 11 12
+
+Macroharmony and Centricity
+Figure 5.8.3 (d) Pitch-class distributions in Schoenberg’s Op. 11 No. 1 (left) and in random
+notes (right).
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+common (“naive”) response to atonality—namely, “it sounds random.” Statistically
+speaking, atonal music is often remarkably similar to random notes, and listeners
+perceive this fairly accurately.
+Of course, in abandoning tonality, Schoenberg and other atonal composers
+attempted to substitute alternative methods of musical organization for those we have
+been considering—some of which, such as the twelve-tone method, involve the order
+of pitch sequences rather than their unordered pitch content. Discussions of atonal
+music often focus on the difﬁculties involved in perceiving this alternative organization: sympathetic observers sometimes explain atonality’s unpopularity by comparing
+it to a language that is very difﬁcult to learn, while more critical commentators, such
+as Fred Lerdahl and Diana Raffman, suggest that atonal music may be organized
+according to principles that are beyond any human perceptual understanding.27 The
+preceding discussion suggests that we might want to reconsider this line of argument.
+For appreciating atonal music requires more than simply learning to appreciate alternative methods of musical organization; it also requires learning not to respond to
+those statistical features that the music shares with random sequences of notes. And
+insofar as a listener fundamentally dislikes the sound of random pitches, then it may
+not matter how atonal pieces are organized: after all, mere ordering does not typically
+convert unpleasant stimuli into pleasant ones. (Imagine someone causing you pain, or
+feeding you disgusting food, according to a perceptible and highly structured pattern!)
+If this is right, then atonal music is not so much analogous to a language that is hard
+to understand; instead, it is more like a taste that many people do not see the point of
+acquiring. To put it crudely: people dislike atonal music, not because they have a hard
+time understanding it, but because they think it sounds bad.28
+
+27 See Babbitt 1958, Lerdahl 1988, and Raffmann 2003. Babbitt compares atonal music to advanced
+mathematics, rather than a complex language, but the point is similar.
+28 I should clarify that I am not denying that many listeners have a cognitive, language-like relation to
+music; instead, I am suggesting that direct sensory pleasure also plays a signiﬁcant role. My claim is that,
+in some cases, the unpleasantness of the musical stimuli may be more important than the perceptibility of
+underlying structure: pleasant-but-random is perhaps preferred to unpleasant-but-structured.
+
+185
+
+186
+
+theory
+
+None of this implies that highly chromatic music actually is bad or otherwise aesthetically ﬂawed: on the contrary, I think moments of extreme chromaticism (and
+even randomness) can often be artistically compelling. However, I do think that we
+might have reason to resist the claim that fans of atonality constitute a cognitive elite,
+or that the enjoyment of atonal music is a straightforward function of unusual powers
+of musical understanding. For these claims tend to rely on the rather dubious suggestion that if people understood atonal music then they would like it—a claim that is no
+more likely to be true of Schoenberg and Babbitt than it is of heavy metal or polka.
+Instead, I think it is better to describe the aﬁcionados of atonality as having managed
+to acquire a taste for highly chromatic musical textures: like the taste for clam chowder
+ice cream, this is one that people often do not care to cultivate. But that neither makes
+it worthy of approval nor condemnation—instead, it is just one of the myriad different
+specialized pleasures whose pursuit makes contemporary society so colorful.
+
+5.8.2 The Scalar Tradition
+Diametrically opposed to atonality is the “scalar tradition” that makes extensive use
+of familiar scales and modes. This tradition encompasses at least six major twentiethcentury movements—impressionism, neoclassicism, jazz, rock, minimalism/postminimalism, and neo-Romanticism—and a good deal of other music as well (including, to
+various extents, music of Scriabin, Stravinsky, Bartók, and Shostakovich). Of course,
+the scalar tradition is itself diverse: some styles (including mid-century neoclassicism
+and contemporary rock) are predominantly diatonic, while others (including impressionism and jazz) make much greater use of nondiatonic scales; some composers
+write largely scalar music, while others juxtapose familiar scales with chromatic or
+even atonal passages. Nevertheless, we will see in Chapter 9 that there are enough
+Figure 5.8.4 Nondiatonic scales in nineteenth-century music. In (a), a fragment of the
+“Gypsy” scale (G-A-Bf-Cs-D-Ef-Fs) in Grieg’s Lyric Piece “Gjetergutt” (“Shepherd’s Boy”),
+Op. 54 No. 1. In (b), the acoustic scale in Liszt’s “Angélus! Prière aux anges gardiens”), Années
+de pèlerinage, Year 3.
+
+Macroharmony and Centricity
+Figure 5.8.5 (a) The two-dimensional modulatory space of twentieth-century diatonic
+music. Horizontal motion corresponds to scalar transposition; vertical motion chromatic
+transposition. The ﬁgure’s left and right edges are glued together, as are its top and bottom
+edges. (b) The three-dimensional space of twentieth-century scalar music. Each plane of the
+ﬁgure is analogous to (a); vertical motion changes the underlying scale.
+
+rans
+p
+
+tic t
+
+chro
+ma
+
+scale shift
+
+ositi
+
+on
+
+commonalities among twentiethcentury composers to justify talk
+of a scalar “common practice.”
+Like the chromatic tradition,
+octatonic
+the scalar tradition has its origins
+harmonic
+in the late nineteenth century.
+acoustic
+Composers such as Chopin, Liszt,
+Mussorgsky, Rimsky-Korsakov,
+diatonic
+Grieg, and Fauré began experimenting with the various modes
+scalar transposition
+of the diatonic scale, as well as
+with whole-tone, octatonic, and melodic and harmonic minor scales (Figure 5.8.4).29
+Historians have often conceptualized this tradition extrinsically—as reﬂecting “folk”
+inﬂuences external to the functionally harmonic tradition. But we can also understand the scalar tradition intrinsically, as representing an expansion and generalization of traditional compositional practices. In particular, twentieth-century scalar
+composers were the ﬁrst to systematically combine three fundamental musical operations: change of tonal center, change of scale, and chromatic transposition. These
+operations are represented geometrically in Figure 5.8.5. Here, each plane represents
+the combination of chromatic and scalar transposition, while motion between scales
+is represented by vertical motion between the planes.30 The resulting modal system
+29 Samson 1977 emphasizes the late nineteenth-century divergence between scalar and chromatic
+traditions.
+30 This diagram should be understood as an abstract representation of musical possibilities; it is not a
+portion of the geometrical spaces described in Chapter 3.
+
+187
+
+188
+
+theory
+Figure 5.8.6 Twentieth-century scalar composers potentially have a very wide range of scales
+and modes to work with.
+
+Scale Type
+
+Number
+of Scales
+
+Number
+of Notes
+
+Mode
+Types
+
+Total Number
+of Modes
+
+Pentatonic
+Whole tone
+Hexatonic
+Diatonic
+Acoustic
+Harmonic Min.
+Harmonic Maj.
+Octatonic
+Chromatic
+TOTAL
+
+12
+2
+4
+12
+12
+12
+12
+3
+1
+70
+
+5
+6
+6
+7
+7
+7
+7
+8
+12
+
+5
+1
+2
+7
+7
+7
+7
+2
+1
+39
+
+60
+12
+24
+84
+84
+84
+84
+24
+12
+468
+
+provides a truly vast range of different key areas (Figure 5.8.6): instead of seven modes
+or 24 major and minor keys, composers now have more than 450 different tonal areas
+to chose from!
+Within the scalar tradition, we can distinguish chordal from “pandiatonic” (or perhaps “panscalar”) approaches: chordal music preserves the two-tiered “chord within
+scale” organization of earlier Western music; while pandiatonic music effaces the role
+of chords as scales themselves begin to assert a more central harmonic role.31 (As mentioned earlier, Debussy’s “Voiles” is an early example of this second practice.) The distinction between these two approaches thus mirrors the distinction between the chromaticism
+of composers like Reger and that of true atonality: Reger’s music, like traditional tonality,
+preserves harmonic consistency, limiting itself to a small number of recognizable chord
+types, while pandiatonic music (like more radical atonality) abandons harmonic consistency altogether. This is illustrated graphically in Figure 5.8.7. Once again, we see that the
+binary opposition between “chromatic” and “nonchromatic” (or “tonal” and “atonal”)
+blurs a number of more speciﬁc music-theoretical distinctions.
+Returning now to a question broached earlier in this chapter: is it really true that
+Western music became more chromatic over the course of its history? Clearly, there
+is a sense in which it has: the progression from Palestrina to Mozart to Schubert to
+Wagner to Reger to Schoenberg exhibits a steady and quantiﬁable increase in chromaticism (Figure 5.3.2). What is left out of this story is that late nineteenth-century
+composers had already begun to rebel against this trend. This scalar tendency gathered steam throughout subsequent decades, culminating in an unprecedented explosion of diatonicism in the works of composers such as Shostakovich, Riley, Reich,
+Glass, Pärt, Górecki, Adams, Bryars, and ter Veldhuis, not to mention jazz, rock,
+and other popular forms of music. (The trend is also evident in the renewed appre-
+
+31 The term “pandiatonic” was invented by Nicolas Slonimsky in the ﬁrst edition of Music Since 1900
+(Slonimsky 1994). It has been applied both to diatonic music lacking harmonic consistency and to diatonic
+music lacking centricity. Here, I use it in the former sense.
+
+Macroharmony and Centricity
+Figure 5.8.7 In both the scalar and chromatic traditions, there are genres exhibiting
+harmonic consistency (top row) as well as genres in which harmonic consistency does not
+play as an important a role (bottom).
+Limited Macroharmony
+
+YES
+
+NO
+
+traditional
+scale-based tonality
+(Debussy, Jazz)
+
+“triadic atonality”
+(Gesualdo, Reger)
+
+NO
+
+Harmonic Consistency
+
+YES
+
+pandiatonicism
+(Voiles)
+
+complete atonality
+(Schoenberg, Babbitt)
+
+ciation for early music.) Thus, where early twentieth-century historians might have
+seen a relentless, ever-increasing drive toward chromaticism, twenty-ﬁrst century
+musicians confront a very different environment, in which early twentieth-century
+scalar music seems as much a harbinger of things to come as a relic of the past.
+
+5.8.3 Tonality Space
+Of course, the chromatic and scalar traditions represent just a portion of the huge
+tapestry that is twentieth-century music. Figure 5.5.4 depicted twentieth-century
+music as lying on a two-dimensional continuum, whose axes represented the rate of
+pitch-class circulation and the explicitness of macroharmony. While the scalar tradition lies on the far right of the graph, and while complete atonality is in the lower
+left corner, there is a considerable amount of music that does not ﬁt into either category. Many of Prokoﬁev’s pieces, for example, make free use of accidentals without
+attempting to stay within a single scale for very long. Similarly, composers such
+as Stravinsky, Milhaud, Bartók, and Shostakovich explored polytonal textures in
+which familiar musical materials are superimposed, creating the effect of clashing
+keys.32 Still others—such as the Messiaen of the Quartet for the End of Time or Vingt
+regards sur l’enfant-Jésus—wrote music that embraces many different techniques,
+being at different points traditionally tonal, polytonal, completely atonal, or several
+of these at once (Figure 5.8.8).
+Among these myriad approaches, György Ligeti’s “non-atonality” stands out as
+being particularly relevant to the present discussion. Though dissonant, his music
+
+32 Although several eminent composers and theorists have critiqued the notion of polytonality (Bartók
+1976, pp. 365–366, Hindemith 1937/1984, Vol. 1, p. 156, Forte 1955, and Samson 1977, p. 256), the term
+seems unobjectionable to me. Some music can be segregated into relatively independent musical streams,
+each with its own sonic character—for instance, when two timbrally distinct instruments are widely separated spatially or in register. Here the auditory streams do not completely fuse, allowing us to distinguish
+independent scales, macroharmonies, and even tonal centers in each stream.
+
+189
+
+190
+
+theory
+Figure 5.8.8 Messiaen’s “Première communion de la Vierge” (Vingt regards sur l’enfant-Jésus
+No. 11) combines an octatonic-infused tonality with atonal upper-register gestures.
+
+often exhibits a harmonic consistency that contrasts with the more classical atonality
+of Schoenberg, Stockhausen, or Babbitt. This is in large part due to Ligeti’s innovative use of chromatic clusters—and more speciﬁcally, to his “micropolyphonic” technique of moving multiple voices within a ﬁxed chromatic collection. As I mentioned
+in Chapter 1, this “micropolyphony” constitutes a uniquely modern solution to the
+problem of combining conjunct melodic motion with harmonic consistency, one that
+exploits the near-permutation symmetry of very uneven chords (§1.3.1, §2.9). (Alternatively, we can say that Ligeti’s music exploits the mirror boundaries of the higherdimensional chord spaces, rather than taking advantage of their twists [§3.6]). I ﬁnd
+it remarkable that there are just two general techniques for combining conjunct melodies with consistent harmonies, the ﬁrst involving nearly even chords and underwriting the tonal procedures of the last ﬁve hundred years, the second involving clustered
+chords and featuring in the atonality of the 1960s. It is particularly interesting that this
+second solution arose almost ﬁfty years after the ﬁrst experiments with atonality—as if
+it took that long for composers to abandon the doomed project of writing traditional
+music with nontraditional sonorities, and to instead embrace a more radical approach
+that exploits the distinctive virtues of nontraditional, clustered chords. In a real sense,
+this music is unclassiﬁable: atonal by virtue of its dissonance, but tonal in its aspiration
+to combine harmonic consistency with conjunct melodic motion.
+One of my goals here has been to identify concepts that allow us to think about
+the full spectrum of musical possibilities, ranging from traditional tonality to outright atonality. From this point of view, the ﬁve basic components of tonality are
+useful insofar as they demarcate a collection of conceptual possibilities—as if each
+were a musical “vector” pointing into its own abstract dimension. Together, these
+(metaphorical) vectors span a region that could be called “tonality space.” We can
+situate unfamiliar pieces or genres within this metaphorical space by asking questions
+such as those in Figure 5.8.9. The ﬁrst set of questions concerns chords and melodies,
+and generalizes the traditional concerns of harmony and counterpoint; the second
+extends notions such as “mode,” “key,” and “tonic” to a broader range of macroharmonic possibilities. Collectively, they replace the opposition “tonal”/“atonal” with a
+much more ﬁne-grained set of categories, more appropriate to the richness of contemporary musical practice.
+Composers can use these questions to situate themselves within the world of
+musical possibilities. For some, this may be a matter of settling in a relatively small
+
+Macroharmony and Centricity
+LOCAL
+1. Does the music use a small set of similar-sounding chords?
+1a. How consonant are these chords?
+1b. Do these chords progress freely or are certain progressions favored?
+2. Does the music use efficient voice leading?
+2a. Does this voice leading take place in chromatic space or in another
+scale?
+2b. Does it exploit near symmetries, as discussed in Chapter 2?
+2c. Can it be usefully modeled with the geometrical spaces of Chapter 3?
+GLOBAL
+3. How fast do pitch classes circulate?
+4. Does the music articulate clear macroharmonies?
+4a. Are these macroharmonies structurally similar to each other?
+4b. How consonant are the macroharmonies?
+4c. How fast do macroharmonies change?
+4d. Does the music exploit efficient voice leading between these
+macroharmonies?
+4e. Does the music exploit “polytonal” effects by juxtaposing multiple
+scales or macroharmonies, each retaining their own identity?
+5. Is there a sense of tonal center?
+5a. Are there important secondary pitches?
+
+region of tonality space for the majority of their careers. (A strategy that is perfectly
+reasonable insofar as one has a strong preference for a very particular kind of music,
+or if one wants to appeal to audiences who do.) Others—following in the footsteps
+of Stravinsky, Bartók, Shostakovich, Messiaen, Ligeti, and John Adams—may prefer
+to compose music that traverses a broader range of tonality space, sometimes within
+the span of a single piece. Unimaginative critics may decry this as a matter of polystylistic or postmodern inconstancy, but it is perhaps better described as a desire to
+embrace the full range of musical opportunities, an attitude encapsulated in Mahler’s
+famous remark that composers create musical worlds “with all the technical means
+available.”33 For composers of a maximalist bent, tonality space is the ﬁeld in which
+contemporary music operates, just as the 24 major and minor keys set the boundaries
+of eighteenth-century musical exploration.
+To my mind there is a lot of fertile ground here. Having completed the theoretical
+portion of the book, my hope is that some of you will feel inspired to think about how
+to combine the ﬁve features—whether by making creative use of nearly symmetrical chords, exploring the voice-leading spaces of Chapter 3, manipulating interesting
+scales in novel ways, exploiting unusual pitch-class proﬁles, devising new combinations of scale, macroharmony, and centricity, or by doing something else entirely.
+Those who are uncertain about how to proceed may beneﬁt from the analyses in Part
+II, which consider the ways in which previous composers have solved this problem.
+Besides deepening our appreciation for the music of the past, these analyses may suggest new directions to composers of the present.
+33 See De La Grange 1973, p. 330.
+
+191
+Figure 5.8.9
+Questions that
+help us situate
+music in tonality
+space.
+
+This page intentionally left blank
+

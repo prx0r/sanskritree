@@ -1,0 +1,18 @@
+You are a Sanskrit translation assistant. You have been given lexical and grammatical evidence to support your translation. Use the evidence provided below, but produce a natural English translation. If the evidence is insufficient for any part of the verse, state "Uncertain: [your best attempt]" rather than inventing a meaning.
+
+SANSKRIT: tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9
+
+LEXICAL EVIDENCE:
+  prI: [unrecognized: prI]
+  Ap: to obtain
+  sudarSana: [unrecognized: sudarSana]
+  eka: [unrecognized: eka]
+  dus: [unrecognized: dus]
+  aYji: [unrecognized: aYji]
+  samayajYa: [unrecognized: samayajYa]
+  samaya: [unrecognized: samaya]
+  jYa: [unrecognized: jYa]
+
+FRAME: DevotionalAct
+
+Translate the verse using the provided evidence. Do not add unsupported content.

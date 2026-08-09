@@ -1,0 +1,392 @@
+[
+  {
+    "passage_id": "bhairavastava.1",
+    "track": "a_known",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] hfd vand maya cit2",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "bhairavastava.4",
+    "track": "a_known",
+    "source": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi || AgBhaist_4",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] SaNkara sevana1 cintana DI2 iras",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "bhairavastava.6",
+    "track": "a_known",
+    "source": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi || AgBhaist_6",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[IdentityClaim] BAva parA aha a nirvf i"
+    }
+  },
+  {
+    "passage_id": "spk.1.1",
+    "track": "a_known",
+    "source": "taṃ śakticakravibhavaprabhavaṃ śaṃkaraṃ stumaḥ",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] tad Sakti cakra viBava",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "spk.1.5",
+    "track": "a_known",
+    "source": "na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] mUDa tad",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "spk.2.6",
+    "track": "a_known",
+    "source": "tadātmatāsamāpattir icchataḥ sādhakasya yā",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] tadAtmatAsamApattiH iz1 sADaka",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "bhagavad_gita.x.47.41e7",
+    "track": "a_known",
+    "source": "bhg 2.47 karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] aDikf tA mA Pal katT mA Pal BU mA tA akarman",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "bhagavad_gita.x.45.c4b1",
+    "track": "a_known",
+    "source": "bhg 1.45 yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] yadi mA aprati Sastra aS raRvi han tan mA BU",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.28",
+    "track": "a_known",
+    "source": "cintayet tāṃ dviṣaṭkānte śyāmyantīm bhairavodayaḥ",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[Instruction] dvi"
+    }
+  },
+  {
+    "passage_id": "vb.55",
+    "track": "a_known",
+    "source": "praviśya hṛdaye dhyāyan muktaḥ svātantryam āpnuyāt",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] [no lemmas]",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "mbt.v1.34.9bf9",
+    "track": "b_untranslated",
+    "source": "१५३ सन्ततिप्रसरौघ स्यान्निरानन्दा च सा कला । संसारे ५४ वर्तते तस्मात् तरङ्गिण्या परा कला ।। ३४ ।।",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] as ca sA kal saMsf vft tasmAt taraMgiRI parA kal",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "mbt.v3.50.2ae8",
+    "track": "b_untranslated",
+    "source": "तन्मध्ये चाधिकार”६ तु मन्थानस्य महत्पुरे । मन्थानभैरवी शक्तिर्भेदानां कुलकौलिनी ॥ ५० ॥",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] tan tu na mah",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "mbt.v1.6.d902",
+    "track": "b_untranslated",
+    "source": "श्रीनाथ उवाच मण्डलान्ते तु कः कती मण्डलं तु कथं भवेत् । कथमानन्दशक्तिस्तु ँ सा शक्तिर्भीषण कथम् ।। ६ ॥",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] SrInATa vac maRqala tu kas kati tu BU sA kaTam",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "mbt.v1.14.6f6f",
+    "track": "b_untranslated",
+    "source": "एतत् सर्वं समासेन पूज्यसद्भावनिर्णयम्” । तस्याष्टादशभेदानि” कथं ज्ञास्यन्ति पुत्रकाः ॥ १४ ॥",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] etad samas jYA putraka",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.79",
+    "track": "b_untranslated",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] kakza kurvat",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.102",
+    "track": "b_untranslated",
+    "source": "bhramad vā dhyāyataḥ sarvam paśyataś ca sukhodgamaḥ",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] Bramat paS",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.132",
+    "track": "b_untranslated",
+    "source": "śabdān pratikṣaṇaṃ dhyāyan kṛtārtho 'rthānurūpataḥ",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[Instruction] pratikṣaṇa kṛta kfta"
+    }
+  },
+  {
+    "passage_id": "spk.3.19",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] ni-yacCat",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "spk.3.19",
+    "track": "b_untranslated",
+    "source": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[DevotionalAct] ni-yacCat"
+    }
+  },
+  {
+    "passage_id": "bhairavastava.9",
+    "track": "b_untranslated",
+    "source": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam || AgBhaist_9",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[DevotionalAct] prI Ap sudarSana eka dus aYji samayajYa samaya jYa"
+    }
+  },
+  {
+    "passage_id": "mbt.v1.10.0d90",
+    "track": "c_adversarial",
+    "source": "मूर्तिमध्ये कथं तच्च मुद्रा तत्रैव कीदृशी । बालक्रमं च कौमारं तथा वृद्धक्रमं कथम् ।। १० ।।",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] tad mudra f kIdfS ca taTA kaTam",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "mbt.v3.67.34bc",
+    "track": "c_adversarial",
+    "source": "ईश्वर: ° पञ्चवक्त्रस्त्वं ज्ञानार्थी रुद्रसंज्ञकः । त्रैलोक्ये २८२ त्वं गुरुः २८३ कर्ता २४ हती त्वं च पुनः पुनः सृष्टिसंहारकर्तृत्वे एकस्त्वं पार्थिवे कुले । तत् किमर्थं९ जगन्नाथ शाम्भवाज्ञां त्वमिच्छसि ।। ६७ ।।",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[DevotionalAct] IS jYA vac guru kf hati ca punar punar vA pArTiva kula tad jagannATa tva",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.11",
+    "track": "c_adversarial",
+    "source": "na cāsau triśirā devo na ca śaktitrayātmakaḥ",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[DevotionalAct] triSirA śakti"
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[Instruction] anAvfta rUpatva anna"
+    }
+  },
+  {
+    "passage_id": "vb.61",
+    "track": "c_adversarial",
+    "source": "yugapac ca dvayaṃ tyaktvā madhye tattvam prakāśate",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[Instruction] yugapad"
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] anAvfta rUpatva anna",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.36",
+    "track": "c_adversarial",
+    "source": "dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] [no lemmas]",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "bhairavastava.1",
+    "track": "c_adversarial",
+    "source": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || AgBhaist_1",
+    "labels": {
+      "A": "B2",
+      "B": "C"
+    },
+    "outputs": {
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma...",
+      "C": "[Instruction] hfd vand maya cit2"
+    }
+  },
+  {
+    "passage_id": "spk.1.2",
+    "track": "c_adversarial",
+    "source": "tasyānāvṛtarūpatvān na nirodho'sti kutracit",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] anAvfta rUpatva anna",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  },
+  {
+    "passage_id": "vb.79",
+    "track": "c_adversarial",
+    "source": "kakṣavyomni manaḥ kurvan śamam āyāti tallayāt",
+    "labels": {
+      "A": "C",
+      "B": "B2"
+    },
+    "outputs": {
+      "C": "[Instruction] kakza kurvat",
+      "B2": "You are a Sanskrit translation assistant. You have been given lexical and gramma..."
+    }
+  }
+]

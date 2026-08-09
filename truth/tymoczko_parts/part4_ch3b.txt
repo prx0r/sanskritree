@@ -1,0 +1,1779 @@
+3.7
+
+pure parallel and pure contrary
+motion
+
+Are we completely certain that these three possibilities are the only ones? Some
+readers might think this is obvious, while others may (justiﬁably) wonder whether
+there might be additional features of Möbius-strip geometry that we have overlooked.
+How do we know we have accounted for all the relevant musical alternatives?
+Let me address this worry by noting that any two-voice voice leading can be
+decomposed into two components, one involving pure contrary motion and the
+other involving pure parallel motion (Figure 3.7.1). The “pure contrary” component
+moves the notes by the same amount in opposite directions, while the “pure parallel” component moves the notes by the same amount in the same direction. Geometrically, the “contrary” component will be conﬁned to a vertical slice of the Möbius
+strip, such as that in Figure 3.7.1b, while the transpositional component will move
+horizontally. This decomposition into parallel and contrary is nothing other than
+high school vector analysis, which dissects arbitrary vectors into their x and y components.14 Musically, the goal of the decomposition is to focus on the relative motion
+among the voices, ignoring the parallel motion they all share.
+Now consider any efﬁcient voice leading between transpositionally related dyads.
+The purely contrary component of this voice leading will connect transpositionally
+related dyads lying in the same vertical slice of the Möbius strip. It is visually obvious
+that the contrary component must either bounce off the mirror or cross the midpoint
+of the line. In the former case, it will be smaller when the chord is uneven; in the latter
+case, it will be smaller when the chord is even. Simple examination of the cross section shows that there are no other possibilities: if a dyad is neither particularly even
+nor particularly uneven, then it simply cannot participate in purely contrary voice
+leadings of the sort we are interested in.
+We will periodically ﬁnd it useful to abstract away from a voice leading’s parallel component in this way. Geometrically, this involves restricting our attention to a
+cross section of chord space—the vertical line in Figure 3.7.1b rather than the entire
+13 Note that Western composers typically conceive of two-note chords as subsets of larger triadic collections, and hence are not concerned with (two-voice) “harmonic consistency” as described in this section. My goal is simply to illustrate general principles in the simplest geometrical setting; as we will shortly
+see, the same basic principles hold in higher dimensions as well.
+d1 , d2
+→(y1, y2) we can transpose the ﬁrst chord by (d1 + d2)/2 semitones
+14 Given the voice leading (x1, x2) ⎯⎯⎯
+so that the two voices move by the same amount in opposite directions. This is the “pure contrary” component
+of the voice leading. The purely transpositional voice leading moves both voices by (d1 + d2)/2 semitones.
+
+81
+
+82
+
+theory
+Figure 3.7.1 Any voice leading can be decomposed into parallel and contrary components.
+Here, the voice leading (E, B)®(Fs, B) (a) combines the parallel (E, B)®(F, C) (b), which
+moves both voices up by semitone, with the contrary (F, C)®(Fs, B) (g), which moves the
+voices semitonally in opposite directions. Pure parallel motion is represented geometrically
+by horizontal lines, while pure contrary motion is vertical. This means that the pure
+contrary component of any voice leading will remain within a cross section of the space (b),
+containing dyads whose pitch classes sum to the same value.
+
+Möbius strip. However, although every cross section of the space contains precisely
+the same chord types, not all of these appear in twelve-tone equal-tempered forms.
+Consider the chord {Cμ, Eμ} (C quarter-tone sharp, E quarter-tone sharp), which lies
+halfway between {Cs, E} and {C, F}.15 Although this chord cannot be played on an
+ordinary piano, it is a major third, transpositionally related to familiar chords like
+(C, E). (Geometrically, {Cμ, Eμ} lies on the same horizontal line as {C, E} and {Df,
+F}, halfway between them.) Clearly, no vertical cross section of the Möbius strip will
+contain twelve-tone equal-tempered major and minor thirds, even though every such
+cross section contains some representative of every chord type.
+
+15 This is because Cμ is a quarter tone above C, halfway between C and Cs, while Eμ is a quarter tone
+below F, halfway between F and E. The voice leading (C, F)®(Cμ, Eμ) therefore involves pure contrary
+motion.
+
+A Geometry of Chords
+
+When restricting our attention to a single cross section, it is therefore convenient to
+relabel its points so that all twelve-tone equal-tempered intervals are on equal footing.
+Figure 3.7.2a identiﬁes points according to the interval they represent: 01 for minor
+second, 02 for major second, and so on, with the symbols “T” and “E” referring to ten
+and eleven, respectively. These new labels can be understood as referring to chord types,
+rather than particular chords: the label 04, for instance, refers to any major third, rather
+than the particular pitches C and E.16 Note that the cross section is redundant: major
+thirds can be represented both by 04 or 08, just as perfect ﬁfths are represented both by
+05 and 07. (Remember that our chords are unordered.) This means that the contrary
+component of any voice leading can be represented in this abstract space in two different ways (Figure 3.7.3). Removing this redundancy produces a true “set class” space in
+which each point corresponds to a chord type; however, this involves some unpleasant
+mathematical complexities, so we will need to learn to live with the redundancy.
+It turns out that line segments in the cross section represent collections of voice
+leadings, all “individually T-related” to one another (§2.6). This is because the operation of “individual transposition” alters the horizontal component of a voice leading
+while leaving the vertical component unchanged. Figure 3.7.4 shows that the voice
+leading (E, B)®(F, Bf) is represented by a purely vertical line segment, with no horizontal component whatsoever. The voice leading (G, D)®(Fs, B) is related to it by
+individual transposition: we transpose the ﬁrst chord up by minor third, which corresponds to sliding it rightward by three places, while we transpose the second chord
+up by one semitone, which amounts to sliding it rightward by one place. This introduces a purely horizontal component into the voice leading while simply shifting the
+
+Figure 3.7.2 (a) It is
+useful to label the cross
+sections such that every
+equal-tempered interval is
+represented. (b) To translate
+these abstract labels into
+labels for particular chords
+in a cross section, subtract a
+constant from each number
+in the label so that its
+elements sum to the same
+value. Here, for example
+we recover the sum-0 cross
+section from the more
+abstract labels.
+
+16 Geometrically, we are investigating the projection of chords onto the cross section, rather than some
+particular slice of the space. This is because we are using the cross section to represent the larger space.
+
+83
+
+84
+Figure 3.7.3
+There are always
+two equally good
+ways to move
+the contrary
+component of a
+voice leading into
+a particular cross
+section. Either
+of the arrows in
+(b) can represent
+the voice leadings
+in (c).
+
+Figure 3.7.4
+Individually
+T-related voice
+leadings can
+be moved
+into the same
+cross section
+so that their
+purely contrary
+components
+coincide.
+Here, the voice
+leadings in (c)
+share the same
+pure contrary
+component (b).
+
+theory
+
+A Geometry of Chords
+
+85
+
+contrary component rightward. Consequently both (G, D)®(Fs, B) and (E, B)®
+(F, Bf) are represented in the cross section by the line segment (0, 7)®(0, 5). Thus we
+see that limiting our attention to the cross section of the Möbius strip is equivalent to
+focusing on the qualities shared by individually T-related voice leadings. This is just
+one of many cases where we ﬁnd unexpected connections between purely musical
+ideas and relatively straightforward geometrical operations.
+
+3.8
+
+three-dimensional chord space
+
+tro
+
+m
+
+bo
+ne
+
+sax
+
+Having considered two-note chords, the next task is to describe the analogous spaces
+containing three-note chords, four-note chords, and so on. These higher-dimensional
+spaces are fundamentally similar to our two-dimensional Möbius strip, and it is usually possible to reason about them by extrapolating from the simpler space we have
+just explored. Readers might therefore want to make sure they are comfortable with
+the Möbius strip before proceeding onward.
+Suppose you wanted to model music consisting of three distinct voices—say
+trumpet, saxophone, and trombone. Figure 3.8.1 shows that it takes three dimensions to record the possible musical states of the trio, with the x-axis representing the
+trumpet, the y-axis the saxophone, and the z-axis the trombone. If you were to examine
+a large volume of this three-note ordered pitch space, you would ﬁnd that it again has a
+repeating, periodic structure—being divisible into three-dimensional “tiles” containing one representative of every three-note chord, exactly like Figure 3.1.5. Once again,
+focusing on a tile of the space is the geometrical analogue to ignoring octave and order
+information. But since the “tile” has three dimensions, our musical space is now a three-dimensional
+piece of wallpaper—perfect for covering the walls of
+your four-dimensional bedroom.17
+trumpet
+Figure 3.8.2 depicts one of these tiles. The space
+is a triangular prism. Augmented triads, dividing
+the octave into three equal parts, lie on the vertical
+line at its center, and are represented as dark cubes.
+(For clarity, only twelve-tone equal-tempered triads
+are shown.) Chords that divide the octave nearly evenly are found near the center,
+with the equal-tempered major and minor triads depicted as dark and light spheres,
+respectively.18 More and more uneven chords are found farther and farther from the
+center. At the boundary are chords with multiple copies of some note: chords with
+
+17 In general, the boundary of a space has one less dimension than the space itself: thus twodimensional walls enclose three-dimensional rooms, and three-dimensional walls enclose four-dimensional rooms.
+18 The cubic lattice at the center of the strip was ﬁrst discovered, in a somewhat more abstract representation, by Douthett and Steinbach (1998). (See Appendix C.) The nineteenth-century theorist Carl
+Friedrich Weitzmann (1853) came very close to describing the ﬁgure, as Cohn (2000) discusses.
+
+Figure 3.8.1
+It takes three
+dimensions to
+model three
+instruments.
+
+86
+
+theory
+Figure 3.8.2 A single “tile” of three-note chord space is a triangular prism. Minor triads
+are light spheres, major triads are dark spheres, and augmented triads are cubes. The dark
+spheres on the edges of the prism are triple unisons. The lines in the center of the space
+connect chords that can be linked by voice leading in which only a single voice moves, and it
+moves by only a single semitone.
+
+two copies of some pitch class are found on the sides of the prism, while triple unisons are found on its edges. (Triple unisons are maximally uneven, containing three
+copies of a single pitch class.) And although the illustration depicts only a few familiar
+equal-tempered chords, the space itself is again continuous: any possible unordered
+set of pitch classes corresponds to some point in the prism, including microtonal
+chords such as {0.17, 2.5, 8.999}.
+As before, voice leadings are “generalized line segments” that stretch from one
+point to another. Ascending parallel motion in all three voices corresponds to ascending vertical motion on the prism.19 Here, however, line segments disappear off the top
+face and reappear on the bottom, rotated by one third of a turn. Thus as the three
+voices ascend in parallel from {C, C, C} to {E, E, E}, the associated line segment in Figure 3.8.2 ascends along the left edge of the ﬁgure. When the line segment reaches {E,
+E, E}, it reappears on the bottom face of the ﬁgure, on the right corner. It then climbs
+up the front right edge to {Gs, Gs, Gs}. When it reaches the top of this edge, it moves
+up the rear edge of the ﬁgure and begins to climb again until reaching {C, C, C}. This
+means that we should imagine the triangular faces to be “glued together” with a 120°
+twist. Since the line containing triple unisons returns eventually to its starting point,
+it can be considered an (abstract) circle. The same is true for the three line segments
+containing all the transpositions of any other chord.
+
+19 On the Möbius strip, parallel motion is represented by horizontal rather than vertical motion, but
+this difference is merely orthographical.
+
+A Geometry of Chords
+
+Once again, three-dimensional chord space can help clarify musical relationships that would otherwise be very hard to describe. Figure 3.8.3a presents four
+chromatic sequences from the ﬁrst movement of Brahms’ C minor Piano Quartet,
+each of which uses descending semitonal voice leading to connect major and minor
+triads. In the ﬁrst two sequences, Brahms lowers the major triad’s root to form a
+minor triad (as indicated by “r−1”) while in the last two sequences, he lowers the
+major triad’s third (“t−1”). Note that the sequences repeat at three different transpositional levels, as can be seen by comparing successive major or minor triads: the
+ﬁrst and last sequences descend by semitone, the second ascends by minor third,
+and the third ascends by perfect ﬁfth. At ﬁrst glance, there does not seem to be
+any clear structure here; the impression is of a kind of intuitive play, as if Brahms
+had arbitrarily chosen four unrelated sequences from among countless essentially
+similar possibilities.
+When we consider the music geometrically, however, we see that Brahms is
+actually moving quite systematically along the lattice at the center of three-note
+chord space (Figure 3.8.3b). Starting from any major triad, there are only two semitonal descents that will produce a minor triad (labeled “a” and “b” on the lattice);
+the two available paths correspond to the possibility of lowering the major triad’s
+root or third. From here, one must move the root downward by semitone to form
+an augmented triad. (Brahms typically skips this triad, though it does appear in the
+second sequence.) There are then three geometrical paths to choose from (labeled
+“1,” “2,” and “3” on the lattice), corresponding to the three major triads that can be
+reached by lowering a note of the augmented triad, and producing three different
+root relationships to the starting chord. (The possible relationships are descending
+semitone, ascending minor third, and ascending perfect ﬁfth, precisely as in Brahms’
+piece.) Clearly, there are six sequences that can be formed in this way, since there are
+two possibilities for the initial move and three possibilities for the second (Figure
+3.8.3c). What is interesting is that Brahms uses four of these six options, composing
+a group of sequences that are contrapuntally similar (by virtue of using descending stepwise voice leading) while harmonically distinct (by virtue of using a variety
+of different root progressions). The result is a sort of developing or continuous
+variation, in which the same basic procedure (descending semitonal voice leading
+among major and minor triads) produces subtly different results. And even though
+this process of developing variation might at some level be intuitive or improvisational, it nevertheless exhibits very clear structure. By showing us the ﬁeld in
+which Brahms’ intuition necessarily operates, geometry helps us understand this
+structure, while also leading us to expect that we will ﬁnd these same sequences in
+other pieces as well. Chapter 8 will return to this thought, using the very same lattice to interpret chromatic procedures in music as diverse as that of Schubert and
+Jimi Hendrix.
+Once again, it is sometimes useful to consider just the horizontal cross section
+of our three-note chord space—which, being two-dimensional, is much easier to
+draw. As before, these horizontal cross sections contain chords whose pitch classes
+
+87
+
+88
+
+theory
+Figure 3.8.3 (a) Descending sequences from the ﬁrst movement of Brahms’ C minor
+Piano Quartet, Op. 60. (b) These result from moving downward along the equal-tempered
+lattice at the center of chord space. (Major chords are dark spheres, minor chords light
+spheres.) (c) There are six basic sequences that can be formed in this way, depending
+on whether one lowers the root or the third of the initial major triad, and whether the
+sequence descends by semitone (D1), ascends by seven semitones (A7), or ascends by
+three semitones (A3).
+
+A Geometry of Chords
+
+sum to the same value (Figure 3.8.4).20 If a chord appears on the triangular cross
+section, then so do its transpositions by ascending and descending major third.
+This is because transposing a three-note chord by four semitones does not change
+the sum of its pitch classes: 4 + 4 + 4 = 0 in pitch-class arithmetic. The three transpositions of each chord are arranged symmetrically around the triangle, so that
+120° rotation transposes each by major third. Chords in the same triangular cross
+section can be linked by “pure contrary” voice leadings in which the amount of
+ascending motion exactly balances the amount of descending motion. For example,
+Figure 3.8.5 shows that {E, A, B} and {F, Gf, Df} can be linked by the voice leading (E, A, B)®(F, Gf, Df), which is represented by a line segment lying entirely
+within the triangle. Here, one voice ascends by semitone, one voice ascends by two
+semitones, and one voice descends by three semitones, so that the total amount of
+ascending motion is 1 + 2 − 3 = 0.
+
+Figure 3.8.4 (a) A horizontal slice of three-note chord space is a triangle containing chords
+summing to the same value; here the chords sum to 0. (Only equal-tempered chords are
+shown.) (b) These triangular cross sections are analogous to the vertical “slices” of two-note
+chord space, which also contain chords summing to the same value.
+
+20 Roeder 1984 and Callender 2004 explore these cross sections, using them to represent set classes.
+Cohn 1998b also notes that major-third-related triads sum to the same value and can be connected by
+pure contrary motion.
+
+89
+
+90
+
+theory
+Figure 3.8.5
+(a) Two voice leadings in
+which the total amount
+of ascending motion
+perfectly balances the total
+amount of descending
+motion. (b) These voice
+leadings are contained in a
+cross section of three-note
+chord space. The second
+voice leading, which has
+voice crossings, bounces
+off the triangle’s mirror
+boundary; the ﬁrst
+does not.
+
+Since Figure 3.8.4 shows only equal-tempered chords summing to zero, certain
+chord types do not appear. (In particular, there are no major triads.) Again, though,
+every chord type appears in every cross section: if we were to transpose {C, E, G} up
+by one third of a semitone, we would obtain a major triad whose pitch classes sum to
+zero.21 (This chord would appear on Figure 3.8.4a precisely in the same place that the
+C major triad appears on its cross section.) As in §3.7, we can therefore construct an
+abstract representation of the cross section in which all equal-tempered chord types
+appear (Figure 3.8.6). The arrows to the left of the triangle show how to interpret
+motion in the space: horizontal motion raises or lowers the last note in the chord;
+motion along the up-and-left diagonal raises or lowers the middle note in the chord;
+and motion along the other diagonal raises and lowers the last two notes in the chord.
+(Of course, raising two notes is equivalent to lowering the other when we factor out
+pure parallel motion, which is what we are doing when we consider only the cross
+section.22) Figure 3.8.7 explains how to plot the pure contrary component of a voice
+leading in this space.
+
+21 The pitch classes in an equal-tempered major triad must sum to either eleven, two, ﬁve, or eight; by
+transposing up by a third of a semitone, we add one to these sums. This is analogous to the fact that perfect
+fourths do not appear in Figure 3.8.4b, since equal-tempered fourths sum to an odd number, and Figure
+3.8.4b contains pitch classes that sum to four.
+22 Mathematically, (0, 1, 1) + (−1, −1, −1) = (−1, 0, 0), which says that (0, 1, 1) and (−1, 0, 0) are related
+by pure parallel motion (−1, −1, −1).
+
+A Geometry of Chords
+Figure 3.8.6 An abstract representation of the cross sections of three-dimensional chord
+space. In this abstract representation, the labels do not sum to the same value. (Compare
+Figure 3.7.2.)
+
+rst
+)
+
+0[12][12]
+
+(lo
+w
+
+er
+fi
+
+0EE
+
+0E[12]
+0TE
+
+0T[12]
+
+099
+
+le
+
+idd
+em
+
+rai
+se
+la
+
+s
+rai
+
+st t
+
+wo
+
+0TT
+
+raise last
+077
+
+055
+
+012
+
+000
+
+001
+
+036
+
+014
+003
+
+015
+004
+
+027
+
+005
+
+05E
+
+018
+007
+
+01T
+009
+
+03[12]
+02E
+
+02T
+
+019
+008
+
+04[12]
+03E
+
+03T
+029
+
+028
+
+05[12]
+
+04E
+
+04T
+039
+
+017
+006
+
+06[12]
+
+05T
+
+038
+
+016
+
+06E
+
+049
+
+048
+
+026
+
+07[12]
+
+06T
+059
+
+037
+
+08[12]
+
+07E
+
+07T
+
+058
+047
+
+025
+
+024
+013
+
+002
+
+046
+
+08E
+
+069
+
+068
+057
+
+035
+
+034
+023
+
+022
+
+056
+045
+
+044
+033
+
+067
+
+09[12]
+
+08T
+079
+
+078
+
+066
+
+011
+
+089
+
+088
+
+09E
+
+09T
+
+02[12]
+
+01E
+00T
+
+01[12]
+00E
+
+00[12]
+
+Finally, observe that the structure of the space again demonstrates the relation
+between evenness and efﬁcient voice leading. Suppose you want to ﬁnd an efﬁcient
+(three-voice) voice leading between transpositionally related three-note chords. As
+in §3.7, we decompose our voice leading into pure parallel and pure contrary components. Since the original voice leading is small, then both the pure parallel and
+pure contrary components will also be small. It is clear from Figure 3.8.8 that there
+are just two basic possibilities: either the chord is near the center and the pure contrary component links it to its four- or eight-semitone transposition, or it is near the
+edge and the line segment links it to itself.23 The situation is precisely analogous to
+the two-dimensional case, except that here the contrary component connects majorthird-related (rather than tritone-related) chords. This fact has important musical
+consequences, as we will shortly see.
+
+23 Of course, it is trivially possible that the voice leading has no contrary component, and moves all
+voices in parallel by the same amount.
+
+91
+
+theory
+
+r fi
+
+rst
+)
+
+Figure 3.8.7 To plot the purely contrary component of a voice leading in the triangular
+cross section, reorder it (uniformly) so that the ﬁrst chord is in ascending order spanning
+less than an octave, then transpose the chords (individually) so that they both start on C,
+with the ﬁrst voice moving by zero semitones. One can then use the arrows to the left of
+the ﬁgure to determine the path representing the voice leading. For example, to represent
+(C, E, G)®(C, F, A) we need to raise the middle voice by one semitone, represented by
+one-step diagonal NW motion; we then raise the third voice by two semitones, which
+requires moving two units to the right. Combining these vectors gives us the path
+representing the voice leading’s pure contrary component (center of ﬁgure). Contact with
+a boundary exchanges the position of two voices: for example, (C, F, Fs)®(C, G, Fs) can
+be represented by two diagonal steps to the NW from 056 (left side of ﬁgure). However, the
+ﬁrst of these steps brings us to the boundary, which exchanges the position of the second
+and third voices. Thus, instead of moving the middle voice up by semitone, we now have to
+move the third voice up by semitone; this is represented by a one-step rightward motion.
+Geometrically, it looks as if our arrow has reﬂected off the mirror boundary. Note that
+we cannot represent this voice leading with a direct line from 056 to 067, since the voice
+crossing requires that the line reﬂect off the mirror boundary: thus where the two arrows
+047®057 and 057®059 can be combined into a single arrow, the two arrows 056®066
+and 066®067 cannot.
+
+wo
+
+(lo
+
+we
+
+0[12][12]
+
+008
+
+009
+
+es.
+oic
+
+e la
+
+t tw
+
+ov
+
+rai
+s
+
+las
+the
+
+This boundary swaps the first two voices.
+
+s.
+
+01T
+
+e
+oic
+
+007
+
+ps
+wa
+ys
+dar
+oun
+
+v
+rd
+
+006
+
+03[12]
+02E
+
+02T
+
+019
+
+thi
+
+005
+
+018
+
+017
+
+nd
+
+004
+
+016
+
+04[12]
+03E
+
+03T
+029
+
+028
+
+05[12]
+
+04E
+
+04T
+
+ta
+firs
+
+003
+
+015
+
+027
+
+05E
+
+039
+
+038
+
+the
+
+014
+
+026
+
+06[12]
+
+05T
+
+049
+
+048
+037
+
+06E
+
+ps
+
+002
+
+036
+025
+
+024
+013
+
+047
+
+07[12]
+
+06T
+059
+
+wa
+
+001
+
+046
+
+07E
+
+07T
+
+058
+
+08[12]
+
+ys
+
+000
+
+057
+
+035
+
+034
+
+012
+
+011
+
+045
+
+dar
+
+023
+
+056
+
+08E
+
+069
+
+068
+
+oun
+
+le
+
+idd
+022
+
+033
+
+055
+
+067
+
+is b
+
+em
+
+044
+
+066
+
+09[12]
+
+08T
+079
+
+078
+
+0T[12]
+
+09E
+
+09T
+089
+
+088
+
+077
+
+0TE
+
+0TT
+
+099
+
+0E[12]
+
+Th
+
+s
+rai
+
+st t
+
+0EE
+
+raise last
+
+Th
+is b
+
+92
+
+02[12]
+
+01E
+00T
+
+01[12]
+00E
+
+00[12]
+
+A Geometry of Chords
+Figure 3.8.8 Efﬁcient pure contrary voice
+leading between transpositionally related threenote chords. Chord A divides the octave nearly
+evenly; it and its transpositions are near the
+center of the space. Chords B and C have notes
+that are clustered together, and are near the
+boundary.
+
+T8(A)
+T4(A)
+
+A
+B
+
+3.9
+
+C
+
+higher dimensional chord spaces
+
+Attempting to visualize higher dimensional spaces is an exercise in diminishing
+returns: while one might barely manage four dimensions, it becomes increasingly
+difﬁcult to picture ﬁve, six, or more. Nevertheless, it will be useful in what follows to
+have a rough understanding of the geometry of the higher dimensional chord spaces.
+Accordingly, I will ask the reader’s indulgence as I try to describe the spaces representing four-note, ﬁve-note, and even larger chords.
+We have seen that it takes a separate dimension to model each individual musical voice. Thus, it takes four dimensions to represent the state of a four-instrument
+ensemble, ﬁve dimensions to represent the state of a ﬁve-instrument ensemble, and
+so on. When we abstract away from order and octave, we ﬁnd that each of these spaces
+is periodic, a higher dimensional piece of wallpaper consisting of many equivalent
+copies of the same pattern or tile.
+Figure 3.9.1 displays the tiles in the two-, three-, and four-dimensional cases.
+The two-dimensional tile is our familiar Möbius strip, a rectangle whose left edge
+is glued to its right with a half twist. For the sake of generality, however, it is useful to forget the term “rectangle,” and to imagine the space as a two-dimensional
+prism—the shape that results when we drag the (one-dimensional) left edge horizontally rightward to form a two-dimensional ﬁgure. The resulting structure has
+two “faces” (here, the left and right edges), which are one-dimensional line segments. Chords on the same vertical line sum to the same value; hence every chord
+is on the same vertical line segment as its tritone transposition. As we drag the
+left face horizontally rightward, we transpose each chord upward. We can obtain
+new chords in this way until we have transposed by six semitones, at which point
+the left and right faces contain the same chords. These two faces need to be glued
+together with a “twist” that gives the space a circular structure: because of this
+twist, we can eventually return to our starting point by moving perpendicular to
+the face (§3.3).
+
+93
+
+94
+
+theory
+Figure 3.9.1
+Chord space in
+two, three, and
+four dimensions.
+
+The three-dimensional tile is also a prism, the shape that results from dragging the
+bottom face, a triangle, vertically upward. The resulting structure again has two faces,
+which are now two-dimensional triangles rather than one-dimensional line segments.
+Each triangular face contains three-note chords summing to the same value, so that
+every chord is on the same face as its major-third transposition. Dragging the bottom
+triangle upward transposes each chord upward; we drag it until the chords have been
+transposed by four semitones, at which point the top face contains the same chords as
+the bottom. These two faces must then be glued together with a “twist” that matches
+the appropriate chords—here, a 120° rotation. This “gluing” produces a triangular
+doughnut and introduces a circular structure in to the space: once again, if we move
+perpendicular to the triangle, we eventually return to where we started.
+Figure 3.9.1c illustrates the four-dimensional shape that tiles the space of fournote chords. Readers will not be surprised to ﬁnd that it, too, is a prism. Here the
+faces are tetrahedra, the three-dimensional analogues of triangles. Each tetrahedral
+cross section contains pitch classes that sum to the same value. Consequently, if a
+
+A Geometry of Chords
+
+chord is on the cross section, then so is its minor third transposition.24 The four vertices of the tetrahedron contain quadruple unisons related by minor third—here, {C,
+C, C, C}, {Ef, Ef, Ef, Ef}, {Fs, Fs, Fs, Fs} and {A, A, A, A}—while the chord at the
+center divides the octave perfectly evenly and contains the pitch classes {C, Ef, Fs, A}.
+To form the prism, drag the tetrahedron into the fourth dimension, represented by
+dotted lines on Figure 3.9.1c, thereby transposing every chord upward. We can drag
+it until its chords have been transposed by minor third, at which point the transposed tetrahedron contains the same chords as the initial one. These again need to be
+attached by a “twist” that connects the appropriate chords and transforms the prism
+into a kind of four-dimensional doughnut.
+The general pattern should now be clear. In each dimension, chord space is an
+n-dimensional prism, formed by dragging a “generalized triangle” through an additional dimension (Figure 3.9.2).25 The generalized triangle is the face of the prism,
+containing chords summing to the same value. Consequently, each n-element chord
+is on the same face as its transposition by 12/n semitones. (This is because transposing n notes by 12/n adds 12n/n = 12 to their sum, and in pitch-class arithmetic we
+discard multiples of 12.) Dragging the face into the additional dimension transposes
+each chord upward; it can be dragged until the chords have been transposed by 12/n
+semitones, at which point it contains the same chords as those on the initial face. The
+two duplicate faces are glued together with a “twist” that matches the appropriate
+chords, introducing a circular structure and creating the higher dimensional analogue of a twisted doughnut.
+Nonmathematical readers should not wrack their brains trying to picture these
+spaces in too much detail. Instead, focus on the important structural features they
+all share:
+Figure 3.9.2 A simplex (or “generalized triangle”) is bounded
+by n points, all connected by line segments. One-, two-, and
+three-dimensional simplexes are line segments, triangles, and
+tetrahedra, respectively.
+
+24 Transposing a four-note chord by three semitones adds 3 + 3 + 3 + 3 = 0 to their sum, in pitch-class
+arithmetic.
+25 A generalized triangle, or “simplex,” is an n-dimensional ﬁgure enclosed by n + 1 points, all connected by lines. Thus, in one dimension, it is a line segment (two points connected by a line segment);
+in two dimensions, it is a triangle (three points connected by line segments); in three dimensions, it is a
+tetrahedron (four points connected by line segments); and so on. One can form an (n + 1)-dimensional
+simplex by adding a single point to an n-dimensional simplex.
+
+95
+
+96
+
+theory
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+In each space, points correspond to chords and line segments correspond
+to voice leadings, with the length of the line segment representing the size
+of the voice leading. Consequently, nearby chords can be linked by efﬁcient
+voice leading, while distant chords cannot.
+A chord’s “evenness” determines its distance from the center. Chords that
+divide the octave precisely evenly are found at the very center of the space,
+while nearly even chords are nearby. Chords whose notes are clustered
+together are found near the boundary of the space, as far from the center as
+possible.
+Chord space is made up of “layers,” or cross sections, each containing chords
+summing to the same value. There are n instances of every n-note chord
+type in each layer. These can be obtained by repeatedly transposing by 12/n
+semitones. The transpositions are arranged symmetrically around the center
+of the cross section, with their distance from the center determined by the
+chord’s evenness. The geometrical symmetries of the cross section relate the
+different forms of each chord type.
+Each cross section of the space is a generalized triangle. The boundaries
+of the generalized triangle contain chords like {C, C, E, G}, which have
+multiple copies of some pitch class.26
+Nearly even chords can be linked to their transpositions by very efﬁcient voice
+leading. An n-note chord is particularly close to its transposition by 12/n
+semitones, since they are near the center of the same horizontal cross section.
+Voice leading that remains within the layers represents pure contrary
+motion in which the amount of ascending motion perfectly balances the
+amount of descending motion. Moving perpendicular to these layers
+corresponds to pure parallel motion, in which every note moves in the same
+direction by the same amount. Any voice leading can be decomposed into
+parallel and contrary components, as in high school vector analysis (§3.7).
+The top and bottom “layers” of the prism are glued together in a twisted
+fashion, endowing the space with a circular, doughnut-like structure. For
+this reason, a voice leading in which every voice ascends by octave will be
+represented by a line segment that passes through each cross section n
+different times, moving through each of its transpositions before returning to
+its starting point. The trajectory it follows will be a circle in the abstract sense.
+The remaining boundaries of the ﬁgure—the ones that are not glued
+together—act like mirrors. Voice leadings bounce off these mirrors, like
+balls off of the bumpers of a pool table. “Clustered” chords near the edges
+of the space can be linked to their untransposed forms by efﬁcient voice
+leading, bouncing off nearby mirrors to return to their starting point.
+
+26 The number of pitch classes in the chord determines which part of the boundary it inhabits: vertices
+contain chords like {C, C, C}, with only one pitch class; edges contain chords like {C, C, G}, with two pitch
+classes; faces contain chords like {C, C, E, G}, with three pitch classes; and so on (see Figure 3.8.5 for the
+three-dimensional case).
+
+A Geometry of Chords
+
+Appendix B provides a more detailed mathematical description of the spaces, for
+readers who are so inclined.
+
+3.10
+
+triads are from mars; seventh
+chords are from venus
+
+Musically, the most important consequence of all this geometry is the following:
+since a nearly even n-note chord occupies the same cross section of the space as its
+transposition by 12/n semitones, such chords can be linked by particularly efﬁcient
+voice leading.27 Thus, nearly even two-note chords
+Figure 3.10.1 Two-note chords
+are very close to their six-semitone transpositions, are particularly close to their
+nearly even three-note chords are very close their tritone transpositions; three-note
+four- and eight- semitone transpositions, nearly chords are particularly close to
+even four-note chords are very close to their three-, their major-third transpositions;
+six-, and nine-semitone transpositions, and so on. and four-note chords are
+particularly close to their minorThis is illustrated in Figures 3.10.1 and 3.10.2.
+third and tritone transpositions.
+Suppose, then, that a composer is interested
+in exploiting efﬁcient voice leadings between two
+major triads or two dominant seventh chords. Theoretically, we should expect an abundance of majorthird relations between the triads and minor-third
+relations between the dominant sevenths. And
+when we look at actual music, we see that this is indeed the case. Direct juxtapositions
+of minor-third-related dominant seventh chords already occur in baroque and classical music, while direct juxtapositions of major-third-related seventh chords are very
+rare; similarly, major-third-related triads sometimes occur across phrase boundaries,
+as when V/vi moves directly to I, while there is no analogous convention associating
+minor-third-related triads.28 Figure 3.10.3 indicates that this asymmetry also characterizes the more chromatic music of the nineteenth century. In Schubert, majorthird-related triads occur about 1.5 times more often than minor-third-related triads,
+while minor-third-related dominant seventh chords occur about 14 times more often
+than major-third-related dominant seventh chords.29 (In Chopin, major-third-related
+
+27 Mathematically inclined readers will note that I am presupposing the Euclidean metric for simplicity. However, at least some of the statements made in this section are metric independent; furthermore,
+reasonable voice-leading measures are all approximately consistent with each other. For more information,
+see Hall and Tymoczko 2007.
+28 Bach’s chorales contain a number of cross-phrase triadic juxtapositions, with major-third rootrelationships outnumbering minor-third relationships by almost 2:1. In Mozart’s piano sonatas, there are
+several juxtapositions of minor-third-related dominant sevenths, but no major-third-related dominant
+sevenths. Major-third-related major triads also occur several times, whereas minor-third-related major
+triads are more rare and typically occur only in sequences with stepwise descending voice leading (§8.4).
+29 The methodology here was crude but, hopefully, unbiased: I programmed a computer to look through
+MIDI ﬁles for simultaneously sounding chords that were either triads or seventh chords. I then tallied up the
+root progressions of each type. Note that since minor-third-related triads can be connected by reasonably
+efﬁcient voice leading, we would still expect these progressions to appear periodically.
+
+97
+
+98
+
+theory
+Figure 3.10.2 A geometrical representation of the closeness between (a) tritone-related
+perfect ﬁfths and (b) major-third-related triads. These ﬁgures show just a portion of the
+relevant geometrical spaces, and connect chords by lines if they can be linked by singlesemitone voice leading.
+
+major triads occur about 1.6 times more often than minor-third-related triads, and
+minor-third-related dominant-seventh chords occur about 2.2 times more often than
+major-third-related dominant sevenths.) This suggests that composers’ harmonic
+choices are indeed guided by the voice-leading relationships we have been exploring.
+To be sure, composers are not guided exclusively by voice-leading considerations, and
+individual artistic preference no doubt plays a signiﬁcant role. Nevertheless, there is
+clear evidence that Western musicians are sensitive to the relationships that are modeled by our geometrical spaces.
+Figure 3.10.4 turns to a very different sort of music, analyzing the basic threechord progression of Nirvana’s “Heart-Shaped Box.” The ﬁrst two chords, A and F,
+
+A Geometry of Chords
+Figure 3.10.3 Nondiatonic chord progressions in a large number of pieces by Schubert
+and Chopin. The leftmost column indicates root motion: thus “+1” indicates a progression
+where the root moves upward by semitone, while “−3” refers to one where the root moves
+downward by three semitones. The next two pairs of columns distinguish progressions
+between two major triads and two dominant seventh chords. The boldface numbers show
+that major triads are more likely to be connected by major third than by minor third, while
+the reverse is true for dominant sevenths.
+
+are pure triads related by major third.30 The ﬁnal D7 chord has four notes, retaining
+the ﬁfth of the F major triad as the seventh of D. (Note that every chord contains
+the note A, which appears as root, third, and ﬁfth in turn.) We can understand this
+last voice leading as an incomplete manifestation of the efﬁcient voice leading
+between F7 and D7 chords. This is not to say that Kurt Cobain necessarily conceived
+it as such; rather, it is to say that the voice leading between the last two chords
+is contained within a very familiar seventh-chord schema and exploits the same
+musical facts that make the more familiar schema possible. From our point of view,
+the interesting fact is that Cobain’s switch from triads to seventh chords goes hand
+in hand with the switch from major-third motion to minor-third motion. There
+are countless other examples of this phenomenon: for instance, the Beatles’ “Glass
+Onion” juxtaposes major-third-related triads in the verse and minor-third-related
+dominant sevenths in the chorus. Figure 3.10.5 presents a similar progression from
+Schumann, which alternates between the “major-third system” of closely related
+triads (represented geometrically by the cubic lattice of Figure 3.10.2b) and the
+“minor-third system” of closely related seventh chords (to be discussed shortly).31
+As we will see, a large amount of chromatic music can be understood in this way
+(Figure 3.10.6).
+
+30 Though not articulated by independent instruments, the voice leading is relatively clear.
+31 Note that this progression is slightly more complicated insofar as it connects an F minor chord to the
+following A7; nevertheless, this major-third root motion still permits efﬁcient voice leading.
+
+99
+
+100
+
+theory
+
+Of course, it is always possible to add a small
+purely parallel component without drastically
+increasing the size of a voice leading. So, for
+example, starting with the pure contrary voice
+leading (C, G)®(Cs, Fs), one can transpose the
+second chord up by semitone to produce (C,
+G)®(D, G), a relatively efﬁcient voice leading
+between ﬁfth-related perfect ﬁfths. Applying the
+same procedure to (E, Gs, B)®(Ef, Af, C) yields
+(E, Gs, B)®(E, A, Cs) (Figure 3.10.7). Figure
+3.10.8 identiﬁes, for chords with two to ﬁve
+notes, the transpositions that can be obtained
+by combining pure contrary motion with a
+small parallel component. The perfect fourth
+(or equivalently, the ﬁfth) is the only interval
+appearing in every row of the table, which means that nearly even chords of any
+size can be linked to their perfect-fourth transpositions by relatively efﬁcient voice
+leading. (Here again we have an example of a familiar musical object being optimal
+for multiple reasons: the perfect fourth is both extremely consonant while also being
+a uniquely useful interval of transposition, allowing for efﬁcient voice leading in a
+broad range of circumstances.32) This fact is of obvious relevance to tonal music,
+
+Figure 3.10.4 Nirvana’s “HeartShaped Box” switches from majorthird root motion to minor-third
+root motion when it switches from
+triads to a seventh chord. The
+upper three voices in the last voice
+leading of (a) are contained within
+the common four-voice voice
+leading in (b).
+
+Figure 3.10.5 (a) A voice leading from the “Chopin” movement in Schumann’s Carnaval.
+Here, an F minor triad moves by major third to an A dominant seventh. (The bass, tenor,
+and soprano give us a pair of major-third-related triads, with the alto moving semitonally
+from the doubled third to the seventh.) The next progression moves the A7 chord to
+an Ef7. Once again the shift from triads to seventh chords accompanies a shift in root
+motion. (b) A comparison of Schumann’s “Chopin” and Nirvana’s “Heart-Shaped Box.” In
+Schumann’s progression, the switch to seventh chords occurs at the second chord in the
+passage: doubling the third of the F minor triad, he uses the semitonal motion Af®G to
+create an A7 chord. In the Nirvana progression, the switch does not occur until the ﬁnal
+chord, where the C of F major is held over to become the seventh of D7.
+
+32 More precisely, the perfect fourth is very close to some interval contained within the interval cycle
+that results when we divide the octave precisely evenly, no matter how many parts we divide it into.
+
+A Geometry of Chords
+Figure 3.10.6 Triads and
+seventh chords in mm. 18–20 of
+the ﬁrst movement of Schubert’s
+Bf major Piano Sonata (a), mm.
+14–15 of the third-movement
+trio (b), the “Tarnhelm” motive
+from mm. 37–39 of Scene III
+of Wagner’s Das Rheingold
+(c), mm. 11–12 of Mozart’s C
+minor Fantasy, K. 475 (d), the
+eighteenth-century “omnibus”
+progression (e), and mm. 44–45
+of Chopin’s Nocturne, Op. 27
+No. 2 ( f ).
+
+Figure 3.10.7 Adding a small parallel component (p) to a small purely contrary voice leading
+(c) still produces an efﬁcient voice leading.
+
+which exploits fourth-progressions between triads, seventh chords, ninth chords,
+and diatonic scales.
+One feature of Figure 3.10.8 deserves further comment. A ﬁve-note chord can be
+linked by pure contrary motion to its 2.4, 4.8, 7.2, and 9.6 semitone transpositions.
+Since none of these transpositions lie in twelve-tone equal temperament, any voice
+leading between familiar transpositionally related ﬁve-note chords must have at least
+some parallel component. If the purely contrary voice leading involves transposition
+
+101
+
+102
+
+theory
+Figure 3.10.8 The transpositions that permit pure contrary motion for chords of various
+cardinalities. Nearby equal-tempered transpositions are also shown.
+
+Cardinality
+
+Pure Contrary
+Motion
+
+Nearby Equal-Tempered
+Transpositions
+
+2-note chords
+
+6 semitones
+
+perfect fourth
+
+3-note chords
+
+±4 semitones
+
+minor third, perfect fourth
+
+4-note chords
+
+±3, 6 semitones
+
+major second, major third, perfect
+fourth
+
+5-note chords
+
+±2.4, ±4.8 semitones
+
+perfect fourth
+
+by 2.4 semitones, then the purely parallel component must be at least 0.4 semitones
+large. However, if the purely contrary voice leading involves transposition by 4.8
+semitones, then it is necessary to add only 0.2 semitones of pure parallel motion.
+It follows that from a twelve-tone equal-tempered perspective, very even ﬁve-note
+chords will seem to be closest to their ﬁve-semitone transpositions. (And indeed, the
+pentatonic scale can be linked to its ﬁve-semitone transposition by single-semitone
+voice leading.) In continuous pitch-class space, we would see that the pentatonic scale
+is also quite close to its 2.4-semitone transposition, but this symmetry disappears
+when we view music through a twelve-tone equal-tempered grid. Here again we see
+that it is sometimes useful to adopt the continuous perspective, even when we are
+primarily interested in equal-tempered music.
+In later chapters, we will ﬁnd that these sorts of voice-leading relationships underwrite three major compositional practices. First, as discussed above, composers often
+use maximally efﬁcient voice leading to move from one chord to another, creating an
+abundance of major-third relations among triads and an abundance of minor-third
+relationships among seventh chords. Second, composers often use maximally efﬁcient
+voice leading to replace one chord with another, as when a jazz musician replaces a
+dominant seventh chord with its tritone transposition (e.g. B7 replacing F7). Here, rather
+than connecting two actually existing chords, efﬁcient voice leading is used to substitute
+a surprising chord for one that we would otherwise expect; the jazz “tritone substitution” is the most familiar example of this practice, though Chapter 7 will uncover a
+similar procedure (“third substitution”) in classical harmony. Finally, composers often
+combine efﬁcient voice leading with small amounts of descending parallel motion, producing harmonic sequences where all voices slowly sink downward. In the triadic case,
+this leads to sequences such as those in Figure 3.8.3, with roots moving by descending
+minor second, ascending minor third, or ascending ﬁfth.33 In Chapter 8 we will study
+their seventh-chord analogues in the music of Chopin and Wagner, and in Chapter 9 we
+will observe Shostakovich and Reich applying the same procedure to seven-note scales.
+The value of geometry lies in the way it provides a uniﬁed perspective on all of these
+
+33 It is notable that the descending versions of these patterns are so much more common than their
+ascending analogues; the asymmetry likely reﬂects a more general tendency for small intervals to descend
+(Vos and Troost 1989).
+
+A Geometry of Chords
+
+seemingly disparate musical activities, helping us to see that they involve different ways
+of exploiting the fundamental geometry of musical space.
+
+3.11
+
+voice-leading lattices
+
+Obviously, the problem with higher dimensional chord spaces is that we can’t visualize them; since each individual musical voice requires its own dimension, we quickly
+lose the ability to present musical information in a clear and intuitive manner. One
+solution is to depict only the portion of the space directly relevant to our musical
+needs. In this book we will typically be interested in voice-leading relationships
+among nearly even chords belonging to familiar scales. Happily—and somewhat surprisingly—it turns out that there are simple three-dimensional lattices representing
+all of the relevant musical relationships.34
+There are two types of graph most directly relevant to our needs. The ﬁrst depicts
+chords whose size (number of notes) exactly divides the size of the scale containing them. These can be used to represent nearly even two-, three-, four-, or six-note
+chords in twelve-note chromatic space. (This is because two, three, four, and six all
+divide twelve.) These lattices are circular “necklaces” of cubes of various dimensions,
+each linked to its neighbors by shared vertices. The second kind of structure arises
+when the number of notes in the chord is relatively prime to the number of notes in
+the scale—which is to say that no positive integer other than one divides both numbers. Here the relevant voice-leading facts are represented by a necklace of cubes sharing a common face with their neighbors. This type of lattice can be used to represent
+ﬁve- or seven-note chords in twelve-tone chromatic space, and chords of any size in
+any seven-note scale.35
+Figure 3.11.1 presents a pair of examples. The ﬁrst represents single-semitone
+voice leadings among perfect ﬁfths and tritones. (Consult Figure 3.3.1 to see how
+this ﬁgure sits in continuous space.) Each square contains two perfect ﬁfths and two
+tritones, with tritones being common to adjacent squares. (The square on the right
+edge shares a vertex with that on the left, forming a “circle of squares.”) As shown in
+the ﬁgure, there are two possible paths from one shared vertex to the next, representing the two ways of sequentially raising or lowering the tritone’s notes.36 Contrast
+this with Figure 3.11.1b, which depicts single-step voice leadings among thirds and
+
+34 For our purposes a “lattice” is a graph whose vertices lie on a regular cubic grid, with vertices connected by edges only when they are adjacent on the grid. Strictly speaking, our graphs are only locally lattice-like, since they contain topological twists, but the term “lattice” is evocative and I will use it. Douthett
+and Steinbach (1998) describe the ﬁrst class of lattices considered in this section, while Tymoczko (2004)
+describes the second.
+35 In principle, there is also a third category of lattices that results when the number of notes in the
+chord shares a common divisor with the number of notes in the scale. Though these lattices are typically
+not needed, you may enjoy exploring their structure.
+36 For example, the two single-semitone displacements A®Bf and Ef®E will transform the tritone
+{A, Ef} into {Bf, E}. If we ﬁrst raise A®Bf and then Ef®E, we move along the upper half of the leftmost
+square on Figure 3.11.1a; while if we ﬁrst raise Ef®E and then A®Bf, we move along the lower half.
+
+103
+
+104
+
+theory
+Figure 3.11.1 The two fundamental kinds of discrete lattices. The ﬁrst is a circle of squares
+linked by shared vertices, representing single-semitone voice leading among equal-tempered
+tritones and perfect ﬁfths. The second is a circle of squares linked by common edges,
+representing single-step voice leading among diatonic fourths and thirds.
+
+fourths in the C diatonic scale. (In making this graph, I have represented diatonic
+scale steps, such as C-D or E-F, as having equal size; Chapter 4 explores this idea in
+detail.) Where the squares in the earlier ﬁgure are linked by a common vertex, those
+in Figure 3.11.1b share a common edge. Here, each square contains three diatonic
+fourths and one diatonic third: fourths zigzag through the center of the ﬁgure like
+the stripe on Charlie Brown’s sweater, while thirds lie on the external vertices. Once
+again, the voice leadings within each square represent different ways of ordering the
+same pair of single-step motions: for example, to move from {E, A} to {F, B}, we could
+either raise E to F and then A to B; or we could raise A to B and then E to F. The ﬁrst
+path goes by way of {F, A} while the second moves through {E, B}.
+One ﬁnds closely analogous structures in higher dimensions. For example, suppose we want to graph voice-leading relationships among nearly even three-note
+chords in the chromatic scale. Since three evenly divides twelve, the lattice contains
+three-dimensional cubes linked by a common vertex (Figure 3.11.2a). As we have
+learned, the shared vertex is an augmented triad, with the edges of the cubes representing different ways that the augmented triad’s notes can be raised or lowered by
+semitone: for instance, we can move from Cs augmented to C augmented by ﬁrst
+lowering F, then Cs, then A; alternatively, we could ﬁrst lower A, then Cs, then F.
+Each of these sequences traces out a different series of edges on the top cube of Figure
+3.11.2a. (Note that the chords on a single cube draw their notes from two semitonally
+adjacent augmented triads and hence belong to the same hexatonic scale.37) By contrast,
+37 For example, the chords on the cube containing F, A, and Cs major all belong to the hexatonic scale
+C-Cs-E-F-Gs-A, to be discussed in the next chapter.
+
+A Geometry of Chords
+Figure 3.11.2 (a) The cubic lattice at the center of three-note chromatic space. The shared
+vertex is the augmented triad; the edges represent different ways of raising or lowering the
+augmented triad’s notes by semitone. (b) The cubic lattice at the center of three-note diatonic
+space. Here, the cubes share a face with their neighbors.
+
+nearly even three-note diatonic triads are represented by a lattice of the second kind,
+since three and seven have no common divisor. The resulting graph, shown in Figure
+3.11.2b, consists of a series of stacked cubes, each sharing a face with its neighbors.
+This graph is analogous to the linked squares of Figure 3.11.1b, though its structure
+is somewhat more complex. We will return to it momentarily.
+The ﬁrst type of lattice is relatively easy to understand. If the number of notes in the
+chord exactly divides the number of notes in the scale, then the scale contains chords
+that are perfectly even.38 These sit at the very center of (continuous) chord space and
+form the vertices shared by the lattice’s adjacent cubes. The remaining edges on the lattice identify the various ways in which one can successively raise or lower each note of
+this perfectly even chord.39 Thus the edges in Figure 3.11.1a show how one can succes-
+
+38 Strictly speaking, this is true only when we measure distance using “scale steps” (discussed in
+Chapter 4). However, in the familiar chromatic scale, scale-step distances are equivalent to log-frequency
+distances. At the moment, the chromatic scale is our primary concern.
+39 Since the chord has n notes, there are at ﬁrst n possible notes to lower; having lowered one note,
+there are (n − 1) remaining possibilities, and so on. Geometrically, the various sequences of “lowerings”
+outline an n-dimensional cube. To see this, note that one can construct an n-dimensional cube whose
+vertices consist of all the points with individual coordinates that are either 0 or 1: in two dimensions, the
+
+105
+
+106
+
+theory
+Figure 3.11.3 (a) The lattice at the center of four-note chromatic space is a circle of fourdimensional cubes linked by a shared vertex. The shared vertex is the diminished seventh
+chord. The labels “bFr” and “dFr” designate “French sixth” chords on D and B; these points
+appear to lie close to each other on the interior of the cube, but this is an artifact of the
+three-dimensional representation. (b) The edges of the four-dimensional cube represent the
+different ways of raising or lowering the notes of the diminished seventh chord.
+
+sively raise or lower the notes of the tritone by semitone, while those in Figure 3.11.2a
+show how one can raise or lower the three notes of the augmented triad. Figure 3.11.3
+illustrates the four-dimensional case. Here we have a series of four-dimensional cubes—
+also known as “tesseracts”—linked to their neighbors by shared vertices. (Figure 3.11.3
+projects this four-dimensional structure into what looks like three Euclidean dimensions, much as we can draw the outlines of a three-dimensional cube using a twodimensional piece of paper.40) As expected, the shared vertices are diminished seventh
+chords, with the edges recording the various ways of sequentially raising or lowering
+points (0, 0), (0, 1), (1, 0), and (1, 1); in three dimensions, the points (0, 0, 0), (0, 0, 1), (0, 1, 0), (1, 0, 0),
+(1, 1, 0), (1, 0, 1), (0, 1, 1) and (1, 1, 1); and so on. The edges of the cube can be traced out by starting at
+the point (1, 1, . . . , 1), and considering all the ways of successively “lowering” coordinates (changing them
+from 1 to 0), until (0, 0, . . . , 0) is reached.
+40 Actually, the illustration is two-dimensional, but our brains automatically construct a threedimensional scene. In a true four-dimensional representation any two intersecting lines in the tesseract
+would form 90° angles, but in the three-dimensional projection this is not possible. Similarly, in four
+dimensions the two “French Sixth” chords are far apart, whereas in three dimensions they seem close.
+
+A Geometry of Chords
+
+their notes. Chords on a single “tesseract” draw their notes from two semitonally adjacent diminished seventh chords, and hence belong to the same octatonic scale. Thus
+chords on the hypercube containing F7, D7, B7, and Af7 all belong to the octatonic scale
+D-Ef-F-Gf-Af-A-B-C. Readers may be relieved to learn that this is the most complicated lattice we will need to use in this book. Although an analogous (six-dimensional!)
+structure represents nearly even six-note chromatic chords, its chords can typically be
+interpreted as incomplete forms of familiar seven-note scales.
+The second type of lattice appears when the size of the chord and the size of
+the scale have no common divisor. In this case, the scale will not contain any perfectly even chords; instead, it will contain nearly even chords that form a near interval
+cycle—that is, a circular sequence of notes all but one of which are linked by the same
+interval, with the unusual interval being either one scale step larger or smaller than
+the rest.41 Three examples are shown in Figure 3.11.4: two- and three-note chords in
+diatonic space, and seven-note chords chromatic space. In each case, it is possible to
+Figure 3.11.4 When the size of the chord and the size of the scale are relatively prime, the
+maximally even chord is a “near interval cycle”—a circle of notes all but one of which are
+linked by the same interval, with the unusual interval being just one step different from the
+others. Because of this, the chords can be linked by a chain of single-step voice leadings.
+(a) Diatonic ﬁfths linked by single-step voice leading. (b) Third-related diatonic triads linked
+by single step voice leading. (c) Diatonic scales linked by single-semitone voice leading.
+
+diatonic steps: 4
+
+diatonic steps: 3
+
+3
+
+C
+
+G
+
+3
+
+[C]
+
+C
+
+E
+
+4
+
+C
+
+F
+
+B
+
+F
+
+3
+[C]
+
+4
+G
+
+4
+
+C
+
+[B]
+
+4
+
+3
+
+3
+
+E
+
+C
+
+F
+
+3
+
+4
+
+[C]
+
+3
+
+A
+
+[C]
+
+A
+
+[C]
+
+3
+
+chromatic steps:
+7
+F
+
+7
+C
+
+7
+
+7
+G
+
+7
+
+7
+D
+
+7
+
+7
+A
+
+7
+
+7
+E
+
+6
+B
+
+7
+
+6
+
+F
+
+7
+
+F
+
+C
+
+G
+
+D
+
+A
+
+E
+
+Bf
+
+F
+
+F
+
+C
+
+G
+
+D
+
+A
+
+Ef
+
+Bf
+
+F
+
+7
+
+7
+
+7
+
+7
+
+6
+
+7
+
+7
+
+41 These scales were studied by Clough and Myerson (1985), Clough and Douthett (1991), and Erv
+Wilson (in unpublished work).
+
+107
+
+108
+
+theory
+Figure 3.11.5 Single-step voice
+leading links near interval cycles
+into a circle, structurally analogous
+to the familiar circle of ﬁfths. Here,
+the circle of two-note diatonic ﬁfths,
+each linked to its neighbors by
+single-step motion.
+
+Figure 3.11.6 A “generalized circle of ﬁfths” is near, but not exactly at, the center of chord
+space. In (a), the circle of diatonic ﬁfths zigzags through the center of the Möbius strip. In
+(b), the circle of diatonic triads zigzags three-dimensionally through the center of three-note
+chord space.
+
+shift the position of the unusual interval by moving a single note by just one scale
+step. Consequently, these chords can be linked by a sequence of single-step voice
+leadings somewhat analogous to the familiar circle of ﬁfths (Figure 3.11.5).42 This
+
+42 Here I am considering the circle of ﬁfths to represent single-semitone voice leadings among diatonic
+scales: (C, D, E, F, G, A, B)®(C, D, E, Fs, G, A, B)®(Cs, D, E, Fs, G, A, B)®. . . . Theorists sometimes consider the circle of ﬁfths to be a sequence of ﬁfth-related pitches, such as C®G®D® . . ., but this perspective is not germane to the current discussion.
+
+A Geometry of Chords
+
+“generalized circle of ﬁfths” will lie as close as possible to the center of chord space (at
+least for chords belonging to that particular scale), but it will not be exactly at the
+center (Figure 3.11.6).
+Figure 3.11.7 arranges our circle of diatonic ﬁfths in a regular zigzag pattern.43
+These diatonic ﬁfths are the most nearly even two-note chords in diatonic space. To
+add the second-most even chords, we can rearrange the order of the voice leadings on the
+central zigzag. For example, we move from {A, E} to {B, F} along the zigzag by way of
+the sequence (A, E)®(B, E)®(B, F), ﬁrst raising A to B, and then E to F. But suppose
+we were to reorder these two single-step shifts: raising the E in {A, E} produces the
+diatonic third {A, F}, while raising the A in {A, F} brings us to {B, F}. Geometrically,
+these reordered voice leadings complete the square on the left side of Figure 3.11.7b.
+By continuing this process we can generate all the single-step voice leadings among
+diatonic thirds and fourths, thus reconstructing the lattice in Figure 3.11.1b.
+Remarkably, this same process of “rearranging” is sufﬁcient to construct all the
+voice-leading lattices of the second type. By way of illustration, let’s generate a voiceleading graph representing nearly even seven-note chords in chromatic space. The
+diatonic circle of ﬁfths is shown in Figure 3.11.8a: here we move from C diatonic to
+G diatonic by the semitonal shift F®Fs, from G diatonic to D diatonic by the shift
+C®Cs, and so on. This circle lies as close as we can get to the center of seven-note
+Figure 3.11.7 (a) The two-note diatonic “circle of ﬁfths,” represented as a regular zigzag.
+(b) To include diatonic thirds, simply reverse the order of every pair of voice leadings, for
+instance by letting E®F operate on the ﬁfth {A, E}. This converts the zigzag into a series of
+squares each sharing a common edge.
+
+43 By regularizing the zigzag, we are again making the decision to treat all “scale steps” as having the
+same size.
+
+109
+
+110
+
+theory
+
+chord space, given twelve-tone equal temperament. Figure 3.11.8b adds the secondmost even seven-note chord by rearranging adjacent voice leadings as described in the
+previous paragraph: C®Cs takes C diatonic to the G “acoustic scale” (or D melodic
+minor ascending) while F®Fs takes G acoustic to D diatonic. (Note that the resulting
+graph is two-dimensional, even though seven-note chords live in seven dimensions!)
+We can even create a three-dimensional version of the graph by scrambling the order
+of three successive voice leadings on the diatonic circle of ﬁfths. Here we begin with
+a three-dimensional zigzag that moves alternately up, right, and into the paper. We
+then apply all six reorderings of three adjacent voice leadings to a generate a cube:
+for instance, the scales on the lower left cube in Figure 3.11.9 result from applying
+to C diatonic the six different orderings of F®Fs, C®Cs, and G®Gs. (Note that
+F®Fs is always represented by a vertical line, while C®Cs is always horizontal, and
+G®Gs always moves into the paper.) The resulting three-dimensional lattice, which
+describes voice-leading relationships among the four most even twelve-tone equaltempered chords in seven-dimensional space, is structurally analogous to the graph
+of three-note diatonic triads shown in Figure 3.11.2b. Here the circle of ﬁfths zigzags
+three-dimensionally through the center of the space, much as the circle of thirds zigzagged through the two-dimensional Figure 3.11.8.44
+
+Figure 3.11.8 (a) The familiar circle of ﬁfths connects ﬁfth-related diatonic scales by singlesemitone voice leading. (b) To include the second-most even ﬁve-note chords scramble the
+order of adjacent voice leadings, for instance by letting C®Cs operate on C diatonic before
+F®Fs does.
+
+44 In principle, we could continue this process by adding a fourth or even ﬁfth dimension to the graph,
+thus extending the lattice so that it covers more and more of seven-dimensional chord space.
+
+A Geometry of Chords
+Figure 3.11.9 We can extend the scale lattice to three dimensions. The result depicts singlesemitone voice leading among the four most even seven-note chromatic chords. We will
+discuss these scales in the next chapter.
+
+Again, the key point is that the lattices in our second category—representing
+objects as diverse as diatonic seventh chords, octatonic triads, and familiar sevennote scales—are all structurally similar. At their center is a generalized circle of ﬁfths
+that zigzags through two, three, or more dimensions. These chords are near interval
+cycles linked by a chain of single-semitone voice leadings. The rest of the lattice is
+generated by rearranging its voice leadings: for a two-dimensional graph, begin with
+a two-dimensional zigzag and switch the order of each pair of adjacent voice leadings,
+producing a sequence of squares sharing a common edge (as in Figures 3.11.7 and
+3.11.8b); for a three-dimensional graph, begin with a three-dimensional zigzag (up,
+right, in) and scramble the order of every three consecutive voice leadings, producing
+a series of stacked cubes sharing a common face (as in Figure 3.11.9). This process of
+“scrambling” adds successively less even chords to the lattice, extending it farther and
+farther from the center of chord space. (Thus, where the dimension of the ﬁrst kind
+of graph is controlled by the size of the chords we want to represent, the dimension
+of this second kind of graph is controlled by the number of distinct chord types we
+are interested in.) We will return to these structures throughout the book, using the
+“scale lattice” to represent voice leadings among familiar seven-note scales and using
+the three-note diatonic lattice to represent familiar classical voice-leading patterns.
+Music theorists tend to take it for granted that we can use discrete lattices to represent voice-leading relationships, in large part because these discrete structures preceded the more comprehensive geometrical spaces we have discussed in this chapter.
+But on reﬂection, it is actually quite remarkable that (say) the one-dimensional circle
+
+111
+
+112
+
+theory
+
+of ﬁfths can faithfully represent voice-leading relationships among seven-note diatonic
+scales. After all, diatonic scales are seven-note objects inhabiting a seven-dimensional
+space, and we have no reason to expect that six of these dimensions would turn out to
+be irrelevant. And yet it turns out that for most practical purposes we can make do by
+representing diatonic voice leadings on the familiar circle of ﬁfths. This suggests that
+the circle of ﬁfths is quite a special structure which lies within seven-note chord space
+in a very particular way. Other lattices are not special in this way and do not accurately
+model voice-leading distances, even though they might appear to do so. In general,
+it is extremely difﬁcult to distinguish “faithful” lattices (such as the circle of ﬁfths)
+from unfaithful lattices (such as the familiar Tonnetz). To understand these structures
+in a deep and principled way, we must reﬂect on how they are embedded within the
+continuous spaces described here. Those of you who want to explore this issue further should consult Appendix C. Those who are more interested in music analysis can
+instead focus on internalizing the two types of lattice described in this section. The
+important point is that it is typically sufﬁcient to understand the discrete lattices, and
+to be able to construct the graph germane to a particular musical situation.
+
+3.12
+
+two musical geometries
+
+We have now developed two geometrical representations of the same musical facts—
+the circular pitch-class space of Chapter 2 and the higher dimensional spaces discussed in this chapter. These two representations are complementary, in the sense
+that relationships that are difﬁcult to understand in one are often easier to understand in the other. Let’s conclude by considering some of the strengths and weaknesses of the two models.
+In some ways, the circular space of Chapter 2 is simpler and more convenient
+than its higher dimensional counterparts. In this chapter we’ve created individual
+spaces for chords of various sizes: the space of two-note chords is two-dimensional, the space of three-note chords is three-dimensional, and so on. But there is
+no analogous description of the space of all chords.45 Furthermore, it can be very
+difﬁcult to visualize relationships among larger chords, since a new dimension is
+required for each additional voice. By contrast, the circular representation uses a
+single circle to depict chords of any size, and there is no sense that two-note chords
+and three-note chords occupy fundamentally different worlds. Nor are there any
+special problems associated with large chords, as we can always add more points
+to the circle.
+Moreover, the spaces discussed in this chapter do not provide a natural way to represent the similarity between chords with the same pitch-class content but different
+“doublings.” For example, the collections {C, E, E, G} and {C, E, G, G} are repre-
+
+45 We can actually construct these spaces, but they are inﬁnite-dimensional and almost impossible to
+visualize. Furthermore, distance in the resulting spaces does not accurately represent voice-leading size (see
+Callender, Quinn, and Tymoczko 2008).
+
+A Geometry of Chords
+Figure 3.12.1 Two collections of paths linking the points {C, E, G} and {D, F, A}. On the
+left, the three-voice voice leading (C, E, G)®(D, F, A); on the right, the four-voice
+(C, C, E, G)®(F, A, D, F).
+
+sented by widely separated points in four-note chord space, yet they are musically
+quite similar; ordinarily, both would be considered C major chords. This problem is
+again ameliorated in the circular representation, which does not require us to distinguish the number of times each note appears: the chords {C, G}, {C, C, G} can both
+be modeled using the same two points on the circle, C and G. Voice leadings with
+“doublings” can be represented as different collections of paths between the same sets
+of points. Thus Figure 3.12.1 models the voice leadings (C, E, G)®(D, F, A) and (C, C,
+E, G)®(F, A, D, F) as two different ways to link the same conﬁgurations of black and
+gray points on the circle. Once again, the circular model seems more ﬂexible than the
+higher dimensional alternative.
+The problem with the circle, however, is that it is easy to use but hard to understand. One could stare at circular pitch-class space for a long time without ever realizing that voice leadings can be decomposed into purely parallel and purely contrary
+components. And important voice-leading relationships can sometimes be hard to
+see. (Quick: which of its transpositions is the chord in Figure 3.12.2 closest to? Now
+look at Figure 3.11.8 and ask yourself the same question.) Nor does circular space
+make manifest structural relations such as those we uncovered in the Allelujia Justus
+et Palma or the Brahms C minor Piano Quartet. So at least in some cases, the circular
+model will obscure important features of musical structure.
+By contrast, higher dimensional chord spaces provide a powerful set of visual
+tools for thinking about music. We can describe the process of musical abstraction—
+the ignoring of octave and order information—as a matter of concentrating on a
+single “tile” of musical wallpaper. Abstract concepts like “individual T-relatedness”
+(or even “scalar transposition”) can be translated into concrete visuospatial terms.
+
+113
+
+114
+
+theory
+Figure 3.12.2 In circular pitch-class space, it is
+not immediately obvious which of this chord’s
+transpositions it is closest to.
+
+Plotting music in the spaces can yield insight into its structure (§3.5). And though
+the higher dimensional spaces are unwieldy, lattices such as those in §3.11 can be used
+to convey a large amount of musical information very quickly, mapping a wealth of
+compositional possibilities in a clear and extremely efﬁcient manner. To use such lattices is to exploit the higher dimensional chord spaces described in this chapter, even
+if we do not explicitly represent the whole space from which they are drawn.
+In all of these ways, then, the higher dimensional spaces provide useful complements to the simpler, circular model of Chapter 2. Ultimately, a deep understanding
+of music likely requires ﬂuency with both models. (As the physicist Richard Feynman
+once put it, “every theoretical physicist who is any good knows six or seven different
+theoretical representations for exactly the same physics.”46) By learning multiple ways
+to represent the same music, we can develop ﬂexibility of mind and deepen our grasp
+of the underlying structures—even if, in the end, we prefer one representation to
+another. Readers who do not share my aesthetic appreciation for the higher dimensional chord spaces may therefore still be able to appreciate them as part of a program
+of music-theoretical calisthenics. In stretching our minds to understand these exotic
+structures, we will surely strengthen our appreciation for the richness latent in ordinary musical notation.
+
+3.13
+
+study guide
+
+Readers who want to improve their understanding of musical geometry should practice three basic skills. First, representing voice leadings on the two-note Möbius strip
+of Figure 3.3.1. Second, representing single chords, as well as the pure contrary component of three-note voice leadings, on Figure 3.8.6. (It may also be useful to try
+representing pure contrary two-note voice leadings on Figure 3.7.2a.) And third, constructing the lattices describing voice-leading relationships among musically interesting objects—for instance, the most even two-note chords in the pentatonic and
+
+46 Feynman 1994, p. 162.
+
+A Geometry of Chords
+
+whole-tone scales, the most even three-note chords in the diatonic and whole-tone
+scales, the most even four-note chords in the diatonic and octatonic scales, and the
+most even ﬁve-note chords in the chromatic scale. (In constructing these lattices, use
+the various graphs in this chapter as guides, and consider the scale step to be a unit of
+distance.) After practicing these particular tasks, the more general geometrical principles should start to become clear. It may also be helpful to read the chapter once,
+spend some time with the questions in Appendix F (perhaps augmented by the more
+detailed discussion in Appendix B), and then return to the chapter a second time,
+repeating as necessary. In the end, passive reading is no substitute for a little bit of
+active, hands-on exploration. Just as nobody will ever learn to play the piano simply
+by reading about it, nobody will learn geometry unless they pick up a pencil and start
+working through some exercises.
+Readers who are hungry to explore analytical applications can turn directly to
+Chapter 8, which is concerned with chromatic voice leading. Chapter 9 also uses the
+geometry of seven-dimensional scale space to investigate twentieth-century music,
+though it should be read after Chapter 4. The geometrical spaces described in this
+chapter also appear in Chapter 6, where they provide a framework for retelling
+the history of Western music. However, this chapter is probably best read after the
+remaining theoretical material in Part I.
+
+115
+

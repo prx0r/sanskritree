@@ -1,0 +1,560 @@
+edition:
+  critical_method: GRETIL IAST e-text; unreviewed import
+  editor: GRETIL e-text
+  id: nyayasutra.gretil
+  licence: CC-BY-SA (GRETIL)
+  publication: Göttingen Register of Electronic Texts
+passages:
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.1
+  sanskrit: pramāṇa-prameya-saṃśaya-prayojana-dṛṣṭānta-siddhāntāvayava-tarka-nirṇaya-vāda-jalpa-vitaṇḍāhetvābhāsa-cchala-jāti-nigrahasthānānāmtattvajñānāt
+    niḥśreyasādhigamaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '1'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.2
+  sanskrit: duḥkhajanmapravṛttidoṣamithyājñānānām uttarottarāpāye tadanantarā pāyāt
+    apavargaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '2'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.3
+  sanskrit: pratyakṣānumānopamānaśabdāḥ pramāṇāni
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '3'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.4
+  sanskrit: indriyārthasannikarṣotpannam jñānam avyapadeśyam avyabhicāri vyavasāyātmakam
+    pratyakṣam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '4'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.5
+  sanskrit: atha tatpūrvakaṃ trividham anumānaṃ pūrvavat śeṣavat sāmānyatodṛṣṭaṃ ca
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '5'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.6
+  sanskrit: prasiddhasādharmyāt sādhyasādhanam upamānam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '6'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.7
+  sanskrit: āptopadeśaḥ śabdaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '7'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.8
+  sanskrit: saḥ dvividhaḥ dṛṣṭādṛṣṭārthatvāt
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '8'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.9
+  sanskrit: ātmaśarīrendriyārthabuddhimanaḥpravṛttidoṣapretyabhāvaphaladuḥkhāpavargāḥ
+    tu prameyam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '9'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.10
+  sanskrit: icchādveṣaprayatnasukhaduḥkhajñānāni ātmanaḥ liṅgam iti
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '10'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.11
+  sanskrit: ceṣṭendriyārthāśrayaḥ śarīram
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '11'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.12
+  sanskrit: ghrāṇarasanacakṣustvakśrotrāṇi indriyāṇi bhūtebhyaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '12'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.13
+  sanskrit: pṛthivī āpaḥ tejaḥ vāyuḥ ākāśam iti bhūtāni
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '13'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.14
+  sanskrit: gandharasarūpasparśaśabdāḥ pṛthivyādiguṇāḥ tadarthāḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '14'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.15
+  sanskrit: buddhiḥ upalabdhiḥ jñānam iti anarthāntaram
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '15'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.16
+  sanskrit: yugapat jñānānutpattiḥ manasaḥ liṅgam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '16'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.17
+  sanskrit: pravṛttiḥ vāgbuddhiśarīrārambhaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '17'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.18
+  sanskrit: pravarttanālakṣaṇāḥ doṣāḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '18'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.19
+  sanskrit: punarutpattiḥ pretyabhāvaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '19'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.20
+  sanskrit: pravṛttidoṣajanitaḥ arthaḥ phalam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '20'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.21
+  sanskrit: bādhanālakṣaṇam duḥkham
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '21'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.22
+  sanskrit: tadatyantavimokṣaḥ apavargaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '22'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.23
+  sanskrit: samānānekadharmopapatteḥ vipratipatteḥ upalabdhyanupalabdhyavyavasthātaḥ
+    ca viśeṣāpekṣaḥ vimarśaḥ saṃśayaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '23'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.24
+  sanskrit: yam artham adhikṛtya pravartate tat prayojanam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '24'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.25
+  sanskrit: laukikaparīkṣakāṇāṃ yasmin arthe buddhisāmyam saḥ dṛṣṭāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '25'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.26
+  sanskrit: tantrādhikaraṇābhyupagamasaṃsthitiḥ siddhāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '26'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.27
+  sanskrit: saḥ caturvidhaḥ sarvatantrapratitantrādhikaraṇābhyupagamasaṃsthityarthāntarabhāvāt
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '27'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.28
+  sanskrit: sarvatantrāviruddhaḥ tantre adhikṛtaḥ arthaḥ sarvatantrasiddhāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '28'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.29
+  sanskrit: samānatantrasiddhaḥ paratantrāsiddhaḥ pratitantrasiddhāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '29'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.30
+  sanskrit: yatsiddhau anyaprakaraṇasiddhiḥ saḥ adhikaraṇasiddhāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '30'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.31
+  sanskrit: aparīkṣitābhyupagamāt tadviśeṣaparīkṣaṇam abhyupagamasiddhāntaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '31'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.32
+  sanskrit: pratijñāhetūdāharaṇopanayanigamanāni avayavāḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '32'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.33
+  sanskrit: sādhyanirdeśaḥ pratijñā
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '33'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.34
+  sanskrit: udāharaṇasādharmyāt sādhyasādhanaṃ hetuḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '34'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.35
+  sanskrit: tathā vaidharmyāt
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '35'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.36
+  sanskrit: sādhyasādharmyāt taddharmabhāvī dṛṣṭāntaḥ udāharaṇam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '36'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.37
+  sanskrit: tadviparyayāt vā viparītam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '37'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.38
+  sanskrit: udāharaṇāpekṣaḥ tathā iti upasaṃhāraḥ na tathā iti vā sādhyasya upanayaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '38'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.39
+  sanskrit: hetvapadeśāt pratijñāyāḥ punarvacanam nigamanam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '39'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.40
+  sanskrit: avijñātatatve arthe kāraṇopapattitaḥ tattvajñānārtham uhaḥ tarkaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '40'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.1.1.41
+  sanskrit: vimṛśya pakṣapratipakṣābhyām arthāvadhāraṇam nirṇayaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '41'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.1
+  sanskrit: pramāṇatarkasādhanopālambhaḥ siddhāntāviruddhaḥ pañcāvayavopapannaḥ pakṣapratipakṣaparigrahaḥ
+    vādaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '1'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.2
+  sanskrit: yathoktopapannaḥ chalajātinigrahasthānasādhanopālambhaḥ jalpaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '2'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.3
+  sanskrit: saḥ pratipakṣasthāpanāhīnaḥ vitaṇḍā
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '3'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.4
+  sanskrit: savyabhicāra-viruddha-prakaraṇasama-sādhyasama-kālātītāḥ hetvābhāsāḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '4'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.5
+  sanskrit: anaikāntikaḥ savyabhicāraḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '5'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.6
+  sanskrit: siddhāntam abhyupetya tadvirodhī viruddhaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '6'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.7
+  sanskrit: yasmāt prakaraṇacintā saḥ nirṇayārthamapadiṣṭaḥ prakaraṇasamaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '7'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.8
+  sanskrit: sādhyāviśiṣṭaḥ sādhyatvāt sādhyasamaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '8'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.9
+  sanskrit: kālātyayāpadiṣṭaḥ kālātītaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '9'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.10
+  sanskrit: vacanavighātaḥ arthavikalpopapattyā chalam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '10'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.11
+  sanskrit: tat trividham - vākchalam sāmānyacchalam upacāracchalam ca iti
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '11'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.12
+  sanskrit: aviśeṣābhihite arthe vaktuḥ abhiprāyāt arthāntarakalpanā vākchalam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '12'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.13
+  sanskrit: sambhavataḥ arthasya atisāmānyayogāt asambhūtārthakalpanā sāmānyacchalam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '13'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.14
+  sanskrit: dharmavikalpanirdeśe arthasadbhāvapratiṣedhaḥ upacāracchalam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '14'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.15
+  sanskrit: vākchalam eva upacāracchalam tat aviśeṣāt
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '15'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.16
+  sanskrit: na tat arthāntarabhāvāt
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '16'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.17
+  sanskrit: aviśeṣe vā kiñcitsādharmyāt ekacchalaprasaṅgaḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '17'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.18
+  sanskrit: sādharmyavaidharmyābhyām pratyavasthānaṃ jātiḥ
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '18'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.19
+  sanskrit: vipratipattiḥ apratipattiḥ ca nigrahasthānam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '19'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.1.2.20
+  sanskrit: tadvikalpāt jātinigrahasthānabahutvam
+  section: '1'
+  transliteration: IAST
+  type: sutra
+  verse: '20'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.2.1.38
+  sanskrit: 'rodhopaghātasādṛśyebhyaḥ vyabhicārāt anumānam apramāṇam {pūrvapakṣa-sūtra}
+    2.1.39: na, ekadeśatrāsasādṛśyebhyaḥ arthāntarabhāvāt {siddhānta-sūtra} {vartamānakālaparīkṣā}
+    2.1.40: vartamānābhāvaḥ, patataḥ patitapatitavyakālopapatteḥ {pūrvapakṣa-sūtra}
+    2.1.41: tayoḥ api abhāvaḥ vartamānābhāve, tadapekṣatvāt {siddhānta-sūtra} 2.1.42:
+    na atītānāgatayoḥ itaretarāpekṣā siddhiḥ {siddhānta-sūtra} 2.1.43: vartamānābhāve
+    sarvāgrahaṇaṃ pratyakṣānupapatteḥ {siddhānta-sūtra} 2.1.44: kṛtatākarttavyatopapatteḥ
+    tu ubhayathā grahaṇam {siddhānta-sūtra}'
+  section: '2'
+  transliteration: IAST
+  type: sutra
+  verse: '38'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.2.2.1
+  sanskrit: 'na catuṣṭvam, aitihyārthāpattisambhavābhāvaprāmāṇyāt {pūrvapakṣa-sūtra}
+    2.2.2: śabde aitihyānarthāntarabhāvāt anumāne arthāpattisambhavābhāvānarthāntara
+    bhāvāt ca apratiṣedhaḥ {siddhānta-sūtra} 2.2.3: arthāpattiḥ apramāṇam anaikāntikatvāt
+    {arthāpattiprāmāṇyaparīkṣā} 2.2.4: anarthāpattau arthāpattyabhimānāt {nānaikāntikatvamarthāpatteḥ}
+    2.2.5: pratiṣedhāprāmāṇyaṃ ca anaikāntikatvāt (-) 2.2.6: tatprāmāṇye vā na arthāpattyaprāmāṇyam
+    {siddhānta-sūtra} [abhāvaprāmāṇyasiddhiḥ - avāntaraprakaraṇam] 2.2.7: na abhāvaprāmāṇyaṃ
+    prameyāsiddheḥ {pūrvapakṣa-sūtra} 2.2.8: lakṣiteṣvalakṣaṇalakṣitatvāt alakṣitānāṃ
+    tatprameyasiddheḥ {udāharaṇa sūtra} 2.2.9: asati arthe na abhāvaḥ iti cet na,
+    anyalakṣaṇopapatteḥ {siddhānta-sūtra} 2.2.10: tatsiddheḥ alakṣiteṣu ahetuḥ {pūrvapakṣa-sūtra}
+    2.2.11: na, lakṣaṇāvasthitāpekṣasiddheḥ {siddhānta-sūtra} 2.2.12: prāk utpatteḥ
+    abhāvopapatteḥ ca {siddhānta-sūtra}'
+  section: '2'
+  transliteration: IAST
+  type: sutra
+  verse: '1'
+- chapter: '1'
+  critical_status: gretil_import
+  id: ns.4.1.1
+  sanskrit: 'pravṛttiryathoktā {siddhānta-sūtra} 4.1.2: tathā doṣāḥ {siddhānta-sūtra}'
+  section: '4'
+  transliteration: IAST
+  type: sutra
+  verse: '1'
+- chapter: '2'
+  critical_status: gretil_import
+  id: ns.5.2.1
+  sanskrit: pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsannyāso hetvantaram
+    arthāntaraṃ nirarthakam avijñātārtham apārthakam aprāpta kālaṃ nyūnam adhikaṃ
+    punaruktam ananubhāṣaṇam ajñānam apratibhā vikṣepo matānujñā paryanuyojyopekṣaṇaṃ
+    niranuyojyānuyogo 'pasiddhānto hetvā bhāsāśca nigrahasthānāni {nigrahasthāna-uddeśa-sūtram}
+  section: '5'
+  transliteration: IAST
+  type: sutra
+  verse: '1'
+work:
+  genre: sutra
+  id: nyayasutra
+  metadata:
+    source: GRETIL
+    url: https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_gautama-nyAyasUtra.txt
+  title: Nyāyasūtra (Gautama)
+  tradition: nyaya

@@ -1,0 +1,1374 @@
+J Indian Philos (2014) 42:353–375
+DOI 10.1007/s10781-013-9191-6
+
+On the Distinction Between Epistemic and
+Metaphysical Buddhist Idealisms: A Śaiva Perspective
+Isabelle Ratié
+
+Published online: 5 September 2013
+© Springer Science+Business Media Dordrecht 2013
+
+Abstract Modern scholarship has often wondered whether Indian Buddhist idealism is primarily epistemic or metaphysical: does this idealism amount to a kind of
+transcendental scepticism according to which we cannot decide whether objects
+exist or not outside of consciousness because we can have no epistemic access
+whatsoever to these objects? Or is it rather ontologically committed, i.e., does it
+consist in denying the very existence of the external world? One could deem the
+question anachronistic and suspect that with such an inquiry we project onto
+Ancient and Medieval India a distinction that remains profoundly alien to it, were it
+not for a few preserved texts where Indian authors themselves distinguish between
+two such kinds of idealism within the Buddhist philosophical tradition. As already
+pointed out by Dan Arnold, this is the case in the commentary by Manorathanandin
+on Dharmakı̄rti’s Pramāṇavārttika; but the difference between two varieties of
+Buddhist idealism is also alluded to in Hindu sources, both Mı̄māmsaka and Śaiva.
+˙
+The present article offers a new analysis of Manorathanandin’s short and somewhat
+ambiguous distinction, and it examines in this connection some important remarks
+found in the works of the Śaiva nondualists Utpaladeva (c. 925–975) and Abhinavagupta (c. 975–1025). It shows that according to these authors, in fact the
+epistemic version of the Buddhist argument in favour of idealism is already
+metaphysical insofar as it necessarily involves a denial of the existence of the
+external world, and it attempts to assess the faithfulness of this Śaiva interpretation
+to its Buddhist sources.
+
+Keywords Idealism · Buddhism · Manorathanandin · Utpaladeva ·
+Abhinavagupta
+
+I. Ratié (&)
+Institut für Indologie und Zentralasienwissenschaften, Leipzig, Germany
+e-mail: isabelle.ratie@gmail.com
+
+123
+
+354
+
+I. Ratié
+
+The Buddhist Sākāra-/Nirākāra-vāda Debate and the Distinction Between
+Epistemic and Metaphysical Idealisms
+Idealism—or rather, some form of idealism—certainly constitutes one of the most
+important philosophical stakes in the Buddhist debate between the sākāravādins, i.e.
+the “proponents of the thesis that consciousness bears aspects (ākāra)”, who
+consider that consciousness becomes aware of the various objects of the world by
+taking on their form or appearance, and the nirākāravādins, i.e. the “proponents of
+the thesis that consciousness bears no aspect”, who hold that consciousness
+apprehends its objects without any change in its intrinsic form.1 For if consciousness
+can only apprehend its objects by taking on their form, what we perceive is not an
+external reality, but only internal forms of consciousness, and our conviction that
+external objects exist around us is bound to fall from the status of an indubitable
+intuition to that of a questionable belief.
+Admittedly, the Sautrāntikas,2 while conceding that objects of perceptual
+consciousness can only be internal aspects taken on by consciousness,3 have
+nonetheless claimed that the existence of an external reality can be inferred as the
+cause of phenomenal variety; but as shown by Dharmakı̄rti, such a relation of cause
+and effect between imperceptible external objects and the objects of which we are
+aware cannot be established, for the simple reason that relations of cause and effect
+can only be determined on the basis of previous perceptions of both the cause and
+the effect—but we can never perceive an external object by nature inaccessible to
+consciousness. The aim of the famous Dharmakı̄rtian sahopalambhaniyama
+argument (or the argument of “the necessity [for the object] to be perceived along
+with [cognition]”)4 therefore seems to be, rather than an attempt at demonstrating
+the nonexistence of the external object, a mere endeavour to show that there can be
+no epistemic access whatsoever (i.e. neither perceptual nor inferential) to any
+external entity, since this external entity cannot even be determined to be the cause
+of the various aspects taken on by consciousness.5
+But what exactly is the goal of Dharmakı̄rti and of the Buddhist authors
+belonging to Dharmakı̄rti’s tradition when they set out to show that the only objects
+grasped by consciousness are internal aspects of consciousness? What does the
+demonstration that there can be no epistemic access to external objects entail for
+them? Is their aim simply to establish some sort of transcendental scepticism by
+pointing out that we have no way of asserting or denying the existence of external
+
+1
+
+On this debate see e.g. Kajiyama (1965), Mimaki (1976, pp. 38–40, 71–78 and en. 329), Dhammajoti
+(2007) and Moriyama (2008).
+
+2
+
+On my use of this term see Ratié (2010a, fn. 16, p. 442).
+
+3
+
+On the fact that Sautrāntikas are presented as sākāravādins in Buddhist as well as non-Buddhist
+literature see e.g. Hattori (1968, p. 98) and Mimaki (1976, p. 37 and en. 142).
+4
+
+The argument is formulated in PVin, Pratyakṣapariccheda 54ab (see below, fn. 38).
+
+5
+
+This is at least how many non-Buddhist sources have interpreted the sahopalambhaniyama argument
+(see e.g. Ratié 2010a, fn. 23, pp. 444–445; 2011b, pp. 484–486). For a similar conclusion drawn from
+Buddhist sources see e.g. Matsumoto (1980). On post-Dharmakı̄rtian Buddhist debates over the meaning
+and import of this argument, see Iwata (1991).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+355
+
+objects? Or do they aspire to establish a stronger statement thanks to this
+demonstration—namely, that external objects simply do not exist?
+This distinction between an ontologically committed or “metaphysical” idealism
+(one that asserts that nothing exists apart from consciousness) and a purely
+epistemic kind of idealism (one that merely states that we can have no epistemic
+access whatsoever to any external reality, regardless of its existence or nonexistence) is at the heart of several recent debates in the field of Buddhist studies, and
+modern scholars have been engaged in (sometimes heated) discussions as to
+whether Vasubandhu, Dignāga or Dharmakı̄rti for instance propounded an epistemic
+or a metaphysical variety of idealism. In the cases of Vasubandhu6 and Dignāga,7
+one cannot help but suspect with Lambert Schmithausen that the modern attempts to
+present these authors as mere phenomenologists completely unconcerned with the
+ontological status of external reality are to some extent driven by a contemporary
+fashion and often remain blind to what the texts themselves have to say.8 The case
+of Dharmakı̄rti is more delicate, however—thus Matthew Kapstein considers that
+Dharmakı̄rti found the old mereological arguments of Vasubandhu to be “at best a
+supplement to profounder epistemological arguments for idealism”,9 but he does not
+specify in what way the former are deemed at best supplementary, and the latter,
+profounder (nor if the epistemological arguments for idealism are ontologically
+committed for Dharmakı̄rti). On the other hand, the now famous interpretation of
+Dharmakı̄rti’s works by George Dreyfus and John Dunne as involving a “sliding
+scale of analysis”10 tends to present the Dharmakı̄rtian epistemological arguments
+in favour of idealism as some sort of preliminary stage leading to an ultimate (and
+ontologically committed) idealistic argument. Thus according to George Dreyfus,
+the demonstration that objects of consciousness are mere internal forms of
+consciousness only shows the “plausibility” of the Yogācāra view that
+6
+Thus according to Oetke (1992), while the author of the Viṃśikā was probably unaware of the
+distinction between the two types of argument (see below, fn. 16), the treatise only establishes a kind of
+epistemic idealism; and Lusthaus (2002) argues that Vasubandhu’s goal was solely to establish some kind
+of epistemic or phenomenological idealism without committing as to the ontological status of the external
+object. Schmithausen (2005) offers a convincing response to Lusthaus (2002) and concludes (pp. 51 ff) to
+an ontological denial of external reality in the Yogācāra tradition based on the Viṃśikā and Triṃśikā (see
+also Mayer 2009).
+7
+
+As regards the nature of Dignāga’s idealism (at least according to Jinendrabuddhi), see e.g. Chu (2006,
+p. 227), which presents it as ontologically uncommitted and considers that Jinendrabuddhi uses the term
+antarjñeyavāda “only in an epistemological sense”; I am not convinced, however, that this is the case (see
+Ratié 2011a, pp. 307–308, fn. 3).
+
+8
+
+See Schmithausen (2005, p. 49): “The result of my investigation […] may not be welcomed by the
+critics of the traditional interpretation of Yogācāra thought. But I have to admit my amazement at the
+emotional vehemence of their criticism. Is it merely because Yogācāra thought as traditionally understood
+seems so counter-intuitive to modern Western common-sense that some scholars think they must ‘defend’
+the Yogācāras against such an understanding? But isn’t this the same mode of procedure that scholars
+who worked when idealism was the dominant strand in Western philosophy are criticized for, viz. reading
+the presuppositions of one’s own time and milieu into the old texts?”
+9
+
+Kapstein (2001, p. 196) (according to en. 20, p. 203, this judgement is based on a reading of PV,
+Pratyakṣapariccheda 360).
+
+10
+
+See Dreyfus (1997) and Dunne (2004). On this “sliding scale of analysis” in the works of Śāntaraksita
+˙
+and Kamalaśı̄la, see McClintock (2003, pp. 139–142; 2010, pp. 85–91).
+
+123
+
+356
+
+I. Ratié
+
+consciousness does not need external objects to perceive, whereas the “denial of the
+reality of external objects” comes as the only solution to another problem, namely
+“the dilemma created by an impression of a solid extended object produced by
+atoms, which do not have extension by themselves”.11 Similarly, according to John
+Dunne, the ultimate level of analysis of Dharmakı̄rti’s works involves not only the
+idea that there can be no epistemic access to external objects but also the denial of
+their existence, and it is “the inability to specify whether the image in perception is
+singular or multiple that is the primary argument against the existence of extramental objects”.12 Dan Arnold’s interpretation, although it involves a somewhat
+different understanding of the expression “epistemic idealism” used by John
+Dunne,13 conforms on the whole to the latter’s understanding of Dharmakı̄rti’s
+idealism insofar as Arnold contends that Dharmakı̄rti’s epistemic arguments for
+idealism (those that rest on the analysis of ākāras and on the sahopalambhaniyama)
+are only aimed at showing that the Sautrāntikas basically share the same
+epistemological principles with the Vijñānavādins. These epistemic arguments
+should therefore be considered as mere prolegomena to another, metaphysical type
+of idealistic argument, the paradigm of which would be found in Vasubandhu’s
+mereological criticism of external objects, and which supposedly constitutes (at
+least in Manorathanandin’s eyes) the crucial step establishing the nonexistence of
+external objects.14 However, the contention that this Dharmakı̄rtian sliding scale of
+analysis necessarily culminates in an ontologically committed form of idealism (as
+well as the very legitimacy of the “sliding scale” metaphor) has been challenged,
+and Birgit Kellner has recently pointed out that the arguments presented by John
+Dunne as involving an ontological denial of external reality are purely epistemic in
+content.15
+But however interesting these contemporary debates are, they often remain silent
+on one crucial issue: were the Buddhist philosophers themselves aware of this
+distinction between the epistemic and metaphysical varieties of idealism that we
+keep applying to their works16—and if so, how exactly did they understand it? In
+this respect, Arnold’s contribution to this discussion is of particular interest insofar
+as it points out that at least some Buddhist thinkers seem to have been aware of this
+crucial difference between two kinds of idealism. There is, however, another source
+worthy of being considered in this regard: the same distinction is found in the works
+of non-Buddhist authors who were heavily influenced by Dharmakı̄rti’s tradition,
+11
+
+Dreyfus (1997, p. 103).
+
+12
+
+Dunne (2004, p. 63).
+
+13
+
+See Arnold (2008, p. 6, fn. 8).
+
+14
+
+See Arnold (2008).
+
+15
+
+See Kellner (2011).
+
+16
+
+Some modern scholars have openly expressed their doubts in this regard; see e.g. Oetke (1992, p. 222),
+which considers that “it might be more realistic to assume” that the author of the Viṃśikā was not “fully
+aware of the difference” between the two kinds of arguments, and adds that he might have confused the
+two issues to the point that he considered epistemic arguments as capable of proving a metaphysical type
+of idealism (see ibid.: “it is even conceivable that the writer of the treatise would have been prone to
+regard the proof regarding our experiences as an adequate means for establishing the thesis that no world
+of mind-independent things exists at all”).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+357
+
+and the following pages are an attempt to examine how two Śaiva philosophers,
+Utpaladeva (c. 925–975) and Abhinavagupta (c. 975–1025), have distinguished and
+understood two kinds of Buddhist idealism that we might call respectively
+“epistemic” and “metaphysical”.
+Utpaladeva’s Pratyabhijñā System, or the Śaiva Art of Recycling
+Buddhist Ideas
+But why choose some non-Buddhist sources to try and understand a Buddhist
+distinction? The most obvious answer to this question is that very few preserved
+Buddhist texts written in India explicitly mention it—in fact Arnold only adduces
+one short passage in Manorathanandin’s commentary of Dharmakı̄rti’s
+Pramāṇavārttika (PV) in favour of his twofold interpretation of Buddhism idealism.
+And indeed, this passage is crucial; but as can be seen below, it is far from being
+unambiguous. On the other hand, Śaiva texts from the tenth and eleventh centuries
+constitute an important source for our knowledge of Buddhist philosophy
+(particularly that of Dharmakı̄rti’s tradition), because while fighting with the
+Buddhist rivals with whom they were competing in the kingdom of Kashmir, these
+authors acquired a precise and extensive knowledge of their adversaries’ conceptual
+weapons, and they also borrowed many Buddhist ideas so as to suit their own
+metaphysical principles.17 Of course, this integration of Buddhist elements into a
+nondualistic Śaiva metaphysical background did not go without some profound
+changes in the original meaning of Buddhist concepts: according to Utpaladeva’s
+“Pratyabhijñā” (“Recognition”) system, the individual can only obtain liberation by
+recognizing himself as Śiva, understood as a single, all-encompassing consciousness
+playfully manifesting the universe by merely taking on countless aspects or
+appearances (ākāra, ābhāsa). The Śaiva nondualistic system is therefore an
+idealism, but one that accepts the existence of a single, enduring subject—which is
+of course perfectly contradictory with the Buddhist theory of selflessness
+(nairātmyavāda), so that the nondualist Śaivas often radically transformed the
+purport of the Buddhist notions that they had borrowed. Nonetheless, the works of
+Utpaladeva and Abhinavagupta remain an extremely precious source for our
+knowledge of Indian Buddhism, not only because they often give quotations of
+Buddhist works (including some that have not been preserved in their original
+Sanskrit),18 but also because while transforming the meaning of the Buddhist
+notions that they integrate to their system, they remain aware of their original aim,
+and because they themselves often (although alas not always) insist on the distance
+between their own interpretation and the Buddhist position.
+
+17
+
+See Torella (1992).
+
+18
+
+See e.g. the first Sanskrit verse of Dharmakı̄rti’s Santānāntarasiddhi, quoted by Abhinavagupta in
+ĪPVV, vol. II, p. 110 (see Ratié 2007, p. 323, fn. 20; 2011a, p. 591), or the many fragments of
+Śaṅkaranandana’s works quoted in the same text (see Bühnemann 1980).
+
+123
+
+358
+
+I. Ratié
+
+Manorathanandin’s Distinction Between Two Kinds of Arguments
+in Favour of Idealism
+The PVV passage which, as pointed out by Arnold, formulates a distinction between
+epistemic and metaphysical idealisms occurs as Manorathanandin is explaining
+why, according to Dharmakı̄rti, the fact that we only perceive objects that are
+internal aspects of consciousness shows that the cause of phenomenal variety cannot
+be found in any external reality but only within an internal mechanism of latent
+traces or imprints (vāsanā) left by previous experiences.19 Manorathanandin has just
+explained that this is the case because we can experience the causal efficacy of
+latent traces (in dreams for instance) whereas we cannot determine any causal
+relationship between the external objects and ākāras, since external objects remain
+forever imperceptible.20 To this a Sautrāntika opponent replies that Dharmakı̄rti has
+only shown that there is no sādhaka, no argument proving the existence of the
+external object; but he has not proved that the external object does not exist—he has
+not presented any bādhaka, any argument refuting its existence:
+If [the Sautrāntika opponent] were to [object:] “No: even so, [i.e.] even if there
+is no argument proving (sādhaka) [the existence of] an imperceptible external
+[object, nonetheless, you] have not demonstrated the nonexistence (abhāva)
+[of this external object]”, [we would answer the following.] Because [we]
+demonstrate [our] opinion through this only and nothing else (tāvataiva):
+19
+PV, Pratyakṣapariccheda 334–336: yadi buddhis tadākārā sāsty ākāraviśeṣiṇī / sā bāhyād anyato veti
+vicāram idam arhati // darśanopādhirahitasyāgrahāt tadgrahe grahāt / darśanaṃ nīlanirbhāsaṃ nārtho
+bāhyo’sti kevalaḥ** // kasyacit kiṃcid evāntarvāsanāyāḥ prabodhakam / tato dhiyāṃ viniyamo na
+bāhyārthavyapekṣayā // [*ākāraviśeṣiṇī PVS: ākāraniveśinī PVM. ** kevalaḥ PVM: kevalam PVS] “If the
+cognition has the aspect of the [object], it is particularized by this aspect. [Now,] this deserves
+examination: is it [thus particularized] because of an external [entity,] or because of [something] else?
+Because there is no apprehension of an [object that would be] devoid of the particularity that is
+perception, and because there is an apprehension [of an object] when there is an apprehension of its
+[perception, one must conclude that] it is perception that bears the aspect ‘blue’; there is no external
+object that would be independent [of cognition]. It is only a certain [cognition] that awakens an imprint of
+a certain [earlier cognition] inside [the cognitive series]; there is a restriction of cognitions [to their
+particular respective objects] thanks to this, and not with respect to any external object.” On this passage
+see Vetter (1964, pp. 80–81) and Taber (2010, p. 291). As regards PVS, note should be made that the PV
+stanzas were not contained in the manuscript used by Rāhula Sāṅkrtyāyana for his edition of the PVV,
+˚ PV while taking into consideration
+and that he inserted them on the basis of his own earlier edition of the
+Manorathanandin’s commentary (on the available sources regarding the text of Dharmakı̄rti’s PV see
+Kellner (2010)). Birgit Kellner was kind enough to let me know (personal communication; see Kellner
+(2010) for the sigla used in the following) that the reading ākāraviśeṣiṇī is confirmed by Devendrabuddhi
+and Ravigupta (Tib. khyad par can), MA, PVZh and PrB, while PrA′ reads ākāraniveśinī, and PVt has rjes
+zhugs can (which might translate something like –ānuvartinī/-ānugāminī?). As for the reading kevalaṃ,
+although Manorathanandin’s commentary supports it, all the other extant sources (PrA′, PrB) have kevalaḥ
+(the Tibetan translations, which have yan gar, are inconclusive here).
+20
+
+PVV, p. 220: ko hi viśeṣo bāhyo vā niyāmakaḥ pratibhāsasya prabuddhavāsanāviśeṣaḥ samanantarapratyayo vā. tatra vāsanāyāḥ sāmarthyaṃ svapnādāv upalabdhaṃ na tu bāhyasya,
+nityaparokṣatvāt. “For what is it that determines the appearance [of cognition]: a particular external
+[entity], or rather, a particular imprint (vāsanā) that has [just] been awakened [and functions as a]
+condition as an immediate and similar antecedent (samanantarapratyaya)? Among these two [candidates,
+we] see that the imprint has this capacity in a dream for instance, but [we do] not [see] that an external
+[entity may have this capacity,] since it is forever imperceptible.”
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+359
+
+“cognition is manifest, whereas an external [entity] is not manifest at all”,21
+we have not taken the trouble of refuting the external object which behaves
+like a demon (piśācāyamāna) [and] which is devoid of any argument proving
+[its existence] (sādhaka).22 Nonetheless, if the [opponent’s] obstinacy
+(nirbandha) in [demanding] the refutation of this [external object] is very
+heavy, one must make [him] examine the master’s refutation of atoms
+according to whether one supposes that [the external object] has parts or not.23
+My understanding of this passage is quite different from Arnold’s, but what
+matters for our current inquiry is that according to Manorathanandin, once one has
+proved that there is no positive argument (sādhaka) in favour of the external object
+because the external object is absolutely unmanifest, there is no more need to
+demonstrate that it does not exist, or one does not have to take the trouble of such a
+refutation. If, nonetheless, the opponent heavily insists on getting such a refutation,
+he should be led to examine Vasubandhu’s mereological arguments. Arnold points
+out that the passage clearly distinguishes between epistemic and metaphysical
+proofs,24 and he considers that according to Manorathanandin at least, the second
+set of arguments only (i.e., the set of “metaphysical”, mereological arguments
+propounded by Vasubandhu) is decisive as regards the very existence of the external
+object, whereas the first point only shows that we can have no epistemic access
+whatsoever to the object, without telling us anything regarding the actual existence
+of the object.25
+21
+Here my understanding of the passage differs from Arnold’s (see Arnold (2008, p. 16): “A cognition is
+appearing; but it does not appear as external”).
+22
+
+Here too, my understanding of the passage differs from Arnold’s (see ibid.: “Our effort (which is
+dedicated to negating a fiendish external object which is without a pramāṇa that is probative of the
+desired conclusion) is only to that extent”), not only as regards the general structure of the sentence (this
+difference is in part due to my conjecture -niṣedhe nāsmākam ādaraḥ, as I do not see how the Sanskrit
+sentence can be construed otherwise), but also as regards the meaning of the word piśācāyamāna, which
+Arnold translates as “fiendish” and regards as “an unusual rhetorical flourish for Manorathanandin” (ibid.,
+fn. 39): it seems to me that here Manorathanandin is simply alluding to the classical example of an entity
+by nature imperceptible, i.e., a demon (piśāca), and that he is making the point that the external object
+behaves like/is similar to a piśāca (piśācāyamāna being the middle present participle of a denominative
+verb formed on piśāca) insofar as it is imperceptible.
+23
+
+PVV ad PV, Pratyakṣapariccheda 336, p. 220: na, tathāpi parokṣasya bāhyasya sādhakasyābhāve’pi
+nābhāvasthitir iti cet, pratibhāsamānaṃ jñānaṃ bāhyaṃ tu na pratibhāsata eveti tāvataivābhimatasiddheḥ, sādhakapramāṇarahitapiśācāyamānabahirarthaniṣedhe nāsmākam* ādaraḥ. yadi tu tanniṣedhanirbandho garīyān sāṃśatvānaṃśatvakalpanayā paramāṇupratiṣedha** ācāryīyaḥ paryeṣitavyaḥ. [*-niṣedhe
+nāsmākam conj.: -niṣedhenāsmākam Ed. **paramāṇupratiṣedha corr.: paramāṇupratiṣedhe Ed.]
+24
+See Arnold (2008, p. 16): “This revealing exchange is remarkable for its expression of a point that is
+too often missed in discussions of Yogācāra: the difference between epistemic arguments for idealism
+(arguments based on the claim that all we immediately know is things that are themselves mental), and
+metaphysical arguments for the claim that only mental things exist.”
+25
+
+See ibid.: “Dharmakı̄rti’s Yogācāra […] emphasizes that all he claims to have shown […] is that
+whatever the content of a cognition seems to be, its seeming so is not itself external […]. Cognition’s
+seeming some way, however, is all that is ever really known for sure. If one wanted, additionally, to argue
+that only such ‘seemings’ themselves exist—if, as Manorathanandin here puts it, one’s intention to refute
+external objects was ‘weightier’—it would be necessary to advert to a fundamentally different kind of
+argument. It would, in particular, be necessary to offer a metaphysical argument of the kind
+paradigmatically examplified by the Viṃśatikā of Vasubandhu […].”
+
+123
+
+360
+
+I. Ratié
+
+But is Manorathanandin’s intention only to point out that there are two steps in the
+demonstration of idealism, and that here Dharmakı̄rti’s reasoning only goes halfway
+so to speak, i.e., that Dharmakı̄rti contents himself with an argument that can only lead
+to some sort of scepticism regarding the external object, whereas other arguments such
+as Vasubandhu’s constitute one possible further step insofar as they clearly deny the
+existence of the external object?26 One wonders whether here, Manorathanandin is not
+rather explaining that the ontological question regarding the external object becomes
+simply irrelevant as soon as the epistemic argument is formulated: since the argument
+just put forward by Dharmakı̄rti demonstrates that there is strictly no way of proving
+the existence of the object, refuting its existence becomes pointless. In support of this
+understanding of the passage, one might adduce Manorathanandin’s allusion to the
+demon (piśāca):27 mentions of such imperceptible entities are recurrent in
+Dharmakı̄rtian and post-Dharmakı̄rtian discussions on the anupalabdhi theory, as
+an example of entity whose existence cannot be ascertained or denied due to its
+imperceptibility.28 Manorathanandin’s comparison of the external object with a piśāca
+thus seems to imply that the endeavour to prove or refute the existence of the external
+object is as hopeless as an attempt to determine whether a particular place is occupied
+by some imperceptible demon; and his adding that there is no sādhaka whatsoever in
+favour of the external object also seems to emphasize that there is nothing to be gained,
+from a philosophical point of view, from an ontological inquiry regarding an entity that
+cannot be determined to exist anyway.
+Besides, Manorathanandin explains that the second set of arguments should be
+used in case the interlocutor has a heavier/very heavy nirbandha for the refutation of
+the external object. Arnold understands the term nirbandha as some sort of neutral
+“desire”, but the word rather denotes an obstinacy, a stubborn insistence, and
+Manorathanandin might rather mean that if one is faced with a particularly stubborn
+opponent who goes on demanding a refutation of the external object in spite of what
+has already been shown (i.e., that seeking proofs of the external object is useless
+since anyway this external object is completely out of reach), then one may have
+recourse to Vasubandhu’s argument.
+So to sum up, Manorathanandin clearly distinguishes two kinds of arguments for
+idealism, the first of which can be termed “epistemic” inasmuch as it shows that
+there is no way to prove the existence of an object by nature imperceptible, whereas
+the second rests on a mereological analysis of the type put forward in Vasubandhu’s
+Viṃśikā.29 However, I am not entirely sure whether Arnold is right in considering
+26
+
+According to Arnold, this is the case because Dharmakı̄rti is only concerned with showing that the
+Sautrāntikas’ epistemology is in fact the same as that of the Vijñānavādins. See Arnold (2008, p. 17):
+“Dharmakı̄rti does not claim to have shown that only mental events can exist—only that, whatever the
+case in that regard, we are only immediately aware of mental events. But Dharmakı̄rti can […] here
+readily allow that this is all he has shown, since that already gets him all he needs epistemologically.
+Insofar, that is, as Dharmakı̄rti’s concerns are only epistemological […] there is nothing to be added to the
+‘Sautrāntika’ case in order for Dharmakı̄rti’s to be the epistemology of a finally idealist position.”
+
+27
+
+See above, fn. 22.
+
+28
+
+See e.g. Kellner (1997, p. 105).
+
+29
+
+On the high probability that the original title of Vasubandhu’s text was not (contrary to Sylvain Lévi’s
+assumption) Viṃśatikā but Viṃśikā, see Kano (2008, p. 345).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+361
+
+that here Manorathanandin asserts that only Vasubandhu’s arguments are decisive
+for metaphysical idealism, or that they constitute one further step in the
+demonstration of idealism. It seems to me that Manorathanandin might very well
+contend the epistemic argument to be of much more importance than the
+“metaphysical” arguments insofar as it puts into question the very relevance of
+such arguments. Or to put it in a simpler way: according to Manorathanandin, rather
+than being ontologically neutral, the epistemic argument neutralizes all ontological
+questions: it does not merely state that external objects can exist or not, it shows that
+wondering whether the external objects exist or not is pointless.
+It should be noted, however, that such an interpretation does not necessarily
+mean that the epistemic argument put forward by Dharmakı̄rti leads to a mere
+scepticism regarding the ontological status of the external object. Thus as Kellner
+has pointed out,30 in Dharmakı̄rti’s anupalabdhi theory, the existence of objects that
+are not perceived remains doubtful only insofar as these objects, although they are
+sometimes perceived, are not necessarily and immediately perceived when they do
+exist: we cannot ascertain the fact that there is no piśāca here and now from the
+mere fact that we do not perceive it, because piśācas are supposed to be
+imperceptible for human beings, but as Kellner puts it, “a piśāca can be perceived
+by another piśāca”, as well as by a yogin.31 In other words, whereas the piśāca is not
+absolutely imperceptible, but only imperceptible for some subjects in some
+circumstances, the sahopalambhaniyama argument shows that the external object is
+never perceptible in any circumstance (na pratibhāsata eva, says Manorathanandin).
+And this might make quite a difference: we can entertain doubts regarding the
+existence of an entity that is imperceptible to us and in some given circumstances,
+but is this attitude still an option when it comes to an entity that is by nature
+absolutely and always unmanifest? And particularly in Dharmakı̄rti’s system, which
+grants so much importance to the notion of causal efficacy (arthakriyā) and which,
+in fact, simply equates it with reality, what kind of reality could a completely
+unmanifest object still be credited with if it is incapable of the minimal efficacy
+consisting in causing some kind of perception of itself? From this point of view,
+Manorathanandin’s formulation of the distinction between the two kinds of
+arguments might seem slightly ambiguous: when he states that Dharmakı̄rti has not
+taken the trouble of refuting the external object because he demonstrates his opinion
+merely by showing that the external object is absolutely unmanifest, we can
+understand that Dharmakı̄rti rejects (here at least) an ontologically committed form
+of idealism in the name of an epistemic idealism that eliminates the question of the
+ontological status of the object as a purely irrelevant matter, but we could also
+interpret the sentence as meaning that the epistemic argument, inasmuch as it shows
+the absolute imperceptibility of the object, is in fact already ontologically
+committed (and therefore renders any further refutation redundant), the implicit
+reason for this being that an absolutely imperceptible object can only be
+nonexistent. And whether this ambiguity was intended or not by Manorathanandin,
+
+30
+
+See Kellner (1999).
+
+31
+
+Kellner (1999, p. 196) (see also ibid., fn. 5, p. 195).
+
+123
+
+362
+
+I. Ratié
+
+interestingly enough, the Śaivas (who were aware of a similar distinction between
+two kinds of Buddhist idealism) seem to have exploited such an ambiguity.
+The Śaivas’ Interpretation of this Distinction: The Epistemic Argument
+as the Argument Par Excellence for Metaphysical Idealism
+Thus Abhinavagupta too distinguishes two kinds of idealistic arguments—one based
+on the absence of manifestation of the external object, and one based on the
+absurdity of the very nature of the external object. In the ĪPV, he explains:
+And as regards this [external object,] there is no argument proving [its
+existence] (sādhaka), and the main (mukhya) argument refuting [its existence]
+(bādhaka) amounts to this only: the absence of [its] manifestation (prakāśana)
+even as an object of inference if [this object] is distinct from the manifesting
+consciousness (prakāśa). As for the additional arguments refuting [the
+existence of the external object] (abhyuccayabādhaka), they are: the
+impossibility of the existence of a whole (avayavin); the fact that the
+inherence (samavāya) [of the whole in its parts] is not established; the fact that
+the [external object must] possess some contradictory properties, such as
+movement and the absence of movement, being covered and being uncovered,
+being colored and being colourless, a difference between parts according to
+[the six] directions (digbhāgabheda), etc.32
+The “additional” arguments to which Abhinavagupta is alluding here are
+obviously taken from Buddhist sources, as is confirmed by Abhinavagupta’s own
+ĪPVV, which mentions that Utpaladeva attributed them to some “Vijñānavādins” in
+his lost Vivr̥ ti on the passage, and which explicitly refers to Vasubandhu’s
+Vijñaptimātratāsiddhiḥ, Dignāga’s Ālambanaparīkṣā and Śaṅkaranandana’s Prajñālaṃkāra (the latter probably contained a synthesis of the two former texts, as well
+as of PV, Pramāṇasiddhipariccheda 86–87).33 Examining these arguments in detail
+is beyond the scope of this paper,34 but what matters here is that they are all devoted
+to showing that however we may try to understand the nature of the external object
+(i.e. as endowed with parts or not), we cannot give any satisfactory account of it
+from a rational point of view—in other words, these bādhakas are more or less
+refined versions of Vasubandhu’s mereological arguments.
+As for the first kind of argument mentioned by Abhinavagupta, namely, the
+absence of manifestation (prakāśana) of the external object, it is ascribed by the
+Śaivas themselves to Dharmakı̄rti. Thus Utpaladeva and Abhinavagupta side with
+32
+ĪPV, vol. I, p. 178: …yatra sādhakaṃ ca nāsti pramāṇaṃ bādhakaṃ ca prakāśād bhede’numeyatayāpi
+prakāśanābhāva iti tāvan mukhyam. abhyuccayabādhakās tv avayavino vr̥ ttyanupapattiḥ samavāyāsiddhiḥ kampākampāvaraṇānāvaraṇaraktāraktadigbhāgabhedādiviruddhadharmayogaḥ…
+33
+
+See ĪPVV, vol. II, p. 144 (see also ĪPV, vol. I, p. 181 for another allusion to Śaṅkaranandana), quoted
+and translated in Ratié (2010a, pp. 446–447). See also Krasser (2001, p. 503) and Eltschinger (2010,
+p. 108) on this passage.
+34
+
+On the content of these arguments see Ratié (2010a, pp. 447–452), and for a more comprehensive
+account, Ratié (2011a, pp. 390–403).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+363
+
+Dharmakı̄rti in the sākāra/nirākāra debate: they too argue that if consciousness
+remained a perfectly undifferentiated manifesting entity (prakāśamātra), it simply
+could not manifest the differences between its various objects, so that there could be
+no such thing as an awareness of phenomenal variety;35 Abhinavagupta specifies
+that the argument belongs to Dharmakı̄rti.36 The Śaiva nondualists also refute the
+Sautrāntika’s contention that the external objects must be inferred as the cause of
+the various ākāras that consciousness takes on by having recourse to the
+Dharmakı̄rtian sahopalambhaniyama. According to the Śaiva interpretation of this
+argument, the very fact that we cannot experience the object without its cognition
+means that we cannot infer the existence of an object external to consciousness as
+the cause of the various aspects taken on by consciousness, because a causal
+relationship presupposes the invariable co-presence (anvaya) and co-absence
+(vyatireka) of the two related entities; but in the case at hand, we cannot ascertain
+that whenever there is an external object, there is a cognition bearing a particular
+objective aspect, and that whenever there is no external object, there is no such
+cognition, because we cannot experience these two entities separately.37 And here
+too, Abhinavagupta specifies that the Śaiva position is simply that of Dharmakı̄rti:38
+even though the Śaivas claim that their argument ultimately surpasses Dharmakı̄rti’s
+inasmuch as it involves the very impossibility of even conceptualizing the external
+object (since according to the Śaiva nondualists, even concepts involve some kind
+of immediate manifestation of their object),39 they repeatedly acknowledge their
+35
+
+See Ratié (2010a, pp. 439–445).
+
+ĪPVV, vol. II, p. 79: tataś ca sākāratākr̥ ta eva niyamaḥ. yathāha: tatrānubhavamātreṇa jñānasya
+sadr̥ śātmanaḥ / bhāvyaṃ tenātmanā yena pratikarma vibhajyate // iti; tasmān nīlākāro’pr̥ thagbhūto
+bodhāt. “And as a consequence, the restriction (niyama) [of a cognition to a particular object which is
+distinct from the other objects] must be due to the fact that [the cognition] takes on the aspect [of this
+object] (sākāratā). As [Dharmakı̄rti] has said: ‘Because [otherwise], the nature of cognition would remain
+the same with respect to any [object], since it would be a pure [undifferentiated] experience
+(anubhavamātra), it must be [cognition] itself thanks to which [the cognition] is differentiated according
+to each object.’ Therefore the aspect (ākāra) ‘blue’ is not distinct from the cognition (bodha).” The
+quotation is borrowed from PV, Pratyakṣapariccheda, 302. Cf. PVV: anyathānubhavamātratayā sarvatra
+viṣaye sadr̥ śaṃ jñānaṃ prativiṣayaṃ kathaṃ bhedena vyavasthāpayituṃ śakyeta? “If it were not the case,
+the cognition would be similar with respect to any object, because it would consist of nothing but
+[undifferentiated] experience, [so] how could it be made to be different according to each object?”
+36
+
+37
+
+See Ratié (2011b, pp. 484–486).
+
+38
+
+ĪPVV, vol. II, p. 78: etad dhi sahopalambhaniyamād abhedo nīlataddhiyor iti vijñānākāramātraṃ
+nīlādi prasādhayituṃ nirūpitam. “For all of this has been explained [by Utpaladeva] in order to make it
+clear that [the various objects] such as blue are nothing but aspects (ākāra) of consciousness, according to
+[the principle stated by Dharmakı̄rti]: ‘Because of the necessity [for blue and the cognition of blue] to be
+perceived together (sahopalambhaniyama), there is no difference between blue and the cognition of
+blue’.” The quotation is borrowed from PVin, Pratyakṣapariccheda 54ab.
+39
+See Ratié (2011b, pp. 493–499): admittedly, the Sautrāntika talks about an external object, so he does
+form some kind of concept of it. And he forms it by relying on the notion of externality (bāhyatā/
+bāhyatva), which he draws from ordinary experience (we can all see that a pot can be external to a house,
+that a house can be external to a village, etc.). However, Utpaladeva points out that the Sautrāntika can
+talk about an external object only thanks to the ambiguity of the word “externality”: when we talk about
+the externality of the pot with respect to the house, by “externality” we only mean a spatial relationship of
+proximity; but consciousness, which is not spatially determined, cannot stand in a relationship of
+proximity with anything else. So in fact when the Sautrāntika talks about an external object, he can only
+mean an object that is perfectly alien to the very nature of consciousness—and such an object is precisely
+
+123
+
+364
+
+I. Ratié
+
+debt towards the great Buddhist philosopher as regards the argument of the external
+object being absolutely unmanifest.
+Now, Abhinavagupta’s distinction of the two kinds of arguments is remarkable in
+several respects.
+First of all, his distinction is quite similar to Manorathanandin’s insofar as
+Abhinavagupta too distinguishes an argument merely based on the absence of
+manifestation of the external object (which he ascribes to Dharmakı̄rti, even though
+he considers that Utpaladeva has come up with a fuller version of it) from arguments
+based on the impossibility of accounting for the nature (whether endowed with parts
+or not) of this object—and Abhinavagupta too mentions Vasubandhu as a source of
+this latter type of argument.
+Second, Abhinavagupta notes, just as Manorathanandin, that there is no proving
+argument (sādhaka) regarding the external object; but—and this is a crucial
+point—he immediately adds that the very fact that the external object is absolutely
+unmanifest actually constitutes an argument against its existence: according to
+Abhinavagupta, the fact that the external object is absolutely unmanifest means not
+only that it is “not proven by any means of knowledge” (niṣpramāṇaka) but also that
+it is “rejected thanks to a means of knowledge refuting [its existence]”
+(bādhakapramāṇanirasta).40 Thus for the Śaivas, the epistemic argument is not
+confined to a demonstration that there is no argument proving the existence of the
+external object; or rather, the very demonstration that there is no sādhaka
+whatsoever in favour of the external object constitutes a bādhaka, an argument
+refuting its existence.
+Third, Abhinavagupta does not seem to believe that the arguments based on the
+nature of the object (the “metaphysical” arguments according to Arnold’s
+Footnote 39 continued
+something that we are incapable of conceptualizing, because as soon as we try to think about it, we are
+already transforming it into an object of consciousness. The principle on which this argument rests is that
+consciousness remains a manifesting entity (prakāśa) whether it is perceptual or conceptual, so that in our
+concepts as well as in our perceptions, the object of consciousness must be somehow manifest: according
+to Utpaladeva and Abhinavagupta, even concepts must somehow involve some kind of aspect (ākāra) of
+their object that consists in a variety of manifestation (ābhāsa), but there can be no such aspect of that
+which is by nature absolutely unmanifest, so that the external object cannot be conceptualized anymore
+than it can be perceived. The Śaivas themselves emphasize their disagreement in this regard with the
+Dharmakı̄rtian epistemologists: see e.g. ĪPV, vol. I, pp. 190–191 (translated in Ratié 2011b, pp. 496–497),
+where Abhinavagupta alludes to “those who consider that no real entity (vastu) is manifest in a concept”
+(ye vikalpe vastu nābhātīti manyante) and adds that “as for us, we have [already] demonstrated that even
+determination (adhyavasāya) has an object that is being manifest” (asmābhis tūpapāditam adhyavasāyasyāpy ābhāsamānaviṣayatvam). He alludes to ĪPK 1.3.5 (on which see Ratié 2011a, pp. 139–142,
+and Kawajiri 2011) before explaining that an object devoid of manifestation cannot be conceptualized at
+all, whereas a conceptualized object cannot be, by definition, an object external to the manifesting
+consciousness.
+40
+See ĪPVV, vol. II, p. 130: iti teṣu samāpte vyavahāre ’nyena prakāśātiriktena tata evāprakāśatvān
+niṣpramāṇakena bādhakapramāṇanirastena ca bāhyārthavargeṇa kim adhikenānviṣṭena. “Since mundane
+practice is entirely accounted for if these [manifestations alone exist], what is the point of all these
+external objects that [you] are looking for [as something existing] over and above [phenomena, whereas
+these external objects are] other [than the manifesting consciousness, i.e.] distinct from the manifesting
+consciousness? Since for this very reason [they] do not consist in the manifesting consciousness
+(aprakāśatva), they are both not proven by any means of knowledge and rejected thanks to a means of
+knowledge refuting [their existence].”
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+365
+
+distinction) are more decisive as regards the refutation of the external object’s
+existence than the first type of argument. On the contrary, according to him, the first
+type of argument is the “main” or “fundamental” (mukhya) argument against the
+external objects, while the others are merely “additional” (abhyuccaya). Abhinavagupta further explains the distinction between the two kinds of arguments by
+saying that the “additional” ones target this or that specific property of the external
+object (such as having parts), whereas the “main” one, which rests on the mere fact
+that the external object is absolutely unmanifest, functions through some kind of
+global refutation, or more literally, by “entirely devouring” (sarvagrāsa) the
+external object (just as Śiva’s terrible form, Bhairava, devours the universe, or just
+as a total eclipse makes the sun disappear):
+And [Utpaladeva explains in his Vivr̥ ti that against the thesis of the existence of
+the external object,] there is not only this [aforementioned] refuting argument
+(bādhaka) which functions through the means of knowledge (pramāṇa) [lacking
+in the case of the external object]; [there is] also [a refuting argument which
+functions] “through itself”, that is to say, through the [external object’s] own
+[nature], [or more precisely,] through the awareness arising from the examination of the [very] nature of the object of knowledge. In other words, the very
+nature of the object of knowledge eradicates the external [object] insofar as it
+makes obvious that [this object can]not exist. For the first refuting argument
+functions while completely disregarding the nature of the object of knowledge
+[i.e. it works] whether [we] accept that it has parts [or that it] is devoid of parts,
+[and whether we accept that] it is contradicted [by this or that particular property
+or that] it is not—rather, [it functions] by entirely devouring [the external object]
+in this way: “[whatever is] distinct from the manifesting consciousness
+(prakāśa) is not manifest (na prakāśate).”41
+The commentator Bhāskarakantha, for his part, explains the ĪPV distinction
+˙ ˙˙
+between the “main” and the “additional” arguments by pointing out that the first one
+is the “essential” (pradhāna) one because it proceeds by refuting “directly” or
+“immediately” (sākṣāt) the external object,42 whereas the additional arguments are
+only of a secondary importance (anvācaya) and are subordinated (gauṇa) to the first
+one because they only refute “indirectly” or “aporetically” (prasaṅgena).43
+So for the Śaiva nondualists, the Buddhist mereological type of argument is not
+the decisive step enabling the idealist to leave the plane of a mere scepticism
+regarding the existence of the external object. On the contrary, this set of arguments
+is presented as some sort of metaphysical cherry on the cake, whereas the first
+ĪPVV, vol. II, p. 138: na ca kevalam idam eva bādhakaṃ yat pramāṇamukhena pravr̥ ttaṃ yāvat svato
+’pīti svamukhena prameyasvarūpanirūpaṇapravr̥ ttapratītidvāreṇāpi pravr̥ ttam, prameyasvarūpam
+evāsattvāviṣkaraṇenonmūlayaty* eva bāhyam iti yāvat. pūrvakaṃ hi bādhakaṃ prameyasvarūpam
+anapekṣyaiva sāṃśam anaṃśaṃ viruddham aviruddhaṃ yad bhavatu tad bhavatu, prakāśād bhinnaṃ na
+prakāśata iti tu sarvagrāsena pravr̥ ttam. [*evāsattvāviṣkaraṇenonmūlayaty conj. (see Ratié forthcoming,
+fn. 24): eva sattvāviṣkaraṇenonmūlayaty Ed.]
+41
+
+42
+
+Bhāskarī, vol. I, p. 222: mukhyaṃ bhavati – pradhānaṃ bhavati sākṣādbādhakatvāt.
+
+43
+
+Bhāskarī, vol. I, p. 223: abhyuccayena – anvācayena, prasaṅgeneti yāvad bādhakāḥ. ata eva
+gauṇatvam eṣām, pūrvaṃ sākṣād bāhyabādhakam, ete prasaṅgenaiva bādhakā iti.
+
+123
+
+366
+
+I. Ratié
+
+argument can indeed be termed epistemic insofar as it rests on the total impossibility
+of an epistemic access to the external object, but the Śaivas consider it as being
+already fully committed from an ontological point of view. Thus they agree with
+Manorathanandin insofar as they too admit that once the external object is
+established to be absolutely unmanifest, one does not have to take the trouble of any
+further refutation. But whereas Manorathanandin only states that there is no need to
+take the trouble of refuting the existence of the external object “because [we]
+demonstrate [our] opinion through this only, and nothing else (tāvataiva)”,44 i.e.,
+through the total absence of manifestation of the external object, Abhinavagupta
+clearly states that “this only” (tāvat), i.e. the total absence of manifestation of the
+external object, constitutes the main argument refuting its existence.45
+So why do the Śaiva nondualists consider that the epistemic argument proves that
+the external object does not exist? One could suspect that they manage to make this
+leap between the epistemic and the metaphysical aspects of the problem simply by
+inferring the nonexistence of the external object from the fact that it is not
+perceptible. As a matter of fact, they repeatedly equate existence with manifestation46 and they call their own system (as well as the Vijñānavāda) a “theory of
+manifestation” (ābhāsavāda),47 i.e. a “theory according to which reality belongs
+[only] to manifestations (ābhāsavastutvavāda).48
+However, Utpaladeva and his commentator have adopted Dharmakı̄rti’s theory of
+non-perception (anupalabdhi), and they therefore acknowledge that one cannot
+legitimately infer the nonexistence of something from the mere fact that this thing
+happens to be imperceptible: they admit with Dharmakı̄rti that an object which is by
+nature inaccessible to our perception, such as a demon, cannot be determined as
+existing or not from the simple fact that we do not see it, and they consider that the
+absence of a given entity can only be concluded from its imperceptibility in a given
+place and time provided that the conditions for perceiving such an entity are
+gathered in this particular circumstance.49
+44
+
+See above, fn. 23.
+
+45
+
+See above, fn. 32.
+
+46
+
+See e.g. ĪPV, vol. II, p. 241 (avabhāsasāratvād vastūnām…, “Since real entities (vastu) have
+manifestation as their essence…”), or MŚV I, p. 219: anābhātaṃ ca no vastu vyomasadmagavākṣavat /
+so’pi vā kalpitākāraś citprakāśe prakāśate // “And that which is not manifested is no real entity, just as the
+window of a castle in the sky; or [rather, contrary to what is unmanifest, at least] this [window,] since it
+has an aspect constructed [through the power of imagination,] is manifest within the manifesting
+consciousness (citprakāśa).” See also e.g. ĪPV, vol. I, pp. 192–193: tac ca sadaiva, prakāśasya
+pramātr̥ tvāt, tadātmatayā ca vināprakāśamānasyāvastutvāt. [*vināprakāśamānasyāvastutvāt Bhāskarī:
+vinā prakāśamānasyāvastutvāt ĪPV (see Ratié 2011a, fn. 10, p. 481)]. “And this [identity of the object of
+knowledge with the knowing subject must] always exist, because the manifesting consciousness is the
+knowing subject, and because without this identity with the [knowing subject, the object,] which would
+not be manifest, would be no real entity.”
+47
+
+See e.g. the introduction to ĪPK 2.4.12 in ĪPVV, vol. III, p. 214, where the term ābhāsavāda obviously
+applies both to the Śaiva nondualist system and to that, immediately mentioned at the beginning of the
+commentary on the verse, of the Vijñānavādins.
+48
+
+See ĪPV, vol. II, p. 163, which also introduces ĪPK 2.4.12.
+
+49
+
+On the adoption of Dharmakı̄rti’s theory of anupalabdhi by the Śaiva nondualists, see Torella (2007)
+and Ratié (2010b).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+367
+
+Nonetheless, according to the Śaiva nondualists at least, there is a vast difference
+between a piśāca and an external object: the piśāca is not considered as an
+absolutely imperceptible object but only as an object imperceptible to some subjects
+in some circumstances, and more importantly perhaps, the piśāca is an entity that
+can be at least conceptualized, precisely inasmuch as it can be represented as an
+entity perceptible to others, be they extraordinary human beings or other piśācas.
+But whereas we are capable of imagining the piśāca, i.e., of considering the
+possibility of its existence through the mental process called sambhāvanā,50 there is
+no way in which we could even consider the mere possibility of the existence of an
+external object, because we are simply incapable of imagining what is by nature
+completely alien to any kind of mental image.51 Contrary to entities such as the
+piśāca, the external entity is therefore an entity that escapes all our attempts to
+conceptualize it.52
+And this is a crucial point, because in the verse on which Abhinavagupta
+comments when distinguishing between the two kinds of arguments,53 Utpaladeva
+does not only state that the external object postulated by the Sautrāntika is useless
+since within the sphere of ordinary human practice we only relate to phenomena; he
+also specifies that this external object is anupapatti—a Sanskrit term which can
+mean both “impossible in fact” and “impossible to account for in a rational way”,
+50
+On the crucial role of sambhāvanā/sambhāvana in the process of exclusion (apoha) that leads to the
+formation of concepts, see e.g. ĪPV, vol. I, p. 242 (which conspicuously makes use of a Dharmakı̄rtian
+terminology): ato ghaṭāghaṭayor dvayor avabhāsasya sambhāvanāt samāropaḥ sāvakāśo bhavaty
+aghaṭasya saty ārope niṣedhalakṣaṇo ’pohanavyāpāra iti tadanuprāṇitā vikalparūpatā ghaṭa ity etasya
+niścayasya. “It is thanks to this hypothetical representation (sambhāvana) of the manifestation of two
+[entities, i.e.] the pot and the non-pot, that the superimposition (samāropa) can occur; [and] the operation
+of exclusion (apohana) consisting in the negation [of what is not the pot] occurs [only] when there is a
+superimposition of the non-pot. As a consequence, this certainty, ‘the pot’, consists in a concept (vikalpa),
+[and this fact that it consists in a concept] depends on the [exclusion, which in turn depends on the
+superimposition, which in turn depends on the hypothetical representation].”
+51
+
+See e.g. ĪPV, vol. I, p. 242 (Abhinavagupta has just explained that our concept of the pot rests on our
+capacity to imagine both the pot and the non-pot): yas tv ayaṃ prakāśo nāma tasya sthāne yaḥ
+saṃbhāvyate sa tāvad aprakāśarūpo na bhavati, tulyakakṣasya hi saṃbhāvanaṃ bhavati, na ca yat
+prakāśena kartavyaṃ tad aprakāśasya kadācid dr̥ ṣṭam; saṃbhāvanāropaṇādibalād eva
+cāsyāprakāśarūpatvaṃ vighaṭeta. “However, that which is hypothetically represented (sambhāvyate) in
+place of the manifesting consciousness itself is certainly not [something] that would not consist in the
+manifesting consciousness; for there can [only] be a hypothetical representation of [something] equivalent
+[to the entity considered in the process of exclusion], and in no circumstance do [we] see that what can be
+accomplished by the manifesting consciousness [can be accomplished] by what is not the manifesting
+consciousness. And due to the mere fact that there is a hypothetical representation, a superimposition and
+[an exclusion,] the nature of this [entity] cannot remain a non-manifestation.” Note that this means that
+the manifesting consciousness itself (prakāśa) cannot be conceptualized any more than what is
+completely alien to it; but the crucial difference between prakāśa and aprakāśa lies in the fact that the
+first one is always immediately apprehended through the most immediate of all knowledges, i.e. selfawareness (svasaṃvedana), since the Śaivas consider that there is no consciousness without the awareness
+of being conscious.
+52
+See e.g. ĪPVV, vol. II, p. 161: svapne ’py anābhātasya vikalpyatvāyogāt…, “Because what is not
+manifested, even in a dream, cannot be conceptualized…”.
+53
+
+See ĪPK 1.5.6: syād etad avabhāseṣu teṣv evāvasite sati / vyavahāre kim anyena bāhyenānupapattinā //
+“Let [us admit] this: since the sphere of human practice (vyavahāra) is determined on [the basis of] these
+manifestations alone, what is the point of some external [object] that would be distinct [from
+consciousness and] that is impossible/cannot be accounted for rationally (anupapatti)?”
+
+123
+
+368
+
+I. Ratié
+
+and which for this reason constitutes a perfect expression of the rationalist optimism
+at the basis of such arguments as Vasubandhu’s mereological critique of the external
+objects: these arguments all presuppose that what is absurd from a rational and
+theoretical point of view must be impossible from a factual point of view.54
+Now, this is how Abhinavagupta explains Utpaladeva’s verse in his ĪPVV:
+This is what [Utpaladeva] says [in ĪPK 1.5.6:] even if the external object is
+inferred, it is only insofar as it is being manifest (prakāśamāna eva) [and
+therefore internal] that it can be talked about, because if [it] were distinct from
+the manifesting consciousness (prakāśa), since as a consequence it would have
+no manifestation, even [our awareness] that [the object] is inferred would
+amount to a state of stupor.55
+Here Abhinavagupta is in fact anticipating on a demonstration that only occurs in
+verses 1.5.8–9, where Utpaladeva shows that the external object cannot be
+conceptualized at all.56 And showing that an absolutely unmanifest object cannot
+even be conceptualized amounts to stating that such an object is anupapatti in the
+sense that it is simply unthinkable. In other words, according to the Śaiva
+nondualists, the external object is absurd not only because its nature cannot be
+accounted for whether it is made of parts or not, but also (and, according to
+Abhinavagupta at least, more importantly) because an absolutely unmanifest entity
+cannot be conceptualized at all, so that there is no way to give any rational account
+of it. Thus elsewhere in the ĪPVV, Abhinavagupta points out that the notion of an
+external object called “blue” for instance is absurd anyway, so that there is no more
+logical fault in considering it as yellow or as nothing at all than there is in
+considering it as existing “in itself” (i.e. independently of any conscious
+manifestation);57 and in the parallel passage of the ĪPV, Abhinavagupta concludes:
+“therefore if there is a manifesting consciousness [of the object], then [only] the
+object exists.”58 That is to say, according to the nondualist Śaivas, the argument
+showing that there is no epistemic access whatsoever to the external object is also
+the argument par excellence for a “metaphysical” or ontologically committed
+idealism, because an object that cannot even be conceptualized can have no
+54
+
+See e.g. Arnold (2008, p. 16, fn. 41): “It is […] presupposed by Vasubandhu’s arguments (as perhaps
+by metaphysical arguments more generally) that what we can or cannot adequately conceive tells us
+something about what is actually possible.”
+
+55
+ĪPVV, vol. II, pp. 129–130: etad uktam: anumito’pi bāhyo’rthaḥ prakāśamāna eva vaktavyaḥ,
+prakāśād bhede hy aprakāśanaprasaṅgād anumitatvam api vastuno mūrchāprāyaṃ bhavet.
+56
+
+See Ratié (2011b, pp. 496–497): in ĪPV, vol. I, pp. 190–191, Abhinavagupta explains that “an object
+such as blue that is not pervaded by the manifesting consciousness, even in the form of an inferential
+concept” (anumānavikalpātmanāpi prakāśena… anāviṣṭo nīlādir arthaḥ), cannot be inferred at all, but
+that if the external object is conceptualized and therefore pervaded by the manifesting consciousness,
+“its nature is necessarily nothing but the manifesting consciousness, [and therefore] it is not external
+(prakāśamātrasvabhāva eva, na bāhyaḥ).
+57
+
+See ĪPVV, vol. II, p. 77: aprakāśasya siddhir eva na kācit, svātmani hi nīlaṃ yadi pītaṃ na kiṃ cid vā,
+tat kiṃ duṣyet. [*siddhir conj. (see Ratié 2011a, p. 361 and fn. 117): prasiddhir ĪPVV.] “There is
+absolutely no establishment (siddhi) of [what is a] non-manifestation; for if [we said that] in itself
+(svātmani), the blue is yellow or [even] nothing at all, how could it be wrong?”
+58
+
+ĪPV, vol. I, p. 163: tad yadi prakāśas tadā bhavaty arthaḥ.
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+369
+
+existence. The implicit principle at the basis of the Śaivas’ metaphysical
+interpretation of the epistemic argument therefore seems to be the same principle
+that governs Vasubandhu’s mereological arguments: unless we abandon the idea
+that there must be some kind of correspondence between reason and reality, we
+must admit that that which cannot be conceptualized in any way cannot exist.
+Is the Śaivas’ Interpretation of the Two Kinds of Idealistic Arguments a
+Betrayal of Their Buddhist Source(s)?
+To sum up, Manorathanandin distinguishes two kinds of arguments for idealism:
+one that shows that there is no epistemic access whatsoever to any external object,
+and one that shows that the very nature of the external object is absurd since we
+cannot satisfactorily account for it whether we imagine it as having parts or not. The
+Śaivas make the same distinction, and they clearly consider that the first kind of
+argument is just as ontologically committed as the second, or rather, that it is in fact
+the main (mukhya) argument against the existence of the external object, whereas
+the mereological arguments concerning the nature of the object are only secondary.
+Now, is this Śaiva interpretation a betrayal of the original intention of the
+Buddhist philosophers by whom Utpaladeva and Abhinavagupta were so much
+influenced, or does it reflect in some way at least the position of their Buddhist
+counterparts?
+On the one hand, there is evidence that this distinction largely predates the
+writing of the ĪPKs and goes at least as far back as the ŚV, where Kumārila, while
+criticizing the idealism of his Buddhist opponents, mentions the two different kinds
+of arguments and even specifies that the one resting on the means of knowledge is
+the root (mūla) of the one resting on the object of knowledge.59 However, not to
+mention that we are left with no clue as to the source from which Kumārila might be
+borrowing here,60 determining the exact meaning of such a distinction proves
+59
+ŚV, Nirālambananavāda 17–18ab: bāhyārthāpahnavo dvaidham eko’rthasya* parīkṣaṇāt / pramāṇam
+āśritaś caikas tatrāstāṃ yaḥ prameyataḥ // pramāṇasthas tu mūlatvād ihedānīṃ parīkṣyate /
+[* bāhyārthāpahnavo dvaidham eko’rtasya Variant in Ed, p. 158, n. 2: bāhyārthāpahnave’dvaitam
+ekārthasya Ed.: bāhyārthāpahnave dvaitam eko’rthasya Kāśikā, TT.] “The denial of [the existence of]
+˙ on the examination of the object
+external objects [can be made] in two ways: one [such denial is based]
+[itself]; and [the other] one rests on the means of knowledge. Among these [two sorts of denial], let [us]
+leave aside the one [based] on the object of knowledge; rather, here, for now, [it is] the one based on the
+means of knowledge that is going to be examined, because it is the root [of the other argument].” On the
+context of this passage see Taber (2010, p. 280).
+60
+
+Assuming, of course, that Kumārila is indeed borrowing from a Buddhist source. Admittedly, one
+could suspect that in fact the Mı̄māmsaka himself is the author of this distinction as well as of the idea
+that one of the arguments is the root˙ of the other (an idea that he invokes so as to justify the fact that
+Śabara only mentions one of the Buddhist types of arguments, as Pārthasārathimiśra makes clear in his
+introduction to ŚV, Nirālambananavāda 17–18ab). Nonetheless, Kumārila is probably invoking this idea
+precisely because it is acknowledged by his opponents (so that the Buddhists cannot criticize Śabara’s text
+in this regard if it conforms to their own principle), which would explain in particular why he does not
+bother to explain in what way one argument is the root of the other. Besides, even if we were to assume
+that this distinction was first devised by a non-Buddhist author, Manorathanandin’s work at least testifies
+to the fact that it was adopted by the Buddhists themselves.
+
+123
+
+370
+
+I. Ratié
+
+particularly difficult as the Mı̄māmsaka does not take the trouble of explaining why
+˙
+one argument is the root of the other. Among Kumārila’s commentators,
+Pārthasārathimiśra is content with noting that the argument based on the means
+of knowledge is more essential because the establishment of the existence of the
+object of knowledge depends on the examination of the means of knowledge;61 as
+for Umbeka62 and Sucaritamiśra,63 they merely explain that if the existence of the
+external object cannot be established by any means of knowledge, speculations
+regarding this object are vain, whereas if a means of knowledge establishes this
+
+61
+
+See NR ad loc., p. 158: pramāṇabalenaiva bāhyārthe vyavasthāpite yad idam avayavino ’vayavātirekeṇānupalabdheḥ paramāṇūnāṃ cātīndriyatvān na bāhyaṃ grāhyaṃ sambhavatīti codyaṃ tat
+pramāṇabalenaiva nirastaṃ bhavatīti pramāṇabalenaiva parīkṣitaṃ yuktam iti. “Since the [existence
+of] the external object is established through the sole force of the means of knowledge, this sole force of
+the means of knowledge refutes the criticism according to which no external apprehended object is
+possible because [we] do not perceive any whole independently of the parts and because the atoms are
+beyond the reach of the sense organs; therefore it is right to examine [this criticism] through the sole force
+of the means of knowledge.” According to Taber (2010, p. 280), Pārthasārathimiśra’s explanation
+amounts to saying that “any refutation of objects based on their alleged impossibility would immediately
+run up against the evidence of common experience” given that “cognition itself seems to present us prima
+facie with objects”. I.e., if I understand Taber’s interpretation correctly, according to Pārthasārathimiśra,
+perception, since it presents us with an object appearing as external, ipso facto refutes the mereological
+kind of argument. However, here Pārthasārathimiśra rather seems to be simply saying that the argument
+based on the means of knowledge is stronger than the former as it is capable of demonstrating the
+existence of the object.
+62
+See TT, p. 198: sa ca yady api bauddhair bāhyārthābhāvaḥ prameyaparīkṣayā pramāṇavr̥ ttyaśaktyā vā*
+˙
+pratipāditaḥ,
+tathāpi prameyaparīkṣāṃ parityajya pramāṇavicāra evāṅgīkr̥ taḥ, tanmūlatvāt prameyasya.
+yadi bāhyārthagrāhakatvena pravartante pratyakṣādayaḥ, tataḥ prameyavikalpānāṃ tadviruddhatvād
+aprāmāṇyam; atha na pravartante, tataḥ prameyābhāvād eva kutas tadvikalpaḥ. [* pramāṇavr̥ ttyaśaktyā vā
+conj.: pramāṇavr̥ ttyaśaktyā Ed.] “And even though the Buddhists demonstrate the nonexistence of external
+objects [either] through an examination of the object of knowledge or by [showing] the impossibility for the
+means of knowledge of occurring [if its object is external, here Kumārila], setting aside the examination of
+the object of knowledge, only has recourse to an examination of the means of knowledge, because [the means
+of knowledge] is the root of the object of knowledge. [That is to say,] if [it can be shown that] perception and
+[other means of knowledge] operate by apprehending external objects, then the conceptual constructions
+[that we might build] regarding the object of knowledge have no validity given that they are contradicted by
+this [fact that the means of knowledge apprehend external objects]; but if [the means of knowledge] do not
+operate [in such a way], then since there is no object of knowledge at all, what would be the point (kutaḥ) of
+any conceptual construction regarding this [nonexistent object]?”
+63
+
+See Kāśikā, vol. II, pp. 36–37: ayam arthaḥ – yady api dvedhā bāhyārthāpahnavo bauddhair āśritaḥ,
+tathāpi pramāṇāśrita eva mūlabhūtatvād iha vicāryate, pramāṇamūlā hi prameyasthitiḥ. tad yadi
+pramāṇam anuguṇam, kiṃ vastuvikalpaiḥ. na tadbalena tadanupapattiṃ parihr̥ tyārtho vyavasthāpyate.
+atha tu pramāṇam evārthaṃ pratyācaṣṭe, kiṃ prameyavikalpaiḥ kr̥ takarair iti. “Here is the meaning [of
+this passage]: even though the Buddhists base [their] denial of [the existence of] external objects on two
+[different] kinds [of arguments], here it is only [the kind that is] based on the means of knowledge that
+[Kumārila] examines, because it is the root [of the other]; for the existence of the object of knowledge has
+as its root the means of knowledge. Therefore if[, in the course of this examination,] the means of
+knowledge is [found to be] in accordance [with the existence of the external object], what could be the
+point of the conceptual constructions [that we might build] regarding the thing itself (vastu)? [For if this is
+the case,] the object is not established to exist [only] provided that the force of these [conceptual
+constructions] does not [show] that this [object] is impossible[: rather, the object must exist anyway]. If,
+on the other hand, the sole means of knowledge refutes the [external] object, what point could there be in
+those conceptual constructions regarding the object of knowledge [and supposedly] helping [the means of
+knowledge to establish something that the means of knowledge already establishes by itself]?”
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+371
+
+existence, there is no more point in denying it—but here again, they do not let us
+know why this is the case.
+By way of contrast, the nondualist Śaivas seem to be particularly keen on
+justifying the preeminence of one argument over the other, but while doing so they
+also emphasize their disagreement with their Buddhist adversaries, which seems to
+suggest that here as often, they are adopting a Buddhist idea but also distorting it so
+as to suit their own metaphysical agenda. They thus insist on a crucial divergence
+between their own epistemology and Dharmakı̄rti’s, namely the fact that according
+to them, concepts (and not only perceptions) require some kind of immediate
+manifestation of their object at the time when they occur.64 And thus extending the
+notion of ābhāsa to the realm of concepts seems to be precisely what enables
+the Śaivas to provide the epistemic argument with a fully ontological dimension: the
+external object cannot exist because the very fact that it is absolutely unmanifest and
+therefore impossible to conceptualize makes it absurd—and even the Buddhists,
+when adducing mereological arguments against the external object, admit the
+postulate that what cannot be theoretically accounted for cannot exist in fact. On the
+other hand, Dharmakı̄rti (at least according to Manorathanandin’s explanation)
+seems to have used the epistemic argument merely to show that contrary to what the
+Sautrāntikas claim, there is no rational need whatsoever to postulate the external
+object so as to account for phenomena, because such an external object cannot be
+determined to be the cause of phenomenal variety, and because this phenomenal
+variety can be perfectly explained by an internal mechanism of latent traces, so that
+ontological questions become strictly irrelevant regarding an external object that has
+no impact whatsoever on the only reality with which we ever have to deal, i.e.,
+cognitions.65
+64
+
+See above, fn. 39.
+
+65
+
+From this point of view, the first part of ĪPK 1.5.6 at least (i.e., the notion of anupapatti of the external object
+excepted) seems to correspond to Dharmakı̄rti’s intention with the epistemic argument. See e.g., among the
+newly discovered fragments of Utpaladeva’s Vivr̥ ti on this verse (edited and translated in Ratié forthcoming),
+the beginning of fragment A1: vyavahartrapekṣayā tāvad bhāvavyavasthā kriyamāṇāvabhāseṣv eva nirapāyā
+paryavasyatīty adhikatarādr̥ ṣṭavastuparyālocanam idaṃ svacchandaceṣṭitaṃ. “To begin with, this investigation of a reality that is imperceptible and [consists in] something more (adhikatara) [than manifestations and
+the consciousness manifesting them] is a [purely] arbitrary endeavour (svacchandaceṣṭita), given that with
+respect to the subject of human practice (vyavahartr̥ ), the determination of the existence of entities which is
+successfully performed only concerns manifestations.” Cf. Abhinavagupta’s summary of this verse at the
+beginning of Chap. 1.5 (ĪPV, vol. I, pp. 151–152): tadanabhyupagame ’pi tāvan na kiṃcid uparudhyata iti
+darśayati. “[In this verse, Utpaladeva shows] that to begin with, even if one does not admit the [external
+object,] nothing at all is impeded”. The reason why Abhinavagupta does not mention in his summary the
+bādhakas or arguments against the external object (and in particular the “main” one, i.e., its complete absence
+of manifestation, including in an inferential concept) seems to be that although it is already defined by
+Abhinavagupta while he is commenting on the term anupapatti in ĪPK 1.5.6, in Utpaladeva’s kārikās its
+explicit presentation occurs later, i.e. in ĪPK 1.5.8–9, and Utpaladeva’s short Vr̥ tti ad ĪPK 1.5.6 only explains
+the term anupapatti in connection with what Abhinavagupta calls the “additional arguments”. Thus, as noted
+by Raffaele Torella, ĪPK 1.5.6 might still be read entirely as the discourse of a Vijñānavādin (see Torella 2002,
+p. 114, fn. 12), although Abhinavagupta warns his readers that the mereological arguments against the external
+object alluded to in the Vr̥ tti are only “additional”, and although he already mentions the “main” argument in an
+anticipation of the demonstration in ĪPK 1.5.8–9. Only fragments of Utpaladeva’s Vivr̥ ti on ĪPK 1.5.6 have
+been recovered so far and none of them contains a distinction between the two kinds of arguments, but it should
+be noted that ĪPVV, vol. II, p. 138 (quoted above, fn. 41) seems to imply that Utpaladeva himself had already
+drawn (at least in part) this distinction.
+
+123
+
+372
+
+I. Ratié
+
+I find the Śaivas’ way of presenting the distinction between the two Buddhist
+idealistic arguments quite extraordinary in that it reveals the Śaivas’ fascination for
+the Dharmakı̄rtian philosophical tradition, but also their aptitude at transforming
+subtly but profoundly the meaning of Buddhist concepts, and more generally, the
+capacity of philosophical ideas to undergo the strangest metamorphoses when thus
+imported from one religio-philosophical background to another: a Buddhist
+argument which, according to Manorathanandin at least, serves to eliminate
+ontological questions regarding the external object becomes the main means of its
+complete ontological denial once set in a Śaiva conceptual frame. But I readily
+admit that this Śaiva “ontologization” of a Buddhist epistemic argument is nothing
+more than a hypothesis on my part (although, hopefully, a likely one): I do not know
+in what exact measure the Śaivas really distorted the original import of the
+epistemic argument, as I am not certain whether Manorathanandin was faithfully
+expressing Dharmakı̄rti’s intention in his presentation of the distinction between the
+two arguments; nor do I know with certainty to what extent the Śaivas took
+advantage of an ambiguity in the formulation of this distinction by their Buddhist
+rivals;66 and it is also possible that in fact Śaṅkaranandana’s Prajñālaṃkāra (which
+may well have been one of the sources of the Śaivas’ acquaintance with this
+distinction)67 contained an interpretation of the epistemic argument much closer to
+Abhinavagupta’s than the explanation offered by Manorathanandin. But at any rate,
+it seems to me that the very fact that some 10th- and 11th- century Śaiva authors
+were aware of a distinction between two Buddhist types of idealistic arguments
+should be of interest to historians concerned with Buddhist philosophical ideas
+inasmuch as it shows that this distinction was well known at the time even among
+non-Buddhist learned circles. I therefore find it hard to believe that it was not
+discussed among Buddhist circles more than can be gathered from the currently
+available Buddhist texts, and I can only hope that future studies on Buddhist
+philosophical texts written around the turn of the second millennium (such as
+66
+
+See the remarks above on what I see as an ambiguity in Manorathanandin’s distinction—of course it is
+quite possible that I only see such an ambiguity because I do not understand the passage correctly, and it
+should also be noted (see fn. 67 below) that in all probability the Śaivas did not know Manorathanandin’s
+commentary anyway.
+
+67
+
+As far as I know there is no compelling evidence that Utpaladeva and Abhinavagupta were aware of
+Manorathanandin’s commentary on the PV, and in fact such an acquaintance seems improbable given that
+Manorathanandin is likely to have been active in the second part of the 11th century (see Steinkellner and
+Much 1995, p. 105), i.e. after Abhinavagupta’s death. On the other hand, Abhinavagupta, who often
+quotes Śaṅkaranandana’s works, mentions his Prajñālaṃkāra precisely in connection with the distinction
+between the two kinds of arguments, and he specifies that he has not taken the trouble of explaining the
+“additional arguments” in detail precisely because Śaṅkaranandana has already done so in his treatise (see
+above, fn. 33). So from Abhinavagupta’s commentaries we can be sure that Śaṅkaranandana had
+explained the second kind of arguments at length, but it is also possible that the same author had
+distinguished them from the first kind of argument. It should be noted in this regard that according to
+Vincent Eltschinger, establishing idealism on the basis of Dharmakı̄rti’s arguments was the very “raison
+d’être” of the Prajñālaṃkāra (see Eltschinger 2010, pp. 108–111), and the sahopalambhaniyama in
+particular seems to have played an important role in Śaṅkaranandana’s major work (see ibid., p. 108).
+
+68
+
+So far only one of Śaṅkaranandana’s treatises has been fully edited and translated (see Krasser 2002).
+On the manuscript sources now available and the current state of studies on this author see Eltschinger
+(2010).
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+373
+
+Śaṅkaranandana’s works)68 will soon afford us a few more certainties regarding the
+way(s) in which the Buddhist philosophers themselves have understood and
+distinguished their own arguments in favour of idealism.
+Acknowledgments This article was written thanks to the generous financial help of the Deutsche
+Forschungsgemeinschaft as part of project FR 2531/3-1. I am grateful to Vincent Eltschinger, Eli Franco,
+John Taber and Birgit Kellner for carefully reading a previous version of it and providing insightful
+remarks.
+
+Bibliographical References
+Editions
+[Bhāskarī] Īśvarapratyabhijñāvimarśinī of Abhinavagupta, Doctrine of Divine Recognition. Vol. I & II:
+Sanskrit text with the commentary Bhāskarī edited by K.A.S. Iyer and K.C. Pandey [Allahabad:
+1938, 1950], Delhi: Motilal Banarsidass, 1986.
+[ĪPK, Vr̥ tti] Īśvarapratyabhijñākārikā of Utpaladeva with the Author’s Vr̥ tti. Critical edition and annotated
+translation by R. Torella. [Roma: 1994], Corrected Edition, Delhi: Motilal Banarsidass, 2002.
+[ĪPV] Īśvarapratyabhijñāvimarśinī. 2 vol. Edited with notes by M.R. Śāstrı̄/M.K. Shāstrı̄. Srinagar:
+Kashmir Series of Texts and Studies 22 & 33, Nirnaya Sagar Press, 1918–1921.
+[ĪPVV] Īśvarapratyabhijñāvivr̥ tivimarśinī by Abhinavagupta. 3 vol. Edited by M. K. Shāstrı̄. Bombay:
+Kashmir Series of Texts and Studies 60, 62 & 65, Nirnaya Sagar Press, 1938–1943.
+[Kāśikā] Ślokavārttika (of Kumārila) with Sucarita Miśra’s Kāśikā. Edited by K. S. Sastri & V. A.
+Ramaswami Sastri. Trivandrum: Trivandrum Sanskrit Series 90, 99 & 150, 1926–1943.
+[MŚV] Mālinīślokavārttika. See Hanneder 1998.
+[NR = Nyāyaratnākara.] See ŚV.
+[PV] Pramāṇavārttika. See PVM and PVS.
+[PVM] Pramāṇavārttika-kārikā (Sanskrit and Tibetan). Edited by Y. Miyasaka, Acta Indologica, 2 (1971–
+1972), 1–206.
+[PVS, PVV] Dharmakīrti’s Pramāṇavārttika with a commentary by Manorathanandin. Edited by R.
+Sāṅkrityāyana. Patna: Bihar and Orissa Research Society, 1938–1940.
+˚
+[PVin] Dharmakīrti’s
+Pramāṇaviniścaya, Chapters 1 and 2. Critically edited by E. Steinkellner. Beijing/
+Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press, 2007.
+[ŚBh = Śābarabhāṣya, in] Frauwallner 1968, pp. 7–61.
+[ŚV] Ślokavārttika of Śrī Kumārila Bhaṭṭa, with the Commentary Nyāyaratnākara of Śrī Pārthasārathimiśra. Edited and revised by G.S. Rai. Varanasi: Ratna Publications, 1993.
+[TT = Tātparyaṭīkā] Ślokavārtikavyākhyā (Tātparyaṭīkā) of Bhaṭṭombeka. Edited by S.K.R. Sastri. New
+˙ edition, Madras: Madras University Sanskrit Series 13, 1940.
+
+Translations and Studies
+Arnold, D. (2008). Buddhist idealism, epistemic and otherwise: Thoughts on the alternating perspectives
+of Dharmakı̄rti. Sophia, 47, 3–28.
+Bühnemann, G. (1980). Identifizierung von Sanskrittexten Śaṅkaranandanas. Wiener Zeitschrift für die
+Kunde Südasiens, 24, 191–198.
+Chu, J. (2006). On Dignāga’s theory of the object of cognition as presented in PS (V) 1. Journal of the
+International Association of Buddhist Studies, 29(2), 211–253.
+Dhammajoti, K. L. (2007). Ākāra and direct perception (Pratyakṣa). Paciﬁc World, Journal of the Institute
+of Buddhist Studies, 9(Third Series), 245–272.
+Dreyfus, G. B. (1997). Recognizing reality: Dharmakīrti’s philosophy and its Tibetan interpretations.
+Albany, NY: SUNY Press.
+Dunne, J. (2004). Foundations of Dharmakīrti’s philosophy. Somerville, MA: Wisdom Publications.
+
+123
+
+374
+
+I. Ratié
+
+Eltschinger, V. (2010). Les Œuvres de Śaṅkaranandana: nouvelles ressources manuscrites, chronologie
+relative et identité confessionnelle. Annali dell’Istituto Universitario Orientale di Napoli, 66[2006],
+83–122.
+Frauwallner, E. (1968). Materialen zur ältesten Erkenntnislehre der Karmamīmāṃsā. Wien: Herman
+Böhlaus Nachf./Kommissionsverlag der österreichischen Akademie der Wissenschaften.
+Hanneder, J. (1998). Abhinavagupta’s philosophy of revelation. An edition and annotated translation of
+Mālinīślokavārttika I. Groningen oriental studies 14 (pp. 1–399). Groningen: Egbert Forsten.
+Hattori, M. (1968). Dignāga, On perception, being the Pratyakṣapariccheda of Dignāga’s Pramāṇasamuccaya. Harvard oriental series 47. Cambridge, MA: Harvard University Press.
+Iwata, T. (1991). Sahopalambhaniyama: Struktur und Entwicklung des Schlusses von der Tatsache, daß
+Erkenntnis und Gegenstand ausschließlich zusammen wahrgenommen werden, auf deren Nichtverschiedenheit (2 Vols.). Stuttgart: Franz Steiner Verlag.
+Kajiyama, Y. (1965). Controversy between the sākāra- and nirākāra-vādins of the Yogācāra school—
+Some materials. Indogaku Bukkyōgaku Kenkyū, 14(1), 26–37.
+Kano, K. (2008). Two short glosses on Yogācāra texts by Vairocanaraksita: Viṃśikāṭīkāvivr̥ ti and
+˙
+1. Sanskrit texts from
+*Dharmadharmatāvibhāgavivr̥ ti. In F. Sferra (Ed.), Manuscripta Buddhica
+Giuseppe Tucci’s collection, part I (pp. 343–380). Roma: Istituto Italiano per l’Africa e l’Oriente.
+Kapstein, M. (2001). Reason’s traces. Identity and interpretation in Indian & Tibetan Buddhist thought.
+Boston: Wisdom Publications.
+Kawajiri, Y. (2011). A critique of the Buddhist theory of adhyavasāya in the Pratyabhijñā School. In H.
+Krasser, H. Lasic, E. Franco, & B. Kellner (Eds.), Religion and logic in Buddhist philosophical
+analysis. Proceedings of the fourth international Dharmakīrti conference, Vienna, August 23–27,
+2005 (pp. 281–290). Wien: Verlag der österreichischen Akademie der Wissenschaften.
+Kellner, B. (1997). Nichts bleibt Nichts. Die buddhistische Zurückweisung von Kumārilas abhāvapramāṇa. Übersetzung und Interpretation von Śāntarakṣitas Tattvasaṅgraha vv.1647–1690 mit
+Kamalaśīlas Tattvasaṅgrahapañjikā, sowie Ansätze und Arbeitshypothesen zur Geschichte negativer
+Erkenntnis in der indischen Philosophie. Wiener Studien zur Tibetologie und Buddhismuskunde 39.
+Wien: Arbeitskreis für tibetische und buddhistische Studien Universität Wien.
+Kellner, B. (1999). Levels of (im)perceptibility: Dharmottara’s views on the dr̥ śya in dr̥ śyānupalabdhi. In
+S. Katsura (Ed.), Dharmakīrti’s thought and its impact on Indian and Tibetan philosophy.
+Proceedings of the third international Dharmakīrti conference, Hiroshima, November 4–6, 1997 (pp.
+193–208). Wien: Verlag der Österreichischen Akademie der Wissenschaften.
+Kellner, B. (2010). Towards a critical edition of Dharmakı̄rti’s Pramāṇavārttika. Wiener Zeitschrift für die
+Kunde Südasiens, 52–53, 161–211.
+Kellner, B. (2011). Dharmakı̄rti’s criticism of external realism and the sliding scale of analysis. In H.
+Krasser, H. Lasic, E. Franco, & B. Kellner (Eds.), Religion and logic in Buddhist philosophical
+analysis. Proceedings of the fourth international Dharmakīrti conference, Vienna, August 23–27,
+2005 (pp. 291–298). Wien: Verlag der österreichischen Akademie der Wissenschaften.
+Krasser, H. (2001). On the dates and works of Śaṅkaranandana. In R. Torella (Ed.), Le Parole e i Marmi.
+Studi in onore di Raniero Gnoli nel suo 70° compleanno (pp. 489–508). Roma: Istituto Italiano per
+l’Africa e l’Oriente.
+Krasser, H. (2002). Śaṅkaranandanas Īśvarāpākaraṇasaṅkṣepa. Teil 1: Texte, Teil 2: Annotierte
+Übersetzungen und Studie zur Auseinandersetzung über die Existenz Gottes. Wien: Verlag der
+österreichischen Akademie der Wissenschaften.
+Lusthaus, D. (2002). Buddhist phenomenology: A philosophical investigation of Yogācāra and the Ch’eng
+Wei-shih lun. New York: Routledge-Curzon.
+Matsumoto, S. (1980). Sahopalambha-niyama. Sōtōshū Kenkyūin Kenkyūsei Kenkyū Kiyō, 12, 265–298.
+Mayer, A. L. (2009). [Review of] Buddhist phenomenology: A philosophical investigation of Yogācāra
+Buddhism and the Ch’eng Wei-shih Lun. Journal of Buddhist Ethics, 16, 191–215.
+McClintock, S. (2003). The role of the ‘given’ in the classification of Śāntaraksita and Kamalaśı̄la as
+˙
+Svātantrika-Mādhyamikas. In G. Dreyfus & S. McClintock (Eds.), The Svātantrika-Prāsaṅgika
+distinction: What difference does a difference make? (pp. 125–171). Somerville, MA: Wisdom
+Publications.
+McClintock, S. (2010). Omniscience and the rhetoric of reason. Śāntarakṣita and Kamalaśīla on
+rationality, argumentation, & religious authority. Boston: Wisdom Publications.
+Moriyama, S. (2008). Sense data and ākāra. In M. K. Chakraborty, et al. (Eds.), Logic, Navya-Nyāya &
+applications. Homage to Bilal Krishna Matilal (pp. 205–216). London: College Publications.
+
+123
+
+Epistemic and Metaphysical Buddhist Idealisms
+
+375
+
+Mimaki, K. (1976). La Réfutation bouddhique de la permanence des choses (sthirasiddhidūṣaṇa) et la
+preuve de la momentanéité des choses (kṣaṇabhaṅgasiddhi). Publications de l’Institut de Civilisation
+Indienne 41. Paris: de Boccard.
+Oetke, C. (1992). Doctrine and argument in Vijñānavāda Buddhism. Wiener Zeitschrift für die Kunde
+Südasiens, 36 (Archiv für indische Philosophie), 217–226.
+Ratié, I. (2007). Otherness in the Pratyabhijñā philosophy. Journal of Indian Philosophy, 35(4), 313–370.
+Ratié, I. (2010a). The dreamer and the yogin—On the relationship between Buddhist and Śaiva idealisms.
+Bulletin of the School of Oriental and African Studies, 73(3), 437–478.
+Ratié, I. (2010b). Le non-être, une preuve de l’existence du Soi? La notion d’abhāva dans la philosophie
+de la Pratyabhijñā. Journal Asiatique, 298(2)[2011], 421–493.
+Ratié, I. (2011a). Le Soi et l’Autre. Identité, différence et altérité dans la philosophie de la Pratyabhijñā.
+Jerusalem studies in religion and culture 13. Leiden: Brill.
+Ratié, I. (2011b). Can one prove that something exists beyond consciousness? A Śaiva criticism of the
+Sautrāntika inference of external objects. Journal of Indian Philosophy, 39(4–5), 479–501.
+Ratié, I. (forthcoming). Some hitherto unknown fragments of Utpaladeva’s Vivr̥ ti (II): against the
+existence of external objects. In D. Goodall & P. S. Filliozat (Eds.), Mélanges tantriques à la
+mémoire de N. Ramacandra Bhatt.
+Schmithausen, L. (2005). On the problem of the external world in the Ch’eng wei shih lun. Studia
+Philologica Buddhica (occasional paper series) 13. Tokyo: The International Institute for Buddhist
+Studies.
+Steinkellner, E., & Much, M. T. (1995). Texte der erkenntnistheoretischen Schule des Buddhismus. In
+Systematische Übersicht über die buddhistische Sanskrit-Literatur II [Systematic survey of Buddhist
+Sanskrit-literature II]. Abhandlungen der Akademie der Wissenschaften in Göttingen. Göttingen:
+Vandenhoeck & Ruprecht.
+Taber, J. (2010). Kumārila’s Buddhist. Journal of Indian Philosophy, 38, 279–296.
+Torella, R. (1992). The Pratyabhijñā and the logical-epistemological school of Buddhism. In T. Goudriaan
+(Ed.), Ritual and speculation in early Tantrism, studies in honor of André Padoux (pp. 327–345).
+SUNY Series in Tantric Studies. Albany: State University of New York Press.
+Torella, R. (2002). See ĪPK.
+Torella, R. (2007). Studies on Utpaladeva’s Īśvarapratyabhijñā-vivr̥ ti. Part I: Anupalabdhi and apoha in a
+Śaiva Garb. In K. Preisendanz (Ed.), Expanding and merging horizons. Contributions to South Asian
+and cross-cultural studies in commemoration of Wilhelm Halbfass (pp. 473–490). Wien: Verlag der
+Österreichischen Akademie der Wissenschaften.
+Vetter, T. (1964). Erkenntnisprobleme bei Dharmakīrti. Wien: Österreichische Akademie der
+Wissenschaften.
+
+123
+
+
