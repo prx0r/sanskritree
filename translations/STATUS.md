@@ -21,7 +21,13 @@
 | Kaulāvalīnirṇaya | partial (opening) | done | done | done | partial | done | none |
 | Nityākaulatantra | partial (opening) | done | done | done | partial | done | none |
 | Spanda Vivṛti (Rājānaka Rāma) | partial (opening) | done | done | done | partial | done | Dyczkowski ✓ |
-| **Jñānakārikā** (the Matsyendra bundle) | partial (paṭala 1) | pending | pending | pending | pending | pending | none — the bundle-network |
+| **Jñānakārikā** (the Matsyendra bundle) | **done (3 paṭalas — 2026-08-09)** | pending | pending | pending | pending | pending | none — the bundle-network |
+| **Kaularahasya** (the rahasya-genre) | partial (paṭalas 1–3 opening) | pending | pending | pending | pending | pending | none |
+| **Kulapradīpa** (Śivānandācārya, 7 prakāśas) | partial (prakāśa 1 vv. 1–72) | pending | pending | pending | pending | pending | none — the Kulārṇava-intertext (M00031) |
+| **Kulālaśāstra** (the Potter-ṛṣi's ritual manual) | partial (paṭalas 1–2) | pending | pending | pending | pending | pending | none — Dyczkowski's note (the deity = śāstṛ/Skanda) |
+| **Kaulārcanadīpikā** (Totakaula, Jñānatantra) | partial (the opening — the kulācāra/yoni-doctrine) | pending | pending | pending | pending | pending | none |
+| **Kuladīpikā** (uttaraṣaṭkam, ṣaḍvidyāprakāśikā) | partial (paṭala 1 + paṭala 2's opening) | pending | pending | pending | pending | pending | none |
+| **Nityākaulatantra** (the pre-Śrīvidyā fragment) | **done — readable coverage (the lacunae preserved)** | pending | pending | pending | pending | pending | none — Dyczkowski's e-text note |
 | **Tarkasaṃgraha** (Annaṃbhaṭṭa — Hop 10 entry) | partial (the opening, AnTs 1–56 sample) | pending | pending | pending | pending | pending | the 1872-English + Athalye (reading-layer pending) |
 
 ## The pre-pipeline works (in-place, 00_legacy)
@@ -45,9 +51,9 @@
 
 ## The counts
 
-- 60 pipeline docs (18 T1 + 7 R1 + 7 T2 + 7 R2 + 7 T3 + 6 C1 + 4 _meta + the README/STATUS)
+- 68 pipeline docs (25 T1 + 7 R1 + 7 T2 + 7 R2 + 7 T3 + 6 C1 + 4 _meta + the README/STATUS)
 - 189 verses adjudicated and interpreted (the crux-set)
-- ~1,600–1,800 verses in T1 across 15 works (+ ~340 legacy)
+- ~1,600–1,800 verses in T1 across 15 works (+ ~340 legacy) + **the Hop-1 kula-batch openings (2026-08-09): Jñānakārikā 2–3 complete, Kaularahasya 1–3, Kulapradīpa 1.1–72, Kulālaśāstra 1–2, Kaulārcanadīpikā opening, Kuladīpikā 1–2 opening, Nityākaulatantra readable-complete**
 
 ## ERROR-MEASUREMENT (2026-08-09 — see `_meta/ERROR_MEASUREMENT.md`)
 

@@ -7,6 +7,7 @@
 ## The guidance layer (the research that steers the hops)
 
 - **`corpus/targets/markguidance.md`** (from the R2 bucket — the Recognition Enquiry report, 2026-07-28): the philosophy-phase's research on the exact texts of Hops 3–4 and the Nyāya-hops — the ĪPK passage-lists (1.4.4–8, 1.5.11–14, 1.6.3–8, 1.7.3–6, 2.4.14–19), the APS 9–17/22–26 cruxes, the Mahānayaprakāśa/Śivadṛṣṭi/Udayana passage-work it names, and the [T]/[R]/[E]/[C]/[H]/[X] status-tags. Its "next best moves are passage-first translation" is the pipeline's own principle — the report is the Hop 3–4 translation-orders' guide.
+- **`corpus/targets/leapfrog_guide.md`** (from the R2 bucket — `essayviz-videos/leapfrogguide`): the engine-design companion to this map — the dialect-genealogy sequence (Trika → Krama → Kubjikā → Sarvāmnāya), the Rosetta-corpus principle ("Dyczkowski's English gloss is evidence, not the definition"), the lexicon-entry architecture, and the phased corpus ladder (Phases A–G). Where this map names the route, the guide names the engine.
 
 ## The batch-translation guide (the map as the steering document)
 
