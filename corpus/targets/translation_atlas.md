@@ -517,3 +517,10 @@ Per-text status lines: `T1-done → R1-done → T2-done → R2-done → T3-FINAL
 | `truth/p3_ten_batch_and_vivrtti_t2.md` | the 10-text batch + Vivṛti (10) | the names-vs-rendered layer (Kākacaṇḍeśvarīmata, Nityākaulatantra, the Vivṛti's "the Pulse") |
 
 **The P3-finds:** every text's T2 caught at least one genuine interpretive fork; the best: Akulavīra 65 (the title-word mis-split as a pair in T1), Kubjikā 1.14 (bhāva = the state — the paṭala-7 connection), KJN 2/8 (the Lord's two steps as the cosmogony), Kulānanda 10 (āveśa as the entered-state). **The next phase: R2 per text (the T1-vs-T2 adjudications) → T3-FINAL per text.**
+
+
+---
+
+# THE LEAPFROG MAP (2026-08-09)
+
+The full route from the Kaula corpus to Navya-Nyāya — 10 hops, every text on-disk checked, per-hop anchors and lexicon-gains: **`corpus/targets/leapfrog_map.md`**. Extends this atlas's cluster-plan and `targetslogic.md`'s Nyāya list.

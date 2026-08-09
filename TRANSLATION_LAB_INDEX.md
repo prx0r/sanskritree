@@ -11,6 +11,7 @@
 | 1 | **START HERE** | `START_HERE.md` | the entry point: locations, mission, anchors, gotchas |
 | 2 | **The Atlas** | `corpus/targets/translation_atlas.md` | the period-organized corpus plan + the leapfrog map + the reference audit + all run-logs |
 | 3 | **The Flow Spec** | `corpus/targets/translation_flow_spec.md` | THE workflow: T1 → R1 → T2 → R2 → T3-FINAL (the three-version method) |
+| 3b | **The Leapfrog Map** | `corpus/targets/leapfrog_map.md` | the full route: Kaula → Krama → Trika → Nyāya → Navya (10 hops, every text on-disk checked) |
 | 4 | **The Flaws** | `corpus/targets/atlasflaws.md` | the honest self-audit + the counter-strategy (what's weak, how to fix it) |
 | 5 | **Round-2 Sources** | `corpus/targets/round2_sources.md` | the verification layer: anchors held, books to acquire |
 | 6 | **The Protocol** | `truth/PASS_PROTOCOL.md` | the law: provenance, three-readings, [X]-flags, no silent edits |
