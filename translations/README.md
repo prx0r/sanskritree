@@ -33,6 +33,7 @@
 3. **A new phase** (e.g. C2, the comparative commentary) gets a new numbered folder (`07_c2_...`) — the numbering is the pipeline's backbone.
 4. **Update `STATUS.md`** at every phase-completion: the text's row, the phase column, the file reference.
 5. **The craft-reference** (`_meta/REF_NOTES.md`) — the attitude per pass, the context-stack, the gems, the objectivity protocol. Read it before every session.
+5b. **The self-review** (`_meta/SELF_REVIEW.md`) — the per-layer audit; apply its fixes before expanding.
 6. **No silent edits**: a correction to any phase's reading lives in the next phase's doc or the audits in `_meta/` — never an in-place rewrite of an earlier phase.
 6. **The strategic docs stay put** (the atlas, the flow spec, the flaws audit, START_HERE, the lab index at the repo root) — the pipeline is the production line; the strategic docs are the control room.
 

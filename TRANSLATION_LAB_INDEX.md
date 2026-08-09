@@ -21,6 +21,8 @@
 | 10 | **Audit 2** | `translations/_meta/PASS2_ROUND2_AUDIT.md` | round-2: the complete-text audit, the commentary-stubs A–H, the biography-blocks |
 | 11 | **THE PIPELINE** | `translations/README.md` + `translations/STATUS.md` | the phase-structure (T1→C1) and the live status board |
 | 12 | **THE CRAFT** | `translations/_meta/REF_NOTES.md` | the attitude per pass, the context-stack, the gems, the objectivity protocol — read before every session |
+| 13 | **THE SELF-REVIEW** | `translations/_meta/SELF_REVIEW.md` | the per-layer quality audit (what's solid, what's weak, the fixes) |
+| 14 | **THE HANDOVER** | `HANDOVER_TRANSLATION.md` | for the next agent: where to leapfrog from, the first tasks, the quality bar, the gotchas |
 
 ## 2. The translations (15 works)
 
