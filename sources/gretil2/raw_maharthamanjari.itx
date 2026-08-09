@@ -1,0 +1,354 @@
+% Text title            : mahArthamanjarI
+% File name             : mahArthamanjarI.itx
+% Category              : yoga, major\_works
+% Location              : doc\_yoga
+% Author                : Maheshvarananda
+% Transliterated by     : staff of Muktabodha under the supervision of Mark S. G. Dyczkowski
+% Proofread by          : staff of Muktabodha, DPD
+% Description-comments  : Publisher : Trivandrum Sanskrit Series.  With parimalavyAkhyA
+% Acknowledge-Permission: Muktabodha Indological Research Institute http://muktalib5.org
+% Latest update         : March 17, 2018
+% Send corrections to   : sanskrit at cheerful dot c om
+%
+% This text is prepared by volunteers and is to be used for personal study 
+% and research. The file is not to be copied or reposted for promotion of 
+% any website or individuals or for commercial purpose without permission. 
+% Please help to maintain respect for volunteer spirit.
+%
+\documentstyle[11pt,multicol,itrans]{article}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\LARGE #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+\engtitle{.. mahArthama~njarI composed by maheshvarAnanda ..}##
+\itxtitle{.. maheshvarAnandapraNItA mahArthama~njarI ..}##\endtitles ##
+
+namo nAlayate shuNDAM viShANena mR^iNAline |
+pratyakkamalakandAya karNAbhyAM parNashAline || 1||
+
+jayatyamUlamamlAnamauttaraM tattvamadvayam |
+spandAspandaparispandamakarandamahotpalam || 2||
+
+kAruNyAmR^itasindhoruditamivAvartamIkShaNApA~NgAt |
+mauktikamayaM dadhAnA tATa~NkaM jayati gauravI mUrtiH || 3||
+
+sphUrtaye vishvashilpasya shrIshivAnandamUrtaye |
+nityonmeShanimeShAyai nistuShAyai namastviShe || 4||
+
+yasmAdanuttaramahAhradamajjanaM me
+saubhAgyashAmbhavasukhAnubhavashcha yasmAt |
+tatsvAtmachitkramavimarshamayaM gurUNA\-
+movalliyugmamuditoditavIryamIDe || 5||
+
+namo nikhilamAlinyavilApanapaTIyase |
+mahAprakAshapAdAbjaparAgaparamANave || 6||
+
+gorakSho lokadhiyA deshikadR^iShTyA maheshvarAnandaH |
+unmIlayAmi parimalamantargrAhya mahArthama~njaryAm || 7||
+
+svakriyAyAM api vyAkhyAM svayameva prayu~njmahe |
+uparyapyAtmasarambhasambhogAmreDanotsukAH || 8||
+
+yadvA vineyajanachittachamatkriyArtha\-
+matrodyamo.ayamudito.astu tadetadAstAm |
+sa~NkShepavistaravibhAgaviviktashobhaH
+puShpA~njalirbhavatu vA~Nmaya eSha shambhoH || 9||
+
+avagatashivadR^iShTipratyabhij~nArthatattva\-
+kramasaraNirahasyollAsasarvasvavedI |
+gurucharaNasaparyAchAturIchidghano.ahaM
+gahanamapi hR^idantarvyoma tadvyAkaromi || 10||
+
+iha mahati rahasyonmIlane ma~NgalAya
+prabhavati mama saMvidyoginInAM prasAdaH |
+ati tu kulasaparyAbimbasabandhyavandhyAH
+sakR^idapi matimanto nainamudghATayantu || 11||
+
+svapnasamayopalabdhA sA sumukhI siddhayoginI devI |
+gAthAbhiH saptatyA svApitabhAShAbhirastu samprItA || 12||
+
+vardhatAM deshikaH shrImAn saMvinmArgashcha vardhatAm |
+mAheshvarAshcha vardhantAM vardhatAM cha maheshvaraH || 13||
+
+|| atha mahArthama~njarI ||
+
+natvA nityashuddhau guroshcharaNau mahAprakAshasya |
+grathnAti mahArthama~njarImimAM surabhiM maheshvarAnandaH || 1||
+
+vardhatAM mahAprakAsho vimarshavichChuritanishChalodyotaH |
+sa.nj~nAvisheShanirNayamAtrapravR^ittAni yatra shAstrANi || 2||
+
+AtmA khalu vishvamUlaM tatra pramANaM na ko.apyarthayate |
+kasya vA bhavati pipAsA ga~NgAsrotasi nimagnasya || 3||
+
+yaM jAnanti jaDA api jalahAryo.api yaM vijAnanti |
+yasyaiva namaskAraH sa kasya sphuTo na bhavati kulanAthaH || 4||
+
+avachChinnaM pratyakShamavachChinnaM tanmukhaM chAnumAnam |
+AgamadIpAlokastasya prakAshayati kimapi mAhAtmyam || 5||
+
+yeShAM nirupaNIyo vyatiriktaH ko.apyAtmano bhAvaH |
+AtmavimukhAnAM teShAmadhikArivibhAgavibhramo bhavatu || 6||
+
+yatra ruchistatra vidhiryatreyaM nAsti tatra cha niShedhaH |
+ityasmAkaM viveko hR^idayaparispandamAtrashAstrANAm || 7||
+
+paryAlochanavimukhe vastusvabhAvasyAtmano hR^idaye |
+sha~NkAviShavegeneva saMsArabhayena muhyati lokaH || 8||
+
+mANikyapraveka iva nicholito nijamayUkhalekhayA |
+pratibhAti laukikAnAmatyantasphuTo.apyasphuTa AtmA || 9||
+
+Urdhvo jvalati prakAsho lokAlokasya ma~NgalapradIpaH |
+vimarshadashAmukhAnItadahyamAnamalAlitailavichChardaH || 10||
+(vimarshadashAmukhena dahyate malAlitailaniShyandaH )
+
+sannaiva hR^idayaprakAsho bhavanakriyAyA bhavati kartA |
+saiva kriyAvimarshaH svasthA kShubhitA cha vishvavistAraH || 11||
+
+pR^ithvIparamashivayoH pratyAhAre prakAshaparamArthe |
+yo.anyonyavisheShaH sa eva hR^idayasya vimarshonmeShaH || 12||
+
+tathA tathA dR^ishyamAnAnAM shaktisahasrANAmekasa~NghaTTaH |
+nijahR^idayodyamarUpo bhavati shivo nAma paramasvachChandaH || 13||
+
+sa eva vishvamIkShituM  sthAtuM kartuM chonmukho bhavan |
+shaktisvabhAvaH kathito hR^idayatrikoNamadhumAsalollAsaH || 14||
+
+j~nAnaM kriyeti dvayorapi prathamonmeShe sadAshivo devaH |
+dvitIyAyA ullekhe dvitIyaH sa bhavatIshvaro nAma || 15||
+
+j~nAtA sa AtmA j~neyasvabhAvashcha lokavyavahAraH |
+(j~nAtR^itvadharmA AtmA )
+ekarasAM saMsR^iShTi yatra gatau sA khalu nistuShA vidyA || 16||
+
+ekarase svabhAve udbhAvayantI vikalpashilpAni |
+mAyeti lokapateH paramasvatantrasya mohanI shaktiH || 17||
+
+sarvakaraH sarvaj~naH pUrNo nityo.asa~Nkuchitashcha |
+viparIta iva mahesho yAbhistA bhavanti pa~nchashaktayaH || 18||
+
+ya eSha vishvanATakashailUShaH shuddhasaMvichChambhuH |
+varNakaparigrahamayI tasya dashA kApi puruSho bhavati || 19||
+
+j~nAnakriyAmAyAnAM guNAnAM sattvarajastamassvabhAvAnAm |
+avibhAgAvasthAyAM tattvaM prakR^itiriti shAmbhavI shaktiH || 20||
+
+kallolAyamAnAni sadA hR^idayAmbunidhau trINi karaNAni |
+AkarShantIdantAM tatrAhantAM (tathA ahantAM) chAtrArpayanti || 21||
+
+hR^idayasthitasya vibhorviShayAloko vishR^i~Nkhalo bhavati |
+j~nAnendriyadIpeShu nijanijagolAgranityalagneShu || 22||
+
+bhavanti karaNAni pa~ncha khalu karmapradhAnAni lokanAthasya |
+spandate svaira yairjano jaDAdvilakShaNo bhavan || 23||
+
+vishvodyAnavirUDhAni gandhapramukhAni sugandhIni puShpANi |
+pa~nchApyAjighran krIDati trailokyadhUrto devaH || 24||
+
+styAnasya kramavashAdikShurasasyeva shivaprakAshasya |
+guDapiNDA iva pa~nchApi bhUtAni madhuratAM na mu~nchanti || 25||
+
+sarvasya bhuvanavibhramayantrollAsasya tantuvallIva |
+vimarshasaMrambhamayI ujjR^imbhate shambhormahAshaktiH || 26||
+
+yadadhvanAM cha ShaTkaM tatra prakAshArthalakShaNamardham |
+vimarshashabdasvabhAvamardhamiti shivasya yAmalollAsaH || 27||
+
+AlekhyavisheSha iva gajavR^iShabhayordvayaH pratibhAsaH |
+ekasminnevArthe shivashaktivibhAgakalpanAM kurmaH || 28||
+
+tilamAtre.api sharIre prekShadhvaM kITasyaitAvatI shaktiH |
+sA svachChandashriyo vishvasharIrasya kiyatI bhavatu || 29||
+
+vishvonmeShadashAyAM deshikanAthasya yAvAnprasaraH |
+kalalAvasthayAM (sthito.api) vishvanimeShe.api tAvAnbhavati || 30||
+
+tripuTImayaM khalu samastaM tatra cha j~neye j~nAtari cha samam |
+dR^iDhagranthirj~nAnakalA kalayati trailokyamekakalam || 31||
+
+kaH sadbhAvavisheShaH kusumAdbhavati gaganakusumasya |
+yatsphuraNAnuprANo lokaH sphuraNaM cha sarvasAmAnyam || 32||
+
+mANikyamaratakayoriva bhAvAbhAvayorbhedapratibhAsam |
+ekaraso.anyonya dvayorapyunmArShTi (dvayoH pramArShTi) sphuraNasambhedaH || 33||
+
+aNDamaye nijapiNDapIThe sphuranti karaNadevyaH |
+prasphurati cha paramashivo j~nAnanidhishcha tAsAM madhye || 34||
+
+sa tatrArchanIyo vimarshapuShpAdhivAsasurabhibhiH |
+chittachaShakArpitairvedyasudhAvIrapAnavastubhiH || 35||
+
+shrIpIThapa~nchavAho netratrayavR^indachakrANi smarata |
+smarata cha gurUNAM pa~Nkti pa~ncha cha shaktIH sR^iShTipramukhAH || 36|| (41)
+
+pIThe kalA nava pa~nchaiva pa~nchavAhapadavyAm |
+saptadasha phA(bhA)lanetre dvAdasha ShoDasha chAnyanetrayoH || 37|| (42)
+
+prakaTitapa~nchaskandhe chatuShShaShTirbhavanti vR^indachakre |
+na khalu maNDale gurUNAM niyamo niyamAtila~NghinA (niyamAnalaM vinA) yuktaH || 38|| (43)
+
+sR^iShTau dasha kalAH sthitau dvAvishatirbhavanti shaktayaH |
+ekAdasha saMhAre trayodasha tAsturIyaparvaNi || 39|| (44)
+
+bhAsAyAM na vikalpAH  sphurati sphuradekaniShkalashriyAm |
+yadi pratibimbagatyA sphurati paraM ShoDashAdhikA devI || 40|| (45)
+
+sR^iShTeH pa~nchamakalA bhAseti(pa~nchakalAbhAse) jano gaNayati vyavadhAnam |
+(sR^iShTermUlakando bhAsA bhAsAyAH) sR^iShTermUlaskandhe bhAsAyAM  pallavaH sR^iShTiH || 41|| (46)
+
+nijabalanibhAlanameva varivasyA sA cha durlabhA loke |
+sulabhAni vishvapaterAsavatAmbUlagandhapuShpANi || 42|| (36)
+
+vimraShTuM nijasattvaM vibhave kAryonmukhe stimite.api |
+bAhyavR^ittAntAnAM bha~NgaH prANasya saMyamo j~neyaH || 43|| (37)
+
+shoSho malasya nAsho dAha etasya vAsanochChedaH |
+AplAvanaM tanUnAM j~nAnasudhAsekanirmitA shuddhiH || 44|| (38)
+
+avikalpatayA vimarsho vikalpavargasyA~NgasannAhaH |
+arghyaM vedyavilAsaH puShpANi svabhAvapoShakAH bhAvAH || 45|| (39)
+
+pUrNAhantAyA mukhe vishvavikalpA~NkurANAM vikShepam |
+mantrollekhavishuddhaM puNyaM kulabindutarpaNaM bhaNAmaH || 46|| (40)
+
+yo yasya bhAvayogastasya khalu sa eva devatA bhavati |
+tadbhAvabhAvitA abhilaShita tathA phalanti pratimAH || 47||
+
+chitraM na likhati chitraM chitrakaraH pashyata likhati tachchitram |
+tad bhaNata kutra yogyA kartuM dvayorapi (riti) devatAbuddhiH || 48|| (47)
+
+mananamayI nijavibhave nijasa~Nkochabhaye trANamayI |
+kavalitavishvavikalpA anubhUtiH kApi mantrashabdArthaH || 49|| (48)
+
+vaikhari(kA) nAma kriyA j~nAnamayI bhavati madhyamA vAk |
+ichChA punaH pashyantI sUkShmA sarvAsA samarasA vR^ittiH || 50|| (49)
+
+AnandollAsashrIH kShullakitAShTamahAsiddhisaubhAgyA |
+dR^ishyate yatra dashAyAM saiva devasya sarva(mahA)mudrAH || 51|| (50)
+
+hR^idayasthAnaprarUDho vimarshakalpadrumo mahAshAkhaH |
+puShpyati bhogashriyA phalati cha niShkalasukhotsavAlokam || 52|| (51)
+
+kramiko bhavati na devastasya kathaM kAlakalmaShasparshaH |
+nityanirAvaraNasyApi (ko jIvato mokShapratyUhaH) ko.api jIvanmuktipratyUhaH || 53|| (52)
+
+yat kimapi yena kenApi rUpeNa yatra kutrApi kiM nAsti |
+tasmAdAtmA nityasthiraH kShaNabha~Nga evAsthiro bhavati || 54|| (53)
+
+nanvAtmanaH priyArthaM sarvasya priyatvaM bhaNati shrutiH |
+tasmAdAnandasvabhAva AtmA mukto.amukto vA || 55|| (54)
+
+yadi nijahR^idayollAsaM nirNetuM nityaniShkalamichChA |
+madhyatuTistruTitavyA asta~NgatayoH somasUryayosttarhi || 56|| (55)
+(madhyatuTistruTitavyA.astra yatoH somasUryayoH ||)
+
+sthUlatareShvapi prekShadhvaM bhUteShu khasya niShkalAvasthAm |
+ShaTtriMshikAtila~NghI kIdR^isho bhavatu somanAthaH || 57|| (56)
+
+ye kulakumbhasudhAsavapAnamahAmakhotsave(mahotsavasukhe) pravartante |
+te khalu vikalpA~NkurasikA (vikalpA~NkurAn rasikA) upadaShTuM pragalbhante || 58|| (57)
+
+hanta mukhaM pratibimbatu pratibimbayatu tathA tadapi darpaNaH |
+darpaNaH punaryasmin pratibimbati so.api j~nAtavyaH || 59|| (58)
+
+avikArobhayapArshve chAShapi~njasadR^ikShe.arthe |
+antarmukho yogI bahirmukha iti kalpanA kutaH || 60|| (59)
+
+yogI jAgarasvapnasuShuptyavasthAtrayasya(sauShuptaturIyaparva)paripATim |
+chitrAmiva maNimAlAM vimarshasUtraikagumphitAmudvahati || 61|| (60)
+
+ullokAnandasudhAshIdhurasodvejitena hR^idayena |
+abhilaShati lokayAtrAM tintiNicharvaNarasAntaraM yogI || 62|| (61)
+
+yAbhirgR^ihNAti yogI karaNapraNAlIbhirviShayasaukhyAni |
+nijahR^idayodvamanashIlAbhiH sphuraNamaya tAbhiH karoti trailokyam || 63|| (62)
+
+yathA tava sthitistathAssva nishchinta iti ((khalu) pratiShThito.arthaH |
+tatrApyasti viveka evamupadishati ta(ka)sya ko.anyaH || 64|| (63)
+
+aho saMsArasukhakelI (saMsArasukhAtishayaH) aho sulabhaM mokShamArge saubhAgyam  (mokShamArgasaubhAgyam) |
+truTitAta~Nkakala~NkA aho shivayoginAM yAmalI siddhiH || 65|| (64)
+
+kShaNamAtraspR^iShTenApyamR^itasvabhAvena j~nAnabhAvena |
+sarvottirNaH sarvaH sarvachiraM labhate sarvasaubhAgyam || 66|| (66)
+
+gUDhAdguDhataro  yo bhavati sphuTAdapi sphuTatara eShaH |
+daishikakaTAkShapAte pakShaH prathamo na bhavati dhanyAnAm || 67|| (66)
+
+AstAmanyA vidyAshchatuHsrotasAmapi sAgarANAmiva |
+enamevAmR^itamayaM mathnAti manthAnabhairavo devaH || 68|| (67)
+
+hanta rahasyaM bhaNAmo muDhA  mA bhramata garbhagoleShu |
+atyAsanna hR^idaya paryAlochayata tasyodyogam || 69||
+
+enameva mahArthaM yuddhArambhe pANDuputrasya |
+ShoDashasahasrashaktirdeva upadishati sma mAdhavaH (iti shivam) || 70|| (69)
+
+itthaM prAkR^itasUtrasaptatisamullAsaikasandhAyinIM
+jAgrattatkShaNanirvisheShasvapnAvatIrNAM pratij~nottarAm |
+lokolla~NghanayogyasiddhipadavIprasthAnabaddhodyamAM
+kanthAshUlakapAlamAtravibhavAM vande tAM yoginIm || 71|| (70)
+
+iti gurumukhAmnAyanyAyAnmahAkramama~njarI\-
+parimalamimaM shiShyapremNA babandha maheshvaraH |
+kanakasadaso madhye nR^ityanniva prabhuradbhutaM
+yadiha sulabhaH sAkShAtkartuM vimarshamayaH shivaH ||
+
+gAthAnAmanubhAShaNaM tadanu tachChAyA tato vyAkR^iti\-
+rgranthArthagrathanakriyAsu gahano hR^idyashcha kashchit kramaH |
+saMvAdoktisahasrasa~NkalanayA tattvArthacharchotsavaH
+saubhAgyashcha vimarshasampada iti prasthAnamadhyakShyatAm ||
+
+cholAste satatotsavA janapadAH shlAghyo guNairmAdhavo
+retodhAH sphaTikAvadAtahR^idayo nAthaH prakasho mahAn |
+srotaH svachChamanuttaraM pariNataM pANDityamAsthAdhikA
+vashyA vAgiti hanta tantrakR^idasau sarvottaro vartate ||
+
+yo me vAmachamatkriyodyamamayaH stabdho.api sannashnute
+vishvaM vyApnuvatashchidadvayamahashchandrodayAd vikriyAm |
+tasyAhlAdamahArNavasya na kathaM vardheta kUla~NkaSho
+vAgvikShobhavijR^imbhayA bahumukhaM kallolahallohalaH ||
+
+kAveryA iva mAdhuryaM kahlArasyeva saurabham |
+naTeshasyeva tannR^ittamasya granthasya gauravam ||
+
+vishvotpattivipattibhUH sa bhagavAnatra pravaktA shiva\-
+stasyAhaM pratishabdaparvataguhA yanme na garvagrahaH |
+taddoSho.astu guNo.api vA na khalu tat svAyattamitthaM sthite
+mAtsaryaM mahatAmudetu yadi vA vAtsalyamujjR^imbhatAm ||
+
+adhivAsayatu sadA mukhamanyakathAlepalabdhadaurgandhyam |
+karpUrashakala iva me shiva shiva iti shItalaH shabdaH ||
+
+|| iti shrIgorakShAparaparyAyamaheshvarAnandavirachitA
+                   mahArthama~njarI samAptA ||
+
+kAlachakraghaTIyantrakalpanAmUlashilpine |
+namH svachChandachinmAtraparibarhAya shambhave ||
+pAdukodayamahArthama~njarIkomalAstavaparAstutikramaiH |
+sphArayan bhuvi mahArthasaMvidaM deshiko vijayate maheshvaraH ||
+jayatyamUlamamlAmamautaraM tattvamadvayam
+spandAspandaparispandamakaradamahotpalam ||
+
+|| shubhamastu  ||
+
+##
+From Muktabodha Indology Research Institute Library muktalib5.org
+Reproofread by DPD. parimalavyAkhyA is added.
+
+
+\medskip\hrule\obeylines
+
+Please send corrections to sanskrit at cheerful dot c om
+Last updated \today
+https://sanskritdocuments.org
+
+\end{document}
