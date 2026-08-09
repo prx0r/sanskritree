@@ -47,17 +47,35 @@ _DIACRITIC_MAP = {
 
 
 def normalize(token: str) -> str:
-    """Strip diacritics + punctuation for matching. 'khecarī' == 'khecari'."""
+    """Strip diacritics + punctuation for matching. 'khecarī' == 'khecari'.
+
+    Anusvāra (ṃ) before a consonant is normalized to the homorganic nasal,
+    so 'gaṃgā' == 'gaṅgā' == 'ganga' (orthographic variants of one sound).
+    """
     out = []
     i = 0
     while i < len(token):
         two = token[i:i + 2]
-        if two in ("ai", "au", "kh", "gh", "ch", "jh", "ṭh", "ḍh", "th", "dh", "ph", "bh", "ṅ", "ñ", "ṇ", "ṭ", "ḍ", "ṃ", "ḥ", "ś", "ṣ"):
+        if two in ("ai", "au", "kh", "gh", "ch", "jh", "ṭh", "ḍh", "th", "dh", "ph", "bh", "ṅ", "ñ", "ṇ", "ṭ", "ḍ", "ḥ", "ś", "ṣ"):
             out.append(_DIACRITIC_MAP.get(two, two))
             i += 2
             continue
         ch = token[i]
-        out.append(_DIACRITIC_MAP.get(ch, ch))
+        if ch == "ṃ" and i + 1 < len(token):
+            nxt = token[i + 1]
+            # homorganic nasal of the following consonant
+            if nxt in "kkgghṅ":
+                ch = "ṅ"
+            elif nxt in "ccjjhñ":
+                ch = "ñ"
+            elif nxt in "ṭṭḍḍhṇ":
+                ch = "ṇ"
+            elif nxt in "ttddhn":
+                ch = "n"
+            elif nxt in "ppbbhm":
+                ch = "m"
+        # final/standalone anusvāra == m (editions write cittaṃ ~ cittam)
+        out.append("m" if ch == "ṃ" else _DIACRITIC_MAP.get(ch, ch))
         i += 1
     return "".join(out).lower()
 
