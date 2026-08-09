@@ -47,18 +47,18 @@
 
 | Text | On-disk | Anchor | Lexicon-gain |
 |------|---------|--------|--------------|
-| Jñānakārikā (the bundle's third text) | ✅ M00028-adjacent | none | the kārikā-register |
-| Kaulopaniṣad | ✅ | none | the upaniṣad-layer of the Kaula |
-| Kaularahasya (316KB) | ✅ M00326 | none | the rahasya-genre |
+| ✅ Jñānakārikā (the bundle's third text — T1 done) | ✅ M00024 | none | the kārikā-register |
+| ☐ Kaulopaniṣad | [ACQ — not in the library] | none | the upaniṣad-layer of the Kaula |
+| ☐ Kaularahasya (316KB) | ✅ M00326 | none | the rahasya-genre |
 | Kulārṇavatantra | ✅ M00031 | partial (published translations exist) | the kulācāra-doctrine |
-| Kulacūḍāmaṇi (opening done) | ✅ M00402 | Avalon's edition | the nigama-register |
-| Kulārṇavatantra — **print secured** | ✅ M00031 + `round2/jivananda/kularnava_tantra_1898.pdf` | partial | the kulācāra-doctrine (collatable!) |
-| Kulānanda — **commentary secured!** | ✅ + `round2/jivananda/kulayananda_chandrika_1877.pdf` | the Chandrikā (OCR-pending) | our text's own commentary layer — a new anchor |
-| Kulasāra ×2 (opening done) | ✅ M00285/M00294 | none | the sāra-genre |
-| Kulavṛtti · Kulapradīpa · Kuladīpikā | ✅ M00331/M00068/M0230 | none | the kula-lexicon's range |
-| Kulālaśāstra · Kulamuktikallolinī | ✅ M00274/M00318 | none | the ritual-legal register |
-| Kaulāvalīnirṇaya (opening done) | ✅ M00231 | none | the canon-map (the text cites the kula's books) |
-| Nityākaulatantra (opening done) | ✅ M00316 | none | the pre-Śrīvidyā Nityās |
+| ☐ Kulacūḍāmaṇi (opening done → full) | ✅ M00402 | Avalon's edition | the nigama-register |
+| ☐ Kulārṇavatantra — **print secured** | ✅ M00031 + `round2/jivananda/kularnava_tantra_1898.pdf` | partial | the kulācāra-doctrine (collatable!) |
+| ✅ Kulānanda — **done** (the commentary secured!) | ✅ + `round2/jivananda/kulayananda_chandrika_1877.pdf` | the Chandrikā (OCR-pending) | our text's own commentary layer — a new anchor |
+| ☐ Kulasāra ×2 (opening done → full) | ✅ M00285/M00294 | none | the sāra-genre |
+| ☐ Kulavṛtti · ☐ Kulapradīpa · ☐ Kuladīpikā | ✅ M00331/M00068/M0230 | none | the kula-lexicon's range |
+| ☐ Kulālaśāstra · ☐ Kulamuktikallolinī | ✅ M00274/M00318 | none | the ritual-legal register |
+| ☐ Kaulāvalīnirṇaya (opening done → full) | ✅ M00231 | none | the canon-map (the text cites the kula's books) |
+| ☐ Nityākaulatantra (opening done → full) | ✅ M00316 | none | the pre-Śrīvidyā Nityās |
 | Kulānandādi · Azeṣakulavallarī (done) | ✅ | none | |
 | Kaulārcanadīpikā (Jñānatantra) | ✅ M00633 | none | the worship-paddhati |
 
