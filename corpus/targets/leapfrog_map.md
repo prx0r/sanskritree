@@ -4,7 +4,16 @@
 
 ---
 
-## The route at a glance
+## The batch-translation guide (the map as the steering document)
+
+**How the map is used:** each batch picks ONE hop, works its texts through the full stack (T1 → R1 → T2 → R2 → T3 → C1) in groups, updates STATUS, and moves on. The hop's anchors are the verification layer; the glossary gains are the next hop's entry-ticket. The acquisitions are marked in the hop-tables (🔓 = anchor newly secured).
+
+**The immediate batch order (given what is now on disk):**
+1. **Hop 1 finish** — the Jñānakārikā + Kaulopaniṣad + Kaularahasya (the bundle's last texts), THEN the kula-manuals — with the **Bagchi collation** resolving the [X]-backlog as we go, and the Chandrikā (post-OCR) anchoring the Kulānanda's R2.
+2. **Hop 10's entry** — the **Tarkasaṃgraha full translation** (anchors in: the 1872 English + Athalye): the Navya hop's on-ramp, doable now.
+3. **Hop 3 (the Krama)** — the Mahānayaprakāśa, the crown: start while Hop 1's collation runs.
+
+**The route at a glance**
 
 ```
 [WE ARE HERE — Kaula core, 6 works T1-complete]
@@ -43,6 +52,8 @@
 | Kaularahasya (316KB) | ✅ M00326 | none | the rahasya-genre |
 | Kulārṇavatantra | ✅ M00031 | partial (published translations exist) | the kulācāra-doctrine |
 | Kulacūḍāmaṇi (opening done) | ✅ M00402 | Avalon's edition | the nigama-register |
+| Kulārṇavatantra — **print secured** | ✅ M00031 + `round2/jivananda/kularnava_tantra_1898.pdf` | partial | the kulācāra-doctrine (collatable!) |
+| Kulānanda — **commentary secured!** | ✅ + `round2/jivananda/kulayananda_chandrika_1877.pdf` | the Chandrikā (OCR-pending) | our text's own commentary layer — a new anchor |
 | Kulasāra ×2 (opening done) | ✅ M00285/M00294 | none | the sāra-genre |
 | Kulavṛtti · Kulapradīpa · Kuladīpikā | ✅ M00331/M00068/M0230 | none | the kula-lexicon's range |
 | Kulālaśāstra · Kulamuktikallolinī | ✅ M00274/M00318 | none | the ritual-legal register |
@@ -50,6 +61,8 @@
 | Nityākaulatantra (opening done) | ✅ M00316 | none | the pre-Śrīvidyā Nityās |
 | Kulānandādi · Azeṣakulavallarī (done) | ✅ | none | |
 | Kaulārcanadīpikā (Jñānatantra) | ✅ M00633 | none | the worship-paddhati |
+
+**Acquisition:** the **Bagchi 1934 print is secured** (`round2/bagchi_kjn_1934.txt`) — the corrupt-pāda collation is unblocked; the **Kulānanda's Chandrikā commentary** and the **Kulārṇava print** (OCR-pending) join the hop's anchors.
 
 **Gems:** the Kulānanda/Akulavīra bundle-dialectic (the kula's machinery vs the akula's demolition) is the hop's commentary-theme; the Kaulāvalīnirṇaya's canon-list is the map of the hop itself.
 
@@ -142,7 +155,7 @@
 | Text | Anchor | Notes |
 |------|--------|-------|
 | **Jhā's Nyāyasūtras + Bhāṣya + Vārttika** (✅ downloaded) | the anchor itself | the classical layer in one book |
-| Nyāyasūtra (GRETIL, rendered in CP3) | Jhā ✓ | our first Nyāya work |
+| Nyāyasūtra (GRETIL, rendered in CP3) | Jhā ✓ + **the Jīvānanda print** (`round2/jivananda/nyayadarsana_bhasya_1874.pdf`) | our first Nyāya work — collatable |
 | Vaiśeṣikasūtra + Padārthadharmasaṃgraha (GRETIL) | none | the ontology-pole |
 
 ## HOP 9 — Classical Nyāya (the Kashmir layer)
@@ -167,7 +180,7 @@
 | Text | Source | Anchor | Notes |
 |------|--------|--------|-------|
 | **Tattvacintāmaṇi (Gaṅgeśa)** | ✅ on disk (all chapters!) | partial | the Navya crown — the whole text in our library |
-| Tarkasaṃgraha + Dīpikā (Annaṃbhaṭṭa) | ✅ GRETIL + 4 commentaries on disk | Athalye/Ghoṣa [ACQ — public domain] | the entry-level Navya — the natural first full translation |
+| Tarkasaṃgraha + Dīpikā (Annaṃbhaṭṭa) | ✅ GRETIL + 4 commentaries + **Athalye's text-layer** (`round2/athalye_tarkasamgraha.txt`) + **an 1872 English translation** (`round2/jivananda/tarkasamgraha_english_1872.pdf`, OCR-pending) | the 1872 + Athalye — **anchors in!** | the entry-level Navya — the natural first full translation |
 | Śabdaśaktiprakāśikā · Pākṣaṭā · Kevalānvayi · Sāmānyanirukti | ✅ corpus/nyaya/navya (PDFs — OCR first) | none | the navya corpus |
 | Nyāyasiddhāntamuktāvalī · Bhāṣāpariccheda | ✅ corpus (PDFs) / [ACQ] | none | |
 | Padārthatattvanirūpaṇa (Raghunātha) | [ACQ] | none | the radical navya |
