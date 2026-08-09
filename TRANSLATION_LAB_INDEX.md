@@ -17,7 +17,9 @@
 | 7 | **The Glossary** | `truth/period_glossary_pass1.md` | the living lexicon (11 core terms, cross-text attestations) |
 | 8 | **The Progress Myth** | `truth/PROGRESS_MYTH.md` | the journey + the apprentice's path + the honest pass-2 ledger |
 | 9 | **Audit 1** | `truth/PASS2_AUDIT.md` | round-1 verification (the first batch) |
-| 10 | **Audit 2** | `truth/PASS2_ROUND2_AUDIT.md` | round-2: the complete-text audit, the commentary-stubs A–H, the biography-blocks |
+| 10 | **Audit 2** | `translations/_meta/PASS2_ROUND2_AUDIT.md` | round-2: the complete-text audit, the commentary-stubs A–H, the biography-blocks |
+| 11 | **THE PIPELINE** | `translations/README.md` + `translations/STATUS.md` | the phase-structure (T1→C1) and the live status board |
+| 12 | **THE CRAFT** | `translations/_meta/REF_NOTES.md` | the attitude per pass, the context-stack, the gems, the objectivity protocol — read before every session |
 
 ## 2. The translations (15 works)
 
