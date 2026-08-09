@@ -66,6 +66,24 @@
 - 189 verses adjudicated and interpreted (the crux-set) + the school-batch's new verses
 - ~1,600–1,800 verses in T1 across 15 works (+ ~340 legacy) + **the Hop-1 kula-batch (2026-08-09)** + **the school-batch: Kubjikāmata paṭala 1, Tantrāloka āhnika 1 (1–19), Mahānayaprakāśa opening, Mahārthamañjarī maṅgala, Kaularahasya 4–5, Kulapradīpa 2, the Ajaḍapramātṛsiddhi cycle, the Spandakārikā anchor-check**
 
+## The 24-lemma corpus (the reference map's corpus-learning phase, 2026-08-09)
+
+| File | Lemmas | Key loci |
+|------|--------|---------|
+| `saivamap/dossiers/samvit.md` | saṃvit | MNP 509/527/598; MM m.11, colophon |
+| `saivamap/dossiers/spanda.md` | spanda | SPK 1.1/1.6; MM m.2, g.7 |
+| `saivamap/dossiers/vimarsa.md` | vimarśa | ĪPK 1.5.11–14; TĀ 33; MM m.5, g.2 |
+| `saivamap/dossiers/kula.md` | kula | KJN 3/9; KMT 1.1, 17.77–82; KRH 1.17; KPD 1-16; TĀ 3.143 |
+| `saivamap/dossiers/krama.md` | krama | TĀ 1.5; KMT 1.1; MNP; JKK 2.22; KPD 1-22 |
+| `saivamap/dossiers/malini.md` | mālinī | KMT 1.71–80 |
+| `saivamap/dossiers/prakasa-visarga-anuttara.md` | prakāśa · visarga · anuttara | TĀ 1.1/1.5; M00092:76/81/42; MM g.2 |
+| `saivamap/dossiers/matrka-khecari.md` | mātṛkā · khecarī | ŚS 1.4/2.7; KMT; TĀ 32 |
+| `saivamap/dossiers/akula-sakti-parmarsa-svatantrya.md` | akula · śakti · parāmarśa · svātantrya | KMT 1.1/1.71; TĀ 1.5, M00092:54/59; ŚS 1.13; MNP; TĀ 33.20–29 |
+| `saivamap/dossiers/avesa-samavesa-uccara-vyapti-sunya.md` | āveśa · samāveśa · uccāra · vyāpti · śūnya | TĀ M00092:32/172/322, 2473/2611; MNP; JKK 3/13 |
+| `saivamap/dossiers/samhara-srsti-cakra-mantra.md` | saṃhāra · sṛṣṭi · cakra · mantra | SPK 1.1/1.6; ŚS 2.7; KRH; KMT 1.75; KAD |
+
+*All 24 lemmas from the reference map's list covered, with the sense-trajectory per tradition, concordance-verified key passages, and the working translation-policy. The counts measure corpus-representation (Dyczkowski-selection), not influence.*
+
 ## The reference stack (consult before each batch)
 
 | Doc | Role | Where |
