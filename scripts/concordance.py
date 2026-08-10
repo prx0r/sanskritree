@@ -172,6 +172,7 @@ def main() -> int:
     ap.add_argument("--context", type=int, default=1, help="context lines around each hit")
     ap.add_argument("--texts", default=None, help="only files whose name contains this substring")
     ap.add_argument("--max", type=int, default=100, help="cap hits shown per text (0 = all)")
+    ap.add_argument("--json", action="store_true", help="emit structured JSON instead of the text report")
     args = ap.parse_args()
 
     norm_terms = [normalize(t) for t in args.terms]
@@ -181,15 +182,40 @@ def main() -> int:
     if args.texts:
         index = {fname: v for fname, v in index.items() if args.texts.lower() in fname.lower()}
 
-    print(f"# Concordance: {', '.join(args.terms)}")
-    print(f"# Corpus: {len(index)} raw e-texts (Muktabodha + local GRETIL) — translations excluded\n")
+    if not args.json:
+        print(f"# Concordance: {', '.join(args.terms)}")
+        print(f"# Corpus: {len(index)} raw e-texts (Muktabodha + local GRETIL) — translations excluded\n")
 
     per_file = find_hits(index, norm_terms)
     grand_total = sum(len(v) for v in per_file.values())
 
     if not per_file:
+        # A zero-hit result is a valid, structured answer in JSON mode (exit 0 so
+        # the API/subprocess wrapper can consume it); the text report prints a note.
+        if args.json:
+            print(json.dumps({"terms": args.terms, "corpus": len(index), "texts": 0, "total": 0, "results": {}}))
+            return 0
         print("(no hits in the raw corpus)")
         return 1
+
+    if args.json:
+        results: dict[str, dict] = {}
+        for fname, hits in sorted(per_file.items(), key=lambda x: -len(x[1])):
+            lines = read_file_by_name(fname)
+            shown = hits if args.max == 0 else hits[:args.max]
+            results[fname] = {
+                "count": len(hits),
+                "occurrences": [
+                    {
+                        "line_no": h + 1,
+                        "text": lines[h].strip() if h < len(lines) else "",
+                        "context": [lines[i].strip() for i in range(max(0, h - args.context), min(len(lines), h + args.context + 1))],
+                    }
+                    for h in shown
+                ],
+            }
+        print(json.dumps({"terms": args.terms, "corpus": len(index), "texts": len(per_file), "total": grand_total, "results": results}, ensure_ascii=False))
+        return 0
 
     for fname, hits in sorted(per_file.items(), key=lambda x: -len(x[1])):
         lines = read_file_by_name(fname)
