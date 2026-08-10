@@ -68,3 +68,4 @@ truth/graph2
 truth/logicframework2
 truth/postfrontier
 .concordance_index.json
+data/datasets/*.json
